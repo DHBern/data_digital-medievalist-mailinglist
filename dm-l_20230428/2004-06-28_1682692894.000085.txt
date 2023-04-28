@@ -1,0 +1,39 @@
+Subject: Re: [dm-l] MS-Internet Explorer 6 and standards based computingHi there,At 06:48 AM 28/06/2004, you wrote:
+>  Leaving aside the server vs. client side serving of xml for a minute (do 
+> most people still not convert xml to (x)html and serve static pages?), 
+> surely it isn't that hard to produce pages that work on both Internet 
+> Explorer and proper browsers?For the last year or two, it's been very practical do to this. The output 
+from the current generation of our Hot Potatoes authoring tools is 
+standards-compliant XHTML 1.1, CSS and JavaScript, and these highly complex 
+and interactive pages work on IE6, Mozilla/Firefox, Opera 7.5+ and Safari. 
+The ONLY browser-sniffing code we use these days concerns areas where the 
+standards are not clear (such as how to calculate the size of the browser 
+window viewport or document area), and this is abstracted into a couple of 
+common JavaScript functions. In previous versions of our software, up to 
+one third of the code in the pages was concerned with browser-sniffing and 
+branching to handle relatively simple functionality such as drag-and-drop. 
+We no longer need to waste all that work.There's no doubt in my mind that the current generation of browsers is the 
+most broadly standards-compliant set we have ever been able to write for, 
+and life for Web developers has consequently never been better; we have a 
+pretty rich feature set, a working DOM implementation with good APIs, and 
+stable long-term standards to write to. I'd love to have everything CSS3 
+promises (or even the last few bits of CSS2 that still aren't supported), 
+but what we have is enough to create rich, interactive documents and 
+Websites which fully validate and will not break in the future. There's no 
+need for the misery of Java applets either, unless you need to save and 
+load files locally or something like that.One shameful admission -- in our JavaScript DOM code we do use "innerHTML", 
+a Microsoft-spawned property which is not part of the W3C DOM API, but 
+which is supported by all browsers, and which, to be frank, is a pretty 
+good idea that saves a lot of code. If it didn't exist, we'd have to write 
+a similar function ourselves (not hard, but time-consuming and surely 
+slower than the native browser implementations).My 2 cents,
+Martin
+______________________________________
+Martin Holmes
+University of Victoria Humanities Computing and Media Centre
+_redacted_(a)uvic.ca
+_redacted_(a)mholmes.com
+_redacted_(a)halfbakedsoftware.com
+http://www.mholmes.com
+http://web.uvic.ca/hcmc/
+http://www.halfbakedsoftware.com

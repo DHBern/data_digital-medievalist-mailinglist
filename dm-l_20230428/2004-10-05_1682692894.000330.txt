@@ -1,0 +1,94 @@
+Subject: [dm-l] How's this for a model for the future? (was: CharacterHello all,
+	I've just tried summarising today's discussion in a wiki entry. I'd be 
+interested in what people think of this as an approach to capturing 
+collective knowledge. Obviously we wouldn't have the time to summarise 
+every thread, and all this information is available in the mailing list 
+archive. But sometimes if one has had particular help from the list, it 
+might be useful to try writing up an entry.	This model is also good because it is bad (well, not perfect). I 
+haven't gone through and got character and glyph right; I don't know 
+what the UTF-8 encoding of U+00E6 actually looks like; there are 
+certainly more resources or better ways of saying things. Fortunately 
+one expects these things to change over time. I would be interested in 
+knowing if people have suggesting for indicating confidence in an entry 
+(i.e. the author's confidence). Does one indicate in the discussion tab 
+that it is a first draft or point out errors, uncertainties one knows exist?	If we had a standard system, people could every so often troll through 
+looking for things they know how to correct.-danP.S. Somebody at work was asking me how we enforce spelling standards on 
+a wiki, given how weird I spell (i.e. all that uber-canadian -ise 
+stuff). I told him one doesn't unless it really bugs one, and then one 
+does it oneself.Dieter Köhler wrote:
+> Hello Dan,
+> 
+> You may use my Open XML Editor ("http://www.philo.de/xmledit/") to 
+> transcode XML documents from UCS-4 to UTF-8.  The editor currently 
+> supports a couple of input formats, but only UTF-8 as output format.  
+> Loading the document and using the "save as ..." function should do the 
+> job.  Be careful: just saving the document will replace the original 
+> with a UTF-8 version.
+> 
+> Note also that this is not a simple character by character 
+> transformation.  Instead, a model of the XML document is internally 
+> built and this model is then serialized.  This implies that
+> - the transformation might not work if the input XML document is not 
+> wellformed,
+> - some additional normalization of the XML document takes place (in 
+> particular: whitespace between markup in the XML prolog, i.e. before the 
+> first tag, is normalized to line breaks, empty elements are expanded, 
+> e.g. <foo/> becomes <foo></foo>, and character references are expanded),
+> - external entities are not transcoded.
+> 
+> A step-by-step explanation in German how the transformation from UCS-4 
+> into UTF-8 works is included in my draft about "Zahlen- und 
+> Zeichencodierung", available at 
+> "http://philo.de/lv/multimedia/codierung.html".  Non-German speakers may 
+> find some useful links to English Web-pages about this topic there as well.
+> 
+> Dieter Köhler
+> 
+> 
+> 
+> At 12:53 05.10.2004 -0600, Daniel O'Donnell wrote:
+> 
+>> Digital Medievalist Journal (Inaugural Issue Fall 2004). Call for 
+>> papers: http://www.digitalmedievalist.org/cfp.htm
+>> ----------------
+>> Hello all,
+>>         I need some advice on converting Unicode character references. 
+>> Currently, am encoding character references in what I believe is UCS-4 
+>> format (Universal Character Set). This means they look like this in my 
+>> source files:
+>>
+>> &#x1090;
+>>
+>> I want to import xhtml documents into Open Office, which seems to need 
+>> UTF-8 encoding (I don't know what UTF stands for). Does anybody know 
+>> of a filter that might do the conversions for me? Or have advice on 
+>> using open office (Windows version) with UCS-4 encoding?
+>>
+>> -dan
+>> -- 
+>> Daniel Paul O'Donnell, PhD
+>> Associate Professor of English
+>> University of Lethbridge
+>> Lethbridge AB T1K 3M4
+>> Tel. (403) 329-2377
+>> Fax. (403) 382-7191
+_redacted_(a)uleth.ca>
+>> Home Page <http://people.uleth.ca/~daniel.odonnell/>
+>>
+>>
+>> _______________________________________________
+>> Project web site: http://www.digitalmedievalist.org/
+>> dm-l mailing list
+_redacted_(a)uleth.ca
+>> http://listserv.uleth.ca/mailman/listinfo/dm-l
+> 
+> 
+> -- 
+Daniel Paul O'Donnell, PhD
+Associate Professor of English
+University of Lethbridge
+Lethbridge AB T1K 3M4
+Tel. (403) 329-2377
+Fax. (403) 382-7191
+_redacted_(a)uleth.ca>
+Home Page <http://people.uleth.ca/~daniel.odonnell/>

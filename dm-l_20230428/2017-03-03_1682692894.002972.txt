@@ -1,0 +1,110 @@
+Subject: [dm-l] First Call for Papers - DeriMo2017
+				=09
+---- First International Workshop on Resources and Tools for Derivational Mor=
+phology (DeriMo2017) ----FIRST CALL FOR PAPERSThe First International Workshop on Resources and Tools for Derivational Morp=
+hology (DeriMo2017) will be held in Milan (Italy) on 5 and 6 October 2017, at=
+ the Universit=C3=A0 Cattolica del Sacro Cuore (http://http://derimo2017.marg=
+inalia.it/).DeriMo2017 concludes the Word Formation Latin (WFL) project, funded by the Eu=
+ropean Union=E2=80=99s Horizon 2020 research and innovation programme under t=
+he Marie Sk=C5=82odowska-Curie grant agreement No 658332-WFL. The project is =
+based at the Centro Interdisciplinare di Ricerche per la Computerizzazione de=
+i Segni dell=E2=80=99Espressione (CIRCSE: http://centridiricerca.unicatt.it/c=
+ircse-home?rdeLocaleAttr=3Den), at the Universit=C3=A0 Cattolica del Sacro Cu=
+ore, Milan, Italy.Submissions are invited for presentations featuring high quality and previous=
+ly unpublished research on the topics described below. Contributions should f=
+ocus on results from completed as well as ongoing research, with an emphasis =
+on novel approaches, methods, ideas, and perspectives, whether descriptive, t=
+heoretical, formal or computational.Proceedings will be published, open-access, in time for the workshop.
+MOTIVATION AND AIMS
+Until very recently, in the areas of Language Resources and Natural Language =
+Processing (NLP), derivational morphology has always been neglected if compar=
+ed to inflectional morphology. Yet the recent rise of lexical resources for d=
+erivational morphology have demonstrated that enhancing textual data with der=
+ivational morphology tagging can lead to strong outcomes.
+First, it organises the lexicon at higher level than words, by building word =
+formation based sets of lexical items sharing a common derivational ancestor.
+Secondly, derivational morphology acts like a kind of interface between morph=
+ology and semantics, since core semantic properties are shared at different e=
+xtent by words built by a common word formation process.In the lively area of research aimed at building computational resources and =
+tools for ancient languages, the WFL project fills a gap in the variety of th=
+ose available for Latin, connecting lexical items on the basis of word format=
+ion rules. For a work-in-progress version of the resource, please visit http:=
+//wfl.marginalia.it.
+This workshop wants to be both an opportunity for the presentation of WFL to =
+the wider community, and a place where confrontation with other scholars enga=
+ged in the treatment of derivational morphology for different languages (eith=
+er modern or ancient) can arise, and potentials for the cross-linguistic shar=
+ing of techniques and methods can be discussed.=20
+TOPICSThe Workshop on Resources and Tools for Derivational Morphology aims at cover=
+ing a wide range of topics.In particular, the topics to be addressed in the workshop include (but are no=
+t limited to) the following:
+- resources for derivational morphology
+- connecting the derivational morphology level of annotation in language reso=
+urces with other levels of linguistic analysis (e.g. semantic, syntactic=E2=
+=80=A6)
+- (NLP) tools for the semi-automatic creation of resources for derivational m=
+orphology
+- (NLP) tools including components of derivational morphology
+- empirically based comparative and multilingual studies on derivational morp=
+hology
+- empirically based diachronic studies on derivational morphology
+- query tools for derivational morphology resources
+- theoretical issues in derivational morphology.
+INVITED SPEAKER: Pius ten Hacken (University of Innsbruck, Austria)
+IMPORTANT DATESDeadlines: always midnight, UTC ('Coordinated Universal Time'), ignoring DST =
+('Daylight Saving Time'):- Deadline for paper submission: 18 June 2017
+- Notification of acceptance: 24 July 2017
+- Final, camera-ready, version of paper: 10 September 2017
+- Workshop: 5-6 October 2017
+INSTRUCTIONS FOR SUBMISSIONWe invite to submit long abstracts describing original, unpublished research =
+related to the topics of the workshop. Abstracts should not exceed 6 pages (r=
+eferences included).
+The language of the workshop is English. All abstracts must be submitted in w=
+ell-checked English.Abstracts should be submitted in PDF format only. Submissions have to be made=
+ via the EasyChair page of the workshop at https://easychair.org/conferences/=
+?conf=3Dderimo2017. Please, first register at EasyChair if you do not have an=
+ EasyChair account.
+The style guidelines to follow for the paper can be found here: http://derimo=
+2017.marginalia.it/index.php/CfP/authors-kit.Please, note that as reviewing will be double-blind, the abstract should not =
+include the authors' names and affiliations or any references to web-sites, p=
+roject names etc. revealing the authors' identity. Furthermore, any self-refe=
+rence should be avoided. For instance, instead of "We previously showed (Brow=
+n, 2001)...", use citations such as "Brown previously showed (Brown, 2001)...=
+".
+Each submitted abstract will be reviewed by three members of the programme co=
+mmittee.The authors of the accepted abstracts will be required to submit the full ver=
+sion of their paper, which may be extended up to 10 pages (references include=
+d).
+ORAL PRESENTATIONSThe oral presentations at the workshop will be 30 minutes long (25 minutes fo=
+r presentation and 5 minutes for questions and discussion).
+PROGRAMME COMMITTEE CHAIRS
+Eleonora Litta Modignani Picozzi (Universit=C3=A0 Cattolica del Sacro Cuore, =
+Milan, Italy)
+Marco Passarotti (Universit=C3=A0 Cattolica del Sacro Cuore, Milan, Italy)PROGRAMME COMMITTEE MEMBERS
+Mark Aronoff (USA)
+Piermarco Bertinetto (Italy)
+Jim Blevins (UK)
+Giovanni Gobber (Italy)
+Nabil Hathout (France)
+Dag Haug (Norway)
+Gerd Haverling (Sweden)
+Andrew Hippisley (USA)
+Claudio Iacobini (Italy)
+Sandra K=C3=BCbler (USA)
+Rochelle Lieber (USA)
+Silvia Luraghi (Italy)
+Francesco Mambrini (Germany)
+Fiammetta Namer (France)
+Renato Oniga (Italy)
+Sebastian Pad=C3=B3 (Germany)
+Ren=C3=A1ta Panocov=C3=A1 (Slovakia)
+Vito Pirrelli (Italy)
+Lucie Pultrov=C3=A1 (Czech Republic)
+Jan Radimsk=C3=BD (Czech Republic)
+Savina Raynaud (Italy)
+Beno=C3=AEt Sagot (France)
+Magda =C5=A0ev=C4=8D=C3=ADkov=C3=A1 (Czech Republic)
+Andrew Spencer (UK)
+Pavel =C5=A0tichauer (Czech Republic)
+Marko Tadi=C4=87 (Croatia)
+Zden=C4=9Bk =C5=BDabokrtsk=C3=BD (Czech Republic)

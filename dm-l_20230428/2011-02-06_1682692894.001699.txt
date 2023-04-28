@@ -1,0 +1,32 @@
+Subject: Re: [dm-l] Mac helpHi, Dan,There are a handful of visual SVN clients for Mac OS, some of which do
+integrate with the finder. Personally, I use the command line svn utility.
+As far as navigating Unicode, there is the built-in Character Viewer,
+which serves me well.
+Best,
+Grant_redacted_(a)uleth.ca> wrote:>Hi all,
+>
+>I have a new research assistant who is going to be helping us at the DM
+>journal. She's a Mac user, and to get her set up, I'd appreciate any
+>advice this list has for software for the following:
+>
+>1) SVN client (we use subversion for our journal back end and she'll
+>need access; I'm assuming the Mac Version of Oxygen comes with the same
+>SVN client the other versions do, but it might be nice to have a
+>separate svn client as well--something like turtleSVN for Windows.
+>
+>2) Unicode navigator--is there a standard code point navigator for Mac?
+>Almost right away we're going to have her putting in some greek and
+>mathematical symbols in an article: is there a utility for browsing and
+>search code points?
+>
+>-dan
+>
+>Digital Medievalist --  http://www.digitalmedievalist.org/
+>Journal: http://www.digitalmedievalist.org/journal/
+>Journal Editors: editors _AT_ digitalmedievalist.org
+>News: http://www.digitalmedievalist.org/news/
+>Wiki: http://www.digitalmedievalist.org/wiki/
+>Twitter: http://twitter.com/digitalmedieval
+>Facebook: http://www.facebook.com/group.php?gid=49320313760
+_redacted_(a)uleth.ca
+>Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l

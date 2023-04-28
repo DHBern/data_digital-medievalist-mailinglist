@@ -1,0 +1,165 @@
+Subject: Re: [dm-l] small and large collectionsDear list members,Sincere thanks to all of you who replied on- or off-list with 
+information on small and large collections. My point of interest was 
+what happens to small digital (manuscript) collections (running their 
+own web sites or portals) when they get aggregated into some large 
+collection or digital library. How does this double modus vivendi look 
+like with regard to the visibility of the original small collection, 
+once aggregated into the large one?The examples (that you helped me to collect) prove that the answer to 
+this question is not straightforward and unambiguous at all. There is a 
+range of practices how the web-design of the large collection represents 
+the original data and how it redirects (or not) the user to the original 
+collection.To give an example, The European Library and Europeana seem to be two 
+similar large aggregators. But in fact, there is a serious difference: 
+The European Library strives to represent only the minimal metadata and 
+a small informative thumb picture of the primary material, where the 
+links to the original collection are visibly exposed to the user, who is 
+graphically "encouraged" to visit the original contributor. In my view, 
+this is an example of fair balance between the interests of the 
+aggregator and the contributor. If we have a look to the same material 
+in Europeana, on the other hand, we find that the interface is designed 
+rather to retain the user on the Europeana pages: it gives a bigger 
+image and the user is "warned" that he/she will leave the Europeana 
+pages (the link to the original collection is labelled "View item at 
+..."). Examples from other areas -- e.g. language technologies -- reveal 
+even more drastic conflicts. In the area of manuscript studies however, 
+in my opinion, MESA is by far the best aggregator. In the search-results 
+area, a small "card" with metadata and a thumb-image invite the user to 
+go deeper, and by one click, we come to the original collection.In the field of Digital Humanities, there are "small" and "big players", 
+as we can call them. This is inevitable. Often, the big players are big 
+because they manage to attract and aggregate many small players. Yet, is 
+is true that the detail, analysis, commentary -- most of what in 
+Humanities constitutes the "quality" -- is provided by the small 
+players, while the big players, on the contrary, provide evidence, 
+quantity, and infrastructure. The two roles are profoundly different, 
+clearly. The rules which should govern a "fair aggregation", however, 
+are not so clear. Hopefully, good practise will establish them.Regards,
+Matija Ogrin
+-- 
+Matija Ogrin, Ph.D.
+Register of Early Modern Slovenian Manuscripts (NRSS)
+<http://ezb.ijs.si/nrss/>
+Research Centre of Slovenian Academy of Sciences and ArtsDaniel O'Donnell je 28. 11. 2015 ob 20:21 napisal:
+> It's by no means an off-topic question. Please let us know the results
+> of your research!
+>
+_redacted_(a)nd.edu
+_redacted_(a)nd.edu>> wrote:
+>
+>     Check out the CANTUS database, which is the basic search engine for
+>     medieval musicologists. You will see that many of the MSS in the
+>     database are linked to images that can be found on other sites, a
+>     greatly useful feature.  It might be a good example for you as it is
+>     heavily trafficked.
+>     Margot Fassler
+>     Keough Hesburgh Professor of Music History and Liturgy
+>     Director, Program in Sacred Music
+>     University of Notre Dame
+>
+>     On Fri, Nov 27, 2015 at 9:57 AM, Gabriel BODARD
+_redacted_(a)sas.ac.uk>> wrote:
+>
+>         Dear Matija,
+>
+>         One example, which might or might not be the sort of thing you
+>         are looking for, is the catalogue of papyri at the University of
+>         Michigan, which is accessible both as a local catalogue
+>         (http://quod.lib.umich.edu/a/apis?page=index) and through the
+>         Papyri.info portal
+>         (http://papyri.info/search?COLLECTION=michigan). I think the
+>         data/metadata contained by the two sites is more or less the
+>         same, but Michigan may also maintain some catalogue data that
+>         isn't included in the APIS format that Papyri.info serve.
+>
+>         (I picked Michigan at random, but I'm sure at least a few of the
+>         other contributing APIS institutions
+>         [http://papyri.info/browse/apis/] also serve their collections
+>         locally as well as through Papyri.info.)
+>
+>         Hope this helps,
+>
+>         Gabby
+>
+>
+>         On 27/11/2015 14:39, Matija Ogrin wrote:
+>
+>             Dear Colleagues,
+>
+>             Can you please give any example of a (small) digital
+>             collection of
+>             manuscript or printed primary sources which, 1) operates as an
+>             independent web-portal AND also 2) their data are in some way
+>             included/aggregated into some large collection or digital
+>             library?
+>
+>             I am particularly interested in what happens as data pass
+>             from a "small"
+>             into a "large" digital resource? What kind of data are most
+>             suitable and
+>             frequent object of such aggregation in our area of digital
+>             humanities:
+>             only meta-data, or also msDesc, digital images,
+>             transcriptions? How
+>             "visible" is the original small collection after the
+>             aggregation? Etc.
+>
+>             I hope this is not an off-topic question. Thank you for any
+>             advice,
+>
+>             Matija
+>
+>
+>         --
+>         Dr Gabriel BODARD
+>         Reader in Digital Classics
+>
+>         Institute of Classical Studies
+>         University of London
+>         Senate House
+>         Malet Street
+>         London WC1E 7HU
+>
+_redacted_(a)sas.ac.uk>
+>         T: +44 (0)20 78628752 <tel:%2B44%20%280%2920%2078628752>
+>
+>         http://digitalclassicist.org/
+>
+>
+>         Digital Medievalist -- http://www.digitalmedievalist.org/
+>         Journal: http://www.digitalmedievalist.org/journal/
+>         Journal Editors: editors _AT_ digitalmedievalist.org
+>         <http://digitalmedievalist.org>
+>         News: https://digitalmedievalist.wordpress.com/news/
+>         Twitter: http://twitter.com/digitalmedieval
+>         Facebook: http://www.facebook.com/group.php?gid=49320313760
+_redacted_(a)uleth.ca>
+>         Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>
+>
+>     Digital Medievalist -- http://www.digitalmedievalist.org/
+>     Journal: http://www.digitalmedievalist.org/journal/
+>     Journal Editors: editors _AT_ digitalmedievalist.org
+>     <http://digitalmedievalist.org>
+>     News: https://digitalmedievalist.wordpress.com/news/
+>     Twitter: http://twitter.com/digitalmedieval
+>     Facebook: http://www.facebook.com/group.php?gid=49320313760
+_redacted_(a)uleth.ca>
+>     Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>
+>
+>
+> Digital Medievalist --  http://www.digitalmedievalist.org/
+> Journal: http://www.digitalmedievalist.org/journal/
+> Journal Editors: editors _AT_ digitalmedievalist.org
+> News: https://digitalmedievalist.wordpress.com/news/
+> Twitter: http://twitter.com/digitalmedieval
+> Facebook: http://www.facebook.com/group.php?gid=49320313760
+_redacted_(a)uleth.ca
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>
+-- 
+Matija Ogrin, dr.
+Neznani rokopisi slovenskega slovstva 17. in 18. stoletja (NRSS)
+<http://ezb.ijs.si/nrss/>
+Intitut za slovensko literaturo in literarne vede
+ZRC SAZU
+--===============7963334073098361160==--

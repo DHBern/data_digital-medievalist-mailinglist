@@ -1,0 +1,23 @@
+Subject: Re: [dm-l] Concordancing QueriesAbdullah Alger wrote:> Compared to all of the other concordancing tools I think that Watt's 
+> is the
+> simplest to use.  Also, what's great about it is that it can handle
+> characters such as <thorn> and <eth>.  A nice feature in the program is
+> that you can save the results as an html document, but the drawback is
+> that you cannot save it in xml or any other format except as text.  Are
+> there any concordance programs that allow you to convert to xml?
+>
+> Abdullah Alger
+>
+>FWIW, Xaira (as mentioned here earlier by James) is a true Unicode 
+system. It will operate on XML files properly. It will index and 
+concordance texts with a minimum of XML markup (a tag at the beginning 
+of the file and one at the end will suffice!) and it will also handle  
+texts with more markup than anything else (e.,g. ones -- like our 
+version of the OE Corpus -- in which every word has an XML tag giving a 
+lemma and a POS code for it). You can  save results from it as XML 
+files, or you can develop your own web application to interact with it 
+at a low level. We've tested it on lots of different languages, and on 
+small or very large corpora -- the biggest so far being the Hungarian 
+National Corpus, which contains about 600 million words of annotated 
+texts....And it is an open source system.  See http://xaira.sf.net for more 
+information.

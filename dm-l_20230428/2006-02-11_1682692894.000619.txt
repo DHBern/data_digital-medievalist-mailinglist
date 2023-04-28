@@ -1,0 +1,77 @@
+Subject: RE: [dm-l] Weird Firefox errorYes. All the machines have the same directory structure and the files
+are kept in sync on all three.-d_redacted_(a)lacuna.ca wrote:
+> Is the stylesheet in the same location on each machine?
+> 
+> -----Original Message-----
+_redacted_(a)uleth.ca] On Behalf Of
+> Daniel O'Donnell
+> Sent: Friday, February 10, 2006 7:37 PM
+> To: Digital Medievalist Community mailing list
+> Subject: [dm-l] Weird Firefox error
+> 
+> Hi all,
+> 
+> I have a question I'm hoping somebody here might be able to help me
+> with: I run Firefox on several machines. When I load in a local xml file
+> with associated style information, the browser transforms the file
+> correctly on two of my three computers. On the third, however, I get the
+> following error:
+> 
+> Error loading stylesheet: (null)
+> 
+> file:///<path_to_stylesheet>
+> 
+> I googled the error and saw that a common source for this error is an
+> error in the mime type declarations, but in my case I wonder if this
+> could be true, since Firefox is accepting the same files on other
+> machines. In any event, here is the beginning of the file:
+> 
+> 
+> > <?xml version="1.0" encoding="utf-8"?>
+> > <?xml-stylesheet type="text/xsl"
+> href="file:/home/dan/documents/xml/xslt/dm1_2.xsl"?>
+> > <TEI.2 rend="article">
+> > 
+> (I've also tried text/xml and application/xml and application/xsl).
+> 
+> Any ideas where to hunt for the problem?
+> 
+> 
+> 
+> _______________________________________________
+> Digital Medievalist Project
+> Homepage: http://www.digitalmedievalist.org
+> Journal (Spring 2005-): http://www.digitalmedievalist.org/journal.cfm
+> RSS (announcements) server: http://www.digitalmedievalist.org/rss/rss2.cfm
+> Wiki: http://sql.uleth.ca/dmorgwiki/index.php
+> Change membership options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+> Submit RSS announcement: http://www.digitalmedievalist.org/newitem.cfm
+_redacted_(a)uleth.ca
+> dm-l mailing list
+_redacted_(a)uleth.ca
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+> 
+> 
+> _______________________________________________
+> Digital Medievalist Project
+> Homepage: http://www.digitalmedievalist.org
+> Journal (Spring 2005-): http://www.digitalmedievalist.org/journal.cfm
+> RSS (announcements) server: http://www.digitalmedievalist.org/rss/rss2.cfm
+> Wiki: http://sql.uleth.ca/dmorgwiki/index.php
+> Change membership options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+> Submit RSS announcement: http://www.digitalmedievalist.org/newitem.cfm
+_redacted_(a)uleth.ca
+> dm-l mailing list
+_redacted_(a)uleth.ca
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+-- 
+Daniel Paul O'Donnell
+Associate Professor and Acting Chair
+Director, Digital Medievalist Project
+<http://www.digitalmedievalist.org/>
+Department of English
+University of Lethbridge
+Lethbridge AB T1K 3M4
+CanadaVox +1 403 329-2377
+Fax +1 403 382-7191_redacted_@caedmon/ubuntu
+--===============5527365542866450341==--

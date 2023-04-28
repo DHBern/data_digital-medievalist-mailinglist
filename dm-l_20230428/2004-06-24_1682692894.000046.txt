@@ -1,0 +1,23 @@
+Subject: RE: [dm-l] Re: Manuscript-transcription correlationIt seems to me that Peter Baker has indicated the real value of XSLT in this
+context: that it can be used for on-the-fly presentation or preprocessing,
+as appropriate. The real limited resource in this kind of work is not
+storage space or processing capacity but my ability to learn new languages.
+Since this is an area where the scholars are also building the tools, it
+makes a lot of sense to keep the toolkit as simple as possible.Peter> -----Original Message-----
+_redacted_(a)virginia.edu] 
+...> But if a thing has got to perform fast, it might be best to 
+> use the XSLT 
+> to create static pages or a database, or turn data from a 
+> database into 
+> pages, rather than have it dynamically create pages from a large 
+> underlying text.
+> Peter Binkley
+Digital Initiatives Technology Librarian
+Information Technology Services
+4-30 Cameron Library
+University of Alberta Libraries
+Edmonton, Alberta
+Canada T6G 2J8
+Phone: (780) 492-3743
+Fax: (780) 492-9243
+_redacted_(a)ualberta.ca

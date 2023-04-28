@@ -1,0 +1,18 @@
+Subject: [dm-l] Junicode font, version 0.6.16This is the first new release of Junicode, the font for medievalists 
+(and others), since 1977.This release contains fixes of several bugs, improved coverage of the 
+Medieval Unicode Font Initiative (MUFI) character set (though this is 
+not yet complete). Most of the medievalist Unicode characters recently 
+added in Latin Extended D and other ranges have been added. Many of 
+these were already in the Private Use Area; the PUA characters remain 
+for now, but users should begin to adopt the new, more standard 
+encodings. The regular face currently contains 5870 glyphs; the italic, 
+bold and bold italic faces are much less complete, though an effort is 
+being made to make the italic face match the regular where appropriate.The design of several glyphs has been revised; those who prefer the old 
+design should turn on "Style Set 9" in an OpenType-aware application.On the technical side, OpenType support has been improved and extended. 
+TrueType instructions have been supplied for all glyphs: these are a mix 
+of "auto-hints" added by FontForge and instructions written by hand.There are still feature requests that I have not gotten to yet; I'll 
+work on these for the next release.Junicode is a SourceForge project: get it at 
+http://junicode.sourceforge.net/. By request, the current version has 
+also been uploaded to CTAN; I'm not sure how soon it will be available 
+for download there.Best wishes to all,
+Peter Baker

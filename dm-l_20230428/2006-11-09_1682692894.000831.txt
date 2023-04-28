@@ -1,0 +1,71 @@
+Subject: Re: [dm-l] Content Management Systems againSetting up a static front page with Drupal is very easy: look under
+Administer -> Settings -> General Settings -> Default front page and
+type the name of the page (say "node/31").Laurent_redacted_(a)uleth.ca> wrote:
+> Hi all,
+>
+> I thought I'd report on my experiments with Content Management Systems
+> for my professional web space.
+>
+> I tried out Textpattern http://www.textpattern.com/ and Drupal
+> http://www.drupal.org/. Both are open source, mysql- and php-content
+> management systems. Drupal is by far the more widely used, more
+> flexible, and customisable; textpattern is far more simple, somewhat
+> limited in its organisation (it is really a blogging system that is
+> transforming to a more general CMS). Both work under the major server
+> software, and so are compatible with anything your university or IP is
+> likely to be running.
+>
+> I tried the two systems out on my home (debian/ubuntu linux) and
+> University (a combination of Redhat enterprise linux and MS) servers
+> using mysql. Textpattern set up extremely well under the two conditions
+> (at home, I have root access to everything; at work, I have very limited
+> privileges to the server or the database). Drupal was more problematic,
+> and I never really did get it working exactly the way I wanted. I needed
+> to hack one aspect of textpattern--I need a relatively static front
+> page, and it is set up so the front page works as an RSS server--and I
+> am having trouble with outputting search results. But otherwise I am
+> very happy with it. I was also pleased that textpattern designers tended
+> to use better CSS than drupal designers, though both allow you to use
+> your own CSS.
+>
+> I think if I were setting up a community site, I'd work at getting
+> drupal to work: it looks like the more sophisticated program. For my
+> professional homepage, though I had quite specific needs--good xhtml
+> output, a wiki-based editor, and relatively painless set up. Apart from
+> the hack, textpattern did everything I wanted.
+>
+> Here's the URL to the new website if you want to see it:
+> http://people.uleth.ca/~daniel.odonnell/
+>
+> There is very little content at the new site as yet, as I only added the
+> stuff I absolutely needed right now. But adding material is extremely
+> easy.
+>
+> -dan
+>
+> --
+> Daniel Paul O'Donnell, PhD
+> Director, Digital Medievalist Project http://www.digitalmedievalist.org/
+> Chair, Text Encoding Initiative, http://www.tei-c.org/
+> Associate Professor and Chair, Department of English
+> University of Lethbridge
+> Lethbridge AB T1K 3M4
+> Canada
+> Vox: +1 403 329-2378
+> Fax: +1 403 382-7191
+>
+>
+> _______________________________________________
+> Digital Medievalist Project
+> Homepage: http://www.digitalmedievalist.org
+> Journal (Spring 2005-): http://www.digitalmedievalist.org/journal.cfm
+> RSS (announcements) server: http://www.digitalmedievalist.org/rss/rss2.cfm
+> Wiki: http://sql.uleth.ca/dmorgwiki/index.php
+> Change membership options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+> Submit RSS announcement: http://www.digitalmedievalist.org/newitem.cfm
+_redacted_(a)uleth.ca
+> dm-l mailing list
+_redacted_(a)uleth.ca
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+>
+--===============1181528020819084581==--

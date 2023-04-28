@@ -1,0 +1,10 @@
+Subject: [dm-l] Return of JunicodeThere was a problem overnight with the SourceForge server which I ran 
+afoul of when I tried to upload a fix of a bug (which, to tell the 
+truth, would have affected two or three nordicists and no one else).The bug is fixed now, the corrected file seems to be getting propagated 
+to the mirrors, and Junicode users who wish to upgrade can safely go and 
+get their files athttp://sourceforge.net/project/showfiles.php?group_id=158636This release may be useful for people who have been waiting for 
+additional MUFI characters (the addition of MUFI characters will be 
+complete in the next file release). But there are also goodies here for 
+people who use OpenType-aware applications (e.g. InDesign, XeTeX, 
+Mellel, and to a limited extent MS Word 2003 and later--if you have 
+enabled Windows support for International scripts).Users of Mac OS X "Tiger" or later should read the Mac readme.Source code freaks will find the source code posted later today or tomorrow.Peter

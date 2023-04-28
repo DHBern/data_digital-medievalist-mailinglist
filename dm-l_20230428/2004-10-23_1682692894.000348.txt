@@ -1,0 +1,17 @@
+Subject: [dm-l] Autoinstall for fontsHello all,
+	Does anybody know of an adaptable auto-install program that would 
+install fonts when a CD is loaded? I'm looking for something that 
+ideally would be open source, work equally well in most environments 
+(e.g. Win, Mac, Linux). Its main function would be to install a font a 
+project needs and, if possible, start a web-page up in the user's 
+default browser.
+-dan
+-- 
+Daniel Paul O'Donnell, PhD
+Associate Professor of English
+University of Lethbridge
+Lethbridge AB T1K 3M4
+Tel. (403) 329-2377
+Fax. (403) 382-7191
+_redacted_(a)uleth.ca>
+Home Page <http://people.uleth.ca/~daniel.odonnell/>

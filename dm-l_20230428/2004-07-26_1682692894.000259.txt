@@ -1,0 +1,47 @@
+Subject: [dm-l] Full text searching and Medieval languages
+Here's some more detail on full-text searching using Lucene, which I promised=
+=20
+several weeks ago. I've tried to focus on the aspects relevant to digital=20
+medievalists. Links to code are at the end. The Lucene FAQ provides technical=
+=20
+detail on object models and APIs more accurately and succinctly than I=20
+probably could:http://lucene.sourceforge.net/cgi-bin/faq/faqmanager.cgiFirst, here's a demo version of our Lucene-based search engine working on a=20
+collection of Classical Latin:http://vermont.perseus.tufts.edu/hopper/searchresults.jsp?q=3Damo&target=3DlaLucene runs in two modes: indexing and searching. The indexing phase takes a =set of "documents", such as a list of web pages or a directory of text files.=
+=20
+This happens "off-line", every day or so. The searching phase occurs when=20
+someone types in a query. Lucene consults the index files and returns a list =of documents that match the query.Order of Search ResultsBy default, Lucene ranks matching documents using the following formula: the =percentage of terms in the document that were search terms. This tends to=20
+favor short documents. It looks like it's possible to specify a sort order at=
+=20
+index-time, but I haven't experimented with that feature yet.LemmatizationOne factor that is very important for full-text searching languages like=20
+Latin, Old English, and Old Norse is word inflections. You need to be able to=
+=20
+connect "amo" with "amabitur" and "amantes". We have approached this problem =by caching a morphological analysis of every word that appears in the languag=
+e=20
+corpus. The result is a mapping of inflected forms to dictionary lemmas.There are several ways to use this linguistic data, but the most effective=20
+(I've found) is to index the documents in their original, inflected form, and=
+=20
+expand the query. In other words, if someone searches for the string "amo",=20
+the search wrapper program first lemmatizes the query ("amo#1"), then gathers=
+=20
+all the known inflected forms of "amo#1" and joins them into one new query.=20
+You can see the effective query at the bottom of the search results page=20
+linked to above.The query expansion approach turns out to be very efficient. One not-terribly-
+fast desktop can, in one query, search for every form of three Greek verbs an=
+d=20
+return results within seconds. Homonyms are a problem, but I've found that=20
+they are fairly easy to weed out from looking at search results.Linguistic Data for Old English?I currently have inflected form-lemma mappings for Latin. I am in contact wit=
+h=20
+some folks at UCLA who have made great progress working on morphological=20
+analysis for Old Norse. Does anyone know of other resources for that language=
+?=20
+Finally, does anyone have a resource of this sort for Old English? It seems=20
+like the data could be extracted from the parsed corpora of OE, but I don't=20
+know if the (rather restrictive) licenses would cover that sort of use.Proposal: A Medieval GoogleIs there any interest in a general search engine for web-accessible medieval =texts? If there were a list of URLs to indexable pages (provided by OAI or=20
+something even simpler), it would just be a matter of occasionally indexing=20
+them. The ability to search all surviving Old English probably exists for=20
+CDROMs and private databases, but is it available freely and publicly?Code SamplesA wrapper for the indexing functions:
+http://vermont.perseus.tufts.edu/public/search/Indexer.javaA wrapper for query expansion:
+http://vermont.perseus.tufts.edu/public/search/SearchResults.javaA wrapper for the actual search results:
+http://vermont.perseus.tufts.edu/public/search/SearchResults.javaAnd JSP code to create a search results page:
+http://vermont.perseus.tufts.edu/public/search/searchresults.html
+--===============7453834313869639564==--

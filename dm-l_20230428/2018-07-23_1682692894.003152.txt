@@ -1,0 +1,23 @@
+Subject: [dm-l] Backoff Lemmatization for Ancient Greek with the ClassicalInstitute of Classical Studies
+Senate House, Malet Street, London WC1E 7HU
+Friday July 27, 2018 at 16:30 in room 234
+=20
+*Patrick J. Burns (New York University)
+*Backoff Lemmatization for Ancient Greek with the Classical Language ToolkitAutomated lemmatization, or retrieval of dictionary headwords, is an active a=
+rea of research in historical-language text analysis. In this talk, I describ=
+e the development of the Backoff Lemmatizer for Ancient Greek with the Classi=
+cal Language Toolkit (CLTK), an open-source Python platform dedicated to deve=
+loping natural language processing tools for historical languages. The Backof=
+f Lemmatizer seeks to improve on existing tools by combining training-data-ba=
+sed and rules-based tagging as a lemmatization strategy. By way of conclusion=
+, I discuss a current CLTK development strategy, namely the use of object-ori=
+ented architecture as an avenue to digital comparative philology.Livestream: https://youtu.be/o0neelgQlw8Full abstract: http://digitalclassicist.org/wip/wip2018.htmlALL WELCOME
+=3D=3D
+Dr Gabriel BODARD
+Reader in Digital ClassicsInstitute of Classical Studies
+University of London
+Senate House
+Malet Street
+London WC1E 7HU_redacted_(a)sas.ac.uk
+T: +44 (0)20 78628752http://digitalclassicist.org/
+--===============0751734698784507177==--

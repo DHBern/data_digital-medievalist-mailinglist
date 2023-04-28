@@ -1,0 +1,292 @@
+Subject: Re: [dm-l] Layout of medieval poetry with CSSThe code below is too busy. You can get by with fewer classes and something m=
+ore semantically concise. Though it's arguable if this is the correct approac=
+h. Line numbers are not content =E2=80=93 they are essentially a layout item.=
+=20See it here in action with a couple other options: http://flightdeckmedia.com=
+/line-numbering/.verse-container p {
+	margin: 0;
+	padding: 0;
+	line-height: 17px;
+	margin-left: 20px;
+}
+.verse-container p span {
+	display: block;
+	float:left;
+	margin-left: -20px;
+}<div class=3D"verse-container">
+ <p>Whan that Aprill, with his shoures soote</p>
+ <p>The droghte of March hath perced to the roote</p>
+ <p>And bathed every veyne in swich licour,</p>
+ <p>Of which vertu engendred is the flour;</p>
+ <p><span>5.</span>Whan Zephirus eek with his sweete <br />
+   breeth</p>
+ <p>Inspired hath in every holt and heeth</p>
+ <p>The tendre croppes, and the yonge sonne</p>
+ <p>Hath in the Ram his halfe cours yronne,</p>
+ <p>And smale foweles maken melodye,</p>
+ <p><span>10.</span>That slepen al the nyght with open eye-</p>
+ <p>(So priketh hem Nature in hir corages);</p>
+ <p>Thanne longen folk to goon on pilgrimages</p>
+ <p>And palmeres for to seken straunge strondes</p>
+ <p>To ferne halwes, kowthe in sondry londes;</p>
+ <p><span>15.</span>And specially from every shires ende</p>
+ <p>Of Engelond, to Caunterbury they wende,</p>
+</div>Regards,Travis
+On 2010-03-17, at 5:56 PM, Simpson, Grant Leyton wrote:> Dear Peter,
+>=20
+> How about the following:
+>=20
+> <div class=3D"vl">
+> hr=C4=93ran mid hondum hr=C4=ABmcealde s=C7=A3,
+> </div>
+> <div class=3D"n">5</div>
+> <div class=3D"vl">
+> wadan wr=C3=A6cl=C4=81stas. Wyrd bi=C3=B0 ful =C4=81r=C7=A3d.
+> </div>
+>=20
+> div.vl {margin-left:6em; text-indent: -2em;}
+> div.n {
+> 	float: left;
+> }
+>=20
+> This way, all the verse lines have the same class and the number div is bef=
+ore the line it applies to, not in it.
+>=20
+> I tried it on IE 8, FF 3.6, Chrome 5, Safari 4, and Safari on the iPhone.  =
+Worked with no problem.  If you'd like me to check it with IE 7, I can tomorr=
+ow.  I wouldn't worry about IE 6.
+>=20
+> Best,
+> Grant Simpson
+> Senior Analyst/Programmer, Office of the Registrar
+> Doctoral Student, Department of English
+> Indiana University Bloomington
+>=20
+>=20
+> On Mar 17, 2010, at 4:20 PM, Peter Baker wrote:
+>=20
+>> I've been struggling with the problem of laying out medieval poetry in=20
+>> HTML using just CSS. The problem is with line numbers, which usually=20
+>> appear to the left (sometimes to the right) of the poem; yet the left=20
+>> margin of the poem should remain even, and lines should wrap nicely,=20
+>> with extra space on the left after a wrap.
+>>=20
+>> Much, perhaps most of the poetry I've seen on the web is laid out with=20
+>> tables, which is a bad hack, and less than ideal in several different=20
+>> ways. For my online Old English anthology site I worked out a system=20
+>> which is just barely okay: but it tends to fall apart under stress--i.e.=20
+>> when a browser window is made too narrow. Since I've been trying to=20
+>> format poetry so it displays well on an iPhone or other small screen,=20
+>> this will not do.
+>>=20
+>> Here's my solution, with a screenshot. It still seems less than ideal,=20
+>> and my question for anyone who has struggled to present medieval poetry=20
+>> well on screen, is whether you have a system that is better and are=20
+>> willing to share it here.
+>>=20
+>> My current solution involves enclosing each line in a div with class=20
+>> "vl" (verse-line). *Numbered* lines, on the other hand, go in a div with=20
+>> class "vln" (numbered-verse-line). The <div class=3D"vln"> lines start=20
+>> with a div containing the line number. So here:
+>>=20
+>> <div class=3D"vl">
+>> hr=C4=93ran mid hondum hr=C4=ABmcealde s=C7=A3,
+>> </div>
+>> <div class=3D"vln">
+>> <div>5</div> wadan wr=C3=A6cl=C4=81stas. Wyrd bi=C3=B0 ful =C4=81r=C7=A3d.
+>> </div>
+>>=20
+>> Now the CSS:
+>>=20
+>> div.vl {margin-left:6em; text-indent: -2em;}
+>> div.vln {margin-left:6em; text-indent: -6em;}
+>> div.vln div {float:left; width:4em; color:black;}
+>>=20
+>> And that gives you something like the attached: good on an iPhone or a=20
+>> computer (Firefox, Safari, Opera, *probably* IE but I haven't tested=20
+>> there yet). I also have a variant for Old English hypermetric lines but=20
+>> won't bore you with that.
+>>=20
+>> Things I don't like: having different classes for lines with and without=20
+>> line numbers; having the line-number div inside the line div (the=20
+>> alternatives I've tried tend to break *somewhere*). It would be nice if=20
+>> the line numbers somehow escaped being copied to the clipboard with the=20
+>> text, but that would surely be asking too much.
+>>=20
+>> If anyone is interested in sharing solutions, I'd be very grateful!
+>>=20
+>> Peter Baker
+>>=20
+>> <iphone.jpg><ATT00001..txt>
+>=20
+> Digital Medievalist --  http://www.digitalmedievalist.org/
+> Journal: http://www.digitalmedievalist.org/journal/
+> Journal Editors: editors _AT_ digitalmedievalist.org
+> News: http://www.digitalmedievalist.org/news/
+> Wiki: http://www.digitalmedievalist.org/wiki/
+> Twitter: http://twitter.com/digitalmedieval
+> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+_redacted_(a)uleth.ca
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+--===============9086108818439963067==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"
+MIME-Version: 1.0PGh0bWw+PGhlYWQ+PC9oZWFkPjxib2R5IHN0eWxlPSJ3b3JkLXdyYXA6IGJyZWFrLXdvcmQ7IC13
+ZWJraXQtbmJzcC1tb2RlOiBzcGFjZTsgLXdlYmtpdC1saW5lLWJyZWFrOiBhZnRlci13aGl0ZS1z
+cGFjZTsgIj5UaGUgY29kZSBiZWxvdyBpcyB0b28gYnVzeS4gWW91IGNhbiBnZXQgYnkgd2l0aCBm
+ZXdlciBjbGFzc2VzIGFuZCBzb21ldGhpbmcgbW9yZSBzZW1hbnRpY2FsbHkgY29uY2lzZS4gVGhv
+dWdoIGl0J3MgYXJndWFibGUgaWYgdGhpcyBpcyB0aGUgY29ycmVjdCBhcHByb2FjaC4gTGluZSBu
+dW1iZXJzIGFyZSBub3QgY29udGVudCDigJMgdGhleSBhcmUgZXNzZW50aWFsbHkgYSBsYXlvdXQg
+aXRlbS4mbmJzcDs8YnI+PGJyPlNlZSBpdCBoZXJlIGluIGFjdGlvbiB3aXRoIGEgY291cGxlIG90
+aGVyIG9wdGlvbnM6Jm5ic3A7PGEgaHJlZj0iaHR0cDovL2ZsaWdodGRlY2ttZWRpYS5jb20vbGlu
+ZS1udW1iZXJpbmcvIj5odHRwOi8vZmxpZ2h0ZGVja21lZGlhLmNvbS9saW5lLW51bWJlcmluZy88
+L2E+PGJyPjxicj4udmVyc2UtY29udGFpbmVyIHAgezxicj48c3BhbiBjbGFzcz0iQXBwbGUtdGFi
+LXNwYW4iIHN0eWxlPSJ3aGl0ZS1zcGFjZTogcHJlOyAiPgk8L3NwYW4+bWFyZ2luOiAwOzxicj48
+c3BhbiBjbGFzcz0iQXBwbGUtdGFiLXNwYW4iIHN0eWxlPSJ3aGl0ZS1zcGFjZTogcHJlOyAiPgk8
+L3NwYW4+cGFkZGluZzogMDs8YnI+PHNwYW4gY2xhc3M9IkFwcGxlLXRhYi1zcGFuIiBzdHlsZT0i
+d2hpdGUtc3BhY2U6IHByZTsgIj4JPC9zcGFuPmxpbmUtaGVpZ2h0OiAxN3B4Ozxicj48c3BhbiBj
+bGFzcz0iQXBwbGUtdGFiLXNwYW4iIHN0eWxlPSJ3aGl0ZS1zcGFjZTogcHJlOyAiPgk8L3NwYW4+
+bWFyZ2luLWxlZnQ6IDIwcHg7PGJyPn08YnI+LnZlcnNlLWNvbnRhaW5lciBwIHNwYW4gezxicj48
+c3BhbiBjbGFzcz0iQXBwbGUtdGFiLXNwYW4iIHN0eWxlPSJ3aGl0ZS1zcGFjZTogcHJlOyAiPgk8
+L3NwYW4+ZGlzcGxheTogYmxvY2s7PGJyPjxzcGFuIGNsYXNzPSJBcHBsZS10YWItc3BhbiIgc3R5
+bGU9IndoaXRlLXNwYWNlOiBwcmU7ICI+CTwvc3Bhbj5mbG9hdDpsZWZ0Ozxicj48c3BhbiBjbGFz
+cz0iQXBwbGUtdGFiLXNwYW4iIHN0eWxlPSJ3aGl0ZS1zcGFjZTogcHJlOyAiPgk8L3NwYW4+bWFy
+Z2luLWxlZnQ6IC0yMHB4Ozxicj59PGJyPjxicj4mbHQ7ZGl2IGNsYXNzPSJ2ZXJzZS1jb250YWlu
+ZXIiJmd0Ozxicj4mbmJzcDsmbHQ7cCZndDtXaGFuIHRoYXQgQXByaWxsLCB3aXRoIGhpcyBzaG91
+cmVzIHNvb3RlJmx0Oy9wJmd0Ozxicj4mbmJzcDsmbHQ7cCZndDtUaGUgZHJvZ2h0ZSBvZiBNYXJj
+aCBoYXRoIHBlcmNlZCB0byB0aGUgcm9vdGUmbHQ7L3AmZ3Q7PGJyPiZuYnNwOyZsdDtwJmd0O0Fu
+ZCBiYXRoZWQgZXZlcnkgdmV5bmUgaW4gc3dpY2ggbGljb3VyLCZsdDsvcCZndDs8YnI+Jm5ic3A7
+Jmx0O3AmZ3Q7T2Ygd2hpY2ggdmVydHUgZW5nZW5kcmVkIGlzIHRoZSBmbG91cjsmbHQ7L3AmZ3Q7
+PGJyPiZuYnNwOyZsdDtwJmd0OyZsdDtzcGFuJmd0OzUuJmx0Oy9zcGFuJmd0O1doYW4gWmVwaGly
+dXMgZWVrIHdpdGggaGlzIHN3ZWV0ZSAmbHQ7YnIgLyZndDs8YnI+Jm5ic3A7Jm5ic3A7Jm5ic3A7
+YnJlZXRoJmx0Oy9wJmd0Ozxicj4mbmJzcDsmbHQ7cCZndDtJbnNwaXJlZCBoYXRoIGluIGV2ZXJ5
+IGhvbHQgYW5kIGhlZXRoJmx0Oy9wJmd0Ozxicj4mbmJzcDsmbHQ7cCZndDtUaGUgdGVuZHJlIGNy
+b3BwZXMsIGFuZCB0aGUgeW9uZ2Ugc29ubmUmbHQ7L3AmZ3Q7PGJyPiZuYnNwOyZsdDtwJmd0O0hh
+dGggaW4gdGhlIFJhbSBoaXMgaGFsZmUgY291cnMgeXJvbm5lLCZsdDsvcCZndDs8YnI+Jm5ic3A7
+Jmx0O3AmZ3Q7QW5kIHNtYWxlIGZvd2VsZXMgbWFrZW4gbWVsb2R5ZSwmbHQ7L3AmZ3Q7PGJyPiZu
+YnNwOyZsdDtwJmd0OyZsdDtzcGFuJmd0OzEwLiZsdDsvc3BhbiZndDtUaGF0IHNsZXBlbiBhbCB0
+aGUgbnlnaHQgd2l0aCBvcGVuIGV5ZS0mbHQ7L3AmZ3Q7PGJyPiZuYnNwOyZsdDtwJmd0OyhTbyBw
+cmlrZXRoIGhlbSBOYXR1cmUgaW4gaGlyIGNvcmFnZXMpOyZsdDsvcCZndDs8YnI+Jm5ic3A7Jmx0
+O3AmZ3Q7VGhhbm5lIGxvbmdlbiBmb2xrIHRvIGdvb24gb24gcGlsZ3JpbWFnZXMmbHQ7L3AmZ3Q7
+PGJyPiZuYnNwOyZsdDtwJmd0O0FuZCBwYWxtZXJlcyBmb3IgdG8gc2VrZW4gc3RyYXVuZ2Ugc3Ry
+b25kZXMmbHQ7L3AmZ3Q7PGJyPiZuYnNwOyZsdDtwJmd0O1RvIGZlcm5lIGhhbHdlcywga293dGhl
+IGluIHNvbmRyeSBsb25kZXM7Jmx0Oy9wJmd0Ozxicj4mbmJzcDsmbHQ7cCZndDsmbHQ7c3BhbiZn
+dDsxNS4mbHQ7L3NwYW4mZ3Q7QW5kIHNwZWNpYWxseSBmcm9tIGV2ZXJ5IHNoaXJlcyBlbmRlJmx0
+Oy9wJmd0Ozxicj4mbmJzcDsmbHQ7cCZndDtPZiBFbmdlbG9uZCwgdG8gQ2F1bnRlcmJ1cnkgdGhl
+eSB3ZW5kZSwmbHQ7L3AmZ3Q7PGJyPiZsdDsvZGl2Jmd0OzxkaXY+PGJyPjwvZGl2PjxkaXY+UmVn
+YXJkcyw8L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2PlRyYXZpczwvZGl2PjxkaXY+PGJyPjwvZGl2
+PjxkaXY+PGJyPjxkaXY+PGRpdj5PbiAyMDEwLTAzLTE3LCBhdCA1OjU2IFBNLCBTaW1wc29uLCBH
+cmFudCBMZXl0b24gd3JvdGU6PC9kaXY+PGJyIGNsYXNzPSJBcHBsZS1pbnRlcmNoYW5nZS1uZXds
+aW5lIj48YmxvY2txdW90ZSB0eXBlPSJjaXRlIj48ZGl2PkRlYXIgUGV0ZXIsPGJyPjxicj5Ib3cg
+YWJvdXQgdGhlIGZvbGxvd2luZzo8YnI+PGJyPiZsdDtkaXYgY2xhc3M9InZsIiZndDs8YnI+aHLE
+k3JhbiBtaWQgaG9uZHVtIGhyxKttY2VhbGRlIHPHoyw8YnI+Jmx0Oy9kaXYmZ3Q7PGJyPiZsdDtk
+aXYgY2xhc3M9Im4iJmd0OzUmbHQ7L2RpdiZndDs8YnI+Jmx0O2RpdiBjbGFzcz0idmwiJmd0Ozxi
+cj4gd2FkYW4gd3LDpmNsxIFzdGFzLiBXeXJkIGJpw7AgZnVsIMSBcsejZC48YnI+Jmx0Oy9kaXYm
+Z3Q7PGJyPjxicj5kaXYudmwge21hcmdpbi1sZWZ0OjZlbTsgdGV4dC1pbmRlbnQ6IC0yZW07fTxi
+cj5kaXYubiB7PGJyPjxzcGFuIGNsYXNzPSJBcHBsZS10YWItc3BhbiIgc3R5bGU9IndoaXRlLXNw
+YWNlOnByZSI+CTwvc3Bhbj5mbG9hdDogbGVmdDs8YnI+fTxicj48YnI+VGhpcyB3YXksIGFsbCB0
+aGUgdmVyc2UgbGluZXMgaGF2ZSB0aGUgc2FtZSBjbGFzcyBhbmQgdGhlIG51bWJlciBkaXYgaXMg
+YmVmb3JlIHRoZSBsaW5lIGl0IGFwcGxpZXMgdG8sIG5vdCBpbiBpdC48YnI+PGJyPkkgdHJpZWQg
+aXQgb24gSUUgOCwgRkYgMy42LCBDaHJvbWUgNSwgU2FmYXJpIDQsIGFuZCBTYWZhcmkgb24gdGhl
+IGlQaG9uZS4gJm5ic3A7V29ya2VkIHdpdGggbm8gcHJvYmxlbS4gJm5ic3A7SWYgeW91J2QgbGlr
+ZSBtZSB0byBjaGVjayBpdCB3aXRoIElFIDcsIEkgY2FuIHRvbW9ycm93LiAmbmJzcDtJIHdvdWxk
+bid0IHdvcnJ5IGFib3V0IElFIDYuPGJyPjxicj5CZXN0LDxicj5HcmFudCBTaW1wc29uPGJyPlNl
+bmlvciBBbmFseXN0L1Byb2dyYW1tZXIsIE9mZmljZSBvZiB0aGUgUmVnaXN0cmFyPGJyPkRvY3Rv
+cmFsIFN0dWRlbnQsIERlcGFydG1lbnQgb2YgRW5nbGlzaDxicj5JbmRpYW5hIFVuaXZlcnNpdHkg
+Qmxvb21pbmd0b248YnI+PGJyPjxicj5PbiBNYXIgMTcsIDIwMTAsIGF0IDQ6MjAgUE0sIFBldGVy
+IEJha2VyIHdyb3RlOjxicj48YnI+PGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+SSd2ZSBiZWVuIHN0
+cnVnZ2xpbmcgd2l0aCB0aGUgcHJvYmxlbSBvZiBsYXlpbmcgb3V0IG1lZGlldmFsIHBvZXRyeSBp
+biA8YnI+PC9ibG9ja3F1b3RlPjxibG9ja3F1b3RlIHR5cGU9ImNpdGUiPkhUTUwgdXNpbmcganVz
+dCBDU1MuIFRoZSBwcm9ibGVtIGlzIHdpdGggbGluZSBudW1iZXJzLCB3aGljaCB1c3VhbGx5IDxi
+cj48L2Jsb2NrcXVvdGU+PGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+YXBwZWFyIHRvIHRoZSBsZWZ0
+IChzb21ldGltZXMgdG8gdGhlIHJpZ2h0KSBvZiB0aGUgcG9lbTsgeWV0IHRoZSBsZWZ0IDxicj48
+L2Jsb2NrcXVvdGU+PGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+bWFyZ2luIG9mIHRoZSBwb2VtIHNo
+b3VsZCByZW1haW4gZXZlbiwgYW5kIGxpbmVzIHNob3VsZCB3cmFwIG5pY2VseSwgPGJyPjwvYmxv
+Y2txdW90ZT48YmxvY2txdW90ZSB0eXBlPSJjaXRlIj53aXRoIGV4dHJhIHNwYWNlIG9uIHRoZSBs
+ZWZ0IGFmdGVyIGEgd3JhcC48YnI+PC9ibG9ja3F1b3RlPjxibG9ja3F1b3RlIHR5cGU9ImNpdGUi
+Pjxicj48L2Jsb2NrcXVvdGU+PGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+TXVjaCwgcGVyaGFwcyBt
+b3N0IG9mIHRoZSBwb2V0cnkgSSd2ZSBzZWVuIG9uIHRoZSB3ZWIgaXMgbGFpZCBvdXQgd2l0aCA8
+YnI+PC9ibG9ja3F1b3RlPjxibG9ja3F1b3RlIHR5cGU9ImNpdGUiPnRhYmxlcywgd2hpY2ggaXMg
+YSBiYWQgaGFjaywgYW5kIGxlc3MgdGhhbiBpZGVhbCBpbiBzZXZlcmFsIGRpZmZlcmVudCA8YnI+
+PC9ibG9ja3F1b3RlPjxibG9ja3F1b3RlIHR5cGU9ImNpdGUiPndheXMuIEZvciBteSBvbmxpbmUg
+T2xkIEVuZ2xpc2ggYW50aG9sb2d5IHNpdGUgSSB3b3JrZWQgb3V0IGEgc3lzdGVtIDxicj48L2Js
+b2NrcXVvdGU+PGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+d2hpY2ggaXMganVzdCBiYXJlbHkgb2th
+eTogYnV0IGl0IHRlbmRzIHRvIGZhbGwgYXBhcnQgdW5kZXIgc3RyZXNzLS1pLmUuIDxicj48L2Js
+b2NrcXVvdGU+PGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+d2hlbiBhIGJyb3dzZXIgd2luZG93IGlz
+IG1hZGUgdG9vIG5hcnJvdy4gU2luY2UgSSd2ZSBiZWVuIHRyeWluZyB0byA8YnI+PC9ibG9ja3F1
+b3RlPjxibG9ja3F1b3RlIHR5cGU9ImNpdGUiPmZvcm1hdCBwb2V0cnkgc28gaXQgZGlzcGxheXMg
+d2VsbCBvbiBhbiBpUGhvbmUgb3Igb3RoZXIgc21hbGwgc2NyZWVuLCA8YnI+PC9ibG9ja3F1b3Rl
+PjxibG9ja3F1b3RlIHR5cGU9ImNpdGUiPnRoaXMgd2lsbCBub3QgZG8uPGJyPjwvYmxvY2txdW90
+ZT48YmxvY2txdW90ZSB0eXBlPSJjaXRlIj48YnI+PC9ibG9ja3F1b3RlPjxibG9ja3F1b3RlIHR5
+cGU9ImNpdGUiPkhlcmUncyBteSBzb2x1dGlvbiwgd2l0aCBhIHNjcmVlbnNob3QuIEl0IHN0aWxs
+IHNlZW1zIGxlc3MgdGhhbiBpZGVhbCwgPGJyPjwvYmxvY2txdW90ZT48YmxvY2txdW90ZSB0eXBl
+PSJjaXRlIj5hbmQgbXkgcXVlc3Rpb24gZm9yIGFueW9uZSB3aG8gaGFzIHN0cnVnZ2xlZCB0byBw
+cmVzZW50IG1lZGlldmFsIHBvZXRyeSA8YnI+PC9ibG9ja3F1b3RlPjxibG9ja3F1b3RlIHR5cGU9
+ImNpdGUiPndlbGwgb24gc2NyZWVuLCBpcyB3aGV0aGVyIHlvdSBoYXZlIGEgc3lzdGVtIHRoYXQg
+aXMgYmV0dGVyIGFuZCBhcmUgPGJyPjwvYmxvY2txdW90ZT48YmxvY2txdW90ZSB0eXBlPSJjaXRl
+Ij53aWxsaW5nIHRvIHNoYXJlIGl0IGhlcmUuPGJyPjwvYmxvY2txdW90ZT48YmxvY2txdW90ZSB0
+eXBlPSJjaXRlIj48YnI+PC9ibG9ja3F1b3RlPjxibG9ja3F1b3RlIHR5cGU9ImNpdGUiPk15IGN1
+cnJlbnQgc29sdXRpb24gaW52b2x2ZXMgZW5jbG9zaW5nIGVhY2ggbGluZSBpbiBhIGRpdiB3aXRo
+IGNsYXNzIDxicj48L2Jsb2NrcXVvdGU+PGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+InZsIiAodmVy
+c2UtbGluZSkuICpOdW1iZXJlZCogbGluZXMsIG9uIHRoZSBvdGhlciBoYW5kLCBnbyBpbiBhIGRp
+diB3aXRoIDxicj48L2Jsb2NrcXVvdGU+PGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+Y2xhc3MgInZs
+biIgKG51bWJlcmVkLXZlcnNlLWxpbmUpLiBUaGUgJmx0O2RpdiBjbGFzcz0idmxuIiZndDsgbGlu
+ZXMgc3RhcnQgPGJyPjwvYmxvY2txdW90ZT48YmxvY2txdW90ZSB0eXBlPSJjaXRlIj53aXRoIGEg
+ZGl2IGNvbnRhaW5pbmcgdGhlIGxpbmUgbnVtYmVyLiBTbyBoZXJlOjxicj48L2Jsb2NrcXVvdGU+
+PGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+PGJyPjwvYmxvY2txdW90ZT48YmxvY2txdW90ZSB0eXBl
+PSJjaXRlIj4mbHQ7ZGl2IGNsYXNzPSJ2bCImZ3Q7PGJyPjwvYmxvY2txdW90ZT48YmxvY2txdW90
+ZSB0eXBlPSJjaXRlIj5ocsSTcmFuIG1pZCBob25kdW0gaHLEq21jZWFsZGUgc8ejLDxicj48L2Js
+b2NrcXVvdGU+PGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+Jmx0Oy9kaXYmZ3Q7PGJyPjwvYmxvY2tx
+dW90ZT48YmxvY2txdW90ZSB0eXBlPSJjaXRlIj4mbHQ7ZGl2IGNsYXNzPSJ2bG4iJmd0Ozxicj48
+L2Jsb2NrcXVvdGU+PGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+Jmx0O2RpdiZndDs1Jmx0Oy9kaXYm
+Z3Q7IHdhZGFuIHdyw6ZjbMSBc3Rhcy4gV3lyZCBiacOwIGZ1bCDEgXLHo2QuPGJyPjwvYmxvY2tx
+dW90ZT48YmxvY2txdW90ZSB0eXBlPSJjaXRlIj4mbHQ7L2RpdiZndDs8YnI+PC9ibG9ja3F1b3Rl
+PjxibG9ja3F1b3RlIHR5cGU9ImNpdGUiPjxicj48L2Jsb2NrcXVvdGU+PGJsb2NrcXVvdGUgdHlw
+ZT0iY2l0ZSI+Tm93IHRoZSBDU1M6PGJyPjwvYmxvY2txdW90ZT48YmxvY2txdW90ZSB0eXBlPSJj
+aXRlIj48YnI+PC9ibG9ja3F1b3RlPjxibG9ja3F1b3RlIHR5cGU9ImNpdGUiPmRpdi52bCB7bWFy
+Z2luLWxlZnQ6NmVtOyB0ZXh0LWluZGVudDogLTJlbTt9PGJyPjwvYmxvY2txdW90ZT48YmxvY2tx
+dW90ZSB0eXBlPSJjaXRlIj5kaXYudmxuIHttYXJnaW4tbGVmdDo2ZW07IHRleHQtaW5kZW50OiAt
+NmVtO308YnI+PC9ibG9ja3F1b3RlPjxibG9ja3F1b3RlIHR5cGU9ImNpdGUiPmRpdi52bG4gZGl2
+IHtmbG9hdDpsZWZ0OyB3aWR0aDo0ZW07IGNvbG9yOmJsYWNrO308YnI+PC9ibG9ja3F1b3RlPjxi
+bG9ja3F1b3RlIHR5cGU9ImNpdGUiPjxicj48L2Jsb2NrcXVvdGU+PGJsb2NrcXVvdGUgdHlwZT0i
+Y2l0ZSI+QW5kIHRoYXQgZ2l2ZXMgeW91IHNvbWV0aGluZyBsaWtlIHRoZSBhdHRhY2hlZDogZ29v
+ZCBvbiBhbiBpUGhvbmUgb3IgYSA8YnI+PC9ibG9ja3F1b3RlPjxibG9ja3F1b3RlIHR5cGU9ImNp
+dGUiPmNvbXB1dGVyIChGaXJlZm94LCBTYWZhcmksIE9wZXJhLCAqcHJvYmFibHkqIElFIGJ1dCBJ
+IGhhdmVuJ3QgdGVzdGVkIDxicj48L2Jsb2NrcXVvdGU+PGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+
+dGhlcmUgeWV0KS4gSSBhbHNvIGhhdmUgYSB2YXJpYW50IGZvciBPbGQgRW5nbGlzaCBoeXBlcm1l
+dHJpYyBsaW5lcyBidXQgPGJyPjwvYmxvY2txdW90ZT48YmxvY2txdW90ZSB0eXBlPSJjaXRlIj53
+b24ndCBib3JlIHlvdSB3aXRoIHRoYXQuPGJyPjwvYmxvY2txdW90ZT48YmxvY2txdW90ZSB0eXBl
+PSJjaXRlIj48YnI+PC9ibG9ja3F1b3RlPjxibG9ja3F1b3RlIHR5cGU9ImNpdGUiPlRoaW5ncyBJ
+IGRvbid0IGxpa2U6IGhhdmluZyBkaWZmZXJlbnQgY2xhc3NlcyBmb3IgbGluZXMgd2l0aCBhbmQg
+d2l0aG91dCA8YnI+PC9ibG9ja3F1b3RlPjxibG9ja3F1b3RlIHR5cGU9ImNpdGUiPmxpbmUgbnVt
+YmVyczsgaGF2aW5nIHRoZSBsaW5lLW51bWJlciBkaXYgaW5zaWRlIHRoZSBsaW5lIGRpdiAodGhl
+IDxicj48L2Jsb2NrcXVvdGU+PGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+YWx0ZXJuYXRpdmVzIEkn
+dmUgdHJpZWQgdGVuZCB0byBicmVhayAqc29tZXdoZXJlKikuIEl0IHdvdWxkIGJlIG5pY2UgaWYg
+PGJyPjwvYmxvY2txdW90ZT48YmxvY2txdW90ZSB0eXBlPSJjaXRlIj50aGUgbGluZSBudW1iZXJz
+IHNvbWVob3cgZXNjYXBlZCBiZWluZyBjb3BpZWQgdG8gdGhlIGNsaXBib2FyZCB3aXRoIHRoZSA8
+YnI+PC9ibG9ja3F1b3RlPjxibG9ja3F1b3RlIHR5cGU9ImNpdGUiPnRleHQsIGJ1dCB0aGF0IHdv
+dWxkIHN1cmVseSBiZSBhc2tpbmcgdG9vIG11Y2guPGJyPjwvYmxvY2txdW90ZT48YmxvY2txdW90
+ZSB0eXBlPSJjaXRlIj48YnI+PC9ibG9ja3F1b3RlPjxibG9ja3F1b3RlIHR5cGU9ImNpdGUiPklm
+IGFueW9uZSBpcyBpbnRlcmVzdGVkIGluIHNoYXJpbmcgc29sdXRpb25zLCBJJ2QgYmUgdmVyeSBn
+cmF0ZWZ1bCE8YnI+PC9ibG9ja3F1b3RlPjxibG9ja3F1b3RlIHR5cGU9ImNpdGUiPjxicj48L2Js
+b2NrcXVvdGU+PGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+UGV0ZXIgQmFrZXI8YnI+PC9ibG9ja3F1
+b3RlPjxibG9ja3F1b3RlIHR5cGU9ImNpdGUiPjxicj48L2Jsb2NrcXVvdGU+PGJsb2NrcXVvdGUg
+dHlwZT0iY2l0ZSI+Jmx0O2lwaG9uZS5qcGcmZ3Q7Jmx0O0FUVDAwMDAxLi50eHQmZ3Q7PGJyPjwv
+YmxvY2txdW90ZT48YnI+RGlnaXRhbCBNZWRpZXZhbGlzdCAtLSAmbmJzcDs8YSBocmVmPSJodHRw
+Oi8vd3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmcvIj5odHRwOi8vd3d3LmRpZ2l0YWxtZWRpZXZh
+bGlzdC5vcmcvPC9hPjxicj5Kb3VybmFsOiA8YSBocmVmPSJodHRwOi8vd3d3LmRpZ2l0YWxtZWRp
+ZXZhbGlzdC5vcmcvam91cm5hbC8iPmh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy9q
+b3VybmFsLzwvYT48YnI+Sm91cm5hbCBFZGl0b3JzOiBlZGl0b3JzIF9BVF8gPGEgaHJlZj0iaHR0
+cDovL2RpZ2l0YWxtZWRpZXZhbGlzdC5vcmciPmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmc8L2E+PGJy
+Pk5ld3M6IDxhIGhyZWY9Imh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy9uZXdzLyI+
+aHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnL25ld3MvPC9hPjxicj5XaWtpOiA8YSBo
+cmVmPSJodHRwOi8vd3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmcvd2lraS8iPmh0dHA6Ly93d3cu
+ZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy93aWtpLzwvYT48YnI+VHdpdHRlcjogPGEgaHJlZj0iaHR0
+cDovL3R3aXR0ZXIuY29tL2RpZ2l0YWxtZWRpZXZhbCI+aHR0cDovL3R3aXR0ZXIuY29tL2RpZ2l0
+YWxtZWRpZXZhbDwvYT48YnI+RmFjZWJvb2s6IDxhIGhyZWY9Imh0dHA6Ly93d3cuZmFjZWJvb2su
+Y29tL2dyb3VwLnBocD9naWQ9NDkzMjAzMTM3NjAiPmh0dHA6Ly93d3cuZmFjZWJvb2suY29tL2dy
+b3VwLnBocD9naWQ9NDkzMjAzMTM3NjA8L2E+PGJyPkRpc2N1c3Npb24gbGlzdDogPGEgaHJlZj0i
+bWFpbHRvOmRtLWxAdWxldGguY2EiPmRtLWxAdWxldGguY2E8L2E+PGJyPkNoYW5nZSBsaXN0IG9w
+dGlvbnM6IDxhIGhyZWY9Imh0dHA6Ly9saXN0c2Vydi51bGV0aC5jYS9tYWlsbWFuL2xpc3RpbmZv
+L2RtLWwiPmh0dHA6Ly9saXN0c2Vydi51bGV0aC5jYS9tYWlsbWFuL2xpc3RpbmZvL2RtLWw8L2E+
+PC9kaXY+PC9ibG9ja3F1b3RlPjwvZGl2Pjxicj48L2Rpdj48L2JvZHk+PC9odG1sPg==

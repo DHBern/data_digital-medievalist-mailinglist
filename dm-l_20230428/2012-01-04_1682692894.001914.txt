@@ -1,0 +1,9 @@
+Subject: [dm-l] Junicode version 0.7Version 0.7 of Junicode, the font for medievalists, has now been 
+released; download it athttp://junicode.sourceforge.netThis version contains numerous new glyphs, including:- Complete IPA Extensions range in all four faces
+- Complete Runic range in all four faces
+- Mirrored runes in the regular face (accessible via the OpenType rtlm 
+feature tag)In response to user comments, line spacing settings have been restored 
+to those of earlier versions. A new hinting system has been adopted for 
+greatly improved screen display.A WOFF version is available for web developers. The font has been tested 
+in Windows 7, OS X and Ubuntu Linux. Please write if you run into any 
+problems installing or using it.As always, Junicode is completely free.Peter Baker

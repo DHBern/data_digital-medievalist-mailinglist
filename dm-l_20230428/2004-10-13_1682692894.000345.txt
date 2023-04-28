@@ -1,0 +1,61 @@
+Subject: Re: [dm-l] [Fwd: Need a Word-files search utility]Easy. Abandon your dependence on Word. Do the job properly. Use an XML=20
+editor, and an XML database.Lou (well he would say that wouldnt he) Burnard
+Daniel O'Donnell wrote:
+> Digital Medievalist Journal (Inaugural Issue Fall 2004). Call for papers: h=
+ttp://www.digitalmedievalist.org/cfp.htm
+> ----------------
+>=20
+>=20
+> ------------------------------------------------------------------------
+>=20
+> Something for us? Not really a standards-based question, but I'm sure a=20
+> fairly common problem.
+>=20
+> -dan
+>=20
+> ------------------------------------------------------------------------
+>=20
+> Subject:
+> Need a Word-files search utility
+> From:
+_redacted_(a)MAGARY.COM>
+> Date:
+> Mon, 11 Oct 2004 14:51:34 -0700
+> To:
+_redacted_(a)listserv.uiuc.edu
+>=20
+>=20
+> My Hall's Chronicle project has grown into a Word monster,
+> consuming 26 files totaling 70MB, due to my reliance on
+> three-column tables for transcription and notes.  As my Windows
+> XP machine can only keep two or three of these open at a time, I
+> have difficulty tracking things down:  something faintly
+> remembered might be in file 12--or was it 25? or 7?--or maybe
+> none of those.  So I need a good fast search utility that can
+> tackle a set of Word files and even keep its internal index
+> uptodate as I proofread and revise..
+>=20
+> I'm trying out Files Search Assistant (description at
+> http://www.aks-labs.com/products/files_search_assistant.htm )
+> FSA seems flexible and fast. It builds a keyword index (no fewer
+> than 173,509 different keywords in Hall, thanks to the variable
+> 16C spelling) in less than five minutes.  Subsequent  word
+> searches are quick, but FSA doesn't seem to allow browsing of
+> that word index, which for me is a requirement.  As well, I
+> can't seem to save the index, so it must be rebuilt each time I
+> need to use it.
+>=20
+> Any recommendations from the list?
+>=20
+> Thanks,
+> Al Magary
+>=20
+>=20
+> ------------------------------------------------------------------------
+>=20
+> _______________________________________________
+> Project web site: http://www.digitalmedievalist.org/
+> dm-l mailing list
+_redacted_(a)uleth.ca
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+--===============7314563101160943006==--

@@ -1,0 +1,28 @@
+Subject: Re: [dm-l] MS-Internet Explorer 6 and standards based computing
+On Monday, June 28, 2004, at 12:01 PM, Martin Holmes wrote:> Hi there,
+>
+> At 09:13 AM 28/06/2004, you wrote:
+>>  i wonder if you have one or two examples of hot potatoes in action 
+>> that we might be able to take a look at?
+>
+> There's a set of sample exercises from the tutorial for the programs 
+> here:
+>
+> <http://web.uvic.ca/hrd/hotpot/wintutor6/index.htm>
+>
+> These include multiple-choice, short-answer, gapfill, matching, 
+> crosswords and jumbled sentences, and there's a fair amount of 
+> interactivity in terms of showing feedback on user input, offering 
+> hints, scoring and so on. Another of our apps, Quandary, produces 
+> action mazes (branching decision trees) in a similar format:
+>
+> <http://www.halfbakedsoftware.com/quandary/version_2/examples/>
+>thanks, martin.incidentally, the problems i was complaining about several posts back 
+in terms of having to use IE in my current side-work have been fixed 
+with mozilla 1.7. this had to do with NT-server-based login. mozilla 
+1.7 has apparently resolved these issues, and i can now log in 
+successfully using mozilla and firefox or camino (both of which rely on 
+mozilla 1.7), as well as IE. i don't know about the recent safari, 
+since i'm still on X 10.2, not panther. my colleague found it 
+interesting, as well. just a reminder that some of this is browser and 
+some is platform . . .cheers,j

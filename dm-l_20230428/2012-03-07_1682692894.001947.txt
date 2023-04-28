@@ -1,0 +1,32 @@
+Subject: [dm-l] Junicode 0.7.3Yet another release of Junicode, the font for medievalists, at 
+http://junicode.sourceforge.net.These are the major changes:* By request, improved handling of Turkish and some Eastern European 
+languages.* Small caps in the bold face.* Capital Eszett at U+1E9E in all four faces now; also a small cap 
+version accessible via OpenType feature c2sc.* Obsolete MUFI characters (for some three years now rendered unusable 
+by a superimposed x) have been removed.* Various characters added by user request.* The usual bug fixes (minor) and outline cleanups.Thanks to all those who have left recommendations and reviews. As 
+always, bug reports and feature requests are welcome.Peter Baker
+--===============5660627615184300889==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"
+MIME-Version: 1.0PGh0bWw+CiAgPGhlYWQ+CgogICAgPG1ldGEgaHR0cC1lcXVpdj0iY29udGVudC10eXBlIiBjb250
+ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9SVNPLTg4NTktMSI+CiAgPC9oZWFkPgogIDxib2R5IGJn
+Y29sb3I9IiNGRkZGRkYiIHRleHQ9IiMwMDAwMDAiPgogICAgWWV0IGFub3RoZXIgcmVsZWFzZSBv
+ZiBKdW5pY29kZSwgdGhlIGZvbnQgZm9yIG1lZGlldmFsaXN0cywgYXQKICAgIDxhIGNsYXNzPSJt
+b3otdHh0LWxpbmstZnJlZXRleHQiIGhyZWY9Imh0dHA6Ly9qdW5pY29kZS5zb3VyY2Vmb3JnZS5u
+ZXQiPmh0dHA6Ly9qdW5pY29kZS5zb3VyY2Vmb3JnZS5uZXQ8L2E+Ljxicj4KICAgIDxicj4KICAg
+IFRoZXNlIGFyZSB0aGUgbWFqb3IgY2hhbmdlczo8YnI+CiAgICA8YnI+CiAgICAqIEJ5IHJlcXVl
+c3QsIGltcHJvdmVkIGhhbmRsaW5nIG9mIFR1cmtpc2ggYW5kIHNvbWUgRWFzdGVybiBFdXJvcGVh
+bgogICAgbGFuZ3VhZ2VzLjxicj4KICAgIDxicj4KICAgICogU21hbGwgY2FwcyBpbiB0aGUgYm9s
+ZCBmYWNlLjxicj4KICAgIDxicj4KICAgICogQ2FwaXRhbCBFc3pldHQgYXQKICAgIDxtZXRhIGh0
+dHAtZXF1aXY9ImNvbnRlbnQtdHlwZSIgY29udGVudD0idGV4dC9odG1sOwogICAgICBjaGFyc2V0
+PUlTTy04ODU5LTEiPgogICAgVSsxRTlFIGluIGFsbCBmb3VyIGZhY2VzIG5vdzsgYWxzbyBhIHNt
+YWxsIGNhcCB2ZXJzaW9uIGFjY2Vzc2libGUKICAgIHZpYSBPcGVuVHlwZSBmZWF0dXJlIGMyc2Mu
+PGJyPgogICAgPGJyPgogICAgKiBPYnNvbGV0ZSBNVUZJIGNoYXJhY3RlcnMgKGZvciBzb21lIHRo
+cmVlIHllYXJzIG5vdyByZW5kZXJlZAogICAgdW51c2FibGUgYnkgYSBzdXBlcmltcG9zZWQgeCkg
+aGF2ZSBiZWVuIHJlbW92ZWQuPGJyPgogICAgPGJyPgogICAgKiBWYXJpb3VzIGNoYXJhY3RlcnMg
+YWRkZWQgYnkgdXNlciByZXF1ZXN0Ljxicj4KICAgIDxicj4KICAgICogVGhlIHVzdWFsIGJ1ZyBm
+aXhlcyAobWlub3IpIGFuZCBvdXRsaW5lIGNsZWFudXBzLjxicj4KICAgIDxicj4KICAgIFRoYW5r
+cyB0byBhbGwgdGhvc2Ugd2hvIGhhdmUgbGVmdCByZWNvbW1lbmRhdGlvbnMgYW5kIHJldmlld3Mu
+IEFzCiAgICBhbHdheXMsIGJ1ZyByZXBvcnRzIGFuZCBmZWF0dXJlIHJlcXVlc3RzIGFyZSB3ZWxj
+b21lLjxicj4KICAgIDxicj4KICAgIFBldGVyIEJha2VyPGJyPgogICAgPGJyPgogIDwvYm9keT4K
+PC9odG1sPgo=

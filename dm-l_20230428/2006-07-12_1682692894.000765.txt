@@ -1,0 +1,18 @@
+Subject: [dm-l] 45 new Projects listed in the wikiA couple of months ago, I announced that I'd taken on an intern for the
+summer who was going to start adding project descriptions to our wiki.She has just added the first tranche.She will be getting in touch directly with project contact people to let
+them know their project is listed now, and to invite them to take a look
+to make sure the presentation and information is what they would want to
+see--and to invite them to make any improvements they would like to see.In the meantime, though, I thought I'd make a general announcement.You ca go to the project list directly by following this link:
+http://sql.uleth.ca/dmorgwiki/index.php/Category:ProjectsIf your project is not listed there, let me encourage you to add a page
+_redacted_(a)uleth.ca) so we can start a page for
+you. Beginning a new page on the wiki is as simple as signing in, and
+then typing the name you'd like for your page in the address line after
+index.php/. You then get the edit screen and away you go.E.g. If I wanted to make a page on the Grinch starting at the main page:1) Signup and login
+2) change "Main_Page" in the URL in the URL line of my browser with the
+page name I want:> http://sql.uleth.ca/dmorgwiki/index.php/Main_Page > http://sql.uleth.ca/dmo=
+rgwiki/index.php/Digital Grinch Project(spaces and punctuation are allowed in Wiki URLs)3) Start editingThe wiki language is also pretty easy:=3DHeading 1=3D
+=3D=3DHeading 2=3D=3D
+=3D=3D=3DHeading 3=3D=3D=3D
+=3D=3D=3D=3DHeading 4=3D=3D=3D=3D* Bullet list item
+** Bullet sub-item#Numbered list item
+##Numbered list sub itemParagraph 1.Following paragraph (i.e. separate paragraphs with a blank line). code sample (i.e. precede with space)http://my.url.com (you can enter URL's directly).-dP.S. I'm happy to look at and clean up any code!

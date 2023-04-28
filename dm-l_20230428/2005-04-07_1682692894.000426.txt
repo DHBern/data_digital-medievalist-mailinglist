@@ -1,0 +1,37 @@
+Subject: Re: [dm-l] what xslt can't do..?Peter Robinson wrote:>You know, I think that is my whole point.
+>
+>There are indeed circumstances where the transform solution is very
+>difficult.  My document sample is one such.  Notice that the first page
+>break occurs some way into the document; and there is no explicit 'end of
+>page' for the last page break.  So figuring out the logic, by which you
+>turn the empty page breaks into content-holding elements, is rather
+>non-trivial.  The transform solution is also going to be a real problem,
+>for performance reasons, when you have documents of thousands of pages and
+>you need to process them dynamically (*Not* pre-filter them through
+>transforms).  As for needing lots of time: if your tools let you do what
+>you want directly with the document as it is, without the need for complex
+>transforms, you don't need it.
+>
+>I give a summary on why the system-we-have-not-named can handle this kind
+>of problem easily, where XSLT can not, on
+>http://anastasia.sourceforge.net/comparexsl.html.  And,
+>she-who-we-do-not-name can indeed do many of the things listed as XSLT
+>no-nos on the http://www.dpawson.co.uk/xsl/sect2/nono.html pages (change
+>variable values, create an xpath expression from a variable, move entities
+>from the input to the output file, etc etc).
+>
+>all the best
+>Peter
+>
+>
+>  
+>
+If "the whole point" refers to my comment about time, I have to 
+disagree, because my time problem is about me, not about the tools. 
+Lately I've been running out of the house with my shoes untied because I 
+don't have time to tie 'em. But Peter Binkley appears to have addressed 
+both the time issue and the one-pass issue. Let us study what he has 
+done, and then discuss. My first impression is that Peter Binkley is a 
+genius, while I am a rank amateur. My approach was going to be more like 
+James Cummings's, though his steps towards a solution look about 100 
+times more elegant than what I would do.Peter (Baker)

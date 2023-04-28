@@ -1,0 +1,28 @@
+Subject: Re: [dm-l] The time has come to make some <choice>sOn Wed, 30 Jun 2004, Martin Holmes wrote:> Hi all,
+>=20
+> I like this terminology. I think also there will be situations where one
+> person's markup, which they considered to be objective and transparent, in =
+the
+> future becomes a text which is the subject of someone else's markup. We cou=
+ld
+> envisage a time when early markup projects become the subject of scholarly
+> investigation, and both their source markup and their various textual
+> renderings (medialisations?) are themselves marked up. Re-reading my own
+> comment "The markup merely strives after completeness and transparency", I
+> guess that's a pretty big "merely".
+We don't need to "envisage a time when early markup projects become the
+subject of scholarly investigation", there are those who study just
+this.  The OTA has been collecting electronic texts for nearly 30
+years... very few of them are actually in XML.  The study of earlier=20
+markup forms (like say COCOA) is undertaken by those looking at the=20
+history of humanities computing.  I gave a paper at the ALLC-ACH this=20
+year looking at the problems the OTA might have in migrating copies=20
+of its resources to XML. (A big undertaking...)  A lot of the pilot=20
+study for this involved the identification and scoping of what form=20
+of markup those resources listed as "unknown markup" really were in.All of this goes to a point (believe it or not), that the documenation=20
+of your chosen encoding scheme and why you've put $ before all the=20
+adjectives (or whatnot) is one of the most important aspects for=20
+its preservation.-James---
+Dr James Cummings, Oxford Text Archive, University of Oxford
+James dot Cummings at ota dot ahds dot ac dot uk=20
+--===============8635512084393327246==--

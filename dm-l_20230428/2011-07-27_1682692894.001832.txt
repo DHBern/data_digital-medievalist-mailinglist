@@ -1,0 +1,124 @@
+Subject: [dm-l] Help with embedded imagesHi all,I have a pretty basic HTML question, I think.I want to embed a couple of MP4 videos in an HTML file. Using something 
+like the following code, I can do this relatively easily:> <div class="figure" id="d0e690">
+> <object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" 
+> codebase="http://www.apple.com/qtactivex/qtplugin.cab" height="480" 
+> width="640">
+> <param name="src" value="Pictures/Movie1.m4v"/>
+> <param name="autoplay" value="true"/>
+> <embed src="Pictures/Movie1.m4v" type="image/x-macpaint" 
+> pluginspage="http://www.apple.com/quicktime/download" autoplay="true" 
+> height="480" width="640">
+> </object>
+> </div>The trouble is that Movie1 is 30 odd megabytes and there are other 
+movies in the file. So I'd rather use a place holder. Googling around I 
+discovered that the recommended way of doing this is to make a 1 frame 
+movie saying something like "click on me" which you put on the src 
+attribute, and then you add an href attribute with the name of the 
+"real" movie. If you add target="_self" it is supposed to replace the 
+place holder with the longer movie. This would be the code:> <div class="figure" id="d0e690">
+> <object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" 
+> codebase="http://www.apple.com/qtactivex/qtplugin.cab" height="480" 
+> width="640" href="Pictures/Movie1.m4v" target="_self">
+> <param name="src" value="Pictures/Movie1poster.m4v"/>
+> <param name="autoplay" value="true"/>
+> <embed src="Pictures/Movie1poster.m4v" type="image/x-macpaint" 
+> pluginspage="http://www.apple.com/quicktime/download" autoplay="true" 
+> height="480" width="640" href="Pictures/Movie1.m4v" target="_self"/>
+> </object>
+> </div>
+The problem is that Firefox at any rate seems to understand the src 
+attribute as a base URL. If I click on the player and copy the URL that 
+is produced or look at it in a full screen, Firefox is looking for the 
+href video at    Pictures/Movie1poster.m4v/Pictures/Movie1.m4vinstead of    Pictures/Movie1.m4vI've tried everything I can think of to get around this: moved the files 
+into the root directory of the page, added ../ to the href to try and 
+get it to back up a directory. Nothing seems to work. Since this is a 
+very common thing on the internet, I must be doing something stupid. 
+Does anybody know how to do it?
+-- 
+*Daniel Paul O'Donnell, PhD
+Professor of English, University of Lethbridge <http://www.uleth.ca/>
+Co-President, Society for Digital Humanities/Société pour l'étude des 
+médias interactifs <http://www.sdh-semi.org/>
+Co-Editor, /Digital Studies/Le champ numérique 
+<http://www.digitalstudies.org/>/
+Founding Editor, /Digital Medievalist 
+<http://www.digitalmedievalist.org/journal>/ *PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMDEgVHJhbnNpdGlvbmFs
+Ly9FTiI+CjxodG1sPgogIDxoZWFkPgoKICAgIDxtZXRhIGh0dHAtZXF1aXY9ImNvbnRlbnQtdHlw
+ZSIgY29udGVudD0idGV4dC9odG1sOyBjaGFyc2V0PUlTTy04ODU5LTEiPgogIDwvaGVhZD4KICA8
+Ym9keSB0ZXh0PSIjMDAwMDAwIiBiZ2NvbG9yPSIjZmZmZmZmIj4KICAgIEhpIGFsbCw8YnI+CiAg
+ICA8YnI+CiAgICBJIGhhdmUgYSBwcmV0dHkgYmFzaWMgSFRNTCBxdWVzdGlvbiwgSSB0aGluay48
+YnI+CiAgICA8YnI+CiAgICBJIHdhbnQgdG8gZW1iZWQgYSBjb3VwbGUgb2YgTVA0IHZpZGVvcyBp
+biBhbiBIVE1MIGZpbGUuIFVzaW5nCiAgICBzb21ldGhpbmcgbGlrZSB0aGUgZm9sbG93aW5nIGNv
+ZGUsIEkgY2FuIGRvIHRoaXMgcmVsYXRpdmVseSBlYXNpbHk6PGJyPgogICAgPGJyPgogICAgPGJs
+b2NrcXVvdGUgdHlwZT0iY2l0ZSI+Jmx0O2RpdiBjbGFzcz0iZmlndXJlIiBpZD0iZDBlNjkwIiZn
+dDs8YnI+CiAgICAgICZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyAmbHQ7b2JqZWN0CiAg
+ICAgIGNsYXNzaWQ9ImNsc2lkOjAyQkYyNUQ1LThDMTctNEIyMy1CQzgwLUQzNDg4QUJEREM2QiIK
+ICAgICAgY29kZWJhc2U9PGEgY2xhc3M9Im1vei10eHQtbGluay1yZmMyMzk2RSIgaHJlZj0iaHR0
+cDovL3d3dy5hcHBsZS5jb20vcXRhY3RpdmV4L3F0cGx1Z2luLmNhYiI+Imh0dHA6Ly93d3cuYXBw
+bGUuY29tL3F0YWN0aXZleC9xdHBsdWdpbi5jYWIiPC9hPgogICAgICBoZWlnaHQ9IjQ4MCIgd2lk
+dGg9IjY0MCImZ3Q7PGJyPgogICAgICAmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJz
+cDsmbmJzcDsmbmJzcDsgJmx0O3BhcmFtIG5hbWU9InNyYyIgdmFsdWU9IlBpY3R1cmVzL01vdmll
+MS5tNHYiLyZndDs8YnI+CiAgICAgICZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNw
+OyZuYnNwOyZuYnNwOyAmbHQ7cGFyYW0gbmFtZT0iYXV0b3BsYXkiIHZhbHVlPSJ0cnVlIi8mZ3Q7
+PGJyPgogICAgICAmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJz
+cDsgJmx0O2VtYmVkIHNyYz0iUGljdHVyZXMvTW92aWUxLm00diIKICAgICAgdHlwZT0iaW1hZ2Uv
+eC1tYWNwYWludCIKICAgICAgcGx1Z2luc3BhZ2U9PGEgY2xhc3M9Im1vei10eHQtbGluay1yZmMy
+Mzk2RSIgaHJlZj0iaHR0cDovL3d3dy5hcHBsZS5jb20vcXVpY2t0aW1lL2Rvd25sb2FkIj4iaHR0
+cDovL3d3dy5hcHBsZS5jb20vcXVpY2t0aW1lL2Rvd25sb2FkIjwvYT4KICAgICAgYXV0b3BsYXk9
+InRydWUiIGhlaWdodD0iNDgwIiB3aWR0aD0iNjQwIiZndDs8YnI+CiAgICAgICZuYnNwOyZuYnNw
+OyZuYnNwOyZuYnNwOyZuYnNwOyAmbHQ7L29iamVjdCZndDs8YnI+CiAgICAgICZuYnNwOyZuYnNw
+OyAmbHQ7L2RpdiZndDs8L2Jsb2NrcXVvdGU+CiAgICA8YnI+CiAgICBUaGUgdHJvdWJsZSBpcyB0
+aGF0IE1vdmllMSBpcyAzMCBvZGQgbWVnYWJ5dGVzIGFuZCB0aGVyZSBhcmUgb3RoZXIKICAgIG1v
+dmllcyBpbiB0aGUgZmlsZS4gU28gSSdkIHJhdGhlciB1c2UgYSBwbGFjZSBob2xkZXIuIEdvb2ds
+aW5nCiAgICBhcm91bmQgSSBkaXNjb3ZlcmVkIHRoYXQgdGhlIHJlY29tbWVuZGVkIHdheSBvZiBk
+b2luZyB0aGlzIGlzIHRvCiAgICBtYWtlIGEgMSBmcmFtZSBtb3ZpZSBzYXlpbmcgc29tZXRoaW5n
+IGxpa2UgImNsaWNrIG9uIG1lIiB3aGljaCB5b3UKICAgIHB1dCBvbiB0aGUgc3JjIGF0dHJpYnV0
+ZSwgYW5kIHRoZW4geW91IGFkZCBhbiBocmVmIGF0dHJpYnV0ZSB3aXRoCiAgICB0aGUgbmFtZSBv
+ZiB0aGUgInJlYWwiIG1vdmllLiBJZiB5b3UgYWRkIHRhcmdldD0iX3NlbGYiIGl0IGlzCiAgICBz
+dXBwb3NlZCB0byByZXBsYWNlIHRoZSBwbGFjZSBob2xkZXIgd2l0aCB0aGUgbG9uZ2VyIG1vdmll
+LiBUaGlzCiAgICB3b3VsZCBiZSB0aGUgY29kZTo8YnI+CiAgICA8YnI+CiAgICA8YmxvY2txdW90
+ZSB0eXBlPSJjaXRlIj4mbHQ7ZGl2IGNsYXNzPSJmaWd1cmUiIGlkPSJkMGU2OTAiJmd0Ozxicj4K
+ICAgICAgJm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7ICZsdDtvYmplY3QKICAgICAgY2xh
+c3NpZD0iY2xzaWQ6MDJCRjI1RDUtOEMxNy00QjIzLUJDODAtRDM0ODhBQkREQzZCIgogICAgICBj
+b2RlYmFzZT08YSBjbGFzcz0ibW96LXR4dC1saW5rLXJmYzIzOTZFIiBocmVmPSJodHRwOi8vd3d3
+LmFwcGxlLmNvbS9xdGFjdGl2ZXgvcXRwbHVnaW4uY2FiIj4iaHR0cDovL3d3dy5hcHBsZS5jb20v
+cXRhY3RpdmV4L3F0cGx1Z2luLmNhYiI8L2E+CiAgICAgIGhlaWdodD0iNDgwIiB3aWR0aD0iNjQw
+IiBocmVmPSJQaWN0dXJlcy9Nb3ZpZTEubTR2IgogICAgICB0YXJnZXQ9Il9zZWxmIiZndDs8YnI+
+CiAgICAgICZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyAm
+bHQ7cGFyYW0gbmFtZT0ic3JjIgogICAgICB2YWx1ZT0iUGljdHVyZXMvTW92aWUxcG9zdGVyLm00
+diIvJmd0Ozxicj4KICAgICAgJm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5i
+c3A7Jm5ic3A7ICZsdDtwYXJhbSBuYW1lPSJhdXRvcGxheSIgdmFsdWU9InRydWUiLyZndDs8YnI+
+CiAgICAgICZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyAm
+bHQ7ZW1iZWQgc3JjPSJQaWN0dXJlcy9Nb3ZpZTFwb3N0ZXIubTR2IgogICAgICB0eXBlPSJpbWFn
+ZS94LW1hY3BhaW50IgogICAgICBwbHVnaW5zcGFnZT08YSBjbGFzcz0ibW96LXR4dC1saW5rLXJm
+YzIzOTZFIiBocmVmPSJodHRwOi8vd3d3LmFwcGxlLmNvbS9xdWlja3RpbWUvZG93bmxvYWQiPiJo
+dHRwOi8vd3d3LmFwcGxlLmNvbS9xdWlja3RpbWUvZG93bmxvYWQiPC9hPgogICAgICBhdXRvcGxh
+eT0idHJ1ZSIgaGVpZ2h0PSI0ODAiIHdpZHRoPSI2NDAiCiAgICAgIGhyZWY9IlBpY3R1cmVzL01v
+dmllMS5tNHYiIHRhcmdldD0iX3NlbGYiLyZndDs8YnI+CiAgICAgICZuYnNwOyZuYnNwOyZuYnNw
+OyZuYnNwOyZuYnNwOyAmbHQ7L29iamVjdCZndDs8YnI+CiAgICAgICZuYnNwOyZuYnNwOyAmbHQ7
+L2RpdiZndDs8L2Jsb2NrcXVvdGU+CiAgICBUaGUgcHJvYmxlbSBpcyB0aGF0IEZpcmVmb3ggYXQg
+YW55IHJhdGUgc2VlbXMgdG8gdW5kZXJzdGFuZCB0aGUgc3JjCiAgICBhdHRyaWJ1dGUgYXMgYSBi
+YXNlIFVSTC4gSWYgSSBjbGljayBvbiB0aGUgcGxheWVyIGFuZCBjb3B5IHRoZSBVUkwKICAgIHRo
+YXQgaXMgcHJvZHVjZWQgb3IgbG9vayBhdCBpdCBpbiBhIGZ1bGwgc2NyZWVuLCBGaXJlZm94IGlz
+IGxvb2tpbmcKICAgIGZvciB0aGUgaHJlZiB2aWRlbyBhdCA8YnI+CiAgICA8YmxvY2txdW90ZT5Q
+aWN0dXJlcy9Nb3ZpZTFwb3N0ZXIubTR2L1BpY3R1cmVzL01vdmllMS5tNHY8YnI+CiAgICA8L2Js
+b2NrcXVvdGU+CiAgICBpbnN0ZWFkIG9mIDxicj4KICAgIDxibG9ja3F1b3RlPlBpY3R1cmVzL01v
+dmllMS5tNHY8YnI+CiAgICA8L2Jsb2NrcXVvdGU+CiAgICBJJ3ZlIHRyaWVkIGV2ZXJ5dGhpbmcg
+SSBjYW4gdGhpbmsgb2YgdG8gZ2V0IGFyb3VuZCB0aGlzOiBtb3ZlZCB0aGUKICAgIGZpbGVzIGlu
+dG8gdGhlIHJvb3QgZGlyZWN0b3J5IG9mIHRoZSBwYWdlLCBhZGRlZCAuLi8gdG8gdGhlIGhyZWYg
+dG8KICAgIHRyeSBhbmQgZ2V0IGl0IHRvIGJhY2sgdXAgYSBkaXJlY3RvcnkuIE5vdGhpbmcgc2Vl
+bXMgdG8gd29yay4gU2luY2UKICAgIHRoaXMgaXMgYSB2ZXJ5IGNvbW1vbiB0aGluZyBvbiB0aGUg
+aW50ZXJuZXQsIEkgbXVzdCBiZSBkb2luZwogICAgc29tZXRoaW5nIHN0dXBpZC4gRG9lcyBhbnli
+b2R5IGtub3cgaG93IHRvIGRvIGl0Pzxicj4KICAgIDxkaXYgY2xhc3M9Im1vei1zaWduYXR1cmUi
+Pi0tIDxicj4KICAgICAgPHN0cm9uZz5EYW5pZWwgUGF1bCBPJ0Rvbm5lbGwsIFBoRDxicj4KICAg
+ICAgICBQcm9mZXNzb3Igb2YgRW5nbGlzaCwgPGEgaHJlZj0iaHR0cDovL3d3dy51bGV0aC5jYS8i
+PlVuaXZlcnNpdHkKICAgICAgICAgIG9mIExldGhicmlkZ2U8L2E+PGJyPgogICAgICAgIENvLVBy
+ZXNpZGVudCwgPGEgaHJlZj0iaHR0cDovL3d3dy5zZGgtc2VtaS5vcmcvIj5Tb2NpZXR5IGZvcgog
+ICAgICAgICAgRGlnaXRhbCBIdW1hbml0aWVzL1NvY2kmZWFjdXRlO3QmZWFjdXRlOyBwb3VyIGwn
+JmVhY3V0ZTt0dWRlIGRlcyBtJmVhY3V0ZTtkaWFzIGludGVyYWN0aWZzPC9hPjxicj4KICAgICAg
+ICBDby1FZGl0b3IsIDxpPjxhIGhyZWY9Imh0dHA6Ly93d3cuZGlnaXRhbHN0dWRpZXMub3JnLyI+
+RGlnaXRhbAogICAgICAgICAgICBTdHVkaWVzL0xlIGNoYW1wIG51bSZlYWN1dGU7cmlxdWU8L2E+
+PC9pPjxicj4KICAgICAgICBGb3VuZGluZyBFZGl0b3IsIDxpPjxhCiAgICAgICAgICAgIGhyZWY9
+Imh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy9qb3VybmFsIj5EaWdpdGFsCiAgICAg
+ICAgICAgIE1lZGlldmFsaXN0PC9hPjwvaT4KICAgICAgPC9zdHJvbmc+PC9kaXY+CiAgPC9ib2R5
+Pgo8L2h0bWw+Cg==

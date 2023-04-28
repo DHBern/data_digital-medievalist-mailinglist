@@ -1,0 +1,152 @@
+Subject: Re: [dm-l] Concordancing Queries_redacted_(a)postgrad.manchester.ac.uk 06/16/05 11:42 AM 
+Compared to all of the other concordancing tools I think that Watt's is
+the
+simplest to use.  Also, what's great about it is that it can handle
+characters such as <thorn> and <eth>.  A nice feature in the program is
+that you can save the results as an html document, but the drawback is
+that you cannot save it in xml or any other format except as text.  >>>Are there any concordance programs that allow you to convert to xml?
+Abdullah AlgerThere are several RTF to XML conversion applications online including: RTF2F0 XML Converter 
+http://www.rtf2fo.com/features.html RTF to XML 
+http://www.rtf-to-xml.com/features.htmlRTF to XML 5.2.1
+http://www.programmersheaven.com/zone16/cat290/35143.htmI must admit I have not used these, so I cannot vouch for their
+effectiveness (or lack thereof); however, opening a text file (from
+Watt's Concordance) in Word, saving as RTF, then using a converter to
+create an XML file might work.---LaurieLaurie Ringer
+Assistant Professor of English
+Canadian University College
+Lacombe, AB T4L 2E5
+(phone) 403.782.3381, ext. 4085
+(fax) 403.782.0735 _redacted_(a)liverpool.ac.uk>:> Hi Laurie,
+>
+> I am still using TACT 1.2 when I need a concordance and I am happy to
+> answer TACT queries if I can.
+>
+> I was not aware of R.J.C. Watt's programme Concordance, although I had
+a
+> look at the website and will try it out. But I can see already a
+number of
+> difficult problems with my corpus, as I have often encoded page breaks
+or
+> line breaks in the middle of words, which the programme apparently
+cannot
+> handle.
+>
+> I have also used WordSmith tools and find it useful, although it is a
+> different kind of programme, mainly aimed for doing corpus linguistics
+and
+> hence not that good in formating and referencing the texts sections.
+>
+> Maybe you should also try out the TAPOR tool at
+> <http://taporware.mcmaster.ca/>
+>
+> Best,
+>
+> Godfried
+>
+>
+_redacted_(a)CAUC.CA> wrote:
+>
+>> I am producing a concordance of the English vernacular texts that
+>> scholarship allows as Wycliffite or Lollard in persuasion. I would
+like
+>> to add more texts, and am attempting to work out a few issues on
+which I
+>> wondered if anyone might have advice.
+>>
+>> For information I have recently been using R.J.C. Watt's programme
+>> Concordance (http://www.concordancesoftware.co.uk/); however, due to
+a
+>> significant problem with hyphenated words---Watt's Help file
+>> specifically states that it does not treat hyphenated words, which
+are
+>> divided between 2 lines, as single words---I am thinking of switching
+>> back to TACT or to another programme.
+>>
+>> It's been some years since I used TACT. Is anyone fluent in TACT and
+>> willing to field the odd question or two which Ian Lancashire's book
+>> Using TACT with Electronic Texts does not answer? Or, alternatively,
+can
+>> anyone recommend a better programme?
+>>
+>> Line numbering: Aside from keying in line numbers by hand (which I
+have
+>> been doing), is there a macro or application that can automate the
+line
+>> numbering process in large numbers of texts in Word or Word Pad?
+>>
+>> Page numbering: As above, is there a macro or application that can
+>> automate the page numbering process in large numbers of texts? NB:
+the
+>> end of the printed page in electronic format rarely corresponds with
+the
+>> end of a Word or Word Pad page.
+>>
+>> Many thanks for any suggestions anyone might be able to make.
+>> ---Laurie
+>>
+>> Laurie Ringer
+>> Assistant Professor of English
+>> Canadian University College
+>> Lacombe, AB T4L 2E5
+>> (phone) 403.782.3381, ext. 4085
+>> (fax) 403.782.0735
+>>
+>> _______________________________________________
+>> Digital Medievalist Project
+>> Homepage: http://www.digitalmedievalist.org
+>> Journal (Spring 2005-): http://www.digitalmedievalist.org/journal.cfm
+>> RSS (announcements) server:
+http://www.digitalmedievalist.org/rss/rss2.cfm
+>> Wiki: http://sql.uleth.ca/dmorgwiki/index.php
+>> Change membership options:
+http://listserv.uleth.ca/mailman/listinfo/dm-l
+>> Submit RSS announcement:
+http://www.digitalmedievalist.org/newitem.cfm
+_redacted_(a)uleth.ca
+>> dm-l mailing list
+_redacted_(a)uleth.ca
+>> http://listserv.uleth.ca/mailman/listinfo/dm-l
+>
+>
+>
+> ----------------------
+> Dr. Godfried Croenen
+> School of Modern Languages, French Section
+> University of Liverpool
+> Chatham Street
+> Liverpool
+> L69 7ZR
+>
+> Tel: +44 (0)151 794 2763
+> Fax: +44 (0)151 794 2357
+_redacted_(a)Liverpool.ac.uk
+>
+>
+> _______________________________________________
+> Digital Medievalist Project
+> Homepage: http://www.digitalmedievalist.org
+> Journal (Spring 2005-): http://www.digitalmedievalist.org/journal.cfm
+> RSS (announcements) server:
+http://www.digitalmedievalist.org/rss/rss2.cfm
+> Wiki: http://sql.uleth.ca/dmorgwiki/index.php
+> Change membership options:
+http://listserv.uleth.ca/mailman/listinfo/dm-l
+> Submit RSS announcement: http://www.digitalmedievalist.org/newitem.cfm
+_redacted_(a)uleth.ca
+> dm-l mailing list
+_redacted_(a)uleth.ca
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+>_______________________________________________
+Digital Medievalist Project
+Homepage: http://www.digitalmedievalist.org
+Journal (Spring 2005-): http://www.digitalmedievalist.org/journal.cfm
+RSS (announcements) server:
+http://www.digitalmedievalist.org/rss/rss2.cfm
+Wiki: http://sql.uleth.ca/dmorgwiki/index.php
+Change membership options:
+http://listserv.uleth.ca/mailman/listinfo/dm-l
+Submit RSS announcement: http://www.digitalmedievalist.org/newitem.cfm
+_redacted_(a)uleth.ca
+dm-l mailing list
+_redacted_(a)uleth.ca
+http://listserv.uleth.ca/mailman/listinfo/dm-l

@@ -1,0 +1,50 @@
+Subject:On Thu, 24 Jun 2004, Al Magary wrote:> What I find mystifying is what happens *then*?  In other words,
+> what's the use of that?  Suppose I wanted to pull out all the
+> Latin quotes to give to a starving Latin student to translate.
+> Who or what even locates all the <lq> coded text, much less does
+> anything with it?  If a user approached my etext and asked
+> himself, "I wonder how much Latin is in Hall," how would the
+> coding help?  How do I as the author tell a user, "I put a lot
+> of fancy coding into Hall, so just press _____ and bingo!"You are not alone, there are many users who find it difficult to 
+manage the presentation and querying of the resource they create.
+Martin has already mentioned eXist, one of the most popular 
+open source native XML databases.  It allows one to write 
+very complex queries, but also vary simple straightforward ones 
+using XQuery or XSLT (amongst other options).  The markup you 
+add to a document usually isn't going to be searched, manipulated 
+or transformed by the average user.  The key is to anticipate the 
+kind of queries they might have and enable them to make queries 
+like that. So if being able to pull out all the phrases in a 
+particular language will be of us, then marking them is worth it.<foreign lang="La">Expensis Solutis</foreign>This is one way to do this.  If you have an element for specifically 
+Latin quotes, then you have to have one for every foreign language 
+you come across. (Maybe not a lot in Hall, 2 or 3? But not a 
+very portable solution.)In XSLT/XPath to count, for example the number of Latin phrases 
+compared to, say, the number of French ones you could do something
+along the lines of:
+_redacted_@lang='La'])"/>
+_redacted_@lang='Fr'])"/>Ok, that isn't entirely accurate, but I hope you get my point.
+Getting results relating to a particular element or attribute
+is fairly straightforward.  Querying on these elements 
+(Let's say, give me the locations of any Latin phrases with 
+Solut* in them), is equally easy when using something like eXist.By and large the most frequent use of XSLT is for transformations 
+into HTML for display on the web.  So let's say you wanted to 
+have every Latin phrase be in italics.  You could do:_redacted_@lang='La']">
+<i><xsl:apply-templates/></i>
+</xsl:template>Though using something like <span class="italics"> instead of <i>
+and then using CSS to present the italics class in, well, italics 
+is even better.  Everytime your XSLT stylesheet comes across 
+something that is a <foreign> element with a lang attribute 
+equal to 'La' it will then replace it with <i> (and apply 
+any more templates to the content of the <foreign> element).But this isn't meant to be a lesson on XSLT, I apologise.> TEI-L subscribers may know I've had this conceptual block for
+> some time.  Maybe it's psychological, not wanting to learn a new
+> foreign language.  Or maybe I just don't relate TEI theory to my
+> practice.Really your conceptual block seems not to be with TEI per se but 
+the transformation of any XML.  All I can say is that for the 
+re-use of your work the ability to take out bits of your 
+XML markup (say, foreign phrases) and do something else with 
+them (say, form a glossary, or regularise spelling), is to 
+me a very enticing prospect and worth the relatively short
+learning curve.-James---
+Dr James Cummings, Oxford Text Archive, University of Oxford
+James dot Cummings at ota dot ahds dot ac dot uk
+--===============8003184273436742231==--

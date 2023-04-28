@@ -1,0 +1,194 @@
+Subject: Re: [dm-l] Re: Exeter Book CD: for free?I agree completely about CDs; I got this same earful from the people at=20
+the Electronic Text Center here when I asked. My complete rant on the=20
+subject will be up on the Digital Medievalist website in the fall. But=20
+not everything aimed at "current browsers" need decay: the standards=20
+organizations tend to keep backwards compatibility in mind as their=20
+recommendations develop. Browsers will not stop recognizing XHTML 1.0=20
+transitional just because 2.0, 3.0, or indeed 15.0 have been released.=20
+Same with JavaScript: stick with the ECMA recommendation and steer clear=20
+of all extensions, whether Microsoft's or Mozilla's, and your site=20
+should still be working when you all have tenure (and I am retired).PeterBinkley, Peter wrote:>Digital Medievalist Journal (Inaugural Issue Fall 2004). Call for papers: ht=
+tp://www.digitalmedievalist.org/cfp.htm
+>----------------
+>>From the point of view of a librarian, CDs are the worst way to distribute
+>this kind of project. We've got lots of CDs purchased in the '90s on our
+>shelves, that are now unusable due to deterioration of the media or
+>obsoleteness of the platform. Anything that depends on current browsers will
+>suffer the same fate before many more of us have tenure. An online source,
+>with institutional backing that ensures it will stay online and be
+>maintained as technology changes, is much to be prefered. I'd be willing to
+>sacrifice a lot of functionality for the sake of permanence, since the
+>functionality will evaporate anyway with the next generation of browsers.
+>The ongoing institutional support has to be sufficient to re-engineer the
+>project from time to time to keep it working with new browsers and other
+>tools as yet unimagined, which is no small commitment. It makes sense
+>therefore to avoid doing one-off development and instead develop standard
+>tools and protocols for presenting these projects.=20
+>
+>Peter Binkley
+>Digital Initiatives Technology Librarian
+>Information Technology Services
+>4-30 Cameron Library
+>University of Alberta Libraries
+>Edmonton, Alberta
+>Canada T6G 2J8
+>Phone: (780) 492-3743
+>Fax: (780) 492-9243
+_redacted_(a)ualberta.ca
+>
+>
+>
+> =20
+>
+>>-----Original Message-----
+_redacted_(a)virginia.edu]=20
+>>Sent: Tuesday, July 20, 2004 06:36 AM
+_redacted_(a)bodley.ox.ac.uk; Digital Medievalist=20
+>>Community mailing list
+>>Subject: Re: [dm-l] Re: Exeter Book CD: for free?
+>>
+>>
+>>Digital Medievalist Journal (Inaugural Issue Fall 2004). Call=20
+>>for papers: http://www.digitalmedievalist.org/cfp.htm
+>>----------------
+>>Thanks for this clarification, Elizabeth. I was very excited=20
+>>to find the=20
+>>Bod's images site just as I was preparing to teach Exodus to my grad.=20
+>>seminar last spring. What the Bod is doing here seems a good=20
+>>solution:=20
+>>the images are available for free; you can get an accurate=20
+>>text of the=20
+>>Junius poems free too. But the CD adds value for those=20
+>>willing and able=20
+>>to pony up the (perfectly reasonable) =C2=A350.
+>>
+>>Well, it adds value for most. Not for me, since I run Linux.=20
+>>Not for the=20
+>>large numbers of medievalists who run Mac OS X. I think it a really=20
+>>dreadful mistake to use MS's extensions to JavaScript,=20
+>>forcing people to=20
+>>use The Worst Browser Now Available. On the other hand, the=20
+>>Dictionary=20
+>>of Old English made the same mistake, so at least you're in=20
+>>good company.
+>>
+>>Peter
+>>
+>>Elizabeth Solopova wrote:
+>>
+>>   =20
+>>
+>>>Digital Medievalist Journal (Inaugural Issue Fall 2004). Call for=20
+>>>papers: http://www.digitalmedievalist.org/cfp.htm
+>>>----------------
+>>>Dear All,
+>>>
+>>>The Junius 11 CD-ROM (Bodleian Digital Texts 1) was published by
+>>>the Bodleian rather than OUP. The Bodleian supported the project=20
+>>>financially (the development of software), provided the images and=20
+>>>contributed to the development of the interface. All the=20
+>>>     =20
+>>>
+>>technical and=20
+>>   =20
+>>
+>>>academic work was done by Burnard Muir and his team. The=20
+>>>     =20
+>>>
+>>images published=20
+>>   =20
+>>
+>>>on the CD were already available when the work on the=20
+>>>     =20
+>>>
+>>project started six=20
+>>   =20
+>>
+>>>years ago: they are still available free of charge for=20
+>>>     =20
+>>>
+>>personal use by=20
+>>   =20
+>>
+>>>researchers via Early Manuscripts at Oxford University=20
+>>>(http://image.ox.ac.uk/). The next project in the series=20
+>>>     =20
+>>>
+>>will be MS. Auct.=20
+>>   =20
+>>
+>>>F. 2.13 (Terence's Comedies). The images are also available=20
+>>>     =20
+>>>
+>>via the Early=20
+>>   =20
+>>
+>>>Manuscripts at Oxford University site. The CD-ROM works only=20
+>>>     =20
+>>>
+>>with Internet=20
+>>   =20
+>>
+>>>Explorer because Microsoft's implementation of JavaScript=20
+>>>     =20
+>>>
+>>was used (you may=20
+>>   =20
+>>
+>>>have noticed the use of JavaScript in the extract posted by=20
+>>>     =20
+>>>
+>>Martin). As far=20
+>>   =20
+>>
+>>>as I know Burnard Muir's team will try to overcome this=20
+>>>     =20
+>>>
+>>limitation in the=20
+>>   =20
+>>
+>>>next CD-ROM.
+>>>
+>>>Elizabeth
+>>>
+>>>Dr. Elizabeth Solopova
+>>>Department of Special Collections and Western Manuscripts Bodleian=20
+>>>Library Broad Street
+>>>Oxford OX1 3BG
+>>>Tel.: +44 (0)1865-277073
+_redacted_(a)bodley.ox.ac.uk
+>>>Internet:=20
+>>>http://www.bodley.ox.ac.uk/
+>>>http://www.bodley.ox.ac.uk/dept/scwmss/
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>_______________________________________________
+>>>Project web site: http://www.digitalmedievalist.org/
+>>>dm-l mailing list
+_redacted_(a)uleth.ca
+>>>http://listserv.uleth.ca/mailman/listinfo/dm-l
+>>>
+>>>=20
+>>>
+>>>     =20
+>>>
+>>_______________________________________________
+>>Project web site: http://www.digitalmedievalist.org/
+>>dm-l mailing list
+_redacted_(a)uleth.ca
+>>http://listserv.uleth.ca/mailman/listinfo/dm-l
+>>
+>>   =20
+>>
+>
+>_______________________________________________
+>Project web site: http://www.digitalmedievalist.org/
+>dm-l mailing list
+_redacted_(a)uleth.ca
+>http://listserv.uleth.ca/mailman/listinfo/dm-l
+>
+> =20
+>

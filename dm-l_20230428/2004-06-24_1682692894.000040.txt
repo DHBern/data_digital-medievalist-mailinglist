@@ -1,0 +1,71 @@
+Subject: Re: [dm-l] Junicode, Mac Character PaletteThanks to those who've said nice things about Junicode here. I don't 
+have a Mac, since I can't afford to buy one and haven't yet managed to 
+talk anyone into buying me one (heu!); so I can only test by getting 
+reports from friends. The new version of Word for the Mac does, finally, 
+handle Unicode, so it should work with Junicode. Martin, it may be that 
+you have a copy of Junicode from a couple of versions ago. If I remember 
+rightly only the regular style had runes, and I had inadvertently 
+released italic or bold fonts that had vertical strokes as placeholders 
+throughout the runic range. It may be that your font application is 
+displaying those placeholders. If so, the problem will go away when you 
+download and install the latest version.PeterMartin K. Foys wrote:> On Wed, 23 Jun 2004 19:37:07 -0700
+_redacted_(a)pacbell.net> wrote:
+>
+>> I haven't downloaded the "test drive" of Office 2004 [[1]] and so I 
+>> can't tell for certain, but might it be that you haven't specified 
+>> Junicode in the font menu in the Character Palette? The runes display 
+>> fine there when I do, but they show up as boxes if the palette is set 
+>> at a font that doesn't include those glyphs. I'm running Mac OS 
+>> 10.2.8, which may or may not make a difference.
+>>
+>
+>
+> John,
+>
+> OSX 10.3 (Panther) has changed the character palette a bit. In the 
+> display of all the Unicode categories, you can no longer select an 
+> individual font from a drop down menu as you could in previous 
+> versions. However, you can do so in the "Gylph Catalog" function, 
+> which shows all the characters available for a font (incidentally, 
+> here the wynn is row 046, column 3 (really 4)).
+> Upon further investigation, it turns out the Junicode runes display 
+> just fine in the Glyph Catalog, but do not display under the Unicode 
+> categories option. In the Unicode categories, you now select a 
+> character from a Unicode Block (e.g. "Runic") and all available fonts 
+> that can display that character appear in a frame below.  In the main 
+> display window, all the runes (except, oddly, the first one) appear as 
+> horizontal lines. clicking on these, though, does indicate that a 
+> Junicode Regular version of the rune exists, but it too displays as a 
+> striaght line. Inserting the rune, though, correctly displays it in 
+> Word 2004 and elsewhere.
+>
+> But this appears to be an issue with the character palette, and not 
+> Word 2004 (I have installed the actual release). Word 2004 seems to 
+> work fine, and the Glyph Catalog works just fine as well, so there is 
+> an easy way to  implement all characters into Word and other Unicode 
+> processors.
+>
+> best,
+>
+> ~ Martin Foys
+>
+> ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+>
+> Martin K. Foys
+> Assistant Professor
+> Department of English
+> Hood College
+> Frederick, MD 21701
+>
+> vox: 301~696~3740
+> fax: 301~696~3586
+_redacted_(a)hood.edu
+>
+> Bayeux Tapestry Digital Edition: http://www.sd-editions.com
+>
+> _______________________________________________
+> dm-l mailing list
+_redacted_(a)uleth.ca
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+>
+>

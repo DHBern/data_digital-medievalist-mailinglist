@@ -1,0 +1,189 @@
+Subject: Re: [dm-l] [Technical]: Suggestions for a replacement for	Subversion?A question I'd have is how easy is it for github to cock up?Subversion works great for us until a student does something unexpected. 
+Then we end up having to go in and clean out all the locks and the like. 
+That's the bit that is causing us trouble. It happens probably twice a 
+year and leaves them all very nervous in the meantime. They aren't 
+confident enough to google solutions and fix them themselves. So we have 
+good interface with subversion via Oxygen; but it occasionally throws an 
+error that sends everybody scrambling.My fear is that Github would do the same: I'm willing to sacrifice 
+version control for something consumer friendly.
+On 14-12-29 03:38 PM, Abdullah Alger wrote:
+> Easy answer is Github.  If your assistants do not have very technical 
+> skills and are uncomfortable with a terminal, it's very easy to use 
+> from their downloadable UI for both Mac and Windows.
+>
+> https://mac.github.com/
+> https://windows.github.com/
+>
+>
+>
+> On Monday, December 29, 2014, Daniel O'Donnell 
+_redacted_(a)uleth.ca>> wrote:
+>
+>     Hi all,
+>
+>     I have a technical question that isn't really medieval. I run
+>     several journals out of the Lethbridge Journal Incubator (you can
+>     learn more about the model here: http://journalincubator.org/).
+>     Until now, we've used Subversion as our central cloud storage.
+>     This year, however, I had a complete turnover in the graduate
+>     assistants, most of whom were not very technically inclined and
+>     I'm finding Subversion is more hassle than it is worth (it mostly
+>     works well, but if something goes wrong, the students can't fix it).
+>
+>     What we need is a cloud based repository system, preferably one
+>     that allows us access to arbitrary revisions (students find it
+>     comforting to know they can always correct mistaken overwrites),
+>     and preferably does version control of some kind--either locking
+>     or svn-type comparison. Best, however, would be something very low
+>     maintenance, drag and drop, and preferably doesn't require the use
+>     of a special client for file manipulation (that's where our
+>     subversion issues come).
+>
+>     I'm thinking Dropbox or Drive, though I don't know anything about
+>     setting those up for an organisation. Does anybody have any other
+>     tips?
+>
+>     -dan
+>
+>     -- 
+>     From my Ubuntu notebook
+>
+>     Daniel Paul O'Donnell
+>     Professor of English
+>     University of Lethbridge
+>     Lethbridge AB T1K 3M4
+>     Canada
+>
+>     +1 403 393-2539
+>
+>
+>     Digital Medievalist -- http://www.digitalmedievalist.org/
+>     <http://www.digitalmedievalist.org/>
+>     Journal: http://www.digitalmedievalist.org/journal/
+>     Journal Editors: editors _AT_ digitalmedievalist.org
+>     <http://digitalmedievalist.org>
+>     News: http://www.digitalmedievalist.org/news/
+>     Wiki: http://www.digitalmedievalist.org/wiki/
+>     Twitter: http://twitter.com/digitalmedieval
+>     Facebook: http://www.facebook.com/group.php?gid=49320313760
+>     <http://www.facebook.com/group.php?gid=49320313760>
+_redacted_(a)uleth.ca
+>     Change list options:
+>     http://listserv.uleth.ca/mailman/listinfo/dm-l
+>     <http://listserv.uleth.ca/mailman/listinfo/dm-l>
+>
+>
+>
+> -- 
+> Sent from my iPhone-- 
+ From my Ubuntu notebookDaniel Paul O'Donnell
+Professor of English
+University of Lethbridge
+Lethbridge AB T1K 3M4
+Canada+1 403 393-2539
+--===============7729285362396851142==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"
+MIME-Version: 1.0PGh0bWw+CiAgPGhlYWQ+CiAgICA8bWV0YSBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9dXRm
+LTgiIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSI+CiAgPC9oZWFkPgogIDxib2R5IGJnY29sb3I9
+IiNGRkZGRkYiIHRleHQ9IiMwMDAwMDAiPgogICAgQSBxdWVzdGlvbiBJJ2QgaGF2ZSBpcyBob3cg
+ZWFzeSBpcyBpdCBmb3IgZ2l0aHViIHRvIGNvY2sgdXA/IDxicj4KICAgIDxicj4KICAgIFN1YnZl
+cnNpb24gd29ya3MgZ3JlYXQgZm9yIHVzIHVudGlsIGEgc3R1ZGVudCBkb2VzIHNvbWV0aGluZwog
+ICAgdW5leHBlY3RlZC4gVGhlbiB3ZSBlbmQgdXAgaGF2aW5nIHRvIGdvIGluIGFuZCBjbGVhbiBv
+dXQgYWxsIHRoZQogICAgbG9ja3MgYW5kIHRoZSBsaWtlLiBUaGF0J3MgdGhlIGJpdCB0aGF0IGlz
+IGNhdXNpbmcgdXMgdHJvdWJsZS4gSXQKICAgIGhhcHBlbnMgcHJvYmFibHkgdHdpY2UgYSB5ZWFy
+IGFuZCBsZWF2ZXMgdGhlbSBhbGwgdmVyeSBuZXJ2b3VzIGluCiAgICB0aGUgbWVhbnRpbWUuIFRo
+ZXkgYXJlbid0IGNvbmZpZGVudCBlbm91Z2ggdG8gZ29vZ2xlIHNvbHV0aW9ucyBhbmQKICAgIGZp
+eCB0aGVtIHRoZW1zZWx2ZXMuIFNvIHdlIGhhdmUgZ29vZCBpbnRlcmZhY2Ugd2l0aCBzdWJ2ZXJz
+aW9uIHZpYQogICAgT3h5Z2VuOyBidXQgaXQgb2NjYXNpb25hbGx5IHRocm93cyBhbiBlcnJvciB0
+aGF0IHNlbmRzIGV2ZXJ5Ym9keQogICAgc2NyYW1ibGluZy48YnI+CiAgICA8YnI+CiAgICBNeSBm
+ZWFyIGlzIHRoYXQgR2l0aHViIHdvdWxkIGRvIHRoZSBzYW1lOiBJJ20gd2lsbGluZyB0byBzYWNy
+aWZpY2UKICAgIHZlcnNpb24gY29udHJvbCBmb3Igc29tZXRoaW5nIGNvbnN1bWVyIGZyaWVuZGx5
+Ljxicj4KICAgIDxicj4KICAgIDxicj4KICAgIDxkaXYgY2xhc3M9Im1vei1jaXRlLXByZWZpeCI+
+T24gMTQtMTItMjkgMDM6MzggUE0sIEFiZHVsbGFoIEFsZ2VyCiAgICAgIHdyb3RlOjxicj4KICAg
+IDwvZGl2PgogICAgPGJsb2NrcXVvdGUKY2l0ZT0ibWlkOkNBT3B4YzZPU180Q0ptd01FZ0N4bXRq
+Vmk0bjc9ak9rNGhRcTBhNF9kVEpWMCtZPTZId0BtYWlsLmdtYWlsLmNvbSIKICAgICAgdHlwZT0i
+Y2l0ZSI+CiAgICAgIDxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSIgY29udGVudD0idGV4
+dC9odG1sOyBjaGFyc2V0PXV0Zi04Ij4KICAgICAgRWFzeSBhbnN3ZXIgaXMgR2l0aHViLsKgIElm
+IHlvdXIgYXNzaXN0YW50cyBkb8Kgbm90IGhhdmUgdmVyeQogICAgICB0ZWNobmljYWwgc2tpbGxz
+IGFuZCBhcmUgdW5jb21mb3J0YWJsZSB3aXRoIGEgdGVybWluYWwswqBpdCdzIHZlcnkKICAgICAg
+ZWFzeSB0byB1c2UgZnJvbSB0aGVpciBkb3dubG9hZGFibGUgVUkgZm9yIGJvdGggTWFjIGFuZCBX
+aW5kb3dzLsKgCiAgICAgIDxkaXY+PGJyPgogICAgICA8L2Rpdj4KICAgICAgPGRpdj48YSBtb3ot
+ZG8tbm90LXNlbmQ9InRydWUiIGhyZWY9Imh0dHBzOi8vbWFjLmdpdGh1Yi5jb20vIj5odHRwczov
+L21hYy5naXRodWIuY29tLzwvYT48YnI+CiAgICAgIDwvZGl2PgogICAgICA8ZGl2PjxhIG1vei1k
+by1ub3Qtc2VuZD0idHJ1ZSIgaHJlZj0iaHR0cHM6Ly93aW5kb3dzLmdpdGh1Yi5jb20vIj5odHRw
+czovL3dpbmRvd3MuZ2l0aHViLmNvbS88L2E+PGJyPgogICAgICA8L2Rpdj4KICAgICAgPGRpdj48
+YnI+CiAgICAgIDwvZGl2PgogICAgICA8ZGl2Pjxicj4KICAgICAgICA8YnI+CiAgICAgICAgT24g
+TW9uZGF5LCBEZWNlbWJlciAyOSwgMjAxNCwgRGFuaWVsIE8nRG9ubmVsbCAmbHQ7PGEKICAgICAg
+ICAgIG1vei1kby1ub3Qtc2VuZD0idHJ1ZSIgaHJlZj0ibWFpbHRvOmRhbmllbC5vZG9ubmVsbEB1
+bGV0aC5jYSI+ZGFuaWVsLm9kb25uZWxsQHVsZXRoLmNhPC9hPiZndDsKICAgICAgICB3cm90ZTo8
+YnI+CiAgICAgICAgPGJsb2NrcXVvdGUgY2xhc3M9ImdtYWlsX3F1b3RlIiBzdHlsZT0ibWFyZ2lu
+OjAgMCAwCiAgICAgICAgICAuOGV4O2JvcmRlci1sZWZ0OjFweCAjY2NjIHNvbGlkO3BhZGRpbmct
+bGVmdDoxZXgiPgogICAgICAgICAgSGkgYWxsLDxicj4KICAgICAgICAgIDxicj4KICAgICAgICAg
+IEkgaGF2ZSBhIHRlY2huaWNhbCBxdWVzdGlvbiB0aGF0IGlzbid0IHJlYWxseSBtZWRpZXZhbC4g
+SSBydW4KICAgICAgICAgIHNldmVyYWwgam91cm5hbHMgb3V0IG9mIHRoZSBMZXRoYnJpZGdlIEpv
+dXJuYWwgSW5jdWJhdG9yICh5b3UKICAgICAgICAgIGNhbiBsZWFybiBtb3JlIGFib3V0IHRoZSBt
+b2RlbCBoZXJlOgogICAgICAgICAgPGEgbW96LWRvLW5vdC1zZW5kPSJ0cnVlIiBocmVmPSJodHRw
+Oi8vam91cm5hbGluY3ViYXRvci5vcmcvIgogICAgICAgICAgICB0YXJnZXQ9Il9ibGFuayI+aHR0
+cDovL2pvdXJuYWxpbmN1YmF0b3Iub3JnLzwvYT4pLiBVbnRpbAogICAgICAgICAgbm93LCB3ZSd2
+ZSB1c2VkIFN1YnZlcnNpb24gYXMgb3VyIGNlbnRyYWwgY2xvdWQgc3RvcmFnZS4gVGhpcwogICAg
+ICAgICAgeWVhciwgaG93ZXZlciwgSSBoYWQgYSBjb21wbGV0ZSB0dXJub3ZlciBpbiB0aGUgZ3Jh
+ZHVhdGUKICAgICAgICAgIGFzc2lzdGFudHMsIG1vc3Qgb2Ygd2hvbSB3ZXJlIG5vdCB2ZXJ5IHRl
+Y2huaWNhbGx5IGluY2xpbmVkCiAgICAgICAgICBhbmQgSSdtIGZpbmRpbmcgU3VidmVyc2lvbiBp
+cyBtb3JlIGhhc3NsZSB0aGFuIGl0IGlzIHdvcnRoIChpdAogICAgICAgICAgbW9zdGx5IHdvcmtz
+IHdlbGwsIGJ1dCBpZiBzb21ldGhpbmcgZ29lcyB3cm9uZywgdGhlIHN0dWRlbnRzCiAgICAgICAg
+ICBjYW4ndCBmaXggaXQpLjxicj4KICAgICAgICAgIDxicj4KICAgICAgICAgIFdoYXQgd2UgbmVl
+ZCBpcyBhIGNsb3VkIGJhc2VkIHJlcG9zaXRvcnkgc3lzdGVtLCBwcmVmZXJhYmx5CiAgICAgICAg
+ICBvbmUgdGhhdCBhbGxvd3MgdXMgYWNjZXNzIHRvIGFyYml0cmFyeSByZXZpc2lvbnMgKHN0dWRl
+bnRzCiAgICAgICAgICBmaW5kIGl0IGNvbWZvcnRpbmcgdG8ga25vdyB0aGV5IGNhbiBhbHdheXMg
+Y29ycmVjdCBtaXN0YWtlbgogICAgICAgICAgb3ZlcndyaXRlcyksIGFuZCBwcmVmZXJhYmx5IGRv
+ZXMgdmVyc2lvbiBjb250cm9sIG9mIHNvbWUKICAgICAgICAgIGtpbmQtLWVpdGhlciBsb2NraW5n
+IG9yIHN2bi10eXBlIGNvbXBhcmlzb24uIEJlc3QsIGhvd2V2ZXIsCiAgICAgICAgICB3b3VsZCBi
+ZSBzb21ldGhpbmcgdmVyeSBsb3cgbWFpbnRlbmFuY2UsIGRyYWcgYW5kIGRyb3AsIGFuZAogICAg
+ICAgICAgcHJlZmVyYWJseSBkb2Vzbid0IHJlcXVpcmUgdGhlIHVzZSBvZiBhIHNwZWNpYWwgY2xp
+ZW50IGZvcgogICAgICAgICAgZmlsZSBtYW5pcHVsYXRpb24gKHRoYXQncyB3aGVyZSBvdXIgc3Vi
+dmVyc2lvbiBpc3N1ZXMgY29tZSkuPGJyPgogICAgICAgICAgPGJyPgogICAgICAgICAgSSdtIHRo
+aW5raW5nIERyb3Bib3ggb3IgRHJpdmUsIHRob3VnaCBJIGRvbid0IGtub3cgYW55dGhpbmcKICAg
+ICAgICAgIGFib3V0IHNldHRpbmcgdGhvc2UgdXAgZm9yIGFuIG9yZ2FuaXNhdGlvbi4gRG9lcyBh
+bnlib2R5IGhhdmUKICAgICAgICAgIGFueSBvdGhlciB0aXBzPzxicj4KICAgICAgICAgIDxicj4K
+ICAgICAgICAgIC1kYW48YnI+CiAgICAgICAgICA8YnI+CiAgICAgICAgICAtLSA8YnI+CiAgICAg
+ICAgICBGcm9tIG15IFVidW50dSBub3RlYm9vazxicj4KICAgICAgICAgIDxicj4KICAgICAgICAg
+IERhbmllbCBQYXVsIE8nRG9ubmVsbDxicj4KICAgICAgICAgIFByb2Zlc3NvciBvZiBFbmdsaXNo
+PGJyPgogICAgICAgICAgVW5pdmVyc2l0eSBvZiBMZXRoYnJpZGdlPGJyPgogICAgICAgICAgTGV0
+aGJyaWRnZSBBQiBUMUsgM000PGJyPgogICAgICAgICAgQ2FuYWRhPGJyPgogICAgICAgICAgPGJy
+PgogICAgICAgICAgKzEgNDAzIDM5My0yNTM5PGJyPgogICAgICAgICAgPGJyPgogICAgICAgICAg
+PGJyPgogICAgICAgICAgRGlnaXRhbCBNZWRpZXZhbGlzdCAtLcKgIDxhIG1vei1kby1ub3Qtc2Vu
+ZD0idHJ1ZSIKICAgICAgICAgICAgaHJlZj0iaHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qu
+b3JnLyIgdGFyZ2V0PSJfYmxhbmsiPgogICAgICAgICAgICBodHRwOi8vd3d3LmRpZ2l0YWxtZWRp
+ZXZhbGlzdC5vcmcvPC9hPjxicj4KICAgICAgICAgIEpvdXJuYWw6IDxhIG1vei1kby1ub3Qtc2Vu
+ZD0idHJ1ZSIKICAgICAgICAgICAgaHJlZj0iaHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qu
+b3JnL2pvdXJuYWwvIgogICAgICAgICAgICB0YXJnZXQ9Il9ibGFuayI+aHR0cDovL3d3dy5kaWdp
+dGFsbWVkaWV2YWxpc3Qub3JnL2pvdXJuYWwvPC9hPjxicj4KICAgICAgICAgIEpvdXJuYWwgRWRp
+dG9yczogZWRpdG9ycyBfQVRfIDxhIG1vei1kby1ub3Qtc2VuZD0idHJ1ZSIKICAgICAgICAgICAg
+aHJlZj0iaHR0cDovL2RpZ2l0YWxtZWRpZXZhbGlzdC5vcmciIHRhcmdldD0iX2JsYW5rIj4KICAg
+ICAgICAgICAgZGlnaXRhbG1lZGlldmFsaXN0Lm9yZzwvYT48YnI+CiAgICAgICAgICBOZXdzOiA8
+YSBtb3otZG8tbm90LXNlbmQ9InRydWUiCiAgICAgICAgICAgIGhyZWY9Imh0dHA6Ly93d3cuZGln
+aXRhbG1lZGlldmFsaXN0Lm9yZy9uZXdzLyIKICAgICAgICAgICAgdGFyZ2V0PSJfYmxhbmsiPmh0
+dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy9uZXdzLzwvYT48YnI+CiAgICAgICAgICBX
+aWtpOiA8YSBtb3otZG8tbm90LXNlbmQ9InRydWUiCiAgICAgICAgICAgIGhyZWY9Imh0dHA6Ly93
+d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy93aWtpLyIKICAgICAgICAgICAgdGFyZ2V0PSJfYmxh
+bmsiPmh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy93aWtpLzwvYT48YnI+CiAgICAg
+ICAgICBUd2l0dGVyOiA8YSBtb3otZG8tbm90LXNlbmQ9InRydWUiCiAgICAgICAgICAgIGhyZWY9
+Imh0dHA6Ly90d2l0dGVyLmNvbS9kaWdpdGFsbWVkaWV2YWwiIHRhcmdldD0iX2JsYW5rIj5odHRw
+Oi8vdHdpdHRlci5jb20vZGlnaXRhbG1lZGlldmFsPC9hPjxicj4KICAgICAgICAgIEZhY2Vib29r
+OiA8YSBtb3otZG8tbm90LXNlbmQ9InRydWUiCiAgICAgICAgICAgIGhyZWY9Imh0dHA6Ly93d3cu
+ZmFjZWJvb2suY29tL2dyb3VwLnBocD9naWQ9NDkzMjAzMTM3NjAiCiAgICAgICAgICAgIHRhcmdl
+dD0iX2JsYW5rIj4KICAgICAgICAgICAgaHR0cDovL3d3dy5mYWNlYm9vay5jb20vZ3JvdXAucGhw
+P2dpZD00OTMyMDMxMzc2MDwvYT48YnI+CiAgICAgICAgICBEaXNjdXNzaW9uIGxpc3Q6IDxhIG1v
+ei1kby1ub3Qtc2VuZD0idHJ1ZSI+ZG0tbEB1bGV0aC5jYTwvYT48YnI+CiAgICAgICAgICBDaGFu
+Z2UgbGlzdCBvcHRpb25zOiA8YSBtb3otZG8tbm90LXNlbmQ9InRydWUiCiAgICAgICAgICAgIGhy
+ZWY9Imh0dHA6Ly9saXN0c2Vydi51bGV0aC5jYS9tYWlsbWFuL2xpc3RpbmZvL2RtLWwiCiAgICAg
+ICAgICAgIHRhcmdldD0iX2JsYW5rIj4KICAgICAgICAgICAgaHR0cDovL2xpc3RzZXJ2LnVsZXRo
+LmNhL21haWxtYW4vbGlzdGluZm8vZG0tbDwvYT48YnI+CiAgICAgICAgPC9ibG9ja3F1b3RlPgog
+ICAgICA8L2Rpdj4KICAgICAgPGJyPgogICAgICA8YnI+CiAgICAgIC0tIDxicj4KICAgICAgU2Vu
+dCBmcm9tIG15IGlQaG9uZSA8YnI+CiAgICA8L2Jsb2NrcXVvdGU+CiAgICA8YnI+CiAgICA8cHJl
+IGNsYXNzPSJtb3otc2lnbmF0dXJlIiBjb2xzPSI3MiI+LS0gCkZyb20gbXkgVWJ1bnR1IG5vdGVi
+b29rCgpEYW5pZWwgUGF1bCBPJ0Rvbm5lbGwKUHJvZmVzc29yIG9mIEVuZ2xpc2gKVW5pdmVyc2l0
+eSBvZiBMZXRoYnJpZGdlCkxldGhicmlkZ2UgQUIgVDFLIDNNNApDYW5hZGEKCisxIDQwMyAzOTMt
+MjUzOTwvcHJlPgogIDwvYm9keT4KPC9odG1sPgo=

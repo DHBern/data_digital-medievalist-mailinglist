@@ -1,0 +1,53 @@
+Subject: Re: [dm-l] Layout of medieval poetry with CSSOld English people on the list may have guessed: what I've been working 
+on is a prototype or proof-of-concept of my Old English textbook as an 
+e-book. You can seen it here (still partial; the easiest/free way to 
+look at it is with the FireFox EPubReader add-on):http://faculty.virginia.edu/OldEnglish/secret/oeg.epubI'm wondering what medievalists here think of the textbook as e-book. 
+The iPad is bearing down on us; many e-readers are on the market; sales 
+of e-books are doubling every year. I love good old paper books, but 
+I've fascinated by the technology.Peter
+Peter Baker wrote:
+> Thanks to everyone who has replied so far. Some great ideas here. So 
+> far Travis's approach has worked best--with some little alterations 
+> mainly for making lines wrap elegantly and for working around problems 
+> with e-book readers. Here's the css:
+>
+> .verse-container div {margin-left: 7em; text-indent: -2em;}
+> .verse-container div span {display: block; float: left; margin-left: 
+> -5em;}
+> .hypermetric div {margin-left: 6em; text-indent: -2em;}
+> .hypermetric div span {display: block; float: left; margin-left: -4em;}
+>
+> I substituted div for p because Stanza insists on its own formatting 
+> for p. And I use em instead of px to scale better with the device.  
+> The HTML looks like this:
+>
+> <div class="verse-container">
+>    <div>Oft him ānhaga     āre gebīdeð,</div>
+>    <div>Metudes miltse,     þēah þe hē mōdcearig</div>
+>    <div>geond lagulāde     longe sceolde</div>
+>    <div>hrēran mid hondum     hrīmcealde sǣ,</div>
+>    <div><span>5</span>wadan wræclāstas.      Wyrd bið ful ārǣd.</div>
+> </div>
+>
+> Nice and clean. The only remaining problem is that the Adobe Digital 
+> Editions (ADE) e-book reader doesn't move the left margin of the span 
+> as far left as the CSS tells it to do, and this causes collisions 
+> between line number and line in the hypermetric verses, where the left 
+> margin is narrower and there's less margin for error. So I've had to 
+> make the left margin wider than I had it before to compensate. It 
+> looks like a waste of space on an iPod screen, but in a browser window 
+> the spaciousness is rather pleasant.
+>
+> Grant Simpson's approach looked to be working well, but it ran afoul 
+> of a bug in the Stanza reader, which for some reason makes a block 
+> containing a line number disappear unless it is inside the div for the 
+> line. Don't ask me why: but as I've been haunting the mobileread 
+> forums for a couple of weeks I can say that the CSS processing in 
+> Stanza and ADE is well known to be flaky.
+>
+> I expect the e-book reader in the iPad to be much better, as it will 
+> presumably use the Safari layout engine.
+>
+> Thanks again to everyone,
+> Peter
+>

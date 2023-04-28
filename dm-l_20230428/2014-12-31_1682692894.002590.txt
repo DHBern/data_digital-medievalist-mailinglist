@@ -1,0 +1,103 @@
+Subject: Re: [dm-l] [Technical]: Suggestions for a replacement	for	Subversion?Th context here is a little different in that the students are not necessaril=
+y DH students, though the programme is funded because it teaches digital (and=
+ publishing) skills to HSS students. So we have to balance ease and interest =
+with our mandate.
+--
+Sent from my phone using swipe typographical error production technology.Daniel Paul O'Donnell
+Department of English
+University of Lethbridge-------- Original message --------
+_redacted_(a)durham.ac.uk>
+Date: 2014-12-30 13:52 (GMT-07:00)
+_redacted_(a)uleth.ca>
+Subject: Re: [dm-l] [Technical]: Suggestions for a replacement for Subversion?
+On 12/30/2014 11:30 AM, Abdullah Alger wrote:
+> Saying that, if your students are working on digital humanities projects
+> and are coding, they should learn Git. It's an essential tool that
+> professionals use every day.I was traveling all day and thus the recommendations I would've made have
+already been made by other people, but I cannot pass up the opportunity
+to second this, very strongly.  Properly implemented, git can be extremely
+user friendly to use (my DMNES project linked in my sig involves a lot
+of data entry and requires scrupulous version controlling; my editors have
+a web-front end that they use and beyond creating an account on github,
+they never interact with git at all), and there is a large amount of
+documentation and help out there for those who are willing to put in a
+little bit (i.e., an afternoon) of time into learning it.  Learning how
+to use git should be considered a requirement of someone who intends to
+work in digital humanities, just as learning LaTeX is one for anyone
+working in math or logic.-Sara--
+Dr. Sara L. Uckelman
+Department of Philosophy
+Durham University
+https://www.dur.ac.uk/philosophy/staff/?id=3D12928
+http://dmnes.wordpress.com/
+Digital Medievalist --  http://www.digitalmedievalist.org/
+Journal: http://www.digitalmedievalist.org/journal/
+Journal Editors: editors _AT_ digitalmedievalist.org
+News: http://www.digitalmedievalist.org/news/
+Wiki: http://www.digitalmedievalist.org/wiki/
+Twitter: http://twitter.com/digitalmedieval
+Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+_redacted_(a)uleth.ca
+Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-lPGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
+eHQvaHRtbDsgY2hhcnNldD11cy1hc2NpaSI+CjxtZXRhIG5hbWU9IkdlbmVyYXRvciIgY29udGVu
+dD0iTWljcm9zb2Z0IEV4Y2hhbmdlIFNlcnZlciI+CjwhLS0gY29udmVydGVkIGZyb20gdGV4dCAt
+LT48c3R5bGU+PCEtLSAuRW1haWxRdW90ZSB7IG1hcmdpbi1sZWZ0OiAxcHQ7IHBhZGRpbmctbGVm
+dDogNHB0OyBib3JkZXItbGVmdDogIzgwMDAwMCAycHggc29saWQ7IH0gLS0+PC9zdHlsZT4KPC9o
+ZWFkPgo8Ym9keT4KPGRpdj4KPGRpdj5UaCBjb250ZXh0IGhlcmUgaXMgYSBsaXR0bGUgZGlmZmVy
+ZW50IGluIHRoYXQgdGhlIHN0dWRlbnRzIGFyZSBub3QgbmVjZXNzYXJpbHkgREggc3R1ZGVudHMs
+IHRob3VnaCB0aGUgcHJvZ3JhbW1lIGlzIGZ1bmRlZCBiZWNhdXNlIGl0IHRlYWNoZXMgZGlnaXRh
+bCAoYW5kIHB1Ymxpc2hpbmcpIHNraWxscyB0byBIU1Mgc3R1ZGVudHMuIFNvIHdlIGhhdmUgdG8g
+YmFsYW5jZSBlYXNlIGFuZCBpbnRlcmVzdCB3aXRoIG91ciBtYW5kYXRlLjwvZGl2Pgo8ZGl2Pjxi
+cj4KPC9kaXY+CjxkaXY+PGJyPgo8L2Rpdj4KPGRpdj4tLSZuYnNwOzwvZGl2PgpTZW50IGZyb20g
+bXkgcGhvbmUgdXNpbmcgc3dpcGUgdHlwb2dyYXBoaWNhbCBlcnJvciBwcm9kdWN0aW9uIHRlY2hu
+b2xvZ3kuCjxkaXY+PGJyPgo8L2Rpdj4KPGRpdj5EYW5pZWwgUGF1bCBPJ0Rvbm5lbGw8L2Rpdj4K
+PGRpdj5EZXBhcnRtZW50IG9mIEVuZ2xpc2g8L2Rpdj4KPGRpdj5Vbml2ZXJzaXR5IG9mIExldGhi
+cmlkZ2U8L2Rpdj4KPGJyPgo8YnI+Cjxicj4KLS0tLS0tLS0gT3JpZ2luYWwgbWVzc2FnZSAtLS0t
+LS0tLTxicj4KRnJvbTogJnF1b3Q7U2FyYSBMLiBVY2tlbG1hbiZxdW90OyAmbHQ7cy5sLnVja2Vs
+bWFuQGR1cmhhbS5hYy51ayZndDsgPGJyPgpEYXRlOiAyMDE0LTEyLTMwIDEzOjUyIChHTVQtMDc6
+MDApIDxicj4KVG86ICZxdW90O2RtLWwsIE1haWxMaXN0JnF1b3Q7ICZsdDtkbS1sQHVsZXRoLmNh
+Jmd0OyA8YnI+ClN1YmplY3Q6IFJlOiBbZG0tbF0gW1RlY2huaWNhbF06IFN1Z2dlc3Rpb25zIGZv
+ciBhIHJlcGxhY2VtZW50IGZvciBTdWJ2ZXJzaW9uPyA8YnI+Cjxicj4KPGJyPgo8L2Rpdj4KPGZv
+bnQgc2l6ZT0iMiI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZToxMHB0OyI+CjxkaXYgY2xhc3M9IlBs
+YWluVGV4dCI+T24gMTIvMzAvMjAxNCAxMTozMCBBTSwgQWJkdWxsYWggQWxnZXIgd3JvdGU6PGJy
+PgomZ3Q7IFNheWluZyB0aGF0LCBpZiB5b3VyIHN0dWRlbnRzIGFyZSB3b3JraW5nIG9uIGRpZ2l0
+YWwgaHVtYW5pdGllcyBwcm9qZWN0czxicj4KJmd0OyBhbmQgYXJlIGNvZGluZywgdGhleSBzaG91
+bGQgbGVhcm4gR2l0LiBJdCdzIGFuIGVzc2VudGlhbCB0b29sIHRoYXQ8YnI+CiZndDsgcHJvZmVz
+c2lvbmFscyB1c2UgZXZlcnkgZGF5Ljxicj4KPGJyPgpJIHdhcyB0cmF2ZWxpbmcgYWxsIGRheSBh
+bmQgdGh1cyB0aGUgcmVjb21tZW5kYXRpb25zIEkgd291bGQndmUgbWFkZSBoYXZlPGJyPgphbHJl
+YWR5IGJlZW4gbWFkZSBieSBvdGhlciBwZW9wbGUsIGJ1dCBJIGNhbm5vdCBwYXNzIHVwIHRoZSBv
+cHBvcnR1bml0eTxicj4KdG8gc2Vjb25kIHRoaXMsIHZlcnkgc3Ryb25nbHkuJm5ic3A7IFByb3Bl
+cmx5IGltcGxlbWVudGVkLCBnaXQgY2FuIGJlIGV4dHJlbWVseTxicj4KdXNlciBmcmllbmRseSB0
+byB1c2UgKG15IERNTkVTIHByb2plY3QgbGlua2VkIGluIG15IHNpZyBpbnZvbHZlcyBhIGxvdDxi
+cj4Kb2YgZGF0YSBlbnRyeSBhbmQgcmVxdWlyZXMgc2NydXB1bG91cyB2ZXJzaW9uIGNvbnRyb2xs
+aW5nOyBteSBlZGl0b3JzIGhhdmU8YnI+CmEgd2ViLWZyb250IGVuZCB0aGF0IHRoZXkgdXNlIGFu
+ZCBiZXlvbmQgY3JlYXRpbmcgYW4gYWNjb3VudCBvbiBnaXRodWIsPGJyPgp0aGV5IG5ldmVyIGlu
+dGVyYWN0IHdpdGggZ2l0IGF0IGFsbCksIGFuZCB0aGVyZSBpcyBhIGxhcmdlIGFtb3VudCBvZjxi
+cj4KZG9jdW1lbnRhdGlvbiBhbmQgaGVscCBvdXQgdGhlcmUgZm9yIHRob3NlIHdobyBhcmUgd2ls
+bGluZyB0byBwdXQgaW4gYTxicj4KbGl0dGxlIGJpdCAoaS5lLiwgYW4gYWZ0ZXJub29uKSBvZiB0
+aW1lIGludG8gbGVhcm5pbmcgaXQuJm5ic3A7IExlYXJuaW5nIGhvdzxicj4KdG8gdXNlIGdpdCBz
+aG91bGQgYmUgY29uc2lkZXJlZCBhIHJlcXVpcmVtZW50IG9mIHNvbWVvbmUgd2hvIGludGVuZHMg
+dG88YnI+CndvcmsgaW4gZGlnaXRhbCBodW1hbml0aWVzLCBqdXN0IGFzIGxlYXJuaW5nIExhVGVY
+IGlzIG9uZSBmb3IgYW55b25lPGJyPgp3b3JraW5nIGluIG1hdGggb3IgbG9naWMuPGJyPgo8YnI+
+Ci1TYXJhPGJyPgo8YnI+Cjxicj4KPGJyPgotLSA8YnI+CkRyLiBTYXJhIEwuIFVja2VsbWFuPGJy
+PgpEZXBhcnRtZW50IG9mIFBoaWxvc29waHk8YnI+CkR1cmhhbSBVbml2ZXJzaXR5PGJyPgo8YSBo
+cmVmPSJodHRwczovL3d3dy5kdXIuYWMudWsvcGhpbG9zb3BoeS9zdGFmZi8/aWQ9MTI5MjgiPmh0
+dHBzOi8vd3d3LmR1ci5hYy51ay9waGlsb3NvcGh5L3N0YWZmLz9pZD0xMjkyODwvYT48YnI+Cjxh
+IGhyZWY9Imh0dHA6Ly9kbW5lcy53b3JkcHJlc3MuY29tLyI+aHR0cDovL2RtbmVzLndvcmRwcmVz
+cy5jb20vPC9hPjxicj4KPGJyPgo8YnI+CkRpZ2l0YWwgTWVkaWV2YWxpc3QgLS0mbmJzcDsgPGEg
+aHJlZj0iaHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnLyI+aHR0cDovL3d3dy5kaWdp
+dGFsbWVkaWV2YWxpc3Qub3JnLzwvYT48YnI+CkpvdXJuYWw6IDxhIGhyZWY9Imh0dHA6Ly93d3cu
+ZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy9qb3VybmFsLyI+aHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2
+YWxpc3Qub3JnL2pvdXJuYWwvPC9hPjxicj4KSm91cm5hbCBFZGl0b3JzOiBlZGl0b3JzIF9BVF8g
+ZGlnaXRhbG1lZGlldmFsaXN0Lm9yZzxicj4KTmV3czogPGEgaHJlZj0iaHR0cDovL3d3dy5kaWdp
+dGFsbWVkaWV2YWxpc3Qub3JnL25ld3MvIj5odHRwOi8vd3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC5v
+cmcvbmV3cy88L2E+PGJyPgpXaWtpOiA8YSBocmVmPSJodHRwOi8vd3d3LmRpZ2l0YWxtZWRpZXZh
+bGlzdC5vcmcvd2lraS8iPmh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy93aWtpLzwv
+YT48YnI+ClR3aXR0ZXI6IDxhIGhyZWY9Imh0dHA6Ly90d2l0dGVyLmNvbS9kaWdpdGFsbWVkaWV2
+YWwiPmh0dHA6Ly90d2l0dGVyLmNvbS9kaWdpdGFsbWVkaWV2YWw8L2E+PGJyPgpGYWNlYm9vazog
+PGEgaHJlZj0iaHR0cDovL3d3dy5mYWNlYm9vay5jb20vZ3JvdXAucGhwP2dpZD00OTMyMDMxMzc2
+MCI+aHR0cDovL3d3dy5mYWNlYm9vay5jb20vZ3JvdXAucGhwP2dpZD00OTMyMDMxMzc2MDwvYT48
+YnI+CkRpc2N1c3Npb24gbGlzdDogZG0tbEB1bGV0aC5jYTxicj4KQ2hhbmdlIGxpc3Qgb3B0aW9u
+czogPGEgaHJlZj0iaHR0cDovL2xpc3RzZXJ2LnVsZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0t
+bCI+aHR0cDovL2xpc3RzZXJ2LnVsZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0tbDwvYT48YnI+
+CjwvZGl2Pgo8L3NwYW4+PC9mb250Pgo8L2JvZHk+CjwvaHRtbD4K

@@ -1,0 +1,283 @@
+Subject: [dm-l] Re: dm-l Digest, Vol 74, Issue 13Hello to everyone,To echo the sentiments of Dot and Maxim, I'd like to emphasize the
+importance of ad-hoc DIY digitization even without elaborate set-ups and
+procedures. Even a modest digital camera can go an awfully long way towards
+improving visibility of manuscripts (though obviously insufficient for
+official archival purposes). From a community standpoint (complicated
+logistical issues aside for the moment), I think that a large open access
+repository of legible images, even if some are subject to poor lighting and
+shaky hands, is far more valuable than a much smaller collection of more
+painstakingly produced digitizations. Ideally, we can pursue both at the
+same time. But I think it's useful to keep in mind what a tremendous
+resource even our quick and dirty image work can become--and that we
+shouldn't be discouraged from jumping in with an itchy trigger finger simply
+because we're worried that we're not following official best practices.The above comments probably reveal my preference for thinking about how to
+create and utilize an open access image repository (perhaps more of a social
+challenge than a technical one) rather than the logistics of producing
+images in the first place. Though by no means do I mean to minimize the
+challenges of digitization. Indeed, the discussion of how to meet the
+threshold of utility in image creation is a crucial first step. But a larger
+(and somewhat utopian) vision of manuscript image access, even with a
+latitude of image quality, is perhaps worth bearing in mind as best
+practices are worked out.Fred Gibbs_redacted_(a)uleth.ca>> Send dm-l mailing list submissions to
+_redacted_(a)uleth.ca
+>
+> To subscribe or unsubscribe via the World Wide Web, visit
+>        http://listserv.uleth.ca/mailman/listinfo/dm-l
+> or, via email, send a message with subject or body 'help' to
+_redacted_(a)uleth.ca
+>
+> You can reach the person managing the list at
+_redacted_(a)uleth.ca
+>
+> When replying, please edit your Subject line so it is more specific
+> than "Re: Contents of dm-l digest..."
+>
+> Today's Topics:
+>
+>   1. Re: Best practices for "scholar's own" digitization?
+>      (Maxim Romanov)
+>
+>
+> ---------- Forwarded message ----------
+_redacted_(a)umich.edu>
+_redacted_(a)ffzg.hr>
+> Date: Wed, 27 Oct 2010 12:31:54 -0400
+> Subject: Re: [dm-l] Best practices for "scholar's own" digitization?
+> Hi,
+>
+> This can quite efficiently done without engaging control via PC. I am
+> using two Canon 12 megapixel point-and-shoot cameras (SD 780). I am not
+> convinced that you need a DSLR camera for this (they are way to expensive
+> and do not necessarily provide a better image quality). I use them in
+> combination with some software (http://stereo.jpn.org/eng/sdm/index.htm)
+> that allows to use a usb switch to trigger both cameras at the same time
+> (you get two pages - left and right - in the same instance and 12 megapixel
+> is quite enough for up to A4 format). Thus, I end up with two flashcards
+> holding left and right pages separately. There are programs which allow to
+> renames images in batches (so,  I rename all right images as XXXX-1 and left
+> images as XXXX-2, where XXXX are automatically generated numbers). Then,
+> copy them into one folder and they are automatically arranged. Then, for
+> processing images I found an excellent freeware program, ScanTailor, that
+> does a great job - most of it automatically - processing images into nice
+> looking pages (http://scantailor.sourceforge.net/), which then can be
+> combined into a very nice looking PDF.
+>
+> Maxim
+>
+>
+>
+>
+>
+_redacted_(a)ffzg.hr>
+>
+>> Hi,
+>>
+>> a short technical afterthought on cameras.
+>>
+>> As we assembled the field kit following Todd Rester's ideas, it turned out
+>> that the SLR camera on offer, Canon PowerShot G11, did not have the option
+>> of remote operating through a computer.  This option was dropped (perhaps
+>> to be reserved for more expensive models).
+>>
+>> The model you can control through a computer, and which downloads the
+>> pictures directly to the hard disk, is the older (and therefore cheaper)
+>> CANON EOS 1000D. We bought this, and it really works.
+>>
+>> But anyone preparing to make photos in this way should consult a decent
+>> dealer or a photographer, and the internet. It's worth it --- you learn
+>> much in the process.
+>>
+>> This obviously calls for a "best practice" guide somewhere...
+>>
+>> Neven
+>>
+>>
+>>
+>> Digital Medievalist --  http://www.digitalmedievalist.org/
+>> Journal: http://www.digitalmedievalist.org/journal/
+>> Journal Editors: editors _AT_ digitalmedievalist.org
+>> News: http://www.digitalmedievalist.org/news/
+>> Wiki: http://www.digitalmedievalist.org/wiki/
+>> Twitter: http://twitter.com/digitalmedieval
+>> Facebook: http://www.facebook.com/group.php?gidI320313760
+_redacted_(a)uleth.ca
+>> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>>
+>>
+>>
+>
+> Digital Medievalist --  http://www.digitalmedievalist.org/
+> Journal: http://www.digitalmedievalist.org/journal/
+> Journal Editors: editors _AT_ digitalmedievalist.org
+> News: http://www.digitalmedievalist.org/news/
+> Wiki: http://www.digitalmedievalist.org/wiki/
+> Twitter: http://twitter.com/digitalmedieval
+> Facebook: http://www.facebook.com/group.php?gid=49320313760
+_redacted_(a)uleth.ca
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>-- 
+Frederick W Gibbs
+Assistant Professor
+Department of History and Art History <http://historyarthistory.gmu.edu/>
+Director of Digital Scholarship
+Center for History and New Media <http://chnm.gmu.edu>
+George Mason University <http://www.gmu.edu/>PG1ldGEgY2hhcnNldD0idXRmLTgiPkhlbGxvIHRvIGV2ZXJ5b25lLDxkaXY+PGJyPjwvZGl2Pjxk
+aXY+VG8gZWNobyB0aGUgc2VudGltZW50cyBvZiBEb3QgYW5kIE1heGltLCBJJiMzOTtkIGxpa2Ug
+dG8gZW1waGFzaXplIHRoZSBpbXBvcnRhbmNlIG9mIGFkLWhvYyBESVkgZGlnaXRpemF0aW9uIGV2
+ZW4gd2l0aG91dCBlbGFib3JhdGUgc2V0LXVwcyBhbmQgcHJvY2VkdXJlcy4gRXZlbiBhIG1vZGVz
+dCBkaWdpdGFsIGNhbWVyYSBjYW4gZ28gYW4gYXdmdWxseSBsb25nIHdheSB0b3dhcmRzIGltcHJv
+dmluZyB2aXNpYmlsaXR5IG9mIG1hbnVzY3JpcHRzICh0aG91Z2ggb2J2aW91c2x5IGluc3VmZmlj
+aWVudCBmb3Igb2ZmaWNpYWwgYXJjaGl2YWwgcHVycG9zZXMpLiBGcm9tIGEgY29tbXVuaXR5IHN0
+YW5kcG9pbnQgKGNvbXBsaWNhdGVkIGxvZ2lzdGljYWwgaXNzdWVzIGFzaWRlIGZvciB0aGUgbW9t
+ZW50KSwgSSB0aGluayB0aGF0IGEgbGFyZ2Ugb3BlbiBhY2Nlc3MgcmVwb3NpdG9yeSBvZiBsZWdp
+YmxlIGltYWdlcywgZXZlbiBpZiBzb21lIGFyZSBzdWJqZWN0IHRvIHBvb3IgbGlnaHRpbmcgYW5k
+IHNoYWt5IGhhbmRzLCBpcyBmYXIgbW9yZSB2YWx1YWJsZSB0aGFuIGEgbXVjaCBzbWFsbGVyIGNv
+bGxlY3Rpb24gb2YgbW9yZSBwYWluc3Rha2luZ2x5IHByb2R1Y2VkIGRpZ2l0aXphdGlvbnMuIElk
+ZWFsbHksIHdlIGNhbiBwdXJzdWUgYm90aCBhdCB0aGUgc2FtZSB0aW1lLiBCdXQgSSB0aGluayBp
+dCYjMzk7cyB1c2VmdWwgdG8ga2VlcCBpbiBtaW5kIHdoYXQgYSB0cmVtZW5kb3VzIHJlc291cmNl
+IGV2ZW4gb3VyIHF1aWNrIGFuZCBkaXJ0eSBpbWFnZSB3b3JrIGNhbiBiZWNvbWUtLWFuZCB0aGF0
+IHdlIHNob3VsZG4mIzM5O3QgYmUgZGlzY291cmFnZWQgZnJvbSBqdW1waW5nIGluIHdpdGggYW4g
+aXRjaHkgdHJpZ2dlciBmaW5nZXIgc2ltcGx5IGJlY2F1c2Ugd2UmIzM5O3JlIHdvcnJpZWQgdGhh
+dCB3ZSYjMzk7cmUgbm90IGZvbGxvd2luZyBvZmZpY2lhbCBiZXN0IHByYWN0aWNlcy48ZGl2Pgo8
+YnI+PC9kaXY+PGRpdj5UaGUgYWJvdmUgY29tbWVudHMgcHJvYmFibHkgcmV2ZWFsIG15IHByZWZl
+cmVuY2UgZm9yIHRoaW5raW5nIGFib3V0IGhvdyB0byBjcmVhdGUgYW5kIHV0aWxpemUgYW4gb3Bl
+biBhY2Nlc3MgaW1hZ2UgcmVwb3NpdG9yeSAocGVyaGFwcyBtb3JlIG9mIGEgc29jaWFsIGNoYWxs
+ZW5nZSB0aGFuIGEgdGVjaG5pY2FsIG9uZSnCoHJhdGhlciB0aGFuIHRoZSBsb2dpc3RpY3Mgb2Yg
+cHJvZHVjaW5nIGltYWdlcyBpbiB0aGUgZmlyc3QgcGxhY2UuIFRob3VnaCBieSBubyBtZWFucyBk
+byBJIG1lYW4gdG8gbWluaW1pemUgdGhlIGNoYWxsZW5nZXMgb2YgZGlnaXRpemF0aW9uLiBJbmRl
+ZWQsIHRoZSBkaXNjdXNzaW9uIG9mIGhvdyB0byBtZWV0IHRoZSB0aHJlc2hvbGQgb2YgdXRpbGl0
+eSBpbiBpbWFnZSBjcmVhdGlvbiBpcyBhIGNydWNpYWwgZmlyc3Qgc3RlcC4gQnV0IGEgbGFyZ2Vy
+IChhbmQgc29tZXdoYXQgdXRvcGlhbikgdmlzaW9uIG9mIG1hbnVzY3JpcHQgaW1hZ2UgYWNjZXNz
+LCBldmVuIHdpdGggYSBsYXRpdHVkZSBvZiBpbWFnZSBxdWFsaXR5LCBpcyBwZXJoYXBzIHdvcnRo
+IGJlYXJpbmcgaW4gbWluZCBhcyBiZXN0IHByYWN0aWNlcyBhcmUgd29ya2VkIG91dC48L2Rpdj4K
+PGRpdj48YnI+PC9kaXY+PGRpdj5GcmVkIEdpYmJzPC9kaXY+PGRpdj48L2Rpdj48YnI+PGRpdiBj
+bGFzcz0iZ21haWxfcXVvdGUiPjIwMTAvMTAvMjggIDxzcGFuIGRpcj0ibHRyIj4mbHQ7PGEgaHJl
+Zj0ibWFpbHRvOmRtLWwtcmVxdWVzdEB1bGV0aC5jYSI+ZG0tbC1yZXF1ZXN0QHVsZXRoLmNhPC9h
+PiZndDs8L3NwYW4+PGJyPjxibG9ja3F1b3RlIGNsYXNzPSJnbWFpbF9xdW90ZSIgc3R5bGU9Im1h
+cmdpbjowIDAgMCAuOGV4O2JvcmRlci1sZWZ0OjFweCAjY2NjIHNvbGlkO3BhZGRpbmctbGVmdDox
+ZXg7Ij4KU2VuZCBkbS1sIG1haWxpbmcgbGlzdCBzdWJtaXNzaW9ucyB0bzxicj4KIMKgIMKgIMKg
+IMKgPGEgaHJlZj0ibWFpbHRvOmRtLWxAdWxldGguY2EiPmRtLWxAdWxldGguY2E8L2E+PGJyPgo8
+YnI+ClRvIHN1YnNjcmliZSBvciB1bnN1YnNjcmliZSB2aWEgdGhlIFdvcmxkIFdpZGUgV2ViLCB2
+aXNpdDxicj4KIMKgIMKgIMKgIMKgPGEgaHJlZj0iaHR0cDovL2xpc3RzZXJ2LnVsZXRoLmNhL21h
+aWxtYW4vbGlzdGluZm8vZG0tbCIgdGFyZ2V0PSJfYmxhbmsiPmh0dHA6Ly9saXN0c2Vydi51bGV0
+aC5jYS9tYWlsbWFuL2xpc3RpbmZvL2RtLWw8L2E+PGJyPgpvciwgdmlhIGVtYWlsLCBzZW5kIGEg
+bWVzc2FnZSB3aXRoIHN1YmplY3Qgb3IgYm9keSAmIzM5O2hlbHAmIzM5OyB0bzxicj4KIMKgIMKg
+IMKgIMKgPGEgaHJlZj0ibWFpbHRvOmRtLWwtcmVxdWVzdEB1bGV0aC5jYSI+ZG0tbC1yZXF1ZXN0
+QHVsZXRoLmNhPC9hPjxicj4KPGJyPgpZb3UgY2FuIHJlYWNoIHRoZSBwZXJzb24gbWFuYWdpbmcg
+dGhlIGxpc3QgYXQ8YnI+CiDCoCDCoCDCoCDCoDxhIGhyZWY9Im1haWx0bzpkbS1sLW93bmVyQHVs
+ZXRoLmNhIj5kbS1sLW93bmVyQHVsZXRoLmNhPC9hPjxicj4KPGJyPgpXaGVuIHJlcGx5aW5nLCBw
+bGVhc2UgZWRpdCB5b3VyIFN1YmplY3QgbGluZSBzbyBpdCBpcyBtb3JlIHNwZWNpZmljPGJyPgp0
+aGFuICZxdW90O1JlOiBDb250ZW50cyBvZiBkbS1sIGRpZ2VzdC4uLiZxdW90Ozxicj4KPGJyPlRv
+ZGF5JiMzOTtzIFRvcGljczo8YnI+Cjxicj4KIMKgIDEuIFJlOiBCZXN0IHByYWN0aWNlcyBmb3Ig
+JnF1b3Q7c2Nob2xhciYjMzk7cyBvd24mcXVvdDsgZGlnaXRpemF0aW9uPzxicj4KIMKgIMKgIMKg
+KE1heGltIFJvbWFub3YpPGJyPgo8YnI+PGJyPi0tLS0tLS0tLS0gRm9yd2FyZGVkIG1lc3NhZ2Ug
+LS0tLS0tLS0tLTxicj5Gcm9tOsKgTWF4aW0gUm9tYW5vdiAmbHQ7PGEgaHJlZj0ibWFpbHRvOnJv
+bWFub3ZAdW1pY2guZWR1Ij5yb21hbm92QHVtaWNoLmVkdTwvYT4mZ3Q7PGJyPlRvOsKgJnF1b3Q7
+TmV2ZW4gSm92YW5vdmnEhyZxdW90OyAmbHQ7PGEgaHJlZj0ibWFpbHRvOm5ldmVuLmpvdmFub3Zp
+Y0BmZnpnLmhyIj5uZXZlbi5qb3Zhbm92aWNAZmZ6Zy5ocjwvYT4mZ3Q7PGJyPgpEYXRlOsKgV2Vk
+LCAyNyBPY3QgMjAxMCAxMjozMTo1NCAtMDQwMDxicj5TdWJqZWN0OsKgUmU6IFtkbS1sXSBCZXN0
+IHByYWN0aWNlcyBmb3IgJnF1b3Q7c2Nob2xhciYjMzk7cyBvd24mcXVvdDsgZGlnaXRpemF0aW9u
+Pzxicj48ZGl2IGRpcj0ibHRyIj48Zm9udCBmYWNlPSJnZW9yZ2lhLCBzZXJpZiI+PHNwYW4gc3R5
+bGU9ImZvbnQtc2l6ZTpsYXJnZSI+SGksPC9zcGFuPjwvZm9udD48ZGl2Pgo8Zm9udCBmYWNlPSJn
+ZW9yZ2lhLCBzZXJpZiI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTpsYXJnZSI+PGJyPgo8L3NwYW4+
+PC9mb250PjwvZGl2PjxkaXY+PGZvbnQgZmFjZT0iZ2VvcmdpYSwgc2VyaWYiPjxzcGFuIHN0eWxl
+PSJmb250LXNpemU6bGFyZ2UiPlRoaXMgY2FuIHF1aXRlIGVmZmljaWVudGx5IGRvbmUgd2l0aG91
+dCBlbmdhZ2luZyBjb250cm9sIHZpYSBQQy7CoDwvc3Bhbj48L2ZvbnQ+PGZvbnQgZmFjZT0iZ2Vv
+cmdpYSwgc2VyaWYiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6bGFyZ2UiPkkgYW0gdXNpbmcgdHdv
+IENhbm9uIDEyIG1lZ2FwaXhlbCBwb2ludC1hbmQtc2hvb3QgY2FtZXJhcyAoU0QgNzgwKS4gSSBh
+bSBub3QgY29udmluY2VkIHRoYXQgeW91IG5lZWQgYSBEU0xSIGNhbWVyYSBmb3IgdGhpcyAodGhl
+eSBhcmUgd2F5IHRvIGV4cGVuc2l2ZSBhbmQgZG8gbm90IG5lY2Vzc2FyaWx5IHByb3ZpZGUgYSBi
+ZXR0ZXIgaW1hZ2UgcXVhbGl0eSkuIEkgdXNlIHRoZW0gaW4gY29tYmluYXRpb24gd2l0aCBzb21l
+IHNvZnR3YXJlICg8L3NwYW4+PC9mb250PjxhIGhyZWY9Imh0dHA6Ly9zdGVyZW8uanBuLm9yZy9l
+bmcvc2RtL2luZGV4Lmh0bSIgdGFyZ2V0PSJfYmxhbmsiPmh0dHA6Ly9zdGVyZW8uanBuLm9yZy9l
+bmcvc2RtL2luZGV4Lmh0bTwvYT48c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6Z2VvcmdpYSwgc2Vy
+aWY7Zm9udC1zaXplOmxhcmdlIj4pIHRoYXQgYWxsb3dzIHRvIHVzZSBhIHVzYiBzd2l0Y2ggdG8g
+dHJpZ2dlciBib3RoIGNhbWVyYXMgYXQgdGhlIHNhbWUgdGltZSAoeW91IGdldCB0d28gcGFnZXMg
+LSBsZWZ0IGFuZCByaWdodCAtIGluIHRoZSBzYW1lIGluc3RhbmNlIGFuZCAxMiBtZWdhcGl4ZWwg
+aXMgcXVpdGUgZW5vdWdoIGZvciB1cCB0byBBNCBmb3JtYXQpLiBUaHVzLCBJIGVuZCB1cCB3aXRo
+IHR3byBmbGFzaGNhcmRzIGhvbGRpbmcgbGVmdCBhbmQgcmlnaHQgcGFnZXMgc2VwYXJhdGVseS4g
+VGhlcmUgYXJlIHByb2dyYW1zIHdoaWNoIGFsbG93IHRvIHJlbmFtZXMgaW1hZ2VzIGluIGJhdGNo
+ZXMgKHNvLCDCoEkgcmVuYW1lIGFsbCByaWdodCBpbWFnZXMgYXMgWFhYWC0xIGFuZCBsZWZ0IGlt
+YWdlcyBhcyBYWFhYLTIsIHdoZXJlIFhYWFggYXJlIGF1dG9tYXRpY2FsbHkgZ2VuZXJhdGVkIG51
+bWJlcnMpLiBUaGVuLCBjb3B5IHRoZW0gaW50byBvbmUgZm9sZGVyIGFuZCB0aGV5IGFyZSBhdXRv
+bWF0aWNhbGx5IGFycmFuZ2VkLiBUaGVuLCBmb3IgcHJvY2Vzc2luZyBpbWFnZXMgSSBmb3VuZCBh
+biBleGNlbGxlbnQgZnJlZXdhcmUgcHJvZ3JhbSwgU2NhblRhaWxvciwgdGhhdCBkb2VzIGEgZ3Jl
+YXQgam9iIC0gbW9zdCBvZiBpdCBhdXRvbWF0aWNhbGx5IC0gcHJvY2Vzc2luZyBpbWFnZXMgaW50
+byBuaWNlIGxvb2tpbmcgcGFnZXMgKDwvc3Bhbj48YSBocmVmPSJodHRwOi8vc2NhbnRhaWxvci5z
+b3VyY2Vmb3JnZS5uZXQvIiB0YXJnZXQ9Il9ibGFuayI+aHR0cDovL3NjYW50YWlsb3Iuc291cmNl
+Zm9yZ2UubmV0LzwvYT48c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6Z2VvcmdpYSwgc2VyaWY7Zm9u
+dC1zaXplOmxhcmdlIj4pLCB3aGljaCB0aGVuIGNhbiBiZSBjb21iaW5lZCBpbnRvIGEgdmVyeSBu
+aWNlIGxvb2tpbmcgUERGLjwvc3Bhbj48L2Rpdj4KCjxkaXY+PHNwYW4gc3R5bGU9ImZvbnQtZmFt
+aWx5Omdlb3JnaWEsIHNlcmlmO2ZvbnQtc2l6ZTpsYXJnZSI+PGJyPjwvc3Bhbj48L2Rpdj48ZGl2
+PjxzcGFuIHN0eWxlPSJmb250LWZhbWlseTpnZW9yZ2lhLCBzZXJpZjtmb250LXNpemU6bGFyZ2Ui
+Pk1heGltPC9zcGFuPjwvZGl2PjxkaXY+CjxzcGFuIHN0eWxlPSJmb250LWZhbWlseTpnZW9yZ2lh
+LCBzZXJpZjtmb250LXNpemU6bGFyZ2UiPjxicj48L3NwYW4+PC9kaXY+PGRpdj48c3BhbiBzdHls
+ZT0iZm9udC1mYW1pbHk6Z2VvcmdpYSwgc2VyaWY7Zm9udC1zaXplOmxhcmdlIj48YnI+PC9zcGFu
+PjwvZGl2PjxkaXY+PGJyPgoKPGJyPjxicj48ZGl2IGNsYXNzPSJnbWFpbF9xdW90ZSI+MjAxMC8x
+MC8yNyBOZXZlbiBKb3Zhbm92acSHIDxzcGFuIGRpcj0ibHRyIj4mbHQ7PGEgaHJlZj0ibWFpbHRv
+Om5ldmVuLmpvdmFub3ZpY0BmZnpnLmhyIiB0YXJnZXQ9Il9ibGFuayI+bmV2ZW4uam92YW5vdmlj
+QGZmemcuaHI8L2E+Jmd0Ozwvc3Bhbj48YnI+PGJsb2NrcXVvdGUgY2xhc3M9ImdtYWlsX3F1b3Rl
+IiBzdHlsZT0ibWFyZ2luOjAgMCAwIC44ZXg7Ym9yZGVyLWxlZnQ6MXB4ICNjY2Mgc29saWQ7cGFk
+ZGluZy1sZWZ0OjFleCI+CgpIaSw8YnI+Cjxicj4KYSBzaG9ydCB0ZWNobmljYWwgYWZ0ZXJ0aG91
+Z2h0IG9uIGNhbWVyYXMuPGJyPgo8YnI+CkFzIHdlIGFzc2VtYmxlZCB0aGUgZmllbGQga2l0IGZv
+bGxvd2luZyBUb2RkIFJlc3RlciYjMzk7cyBpZGVhcywgaXQgdHVybmVkIG91dDxicj4KdGhhdCB0
+aGUgU0xSIGNhbWVyYSBvbiBvZmZlciwgQ2Fub24gUG93ZXJTaG90IEcxMSwgZGlkIG5vdCBoYXZl
+IHRoZSBvcHRpb248YnI+Cm9mIHJlbW90ZSBvcGVyYXRpbmcgdGhyb3VnaCBhIGNvbXB1dGVyLiDC
+oFRoaXMgb3B0aW9uIHdhcyBkcm9wcGVkIChwZXJoYXBzPGJyPgp0byBiZSByZXNlcnZlZCBmb3Ig
+bW9yZSBleHBlbnNpdmUgbW9kZWxzKS48YnI+Cjxicj4KVGhlIG1vZGVsIHlvdSBjYW4gY29udHJv
+bCB0aHJvdWdoIGEgY29tcHV0ZXIsIGFuZCB3aGljaCBkb3dubG9hZHMgdGhlPGJyPgpwaWN0dXJl
+cyBkaXJlY3RseSB0byB0aGUgaGFyZCBkaXNrLCBpcyB0aGUgb2xkZXIgKGFuZCB0aGVyZWZvcmUg
+Y2hlYXBlcik8YnI+CkNBTk9OIEVPUyAxMDAwRC4gV2UgYm91Z2h0IHRoaXMsIGFuZCBpdCByZWFs
+bHkgd29ya3MuPGJyPgo8YnI+CkJ1dCBhbnlvbmUgcHJlcGFyaW5nIHRvIG1ha2UgcGhvdG9zIGlu
+IHRoaXMgd2F5IHNob3VsZCBjb25zdWx0IGEgZGVjZW50PGJyPgpkZWFsZXIgb3IgYSBwaG90b2dy
+YXBoZXIsIGFuZCB0aGUgaW50ZXJuZXQuIEl0JiMzOTtzIHdvcnRoIGl0IC0tLSB5b3UgbGVhcm48
+YnI+Cm11Y2ggaW4gdGhlIHByb2Nlc3MuPGJyPgo8YnI+ClRoaXMgb2J2aW91c2x5IGNhbGxzIGZv
+ciBhICZxdW90O2Jlc3QgcHJhY3RpY2UmcXVvdDsgZ3VpZGUgc29tZXdoZXJlLi4uPGJyPgo8YnI+
+Ck5ldmVuPGJyPgo8YnI+Cjxicj4KPGJyPgpEaWdpdGFsIE1lZGlldmFsaXN0IC0tIMKgPGEgaHJl
+Zj0iaHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnLyIgdGFyZ2V0PSJfYmxhbmsiPmh0
+dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy88L2E+PGJyPgpKb3VybmFsOiA8YSBocmVm
+PSJodHRwOi8vd3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmcvam91cm5hbC8iIHRhcmdldD0iX2Js
+YW5rIj5odHRwOi8vd3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmcvam91cm5hbC88L2E+PGJyPgpK
+b3VybmFsIEVkaXRvcnM6IGVkaXRvcnMgX0FUXyA8YSBocmVmPSJodHRwOi8vZGlnaXRhbG1lZGll
+dmFsaXN0Lm9yZyIgdGFyZ2V0PSJfYmxhbmsiPmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmc8L2E+PGJy
+PgpOZXdzOiA8YSBocmVmPSJodHRwOi8vd3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmcvbmV3cy8i
+IHRhcmdldD0iX2JsYW5rIj5odHRwOi8vd3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmcvbmV3cy88
+L2E+PGJyPgpXaWtpOiA8YSBocmVmPSJodHRwOi8vd3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmcv
+d2lraS8iIHRhcmdldD0iX2JsYW5rIj5odHRwOi8vd3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmcv
+d2lraS88L2E+PGJyPgpUd2l0dGVyOiA8YSBocmVmPSJodHRwOi8vdHdpdHRlci5jb20vZGlnaXRh
+bG1lZGlldmFsIiB0YXJnZXQ9Il9ibGFuayI+aHR0cDovL3R3aXR0ZXIuY29tL2RpZ2l0YWxtZWRp
+ZXZhbDwvYT48YnI+CkZhY2Vib29rOiA8YSBocmVmPSJodHRwOi8vd3d3LmZhY2Vib29rLmNvbS9n
+cm91cC5waHA/Z2lkSTMyMDMxMzc2MCIgdGFyZ2V0PSJfYmxhbmsiPmh0dHA6Ly93d3cuZmFjZWJv
+b2suY29tL2dyb3VwLnBocD9naWRJMzIwMzEzNzYwPC9hPjxicj4KRGlzY3Vzc2lvbiBsaXN0OiA8
+YSBocmVmPSJtYWlsdG86ZG0tbEB1bGV0aC5jYSIgdGFyZ2V0PSJfYmxhbmsiPmRtLWxAdWxldGgu
+Y2E8L2E+PGJyPgpDaGFuZ2UgbGlzdCBvcHRpb25zOiA8YSBocmVmPSJodHRwOi8vbGlzdHNlcnYu
+dWxldGguY2EvbWFpbG1hbi9saXN0aW5mby9kbS1sIiB0YXJnZXQ9Il9ibGFuayI+aHR0cDovL2xp
+c3RzZXJ2LnVsZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0tbDwvYT48YnI+Cjxicj4KPGJyPgo8
+L2Jsb2NrcXVvdGU+PC9kaXY+PGJyPjwvZGl2PjwvZGl2Pgo8YnI+RGlnaXRhbCBNZWRpZXZhbGlz
+dCAtLSDCoDxhIGhyZWY9Imh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy8iIHRhcmdl
+dD0iX2JsYW5rIj5odHRwOi8vd3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmcvPC9hPjxicj4KSm91
+cm5hbDogPGEgaHJlZj0iaHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnL2pvdXJuYWwv
+IiB0YXJnZXQ9Il9ibGFuayI+aHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnL2pvdXJu
+YWwvPC9hPjxicj4KSm91cm5hbCBFZGl0b3JzOiBlZGl0b3JzIF9BVF8gPGEgaHJlZj0iaHR0cDov
+L2RpZ2l0YWxtZWRpZXZhbGlzdC5vcmciIHRhcmdldD0iX2JsYW5rIj5kaWdpdGFsbWVkaWV2YWxp
+c3Qub3JnPC9hPjxicj4KTmV3czogPGEgaHJlZj0iaHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxp
+c3Qub3JnL25ld3MvIiB0YXJnZXQ9Il9ibGFuayI+aHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxp
+c3Qub3JnL25ld3MvPC9hPjxicj4KV2lraTogPGEgaHJlZj0iaHR0cDovL3d3dy5kaWdpdGFsbWVk
+aWV2YWxpc3Qub3JnL3dpa2kvIiB0YXJnZXQ9Il9ibGFuayI+aHR0cDovL3d3dy5kaWdpdGFsbWVk
+aWV2YWxpc3Qub3JnL3dpa2kvPC9hPjxicj4KVHdpdHRlcjogPGEgaHJlZj0iaHR0cDovL3R3aXR0
+ZXIuY29tL2RpZ2l0YWxtZWRpZXZhbCIgdGFyZ2V0PSJfYmxhbmsiPmh0dHA6Ly90d2l0dGVyLmNv
+bS9kaWdpdGFsbWVkaWV2YWw8L2E+PGJyPgpGYWNlYm9vazogPGEgaHJlZj0iaHR0cDovL3d3dy5m
+YWNlYm9vay5jb20vZ3JvdXAucGhwP2dpZD00OTMyMDMxMzc2MCIgdGFyZ2V0PSJfYmxhbmsiPmh0
+dHA6Ly93d3cuZmFjZWJvb2suY29tL2dyb3VwLnBocD9naWQ9NDkzMjAzMTM3NjA8L2E+PGJyPgpE
+aXNjdXNzaW9uIGxpc3Q6IDxhIGhyZWY9Im1haWx0bzpkbS1sQHVsZXRoLmNhIj5kbS1sQHVsZXRo
+LmNhPC9hPjxicj4KQ2hhbmdlIGxpc3Qgb3B0aW9uczogPGEgaHJlZj0iaHR0cDovL2xpc3RzZXJ2
+LnVsZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0tbCIgdGFyZ2V0PSJfYmxhbmsiPmh0dHA6Ly9s
+aXN0c2Vydi51bGV0aC5jYS9tYWlsbWFuL2xpc3RpbmZvL2RtLWw8L2E+PGJyPjwvYmxvY2txdW90
+ZT48L2Rpdj48YnI+PGJyIGNsZWFyPSJhbGwiPjxicj4tLSA8YnI+RnJlZGVyaWNrIFcgR2liYnM8
+ZGl2PgpBc3Npc3RhbnQgUHJvZmVzc29yPC9kaXY+PGRpdj48YSBocmVmPSJodHRwOi8vaGlzdG9y
+eWFydGhpc3RvcnkuZ211LmVkdS8iIHRhcmdldD0iX2JsYW5rIj5EZXBhcnRtZW50IG9mIEhpc3Rv
+cnkgYW5kIEFydCBIaXN0b3J5PC9hPjwvZGl2PjxkaXY+RGlyZWN0b3Igb2YgRGlnaXRhbCBTY2hv
+bGFyc2hpcDwvZGl2PjxkaXY+PGEgaHJlZj0iaHR0cDovL2Nobm0uZ211LmVkdSIgdGFyZ2V0PSJf
+YmxhbmsiPkNlbnRlciBmb3IgSGlzdG9yeSBhbmQgTmV3IE1lZGlhPC9hPjwvZGl2Pgo8ZGl2Pjxh
+IGhyZWY9Imh0dHA6Ly93d3cuZ211LmVkdS8iIHRhcmdldD0iX2JsYW5rIj5HZW9yZ2UgTWFzb24g
+VW5pdmVyc2l0eTwvYT48L2Rpdj48YnI+CjwvZGl2Pgo=

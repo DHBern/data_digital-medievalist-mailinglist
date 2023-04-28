@@ -1,0 +1,131 @@
+Subject: Re: [dm-l] Multiple streams / stages of footnotes: what solutions?Dear Philipp, thanks for the feedback!
+My question was more out of general interest BTW, without a particular=20
+project in mind (although I might certainly be interested in such=20
+solutions myself).
+When you need to use LaTex fot the typesetting of a "complicated"=20
+edition, wouldn't you recommend encoding it in TEI in the first place,=20
+then XSLT it in LaTex? Actually, I had until recently vaguely thought=20
+that XSL FO could handle multiple layers of footnotes, making it=20
+possible to create a camera-ready PDF directly from the XML TEI file,=20
+but according to a discussion on another list=20
+(http://listserv.inist.fr/sympa/arc/tei-fr/2010-06/msg00002.html) it=20
+doesn't seem possible.
+Best, MarjoriePhilipp Reichmuth wrote:
+> Dear Marjorie,
+>
+> you mention three major constraints: time, money, and the
+> unavailability of someone to do the typesetting for you. However, it
+> is a bit unclear whether you are looking for a solution for a
+> particular editing project of your own or for something to recommend
+> to somebody else, for example to students. Also, what do you want this
+> software to do, other than multiple footnote levels? What kind of text
+> are you editing? How large is it? Are there multiple alphabets
+> involved? Does the edition make heavy use of cross-references? Is
+> there a need for managing a bibliography?
+>
+> Personally I would still recommend LaTeX for critical editions, but
+> with a good frontend to make it accessible. On that front I would
+> recommend LyX, which is effectively a graphical document processor
+> that uses LaTeX for producing printed output, so that one hardly ever
+> has to get into the \more{intimidating} aspects of LaTeX. There is a
+> bit of a learning curve, but LyX does a very good job of keeping it
+> manageable. It may be somewhat geeky, but then again philology in
+> general and critical editions in particular are already slightly nerdy
+> endeavours in themselves, and as long as the final PDF looks fine the
+> geekiness of the process does not really matter much, or so it would
+> seem to me.
+>
+> Regarding multiple footnote levels, there are LaTeX packages to do
+> that (for example "bigfoot" by David Kastrup) and examples how to make
+> them accessible as LyX modules (e.g.
+_redacted_(a)lists.lyx.org/msg77335.html).
+> There is also a rather friendly user community and mailing list.
+>
+> Personally I've used it for a recently-finished 320-page manuscript
+> with edited text in three alphabets, including right-to-left text and
+> heavy use of diacritics, some fifty graphical figures, an
+> automatically-generated 550-entry bibliography and and some 1500
+> cross-references. Only one footnote level, though, but multiple levels
+> would have been no problem.
+>
+> Philipp
+>
+> On Tue, Jun 15, 2010 at 3:06 PM, Marjorie Burghart
+_redacted_(a)ehess.fr> wrote:
+>  =20
+>> Dear Godfried,
+>> Of course, you have a point there: typesetting is a job on its own.
+>> Although, there are occasions on which you might want to handle the multip=
+le
+>> layers of footnotes: either when you have to prepare the camera-ready file
+>> without the help of a professional typesetter (I know many students, for
+>> instance, who have to use LaTex for the critical edition included in their
+>> thesis, just to obtain the mandatory multiple layers), or also when you
+>> simply want to have a "cleaner" apparatus for your own use on a
+>> "work-in-progress" critical edition.
+>>
+>> Marjorie
+>>
+>>
+>> Croenen, Godfried wrote:
+>>    =20
+>>> Dear Marjorie,
+>>>
+>>> I fully recognise the problem but unless you want do the typesetting
+>>> yourself, then there is no real need to use any of these packages. My
+>>> personal experience teaches me that professional typesetters can perfectly
+>>> set as many layers of footnotes as you need and many of them will take XML
+>>> or SGML files as input.
+>>>
+>>> Godfried
+>>>
+>>> -----Original Message-----
+_redacted_(a)uleth.ca] On Behalf =
+Of
+>>> Marjorie Burghart
+>>> Sent: 15 June 2010 09:54
+_redacted_(a)uleth.ca
+>>> Subject: [dm-l] Multiple streams / stages of footnotes: what solutions?
+>>>
+>>> Dear list,
+>>> As those of you who have had the pleasure to tackle critical editions in
+>>> printed form know, the traditional
+>>> mutiple streams or "stages" of footnotes (variants + biblical references +
+>>> sources, for instance) are a real pain, and very few solutions are offere=
+d.
+>>>
+>>> I knew of two, mainly (leaving aside InDesign and the like): LaTex (for
+>>> the bold and slightly geeky critical editor with time on his hands), and =
+the
+>>> Classical Text Editor, an apparently quite interesting text editor dedica=
+ted
+>>> to critical editions (unfortunately rather expensive).
+>>>
+>>> I have just discovered that, apparently, a word processor for MacOSX is
+>>> capable of handling those multiple layers:
+>>> http://www.redlers.com/mellelscholars.htm
+>>> See also for a more detailed explanation of the footnotes features p. 111-
+>>> 124 in the PDF manual:
+>>> http://www.connectnw.com/redlers/MellelGuide.pdf
+>>> Unfortunately, I have no MacOsX at hand for the moment, and haven't been
+>>> able to give this word processor a test yet. But I would be very interest=
+ed
+>>> to hear from the DM-L list members, if ever some of you had tried this
+>>> Mellel software.
+>>>
+>>> More generally, do some of you use other solutions to handle multiple
+>>> streams of footnotes in their *printed* editions, and what is your assesm=
+ent
+>>> of the various solutions?
+>>>
+>>> Best, Marjorie
+>>>
+>>>
+>>>      =20--=20
+Marjorie BURGHART
+EHESS (p=C3=B4le de Lyon) / UMR 5648
+Histoire et Arch=C3=A9ologie des Mondes Chr=C3=A9tiens et Musulmans M=C3=A9di=
+=C3=A9vaux
+18 quai Claude Bernard
+69007 Lyon - FRANCE
+--===============0948138000367016067==--

@@ -1,0 +1,675 @@
+Subject: Re: [dm-l] best practice: photographc facsimile?Hi, All  (and, hello to my colleague, Lisa) -As primarily a _user_ of manuscripts and MS images online, I first want to ch=
+ime in with those arguing against plugins.  Although zoomify, Virtual Vellum,=
+ and DjVu all get the job done, they're not particularly pleasant to work wit=
+h. (A quick glance at the OpenSocial plugins that Troy linked to below sugges=
+ts they're pretty slick, and Mac/iPad usability is particularly welcome, thou=
+gh zoom/pan functionality didn't actually work on my iPad.) Plugins are _alwa=
+ys_ a hassle, and after a year or two has passed, often a nightmare (e.g. the=
+ Windows-only SID plugin used by the Auchinleck project).The fundamental issue that David raises remains unanswered, largely because t=
+here are a series of overlapping use-cases that don't neatly resolve to decis=
+ions about file format/file size/appropriate magnification, let alone against=
+ the different resolutions and dpis of screens and printers.  Both f. 30v and=
+ 284r are nominally readable, although the horizontal distance between the fu=
+ll-text transcription and the ms image make it rather a pain in the neck.  (T=
+his is, I assume, why T-PEN and Quentin Miller's Diplomat software offer tran=
+scription space just below ms lines, rather than adjacent, but as David indic=
+ates this is for transcription _checking_, the gap is an inconvenience rather=
+ than a deal-breaker.)  The higher-quality image of f. 30v is vastly easier t=
+o work with, particularly with the magnifier tool, where the low resolution o=
+f f. 284r becomes noticeable.  Were I transcribing f. 30v, I think the overvi=
+ew/zoom view are pretty much spot on - it's difficult for me to imagine scena=
+rios when transcribing or checking a transcription that would require differe=
+nt levels of zoom (other than switching from a desktop to a laptop/ipad.  Tha=
+t said, I did open the underlying  image in a separate window at what it's re=
+porting as 1970x2666, since the magnifying tool precludes that).  If I were t=
+eaching with this image, however, I would want a third or fourth level of zoo=
+m: complete page, maybe 1/4 of a page, and then the max-zoom of the current m=
+agnifier.  If you're not anticipating people teaching with these images, thes=
+e aren't intermediary image sizes you need to provide, nor do you need to res=
+ort to more capable plug-in zoom tools.Again, as an end-user, lossless files are unwieldy - I have plenty of 50mb ti=
+ff files scanned from microfilm on my computer that are easier to avoid, when=
+ever possible, even with a decently recent computer.  If I'm transcribing the=
+m, I'll work from perfectly readable 72dpi versions of 3325x2409 Tiff images =
+of bifolia, and only return to the originals in rare cases.  I don't mind the=
+ minor compromises of a lossy codec for the speed and convenience of a 2-3MB =
+file, as long as you 1) warn me that's what you're providing, 2) make those s=
+izes and zoom options consistent across a single manuscript, and ideally all =
+of a project's manuscripts, and 3) offer options for accessing larger images =
+(or, explain that you can't for licensing, revenue, or other reasons, cf. Iri=
+sh Script on Screen or Stanford/Parker on the Web.)So, in short, from my perspective, f. 30v is about right - you're fudging thi=
+ngs by condensing the image into the frame on the right, which depends on the=
+ user's browser window size, and may be less readable on a laptop than the de=
+sktop I'm currently working on.  The javascript magnifier is nifty, though it=
+'s a bit annoying that it can't be turned off, rather than only tucked away i=
+n a corner.  And none of this brings you any closer to best practices for the=
+ back end.Kind regards,
+Matthew
+Matthew Fisher
+Assistant Professor
+Department of English
+University of California, Los AngelesOn Jun 19, 2012, at 11:22 AM, McAulay, Elizabeth wrote:Hi all,I'll add my perspective from working in digital libraries and from working on=
+ the St Gall Monastery Virtual Library (http://www.stgallplan.org/). Pan and =
+zoom is my preferrered viewing interface. We use zoomify in our application, =
+but just because it's our best choice right now. The biggest drawback is the =
+flashviewer. Rules out ipad and iphone users from even knowing the images exi=
+st. So we're interested in going with jpeg 2000 and we will through the islan=
+dora package soon. I'm curious to hear others findings about Jpeg2000.Best,Lisa McAulay
+Librarian for Digital Collection Development
+UCLA Digital Library Program
+http://digital.library.ucla.edu/_redacted_(a)crosswire.org> wro=
+te:I am excited to see discussion on this topic.  We host an online repository o=
+f images, transcriptions, and collation tools for scholars doing text critici=
+sm on the New Testament.  Often, holding institutions of the ~5600 manuscript=
+ copies will not give us permission to house digital images on our own site, =
+but insist on us feeding the images to our users from their website.  This ma=
+kes providing a seamless experience for our users a challenging task.Our system is composed of a suite of OpenSocial gadgets and one of those gadg=
+ets is an image viewer which provides drag to pan, wheel (or 2 fingers up/dow=
+n on a mac) to zoom, brightness/contrast adjust, box annotations, and persist=
+ent URLs back to an adjusted view.  It's all javascript and requires no serve=
+r side or extra client side components beyond the web browser and can view re=
+mote URLs for pretty much any image with a link on the internet.  It's all fr=
+eely available for your use-- easy dropin if you're working inside an opensoc=
+ial container, or we have a standalone version too which is a simple popup we=
+bpage.You can try the gadget out here:http://ntvmr.uni-muenster.de/manuscript-workspace?docid=3D10001
+(click on a thumbnail and it will load the full image)and the standalone version can be seen by clicking the permalink icon ("Embed=
+dable External Viewer Link To This Image") to generate a return link to your =
+view of the image.
+(The "Discuss" button doesn't really do anything if you're not logged in, so =
+avoid that one unless you create an account)We also have a firefox plugin which will construct the appropriate link for v=
+iewing an image in the image viewer.  You simply install the plugin, browse t=
+o any internet page with an image in which you are interested in, and then on=
+ the plugin, press "Annotate".  It's crude and assumes the largest image on t=
+he page is the one you'd are interested in, but mostly does what our users ex=
+pect.  It can read images from some sites which use custom viewers by piecing=
+ tiles together, but mostly the images must be simple jpg, png, gif images.Hope this is helpful.  Please feel free to contact me if you have questions,TroyVirtual Manuscript Room
+Institut f=C3=BCr Neutestamentliche TextforschungOn 06/19/2012 11:53 AM, Tony Harris wrote:
+Hi DavidThis is a really good question. I came into academia with an established back=
+ground as an digital imaging scientist and as far as I can see at the moment,=
+ there are no real standards for image digitation or reproduction in the acad=
+emic world that can be used effectively by scholars. For example TEI says a l=
+ot about how you reference your images but (unsurprisingly) doesn't attempt t=
+o give any guidance on how you get them into an appropriate resolution or col=
+our depth in the first place. JISC also give some guidance here but many of t=
+heir project specifications often seem to favour 4800dpi in 24bit colour. Not=
+ very helpful if (for example) you are scanning First World War black and whi=
+te photographs which have a relatively low lines per inch resolution (search =
+for lpi to dpi calculators online) or if you are using a scanner which has a =
+maximum optical resolution of (say) 2400dpi and everything else is interpolat=
+ed resolution. These things will of course differ from project t
+o projectwhich is why it is so difficult to lay down accurate guidelines.I ran a workshop at Kalamazoo which dealt with some of these issues ('Digital=
+ Imaging for Medievalists'). Interestingly enough I scanned and printed some =
+conventional (pre-digital) black and white and colour photographs at various =
+resolutions and colour depths and not one person out of the 30 people who cam=
+e to the session correctly identified which ones were which out of each set. =
+In my view, what we really need are some standards and accurate guidelines an=
+d I am researching this area at the moment. For example, not many people real=
+ise that some pre-digital transparencies are between 2,000 and 4,000 lines re=
+solution (lpi) which puts many digital cameras in the shade.Moving to your question, I think the important thing to understand is that sc=
+reen resolutions are still extremely low when compared with (say) printer res=
+olutions. For example a typical laptop screen at 1024x768 is between 75dpi an=
+d 100dpi depending on the physical screen size. Many modern mobile phone/smar=
+t phone dpi tends to be around 150dpi. Of course these are all generalisation=
+s and there are many web based calculators such as http://tiporama.com/tools/=
+pixels_inches.html which can give you a better idea of resolution capability =
+on a device by device basis. Compare that with an EPSON printer at 1440dpi ho=
+rizontal resolution and you will understand and appreciate the comparison. So=
+ it is important to understand that the image you display at any one time on =
+the screen can be relatively low (for performance reasons), but the underlyin=
+g source image (the original scan) needs to be high and lossless to allow the=
+ best level of zoom as you move closer and closer into the page.
+As a palaeographer, I want to be able to see 'the big picture' (i.e. the whole page) =
+at any one time but then I also want to be able to zoom into sections of the =
+manuscript and then down to the individual characters (without pixellation)  =
+to determine if that character really is an "S" or an "A" (palaeographers wil=
+l get the joke here). The problem with most lossy compressions is that the 'b=
+ig picture' is great but, as you zoom in, you start to see significant degrad=
+ation of the image (a by-product of the way the compression is done) which ge=
+ts in the way of scholarly interpretation. For example take a high resolution=
+ TIFF image, compress it at various JPG levels and then print it full page on=
+ a high resolution printer. You will find that all the samples are virtually =
+indistinguishable from each other until you bring out a magnifying glass and =
+then all will become depressingly clear in terms of the drop in image quality=
+/fidelity at the lowest file sizes.As other contributors have indicated, there are various solutions (e.g. http:=
+//djvu.org/resources/whatisdjvu.php and Virtual Vellum) which can also help, =
+but the resolution, compression and colour depth of the underlying image is s=
+till key. As James implies, it is also important to select a software solutio=
+n that has longevity and is not going to disappear or change once your resear=
+ch project is completed. There are a number of Flash based viewers around but=
+ (as James also implies), Adobe's track record at maintaining backward compat=
+ibility (and even retaining technology) has not been that great in the past. =
+Having said that, Adobe Flash has installations that run into at least the te=
+ns of millions so it is unlikely to disappear overnight but we all know Apple=
+'s stance on Adobe Flash!So in closing, I think the most important thing to ensure, for any manuscript=
+ project at least, is that the underlying image is at the highest resolution =
+possible (lossless) and the capabilities to zoom into 'snapshots' of that ima=
+ge are flexible in terms of the zoom factors allowed. However, the image 'sna=
+pshot' that gets displayed at any one time on the screen can be relatively lo=
+w for optimal performance but it still needs to be an accurate subset of the =
+original image and as a result downscaling resolution from a lossy compressed=
+ original is unlikely to work very well. As I recall, this downscaling is som=
+ething that Virtual Vellum does well as does Photoshop of course but to ident=
+ify one of the many tools and plug-in's which operate in a similar and approp=
+riate way for your particular needs and custom website will of course need yo=
+ur further research.Hope this helpsBest regardsTony Harris
+Kellogg College, Oxford-----Original Message-----
+_redacted_(a)uleth.ca] On Behalf Of B=
+irnbaum, David J
+Sent: 19 June 2012 01:42
+_redacted_(a)uleth.ca
+Subject: [dm-l] best practice: photographc facsimile?Dear Digital Medievalist,For a couple of new Internet editions of medieval manuscripts I've procured h=
+igh-resolution tiff images, which I'm publishing with a "magnifying glass" ov=
+erlay. This is in a "responsive" context, so the components of the page, incl=
+uding the images, resize to fit the window dimensions. There's a sample at:http://suprasliensis.obdurodon.org/pages/supr001r.htmlThe current images were prepared quickly for a demo, and are not of consisten=
+t size or resolution. I would now like to go back to get this part of the sit=
+e up to production quality, and I would be grateful for advice about how to m=
+anage the images, an area where I don't have much (=3D any) knowledge of best=
+ practice. I'd like small image files that load quickly, and I think I don't =
+mind slightly lossy compression if that would reduce the file size substantia=
+lly--but if that's a mistake, I'd be grateful for a warning. I think there ar=
+e two questions:1. What's an appropriate file format and resolution (size, dpi, color depth, =
+etc.) for the base image, the one that is displayed in full to the right of t=
+he transcription, and that resizes as the user resizes the window? Currently =
+the image files are in jpg format and vary in size from about 2M down to 250k=
+. I can regenerate them all at a common size, resolution, color depth, etc. f=
+rom the original tiffs, but I don't know whether there is any sense of best p=
+ractice concerning what that size should be. If I go the lossy route, what's =
+a reasonable value?2. What's an appropriate degree of magnification for the magnifying-glass ins=
+et view? Currently the magnifying glass inset always shows the image at 200% =
+of the actual file size (not the size of the page as displayed without magnif=
+ication in the browser window!). You can see the difference by comparing, say=
+, folio 30v (about 2MB) to 284r (about 270k), where the magnification is much=
+ greater in the former than the latter. I can set the level of magnification =
+anywhere I'd like, but is there any agreement about best practice here?By way of orientation in the question: the purpose of the full image is to al=
+low the user to see the image conveniently alongside the transcription, verif=
+ying any moments where our editorial judgment might appear surprising or ques=
+tionable. The point of the magnified inset is to let the user examine details=
+ that may not be visible at lesser magnification, such as erasures, correctio=
+ns, etc. My casual impression is that 30v looks pretty good and loads reasona=
+bly quickly (although quicker would be better), but I don't place great confi=
+dence in my own casual impressions.Thanks,David
+_redacted_(a)pitt.edu
+Digital Medievalist --  http://www.digitalmedievalist.org/
+Journal: http://www.digitalmedievalist.org/journal/
+Journal Editors: editors _AT_ digitalmedievalist.org
+News: http://www.digitalmedievalist.org/news/
+Wiki: http://www.digitalmedievalist.org/wiki/
+Twitter: http://twitter.com/digitalmedieval
+Facebook: http://www.facebook.com/group.php?gidI320313760
+_redacted_(a)uleth.ca
+Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-lDigital Medievalist --  http://www.digitalmedievalist.org/
+Journal: http://www.digitalmedievalist.org/journal/
+Journal Editors: editors _AT_ digitalmedievalist.org
+News: http://www.digitalmedievalist.org/news/
+Wiki: http://www.digitalmedievalist.org/wiki/
+Twitter: http://twitter.com/digitalmedieval
+Facebook: http://www.facebook.com/group.php?gidI320313760
+_redacted_(a)uleth.ca
+Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+Digital Medievalist --  http://www.digitalmedievalist.org/
+Journal: http://www.digitalmedievalist.org/journal/
+Journal Editors: editors _AT_ digitalmedievalist.org
+News: http://www.digitalmedievalist.org/news/
+Wiki: http://www.digitalmedievalist.org/wiki/
+Twitter: http://twitter.com/digitalmedieval
+Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+_redacted_(a)uleth.ca
+Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-lDigital Medievalist --  http://www.digitalmedievalist.org/
+Journal: http://www.digitalmedievalist.org/journal/
+Journal Editors: editors _AT_ digitalmedievalist.org
+News: http://www.digitalmedievalist.org/news/
+Wiki: http://www.digitalmedievalist.org/wiki/
+Twitter: http://twitter.com/digitalmedieval
+Facebook: http://www.facebook.com/group.php?gidI320313760
+_redacted_(a)uleth.ca
+Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+--===============0657497074644600533==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"
+MIME-Version: 1.0PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
+eHQvaHRtbDsgY2hhcnNldD1pc28tODg1OS0xIj4KPC9oZWFkPgo8Ym9keSBzdHlsZT0id29yZC13
+cmFwOiBicmVhay13b3JkOyAtd2Via2l0LW5ic3AtbW9kZTogc3BhY2U7IC13ZWJraXQtbGluZS1i
+cmVhazogYWZ0ZXItd2hpdGUtc3BhY2U7ICI+CkhpLCBBbGwgJm5ic3A7KGFuZCwgaGVsbG8gdG8g
+bXkgY29sbGVhZ3VlLCBMaXNhKSAtJm5ic3A7CjxkaXY+PGJyPgo8L2Rpdj4KPGRpdj5BcyBwcmlt
+YXJpbHkgYSBfdXNlcl8gb2YgbWFudXNjcmlwdHMgYW5kIE1TIGltYWdlcyBvbmxpbmUsIEkgZmly
+c3Qgd2FudCB0byBjaGltZSBpbiB3aXRoIHRob3NlIGFyZ3VpbmcgYWdhaW5zdCBwbHVnaW5zLiAm
+bmJzcDtBbHRob3VnaCB6b29taWZ5LCBWaXJ0dWFsIFZlbGx1bSwgYW5kIERqVnUgYWxsIGdldCB0
+aGUgam9iIGRvbmUsIHRoZXkncmUgbm90IHBhcnRpY3VsYXJseSBwbGVhc2FudCB0byB3b3JrIHdp
+dGguIChBIHF1aWNrIGdsYW5jZSBhdAogdGhlIE9wZW5Tb2NpYWwgcGx1Z2lucyB0aGF0IFRyb3kg
+bGlua2VkIHRvIGJlbG93IHN1Z2dlc3RzIHRoZXkncmUgcHJldHR5IHNsaWNrLCBhbmQgTWFjL2lQ
+YWQgdXNhYmlsaXR5IGlzIHBhcnRpY3VsYXJseSB3ZWxjb21lLCB0aG91Z2ggem9vbS9wYW4gZnVu
+Y3Rpb25hbGl0eSBkaWRuJ3QgYWN0dWFsbHkgd29yayBvbiBteSBpUGFkLikgUGx1Z2lucyBhcmUg
+X2Fsd2F5c18gYSBoYXNzbGUsIGFuZCBhZnRlciBhIHllYXIgb3IgdHdvIGhhcyBwYXNzZWQsCiBv
+ZnRlbiBhIG5pZ2h0bWFyZSAoZS5nLiB0aGUgV2luZG93cy1vbmx5IFNJRCBwbHVnaW4gdXNlZCBi
+eSB0aGUgQXVjaGlubGVjayBwcm9qZWN0KS48L2Rpdj4KPGRpdj48YnI+CjwvZGl2Pgo8ZGl2PlRo
+ZSBmdW5kYW1lbnRhbCBpc3N1ZSB0aGF0IERhdmlkIHJhaXNlcyByZW1haW5zIHVuYW5zd2VyZWQs
+IGxhcmdlbHkgYmVjYXVzZSB0aGVyZSBhcmUgYSBzZXJpZXMgb2Ygb3ZlcmxhcHBpbmcgdXNlLWNh
+c2VzIHRoYXQgZG9uJ3QgbmVhdGx5IHJlc29sdmUgdG8gZGVjaXNpb25zIGFib3V0IGZpbGUgZm9y
+bWF0L2ZpbGUgc2l6ZS9hcHByb3ByaWF0ZSBtYWduaWZpY2F0aW9uLCBsZXQgYWxvbmUgYWdhaW5z
+dCB0aGUgZGlmZmVyZW50IHJlc29sdXRpb25zCiBhbmQgZHBpcyBvZiBzY3JlZW5zIGFuZCBwcmlu
+dGVycy4gJm5ic3A7Qm90aCBmLiAzMHYgYW5kIDI4NHIgYXJlIG5vbWluYWxseSByZWFkYWJsZSwg
+YWx0aG91Z2ggdGhlIGhvcml6b250YWwgZGlzdGFuY2UgYmV0d2VlbiB0aGUgZnVsbC10ZXh0IHRy
+YW5zY3JpcHRpb24gYW5kIHRoZSBtcyBpbWFnZSBtYWtlIGl0IHJhdGhlciBhIHBhaW4gaW4gdGhl
+IG5lY2suICZuYnNwOyhUaGlzIGlzLCBJIGFzc3VtZSwgd2h5IFQtUEVOIGFuZCBRdWVudGluIE1p
+bGxlcidzIERpcGxvbWF0CiBzb2Z0d2FyZSBvZmZlciB0cmFuc2NyaXB0aW9uIHNwYWNlIGp1c3Qg
+YmVsb3cgbXMgbGluZXMsIHJhdGhlciB0aGFuIGFkamFjZW50LCBidXQgYXMgRGF2aWQgaW5kaWNh
+dGVzIHRoaXMgaXMgZm9yIHRyYW5zY3JpcHRpb24gX2NoZWNraW5nXywgdGhlIGdhcCBpcyBhbiBp
+bmNvbnZlbmllbmNlIHJhdGhlciB0aGFuIGEgZGVhbC1icmVha2VyLikgJm5ic3A7VGhlIGhpZ2hl
+ci1xdWFsaXR5IGltYWdlIG9mIGYuIDMwdiBpcyB2YXN0bHkgZWFzaWVyIHRvIHdvcmsKIHdpdGgs
+IHBhcnRpY3VsYXJseSB3aXRoIHRoZSBtYWduaWZpZXIgdG9vbCwgd2hlcmUgdGhlIGxvdyByZXNv
+bHV0aW9uIG9mIGYuIDI4NHIgYmVjb21lcyBub3RpY2VhYmxlLiAmbmJzcDtXZXJlIEkgdHJhbnNj
+cmliaW5nIGYuIDMwdiwgSSB0aGluayB0aGUgb3ZlcnZpZXcvem9vbSB2aWV3IGFyZSBwcmV0dHkg
+bXVjaCBzcG90IG9uIC0gaXQncyBkaWZmaWN1bHQgZm9yIG1lIHRvIGltYWdpbmUgc2NlbmFyaW9z
+IHdoZW4gdHJhbnNjcmliaW5nIG9yIGNoZWNraW5nCiBhIHRyYW5zY3JpcHRpb24gdGhhdCB3b3Vs
+ZCByZXF1aXJlIGRpZmZlcmVudCBsZXZlbHMgb2Ygem9vbSAob3RoZXIgdGhhbiBzd2l0Y2hpbmcg
+ZnJvbSBhIGRlc2t0b3AgdG8gYSBsYXB0b3AvaXBhZC4gJm5ic3A7VGhhdCBzYWlkLCBJIGRpZCBv
+cGVuIHRoZSB1bmRlcmx5aW5nICZuYnNwO2ltYWdlIGluIGEgc2VwYXJhdGUgd2luZG93IGF0IHdo
+YXQgaXQncyByZXBvcnRpbmcgYXMgMTk3MHgyNjY2LCBzaW5jZSB0aGUgbWFnbmlmeWluZyB0b29s
+IHByZWNsdWRlcyB0aGF0KS4KICZuYnNwO0lmIEkgd2VyZSB0ZWFjaGluZyB3aXRoIHRoaXMgaW1h
+Z2UsIGhvd2V2ZXIsIEkgd291bGQgd2FudCBhIHRoaXJkIG9yIGZvdXJ0aCBsZXZlbCBvZiB6b29t
+OiBjb21wbGV0ZSBwYWdlLCBtYXliZSAxLzQgb2YgYSBwYWdlLCBhbmQgdGhlbiB0aGUgbWF4LXpv
+b20gb2YgdGhlIGN1cnJlbnQgbWFnbmlmaWVyLiAmbmJzcDtJZiB5b3UncmUgbm90IGFudGljaXBh
+dGluZyBwZW9wbGUgdGVhY2hpbmcgd2l0aCB0aGVzZSBpbWFnZXMsIHRoZXNlIGFyZW4ndCBpbnRl
+cm1lZGlhcnkKIGltYWdlIHNpemVzIHlvdSBuZWVkIHRvIHByb3ZpZGUsIG5vciBkbyB5b3UgbmVl
+ZCB0byByZXNvcnQgdG8gbW9yZSBjYXBhYmxlIHBsdWctaW4gem9vbSB0b29scy4gJm5ic3A7PC9k
+aXY+CjxkaXY+PGJyPgo8L2Rpdj4KPGRpdj5BZ2FpbiwgYXMgYW4gZW5kLXVzZXIsIGxvc3NsZXNz
+IGZpbGVzIGFyZSB1bndpZWxkeSAtIEkgaGF2ZSBwbGVudHkgb2YgNTBtYiB0aWZmIGZpbGVzIHNj
+YW5uZWQgZnJvbSBtaWNyb2ZpbG0gb24gbXkgY29tcHV0ZXIgdGhhdCBhcmUgZWFzaWVyIHRvIGF2
+b2lkLCB3aGVuZXZlciBwb3NzaWJsZSwgZXZlbiB3aXRoIGEgZGVjZW50bHkgcmVjZW50IGNvbXB1
+dGVyLiAmbmJzcDtJZiBJJ20gdHJhbnNjcmliaW5nIHRoZW0sIEknbGwgd29yayBmcm9tIHBlcmZl
+Y3RseQogcmVhZGFibGUgNzJkcGkgdmVyc2lvbnMgb2YgMzMyNXgyNDA5IFRpZmYgaW1hZ2VzIG9m
+IGJpZm9saWEsIGFuZCBvbmx5IHJldHVybiB0byB0aGUgb3JpZ2luYWxzIGluIHJhcmUgY2FzZXMu
+ICZuYnNwO0kgZG9uJ3QgbWluZCB0aGUgbWlub3IgY29tcHJvbWlzZXMgb2YgYSBsb3NzeSBjb2Rl
+YyBmb3IgdGhlIHNwZWVkIGFuZCBjb252ZW5pZW5jZSBvZiBhIDItM01CIGZpbGUsIGFzIGxvbmcg
+YXMgeW91IDEpIHdhcm4gbWUgdGhhdCdzIHdoYXQgeW91J3JlIHByb3ZpZGluZywKIDIpIG1ha2Ug
+dGhvc2Ugc2l6ZXMgYW5kIHpvb20gb3B0aW9ucyBjb25zaXN0ZW50IGFjcm9zcyBhIHNpbmdsZSBt
+YW51c2NyaXB0LCBhbmQgaWRlYWxseSBhbGwgb2YgYSBwcm9qZWN0J3MgbWFudXNjcmlwdHMsIGFu
+ZCAzKSBvZmZlciBvcHRpb25zIGZvciBhY2Nlc3NpbmcgbGFyZ2VyIGltYWdlcyAob3IsIGV4cGxh
+aW4gdGhhdCB5b3UgY2FuJ3QgZm9yIGxpY2Vuc2luZywgcmV2ZW51ZSwgb3Igb3RoZXIgcmVhc29u
+cywgY2YuIElyaXNoIFNjcmlwdAogb24gU2NyZWVuIG9yIFN0YW5mb3JkL1BhcmtlciBvbiB0aGUg
+V2ViLik8L2Rpdj4KPGRpdj48YnI+CjwvZGl2Pgo8ZGl2PlNvLCBpbiBzaG9ydCwgZnJvbSBteSBw
+ZXJzcGVjdGl2ZSwgZi4gMzB2IGlzIGFib3V0IHJpZ2h0IC0geW91J3JlIGZ1ZGdpbmcgdGhpbmdz
+IGJ5IGNvbmRlbnNpbmcgdGhlIGltYWdlIGludG8gdGhlIGZyYW1lIG9uIHRoZSByaWdodCwgd2hp
+Y2ggZGVwZW5kcyBvbiB0aGUgdXNlcidzIGJyb3dzZXIgd2luZG93IHNpemUsIGFuZCBtYXkgYmUg
+bGVzcyByZWFkYWJsZSBvbiBhIGxhcHRvcCB0aGFuIHRoZSBkZXNrdG9wIEknbSBjdXJyZW50bHkg
+d29ya2luZwogb24uICZuYnNwO1RoZSBqYXZhc2NyaXB0IG1hZ25pZmllciBpcyBuaWZ0eSwgdGhv
+dWdoIGl0J3MgYSBiaXQgYW5ub3lpbmcgdGhhdCBpdCBjYW4ndCBiZSB0dXJuZWQgb2ZmLCByYXRo
+ZXIgdGhhbiBvbmx5IHR1Y2tlZCBhd2F5IGluIGEgY29ybmVyLiAmbmJzcDtBbmQgbm9uZSBvZiB0
+aGlzIGJyaW5ncyB5b3UgYW55IGNsb3NlciB0byBiZXN0IHByYWN0aWNlcyBmb3IgdGhlIGJhY2sg
+ZW5kLjwvZGl2Pgo8ZGl2Pjxicj4KPC9kaXY+CjxkaXY+S2luZCByZWdhcmRzLDwvZGl2Pgo8ZGl2
+Pk1hdHRoZXc8L2Rpdj4KPGRpdj48YnI+CjwvZGl2Pgo8ZGl2Pjxicj4KPGRpdj4KPGRpdj48c3Bh
+biBjbGFzcz0iQXBwbGUtc3R5bGUtc3BhbiIgc3R5bGU9ImJvcmRlci1jb2xsYXBzZTogc2VwYXJh
+dGU7IGNvbG9yOiByZ2IoMCwgMCwgMCk7IGZvbnQtZmFtaWx5OiAnVHJlYnVjaGV0IE1TJzsgZm9u
+dC1zdHlsZTogbm9ybWFsOyBmb250LXZhcmlhbnQ6IG5vcm1hbDsgZm9udC13ZWlnaHQ6IG5vcm1h
+bDsgbGV0dGVyLXNwYWNpbmc6IG5vcm1hbDsgbGluZS1oZWlnaHQ6IG5vcm1hbDsgb3JwaGFuczog
+MjsgdGV4dC1hbGlnbjogLXdlYmtpdC1hdXRvOyB0ZXh0LWluZGVudDogMHB4OyB0ZXh0LXRyYW5z
+Zm9ybTogbm9uZTsgd2hpdGUtc3BhY2U6IG5vcm1hbDsgd2lkb3dzOiAyOyB3b3JkLXNwYWNpbmc6
+IDBweDsgLXdlYmtpdC1ib3JkZXItaG9yaXpvbnRhbC1zcGFjaW5nOiAwcHg7IC13ZWJraXQtYm9y
+ZGVyLXZlcnRpY2FsLXNwYWNpbmc6IDBweDsgLXdlYmtpdC10ZXh0LWRlY29yYXRpb25zLWluLWVm
+ZmVjdDogbm9uZTsgLXdlYmtpdC10ZXh0LXNpemUtYWRqdXN0OiBhdXRvOyAtd2Via2l0LXRleHQt
+c3Ryb2tlLXdpZHRoOiAwcHg7IGZvbnQtc2l6ZTogbWVkaXVtOyAiPk1hdHRoZXcKIEZpc2hlcjxi
+cj4KQXNzaXN0YW50IFByb2Zlc3Nvcjxicj4KRGVwYXJ0bWVudCBvZiBFbmdsaXNoPGJyPgpVbml2
+ZXJzaXR5IG9mIENhbGlmb3JuaWEsIExvcyBBbmdlbGVzPGJyPgo8YnI+Cjxicj4KPC9zcGFuPjwv
+ZGl2Pgo8YnI+CjxkaXY+CjxkaXY+T24gSnVuIDE5LCAyMDEyLCBhdCAxMToyMiBBTSwgTWNBdWxh
+eSwgRWxpemFiZXRoIHdyb3RlOjwvZGl2Pgo8YnIgY2xhc3M9IkFwcGxlLWludGVyY2hhbmdlLW5l
+d2xpbmUiPgo8YmxvY2txdW90ZSB0eXBlPSJjaXRlIj4KPGRpdj5IaSBhbGwsPGJyPgo8YnI+Ckkn
+bGwgYWRkIG15IHBlcnNwZWN0aXZlIGZyb20gd29ya2luZyBpbiBkaWdpdGFsIGxpYnJhcmllcyBh
+bmQgZnJvbSB3b3JraW5nIG9uIHRoZSBTdCBHYWxsIE1vbmFzdGVyeSBWaXJ0dWFsIExpYnJhcnkg
+KDxhIGhyZWY9Imh0dHA6Ly93d3cuc3RnYWxscGxhbi5vcmcvIj5odHRwOi8vd3d3LnN0Z2FsbHBs
+YW4ub3JnLzwvYT4pLiBQYW4gYW5kIHpvb20gaXMgbXkgcHJlZmVycmVyZWQgdmlld2luZyBpbnRl
+cmZhY2UuIFdlIHVzZSB6b29taWZ5IGluIG91cgogYXBwbGljYXRpb24sIGJ1dCBqdXN0IGJlY2F1
+c2UgaXQncyBvdXIgYmVzdCBjaG9pY2UgcmlnaHQgbm93LiBUaGUgYmlnZ2VzdCBkcmF3YmFjayBp
+cyB0aGUgZmxhc2h2aWV3ZXIuIFJ1bGVzIG91dCBpcGFkIGFuZCBpcGhvbmUgdXNlcnMgZnJvbSBl
+dmVuIGtub3dpbmcgdGhlIGltYWdlcyBleGlzdC4gU28gd2UncmUgaW50ZXJlc3RlZCBpbiBnb2lu
+ZyB3aXRoIGpwZWcgMjAwMCBhbmQgd2Ugd2lsbCB0aHJvdWdoIHRoZSBpc2xhbmRvcmEgcGFja2Fn
+ZQogc29vbi4gSSdtIGN1cmlvdXMgdG8gaGVhciBvdGhlcnMgZmluZGluZ3MgYWJvdXQgSnBlZzIw
+MDAuPGJyPgo8YnI+CkJlc3QsPGJyPgo8YnI+Ckxpc2EgTWNBdWxheTxicj4KTGlicmFyaWFuIGZv
+ciBEaWdpdGFsIENvbGxlY3Rpb24gRGV2ZWxvcG1lbnQ8YnI+ClVDTEEgRGlnaXRhbCBMaWJyYXJ5
+IFByb2dyYW08YnI+CjxhIGhyZWY9Imh0dHA6Ly9kaWdpdGFsLmxpYnJhcnkudWNsYS5lZHUvIj5o
+dHRwOi8vZGlnaXRhbC5saWJyYXJ5LnVjbGEuZWR1LzwvYT48YnI+Cjxicj4KT24gSnVuIDE5LCAy
+MDEyLCBhdCA1OjExIEFNLCAmcXVvdDtUcm95IEEuIEdyaWZmaXR0cyZxdW90OyAmbHQ7c2NyaWJl
+QGNyb3Nzd2lyZS5vcmcmZ3Q7IHdyb3RlOjxicj4KPGJyPgo8YmxvY2txdW90ZSB0eXBlPSJjaXRl
+Ij5JIGFtIGV4Y2l0ZWQgdG8gc2VlIGRpc2N1c3Npb24gb24gdGhpcyB0b3BpYy4gJm5ic3A7V2Ug
+aG9zdCBhbiBvbmxpbmUgcmVwb3NpdG9yeSBvZiBpbWFnZXMsIHRyYW5zY3JpcHRpb25zLCBhbmQg
+Y29sbGF0aW9uIHRvb2xzIGZvciBzY2hvbGFycyBkb2luZyB0ZXh0IGNyaXRpY2lzbSBvbiB0aGUg
+TmV3IFRlc3RhbWVudC4gJm5ic3A7T2Z0ZW4sIGhvbGRpbmcgaW5zdGl0dXRpb25zIG9mIHRoZSB+
+NTYwMCBtYW51c2NyaXB0IGNvcGllcwogd2lsbCBub3QgZ2l2ZSB1cyBwZXJtaXNzaW9uIHRvIGhv
+dXNlIGRpZ2l0YWwgaW1hZ2VzIG9uIG91ciBvd24gc2l0ZSwgYnV0IGluc2lzdCBvbiB1cyBmZWVk
+aW5nIHRoZSBpbWFnZXMgdG8gb3VyIHVzZXJzIGZyb20gdGhlaXIgd2Vic2l0ZS4gJm5ic3A7VGhp
+cyBtYWtlcyBwcm92aWRpbmcgYSBzZWFtbGVzcyBleHBlcmllbmNlIGZvciBvdXIgdXNlcnMgYSBj
+aGFsbGVuZ2luZyB0YXNrLjxicj4KPC9ibG9ja3F1b3RlPgo8YmxvY2txdW90ZSB0eXBlPSJjaXRl
+Ij48YnI+CjwvYmxvY2txdW90ZT4KPGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+T3VyIHN5c3RlbSBp
+cyBjb21wb3NlZCBvZiBhIHN1aXRlIG9mIE9wZW5Tb2NpYWwgZ2FkZ2V0cyBhbmQgb25lIG9mIHRo
+b3NlIGdhZGdldHMgaXMgYW4gaW1hZ2Ugdmlld2VyIHdoaWNoIHByb3ZpZGVzIGRyYWcgdG8gcGFu
+LCB3aGVlbCAob3IgMiBmaW5nZXJzIHVwL2Rvd24gb24gYSBtYWMpIHRvIHpvb20sIGJyaWdodG5l
+c3MvY29udHJhc3QgYWRqdXN0LCBib3ggYW5ub3RhdGlvbnMsIGFuZCBwZXJzaXN0ZW50CiBVUkxz
+IGJhY2sgdG8gYW4gYWRqdXN0ZWQgdmlldy4gJm5ic3A7SXQncyBhbGwgamF2YXNjcmlwdCBhbmQg
+cmVxdWlyZXMgbm8gc2VydmVyIHNpZGUgb3IgZXh0cmEgY2xpZW50IHNpZGUgY29tcG9uZW50cyBi
+ZXlvbmQgdGhlIHdlYiBicm93c2VyIGFuZCBjYW4gdmlldyByZW1vdGUgVVJMcyBmb3IgcHJldHR5
+IG11Y2ggYW55IGltYWdlIHdpdGggYSBsaW5rIG9uIHRoZSBpbnRlcm5ldC4gJm5ic3A7SXQncyBh
+bGwgZnJlZWx5IGF2YWlsYWJsZSBmb3IgeW91ciB1c2UtLQogZWFzeSBkcm9waW4gaWYgeW91J3Jl
+IHdvcmtpbmcgaW5zaWRlIGFuIG9wZW5zb2NpYWwgY29udGFpbmVyLCBvciB3ZSBoYXZlIGEgc3Rh
+bmRhbG9uZSB2ZXJzaW9uIHRvbyB3aGljaCBpcyBhIHNpbXBsZSBwb3B1cCB3ZWJwYWdlLjxicj4K
+PC9ibG9ja3F1b3RlPgo8YmxvY2txdW90ZSB0eXBlPSJjaXRlIj48YnI+CjwvYmxvY2txdW90ZT4K
+PGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+WW91IGNhbiB0cnkgdGhlIGdhZGdldCBvdXQgaGVyZTo8
+YnI+CjwvYmxvY2txdW90ZT4KPGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+PGJyPgo8L2Jsb2NrcXVv
+dGU+CjxibG9ja3F1b3RlIHR5cGU9ImNpdGUiPmh0dHA6Ly9udHZtci51bmktbXVlbnN0ZXIuZGUv
+bWFudXNjcmlwdC13b3Jrc3BhY2U/ZG9jaWQ9MTAwMDE8YnI+CjwvYmxvY2txdW90ZT4KPGJsb2Nr
+cXVvdGUgdHlwZT0iY2l0ZSI+KGNsaWNrIG9uIGEgdGh1bWJuYWlsIGFuZCBpdCB3aWxsIGxvYWQg
+dGhlIGZ1bGwgaW1hZ2UpPGJyPgo8L2Jsb2NrcXVvdGU+CjxibG9ja3F1b3RlIHR5cGU9ImNpdGUi
+Pjxicj4KPC9ibG9ja3F1b3RlPgo8YmxvY2txdW90ZSB0eXBlPSJjaXRlIj5hbmQgdGhlIHN0YW5k
+YWxvbmUgdmVyc2lvbiBjYW4gYmUgc2VlbiBieSBjbGlja2luZyB0aGUgcGVybWFsaW5rIGljb24g
+KCZxdW90O0VtYmVkZGFibGUgRXh0ZXJuYWwgVmlld2VyIExpbmsgVG8gVGhpcyBJbWFnZSZxdW90
+OykgdG8gZ2VuZXJhdGUgYSByZXR1cm4gbGluayB0byB5b3VyIHZpZXcgb2YgdGhlIGltYWdlLjxi
+cj4KPC9ibG9ja3F1b3RlPgo8YmxvY2txdW90ZSB0eXBlPSJjaXRlIj4oVGhlICZxdW90O0Rpc2N1
+c3MmcXVvdDsgYnV0dG9uIGRvZXNuJ3QgcmVhbGx5IGRvIGFueXRoaW5nIGlmIHlvdSdyZSBub3Qg
+bG9nZ2VkIGluLCBzbyBhdm9pZCB0aGF0IG9uZSB1bmxlc3MgeW91IGNyZWF0ZSBhbiBhY2NvdW50
+KTxicj4KPC9ibG9ja3F1b3RlPgo8YmxvY2txdW90ZSB0eXBlPSJjaXRlIj48YnI+CjwvYmxvY2tx
+dW90ZT4KPGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+V2UgYWxzbyBoYXZlIGEgZmlyZWZveCBwbHVn
+aW4gd2hpY2ggd2lsbCBjb25zdHJ1Y3QgdGhlIGFwcHJvcHJpYXRlIGxpbmsgZm9yIHZpZXdpbmcg
+YW4gaW1hZ2UgaW4gdGhlIGltYWdlIHZpZXdlci4gJm5ic3A7WW91IHNpbXBseSBpbnN0YWxsIHRo
+ZSBwbHVnaW4sIGJyb3dzZSB0byBhbnkgaW50ZXJuZXQgcGFnZSB3aXRoIGFuIGltYWdlIGluIHdo
+aWNoIHlvdSBhcmUgaW50ZXJlc3RlZCBpbiwgYW5kIHRoZW4gb24gdGhlCiBwbHVnaW4sIHByZXNz
+ICZxdW90O0Fubm90YXRlJnF1b3Q7LiAmbmJzcDtJdCdzIGNydWRlIGFuZCBhc3N1bWVzIHRoZSBs
+YXJnZXN0IGltYWdlIG9uIHRoZSBwYWdlIGlzIHRoZSBvbmUgeW91J2QgYXJlIGludGVyZXN0ZWQg
+aW4sIGJ1dCBtb3N0bHkgZG9lcyB3aGF0IG91ciB1c2VycyBleHBlY3QuICZuYnNwO0l0IGNhbiBy
+ZWFkIGltYWdlcyBmcm9tIHNvbWUgc2l0ZXMgd2hpY2ggdXNlIGN1c3RvbSB2aWV3ZXJzIGJ5IHBp
+ZWNpbmcgdGlsZXMgdG9nZXRoZXIsIGJ1dCBtb3N0bHkgdGhlCiBpbWFnZXMgbXVzdCBiZSBzaW1w
+bGUganBnLCBwbmcsIGdpZiBpbWFnZXMuPGJyPgo8L2Jsb2NrcXVvdGU+CjxibG9ja3F1b3RlIHR5
+cGU9ImNpdGUiPjxicj4KPC9ibG9ja3F1b3RlPgo8YmxvY2txdW90ZSB0eXBlPSJjaXRlIj5Ib3Bl
+IHRoaXMgaXMgaGVscGZ1bC4gJm5ic3A7UGxlYXNlIGZlZWwgZnJlZSB0byBjb250YWN0IG1lIGlm
+IHlvdSBoYXZlIHF1ZXN0aW9ucyw8YnI+CjwvYmxvY2txdW90ZT4KPGJsb2NrcXVvdGUgdHlwZT0i
+Y2l0ZSI+PGJyPgo8L2Jsb2NrcXVvdGU+CjxibG9ja3F1b3RlIHR5cGU9ImNpdGUiPlRyb3k8YnI+
+CjwvYmxvY2txdW90ZT4KPGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+PGJyPgo8L2Jsb2NrcXVvdGU+
+CjxibG9ja3F1b3RlIHR5cGU9ImNpdGUiPlZpcnR1YWwgTWFudXNjcmlwdCBSb29tPGJyPgo8L2Js
+b2NrcXVvdGU+CjxibG9ja3F1b3RlIHR5cGU9ImNpdGUiPkluc3RpdHV0IGb8ciBOZXV0ZXN0YW1l
+bnRsaWNoZSBUZXh0Zm9yc2NodW5nPGJyPgo8L2Jsb2NrcXVvdGU+CjxibG9ja3F1b3RlIHR5cGU9
+ImNpdGUiPjxicj4KPC9ibG9ja3F1b3RlPgo8YmxvY2txdW90ZSB0eXBlPSJjaXRlIj48YnI+Cjwv
+YmxvY2txdW90ZT4KPGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+PGJyPgo8L2Jsb2NrcXVvdGU+Cjxi
+bG9ja3F1b3RlIHR5cGU9ImNpdGUiPk9uIDA2LzE5LzIwMTIgMTE6NTMgQU0sIFRvbnkgSGFycmlz
+IHdyb3RlOjxicj4KPC9ibG9ja3F1b3RlPgo8YmxvY2txdW90ZSB0eXBlPSJjaXRlIj4KPGJsb2Nr
+cXVvdGUgdHlwZT0iY2l0ZSI+SGkgRGF2aWQ8YnI+CjwvYmxvY2txdW90ZT4KPC9ibG9ja3F1b3Rl
+Pgo8YmxvY2txdW90ZSB0eXBlPSJjaXRlIj4KPGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+PGJyPgo8
+L2Jsb2NrcXVvdGU+CjwvYmxvY2txdW90ZT4KPGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+CjxibG9j
+a3F1b3RlIHR5cGU9ImNpdGUiPlRoaXMgaXMgYSByZWFsbHkgZ29vZCBxdWVzdGlvbi4gSSBjYW1l
+IGludG8gYWNhZGVtaWEgd2l0aCBhbiBlc3RhYmxpc2hlZCBiYWNrZ3JvdW5kIGFzIGFuIGRpZ2l0
+YWwgaW1hZ2luZyBzY2llbnRpc3QgYW5kIGFzIGZhciBhcyBJIGNhbiBzZWUgYXQgdGhlIG1vbWVu
+dCwgdGhlcmUgYXJlIG5vIHJlYWwgc3RhbmRhcmRzIGZvciBpbWFnZSBkaWdpdGF0aW9uIG9yIHJl
+cHJvZHVjdGlvbiBpbiB0aGUgYWNhZGVtaWMKIHdvcmxkIHRoYXQgY2FuIGJlIHVzZWQgZWZmZWN0
+aXZlbHkgYnkgc2Nob2xhcnMuIEZvciBleGFtcGxlIFRFSSBzYXlzIGEgbG90IGFib3V0IGhvdyB5
+b3UgcmVmZXJlbmNlIHlvdXIgaW1hZ2VzIGJ1dCAodW5zdXJwcmlzaW5nbHkpIGRvZXNuJ3QgYXR0
+ZW1wdCB0byBnaXZlIGFueSBndWlkYW5jZSBvbiBob3cgeW91IGdldCB0aGVtIGludG8gYW4gYXBw
+cm9wcmlhdGUgcmVzb2x1dGlvbiBvciBjb2xvdXIgZGVwdGggaW4gdGhlIGZpcnN0IHBsYWNlLgog
+SklTQyBhbHNvIGdpdmUgc29tZSBndWlkYW5jZSBoZXJlIGJ1dCBtYW55IG9mIHRoZWlyIHByb2pl
+Y3Qgc3BlY2lmaWNhdGlvbnMgb2Z0ZW4gc2VlbSB0byBmYXZvdXIgNDgwMGRwaSBpbiAyNGJpdCBj
+b2xvdXIuIE5vdCB2ZXJ5IGhlbHBmdWwgaWYgKGZvciBleGFtcGxlKSB5b3UgYXJlIHNjYW5uaW5n
+IEZpcnN0IFdvcmxkIFdhciBibGFjayBhbmQgd2hpdGUgcGhvdG9ncmFwaHMgd2hpY2ggaGF2ZSBh
+IHJlbGF0aXZlbHkgbG93IGxpbmVzIHBlciBpbmNoCiByZXNvbHV0aW9uIChzZWFyY2ggZm9yIGxw
+aSB0byBkcGkgY2FsY3VsYXRvcnMgb25saW5lKSBvciBpZiB5b3UgYXJlIHVzaW5nIGEgc2Nhbm5l
+ciB3aGljaCBoYXMgYSBtYXhpbXVtIG9wdGljYWwgcmVzb2x1dGlvbiBvZiAoc2F5KSAyNDAwZHBp
+IGFuZCBldmVyeXRoaW5nIGVsc2UgaXMgaW50ZXJwb2xhdGVkIHJlc29sdXRpb24uIFRoZXNlIHRo
+aW5ncyB3aWxsIG9mIGNvdXJzZSBkaWZmZXIgZnJvbSBwcm9qZWN0IHQ8YnI+CjwvYmxvY2txdW90
+ZT4KPC9ibG9ja3F1b3RlPgo8YmxvY2txdW90ZSB0eXBlPSJjaXRlIj5vIHByb2plY3Q8YnI+Cjwv
+YmxvY2txdW90ZT4KPGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+PGJyPgo8L2Jsb2NrcXVvdGU+Cjxi
+bG9ja3F1b3RlIHR5cGU9ImNpdGUiPndoaWNoIGlzIHdoeSBpdCBpcyBzbyBkaWZmaWN1bHQgdG8g
+bGF5IGRvd24gYWNjdXJhdGUgZ3VpZGVsaW5lcy48YnI+CjwvYmxvY2txdW90ZT4KPGJsb2NrcXVv
+dGUgdHlwZT0iY2l0ZSI+CjxibG9ja3F1b3RlIHR5cGU9ImNpdGUiPjxicj4KPC9ibG9ja3F1b3Rl
+Pgo8L2Jsb2NrcXVvdGU+CjxibG9ja3F1b3RlIHR5cGU9ImNpdGUiPgo8YmxvY2txdW90ZSB0eXBl
+PSJjaXRlIj5JIHJhbiBhIHdvcmtzaG9wIGF0IEthbGFtYXpvbyB3aGljaCBkZWFsdCB3aXRoIHNv
+bWUgb2YgdGhlc2UgaXNzdWVzICgnRGlnaXRhbCBJbWFnaW5nIGZvciBNZWRpZXZhbGlzdHMnKS4g
+SW50ZXJlc3RpbmdseSBlbm91Z2ggSSBzY2FubmVkIGFuZCBwcmludGVkIHNvbWUgY29udmVudGlv
+bmFsIChwcmUtZGlnaXRhbCkgYmxhY2sgYW5kIHdoaXRlIGFuZCBjb2xvdXIgcGhvdG9ncmFwaHMg
+YXQgdmFyaW91cyByZXNvbHV0aW9ucwogYW5kIGNvbG91ciBkZXB0aHMgYW5kIG5vdCBvbmUgcGVy
+c29uIG91dCBvZiB0aGUgMzAgcGVvcGxlIHdobyBjYW1lIHRvIHRoZSBzZXNzaW9uIGNvcnJlY3Rs
+eSBpZGVudGlmaWVkIHdoaWNoIG9uZXMgd2VyZSB3aGljaCBvdXQgb2YgZWFjaCBzZXQuIEluIG15
+IHZpZXcsIHdoYXQgd2UgcmVhbGx5IG5lZWQgYXJlIHNvbWUgc3RhbmRhcmRzIGFuZCBhY2N1cmF0
+ZSBndWlkZWxpbmVzIGFuZCBJIGFtIHJlc2VhcmNoaW5nIHRoaXMgYXJlYSBhdCB0aGUgbW9tZW50
+LgogRm9yIGV4YW1wbGUsIG5vdCBtYW55IHBlb3BsZSByZWFsaXNlIHRoYXQgc29tZSBwcmUtZGln
+aXRhbCB0cmFuc3BhcmVuY2llcyBhcmUgYmV0d2VlbiAyLDAwMCBhbmQgNCwwMDAgbGluZXMgcmVz
+b2x1dGlvbiAobHBpKSB3aGljaCBwdXRzIG1hbnkgZGlnaXRhbCBjYW1lcmFzIGluIHRoZSBzaGFk
+ZS48YnI+CjwvYmxvY2txdW90ZT4KPC9ibG9ja3F1b3RlPgo8YmxvY2txdW90ZSB0eXBlPSJjaXRl
+Ij4KPGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+PGJyPgo8L2Jsb2NrcXVvdGU+CjwvYmxvY2txdW90
+ZT4KPGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+CjxibG9ja3F1b3RlIHR5cGU9ImNpdGUiPk1vdmlu
+ZyB0byB5b3VyIHF1ZXN0aW9uLCBJIHRoaW5rIHRoZSBpbXBvcnRhbnQgdGhpbmcgdG8gdW5kZXJz
+dGFuZCBpcyB0aGF0IHNjcmVlbiByZXNvbHV0aW9ucyBhcmUgc3RpbGwgZXh0cmVtZWx5IGxvdyB3
+aGVuIGNvbXBhcmVkIHdpdGggKHNheSkgcHJpbnRlciByZXNvbHV0aW9ucy4gRm9yIGV4YW1wbGUg
+YSB0eXBpY2FsIGxhcHRvcCBzY3JlZW4gYXQgMTAyNHg3NjggaXMgYmV0d2VlbiA3NWRwaSBhbmQK
+IDEwMGRwaSBkZXBlbmRpbmcgb24gdGhlIHBoeXNpY2FsIHNjcmVlbiBzaXplLiBNYW55IG1vZGVy
+biBtb2JpbGUgcGhvbmUvc21hcnQgcGhvbmUgZHBpIHRlbmRzIHRvIGJlIGFyb3VuZCAxNTBkcGku
+IE9mIGNvdXJzZSB0aGVzZSBhcmUgYWxsIGdlbmVyYWxpc2F0aW9ucyBhbmQgdGhlcmUgYXJlIG1h
+bnkgd2ViIGJhc2VkIGNhbGN1bGF0b3JzIHN1Y2ggYXMgaHR0cDovL3RpcG9yYW1hLmNvbS90b29s
+cy9waXhlbHNfaW5jaGVzLmh0bWwgd2hpY2ggY2FuCiBnaXZlIHlvdSBhIGJldHRlciBpZGVhIG9m
+IHJlc29sdXRpb24gY2FwYWJpbGl0eSBvbiBhIGRldmljZSBieSBkZXZpY2UgYmFzaXMuIENvbXBh
+cmUgdGhhdCB3aXRoIGFuIEVQU09OIHByaW50ZXIgYXQgMTQ0MGRwaSBob3Jpem9udGFsIHJlc29s
+dXRpb24gYW5kIHlvdSB3aWxsIHVuZGVyc3RhbmQgYW5kIGFwcHJlY2lhdGUgdGhlIGNvbXBhcmlz
+b24uIFNvIGl0IGlzIGltcG9ydGFudCB0byB1bmRlcnN0YW5kIHRoYXQgdGhlIGltYWdlIHlvdSBk
+aXNwbGF5CiBhdCBhbnkgb25lIHRpbWUgb24gdGhlIHNjcmVlbiBjYW4gYmUgcmVsYXRpdmVseSBs
+b3cgKGZvciBwZXJmb3JtYW5jZSByZWFzb25zKSwgYnV0IHRoZSB1bmRlcmx5aW5nIHNvdXJjZSBp
+bWFnZSAodGhlIG9yaWdpbmFsIHNjYW4pIG5lZWRzIHRvIGJlIGhpZ2ggYW5kIGxvc3NsZXNzIHRv
+IGFsbG93IHRoZSBiZXN0IGxldmVsIG9mIHpvb20gYXMgeW91IG1vdmUgY2xvc2VyIGFuZCBjbG9z
+ZXIgaW50byB0aGUgcGFnZS48YnI+CjwvYmxvY2txdW90ZT4KPC9ibG9ja3F1b3RlPgo8YmxvY2tx
+dW90ZSB0eXBlPSJjaXRlIj5BcyBhIHBhbDxicj4KPC9ibG9ja3F1b3RlPgo8YmxvY2txdW90ZSB0
+eXBlPSJjaXRlIj48YnI+CjwvYmxvY2txdW90ZT4KPGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+YWVv
+Z3JhcGhlciwgSSB3YW50IHRvIGJlIGFibGUgdG8gc2VlICd0aGUgYmlnIHBpY3R1cmUnIChpLmUu
+IHRoZSB3aG9sZSBwYWdlKSBhdCBhbnkgb25lIHRpbWUgYnV0IHRoZW4gSSBhbHNvIHdhbnQgdG8g
+YmUgYWJsZSB0byB6b29tIGludG8gc2VjdGlvbnMgb2YgdGhlIG1hbnVzY3JpcHQgYW5kIHRoZW4g
+ZG93biB0byB0aGUgaW5kaXZpZHVhbCBjaGFyYWN0ZXJzICh3aXRob3V0IHBpeGVsbGF0aW9uKSAm
+bmJzcDt0bwogZGV0ZXJtaW5lIGlmIHRoYXQgY2hhcmFjdGVyIHJlYWxseSBpcyBhbiAmcXVvdDtT
+JnF1b3Q7IG9yIGFuICZxdW90O0EmcXVvdDsgKHBhbGFlb2dyYXBoZXJzIHdpbGwgZ2V0IHRoZSBq
+b2tlIGhlcmUpLiBUaGUgcHJvYmxlbSB3aXRoIG1vc3QgbG9zc3kgY29tcHJlc3Npb25zIGlzIHRo
+YXQgdGhlICdiaWcgcGljdHVyZScgaXMgZ3JlYXQgYnV0LCBhcyB5b3Ugem9vbSBpbiwgeW91IHN0
+YXJ0IHRvIHNlZSBzaWduaWZpY2FudCBkZWdyYWRhdGlvbiBvZiB0aGUgaW1hZ2UgKGEgYnktcHJv
+ZHVjdAogb2YgdGhlIHdheSB0aGUgY29tcHJlc3Npb24gaXMgZG9uZSkgd2hpY2ggZ2V0cyBpbiB0
+aGUgd2F5IG9mIHNjaG9sYXJseSBpbnRlcnByZXRhdGlvbi4gRm9yIGV4YW1wbGUgdGFrZSBhIGhp
+Z2ggcmVzb2x1dGlvbiBUSUZGIGltYWdlLCBjb21wcmVzcyBpdCBhdCB2YXJpb3VzIEpQRyBsZXZl
+bHMgYW5kIHRoZW4gcHJpbnQgaXQgZnVsbCBwYWdlIG9uIGEgaGlnaCByZXNvbHV0aW9uIHByaW50
+ZXIuIFlvdSB3aWxsIGZpbmQgdGhhdCBhbGwgdGhlIHNhbXBsZXMKIGFyZSB2aXJ0dWFsbHkgaW5k
+aXN0aW5ndWlzaGFibGUgZnJvbSBlYWNoIG90aGVyIHVudGlsIHlvdSBicmluZyBvdXQgYSBtYWdu
+aWZ5aW5nIGdsYXNzIGFuZCB0aGVuIGFsbCB3aWxsIGJlY29tZSBkZXByZXNzaW5nbHkgY2xlYXIg
+aW4gdGVybXMgb2YgdGhlIGRyb3AgaW4gaW1hZ2UgcXVhbGl0eS9maWRlbGl0eSBhdCB0aGUgbG93
+ZXN0IGZpbGUgc2l6ZXMuPGJyPgo8L2Jsb2NrcXVvdGU+CjxibG9ja3F1b3RlIHR5cGU9ImNpdGUi
+Pgo8YmxvY2txdW90ZSB0eXBlPSJjaXRlIj48YnI+CjwvYmxvY2txdW90ZT4KPC9ibG9ja3F1b3Rl
+Pgo8YmxvY2txdW90ZSB0eXBlPSJjaXRlIj4KPGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+QXMgb3Ro
+ZXIgY29udHJpYnV0b3JzIGhhdmUgaW5kaWNhdGVkLCB0aGVyZSBhcmUgdmFyaW91cyBzb2x1dGlv
+bnMgKGUuZy4gaHR0cDovL2RqdnUub3JnL3Jlc291cmNlcy93aGF0aXNkanZ1LnBocCBhbmQgVmly
+dHVhbCBWZWxsdW0pIHdoaWNoIGNhbiBhbHNvIGhlbHAsIGJ1dCB0aGUgcmVzb2x1dGlvbiwgY29t
+cHJlc3Npb24gYW5kIGNvbG91ciBkZXB0aCBvZiB0aGUgdW5kZXJseWluZyBpbWFnZSBpcyBzdGls
+bAoga2V5LiBBcyBKYW1lcyBpbXBsaWVzLCBpdCBpcyBhbHNvIGltcG9ydGFudCB0byBzZWxlY3Qg
+YSBzb2Z0d2FyZSBzb2x1dGlvbiB0aGF0IGhhcyBsb25nZXZpdHkgYW5kIGlzIG5vdCBnb2luZyB0
+byBkaXNhcHBlYXIgb3IgY2hhbmdlIG9uY2UgeW91ciByZXNlYXJjaCBwcm9qZWN0IGlzIGNvbXBs
+ZXRlZC4gVGhlcmUgYXJlIGEgbnVtYmVyIG9mIEZsYXNoIGJhc2VkIHZpZXdlcnMgYXJvdW5kIGJ1
+dCAoYXMgSmFtZXMgYWxzbyBpbXBsaWVzKSwgQWRvYmUncwogdHJhY2sgcmVjb3JkIGF0IG1haW50
+YWluaW5nIGJhY2t3YXJkIGNvbXBhdGliaWxpdHkgKGFuZCBldmVuIHJldGFpbmluZyB0ZWNobm9s
+b2d5KSBoYXMgbm90IGJlZW4gdGhhdCBncmVhdCBpbiB0aGUgcGFzdC4gSGF2aW5nIHNhaWQgdGhh
+dCwgQWRvYmUgRmxhc2ggaGFzIGluc3RhbGxhdGlvbnMgdGhhdCBydW4gaW50byBhdCBsZWFzdCB0
+aGUgdGVucyBvZiBtaWxsaW9ucyBzbyBpdCBpcyB1bmxpa2VseSB0byBkaXNhcHBlYXIgb3Zlcm5p
+Z2h0IGJ1dAogd2UgYWxsIGtub3cgQXBwbGUncyBzdGFuY2Ugb24gQWRvYmUgRmxhc2ghPGJyPgo8
+L2Jsb2NrcXVvdGU+CjwvYmxvY2txdW90ZT4KPGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+CjxibG9j
+a3F1b3RlIHR5cGU9ImNpdGUiPjxicj4KPC9ibG9ja3F1b3RlPgo8L2Jsb2NrcXVvdGU+CjxibG9j
+a3F1b3RlIHR5cGU9ImNpdGUiPgo8YmxvY2txdW90ZSB0eXBlPSJjaXRlIj5TbyBpbiBjbG9zaW5n
+LCBJIHRoaW5rIHRoZSBtb3N0IGltcG9ydGFudCB0aGluZyB0byBlbnN1cmUsIGZvciBhbnkgbWFu
+dXNjcmlwdCBwcm9qZWN0IGF0IGxlYXN0LCBpcyB0aGF0IHRoZSB1bmRlcmx5aW5nIGltYWdlIGlz
+IGF0IHRoZSBoaWdoZXN0IHJlc29sdXRpb24gcG9zc2libGUgKGxvc3NsZXNzKSBhbmQgdGhlIGNh
+cGFiaWxpdGllcyB0byB6b29tIGludG8gJ3NuYXBzaG90cycgb2YgdGhhdCBpbWFnZQogYXJlIGZs
+ZXhpYmxlIGluIHRlcm1zIG9mIHRoZSB6b29tIGZhY3RvcnMgYWxsb3dlZC4gSG93ZXZlciwgdGhl
+IGltYWdlICdzbmFwc2hvdCcgdGhhdCBnZXRzIGRpc3BsYXllZCBhdCBhbnkgb25lIHRpbWUgb24g
+dGhlIHNjcmVlbiBjYW4gYmUgcmVsYXRpdmVseSBsb3cgZm9yIG9wdGltYWwgcGVyZm9ybWFuY2Ug
+YnV0IGl0IHN0aWxsIG5lZWRzIHRvIGJlIGFuIGFjY3VyYXRlIHN1YnNldCBvZiB0aGUgb3JpZ2lu
+YWwgaW1hZ2UgYW5kIGFzIGEgcmVzdWx0CiBkb3duc2NhbGluZyByZXNvbHV0aW9uIGZyb20gYSBs
+b3NzeSBjb21wcmVzc2VkIG9yaWdpbmFsIGlzIHVubGlrZWx5IHRvIHdvcmsgdmVyeSB3ZWxsLiBB
+cyBJIHJlY2FsbCwgdGhpcyBkb3duc2NhbGluZyBpcyBzb21ldGhpbmcgdGhhdCBWaXJ0dWFsIFZl
+bGx1bSBkb2VzIHdlbGwgYXMgZG9lcyBQaG90b3Nob3Agb2YgY291cnNlIGJ1dCB0byBpZGVudGlm
+eSBvbmUgb2YgdGhlIG1hbnkgdG9vbHMgYW5kIHBsdWctaW4ncyB3aGljaCBvcGVyYXRlIGluCiBh
+IHNpbWlsYXIgYW5kIGFwcHJvcHJpYXRlIHdheSBmb3IgeW91ciBwYXJ0aWN1bGFyIG5lZWRzIGFu
+ZCBjdXN0b20gd2Vic2l0ZSB3aWxsIG9mIGNvdXJzZSBuZWVkIHlvdXIgZnVydGhlciByZXNlYXJj
+aC48YnI+CjwvYmxvY2txdW90ZT4KPC9ibG9ja3F1b3RlPgo8YmxvY2txdW90ZSB0eXBlPSJjaXRl
+Ij4KPGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+PGJyPgo8L2Jsb2NrcXVvdGU+CjwvYmxvY2txdW90
+ZT4KPGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+CjxibG9ja3F1b3RlIHR5cGU9ImNpdGUiPkhvcGUg
+dGhpcyBoZWxwczxicj4KPC9ibG9ja3F1b3RlPgo8L2Jsb2NrcXVvdGU+CjxibG9ja3F1b3RlIHR5
+cGU9ImNpdGUiPgo8YmxvY2txdW90ZSB0eXBlPSJjaXRlIj48YnI+CjwvYmxvY2txdW90ZT4KPC9i
+bG9ja3F1b3RlPgo8YmxvY2txdW90ZSB0eXBlPSJjaXRlIj4KPGJsb2NrcXVvdGUgdHlwZT0iY2l0
+ZSI+QmVzdCByZWdhcmRzPGJyPgo8L2Jsb2NrcXVvdGU+CjwvYmxvY2txdW90ZT4KPGJsb2NrcXVv
+dGUgdHlwZT0iY2l0ZSI+CjxibG9ja3F1b3RlIHR5cGU9ImNpdGUiPjxicj4KPC9ibG9ja3F1b3Rl
+Pgo8L2Jsb2NrcXVvdGU+CjxibG9ja3F1b3RlIHR5cGU9ImNpdGUiPgo8YmxvY2txdW90ZSB0eXBl
+PSJjaXRlIj5Ub255IEhhcnJpczxicj4KPC9ibG9ja3F1b3RlPgo8L2Jsb2NrcXVvdGU+CjxibG9j
+a3F1b3RlIHR5cGU9ImNpdGUiPgo8YmxvY2txdW90ZSB0eXBlPSJjaXRlIj5LZWxsb2dnIENvbGxl
+Z2UsIE94Zm9yZDxicj4KPC9ibG9ja3F1b3RlPgo8L2Jsb2NrcXVvdGU+CjxibG9ja3F1b3RlIHR5
+cGU9ImNpdGUiPgo8YmxvY2txdW90ZSB0eXBlPSJjaXRlIj48YnI+CjwvYmxvY2txdW90ZT4KPC9i
+bG9ja3F1b3RlPgo8YmxvY2txdW90ZSB0eXBlPSJjaXRlIj4KPGJsb2NrcXVvdGUgdHlwZT0iY2l0
+ZSI+LS0tLS1PcmlnaW5hbCBNZXNzYWdlLS0tLS08YnI+CjwvYmxvY2txdW90ZT4KPC9ibG9ja3F1
+b3RlPgo8YmxvY2txdW90ZSB0eXBlPSJjaXRlIj4KPGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+RnJv
+bTogZG0tbC1ib3VuY2VzQHVsZXRoLmNhIFttYWlsdG86ZG0tbC1ib3VuY2VzQHVsZXRoLmNhXSBP
+biBCZWhhbGYgT2YgQmlybmJhdW0sIERhdmlkIEo8YnI+CjwvYmxvY2txdW90ZT4KPC9ibG9ja3F1
+b3RlPgo8YmxvY2txdW90ZSB0eXBlPSJjaXRlIj4KPGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+U2Vu
+dDogMTkgSnVuZSAyMDEyIDAxOjQyPGJyPgo8L2Jsb2NrcXVvdGU+CjwvYmxvY2txdW90ZT4KPGJs
+b2NrcXVvdGUgdHlwZT0iY2l0ZSI+CjxibG9ja3F1b3RlIHR5cGU9ImNpdGUiPlRvOiBkbS1sQHVs
+ZXRoLmNhPGJyPgo8L2Jsb2NrcXVvdGU+CjwvYmxvY2txdW90ZT4KPGJsb2NrcXVvdGUgdHlwZT0i
+Y2l0ZSI+CjxibG9ja3F1b3RlIHR5cGU9ImNpdGUiPlN1YmplY3Q6IFtkbS1sXSBiZXN0IHByYWN0
+aWNlOiBwaG90b2dyYXBoYyBmYWNzaW1pbGU/PGJyPgo8L2Jsb2NrcXVvdGU+CjwvYmxvY2txdW90
+ZT4KPGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+CjxibG9ja3F1b3RlIHR5cGU9ImNpdGUiPjxicj4K
+PC9ibG9ja3F1b3RlPgo8L2Jsb2NrcXVvdGU+CjxibG9ja3F1b3RlIHR5cGU9ImNpdGUiPgo8Ymxv
+Y2txdW90ZSB0eXBlPSJjaXRlIj5EZWFyIERpZ2l0YWwgTWVkaWV2YWxpc3QsPGJyPgo8L2Jsb2Nr
+cXVvdGU+CjwvYmxvY2txdW90ZT4KPGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+CjxibG9ja3F1b3Rl
+IHR5cGU9ImNpdGUiPjxicj4KPC9ibG9ja3F1b3RlPgo8L2Jsb2NrcXVvdGU+CjxibG9ja3F1b3Rl
+IHR5cGU9ImNpdGUiPgo8YmxvY2txdW90ZSB0eXBlPSJjaXRlIj5Gb3IgYSBjb3VwbGUgb2YgbmV3
+IEludGVybmV0IGVkaXRpb25zIG9mIG1lZGlldmFsIG1hbnVzY3JpcHRzIEkndmUgcHJvY3VyZWQg
+aGlnaC1yZXNvbHV0aW9uIHRpZmYgaW1hZ2VzLCB3aGljaCBJJ20gcHVibGlzaGluZyB3aXRoIGEg
+JnF1b3Q7bWFnbmlmeWluZyBnbGFzcyZxdW90OyBvdmVybGF5LiBUaGlzIGlzIGluIGEgJnF1b3Q7
+cmVzcG9uc2l2ZSZxdW90OyBjb250ZXh0LCBzbyB0aGUgY29tcG9uZW50cyBvZiB0aGUgcGFnZSwg
+aW5jbHVkaW5nCiB0aGUgaW1hZ2VzLCByZXNpemUgdG8gZml0IHRoZSB3aW5kb3cgZGltZW5zaW9u
+cy4gVGhlcmUncyBhIHNhbXBsZSBhdDo8YnI+CjwvYmxvY2txdW90ZT4KPC9ibG9ja3F1b3RlPgo8
+YmxvY2txdW90ZSB0eXBlPSJjaXRlIj4KPGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+PGJyPgo8L2Js
+b2NrcXVvdGU+CjwvYmxvY2txdW90ZT4KPGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+CjxibG9ja3F1
+b3RlIHR5cGU9ImNpdGUiPmh0dHA6Ly9zdXByYXNsaWVuc2lzLm9iZHVyb2Rvbi5vcmcvcGFnZXMv
+c3VwcjAwMXIuaHRtbDxicj4KPC9ibG9ja3F1b3RlPgo8L2Jsb2NrcXVvdGU+CjxibG9ja3F1b3Rl
+IHR5cGU9ImNpdGUiPgo8YmxvY2txdW90ZSB0eXBlPSJjaXRlIj48YnI+CjwvYmxvY2txdW90ZT4K
+PC9ibG9ja3F1b3RlPgo8YmxvY2txdW90ZSB0eXBlPSJjaXRlIj4KPGJsb2NrcXVvdGUgdHlwZT0i
+Y2l0ZSI+VGhlIGN1cnJlbnQgaW1hZ2VzIHdlcmUgcHJlcGFyZWQgcXVpY2tseSBmb3IgYSBkZW1v
+LCBhbmQgYXJlIG5vdCBvZiBjb25zaXN0ZW50IHNpemUgb3IgcmVzb2x1dGlvbi4gSSB3b3VsZCBu
+b3cgbGlrZSB0byBnbyBiYWNrIHRvIGdldCB0aGlzIHBhcnQgb2YgdGhlIHNpdGUgdXAgdG8gcHJv
+ZHVjdGlvbiBxdWFsaXR5LCBhbmQgSSB3b3VsZCBiZSBncmF0ZWZ1bCBmb3IgYWR2aWNlIGFib3V0
+IGhvdyB0byBtYW5hZ2UKIHRoZSBpbWFnZXMsIGFuIGFyZWEgd2hlcmUgSSBkb24ndCBoYXZlIG11
+Y2ggKD0gYW55KSBrbm93bGVkZ2Ugb2YgYmVzdCBwcmFjdGljZS4gSSdkIGxpa2Ugc21hbGwgaW1h
+Z2UgZmlsZXMgdGhhdCBsb2FkIHF1aWNrbHksIGFuZCBJIHRoaW5rIEkgZG9uJ3QgbWluZCBzbGln
+aHRseSBsb3NzeSBjb21wcmVzc2lvbiBpZiB0aGF0IHdvdWxkIHJlZHVjZSB0aGUgZmlsZSBzaXpl
+IHN1YnN0YW50aWFsbHktLWJ1dCBpZiB0aGF0J3MgYSBtaXN0YWtlLCBJJ2QKIGJlIGdyYXRlZnVs
+IGZvciBhIHdhcm5pbmcuIEkgdGhpbmsgdGhlcmUgYXJlIHR3byBxdWVzdGlvbnM6PGJyPgo8L2Js
+b2NrcXVvdGU+CjwvYmxvY2txdW90ZT4KPGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+CjxibG9ja3F1
+b3RlIHR5cGU9ImNpdGUiPjxicj4KPC9ibG9ja3F1b3RlPgo8L2Jsb2NrcXVvdGU+CjxibG9ja3F1
+b3RlIHR5cGU9ImNpdGUiPgo8YmxvY2txdW90ZSB0eXBlPSJjaXRlIj4xLiBXaGF0J3MgYW4gYXBw
+cm9wcmlhdGUgZmlsZSBmb3JtYXQgYW5kIHJlc29sdXRpb24gKHNpemUsIGRwaSwgY29sb3IgZGVw
+dGgsIGV0Yy4pIGZvciB0aGUgYmFzZSBpbWFnZSwgdGhlIG9uZSB0aGF0IGlzIGRpc3BsYXllZCBp
+biBmdWxsIHRvIHRoZSByaWdodCBvZiB0aGUgdHJhbnNjcmlwdGlvbiwgYW5kIHRoYXQgcmVzaXpl
+cyBhcyB0aGUgdXNlciByZXNpemVzIHRoZSB3aW5kb3c/IEN1cnJlbnRseSB0aGUKIGltYWdlIGZp
+bGVzIGFyZSBpbiBqcGcgZm9ybWF0IGFuZCB2YXJ5IGluIHNpemUgZnJvbSBhYm91dCAyTSBkb3du
+IHRvIDI1MGsuIEkgY2FuIHJlZ2VuZXJhdGUgdGhlbSBhbGwgYXQgYSBjb21tb24gc2l6ZSwgcmVz
+b2x1dGlvbiwgY29sb3IgZGVwdGgsIGV0Yy4gZnJvbSB0aGUgb3JpZ2luYWwgdGlmZnMsIGJ1dCBJ
+IGRvbid0IGtub3cgd2hldGhlciB0aGVyZSBpcyBhbnkgc2Vuc2Ugb2YgYmVzdCBwcmFjdGljZSBj
+b25jZXJuaW5nIHdoYXQgdGhhdAogc2l6ZSBzaG91bGQgYmUuIElmIEkgZ28gdGhlIGxvc3N5IHJv
+dXRlLCB3aGF0J3MgYSByZWFzb25hYmxlIHZhbHVlPzxicj4KPC9ibG9ja3F1b3RlPgo8L2Jsb2Nr
+cXVvdGU+CjxibG9ja3F1b3RlIHR5cGU9ImNpdGUiPgo8YmxvY2txdW90ZSB0eXBlPSJjaXRlIj48
+YnI+CjwvYmxvY2txdW90ZT4KPC9ibG9ja3F1b3RlPgo8YmxvY2txdW90ZSB0eXBlPSJjaXRlIj4K
+PGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+Mi4gV2hhdCdzIGFuIGFwcHJvcHJpYXRlIGRlZ3JlZSBv
+ZiBtYWduaWZpY2F0aW9uIGZvciB0aGUgbWFnbmlmeWluZy1nbGFzcyBpbnNldCB2aWV3PyBDdXJy
+ZW50bHkgdGhlIG1hZ25pZnlpbmcgZ2xhc3MgaW5zZXQgYWx3YXlzIHNob3dzIHRoZSBpbWFnZSBh
+dCAyMDAlIG9mIHRoZSBhY3R1YWwgZmlsZSBzaXplIChub3QgdGhlIHNpemUgb2YgdGhlIHBhZ2Ug
+YXMgZGlzcGxheWVkIHdpdGhvdXQgbWFnbmlmaWNhdGlvbgogaW4gdGhlIGJyb3dzZXIgd2luZG93
+ISkuIFlvdSBjYW4gc2VlIHRoZSBkaWZmZXJlbmNlIGJ5IGNvbXBhcmluZywgc2F5LCBmb2xpbyAz
+MHYgKGFib3V0IDJNQikgdG8gMjg0ciAoYWJvdXQgMjcwayksIHdoZXJlIHRoZSBtYWduaWZpY2F0
+aW9uIGlzIG11Y2ggZ3JlYXRlciBpbiB0aGUgZm9ybWVyIHRoYW4gdGhlIGxhdHRlci4gSSBjYW4g
+c2V0IHRoZSBsZXZlbCBvZiBtYWduaWZpY2F0aW9uIGFueXdoZXJlIEknZCBsaWtlLCBidXQgaXMg
+dGhlcmUgYW55CiBhZ3JlZW1lbnQgYWJvdXQgYmVzdCBwcmFjdGljZSBoZXJlPzxicj4KPC9ibG9j
+a3F1b3RlPgo8L2Jsb2NrcXVvdGU+CjxibG9ja3F1b3RlIHR5cGU9ImNpdGUiPgo8YmxvY2txdW90
+ZSB0eXBlPSJjaXRlIj48YnI+CjwvYmxvY2txdW90ZT4KPC9ibG9ja3F1b3RlPgo8YmxvY2txdW90
+ZSB0eXBlPSJjaXRlIj4KPGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+Qnkgd2F5IG9mIG9yaWVudGF0
+aW9uIGluIHRoZSBxdWVzdGlvbjogdGhlIHB1cnBvc2Ugb2YgdGhlIGZ1bGwgaW1hZ2UgaXMgdG8g
+YWxsb3cgdGhlIHVzZXIgdG8gc2VlIHRoZSBpbWFnZSBjb252ZW5pZW50bHkgYWxvbmdzaWRlIHRo
+ZSB0cmFuc2NyaXB0aW9uLCB2ZXJpZnlpbmcgYW55IG1vbWVudHMgd2hlcmUgb3VyIGVkaXRvcmlh
+bCBqdWRnbWVudCBtaWdodCBhcHBlYXIgc3VycHJpc2luZyBvciBxdWVzdGlvbmFibGUuCiBUaGUg
+cG9pbnQgb2YgdGhlIG1hZ25pZmllZCBpbnNldCBpcyB0byBsZXQgdGhlIHVzZXIgZXhhbWluZSBk
+ZXRhaWxzIHRoYXQgbWF5IG5vdCBiZSB2aXNpYmxlIGF0IGxlc3NlciBtYWduaWZpY2F0aW9uLCBz
+dWNoIGFzIGVyYXN1cmVzLCBjb3JyZWN0aW9ucywgZXRjLiBNeSBjYXN1YWwgaW1wcmVzc2lvbiBp
+cyB0aGF0IDMwdiBsb29rcyBwcmV0dHkgZ29vZCBhbmQgbG9hZHMgcmVhc29uYWJseSBxdWlja2x5
+IChhbHRob3VnaCBxdWlja2VyIHdvdWxkCiBiZSBiZXR0ZXIpLCBidXQgSSBkb24ndCBwbGFjZSBn
+cmVhdCBjb25maWRlbmNlIGluIG15IG93biBjYXN1YWwgaW1wcmVzc2lvbnMuPGJyPgo8L2Jsb2Nr
+cXVvdGU+CjwvYmxvY2txdW90ZT4KPGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+CjxibG9ja3F1b3Rl
+IHR5cGU9ImNpdGUiPjxicj4KPC9ibG9ja3F1b3RlPgo8L2Jsb2NrcXVvdGU+CjxibG9ja3F1b3Rl
+IHR5cGU9ImNpdGUiPgo8YmxvY2txdW90ZSB0eXBlPSJjaXRlIj5UaGFua3MsPGJyPgo8L2Jsb2Nr
+cXVvdGU+CjwvYmxvY2txdW90ZT4KPGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+CjxibG9ja3F1b3Rl
+IHR5cGU9ImNpdGUiPjxicj4KPC9ibG9ja3F1b3RlPgo8L2Jsb2NrcXVvdGU+CjxibG9ja3F1b3Rl
+IHR5cGU9ImNpdGUiPgo8YmxvY2txdW90ZSB0eXBlPSJjaXRlIj5EYXZpZDxicj4KPC9ibG9ja3F1
+b3RlPgo8L2Jsb2NrcXVvdGU+CjxibG9ja3F1b3RlIHR5cGU9ImNpdGUiPgo8YmxvY2txdW90ZSB0
+eXBlPSJjaXRlIj5kamJwaXR0QHBpdHQuZWR1PGJyPgo8L2Jsb2NrcXVvdGU+CjwvYmxvY2txdW90
+ZT4KPGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+CjxibG9ja3F1b3RlIHR5cGU9ImNpdGUiPjxicj4K
+PC9ibG9ja3F1b3RlPgo8L2Jsb2NrcXVvdGU+CjxibG9ja3F1b3RlIHR5cGU9ImNpdGUiPgo8Ymxv
+Y2txdW90ZSB0eXBlPSJjaXRlIj48YnI+CjwvYmxvY2txdW90ZT4KPC9ibG9ja3F1b3RlPgo8Ymxv
+Y2txdW90ZSB0eXBlPSJjaXRlIj4KPGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+RGlnaXRhbCBNZWRp
+ZXZhbGlzdCAtLSAmbmJzcDtodHRwOi8vd3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmcvPGJyPgo8
+L2Jsb2NrcXVvdGU+CjwvYmxvY2txdW90ZT4KPGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+CjxibG9j
+a3F1b3RlIHR5cGU9ImNpdGUiPkpvdXJuYWw6IGh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0
+Lm9yZy9qb3VybmFsLzxicj4KPC9ibG9ja3F1b3RlPgo8L2Jsb2NrcXVvdGU+CjxibG9ja3F1b3Rl
+IHR5cGU9ImNpdGUiPgo8YmxvY2txdW90ZSB0eXBlPSJjaXRlIj5Kb3VybmFsIEVkaXRvcnM6IGVk
+aXRvcnMgX0FUXyBkaWdpdGFsbWVkaWV2YWxpc3Qub3JnPGJyPgo8L2Jsb2NrcXVvdGU+CjwvYmxv
+Y2txdW90ZT4KPGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+CjxibG9ja3F1b3RlIHR5cGU9ImNpdGUi
+Pk5ld3M6IGh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy9uZXdzLzxicj4KPC9ibG9j
+a3F1b3RlPgo8L2Jsb2NrcXVvdGU+CjxibG9ja3F1b3RlIHR5cGU9ImNpdGUiPgo8YmxvY2txdW90
+ZSB0eXBlPSJjaXRlIj5XaWtpOiBodHRwOi8vd3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmcvd2lr
+aS88YnI+CjwvYmxvY2txdW90ZT4KPC9ibG9ja3F1b3RlPgo8YmxvY2txdW90ZSB0eXBlPSJjaXRl
+Ij4KPGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+VHdpdHRlcjogaHR0cDovL3R3aXR0ZXIuY29tL2Rp
+Z2l0YWxtZWRpZXZhbDxicj4KPC9ibG9ja3F1b3RlPgo8L2Jsb2NrcXVvdGU+CjxibG9ja3F1b3Rl
+IHR5cGU9ImNpdGUiPgo8YmxvY2txdW90ZSB0eXBlPSJjaXRlIj5GYWNlYm9vazogaHR0cDovL3d3
+dy5mYWNlYm9vay5jb20vZ3JvdXAucGhwP2dpZEkzMjAzMTM3NjA8YnI+CjwvYmxvY2txdW90ZT4K
+PC9ibG9ja3F1b3RlPgo8YmxvY2txdW90ZSB0eXBlPSJjaXRlIj4KPGJsb2NrcXVvdGUgdHlwZT0i
+Y2l0ZSI+RGlzY3Vzc2lvbiBsaXN0OiBkbS1sQHVsZXRoLmNhPGJyPgo8L2Jsb2NrcXVvdGU+Cjwv
+YmxvY2txdW90ZT4KPGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+CjxibG9ja3F1b3RlIHR5cGU9ImNp
+dGUiPkNoYW5nZSBsaXN0IG9wdGlvbnM6IGh0dHA6Ly9saXN0c2Vydi51bGV0aC5jYS9tYWlsbWFu
+L2xpc3RpbmZvL2RtLWw8YnI+CjwvYmxvY2txdW90ZT4KPC9ibG9ja3F1b3RlPgo8YmxvY2txdW90
+ZSB0eXBlPSJjaXRlIj4KPGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+PGJyPgo8L2Jsb2NrcXVvdGU+
+CjwvYmxvY2txdW90ZT4KPGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+CjxibG9ja3F1b3RlIHR5cGU9
+ImNpdGUiPkRpZ2l0YWwgTWVkaWV2YWxpc3QgLS0gJm5ic3A7aHR0cDovL3d3dy5kaWdpdGFsbWVk
+aWV2YWxpc3Qub3JnLzxicj4KPC9ibG9ja3F1b3RlPgo8L2Jsb2NrcXVvdGU+CjxibG9ja3F1b3Rl
+IHR5cGU9ImNpdGUiPgo8YmxvY2txdW90ZSB0eXBlPSJjaXRlIj5Kb3VybmFsOiBodHRwOi8vd3d3
+LmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmcvam91cm5hbC88YnI+CjwvYmxvY2txdW90ZT4KPC9ibG9j
+a3F1b3RlPgo8YmxvY2txdW90ZSB0eXBlPSJjaXRlIj4KPGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+
+Sm91cm5hbCBFZGl0b3JzOiBlZGl0b3JzIF9BVF8gZGlnaXRhbG1lZGlldmFsaXN0Lm9yZzxicj4K
+PC9ibG9ja3F1b3RlPgo8L2Jsb2NrcXVvdGU+CjxibG9ja3F1b3RlIHR5cGU9ImNpdGUiPgo8Ymxv
+Y2txdW90ZSB0eXBlPSJjaXRlIj5OZXdzOiBodHRwOi8vd3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC5v
+cmcvbmV3cy88YnI+CjwvYmxvY2txdW90ZT4KPC9ibG9ja3F1b3RlPgo8YmxvY2txdW90ZSB0eXBl
+PSJjaXRlIj4KPGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+V2lraTogaHR0cDovL3d3dy5kaWdpdGFs
+bWVkaWV2YWxpc3Qub3JnL3dpa2kvPGJyPgo8L2Jsb2NrcXVvdGU+CjwvYmxvY2txdW90ZT4KPGJs
+b2NrcXVvdGUgdHlwZT0iY2l0ZSI+CjxibG9ja3F1b3RlIHR5cGU9ImNpdGUiPlR3aXR0ZXI6IGh0
+dHA6Ly90d2l0dGVyLmNvbS9kaWdpdGFsbWVkaWV2YWw8YnI+CjwvYmxvY2txdW90ZT4KPC9ibG9j
+a3F1b3RlPgo8YmxvY2txdW90ZSB0eXBlPSJjaXRlIj4KPGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+
+RmFjZWJvb2s6IGh0dHA6Ly93d3cuZmFjZWJvb2suY29tL2dyb3VwLnBocD9naWRJMzIwMzEzNzYw
+PGJyPgo8L2Jsb2NrcXVvdGU+CjwvYmxvY2txdW90ZT4KPGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+
+CjxibG9ja3F1b3RlIHR5cGU9ImNpdGUiPkRpc2N1c3Npb24gbGlzdDogZG0tbEB1bGV0aC5jYTxi
+cj4KPC9ibG9ja3F1b3RlPgo8L2Jsb2NrcXVvdGU+CjxibG9ja3F1b3RlIHR5cGU9ImNpdGUiPgo8
+YmxvY2txdW90ZSB0eXBlPSJjaXRlIj5DaGFuZ2UgbGlzdCBvcHRpb25zOiBodHRwOi8vbGlzdHNl
+cnYudWxldGguY2EvbWFpbG1hbi9saXN0aW5mby9kbS1sPGJyPgo8L2Jsb2NrcXVvdGU+CjwvYmxv
+Y2txdW90ZT4KPGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+PGJyPgo8L2Jsb2NrcXVvdGU+CjxibG9j
+a3F1b3RlIHR5cGU9ImNpdGUiPjxicj4KPC9ibG9ja3F1b3RlPgo8YmxvY2txdW90ZSB0eXBlPSJj
+aXRlIj5EaWdpdGFsIE1lZGlldmFsaXN0IC0tICZuYnNwO2h0dHA6Ly93d3cuZGlnaXRhbG1lZGll
+dmFsaXN0Lm9yZy88YnI+CjwvYmxvY2txdW90ZT4KPGJsb2NrcXVvdGUgdHlwZT0iY2l0ZSI+Sm91
+cm5hbDogaHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnL2pvdXJuYWwvPGJyPgo8L2Js
+b2NrcXVvdGU+CjxibG9ja3F1b3RlIHR5cGU9ImNpdGUiPkpvdXJuYWwgRWRpdG9yczogZWRpdG9y
+cyBfQVRfIGRpZ2l0YWxtZWRpZXZhbGlzdC5vcmc8YnI+CjwvYmxvY2txdW90ZT4KPGJsb2NrcXVv
+dGUgdHlwZT0iY2l0ZSI+TmV3czogaHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnL25l
+d3MvPGJyPgo8L2Jsb2NrcXVvdGU+CjxibG9ja3F1b3RlIHR5cGU9ImNpdGUiPldpa2k6IGh0dHA6
+Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy93aWtpLzxicj4KPC9ibG9ja3F1b3RlPgo8Ymxv
+Y2txdW90ZSB0eXBlPSJjaXRlIj5Ud2l0dGVyOiBodHRwOi8vdHdpdHRlci5jb20vZGlnaXRhbG1l
+ZGlldmFsPGJyPgo8L2Jsb2NrcXVvdGU+CjxibG9ja3F1b3RlIHR5cGU9ImNpdGUiPkZhY2Vib29r
+OiBodHRwOi8vd3d3LmZhY2Vib29rLmNvbS9ncm91cC5waHA/Z2lkPTQ5MzIwMzEzNzYwPGJyPgo8
+L2Jsb2NrcXVvdGU+CjxibG9ja3F1b3RlIHR5cGU9ImNpdGUiPkRpc2N1c3Npb24gbGlzdDogZG0t
+bEB1bGV0aC5jYTxicj4KPC9ibG9ja3F1b3RlPgo8YmxvY2txdW90ZSB0eXBlPSJjaXRlIj5DaGFu
+Z2UgbGlzdCBvcHRpb25zOiBodHRwOi8vbGlzdHNlcnYudWxldGguY2EvbWFpbG1hbi9saXN0aW5m
+by9kbS1sPGJyPgo8L2Jsb2NrcXVvdGU+Cjxicj4KRGlnaXRhbCBNZWRpZXZhbGlzdCAtLSAmbmJz
+cDtodHRwOi8vd3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmcvPGJyPgpKb3VybmFsOiBodHRwOi8v
+d3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmcvam91cm5hbC88YnI+CkpvdXJuYWwgRWRpdG9yczog
+ZWRpdG9ycyBfQVRfIGRpZ2l0YWxtZWRpZXZhbGlzdC5vcmc8YnI+Ck5ld3M6IGh0dHA6Ly93d3cu
+ZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy9uZXdzLzxicj4KV2lraTogaHR0cDovL3d3dy5kaWdpdGFs
+bWVkaWV2YWxpc3Qub3JnL3dpa2kvPGJyPgpUd2l0dGVyOiBodHRwOi8vdHdpdHRlci5jb20vZGln
+aXRhbG1lZGlldmFsPGJyPgpGYWNlYm9vazogaHR0cDovL3d3dy5mYWNlYm9vay5jb20vZ3JvdXAu
+cGhwP2dpZEkzMjAzMTM3NjA8YnI+CkRpc2N1c3Npb24gbGlzdDogZG0tbEB1bGV0aC5jYTxicj4K
+Q2hhbmdlIGxpc3Qgb3B0aW9uczogaHR0cDovL2xpc3RzZXJ2LnVsZXRoLmNhL21haWxtYW4vbGlz
+dGluZm8vZG0tbDxicj4KPC9kaXY+CjwvYmxvY2txdW90ZT4KPC9kaXY+Cjxicj4KPC9kaXY+Cjwv
+ZGl2Pgo8L2JvZHk+CjwvaHRtbD4K

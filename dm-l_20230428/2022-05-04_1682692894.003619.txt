@@ -1,0 +1,128 @@
+Subject: [dm-l] Improving HTR output from Greek papyri and ByzantineDear digital medievalists, dear AI crowd,Training material has been released for preparation of the HTREC 2022 challen=
+ge, 1-8 June 2022, to improve Artificial Intelligence driven text recognition=
+ from Greek papyri and Byzantine manuscripts! - An AI crowd challenge organis=
+ed by the Venice Centre for Digital and Public Humanities (VeDPH), Ca' Foscar=
+i University of Venice. See: https://www.aicrowd.com/challenges/htrec-2022Handwritten text recognition (HTR) concerns the conversion of scanned images =
+of handwritten text into machine-encoded text. This is a challenging task tha=
+t can lead to transcribed text with multiple errors or even to no transcripti=
+on at all when training data (e.g., on a specific script) are not available. =
+This challenge aims to post-correct automatically any HTR transcription error=
+s, attempting to build on recent NLP advances, such as on Grammatical Error C=
+orrection.Why Is This Challenge Important?New, unpublished data will be released with this challenge and the state of t=
+he art in the field will be drawn. A workshop, that will take place in Venice=
+ in November
+2022, will discuss the results.What is the dataset like?The training instances consist of images of handwritten texts that have been =
+transcribed by human experts (the ground truth) and by a state of the art HTR=
+ model (the input). The texts comprise Greek papyri and byzantine manuscripts=
+. First, more than 1,800 lines of transcribed text will be released in order =
+to serve as training and validation data. The use of other resources for trai=
+ning is allowed and suggested. Next, an evaluation set will be released, for =
+which we will only share the input. A very small part of the evaluation set i=
+s used to keep an up to date leaderboard.What Are The Key Tasks?The task involves the correction of any errors present in the HTR-ed text, pr=
+ovided the system transcription of the manuscript in question. The ground tru=
+th of the evaluation set is used to score participating systems in terms of c=
+haracter error *reduction* rate (CERR). A starter kit notebook is  provided h=
+ere  to assist with system development and evaluation.Prizes!The Participant with the best performing system will be invited to attend a w=
+orkshop in Venice, upon the completion of the challenge, and present the resp=
+ective system description paper with all expenses covered.TimelineTraining data release date: May 1st, 2022
+Evaluation data release date: June 1st, 2022
+Predictions submission deadline: 11:59, June 8th, 2022
+Rankings release date: July 1st, 2022
+System description paper submission deadline: 11:59 September 1st, 2022
+Best system description paper announced: October 1st, 2022
+Workshop: November 7th & 8th, 2022, Venice, ItalyAll deadlines are in UTC -12h timezone (anywhere on planet earth).Best of luck!
+Franz--Franz Fischer
+Direttore, Venice Centre for Digital & Public Humanities (VeDPH)
+Dipartimento di Studi Umanistici
+Universit=C3=A0 Ca' Foscari
+Palazzo Malcanton Marcor=C3=A0
+Dorsoduro 3484/D - 30123 VeneziaTel.: +39 041 234 6266 (ufficio), +39 041 234 9863 (segreteria del centro)
+https://www.unive.it/vedph
+https://www.i-d-e.de/
+https://journal.digitalmedievalist.org/
+--===============1599804739200226553==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"
+MIME-Version: 1.0PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
+eHQvaHRtbDsgY2hhcnNldD11dGYtOCI+CjwvaGVhZD4KPGJvZHk+CjxkaXYgc3R5bGU9ImJvcmRl
+cjpzb2xpZCAjNjQ2NDY0IDEuMHB0O3BhZGRpbmc6Mi4wcHQgMi4wcHQgMi4wcHQgMi4wcHQ7YmFj
+a2dyb3VuZDojRkZFQjlDIj4KPHAgY2xhc3M9Ik1zb05vcm1hbCIgc3R5bGU9ImxpbmUtaGVpZ2h0
+OjEyLjBwdDttYXJnaW46NXB4Ij48Yj48c3BhbiBzdHlsZT0iZm9udC1zaXplOjEwLjBwdDtjb2xv
+cjojOUM2NTAwIj48L3NwYW4+PC9iPjxzcGFuIHN0eWxlPSJmb250LXNpemU6MTAuMHB0O2NvbG9y
+OmJsYWNrIj5DYXV0aW9uOiBUaGlzIGVtYWlsIHdhcyBzZW50IGZyb20gc29tZW9uZQo8Yj5vdXRz
+aWRlIG9mIHRoZSBVbml2ZXJzaXR5IG9mIExldGhicmlkZ2U8L2I+LiBEbyBub3QgY2xpY2sgb24g
+bGlua3Mgb3Igb3BlbiBhdHRhY2htZW50cyB1bmxlc3MgeW91IGtub3cgdGhleSBhcmUgc2FmZS4g
+U3VzcGljaW91cyBlbWFpbHMgc2hvdWxkIGJlIGZvcndhcmRlZCB0byBwaGlzaGluZ0B1bGV0aC5j
+YS48bzpwPjwvbzpwPjwvc3Bhbj48L3A+CjwvZGl2Pgo8YnI+CjxkaXY+CjxkaXYgZGlyPSJsdHIi
+Pgo8ZGl2PkRlYXIgZGlnaXRhbCBtZWRpZXZhbGlzdHMsIGRlYXIgQUkgY3Jvd2QsPC9kaXY+Cjxk
+aXY+PGJyPgo8L2Rpdj4KPGRpdj5UcmFpbmluZyBtYXRlcmlhbCBoYXMgYmVlbiByZWxlYXNlZCBm
+b3IgcHJlcGFyYXRpb24gb2YgdGhlIEhUUkVDIDIwMjIgY2hhbGxlbmdlLCAxLTggSnVuZSAyMDIy
+LCB0byBpbXByb3ZlIEFydGlmaWNpYWwgSW50ZWxsaWdlbmNlIGRyaXZlbiB0ZXh0IHJlY29nbml0
+aW9uIGZyb20gR3JlZWsgcGFweXJpIGFuZCBCeXphbnRpbmUgbWFudXNjcmlwdHMhIC0gQW4gQUkg
+Y3Jvd2QgY2hhbGxlbmdlIG9yZ2FuaXNlZCBieSB0aGUgVmVuaWNlIENlbnRyZQogZm9yIERpZ2l0
+YWwgYW5kIFB1YmxpYyBIdW1hbml0aWVzIChWZURQSCksIENhJyBGb3NjYXJpIFVuaXZlcnNpdHkg
+b2YgVmVuaWNlLiBTZWU6CjxhIGhyZWY9Imh0dHBzOi8vd3d3LmFpY3Jvd2QuY29tL2NoYWxsZW5n
+ZXMvaHRyZWMtMjAyMiI+aHR0cHM6Ly93d3cuYWljcm93ZC5jb20vY2hhbGxlbmdlcy9odHJlYy0y
+MDIyPC9hPjxicj4KPC9kaXY+Cjxicj4KSGFuZHdyaXR0ZW4gdGV4dCByZWNvZ25pdGlvbiAoSFRS
+KSBjb25jZXJucyB0aGUgY29udmVyc2lvbiBvZiBzY2FubmVkIGltYWdlcyBvZiBoYW5kd3JpdHRl
+biB0ZXh0IGludG8gbWFjaGluZS1lbmNvZGVkIHRleHQuIFRoaXMgaXMgYSBjaGFsbGVuZ2luZyB0
+YXNrIHRoYXQgY2FuIGxlYWQgdG8gdHJhbnNjcmliZWQgdGV4dCB3aXRoIG11bHRpcGxlIGVycm9y
+cyBvciBldmVuIHRvIG5vIHRyYW5zY3JpcHRpb24gYXQgYWxsIHdoZW4gdHJhaW5pbmcgZGF0YQog
+KGUuZy4sIG9uIGEgc3BlY2lmaWMgc2NyaXB0KSBhcmUgbm90IGF2YWlsYWJsZS4gVGhpcyBjaGFs
+bGVuZ2UgYWltcyB0byBwb3N0LWNvcnJlY3QgYXV0b21hdGljYWxseSBhbnkgSFRSIHRyYW5zY3Jp
+cHRpb24gZXJyb3JzLCBhdHRlbXB0aW5nIHRvIGJ1aWxkIG9uIHJlY2VudCBOTFAgYWR2YW5jZXMs
+IHN1Y2ggYXMgb24gR3JhbW1hdGljYWwgRXJyb3IgQ29ycmVjdGlvbi4KPGJyPgo8YnI+CldoeSBJ
+cyBUaGlzIENoYWxsZW5nZSBJbXBvcnRhbnQ/PGJyPgo8YnI+Ck5ldywgdW5wdWJsaXNoZWQgZGF0
+YSB3aWxsIGJlIHJlbGVhc2VkIHdpdGggdGhpcyBjaGFsbGVuZ2UgYW5kIHRoZSBzdGF0ZSBvZiB0
+aGUgYXJ0IGluIHRoZSBmaWVsZCB3aWxsIGJlIGRyYXduLiBBIHdvcmtzaG9wLCB0aGF0IHdpbGwg
+dGFrZSBwbGFjZSBpbiBWZW5pY2UgaW4gTm92ZW1iZXI8YnI+CjIwMjIsIHdpbGwgZGlzY3VzcyB0
+aGUgcmVzdWx0cy4gPGJyPgo8YnI+CldoYXQgaXMgdGhlIGRhdGFzZXQgbGlrZT88YnI+Cjxicj4K
+VGhlIHRyYWluaW5nIGluc3RhbmNlcyBjb25zaXN0IG9mIGltYWdlcyBvZiBoYW5kd3JpdHRlbiB0
+ZXh0cyB0aGF0IGhhdmUgYmVlbiB0cmFuc2NyaWJlZCBieSBodW1hbiBleHBlcnRzICh0aGUgZ3Jv
+dW5kIHRydXRoKSBhbmQgYnkgYSBzdGF0ZSBvZiB0aGUgYXJ0IEhUUiBtb2RlbCAodGhlIGlucHV0
+KS4gVGhlIHRleHRzIGNvbXByaXNlIEdyZWVrIHBhcHlyaSBhbmQgYnl6YW50aW5lIG1hbnVzY3Jp
+cHRzLiBGaXJzdCwgbW9yZSB0aGFuIDEsODAwIGxpbmVzCiBvZiB0cmFuc2NyaWJlZCB0ZXh0IHdp
+bGwgYmUgcmVsZWFzZWQgaW4gb3JkZXIgdG8gc2VydmUgYXMgdHJhaW5pbmcgYW5kIHZhbGlkYXRp
+b24gZGF0YS4gVGhlIHVzZSBvZiBvdGhlciByZXNvdXJjZXMgZm9yIHRyYWluaW5nIGlzIGFsbG93
+ZWQgYW5kIHN1Z2dlc3RlZC4gTmV4dCwgYW4gZXZhbHVhdGlvbiBzZXQgd2lsbCBiZSByZWxlYXNl
+ZCwgZm9yIHdoaWNoIHdlIHdpbGwgb25seSBzaGFyZSB0aGUgaW5wdXQuIEEgdmVyeSBzbWFsbCBw
+YXJ0IG9mCiB0aGUgZXZhbHVhdGlvbiBzZXQgaXMgdXNlZCB0byBrZWVwIGFuIHVwIHRvIGRhdGUg
+bGVhZGVyYm9hcmQuPGJyPgo8YnI+CldoYXQgQXJlIFRoZSBLZXkgVGFza3M/PGJyPgo8YnI+ClRo
+ZSB0YXNrIGludm9sdmVzIHRoZSBjb3JyZWN0aW9uIG9mIGFueSBlcnJvcnMgcHJlc2VudCBpbiB0
+aGUgSFRSLWVkIHRleHQsIHByb3ZpZGVkIHRoZSBzeXN0ZW0gdHJhbnNjcmlwdGlvbiBvZiB0aGUg
+bWFudXNjcmlwdCBpbiBxdWVzdGlvbi4gVGhlIGdyb3VuZCB0cnV0aCBvZiB0aGUgZXZhbHVhdGlv
+biBzZXQgaXMgdXNlZCB0byBzY29yZSBwYXJ0aWNpcGF0aW5nIHN5c3RlbXMgaW4gdGVybXMgb2Yg
+Y2hhcmFjdGVyIGVycm9yICpyZWR1Y3Rpb24qCiByYXRlIChDRVJSKS4gQSBzdGFydGVyIGtpdCBu
+b3RlYm9vayBpcyAmbmJzcDtwcm92aWRlZCBoZXJlICZuYnNwO3RvIGFzc2lzdCB3aXRoIHN5c3Rl
+bSBkZXZlbG9wbWVudCBhbmQgZXZhbHVhdGlvbi4KPGJyPgo8YnI+ClByaXplcyEgPGJyPgo8YnI+
+ClRoZSBQYXJ0aWNpcGFudCB3aXRoIHRoZSBiZXN0IHBlcmZvcm1pbmcgc3lzdGVtIHdpbGwgYmUg
+aW52aXRlZCB0byBhdHRlbmQgYSB3b3Jrc2hvcCBpbiBWZW5pY2UsIHVwb24gdGhlIGNvbXBsZXRp
+b24gb2YgdGhlIGNoYWxsZW5nZSwgYW5kIHByZXNlbnQgdGhlIHJlc3BlY3RpdmUgc3lzdGVtIGRl
+c2NyaXB0aW9uIHBhcGVyIHdpdGggYWxsIGV4cGVuc2VzIGNvdmVyZWQuPGJyPgo8YnI+ClRpbWVs
+aW5lIDxicj4KPGJyPgpUcmFpbmluZyBkYXRhIHJlbGVhc2UgZGF0ZTogTWF5IDFzdCwgMjAyMjxi
+cj4KRXZhbHVhdGlvbiBkYXRhIHJlbGVhc2UgZGF0ZTogSnVuZSAxc3QsIDIwMjI8YnI+ClByZWRp
+Y3Rpb25zIHN1Ym1pc3Npb24gZGVhZGxpbmU6IDExOjU5LCBKdW5lIDh0aCwgMjAyMjxicj4KUmFu
+a2luZ3MgcmVsZWFzZSBkYXRlOiBKdWx5IDFzdCwgMjAyMjxicj4KU3lzdGVtIGRlc2NyaXB0aW9u
+IHBhcGVyIHN1Ym1pc3Npb24gZGVhZGxpbmU6IDExOjU5IFNlcHRlbWJlciAxc3QsIDIwMjI8YnI+
+CkJlc3Qgc3lzdGVtIGRlc2NyaXB0aW9uIHBhcGVyIGFubm91bmNlZDogT2N0b2JlciAxc3QsIDIw
+MjI8YnI+CldvcmtzaG9wOiBOb3ZlbWJlciA3dGggJmFtcDsgOHRoLCAyMDIyLCBWZW5pY2UsIEl0
+YWx5PGJyPgo8YnI+CjxkaXY+QWxsIGRlYWRsaW5lcyBhcmUgaW4gVVRDIC0xMmggdGltZXpvbmUg
+KGFueXdoZXJlIG9uIHBsYW5ldCBlYXJ0aCkuIDxicj4KPC9kaXY+CjxkaXY+PGJyPgo8L2Rpdj4K
+PGRpdj5CZXN0IG9mIGx1Y2shPC9kaXY+CjxkaXY+RnJhbno8YnI+CjwvZGl2Pgo8YnI+Ci0tIDxi
+cj4KPGRpdiBkaXI9Imx0ciIgY2xhc3M9ImdtYWlsX3NpZ25hdHVyZSIgZGF0YS1zbWFydG1haWw9
+ImdtYWlsX3NpZ25hdHVyZSI+CjxkaXYgZGlyPSJsdHIiPgo8ZGl2Pgo8ZGl2IGRpcj0ibHRyIj4K
+PGRpdj4KPGRpdiBkaXI9Imx0ciI+CjxkaXY+CjxkaXYgZGlyPSJsdHIiPgo8cHJlIGNvbHM9Ijcy
+Ij5GcmFueiBGaXNjaGVyPGJyPkRpcmV0dG9yZSwgVmVuaWNlIENlbnRyZSBmb3IgRGlnaXRhbCAm
+YW1wOyBQdWJsaWMgSHVtYW5pdGllcyAoVmVEUEgpPGJyPkRpcGFydGltZW50byBkaSBTdHVkaSBV
+bWFuaXN0aWNpPGJyPlVuaXZlcnNpdMOgIENhJyBGb3NjYXJpPGJyPlBhbGF6em8gTWFsY2FudG9u
+IE1hcmNvcsOgPGJyPkRvcnNvZHVybyAzNDg0L0QgLSAzMDEyMyBWZW5lemlhPGJyPjxicj5UZWwu
+OiArMzkgMDQxIDIzNCA2MjY2ICh1ZmZpY2lvKSwgKzM5IDA0MSAyMzQgOTg2MyAoc2VncmV0ZXJp
+YSBkZWwgY2VudHJvKTxicj48YSBocmVmPSJodHRwczovL3d3dy51bml2ZS5pdC92ZWRwaCIgdGFy
+Z2V0PSJfYmxhbmsiPmh0dHBzOi8vd3d3LnVuaXZlLml0L3ZlZHBoPC9hPjxicj48YSBocmVmPSJo
+dHRwczovL3d3dy5pLWQtZS5kZS8iIHRhcmdldD0iX2JsYW5rIj5odHRwczovL3d3dy5pLWQtZS5k
+ZS88L2E+PGJyPjxhIGhyZWY9Imh0dHBzOi8vam91cm5hbC5kaWdpdGFsbWVkaWV2YWxpc3Qub3Jn
+LyIgdGFyZ2V0PSJfYmxhbmsiPmh0dHBzOi8vam91cm5hbC5kaWdpdGFsbWVkaWV2YWxpc3Qub3Jn
+LzwvYT48YnI+PC9wcmU+CjxkaXY+PHNwYW4+PGJyPgo8L3NwYW4+PC9kaXY+CjxkaXY+PHNwYW4+
+PC9zcGFuPjwvZGl2Pgo8L2Rpdj4KPC9kaXY+CjwvZGl2Pgo8L2Rpdj4KPC9kaXY+CjwvZGl2Pgo8
+L2Rpdj4KPC9kaXY+CjwvZGl2Pgo8L2Rpdj4KPC9ib2R5Pgo8L2h0bWw+Cg==

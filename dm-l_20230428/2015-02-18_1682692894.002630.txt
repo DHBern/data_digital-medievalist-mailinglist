@@ -1,0 +1,34 @@
+Subject: Re: [dm-l] comparisons of different e-MS readers?Just to add some sites with manuscript readers:http://www.manuscriptorium.com/ (the reader unfortunately is closed source)http://www.e-codices.ch/ (which has a very active development, some=20
+details can be found at http://www.e-codices.ch/en/about/webapplication)and the dfg-viewer <http://dfg-viewer.de/en/regarding-the-project/>=20
+which is technically not very advanced but based  on the widely=20
+distributed METS data format <http://www.loc.gov/standards/mets/> which=20
+gives you the possibility to exchange the viewer to any other capable of=20
+handling METS data and that certainly should be an option for a long=20
+term project.BestGeorgAm 18.02.2015 um 14:02 schrieb Sara L. Uckelman:
+> Yesterday I attended a planning meaning concerning the Durham priory
+> library's manuscript collection, which is planned for digitisation
+> over the next 5-10 years.  A question came up about whether there's
+> been any study done on the relative *technical* merits of different
+> platforms/programmes for viewing manuscripts, either online or
+> downloaded locally.  (The person was specifically interested in reviews
+> or comparisons done by people with the relevant computational know-
+> how).
+>
+> I confess to not being very familiar with this terrain; I've used
+> Uni-HD's reader online (see, e.g., the Manesse codex:
+> http://digi.ub.uni-heidelberg.de/diglit/cpg848/0001?sid=3Dc1e158af8bb04a024=
+41c48d73cfba985)=20
+>
+> and the reader used by, e.g.,
+> http://daten.digitale-sammlungen.de/0000/bsb00001649/images/, but I
+> don't even know what the programmes behind these sites are!  The one
+> that was demonstrated to us is Mirador:
+> http://www.biblissima-condorcet.fr/en/news/interoperable-viewer-prototype-n=
+ow-online-mirador,=20
+> http://iiif.io/, and it was really
+> cool.  I'd love to know how it stacks up against the competition.
+>
+> Cheers,
+> -Sara
+>
+>

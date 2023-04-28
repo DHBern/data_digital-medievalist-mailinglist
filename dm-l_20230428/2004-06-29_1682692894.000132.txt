@@ -1,0 +1,68 @@
+Subject: Re: [dm-l] palaeography and computingArianna,You may already know that the University of London Library has been
+working on a Thesaurus for Manuscript Studies. Its aim is to provide
+researchers with a controlled vocabulary of specialised terms, arranged
+hierarchically. The web interface for thesaurus is under development
+(http://193.63.81.247/) but, if you are based in London, you may be able
+to use thesaurus in the Library.Elizabeth
+> That's exactly what I meant! But you expressed it with the right words.
+>
+> There are two main problems though.
+>
+> The firs one is related to the fact
+> that every style can be so particular to need a very specific
+> terminology for its description.
+>
+> Secondly, the danger is that different projects, departing from TEI
+> guidelines, develop their own extensions, creating another variety of
+> terms that will add to the huge variety already evident in the
+> traditional literature.
+>
+> Arianna Ciula
+> On Tue, 29 Jun 2004 10:36:24 -0600 Murray McGillivray
+_redacted_(a)ucalgary.ca> wrote:
+>
+>> Arianna:
+>>
+>> "can be described" meant "can be described using words and images," not
+>> "can be described using special-purpose tags." The thing that would be
+>> most helpful, actually, is a universally accepted "controlled
+>> vocabulary" for paleographic description, either verbal or in terms of
+>> graphical metrics (or ideally both), on which we could build descriptive
+>> structures in XML or whatever. I don't think paleographers are close to
+>> having that.
+>>
+>> Murray
+>>
+>> Arianna Ciula wrote:
+>>
+>> >So, when you say
+>> >"where each glyph used in the manuscript
+>> >including ligatures or junctures (sorted by hand and script) can be
+>> >described, linked to a typical image or more and a transcription and
+>> >transliteration"
+>> >
+>> >what do you mean for "can be
+>> >described"?
+>> >
+>> >
+>> >
+>>
+>>
+>> _______________________________________________
+>> dm-l mailing list
+_redacted_(a)uleth.ca
+>> http://listserv.uleth.ca/mailman/listinfo/dm-l
+>>
+>
+> ----------------------
+> Arianna Ciula
+_redacted_(a)kcl.ac.uk
+>
+>
+>
+> _______________________________________________
+> dm-l mailing list
+_redacted_(a)uleth.ca
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+>
+--===============2299794344716424662==--

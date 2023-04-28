@@ -1,0 +1,27 @@
+Subject: Re: [dm-l] best practice: photographc facsimile?Hi All,This has been a really great thread. Here some more thoughts;
+"Having your cake and eating is also possible with some ingenuity and
+elbow grease."While JPEG2000 seems like a great idea on paper, it is often not used
+as the primary storage format due to concerns about lack of support in
+the browser (or on the desktop for that matter).
+A number of years ago I was working on an image portal solution at the
+TU Delft in the Netherlands, and made a decision to use JPEG2000 as
+the storage format, but convert the files to JPEG 'on-demand' linked
+to an image viewer. This is similar to what is done with large TIFF
+originals in many other projects, but the big benefit was the speed at
+which one could do arbitrary resolution segments from a JPEG2000 file.For the viewer I chose the MS Seadragon Ajax version (it has lovely
+smooth scrolling and zooming, and cross-browser support) so no Flash
+was needed. In stead of pre-tiling the images (like Zoomify does, or
+the MS Seadragon back-end tools) I wrote a Python script that serves
+up the needed zoomed tiles on demand via HTTP, in effect 'pretending'
+to be a Seadragon back-end. It worked really well, and I was quite
+satisfied with the solution. For the JPEG2000 processing, we purchased
+a license from http://www.kakadusoftware.com/ and used the
+command-line tools called from Python.Here is an example of this solution in action:
+http://repository.tudelft.nl/view/ir/uuid%3Aa5c3103d-e20d-4a3c-9eb6-2dc7b2874=
+969/(this is the institutional repository showing some sample pages from
+PDF research papers tiled for preview before downloading as some files
+can be hundreds of megabytes, but imagine it being a manuscript
+illustration of you will)Hope this is of use as an example to others.
+Etienne Posthumus
+Amsterdam, The Netherlands
+--===============3675868845297945230==--

@@ -1,0 +1,41 @@
+Subject: Re: [dm-l] Are markup languages obsolete?Hi,I do not believe that at present there exist many alternatives to 
+something very much like XML/TEI for creating a true digital edition. A 
+facsimile is nice to have, but no substitute for a true edition. What 
+you lose is: ease of reading for all but specialists, searching, text 
+manipulation, selection based on specialised tags for transcription 
+data, etc. (But this goes without saying, surely?)I'm not a 'low tech' person myself, but I'd suggest you need to 
+distinguish between different desired levels of competence. For someone 
+without a technical background to learn a markup language like XML/TEI 
+sufficiently well to be independent of technical support seems quite 
+hard, among other things because in terms of infrastructure one needs so 
+much much more than just the language (as Peter Robinson notes in his 
+article).
+On the other hand, it is not that complicated to learn to enter text in 
+an XML editor, and to get to the stage where you can sensibly discuss 
+design decisions with an XML expert.I also believe that looking at your texts from a markup perspective 
+requires attention to both structure and to detail, which makes it a 
+very instructive activity.PeterDaniel Paul O'Donnell wrote:> Hi all,
+> 	As some of you know, I write a column on electonica medievalia for
+> Heroic Age, a superb online journal in its 8th year.
+> 	My next column is due soon, and while I was originally planning to
+> write on TEI P5, something that came up on Medtext has sat in my head
+> for the last several weeks: it was an email from Judith Bolton Halloway
+> (I think it was) that described markup languages and protocols like the
+> TEI as obsolete in the face of high quality manuscript facsimiles (I'm
+> paraphrasing and so might not have it exactly right).
+> 	What I'm wondering is not so much whether markup languages are obsolete
+> (that's demonstrably not true in a technical sense), but whether there
+> is an easy argument that they are worth it for a low tech humanities
+> oriented person to learn. I'm thinking here of the issues raised in
+> Peter Robinson's article in the premier issue of DM, various talks I've
+> given or heard at conferences.
+> 	So here's a question: when is it worth it to devote time to learning a
+> complex language like TEI--or any other standards based structural
+> language or computer skill (and when is it not)? What should one expect
+> to get out of going to the trouble of learning them? And what do you
+> lose by (or simply what is the cost of) doing so?
+> 	I suppose this might be a question for Humanist, but I thought I'd try
+> it out here given the medieval focus of HA. I'm not (necessarily)
+> looking for answers to my topic for my column, but I'm interested in
+> mulling the question over with others before I set cursor to screen.
+> -dan

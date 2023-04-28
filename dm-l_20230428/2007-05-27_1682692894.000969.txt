@@ -1,0 +1,158 @@
+Subject: [dm-l] FW: ticer "digital library school"
+FYI-----Original Message-----
+From: TEI (Text Encoding Initiative) public discussion list on behalf of Eric=
+ Lease Morgan
+Sent: Wed 23/05/2007 11:15
+_redacted_(a)listserv.brown.edu
+Subject: ticer "digital library school"
+=20
+Consider attending the Ticer "digital library school" in August, and =20
+specifically participating in a workshop called "Open Source Software =20
+for Libraries and XML":   http://www.tilburguniversity.nl/services/lis/ticer/07carte/=20
+program.html#3
+Open Source SoftwareThe day-long workshop is divided into two parts. The first is about =20
+open source software. Given the linked texts and the accompanying set =20
+of software, the student will learn the ideas behind open source =20
+software, a bit of its history, how it is similar and dissimilar to =20
+librarianship, and why it is important to the profession.Through the hands-on exercises, the student will learn how to =20
+uncompress and untar distributions, configure an application for =20
+building, compile it, install it, configure it, and finally use it. =20
+Applications used during these hands-on activities include: Apache (a =20
+Web server), MARC::Record (a tool to read and writing MARC data), =20
+MySQL (a relational database application), Perl (a scripting =20
+language), zebra (an indexer/search engine), xsltproc (an XSLT =20
+processor), and YAZ (a Z39.50 client). The hands-on exercises are =20
+complete with sample data, configuration files, and sample scripts to =20
+get the student up and going quickly.This workshop is designed for the novice and moderately experienced =20
+computer user. The only prerequisite skills are: 1) no fear of =20
+command-line processing, and 2) the desire to learn. THIS WORKSHOP IS =20
+NOT NECESSARILY DESIGNED FOR COMPUTER GEEKS. IT IS ABOUT TAKING =20
+CONTROL OF YOUR COMPUTING ENVIRONMENT. To get a flavor for this =20
+segment, see:   http://infomotions.com/musings/ossnlibraries-workshop/
+XMLThe second half is about XML. This workshop introduces participants =20
+to the extensible markup language (XML) through numerous examples, =20
+demonstrations, and structured hands-on exercises. Through the =20
+process you will be able to evaluate the uses of XML for making your =20
+data and information more accessible to people as well as computers. =20
+Examples include adding value to electronic texts (TEI), creating =20
+archival finding aids (EAD), creating bibliographic data (MARCXML and =20
+MODS), and implementing standards compliant Web pages (XHTML).By the end of the workshop you will have acquired a thorough =20
+introduction to XML and be able to: 1) list seven rules governing the =20
+syntax of XML documents, 2) create your very own XML markup language, =20
+3) write XML documents using a plain text editor and validate them =20
+using a Web browser, 4) create simple XML documents using a number of =20
+standard XML vocabularies, 5) transform XML documents into other =20
+formats such as plain text or database (SQL) files using XSLT, and =20
+finally, 6) articulate why XML is important for libraries.This workshop is designed for the novice and moderately experienced =20
+computer user. The only prerequisite skills are: 1) no fear of =20
+command-line processing, 3) the ability to use a plain text editor, =20
+and 3) the desire to learn. AGAIN, THIS IS NOT ABOUT COMPUTER =20
+GEEKTOM. IT IS ABOUT LEARNING TO CREATE WELL-STRUCTURED DATA =20
+CONSIDERING THE CURRENT NETWORKED ENVIRONMENT. This workshop will =20
+cover much of the content at the following URL:   http://infomotions.com/musings/getting-started/
+SummaryThese workshops are designed for any type of person who works in a =20
+library. They will help you learn about the current and immediate =20
+future of computing in libraries. These workshop have something to =20
+offer everybody. They are not strictly designed for computer types. =20
+The only prerequisites are an open mind and the desire to learn. For =20
+more information about the Ticer school in general, see:   http://www.tilburguniversity.nl/services/lis/ticer/07carte/index.html--
+Eric Lease Morgan
+University Libraries of Notre Dame
+--===============2847307788960143652==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"
+MIME-Version: 1.0PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDMuMi8vRU4iPgo8SFRNTD4K
+PEhFQUQ+CjxNRVRBIEhUVFAtRVFVSVY9IkNvbnRlbnQtVHlwZSIgQ09OVEVOVD0idGV4dC9odG1s
+OyBjaGFyc2V0PWlzby04ODU5LTEiPgo8TUVUQSBOQU1FPSJHZW5lcmF0b3IiIENPTlRFTlQ9Ik1T
+IEV4Y2hhbmdlIFNlcnZlciB2ZXJzaW9uIDYuNS43NjUyLjI0Ij4KPFRJVExFPkZXOiB0aWNlciAm
+cXVvdDtkaWdpdGFsIGxpYnJhcnkgc2Nob29sJnF1b3Q7PC9USVRMRT4KPC9IRUFEPgo8Qk9EWT4K
+PCEtLSBDb252ZXJ0ZWQgZnJvbSB0ZXh0L3BsYWluIGZvcm1hdCAtLT4KPEJSPgoKPFA+PEZPTlQg
+U0laRT0yPkZZSTxCUj4KPEJSPgotLS0tLU9yaWdpbmFsIE1lc3NhZ2UtLS0tLTxCUj4KRnJvbTog
+VEVJIChUZXh0IEVuY29kaW5nIEluaXRpYXRpdmUpIHB1YmxpYyBkaXNjdXNzaW9uIGxpc3Qgb24g
+YmVoYWxmIG9mIEVyaWMgTGVhc2UgTW9yZ2FuPEJSPgpTZW50OiBXZWQgMjMvMDUvMjAwNyAxMTox
+NTxCUj4KVG86IFRFSS1MQGxpc3RzZXJ2LmJyb3duLmVkdTxCUj4KU3ViamVjdDogdGljZXIgJnF1
+b3Q7ZGlnaXRhbCBsaWJyYXJ5IHNjaG9vbCZxdW90OzxCUj4KPEJSPgpDb25zaWRlciBhdHRlbmRp
+bmcgdGhlIFRpY2VyICZxdW90O2RpZ2l0YWwgbGlicmFyeSBzY2hvb2wmcXVvdDsgaW4gQXVndXN0
+LCBhbmQmbmJzcDs8QlI+CnNwZWNpZmljYWxseSBwYXJ0aWNpcGF0aW5nIGluIGEgd29ya3Nob3Ag
+Y2FsbGVkICZxdW90O09wZW4gU291cmNlIFNvZnR3YXJlJm5ic3A7PEJSPgpmb3IgTGlicmFyaWVz
+IGFuZCBYTUwmcXVvdDs6PEJSPgo8QlI+CiZuYnNwOyZuYnNwOyA8QSBIUkVGPSJodHRwOi8vd3d3
+LnRpbGJ1cmd1bml2ZXJzaXR5Lm5sL3NlcnZpY2VzL2xpcy90aWNlci8wN2NhcnRlLyI+aHR0cDov
+L3d3dy50aWxidXJndW5pdmVyc2l0eS5ubC9zZXJ2aWNlcy9saXMvdGljZXIvMDdjYXJ0ZS88L0E+
+PEJSPgpwcm9ncmFtLmh0bWwjMzxCUj4KPEJSPgo8QlI+Ck9wZW4gU291cmNlIFNvZnR3YXJlPEJS
+Pgo8QlI+ClRoZSBkYXktbG9uZyB3b3Jrc2hvcCBpcyBkaXZpZGVkIGludG8gdHdvIHBhcnRzLiBU
+aGUgZmlyc3QgaXMgYWJvdXQmbmJzcDs8QlI+Cm9wZW4gc291cmNlIHNvZnR3YXJlLiBHaXZlbiB0
+aGUgbGlua2VkIHRleHRzIGFuZCB0aGUgYWNjb21wYW55aW5nIHNldCZuYnNwOzxCUj4Kb2Ygc29m
+dHdhcmUsIHRoZSBzdHVkZW50IHdpbGwgbGVhcm4gdGhlIGlkZWFzIGJlaGluZCBvcGVuIHNvdXJj
+ZSZuYnNwOzxCUj4Kc29mdHdhcmUsIGEgYml0IG9mIGl0cyBoaXN0b3J5LCBob3cgaXQgaXMgc2lt
+aWxhciBhbmQgZGlzc2ltaWxhciB0byZuYnNwOzxCUj4KbGlicmFyaWFuc2hpcCwgYW5kIHdoeSBp
+dCBpcyBpbXBvcnRhbnQgdG8gdGhlIHByb2Zlc3Npb24uPEJSPgo8QlI+ClRocm91Z2ggdGhlIGhh
+bmRzLW9uIGV4ZXJjaXNlcywgdGhlIHN0dWRlbnQgd2lsbCBsZWFybiBob3cgdG8mbmJzcDs8QlI+
+CnVuY29tcHJlc3MgYW5kIHVudGFyIGRpc3RyaWJ1dGlvbnMsIGNvbmZpZ3VyZSBhbiBhcHBsaWNh
+dGlvbiBmb3ImbmJzcDs8QlI+CmJ1aWxkaW5nLCBjb21waWxlIGl0LCBpbnN0YWxsIGl0LCBjb25m
+aWd1cmUgaXQsIGFuZCBmaW5hbGx5IHVzZSBpdC4mbmJzcDs8QlI+CkFwcGxpY2F0aW9ucyB1c2Vk
+IGR1cmluZyB0aGVzZSBoYW5kcy1vbiBhY3Rpdml0aWVzIGluY2x1ZGU6IEFwYWNoZSAoYSZuYnNw
+OzxCUj4KV2ViIHNlcnZlciksIE1BUkM6OlJlY29yZCAoYSB0b29sIHRvIHJlYWQgYW5kIHdyaXRp
+bmcgTUFSQyBkYXRhKSwmbmJzcDs8QlI+Ck15U1FMIChhIHJlbGF0aW9uYWwgZGF0YWJhc2UgYXBw
+bGljYXRpb24pLCBQZXJsIChhIHNjcmlwdGluZyZuYnNwOzxCUj4KbGFuZ3VhZ2UpLCB6ZWJyYSAo
+YW4gaW5kZXhlci9zZWFyY2ggZW5naW5lKSwgeHNsdHByb2MgKGFuIFhTTFQmbmJzcDs8QlI+CnBy
+b2Nlc3NvciksIGFuZCBZQVogKGEgWjM5LjUwIGNsaWVudCkuIFRoZSBoYW5kcy1vbiBleGVyY2lz
+ZXMgYXJlJm5ic3A7PEJSPgpjb21wbGV0ZSB3aXRoIHNhbXBsZSBkYXRhLCBjb25maWd1cmF0aW9u
+IGZpbGVzLCBhbmQgc2FtcGxlIHNjcmlwdHMgdG8mbmJzcDs8QlI+CmdldCB0aGUgc3R1ZGVudCB1
+cCBhbmQgZ29pbmcgcXVpY2tseS48QlI+CjxCUj4KVGhpcyB3b3Jrc2hvcCBpcyBkZXNpZ25lZCBm
+b3IgdGhlIG5vdmljZSBhbmQgbW9kZXJhdGVseSBleHBlcmllbmNlZCZuYnNwOzxCUj4KY29tcHV0
+ZXIgdXNlci4gVGhlIG9ubHkgcHJlcmVxdWlzaXRlIHNraWxscyBhcmU6IDEpIG5vIGZlYXIgb2Ym
+bmJzcDs8QlI+CmNvbW1hbmQtbGluZSBwcm9jZXNzaW5nLCBhbmQgMikgdGhlIGRlc2lyZSB0byBs
+ZWFybi4gVEhJUyBXT1JLU0hPUCBJUyZuYnNwOzxCUj4KTk9UIE5FQ0VTU0FSSUxZIERFU0lHTkVE
+IEZPUiBDT01QVVRFUiBHRUVLUy4gSVQgSVMgQUJPVVQgVEFLSU5HJm5ic3A7PEJSPgpDT05UUk9M
+IE9GIFlPVVIgQ09NUFVUSU5HIEVOVklST05NRU5ULiBUbyBnZXQgYSBmbGF2b3IgZm9yIHRoaXMm
+bmJzcDs8QlI+CnNlZ21lbnQsIHNlZTo8QlI+CjxCUj4KJm5ic3A7Jm5ic3A7IDxBIEhSRUY9Imh0
+dHA6Ly9pbmZvbW90aW9ucy5jb20vbXVzaW5ncy9vc3NubGlicmFyaWVzLXdvcmtzaG9wLyI+aHR0
+cDovL2luZm9tb3Rpb25zLmNvbS9tdXNpbmdzL29zc25saWJyYXJpZXMtd29ya3Nob3AvPC9BPjxC
+Uj4KPEJSPgo8QlI+ClhNTDxCUj4KPEJSPgpUaGUgc2Vjb25kIGhhbGYgaXMgYWJvdXQgWE1MLiBU
+aGlzIHdvcmtzaG9wIGludHJvZHVjZXMgcGFydGljaXBhbnRzJm5ic3A7PEJSPgp0byB0aGUgZXh0
+ZW5zaWJsZSBtYXJrdXAgbGFuZ3VhZ2UgKFhNTCkgdGhyb3VnaCBudW1lcm91cyBleGFtcGxlcywm
+bmJzcDs8QlI+CmRlbW9uc3RyYXRpb25zLCBhbmQgc3RydWN0dXJlZCBoYW5kcy1vbiBleGVyY2lz
+ZXMuIFRocm91Z2ggdGhlJm5ic3A7PEJSPgpwcm9jZXNzIHlvdSB3aWxsIGJlIGFibGUgdG8gZXZh
+bHVhdGUgdGhlIHVzZXMgb2YgWE1MIGZvciBtYWtpbmcgeW91ciZuYnNwOzxCUj4KZGF0YSBhbmQg
+aW5mb3JtYXRpb24gbW9yZSBhY2Nlc3NpYmxlIHRvIHBlb3BsZSBhcyB3ZWxsIGFzIGNvbXB1dGVy
+cy4mbmJzcDs8QlI+CkV4YW1wbGVzIGluY2x1ZGUgYWRkaW5nIHZhbHVlIHRvIGVsZWN0cm9uaWMg
+dGV4dHMgKFRFSSksIGNyZWF0aW5nJm5ic3A7PEJSPgphcmNoaXZhbCBmaW5kaW5nIGFpZHMgKEVB
+RCksIGNyZWF0aW5nIGJpYmxpb2dyYXBoaWMgZGF0YSAoTUFSQ1hNTCBhbmQmbmJzcDs8QlI+Ck1P
+RFMpLCBhbmQgaW1wbGVtZW50aW5nIHN0YW5kYXJkcyBjb21wbGlhbnQgV2ViIHBhZ2VzIChYSFRN
+TCkuPEJSPgo8QlI+CkJ5IHRoZSBlbmQgb2YgdGhlIHdvcmtzaG9wIHlvdSB3aWxsIGhhdmUgYWNx
+dWlyZWQgYSB0aG9yb3VnaCZuYnNwOzxCUj4KaW50cm9kdWN0aW9uIHRvIFhNTCBhbmQgYmUgYWJs
+ZSB0bzogMSkgbGlzdCBzZXZlbiBydWxlcyBnb3Zlcm5pbmcgdGhlJm5ic3A7PEJSPgpzeW50YXgg
+b2YgWE1MIGRvY3VtZW50cywgMikgY3JlYXRlIHlvdXIgdmVyeSBvd24gWE1MIG1hcmt1cCBsYW5n
+dWFnZSwmbmJzcDs8QlI+CjMpIHdyaXRlIFhNTCBkb2N1bWVudHMgdXNpbmcgYSBwbGFpbiB0ZXh0
+IGVkaXRvciBhbmQgdmFsaWRhdGUgdGhlbSZuYnNwOzxCUj4KdXNpbmcgYSBXZWIgYnJvd3Nlciwg
+NCkgY3JlYXRlIHNpbXBsZSBYTUwgZG9jdW1lbnRzIHVzaW5nIGEgbnVtYmVyIG9mJm5ic3A7PEJS
+PgpzdGFuZGFyZCBYTUwgdm9jYWJ1bGFyaWVzLCA1KSB0cmFuc2Zvcm0gWE1MIGRvY3VtZW50cyBp
+bnRvIG90aGVyJm5ic3A7PEJSPgpmb3JtYXRzIHN1Y2ggYXMgcGxhaW4gdGV4dCBvciBkYXRhYmFz
+ZSAoU1FMKSBmaWxlcyB1c2luZyBYU0xULCBhbmQmbmJzcDs8QlI+CmZpbmFsbHksIDYpIGFydGlj
+dWxhdGUgd2h5IFhNTCBpcyBpbXBvcnRhbnQgZm9yIGxpYnJhcmllcy48QlI+CjxCUj4KVGhpcyB3
+b3Jrc2hvcCBpcyBkZXNpZ25lZCBmb3IgdGhlIG5vdmljZSBhbmQgbW9kZXJhdGVseSBleHBlcmll
+bmNlZCZuYnNwOzxCUj4KY29tcHV0ZXIgdXNlci4gVGhlIG9ubHkgcHJlcmVxdWlzaXRlIHNraWxs
+cyBhcmU6IDEpIG5vIGZlYXIgb2YmbmJzcDs8QlI+CmNvbW1hbmQtbGluZSBwcm9jZXNzaW5nLCAz
+KSB0aGUgYWJpbGl0eSB0byB1c2UgYSBwbGFpbiB0ZXh0IGVkaXRvciwmbmJzcDs8QlI+CmFuZCAz
+KSB0aGUgZGVzaXJlIHRvIGxlYXJuLiBBR0FJTiwgVEhJUyBJUyBOT1QgQUJPVVQgQ09NUFVURVIm
+bmJzcDs8QlI+CkdFRUtUT00uIElUIElTIEFCT1VUIExFQVJOSU5HIFRPIENSRUFURSBXRUxMLVNU
+UlVDVFVSRUQgREFUQSZuYnNwOzxCUj4KQ09OU0lERVJJTkcgVEhFIENVUlJFTlQgTkVUV09SS0VE
+IEVOVklST05NRU5ULiBUaGlzIHdvcmtzaG9wIHdpbGwmbmJzcDs8QlI+CmNvdmVyIG11Y2ggb2Yg
+dGhlIGNvbnRlbnQgYXQgdGhlIGZvbGxvd2luZyBVUkw6PEJSPgo8QlI+CiZuYnNwOyZuYnNwOyA8
+QSBIUkVGPSJodHRwOi8vaW5mb21vdGlvbnMuY29tL211c2luZ3MvZ2V0dGluZy1zdGFydGVkLyI+
+aHR0cDovL2luZm9tb3Rpb25zLmNvbS9tdXNpbmdzL2dldHRpbmctc3RhcnRlZC88L0E+PEJSPgo8
+QlI+CjxCUj4KU3VtbWFyeTxCUj4KPEJSPgpUaGVzZSB3b3Jrc2hvcHMgYXJlIGRlc2lnbmVkIGZv
+ciBhbnkgdHlwZSBvZiBwZXJzb24gd2hvIHdvcmtzIGluIGEmbmJzcDs8QlI+CmxpYnJhcnkuIFRo
+ZXkgd2lsbCBoZWxwIHlvdSBsZWFybiBhYm91dCB0aGUgY3VycmVudCBhbmQgaW1tZWRpYXRlJm5i
+c3A7PEJSPgpmdXR1cmUgb2YgY29tcHV0aW5nIGluIGxpYnJhcmllcy4gVGhlc2Ugd29ya3Nob3Ag
+aGF2ZSBzb21ldGhpbmcgdG8mbmJzcDs8QlI+Cm9mZmVyIGV2ZXJ5Ym9keS4gVGhleSBhcmUgbm90
+IHN0cmljdGx5IGRlc2lnbmVkIGZvciBjb21wdXRlciB0eXBlcy4mbmJzcDs8QlI+ClRoZSBvbmx5
+IHByZXJlcXVpc2l0ZXMgYXJlIGFuIG9wZW4gbWluZCBhbmQgdGhlIGRlc2lyZSB0byBsZWFybi4g
+Rm9yJm5ic3A7PEJSPgptb3JlIGluZm9ybWF0aW9uIGFib3V0IHRoZSBUaWNlciBzY2hvb2wgaW4g
+Z2VuZXJhbCwgc2VlOjxCUj4KPEJSPgombmJzcDsmbmJzcDsgPEEgSFJFRj0iaHR0cDovL3d3dy50
+aWxidXJndW5pdmVyc2l0eS5ubC9zZXJ2aWNlcy9saXMvdGljZXIvMDdjYXJ0ZS9pbmRleC5odG1s
+Ij5odHRwOi8vd3d3LnRpbGJ1cmd1bml2ZXJzaXR5Lm5sL3NlcnZpY2VzL2xpcy90aWNlci8wN2Nh
+cnRlL2luZGV4Lmh0bWw8L0E+PEJSPgo8QlI+Ci0tPEJSPgpFcmljIExlYXNlIE1vcmdhbjxCUj4K
+VW5pdmVyc2l0eSBMaWJyYXJpZXMgb2YgTm90cmUgRGFtZTxCUj4KPEJSPgo8L0ZPTlQ+CjwvUD4K
+CjwvQk9EWT4KPC9IVE1MPg==

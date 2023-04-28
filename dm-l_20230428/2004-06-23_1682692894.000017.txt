@@ -1,0 +1,19 @@
+Subject: Re: [dm-l] Re: Experience using Microsoft's XSLT?Martin Holmes wrote:> I think Peter's point is a very good one, though; in XML, one must 
+> prioritize one hierarchy over another where they overlap; if the 
+> conceptual structure is prioritized, the physical must be relegated to 
+> milestones.
+> 
+> I think there is a long-term solution to this. I think multiple markups 
+> can exist on the same text, as long as they're in "different 
+> dimensions"; it's hard to explain, but imagine the text as a string 
+> going through space, and the markups as planes radiating out from it. [... snip ...]That's right. You can have multiple annotations on the same XML 
+structure. This technique, now generally known as "stand-off" 
+annotation, is currently quite popular in the field of linguistics, to 
+handle things like prosodic vs syntactic hierarchies.  You segment your 
+text once, and then you create as many different views of it as you 
+like. Each view constitutes a single hierarchy, and is composed of 
+pointing elements which identify how the fragments of your segmented 
+texts are to be combined in that particular hierarchy. Something like it 
+is described in the chapter of the TEI Guidelines which addresses the 
+issue of non-hierarchic structures.Your Shakespeare is pretty neat, by the way! How does one get to see the 
+XML source though?Lou

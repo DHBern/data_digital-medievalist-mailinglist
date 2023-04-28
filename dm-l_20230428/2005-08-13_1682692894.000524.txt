@@ -1,0 +1,57 @@
+Subject: Re: [dm-l] TEI and concurrent hierarchiesDear MarjorieAs James has already pointed out, there are a number of varyingly=20
+satisfactory ways of dealing with the inescapable fact that a textual=20
+artefact can be regarded as having more than one hierarchic structure.=20
+The only issue really is deciding on which one to privilege when=20
+representing it in XML.Your use of the phrase "rhetorical elements" (plus my recollections of a=20
+pleasant visit to Lyon some years ago!) suggests to me that you are=20
+trying to mark up the rhetorical structure of an existing text.  This=20
+seems a somewhat different kind of structure from the usual structure of=20
+prose paragraphs and divisions, in that it can be determined only by=20
+some understanding of the text and also of other texts like it, and also=20
+in that it rarely if ever has any kind of associated conventional=20
+rendering.The mechanism suggested by the TEI for this purpose is described, rather=20
+obscurely, in the chapter on "Simple Analytic Mechanisms", in particular=20
+in section 15.3 on  "Spans and Interpretations", where there is an=20
+example showing how the narrative structure of an extract from the=20
+Poetic Edda might be encoded. Essentially  it recommends what is now=20
+fashionably know as "standoff" annotation,  in which a special kind of=20
+pointer element (a "span") is used to indicate a stretch of text and to=20
+associate a particular interpretive label with it. Such spans can be=20
+organized hierarchically in the same way as other XML elements. The=20
+stretches of texts indicated will often be existing "structural" XML=20
+elements such as paragraphs or sections, but do not need to: an empty=20
+<anchor> (or milestone)  element can be inserted at any necessary point=20
+to act as a target for a link of this kind.I would like to revise this particular section of the Guidelines for P5=20
+in order to make it a bit more accessible: it would be great to include=20
+an example from Voragine!best wishesLou
+Marjorie Burghart wrote:>I'm encoding an ongoing project in TEI XML, and I'm encountering problems to
+>represent concurrent hierarchies.
+>I'd like to markup some rhetorical elements, that can either be contained in
+>paragraphes (<p> tags), or contain <p> tags, depending on their length and
+>importance. Therefore, I can't use <seg>, for instance.
+>>From a "logical" point of view, it seems to me that <div> tags would be per=
+fect
+>(with a convenient type), but in this case I would have a problem of concurr=
+ent
+>hierarchies (possible overlapping of <div> and <p> elements).
+>
+>The solutions proposed in the current TEI Guidelines for the handling of
+>multiple hierarchies would work, BUT I'm afraid they would fairly complicate
+>the processing of the encoded texts with standard XML tools.
+>
+>I thought about customizing the DTD to make <p> tags empty, which would be
+>convenient for my purpose, but the markup wouldn't be TEI compliant any more
+>(as CDATA is not allowed as child of div or body)...
+>In a way, it seems to be the problem too for, eg, the quite seducing HORSE
+>approach recently discussed by S. Bauman reguarding TEI
+>(http://www.mulberrytech.com/Extreme/Proceedings/html/2005/Bauman01/EML2005B=
+auman01.html)
+>?
+>
+>Thanks in advance for your help and experience (especially concerning the
+>efficiency of processing the marked texts) !
+>
+>Marjorie
+>
+> =20
+>

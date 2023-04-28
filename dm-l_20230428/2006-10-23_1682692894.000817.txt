@@ -1,0 +1,154 @@
+Subject: Re: [dm-l] Personal Web site maintenanceHaving used WordPress for over two years I can second that: works like a
+charm. But it's definitely more of a blogging thing, although it provides
+some rudimentary CMS-functionality. Tuning its looks to one's taste may
+provide for some minor headaches.y.s.,
+Joris-- 
+Mr. Joris J. van Zundert (MA)
+Huygens Institute
+Royal Dutch Academy of Arts and SciencesContact information can be found at http://www.brandaen.org
+A disclaimer is applicable to this e-mail, please refer to
+http://www.brandaen.org/emaildisclaimer for more information
+_redacted_(a)luc.edu> wrote:
+>
+> It might be worth investigating WordPress <http://wordpress.org/>, as
+> well, as it has similar features to TextPattern. It's a little more
+> blog-oriented, but that's not necessarily a bad thing. I used it for
+> my "Introduction to Shakespeare" class, and it handled the job pretty
+> well: <http://erikanderica.org/erik/category/class/luc-274/>.
+>
+> Erik Vorhes
+> Loyola U. Chicago
+>
+> > Date: Fri, 20 Oct 2006 08:58:03 -0600
+_redacted_(a)uleth.ca>
+> > Subject: Re: [dm-l] Personal Web site maintenance
+_redacted_(a)gmail.com>
+_redacted_(a)uleth.ca>
+_redacted_(a)odonned-eng06.eng.uleth.ca>
+> > Content-Type: text/plain
+> >
+> > You're right the component parts look very interesting.
+> >
+> > -dan
+> >
+> > On Fri, 2006-20-10 at 09:20 -0500, Bill White wrote:
+_redacted_(a)gmail.com> wrote:
+_redacted_(a)uleth.ca> wrote:
+> >>>> Hi,
+> >>>>
+> >>>> Does anybody have advice on how to maintain a professional academic
+> >>>> homepage--I mean the page one uses for class material,
+> >>>> information on
+> >>>> research, etc.
+> >>>
+> >>> I stumbled across this a few days ago while googling for cms systems
+> >>> that can work with my local mediawiki installation:
+> >>>
+> >>> http://openacademic.org/
+> >>>
+> >>> I haven't used it, but it may be worth investigating.  I'd never
+> >>> heard
+> >>> of the strangely-named tools they're using - moodle, elgg, drupal.
+> >>
+> >> Whoops - I think that website may be offering/selling services.  At
+> >> any rate, the links they provide to moodle et al. may be useful.
+> >>
+> >> Cheers -
+> >>
+> >> bw
+>
+>
+> _______________________________________________
+> Digital Medievalist Project
+> Homepage: http://www.digitalmedievalist.org
+> Journal (Spring 2005-): http://www.digitalmedievalist.org/journal.cfm
+> RSS (announcements) server: http://www.digitalmedievalist.org/rss/rss2.cfm
+> Wiki: http://sql.uleth.ca/dmorgwiki/index.php
+> Change membership options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+> Submit RSS announcement: http://www.digitalmedievalist.org/newitem.cfm
+_redacted_(a)uleth.ca
+> dm-l mailing list
+_redacted_(a)uleth.ca
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+>SGF2aW5nIHVzZWQgV29yZFByZXNzIGZvciBvdmVyIHR3byB5ZWFycyBJIGNhbiBzZWNvbmQgdGhh
+dDogd29ya3MgbGlrZSBhIGNoYXJtLiBCdXQgaXQncyBkZWZpbml0ZWx5IG1vcmUgb2YgYSBibG9n
+Z2luZyB0aGluZywgYWx0aG91Z2ggaXQgcHJvdmlkZXMgc29tZSBydWRpbWVudGFyeSBDTVMtZnVu
+Y3Rpb25hbGl0eS4gVHVuaW5nIGl0cyBsb29rcyB0byBvbmUncyB0YXN0ZSBtYXkgcHJvdmlkZSBm
+b3Igc29tZSBtaW5vciBoZWFkYWNoZXMuCjxicj48YnI+eS5zLiw8YnI+Sm9yaXM8YnI+PGJyPi0t
+IDxicj5Nci4gSm9yaXMgSi4gdmFuIFp1bmRlcnQgKE1BKTxicj5IdXlnZW5zIEluc3RpdHV0ZTxi
+cj5Sb3lhbCBEdXRjaCBBY2FkZW15IG9mIEFydHMgYW5kIFNjaWVuY2VzPGJyPjxicj5Db250YWN0
+IGluZm9ybWF0aW9uIGNhbiBiZSBmb3VuZCBhdCA8YSBocmVmPSJodHRwOi8vd3d3LmJyYW5kYWVu
+Lm9yZyI+aHR0cDovL3d3dy5icmFuZGFlbi5vcmcKPC9hPjxicj5BIGRpc2NsYWltZXIgaXMgYXBw
+bGljYWJsZSB0byB0aGlzIGUtbWFpbCwgcGxlYXNlIHJlZmVyIHRvIDxhIGhyZWY9Imh0dHA6Ly93
+d3cuYnJhbmRhZW4ub3JnL2VtYWlsZGlzY2xhaW1lciI+aHR0cDovL3d3dy5icmFuZGFlbi5vcmcv
+ZW1haWxkaXNjbGFpbWVyPC9hPiBmb3IgbW9yZSBpbmZvcm1hdGlvbgo8YnI+PGRpdj48c3BhbiBj
+bGFzcz0iZ21haWxfcXVvdGUiPjxicj48YnI+T24gMTAvMjMvMDYsIDxiIGNsYXNzPSJnbWFpbF9z
+ZW5kZXJuYW1lIj5FcmlrIFZvcmhlczwvYj4gJmx0OzxhIGhyZWY9Im1haWx0bzpldm9yaGVzQGx1
+Yy5lZHUiPmV2b3JoZXNAbHVjLmVkdTwvYT4mZ3Q7IHdyb3RlOjwvc3Bhbj48YmxvY2txdW90ZSBj
+bGFzcz0iZ21haWxfcXVvdGUiIHN0eWxlPSJib3JkZXItbGVmdDogMXB4IHNvbGlkIHJnYigyMDQs
+IDIwNCwgMjA0KTsgbWFyZ2luOiAwcHQgMHB0IDBwdCAwLjhleDsgcGFkZGluZy1sZWZ0OiAxZXg7
+Ij4KSXQgbWlnaHQgYmUgd29ydGggaW52ZXN0aWdhdGluZyBXb3JkUHJlc3MgJmx0OzxhIGhyZWY9
+Imh0dHA6Ly93b3JkcHJlc3Mub3JnLyI+aHR0cDovL3dvcmRwcmVzcy5vcmcvPC9hPiZndDssIGFz
+PGJyPndlbGwsIGFzIGl0IGhhcyBzaW1pbGFyIGZlYXR1cmVzIHRvIFRleHRQYXR0ZXJuLiBJdCdz
+IGEgbGl0dGxlIG1vcmU8YnI+YmxvZy1vcmllbnRlZCwgYnV0IHRoYXQncyBub3QgbmVjZXNzYXJp
+bHkgYSBiYWQgdGhpbmcuIEkgdXNlZCBpdCBmb3IKPGJyPm15ICZxdW90O0ludHJvZHVjdGlvbiB0
+byBTaGFrZXNwZWFyZSZxdW90OyBjbGFzcywgYW5kIGl0IGhhbmRsZWQgdGhlIGpvYiBwcmV0dHk8
+YnI+d2VsbDogJmx0OzxhIGhyZWY9Imh0dHA6Ly9lcmlrYW5kZXJpY2Eub3JnL2VyaWsvY2F0ZWdv
+cnkvY2xhc3MvbHVjLTI3NC8iPmh0dHA6Ly9lcmlrYW5kZXJpY2Eub3JnL2VyaWsvY2F0ZWdvcnkv
+Y2xhc3MvbHVjLTI3NC88L2E+Jmd0Oy4KPGJyPjxicj5FcmlrIFZvcmhlczxicj5Mb3lvbGEgVS4g
+Q2hpY2Fnbzxicj48YnI+Jmd0OyBEYXRlOiBGcmksIDIwIE9jdCAyMDA2IDA4OjU4OjAzIC0wNjAw
+PGJyPiZndDsgRnJvbTogSGVyZHNtYW4gQ2FlZG1vbiAmbHQ7PGEgaHJlZj0ibWFpbHRvOmNhZWRt
+b25AdWxldGguY2EiPmNhZWRtb25AdWxldGguY2E8L2E+Jmd0Ozxicj4mZ3Q7IFN1YmplY3Q6IFJl
+OiBbZG0tbF0gUGVyc29uYWwgV2ViIHNpdGUgbWFpbnRlbmFuY2UKPGJyPiZndDsgVG86IEJpbGwg
+V2hpdGUgJmx0OzxhIGhyZWY9Im1haWx0bzptaW51dGlhZUBnbWFpbC5jb20iPm1pbnV0aWFlQGdt
+YWlsLmNvbTwvYT4mZ3Q7PGJyPiZndDsgQ2M6IERpZ2l0YWwgTWVkaWV2YWxpc3QgQ29tbXVuaXR5
+IG1haWxpbmcgbGlzdCAmbHQ7PGEgaHJlZj0ibWFpbHRvOmRtLWxAdWxldGguY2EiPmRtLWxAdWxl
+dGguY2E8L2E+Jmd0Ozxicj4mZ3Q7IE1lc3NhZ2UtSUQ6ICZsdDsKPGEgaHJlZj0ibWFpbHRvOjEx
+NjEzNTYyODQuMjY1NDQuMC5jYW1lbEBvZG9ubmVkLWVuZzA2LmVuZy51bGV0aC5jYSI+MTE2MTM1
+NjI4NC4yNjU0NC4wLmNhbWVsQG9kb25uZWQtZW5nMDYuZW5nLnVsZXRoLmNhPC9hPiZndDs8YnI+
+Jmd0OyBDb250ZW50LVR5cGU6IHRleHQvcGxhaW48YnI+Jmd0Ozxicj4mZ3Q7IFlvdSdyZSByaWdo
+dCB0aGUgY29tcG9uZW50IHBhcnRzIGxvb2sgdmVyeSBpbnRlcmVzdGluZy4KPGJyPiZndDs8YnI+
+Jmd0OyAtZGFuPGJyPiZndDs8YnI+Jmd0OyBPbiBGcmksIDIwMDYtMjAtMTAgYXQgMDk6MjAgLTA1
+MDAsIEJpbGwgV2hpdGUgd3JvdGU6PGJyPiZndDsmZ3Q7IE9uIDEwLzIwLzA2LCBCaWxsIFdoaXRl
+ICZsdDs8YSBocmVmPSJtYWlsdG86bWludXRpYWVAZ21haWwuY29tIj5taW51dGlhZUBnbWFpbC5j
+b208L2E+Jmd0OyB3cm90ZTo8YnI+Jmd0OyZndDsmZ3Q7IE9uIDEwLzIwLzA2LCBEYW5pZWwgTydE
+b25uZWxsICZsdDsKPGEgaHJlZj0ibWFpbHRvOmNhZWRtb25AdWxldGguY2EiPmNhZWRtb25AdWxl
+dGguY2E8L2E+Jmd0OyB3cm90ZTo8YnI+Jmd0OyZndDsmZ3Q7Jmd0OyBIaSw8YnI+Jmd0OyZndDsm
+Z3Q7Jmd0Ozxicj4mZ3Q7Jmd0OyZndDsmZ3Q7IERvZXMgYW55Ym9keSBoYXZlIGFkdmljZSBvbiBo
+b3cgdG8gbWFpbnRhaW4gYSBwcm9mZXNzaW9uYWwgYWNhZGVtaWM8YnI+Jmd0OyZndDsmZ3Q7Jmd0
+OyBob21lcGFnZS0tSSBtZWFuIHRoZSBwYWdlIG9uZSB1c2VzIGZvciBjbGFzcyBtYXRlcmlhbCwK
+PGJyPiZndDsmZ3Q7Jmd0OyZndDsgaW5mb3JtYXRpb24gb248YnI+Jmd0OyZndDsmZ3Q7Jmd0OyBy
+ZXNlYXJjaCwgZXRjLjxicj4mZ3Q7Jmd0OyZndDs8YnI+Jmd0OyZndDsmZ3Q7IEkgc3R1bWJsZWQg
+YWNyb3NzIHRoaXMgYSBmZXcgZGF5cyBhZ28gd2hpbGUgZ29vZ2xpbmcgZm9yIGNtcyBzeXN0ZW1z
+PGJyPiZndDsmZ3Q7Jmd0OyB0aGF0IGNhbiB3b3JrIHdpdGggbXkgbG9jYWwgbWVkaWF3aWtpIGlu
+c3RhbGxhdGlvbjoKPGJyPiZndDsmZ3Q7Jmd0Ozxicj4mZ3Q7Jmd0OyZndDsgPGEgaHJlZj0iaHR0
+cDovL29wZW5hY2FkZW1pYy5vcmcvIj5odHRwOi8vb3BlbmFjYWRlbWljLm9yZy88L2E+PGJyPiZn
+dDsmZ3Q7Jmd0Ozxicj4mZ3Q7Jmd0OyZndDsgSSBoYXZlbid0IHVzZWQgaXQsIGJ1dCBpdCBtYXkg
+YmUgd29ydGggaW52ZXN0aWdhdGluZy4mbmJzcDsmbmJzcDtJJ2QgbmV2ZXI8YnI+Jmd0OyZndDsm
+Z3Q7IGhlYXJkPGJyPiZndDsmZ3Q7Jmd0OyBvZiB0aGUgc3RyYW5nZWx5LW5hbWVkIHRvb2xzIHRo
+ZXkncmUgdXNpbmcgLSBtb29kbGUsIGVsZ2csIGRydXBhbC4KPGJyPiZndDsmZ3Q7PGJyPiZndDsm
+Z3Q7IFdob29wcyAtIEkgdGhpbmsgdGhhdCB3ZWJzaXRlIG1heSBiZSBvZmZlcmluZy9zZWxsaW5n
+IHNlcnZpY2VzLiZuYnNwOyZuYnNwO0F0PGJyPiZndDsmZ3Q7IGFueSByYXRlLCB0aGUgbGlua3Mg
+dGhleSBwcm92aWRlIHRvIG1vb2RsZSBldCBhbC4gbWF5IGJlIHVzZWZ1bC48YnI+Jmd0OyZndDs8
+YnI+Jmd0OyZndDsgQ2hlZXJzIC08YnI+Jmd0OyZndDs8YnI+Jmd0OyZndDsgYncKPGJyPjxicj48
+YnI+X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX188YnI+RGln
+aXRhbCBNZWRpZXZhbGlzdCBQcm9qZWN0PGJyPkhvbWVwYWdlOiA8YSBocmVmPSJodHRwOi8vd3d3
+LmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmciPmh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9y
+ZzwvYT48YnI+Sm91cm5hbCAoU3ByaW5nIDIwMDUtKTogPGEgaHJlZj0iaHR0cDovL3d3dy5kaWdp
+dGFsbWVkaWV2YWxpc3Qub3JnL2pvdXJuYWwuY2ZtIj4KaHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2
+YWxpc3Qub3JnL2pvdXJuYWwuY2ZtPC9hPjxicj5SU1MgKGFubm91bmNlbWVudHMpIHNlcnZlcjog
+PGEgaHJlZj0iaHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnL3Jzcy9yc3MyLmNmbSI+
+aHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnL3Jzcy9yc3MyLmNmbTwvYT48YnI+V2lr
+aTogPGEgaHJlZj0iaHR0cDovL3NxbC51bGV0aC5jYS9kbW9yZ3dpa2kvaW5kZXgucGhwIj4KaHR0
+cDovL3NxbC51bGV0aC5jYS9kbW9yZ3dpa2kvaW5kZXgucGhwPC9hPjxicj5DaGFuZ2UgbWVtYmVy
+c2hpcCBvcHRpb25zOiA8YSBocmVmPSJodHRwOi8vbGlzdHNlcnYudWxldGguY2EvbWFpbG1hbi9s
+aXN0aW5mby9kbS1sIj5odHRwOi8vbGlzdHNlcnYudWxldGguY2EvbWFpbG1hbi9saXN0aW5mby9k
+bS1sPC9hPjxicj5TdWJtaXQgUlNTIGFubm91bmNlbWVudDogPGEgaHJlZj0iaHR0cDovL3d3dy5k
+aWdpdGFsbWVkaWV2YWxpc3Qub3JnL25ld2l0ZW0uY2ZtIj4KaHR0cDovL3d3dy5kaWdpdGFsbWVk
+aWV2YWxpc3Qub3JnL25ld2l0ZW0uY2ZtPC9hPjxicj5Db250YWN0IGVkaXRvcmlhbCBCb2FyZDog
+PGEgaHJlZj0ibWFpbHRvOmRpZ2l0YWxtZWRpZXZhbGlzdEB1bGV0aC5jYSI+ZGlnaXRhbG1lZGll
+dmFsaXN0QHVsZXRoLmNhPC9hPjxicj5kbS1sIG1haWxpbmcgbGlzdDxicj48YSBocmVmPSJtYWls
+dG86ZG0tbEB1bGV0aC5jYSI+ZG0tbEB1bGV0aC5jYQo8L2E+PGJyPjxhIGhyZWY9Imh0dHA6Ly9s
+aXN0c2Vydi51bGV0aC5jYS9tYWlsbWFuL2xpc3RpbmZvL2RtLWwiPmh0dHA6Ly9saXN0c2Vydi51
+bGV0aC5jYS9tYWlsbWFuL2xpc3RpbmZvL2RtLWw8L2E+PGJyPjwvYmxvY2txdW90ZT48L2Rpdj48
+YnI+PGJyIGNsZWFyPSJhbGwiPjxicj48YnI+Cg==

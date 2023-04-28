@@ -1,0 +1,16 @@
+Subject: Re: [dm-l] palaeography and computingThe Comite international de paleographie latine does have an ongoing
+project to create a standardized vocabulary of codicology. It's a far cry
+from graphical metrics, of course, but any attempt to create a framework
+for the description of hands should certainly take it into account:http://vocabulaire.irht.cnrs.fr/vocab.htmThe site is "optimized for use with IE," and my Safari can't handle it. So
+much for standardization. ;-)Josh Westgard--On Tuesday, June 29, 2004 10:36 AM -0600 Murray McGillivray
+_redacted_(a)ucalgary.ca> wrote:> Arianna:
+> 
+> "can be described" meant "can be described using words and images," not
+> "can be described using special-purpose tags." The thing that would be
+> most helpful, actually, is a universally accepted "controlled vocabulary"
+> for paleographic description, either verbal or in terms of graphical
+> metrics (or ideally both), on which we could build descriptive structures
+> in XML or whatever. I don't think paleographers are close to having that.
+> 
+> Murray
+> 

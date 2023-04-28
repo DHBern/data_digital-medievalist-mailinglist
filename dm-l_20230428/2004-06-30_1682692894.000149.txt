@@ -1,0 +1,33 @@
+Subject: Re: Multiple Stylesheets (was Re: [dm-l] Hacks: an example)At 11:59 AM 30/06/2004, you wrote:
+>>The developer promises to write code which is compliant with modern, 
+>>open, non-proprietary international standards (e.g. XHTML, Unicode, 
+>>ECMAScript, etc.).
+>>
+>>The user agrees to install one of the many free browsers which is capable 
+>>of handling the current standards.
+>
+>
+>Hear, hear! I agree completely -- well, almost. If you're primarily 
+>delivering static content, it's not all that hard to arrange your XHTML, 
+>CSS and JavaScript so that it degrades gracefully. My on-line OE grammar 
+>(http://www.wmich.edu/medieval/research/rawl/IOE/index.html) does 
+>reasonably well in this respect, I think: it looks best in Mozilla, 
+>acceptable in IE 5/6 and readable in NS 4.blech. (There you can also see 
+>my stylesheet philosophy: a default stylesheet, one for the visually 
+>impaired, and an option to turn off stylesheets--for the PDF set. Separate 
+>stylesheets for different browsers is madness--Microsoft spends its money 
+>that way, I believe.) For the kind of advanced functionality Martin was 
+>describing earlier, I think there is no harm at all in expecting users to 
+>have an up-to-date browser. My own case in point is the Old English 
+>Aerobics anthology (http://www.engl.virginia.edu/OE/anthology/index.html), 
+>which really doesn't ask all that much of a browser, but doesn't run in NS 
+>4 and never will.These are lovely sites -- I hadn't seen them before. The access key 
+navigation is very nice indeed.Cheers,
+Martin______________________________________Martin Holmes
+University of Victoria Humanities Computing and Media Centre
+_redacted_(a)uvic.ca
+_redacted_(a)mholmes.com
+_redacted_(a)halfbakedsoftware.com
+http://www.mholmes.com
+http://web.uvic.ca/hcmc/
+http://www.halfbakedsoftware.com

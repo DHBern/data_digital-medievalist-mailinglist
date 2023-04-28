@@ -1,0 +1,37 @@
+Subject: [dm-l] A single con-/-us sign (9) for 'correction'?Dear all,I'm adressing you in matters which are note digital-medievalist in
+particular, but merely medievalist in nature.There is a well known abbreviature, in the shape of a 9 shifted to sit
+on the base-line with it's o-component with the tail featuring as a
+descender (like the regular 9 in old-style numerals, e.g. in the
+Georgia font). [It is encoded in Unicode as U+A76F LATIN SMALL LETTER
+CON, but I won't use it in this e-mail, as font support is poor. Below
+in the message a 9 (nine) will mean the character without further
+explanation].This abbreviature was used alone meaning Latin "cum", alone with a
+further abbreviation mark similar to a tilde "con[tra]". In the
+beginning of words the prefix "con-" and its assimilated forms (cor-,
+com-, etc. as in corruptio, commemorabilis, etc.). In Cental European
+manuscripts and incunabula (German, Czech, Hungarian,...), at the end
+of a string, however it stood for "-us".*I have come upon a manuscript (first quarter of the 16th c.), where a
+lonesome 9 could potentially be interpreted as meaning 'correction' or
+similar. However, I am hesitant with this reading, as I have not found
+such an expansion of the sole 9 in any reference work so far. (And,
+like with the tilde of "con[tra]" I'd be expecting further signs of
+abbreviation).However, I'm particularly intrigued by the fact, that in certain
+traditions of editing (19th, 20th c.), corrections by the editor are
+indicated by a turned c, e.g. such: "... plunia (ɔ: pluvia) ...".
+While to my knowledge this is usually read as "recte: ..."
+('correctly:...'), I could not help noticing that it could be
+interpreted as "correctio: ..." ('correction: ...') and that in
+medieval times ɔ was a common allograph of the 9 meaning con-, etc.
+(for that cf. e.g. Cappelli).Could it be, that the lonesome 9 of the mentioned manuscript indeed
+stands for "correction" (and that the modern (ɔ:...) stens from the
+same tradition)? Did you encounter in your work single 9-s meaning
+something from the semantic field of errors and corrections? Can you
+help me with corroborating data from your research experience?
+Thank you in advance for your insightful answers,
+  André Sz. Szelp__
+* Cappelli, who has sampled mostly Italian and French manuscripts only
+knows the raised small 9-shaped sign for "-us" (the predecessor of the
+apostrophe sign), and attributes to the baseline form only the cum,
+con- meaning. However there are myriads of examples of baseline-9
+final -us in German incunabula and manuscripts.
+--===============9099814232715896282==--

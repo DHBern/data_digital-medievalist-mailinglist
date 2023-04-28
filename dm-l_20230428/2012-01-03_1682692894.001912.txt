@@ -1,0 +1,127 @@
+Subject: Fwd: [dm-l] Automatically scan two text corpora for quotationsFrom a colleague in corpus linguistics---------- Forwarded message ----------
+_redacted_(a)morris.umn.edu>
+Date: Mon, Jan 2, 2012 at 2:27 PM
+Subject: Re: [dm-l] Automatically scan two text corpora for quotations
+_redacted_(a)morris.umn.edu>
+Yes, off the top of my head, I can think of three options:
+   1. Monoconc (http://www.athel.com/mono.html) by Michael Barlow (
+   http://www.michaelbarlow.com/) should be able to handle this kind of
+   task.
+   2. Any scholar can easily learn how to program using Stefan Gries's (
+   http://www.linguistics.ucsb.edu/faculty/stgries/) open-access
+   programming language entitled "R" (
+   http://zoonek2.free.fr/UNIX/48_R/02.html) on which Gries has written the
+   book entitled _Quantitative Corpus Linguistics with R_.(
+   http://books.google.com/books/about/Quantitative_corpus_linguistics_with_R=
+.html?id=3DWmG9renFkxAC).
+    Of course, other languages work well, too (e.g., Pascal, Perl).
+   3. Ask an NAU (Northern Arizona U) corpus linguist to write a program
+   for you (e.g., I might be able to do it, but there would be a delay since
+   another scholar is using me at the moment; the scholar could contact Doug
+   Biber, http://jan.ucc.nau.edu/biber/, or I could do so on his or her
+   behalf, and ask if anyone has a program already or can write one).  Of
+   course, students or graduates of other computational linguistics programs
+   may be happy to offer assistance, too.
+It should be noted that the above approaches would probably rely on the use
+of either morphemic roots or "wild card" symbols; this would allow the
+analyst to search for strings of characters and variations in these
+strings.  If this approach were inadequate, then there might be a delay if
+a part-of-speech (POS) tagger needed to be located; there would be a
+substantial delay if a POS tagger needed to be written.In addition, if the digital versions of the texts have been left intact,
+then it is likely that they contain variations in spelling.  So, the first
+step would be to produce a copy of the corpus in which spelling variations
+were located and replaced with consistent spelling.  This could be done
+using a "search-and-replace" function to capture as many occurrences as
+possible.Furthermore, it should be understood that these approaches may yield a
+percentage of observations (e.g., 85%) that could then be used for further
+analysis.  Depending on the extent of linguistic variation in the original
+corpus, it may or may not be possible to extract 100% of the occurrences.In any case, I should think that the project is most do-able and most
+interesting.  So, I hope these initial thoughts are helpful, and I would be
+happy to be of further assistance.Catherine
+Catherine Smith, Ph.D., Applied Linguistics; Lecturer, Discipline of
+English; Associate Editor, *Second Language Writing News, *TESOL; Personal
+_redacted_(a)umn.edu;
+Surface Mail:  University of Minnesota, Morris, Division of the Humanities;
+600 E 4th Street, Morris, MN 56267 USAPkZyb20gYSBjb2xsZWFndWUgaW4gY29ycHVzIGxpbmd1aXN0aWNzPGJyPjxicj48ZGl2IGNsYXNz
+PSJnbWFpbF9xdW90ZSI+LS0tLS0tLS0tLSBGb3J3YXJkZWQgbWVzc2FnZSAtLS0tLS0tLS0tPGJy
+PkZyb206IDxiIGNsYXNzPSJnbWFpbF9zZW5kZXJuYW1lIj5DYXRoZXJpbmUgU21pdGg8L2I+IDxz
+cGFuIGRpcj0ibHRyIj4mbHQ7PGEgaHJlZj0ibWFpbHRvOmNhc21pdGhAbW9ycmlzLnVtbi5lZHUi
+IHRhcmdldD0iX2JsYW5rIj5jYXNtaXRoQG1vcnJpcy51bW4uZWR1PC9hPiZndDs8L3NwYW4+PGJy
+PgoKRGF0ZTogTW9uLCBKYW4gMiwgMjAxMiBhdCAyOjI3IFBNPGJyPlN1YmplY3Q6IFJlOiBbZG0t
+bF0gQXV0b21hdGljYWxseSBzY2FuIHR3byB0ZXh0IGNvcnBvcmEgZm9yIHF1b3RhdGlvbnM8YnI+
+VG86IFN0ZXBoZW4gTWFydGluICZsdDs8YSBocmVmPSJtYWlsdG86c2NtYXJ0aW5AbW9ycmlzLnVt
+bi5lZHUiIHRhcmdldD0iX2JsYW5rIj5zY21hcnRpbkBtb3JyaXMudW1uLmVkdTwvYT4mZ3Q7PGJy
+Pgo8YnI+PGRpdj48YnI+PC9kaXY+PGRpdj5ZZXMsIG9mZiB0aGUgdG9wIG9mIG15IGhlYWQsIEkg
+Y2FuIHRoaW5rIG9mIHRocmVlIG9wdGlvbnM6PC9kaXY+PGRpdj48YnI+PC9kaXY+PGRpdj48b2w+
+PGxpPk1vbm9jb25jICg8YSBocmVmPSJodHRwOi8vd3d3LmF0aGVsLmNvbS9tb25vLmh0bWwiIHRh
+cmdldD0iX2JsYW5rIj5odHRwOi8vd3d3LmF0aGVsLmNvbS9tb25vLmh0bWw8L2E+KSBieSBNaWNo
+YWVsIEJhcmxvdyAoPGEgaHJlZj0iaHR0cDovL3d3dy5taWNoYWVsYmFybG93LmNvbS8iIHRhcmdl
+dD0iX2JsYW5rIj5odHRwOi8vd3d3Lm1pY2hhZWxiYXJsb3cuY29tLzwvYT4pIHNob3VsZCBiZSBh
+YmxlIHRvIGhhbmRsZSB0aGlzIGtpbmQgb2YgdGFzay48L2xpPgoKCgo8bGk+QW55IHNjaG9sYXIg
+Y2FuIGVhc2lseSBsZWFybiBob3cgdG8gcHJvZ3JhbSB1c2luZyBTdGVmYW4gR3JpZXMmIzM5O3Mg
+KDxhIGhyZWY9Imh0dHA6Ly93d3cubGluZ3Vpc3RpY3MudWNzYi5lZHUvZmFjdWx0eS9zdGdyaWVz
+LyIgdGFyZ2V0PSJfYmxhbmsiPmh0dHA6Ly93d3cubGluZ3Vpc3RpY3MudWNzYi5lZHUvZmFjdWx0
+eS9zdGdyaWVzLzwvYT4pIG9wZW4tYWNjZXNzIHByb2dyYW1taW5nIGxhbmd1YWdlIGVudGl0bGVk
+ICZxdW90O1ImcXVvdDsgKDxhIGhyZWY9Imh0dHA6Ly96b29uZWsyLmZyZWUuZnIvVU5JWC80OF9S
+LzAyLmh0bWwiIHRhcmdldD0iX2JsYW5rIj5odHRwOi8vem9vbmVrMi5mcmVlLmZyL1VOSVgvNDhf
+Ui8wMi5odG1sPC9hPikgb24gd2hpY2ggR3JpZXMgaGFzIHdyaXR0ZW4gdGhlIGJvb2sgZW50aXRs
+ZWQgX1F1YW50aXRhdGl2ZSBDb3JwdXMgTGluZ3Vpc3RpY3Mgd2l0aCBSXy4oPGEgaHJlZj0iaHR0
+cDovL2Jvb2tzLmdvb2dsZS5jb20vYm9va3MvYWJvdXQvUXVhbnRpdGF0aXZlX2NvcnB1c19saW5n
+dWlzdGljc193aXRoX1IuaHRtbD9pZD1XbUc5cmVuRmt4QUMiIHRhcmdldD0iX2JsYW5rIj5odHRw
+Oi8vYm9va3MuZ29vZ2xlLmNvbS9ib29rcy9hYm91dC9RdWFudGl0YXRpdmVfY29ycHVzX2xpbmd1
+aXN0aWNzX3dpdGhfUi5odG1sP2lkPVdtRzlyZW5Ga3hBQzwvYT4pLiCgT2YgY291cnNlLCBvdGhl
+ciBsYW5ndWFnZXMgd29yayB3ZWxsLCB0b28gKGUuZy4sIFBhc2NhbCwgUGVybCkuPC9saT4KCgoK
+PGxpPkFzayBhbiBOQVUgKE5vcnRoZXJuIEFyaXpvbmEgVSkgY29ycHVzIGxpbmd1aXN0IHRvIHdy
+aXRlIGEgcHJvZ3JhbSBmb3IgeW91IChlLmcuLCBJIG1pZ2h0IGJlIGFibGUgdG8gZG8gaXQsIGJ1
+dCB0aGVyZSB3b3VsZCBiZSBhIGRlbGF5IHNpbmNlIGFub3RoZXIgc2Nob2xhciBpcyB1c2luZyBt
+ZSBhdCB0aGUgbW9tZW50OyB0aGUgc2Nob2xhciBjb3VsZCBjb250YWN0IERvdWcgQmliZXIsoDxh
+IGhyZWY9Imh0dHA6Ly9qYW4udWNjLm5hdS5lZHUvYmliZXIvIiB0YXJnZXQ9Il9ibGFuayI+aHR0
+cDovL2phbi51Y2MubmF1LmVkdS9iaWJlci88L2E+LKBvciBJIGNvdWxkIGRvIHNvIG9uIGhpcyBv
+ciBoZXIgYmVoYWxmLCBhbmQgYXNrIGlmIGFueW9uZSBoYXMgYSBwcm9ncmFtIGFscmVhZHkgb3Ig
+Y2FuIHdyaXRlIG9uZSkuIKBPZiBjb3Vyc2UsIHN0dWRlbnRzIG9yIGdyYWR1YXRlcyBvZiBvdGhl
+ciBjb21wdXRhdGlvbmFsIGxpbmd1aXN0aWNzIHByb2dyYW1zIG1heSBiZSBoYXBweSB0byBvZmZl
+ciBhc3Npc3RhbmNlLCB0b28uPC9saT4KCgoKPC9vbD48L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2
+Pkl0IHNob3VsZCBiZSBub3RlZCB0aGF0IHRoZSBhYm92ZSBhcHByb2FjaGVzIHdvdWxkIHByb2Jh
+Ymx5IHJlbHkgb24gdGhlIHVzZSBvZiBlaXRoZXIgbW9ycGhlbWljIHJvb3RzIG9yICZxdW90O3dp
+bGQgY2FyZCZxdW90OyBzeW1ib2xzOyB0aGlzIHdvdWxkIGFsbG93IHRoZSBhbmFseXN0IHRvIHNl
+YXJjaCBmb3Igc3RyaW5ncyBvZiBjaGFyYWN0ZXJzIGFuZCB2YXJpYXRpb25zIGluIHRoZXNlIHN0
+cmluZ3MuIKBJZiB0aGlzIGFwcHJvYWNoIHdlcmUgaW5hZGVxdWF0ZSwgdGhlbiB0aGVyZSBtaWdo
+dCBiZSBhIGRlbGF5IGlmIGEgcGFydC1vZi1zcGVlY2ggKFBPUykgdGFnZ2VyIG5lZWRlZCB0byBi
+ZSBsb2NhdGVkOyB0aGVyZSB3b3VsZCBiZSBhIHN1YnN0YW50aWFsIGRlbGF5IGlmIGEgUE9TIHRh
+Z2dlciBuZWVkZWQgdG8gYmUgd3JpdHRlbi48L2Rpdj4KCgoKPGRpdj48YnI+PC9kaXY+PGRpdj5J
+biBhZGRpdGlvbiwgaWYgdGhlIGRpZ2l0YWwgdmVyc2lvbnMgb2YgdGhlIHRleHRzIGhhdmUgYmVl
+biBsZWZ0IGludGFjdCwgdGhlbiBpdCBpcyBsaWtlbHkgdGhhdCB0aGV5IGNvbnRhaW4gdmFyaWF0
+aW9ucyBpbiBzcGVsbGluZy4goFNvLCB0aGUgZmlyc3Qgc3RlcCB3b3VsZCBiZSB0byBwcm9kdWNl
+IGEgY29weSBvZiB0aGUgY29ycHVzIGluIHdoaWNoIHNwZWxsaW5nIHZhcmlhdGlvbnMgd2VyZSBs
+b2NhdGVkIGFuZCByZXBsYWNlZCB3aXRoIGNvbnNpc3RlbnQgc3BlbGxpbmcuIKBUaGlzIGNvdWxk
+IGJlIGRvbmUgdXNpbmcgYSAmcXVvdDtzZWFyY2gtYW5kLXJlcGxhY2UmcXVvdDsgZnVuY3Rpb24g
+dG8gY2FwdHVyZSBhcyBtYW55IG9jY3VycmVuY2VzIGFzIHBvc3NpYmxlLjwvZGl2PgoKCgo8ZGl2
+Pjxicj48L2Rpdj48ZGl2PkZ1cnRoZXJtb3JlLCBpdCBzaG91bGQgYmUgdW5kZXJzdG9vZCB0aGF0
+IHRoZXNlIGFwcHJvYWNoZXMgbWF5IHlpZWxkIGEgcGVyY2VudGFnZSBvZiBvYnNlcnZhdGlvbnMg
+KGUuZy4sIDg1JSkgdGhhdCBjb3VsZCB0aGVuIGJlIHVzZWQgZm9yIGZ1cnRoZXIgYW5hbHlzaXMu
+IKBEZXBlbmRpbmcgb24gdGhlIGV4dGVudCBvZiBsaW5ndWlzdGljIHZhcmlhdGlvbiBpbiB0aGUg
+b3JpZ2luYWwgY29ycHVzLCBpdCBtYXkgb3IgbWF5IG5vdCBiZSBwb3NzaWJsZSB0byBleHRyYWN0
+IDEwMCUgb2YgdGhlIG9jY3VycmVuY2VzLjwvZGl2PgoKCgo8ZGl2Pjxicj48L2Rpdj48ZGl2Pklu
+IGFueSBjYXNlLCBJIHNob3VsZCB0aGluayB0aGF0IHRoZSBwcm9qZWN0IGlzIG1vc3QgZG8tYWJs
+ZSBhbmQgbW9zdCBpbnRlcmVzdGluZy4goFNvLCBJIGhvcGUgdGhlc2UgaW5pdGlhbCB0aG91Z2h0
+cyBhcmUgaGVscGZ1bCwgYW5kIEkgd291bGQgYmUgaGFwcHkgdG8gYmUgb2YgZnVydGhlciBhc3Np
+c3RhbmNlLjwvZGl2PjxkaXY+PGJyPjwvZGl2PgoKCgo8ZGl2PkNhdGhlcmluZTwvZGl2PjxkaXY+
+PGJyPjwvZGl2PjxkaXY+PGJyIGNsZWFyPSJhbGwiPjxkaXY+PGZvbnQgY29sb3I9IiM5OTk5OTki
+IGZhY2U9ImdhcmFtb25kLHNlcmlmIj5DYXRoZXJpbmUgU21pdGgsIFBoLkQuLCBBcHBsaWVkIExp
+bmd1aXN0aWNzO6A8L2ZvbnQ+PHNwYW4gc3R5bGU9ImNvbG9yOnJnYigxNTMsMTUzLDE1Myk7Zm9u
+dC1mYW1pbHk6Z2FyYW1vbmQsc2VyaWYiPkxlY3R1cmVyLCBEaXNjaXBsaW5lIG9mIEVuZ2xpc2g7
+PC9zcGFuPjxzcGFuIHN0eWxlPSJjb2xvcjpyZ2IoMTUzLDE1MywxNTMpO2ZvbnQtZmFtaWx5Omdh
+cmFtb25kLHNlcmlmIj6gPC9zcGFuPjxzcGFuIHN0eWxlPSJjb2xvcjpyZ2IoMTUzLDE1MywxNTMp
+O2ZvbnQtZmFtaWx5OmdhcmFtb25kLHNlcmlmIj5Bc3NvY2lhdGUgRWRpdG9yLKA8L3NwYW4+PGkg
+c3R5bGU9ImNvbG9yOnJnYigxNTMsMTUzLDE1Myk7Zm9udC1mYW1pbHk6Z2FyYW1vbmQsc2VyaWYi
+PlNlY29uZCBMYW5ndWFnZSBXcml0aW5nIE5ld3MsoDwvaT48c3BhbiBzdHlsZT0iY29sb3I6cmdi
+KDE1MywxNTMsMTUzKTtmb250LWZhbWlseTpnYXJhbW9uZCxzZXJpZiI+VEVTT0w8L3NwYW4+PHNw
+YW4gc3R5bGU9ImNvbG9yOnJnYigxNTMsMTUzLDE1Myk7Zm9udC1mYW1pbHk6Z2FyYW1vbmQsc2Vy
+aWYiPjsgUGVyc29uYWwgV2ViIFNpdGU6IKA8YSBocmVmPSJodHRwOi8vc2l0ZXMuZ29vZ2xlLmNv
+bS9zaXRlL2Nhc21pdGgwOTkiIHRhcmdldD0iX2JsYW5rIj5zaXRlcy5nb29nbGUuY29tL3NpdGUv
+Y2FzbWl0aDA5OTwvYT47IEVtYWlsOiCgPGEgaHJlZj0ibWFpbHRvOmNhc21pdGhAdW1uLmVkdSIg
+dGFyZ2V0PSJfYmxhbmsiPmNhc21pdGhAdW1uLmVkdTwvYT47IFN1cmZhY2UgTWFpbDogoFVuaXZl
+cnNpdHkgb2YgTWlubmVzb3RhLCBNb3JyaXMsIERpdmlzaW9uIG9mIHRoZSBIdW1hbml0aWVzOyA2
+MDAgRSA0dGggU3RyZWV0LCBNb3JyaXMsIE1OIDU2MjY3IFVTQTwvc3Bhbj48L2Rpdj4KCjxkaXY+
+PGRpdj4KCjxkaXY+PGJyPjwvZGl2Pjxicj4KPGJyPjxicj48YnI+CjwvZGl2PjwvZGl2PjwvZGl2
+PjwvZGl2Pgo=

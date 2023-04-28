@@ -1,0 +1,30 @@
+Subject: [dm-l] fontsThe discussion of Junicode and fonts raises a very important
+issue in making medieval resources available on the web.Using Junicode or another font created with the right
+unicode glyphs in is great if you can make sure your
+users viewing the pages have that font and are in fact
+using it to view these pages.I've seen all sorts of solutions from the bad to
+not-so-bad but never really seen one that doesn't
+have some limitations somewhere.Of course the inevitable future tense of computing
+means that when everyone is using browsers which
+support CSS3's "webfonts" then this won't be as much
+of a problem.  (This is a way to have the browser
+download the font on the fly if it does not already
+have a copy of it.)At the OTA we are primarily concerned with freely
+archiving electronic texts for long term preservation
+and so are able to store unicode character entities with
+less worries about how actually to display them for
+users.  (Side note: If you have electronic medieval
+editions of texts and want free archiving of them for
+posterity, please see
+http://www.ahds.ac.uk/litlangling/depositing/index.htm
+for more information.)So what is best? Obviously encoding your webpages as
+(say) UTF-8 is a good start.  Force user to download a
+font for your site with appropriate glyphs?  Use images
+of the glyphs instead of actual characters(*shudder*)?
+Transliterate into ascii characters/editorial marks? Use
+markup to allow easy replacement of different solutions
+on the fly?I have my own preferences but am interested in what
+other people have done.-James---
+Dr James Cummings, Oxford Text Archive, University of Oxford
+James dot Cummings at ota dot ahds dot ac dot uk
+--===============6424361421838861339==--

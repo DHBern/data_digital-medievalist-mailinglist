@@ -1,0 +1,56 @@
+Subject: Re: [dm-l] [Technical]: Suggestions for a replacement	for	Subversion?+1 to what Abdullah and Sara have said about git and Github. If your student =
+workers have any interest in this sort of work outside of the job itself then=
+ any time they may spend to become comfortable with these powerful tools will=
+ not be wasted.That said, as noted, Dropbox does offer access to file version history and re=
+storation of deleted files and folders, so that might be enough for your purp=
+oses. In my experience it often doesn=E2=80=99t handle simultaneous users of =
+shared files very elegantly, so there is need for caution if that will be a c=
+ommon scenario.  Google Drive is much better in this regard, but it=E2=80=99s=
+ not as flexible with respect to file types.Josh--
+Joshua A. Westgard, MLS, PhD
+Systems Librarian
+Digital Systems and Stewardship Division
+University of Maryland Libraries
+College Park, MD 20742-7011
+301-405-9136 (office)
+_redacted_(a)umd.edu
+_redacted_(a)durham.ac.uk> =
+wrote:> On 12/30/2014 11:30 AM, Abdullah Alger wrote:
+>> Saying that, if your students are working on digital humanities projects
+>> and are coding, they should learn Git. It's an essential tool that
+>> professionals use every day.
+>=20
+> I was traveling all day and thus the recommendations I would've made have
+> already been made by other people, but I cannot pass up the opportunity
+> to second this, very strongly.  Properly implemented, git can be extremely
+> user friendly to use (my DMNES project linked in my sig involves a lot
+> of data entry and requires scrupulous version controlling; my editors have
+> a web-front end that they use and beyond creating an account on github,
+> they never interact with git at all), and there is a large amount of
+> documentation and help out there for those who are willing to put in a
+> little bit (i.e., an afternoon) of time into learning it.  Learning how
+> to use git should be considered a requirement of someone who intends to
+> work in digital humanities, just as learning LaTeX is one for anyone
+> working in math or logic.
+>=20
+> -Sara
+>=20
+>=20
+>=20
+> --=20
+> Dr. Sara L. Uckelman
+> Department of Philosophy
+> Durham University
+> https://www.dur.ac.uk/philosophy/staff/?id=3D12928
+> http://dmnes.wordpress.com/
+>=20
+>=20
+> Digital Medievalist --  http://www.digitalmedievalist.org/
+> Journal: http://www.digitalmedievalist.org/journal/
+> Journal Editors: editors _AT_ digitalmedievalist.org
+> News: http://www.digitalmedievalist.org/news/
+> Wiki: http://www.digitalmedievalist.org/wiki/
+> Twitter: http://twitter.com/digitalmedieval
+> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+_redacted_(a)uleth.ca
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l

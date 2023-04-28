@@ -1,0 +1,229 @@
+Subject: Re: [dm-l] Re: Experience using Microsoft's XSLT?Okay, let's get bickering ;-) (see your private mailbox).Joris_redacted_(a)computing-services.oxford.ac.uk 06/24/04 3:35 PM >>>
+Well, I apologise in advance for the fact that my impatience with
+Peter's (to my
+mind) ill-founded criticism of xslt  risks opening up one of those
+utterly
+tedious arguments about whether language X is better or worse than
+language Y;
+particularly as I suspect such bickering is of minimal interest to most
+readers
+on this list. But just for the record, it seems to me rather strange to
+consider
+the "transformational" abilities of XSLT as somehow distinct from "the
+logical
+handling of data". XSLT is a language for processing structured data;
+which
+means it has to know about and usefully process data structures. You may
+wish to
+think of it as "just" a pattern matching language, or restrict its use
+in
+particular ways. But pattern-matching has wider applications than just
+document
+transformation. In particular, it is much less "procedural" than any of
+the
+other hybrid scripting languages you mention.However, we should probably have this argument in private!Lou
+. _redacted_(a)apps.niwi.knaw.nl> Digital Medievalist
+Community
+_redacted_(a)uleth.ca> writes:
+> I'm afraid mr. Burnard is slightly misinterpreting a popular
+IT-proverb.
+> It's not that there are good or bad programmers and programming
+> languages, but that there are no good or bad solutions, only more and
+> less adequate ones.
+> 
+> As for programming languages: yes, there are bad programming languages
+> and XSLT is a good example of a bad programming language. Which it
+> actually should be, because XSLT was never meant as a programming
+> language, but as a template based transformational language for
+> transforming XML into XML or into representational forms like HTML and
+> not for logical handling of data.
+> 
+> It's therefore very unfortunate that the XSLT 2.0 recommendation of
+the
+> w3c includes even more characteristics that are typical for
+programming
+> languages (like data types and logical structures). Rather XSLT 2.0
+> should have confined the main purpose of XSL to where it's good at:
+> simple straightforward transformations of (chunks of) XML. 
+> 
+> Sophisticated and complex handling of data, structure and
+functionality
+> is more efficiently and adequately done or programmed in a robust
+> programming environment (like Eclipse), preferably in matured
+> programming languages (like Java or Python) using agile protocols.
+> 
+> But that's all theory off course. In the real world XSLT will probably
+> become somewhat like, and as popular as hybrid languages such as PHP,
+> JSP and ASP. Such 'languages' just throw the whole bunch together:
+data,
+> data structure, logic, representation and functionality. Which seems
+> nice because it looks like you can do anything, fast. But in practice
+> such languages in the long run lead to unmaintainable code where the
+> boundaries between data and logic are unclear and portability and
+> interoperability become zero. It's all about separation of concerns
+and
+> responsibilities.
+>  
+> It strikes me as rather strange that someone who very justifiably
+> promoted XML/TEI as a way to separate the concerns of meaning and
+form,
+> fails to see that XSLT does not do a very good job at this.
+>  
+> y.s.,
+> Joris van Zundert
+> 
+> mr. Joris J. van Zundert (MA)
+> Researcher & Programmer, dep. of Dutch Literature and Linguistics
+> NIWI (Netherlands Institute for Scientific Information services)
+>  
+> [visiting address]
+> Joan Muyskenweg 25
+> Amsterdam 
+> [postal address]
+> Postbus 95110
+> 1090 HC  Amsterdam
+> [phone]
+> +31 (0)20 462 86 47 
+> [fax]
+> +31 (0)20 665 80 13
+> [e-mail]
+> joris.van.zundert(insert_an_at_sign_here)niwi.knaw.nl
+> [internet]
+> www.niwi.knaw.nl
+>  
+>  
+> 
+_redacted_(a)computing-services.oxford.ac.uk 6/23/04 18:20:47 >>>
+> 
+> Peter, darling, you are talking nonsense. If you want a system based
+on
+> 
+> words, mark up the words and XSLT will cope very well. (Yes, people do
+> 
+> it: cf the BNC and many others). Likewise, if you want a system in
+> which 
+> physical hierarchies matter, reflect that in your markup system.
+> 
+> There are no good or bad programming languages: just good or bad 
+> programmers. And designers.
+> 
+> Lou
+> 
+> 
+> Peter Robinson wrote:
+> 
+> > Well, let us start off with a little minor controversy.
+> > 
+> > In the midst of converts to and enthusiasts for XSLT and that family
+> of
+> > tools, here is my two pennysworth. I suggest that a serious and
+> full-scale
+> > electronic edition of a typical medieval work, with the (now!)
+> standard
+> > requirement that it integrate text transcription/edition and images,
+> to a
+> > standard satisfactory for a scholarly user, cannot be made by these
+> tools
+> > from an XML base.
+> > 
+> > There are two reasons for this. The first reason is that it seems to
+> me the
+> > fundamental requirement of such an edition is that it should present
+> a
+> > single page of a manuscript transciption alongside a single
+> manuscript image
+> > (or, in variants of this, a single column alongside the image, etc).
+> Given
+> > the standard XML architecture of these editions as these have
+> evolved,
+> > whereby textual divisions are set in the content of elements but
+> pages are
+> > marked with empty anchor elements (eg <pb/>) this is just what XSLT
+> etc find
+> > very tricky indeed. If you can do it (and I have not yet seen this
+> done,
+> > though I have heard lengthy explanations of how it *might* be done)
+> you can
+> > only do it with great difficulty with the standard tools. The
+problem
+> here
+> > is our old bugbear overlapping hierarchies, and XSLT etc just don't
+> have any
+> > easy answer to this -- and maybe no reliable answer at all.
+> > 
+> > The second reason is to do with the nature of the XSLT programming
+> language
+> > and the kind of things we want to do with our displays, even in
+> situations
+> > where the problem of overlapping hierarchies does not hit us. Take a
+> single
+> > word in (for example) a line of transcription of a manuscript of the
+> > Miller's Tale. A reader might think: I would like to see what any or
+> all
+> > other manuscripts have at this word; I want to know whether there is
+> an
+> > editorial comment on the readings at this point; I would like to see
+> how the
+> > pattern of readings at this point maps against the overall pattern
+> of
+> > relationships among the manuscripts; I would like a lot of this
+> information
+> > held within the display so that just passing the mouse over the word
+> will
+> > pop up some of it. And I want this for every word in every
+> manuscript, and
+> > I want all this generated real fast for each page as I am impatient,
+> and I
+> > want quite a few other things too. Typically, this information is
+> scattered
+> > right across many different XML source files. It all has to be
+> fetched,
+> > amalgamated, sorted, served up for say some five hundred words on a
+> typical
+> > manuscript page, all in a microsecond. And also, for the programmer:
+> many
+> > things could go wrong in here, with all the conditional tests which
+> need to
+> > be made at each point and all the possible branchings the program
+> might have
+> > to take to cope with the messiness of manuscript life, so the
+> programmer
+> > needs a responsive and transparent programming environment, where it
+> is easy
+> > to diagnose what is going wrong, where, as the displays are built. I
+> sure
+> > would hate to try to do this in XSLT etc. While XML is fine for many
+> things,
+> > it does not look a great environment for programming to me.
+> > 
+> > The question is germane because it now seems that a lot of effort is
+> going
+> > in to persuading humanities scholars, like us, that:
+> > A. we put all our data into XML, preferable the TEI variety
+> > B. we use XML programming tools like XSLT to get it to the reader
+> > I think the first proposition is unquestionably right: that battle
+> has been
+> > won. But XML's victory in the first does not mean that XML is the
+> right
+> > answer for the second. Indeed, I don't think it is.
+> > 
+> > So, over to you all. I have set people this challenge before but
+here
+> it is
+> > again: someone, try to duplicate a typical single page say of our
+> Hengwrt
+> > Digital Facsimile from our XML source. And good luck to you.
+> > 
+> > All the best
+> > Peter Robinson
+> 
+> 
+> _______________________________________________
+> dm-l mailing list
+_redacted_(a)uleth.ca 
+> http://listserv.uleth.ca/mailman/listinfo/dm-l 
+> 
+> _______________________________________________
+dm-l mailing list
+_redacted_(a)uleth.ca
+http://listserv.uleth.ca/mailman/listinfo/dm-l

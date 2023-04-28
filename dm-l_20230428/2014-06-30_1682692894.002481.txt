@@ -1,0 +1,198 @@
+Subject: [dm-l] CFP: Research Summit on Collation, =?utf-8?q?M=C3=BCnster?= 3=== CALL FOR PARTICIPATION ===== Research Summit on Collation of Ancient and Medieval Texts ==
+COST Action IS1005 'Medioevo Europeo'
+Münster (Germany), 3 & 4 October 2014Comparison and collation are part of the primitives of textual
+scholarship—as John Unsworth has dubbed the generic and basic tasks of this
+field. They are tedious, error prone, and subject to unwitting bias, and
+the quest for formalized ways of guiding these tasks is as old, if not
+older, than philology itself. The last thirty years have seen the adoption
+of several digital approaches to textual collation, from
+heuristics-supported Collate to fully algorithmic Juxta. What is the
+current state of the art of digital collation? How do we apply it to
+manuscript texts? Does CollateX turn collation into a solved problem? What
+are the prospects for multilingual collation? It is these kind of questions
+that underlie a research summit on collation to be held in Münster on 3 and
+4 October 2014.The COST Action IS1005 'Medioevo Europeo' (http://www.medioevoeuropeo.org/)
+has kindly offered funding to organize this focused research summit on
+(digital) collation for ancient, medieval manuscript, and early print
+texts. This summit is kindly hosted by the Institute für Neutestamentliche
+Textforschung (INTF) of the Westfälische Wilhelms-Universität in Münster (
+http://egora.uni-muenster.de/intf/index_en.shtml), representing a wealth of
+knowledge and experience on the collation of witnesses for the Greek New
+Testament.This summit will allow the participants to inform themselves about the
+issues, methods, and tools involved with collating older texts for
+scholarly purposes. The summit will feature some of the most prominent
+scholars in this area who will offer an overview of scholarly theory
+underpinning collation, the history of digital support for this scholarly
+task, and the praxis of current collation techniques. The summit will also
+offer a intensive hands-on training in digital collation by
+researcher/developers that were involved in building CollateX (
+http://collatex.net), Juxta (http://www.juxtasoftware.org/), and several
+other tools for scholarly editing.The second day of the summit features a day long clinic for participants
+who apply collation in their scholarly research. We offer the possibility
+for participants to present both theoretical and practical problems and
+solutions for collating old texts. We invite them to show their work,
+tools, problems, needs, and results of applied collation in scholarly
+editing.
+== HOW TO PARTICIPATE ==This unique research summit is open for participation by all scholars and
+developers involved in the application of (digital) collation of older
+texts. There are two ways to attend: as a regular attendee or as a
+presenter of a collation use case during the clinics on the second day of
+the research summit. We highly encourage participants to present their
+collation related work during one of the clinics. To do so send a statement
+of interest and short description of your proposed contribution to the
+_redacted_(a)huygens.knaw.nl.
+Deadline of submission is August 1, 2014.As we seek to encourage the participation of early-stage researchers (PhD
+students or post-doctoral researchers), a limited number of bursaries are
+available to cover travel expenses. If you wish to apply for one of these,
+please submit an additional statement motivating your application (main
+criteria are importance of this workshop for your current research and
+absence of other possible funding). Abstracts and applications for
+bursaries will be evaluated by the scientific committee. Successful
+candidates will be notified of acceptance on August 15, 2014. Participants
+will be offered travel reimbursements according to COST rules and
+limitations (i.e. reimbursement of flight/travel and a 100 Euro lodging and
+sustenance fee per day of up to a maximum of three days).To register as a regular attendee, please go to:
+http://collatex.net/researchsummit . Registration closes on September 15,
+2014.
+== PROGRAM (subject to change) === Day 1, Friday 3 October 2014 =10.00-10.30
+Caroline Macé (KU Leuven)
+"Collations vs Transcriptions—advantages and shortcomings. And what we want
+to do with collations"10.30-11.30
+Peter Robinson (University of Saskatchewan Saskatoon)
+"Misconceptions of Scholarly Collation in Digital Collation"11.30-12.15
+Klaus Wachtel & Marie-Luise Lakmann (INTF)
+"Praxis of Collation: The Greek New Testament Project"12.15-13.00
+Barbara Bordalejo (KU Leuven)
+"Praxis of Collation: The Canterbury Tales Project"13.00-14.00
+Break14.00-14.30
+Joris van Zundert (Huygens Institute for the History of the Netherlands)
+"Code, Collation, Interpretation"14.30-15.00
+Ronald Dekker (Huygens Institute for the History of the Netherlands)
+"Digital Collation: Model and Theory"15.00-16.00
+Hands On: Working with CollateX
+(Instructors: Gregor Middell, Ronald Dekker, Tara Andrews)16.00-17.00
+Hands On: Interfacing with CollateX—Web service, Juxta, nCritic, eXist-db
+(Instructors: Gregor Middell, Ronald Dekker, Tara Andrews, Leif-Jöran
+Olsson)
+= Day 2, Saturday 4 October 2014 =10.00-13.00
+Clinic I: Projects by Participants13.00-14.00
+Break14.00-16.00
+Clinic II: Projects by Participants16.00-17.00
+Problems of Collation – Explorative and concluding session on current and
+future needs of digital support for scholarly collation
+== MORE INFORMATION ==Any inquiries about this research summit may be directed to
+_redacted_(a)huygens.knaw.nl
+--PGRpdiBkaXI9Imx0ciI+PT09IENBTEwgRk9SIFBBUlRJQ0lQQVRJT04gPT09PGJyPjxicj49PSBS
+ZXNlYXJjaCBTdW1taXQgb24gQ29sbGF0aW9uIG9mIEFuY2llbnQgYW5kIE1lZGlldmFsIFRleHRz
+ID09PGJyPkNPU1QgQWN0aW9uIElTMTAwNSAmIzM5O01lZGlvZXZvIEV1cm9wZW8mIzM5Ozxicj5N
+w7xuc3RlciAoR2VybWFueSksIDMgJmFtcDsgNCBPY3RvYmVyIDIwMTQ8YnI+PGJyPkNvbXBhcmlz
+b24gYW5kIGNvbGxhdGlvbiBhcmUgcGFydCBvZiB0aGUgcHJpbWl0aXZlcyBvZiB0ZXh0dWFsIHNj
+aG9sYXJzaGlw4oCUYXMgSm9obiBVbnN3b3J0aCBoYXMgZHViYmVkIHRoZSBnZW5lcmljIGFuZCBi
+YXNpYyB0YXNrcyBvZiB0aGlzIGZpZWxkLiBUaGV5IGFyZSB0ZWRpb3VzLCBlcnJvciBwcm9uZSwg
+YW5kIHN1YmplY3QgdG8gdW53aXR0aW5nIGJpYXMsIGFuZCB0aGUgcXVlc3QgZm9yIGZvcm1hbGl6
+ZWQgd2F5cyBvZiBndWlkaW5nIHRoZXNlIHRhc2tzIGlzIGFzIG9sZCwgaWYgbm90IG9sZGVyLCB0
+aGFuIHBoaWxvbG9neSBpdHNlbGYuIFRoZSBsYXN0IHRoaXJ0eSB5ZWFycyBoYXZlIHNlZW4gdGhl
+IGFkb3B0aW9uIG9mIHNldmVyYWwgZGlnaXRhbCBhcHByb2FjaGVzIHRvIHRleHR1YWwgY29sbGF0
+aW9uLCBmcm9tIGhldXJpc3RpY3Mtc3VwcG9ydGVkIENvbGxhdGUgdG8gZnVsbHkgYWxnb3JpdGht
+aWMgSnV4dGEuIFdoYXQgaXMgdGhlIGN1cnJlbnQgc3RhdGUgb2YgdGhlIGFydCBvZiBkaWdpdGFs
+IGNvbGxhdGlvbj8gSG93IGRvIHdlIGFwcGx5IGl0IHRvIG1hbnVzY3JpcHQgdGV4dHM/IERvZXMg
+Q29sbGF0ZVggdHVybiBjb2xsYXRpb24gaW50byBhIHNvbHZlZCBwcm9ibGVtPyBXaGF0IGFyZSB0
+aGUgcHJvc3BlY3RzIGZvciBtdWx0aWxpbmd1YWwgY29sbGF0aW9uPyBJdCBpcyB0aGVzZSBraW5k
+IG9mIHF1ZXN0aW9ucyB0aGF0IHVuZGVybGllIGEgcmVzZWFyY2ggc3VtbWl0IG9uIGNvbGxhdGlv
+biB0byBiZSBoZWxkIGluIE3DvG5zdGVyIG9uIDMgYW5kIDQgT2N0b2JlciAyMDE0LiA8YnI+Cjxi
+cj5UaGUgQ09TVCBBY3Rpb24gSVMxMDA1ICYjMzk7TWVkaW9ldm8gRXVyb3BlbyYjMzk7ICg8YSBo
+cmVmPSJodHRwOi8vd3d3Lm1lZGlvZXZvZXVyb3Blby5vcmcvIj5odHRwOi8vd3d3Lm1lZGlvZXZv
+ZXVyb3Blby5vcmcvPC9hPikgaGFzIGtpbmRseSBvZmZlcmVkIGZ1bmRpbmcgdG8gb3JnYW5pemUg
+dGhpcyBmb2N1c2VkIHJlc2VhcmNoIHN1bW1pdCBvbiAoZGlnaXRhbCkgY29sbGF0aW9uIGZvciBh
+bmNpZW50LCBtZWRpZXZhbCBtYW51c2NyaXB0LCBhbmQgZWFybHkgcHJpbnQgdGV4dHMuIFRoaXMg
+c3VtbWl0IGlzIGtpbmRseSBob3N0ZWQgYnkgdGhlIEluc3RpdHV0ZSBmw7xyIE5ldXRlc3RhbWVu
+dGxpY2hlIFRleHRmb3JzY2h1bmcgKElOVEYpIG9mIHRoZSBXZXN0ZsOkbGlzY2hlIFdpbGhlbG1z
+LVVuaXZlcnNpdMOkdCBpbiBNw7xuc3RlciAoPGEgaHJlZj0iaHR0cDovL2Vnb3JhLnVuaS1tdWVu
+c3Rlci5kZS9pbnRmL2luZGV4X2VuLnNodG1sIj5odHRwOi8vZWdvcmEudW5pLW11ZW5zdGVyLmRl
+L2ludGYvaW5kZXhfZW4uc2h0bWw8L2E+KSwgcmVwcmVzZW50aW5nIGEgd2VhbHRoIG9mIGtub3ds
+ZWRnZSBhbmQgZXhwZXJpZW5jZSBvbiB0aGUgY29sbGF0aW9uIG9mIHdpdG5lc3NlcyBmb3IgdGhl
+IEdyZWVrIE5ldyBUZXN0YW1lbnQuPGJyPgo8YnI+VGhpcyBzdW1taXQgd2lsbCBhbGxvdyB0aGUg
+cGFydGljaXBhbnRzIHRvIGluZm9ybSB0aGVtc2VsdmVzIGFib3V0IHRoZSBpc3N1ZXMsIG1ldGhv
+ZHMsIGFuZCB0b29scyBpbnZvbHZlZCB3aXRoIGNvbGxhdGluZyBvbGRlciB0ZXh0cyBmb3Igc2No
+b2xhcmx5IHB1cnBvc2VzLiBUaGUgc3VtbWl0IHdpbGwgZmVhdHVyZSBzb21lIG9mIHRoZSBtb3N0
+IHByb21pbmVudCBzY2hvbGFycyBpbiB0aGlzIGFyZWEgd2hvIHdpbGwgb2ZmZXIgYW4gb3ZlcnZp
+ZXcgb2Ygc2Nob2xhcmx5IHRoZW9yeSB1bmRlcnBpbm5pbmcgY29sbGF0aW9uLCB0aGUgaGlzdG9y
+eSBvZiBkaWdpdGFsIHN1cHBvcnQgZm9yIHRoaXMgc2Nob2xhcmx5IHRhc2ssIGFuZCB0aGUgcHJh
+eGlzIG9mIGN1cnJlbnQgY29sbGF0aW9uIHRlY2huaXF1ZXMuIFRoZSBzdW1taXQgd2lsbCBhbHNv
+IG9mZmVyIGEgaW50ZW5zaXZlIGhhbmRzLW9uIHRyYWluaW5nIGluIGRpZ2l0YWwgY29sbGF0aW9u
+IGJ5IHJlc2VhcmNoZXIvZGV2ZWxvcGVycyB0aGF0IHdlcmUgaW52b2x2ZWQgaW4gYnVpbGRpbmcg
+Q29sbGF0ZVggKDxhIGhyZWY9Imh0dHA6Ly9jb2xsYXRleC5uZXQiPmh0dHA6Ly9jb2xsYXRleC5u
+ZXQ8L2E+KSwgSnV4dGEgKDxhIGhyZWY9Imh0dHA6Ly93d3cuanV4dGFzb2Z0d2FyZS5vcmcvIj5o
+dHRwOi8vd3d3Lmp1eHRhc29mdHdhcmUub3JnLzwvYT4pLCBhbmQgc2V2ZXJhbCBvdGhlciB0b29s
+cyBmb3Igc2Nob2xhcmx5IGVkaXRpbmcuPGJyPgo8YnI+VGhlIHNlY29uZCBkYXkgb2YgdGhlIHN1
+bW1pdCBmZWF0dXJlcyBhIGRheSBsb25nIGNsaW5pYyBmb3IgcGFydGljaXBhbnRzIHdobyBhcHBs
+eSBjb2xsYXRpb24gaW4gdGhlaXIgc2Nob2xhcmx5IHJlc2VhcmNoLiBXZSBvZmZlciB0aGUgcG9z
+c2liaWxpdHkgZm9yIHBhcnRpY2lwYW50cyB0byBwcmVzZW50IGJvdGggdGhlb3JldGljYWwgYW5k
+IHByYWN0aWNhbCBwcm9ibGVtcyBhbmQgc29sdXRpb25zIGZvciBjb2xsYXRpbmcgb2xkIHRleHRz
+LiBXZSBpbnZpdGUgdGhlbSB0byBzaG93IHRoZWlyIHdvcmssIHRvb2xzLCBwcm9ibGVtcywgbmVl
+ZHMsIGFuZCByZXN1bHRzIG9mIGFwcGxpZWQgY29sbGF0aW9uIGluIHNjaG9sYXJseSBlZGl0aW5n
+LiA8YnI+Cjxicj48YnI+PT0gSE9XIFRPIFBBUlRJQ0lQQVRFID09PGJyPjxicj5UaGlzIHVuaXF1
+ZSByZXNlYXJjaCBzdW1taXQgaXMgb3BlbiBmb3IgcGFydGljaXBhdGlvbiBieSBhbGwgc2Nob2xh
+cnMgYW5kIGRldmVsb3BlcnMgaW52b2x2ZWQgaW4gdGhlIGFwcGxpY2F0aW9uIG9mIChkaWdpdGFs
+KSBjb2xsYXRpb24gb2Ygb2xkZXIgdGV4dHMuIFRoZXJlIGFyZSB0d28gd2F5cyB0byBhdHRlbmQ6
+IGFzIGEgcmVndWxhciBhdHRlbmRlZSBvciBhcyBhIHByZXNlbnRlciBvZiBhIGNvbGxhdGlvbiB1
+c2UgY2FzZSBkdXJpbmcgdGhlIGNsaW5pY3Mgb24gdGhlIHNlY29uZCBkYXkgb2YgdGhlIHJlc2Vh
+cmNoIHN1bW1pdC4gV2UgaGlnaGx5IGVuY291cmFnZSBwYXJ0aWNpcGFudHMgdG8gcHJlc2VudCB0
+aGVpciBjb2xsYXRpb24gcmVsYXRlZCB3b3JrIGR1cmluZyBvbmUgb2YgdGhlIGNsaW5pY3MuIFRv
+IGRvIHNvIHNlbmQgYSBzdGF0ZW1lbnQgb2YgaW50ZXJlc3QgYW5kIHNob3J0IGRlc2NyaXB0aW9u
+IG9mIHlvdXIgcHJvcG9zZWQgY29udHJpYnV0aW9uIHRvIHRoZSBjbGluaWMgKG5vIG1vcmUgdGhh
+biAzMDAgd29yZHMpIHRvIDxhIGhyZWY9Im1haWx0bzpqb3Jpcy52YW4uenVuZGVydEBodXlnZW5z
+LmtuYXcubmwiPmpvcmlzLnZhbi56dW5kZXJ0QGh1eWdlbnMua25hdy5ubDwvYT4uIERlYWRsaW5l
+IG9mIHN1Ym1pc3Npb24gaXMgQXVndXN0IDEsIDIwMTQuIDxicj4KPGJyPkFzIHdlIHNlZWsgdG8g
+ZW5jb3VyYWdlIHRoZSBwYXJ0aWNpcGF0aW9uIG9mIGVhcmx5LXN0YWdlIHJlc2VhcmNoZXJzIChQ
+aEQgc3R1ZGVudHMgb3IgcG9zdC1kb2N0b3JhbCByZXNlYXJjaGVycyksIGEgbGltaXRlZCBudW1i
+ZXIgb2YgYnVyc2FyaWVzIGFyZSBhdmFpbGFibGUgdG8gY292ZXIgdHJhdmVsIGV4cGVuc2VzLiBJ
+ZiB5b3Ugd2lzaCB0byBhcHBseSBmb3Igb25lIG9mIHRoZXNlLCBwbGVhc2Ugc3VibWl0IGFuIGFk
+ZGl0aW9uYWwgc3RhdGVtZW50IG1vdGl2YXRpbmcgeW91ciBhcHBsaWNhdGlvbiAobWFpbiBjcml0
+ZXJpYSBhcmUgaW1wb3J0YW5jZSBvZiB0aGlzIHdvcmtzaG9wIGZvciB5b3VyIGN1cnJlbnQgcmVz
+ZWFyY2ggYW5kIGFic2VuY2Ugb2Ygb3RoZXIgcG9zc2libGUgZnVuZGluZykuIEFic3RyYWN0cyBh
+bmQgYXBwbGljYXRpb25zIGZvciBidXJzYXJpZXMgd2lsbCBiZSBldmFsdWF0ZWQgYnkgdGhlIHNj
+aWVudGlmaWMgY29tbWl0dGVlLiBTdWNjZXNzZnVsIGNhbmRpZGF0ZXMgd2lsbCBiZSBub3RpZmll
+ZCBvZiBhY2NlcHRhbmNlIG9uIEF1Z3VzdCAxNSwgMjAxNC4gUGFydGljaXBhbnRzIHdpbGwgYmUg
+b2ZmZXJlZCB0cmF2ZWwgcmVpbWJ1cnNlbWVudHMgYWNjb3JkaW5nIHRvIENPU1QgcnVsZXMgYW5k
+IGxpbWl0YXRpb25zIChpLmUuIHJlaW1idXJzZW1lbnQgb2YgZmxpZ2h0L3RyYXZlbCBhbmQgYSAx
+MDAgRXVybyBsb2RnaW5nIGFuZCBzdXN0ZW5hbmNlIGZlZSBwZXIgZGF5IG9mIHVwIHRvIGEgbWF4
+aW11bSBvZiB0aHJlZSBkYXlzKS48YnI+Cjxicj5UbyByZWdpc3RlciBhcyBhIHJlZ3VsYXIgYXR0
+ZW5kZWUsIHBsZWFzZSBnbyB0bzogPGEgaHJlZj0iaHR0cDovL2NvbGxhdGV4Lm5ldC9yZXNlYXJj
+aHN1bW1pdCI+aHR0cDovL2NvbGxhdGV4Lm5ldC9yZXNlYXJjaHN1bW1pdDwvYT4gLiBSZWdpc3Ry
+YXRpb24gY2xvc2VzIG9uIFNlcHRlbWJlciAxNSwgMjAxNC48YnI+PGJyPjxicj49PSBQUk9HUkFN
+IChzdWJqZWN0IHRvIGNoYW5nZSkgPT08YnI+Cjxicj49IERheSAxLCBGcmlkYXkgMyBPY3RvYmVy
+IDIwMTQgPTxicj48YnI+MTAuMDAtMTAuMzDCoMKgwqDCoMKgwqAgwqA8YnI+Q2Fyb2xpbmUgTWFj
+w6kgKEtVIExldXZlbik8YnI+JnF1b3Q7Q29sbGF0aW9ucyB2cyBUcmFuc2NyaXB0aW9uc+KAlGFk
+dmFudGFnZXMgYW5kIHNob3J0Y29taW5ncy4gQW5kIHdoYXQgd2Ugd2FudCB0byBkbyB3aXRoIGNv
+bGxhdGlvbnMmcXVvdDs8YnI+PGJyPjEwLjMwLTExLjMwwqDCoMKgwqDCoMKgIMKgPGJyPgpQZXRl
+ciBSb2JpbnNvbiAoVW5pdmVyc2l0eSBvZiBTYXNrYXRjaGV3YW4gU2Fza2F0b29uKTxicj4mcXVv
+dDtNaXNjb25jZXB0aW9ucyBvZiBTY2hvbGFybHkgQ29sbGF0aW9uIGluIERpZ2l0YWwgQ29sbGF0
+aW9uJnF1b3Q7PGJyPjxicj4xMS4zMC0xMi4xNcKgwqDCoMKgwqDCoCDCoDxicj5LbGF1cyBXYWNo
+dGVsICZhbXA7IE1hcmllLUx1aXNlIExha21hbm4gKElOVEYpIDxicj4mcXVvdDtQcmF4aXMgb2Yg
+Q29sbGF0aW9uOiBUaGUgR3JlZWsgTmV3IFRlc3RhbWVudCBQcm9qZWN0JnF1b3Q7PGJyPgo8YnI+
+MTIuMTUtMTMuMDA8YnI+QmFyYmFyYSBCb3JkYWxlam8gKEtVIExldXZlbikgPGJyPiZxdW90O1By
+YXhpcyBvZiBDb2xsYXRpb246IFRoZSBDYW50ZXJidXJ5IFRhbGVzIFByb2plY3QmcXVvdDs8YnI+
+PGJyPjEzLjAwLTE0LjAwwqDCoMKgwqDCoMKgwqAgwqA8YnI+QnJlYWs8YnI+PGJyPjE0LjAwLTE0
+LjMwPGJyPkpvcmlzIHZhbiBadW5kZXJ0IChIdXlnZW5zIEluc3RpdHV0ZSBmb3IgdGhlIEhpc3Rv
+cnkgb2YgdGhlIE5ldGhlcmxhbmRzKTxicj4KJnF1b3Q7Q29kZSwgQ29sbGF0aW9uLCBJbnRlcnBy
+ZXRhdGlvbiZxdW90Ozxicj48YnI+MTQuMzAtMTUuMDDCoMKgwqDCoMKgwqDCoCDCoDxicj5Sb25h
+bGQgRGVra2VyIChIdXlnZW5zIEluc3RpdHV0ZSBmb3IgdGhlIEhpc3Rvcnkgb2YgdGhlIE5ldGhl
+cmxhbmRzKTxicj4mcXVvdDtEaWdpdGFsIENvbGxhdGlvbjogTW9kZWwgYW5kIFRoZW9yeSZxdW90
+Ozxicj48YnI+MTUuMDAtMTYuMDDCoMKgwqDCoMKgwqDCoCDCoDxicj4KSGFuZHMgT246IFdvcmtp
+bmcgd2l0aCBDb2xsYXRlWDxicj4oSW5zdHJ1Y3RvcnM6IEdyZWdvciBNaWRkZWxsLCBSb25hbGQg
+RGVra2VyLCBUYXJhIEFuZHJld3MpPGJyPjxicj4xNi4wMC0xNy4wMMKgwqDCoMKgwqDCoMKgIMKg
+PGJyPkhhbmRzIE9uOiBJbnRlcmZhY2luZyB3aXRoIENvbGxhdGVY4oCUV2ViIHNlcnZpY2UsIEp1
+eHRhLCBuQ3JpdGljLCBlWGlzdC1kYjxicj4oSW5zdHJ1Y3RvcnM6IEdyZWdvciBNaWRkZWxsLCBS
+b25hbGQgRGVra2VyLCBUYXJhIEFuZHJld3MsIExlaWYtSsO2cmFuIE9sc3Nvbik8YnI+Cjxicj48
+YnI+PSBEYXkgMiwgU2F0dXJkYXkgNCBPY3RvYmVyIDIwMTQgPTxicj48YnI+MTAuMDAtMTMuMDDC
+oMKgwqDCoMKgwqDCoCDCoDxicj5DbGluaWMgSTogUHJvamVjdHMgYnkgUGFydGljaXBhbnRzPGJy
+Pjxicj4xMy4wMC0xNC4wMCA8YnI+QnJlYWs8YnI+PGJyPjE0LjAwLTE2LjAwwqDCoMKgwqDCoMKg
+wqAgwqA8YnI+Q2xpbmljIElJOiBQcm9qZWN0cyBieSBQYXJ0aWNpcGFudHM8YnI+PGJyPjE2LjAw
+LTE3LjAwwqDCoMKgwqDCoMKgwqAgwqA8YnI+ClByb2JsZW1zIG9mIENvbGxhdGlvbiDigJMgRXhw
+bG9yYXRpdmUgYW5kIGNvbmNsdWRpbmcgc2Vzc2lvbiBvbiBjdXJyZW50IGFuZCBmdXR1cmUgbmVl
+ZHMgb2YgZGlnaXRhbCBzdXBwb3J0IGZvciBzY2hvbGFybHkgY29sbGF0aW9uPGJyPjxicj48YnI+
+PT0gTU9SRSBJTkZPUk1BVElPTiA9PTxicj48YnI+QW55IGlucXVpcmllcyBhYm91dCB0aGlzIHJl
+c2VhcmNoIHN1bW1pdCBtYXkgYmUgZGlyZWN0ZWQgdG8gPGEgaHJlZj0ibWFpbHRvOmpvcmlzLnZh
+bi56dW5kZXJ0QGh1eWdlbnMua25hdy5ubCI+am9yaXMudmFuLnp1bmRlcnRAaHV5Z2Vucy5rbmF3
+Lm5sPC9hPjxicj4KPGJyPjxicj4tLTwvZGl2Pgo=

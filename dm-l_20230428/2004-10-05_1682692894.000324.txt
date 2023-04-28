@@ -1,0 +1,79 @@
+Subject: Re: [dm-l] Character reference conversions: help?That's what occurred to me immediately. Should work with any=20
+Unicode-based browser. UTF-8 is the more compact 8-bit Unicode=20
+Transformation Format, which encodes each Unicode character in one or=20
+more octets, using basically one octet in ASCII encoding for the most=20
+common Latin characters and so saving space or width.MurrayRoberto Rosselli Del Turco wrote:>Digital Medievalist Journal (Inaugural Issue Fall 2004). Call for papers: ht=
+tp://www.digitalmedievalist.org/cfp.htm
+>----------------
+>Il giorno mar, 05-10-2004 alle 12:53 -0600, Daniel O'Donnell ha scritto:
+> =20
+>
+>>Digital Medievalist Journal (Inaugural Issue Fall 2004). Call for papers: h=
+ttp://www.digitalmedievalist.org/cfp.htm
+>>----------------
+>>Hello all,
+>>	I need some advice on converting Unicode character references.=20
+>>Currently, am encoding character references in what I believe is UCS-4=20
+>>format (Universal Character Set). This means they look like this in my=20
+>>source files:
+>>
+>>&#x1090;
+>>
+>>I want to import xhtml documents into Open Office, which seems to need=20
+>>UTF-8 encoding (I don't know what UTF stands for). Does anybody know of=20
+>>a filter that might do the conversions for me? Or have advice on using=20
+>>open office (Windows version) with UCS-4 encoding?
+>>   =20
+>>
+>
+>Can't you just copy and paste your documents from
+>Mozilla/Firefox/whatever into OOo? I know, this looks too simple to be
+>true ... but I just tried[1] and it works!
+>
+>Ciao
+>
+>[1] Picked up an xhtml file, inserted random decimal entities, loaded it
+>in Epiphany (based on Mozilla's engine), copied text and pasted it into
+>a unicode text editor: I ended up with unicode characters.
+>
+> =20
+>PCFET0NUWVBFIGh0bWwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMDEgVHJhbnNpdGlvbmFs
+Ly9FTiI+CjxodG1sPgo8aGVhZD4KICA8bWV0YSBjb250ZW50PSJ0ZXh0L2h0bWw7Y2hhcnNldD1J
+U08tODg1OS0xIiBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiPgogIDx0aXRsZT48L3RpdGxlPgo8
+L2hlYWQ+Cjxib2R5IGJnY29sb3I9IiNmZmZmZmYiIHRleHQ9IiMwMDAwMDAiPgpUaGF0J3Mgd2hh
+dCBvY2N1cnJlZCB0byBtZSBpbW1lZGlhdGVseS4gU2hvdWxkIHdvcmsgd2l0aCBhbnkKVW5pY29k
+ZS1iYXNlZCBicm93c2VyLiBVVEYtOCBpcyB0aGUgbW9yZSBjb21wYWN0IDgtYml0IFVuaWNvZGUK
+VHJhbnNmb3JtYXRpb24gRm9ybWF0LCB3aGljaCBlbmNvZGVzIGVhY2ggVW5pY29kZSBjaGFyYWN0
+ZXIgaW4gb25lIG9yCm1vcmUgb2N0ZXRzLCB1c2luZyBiYXNpY2FsbHkgb25lIG9jdGV0IGluIEFT
+Q0lJIGVuY29kaW5nIGZvciB0aGUgbW9zdApjb21tb24gTGF0aW4gY2hhcmFjdGVycyBhbmQgc28g
+c2F2aW5nIHNwYWNlIG9yIHdpZHRoLjxicj4KPGJyPgpNdXJyYXk8YnI+Cjxicj4KUm9iZXJ0byBS
+b3NzZWxsaSBEZWwgVHVyY28gd3JvdGU6CjxibG9ja3F1b3RlIGNpdGU9Im1pZDEwOTcwMDQ1NTAu
+NzA1Mi41LmNhbWVsQGxva2kuZ3JlbmRlbHNtZXJlIgogdHlwZT0iY2l0ZSI+CiAgPHByZSB3cmFw
+PSIiPkRpZ2l0YWwgTWVkaWV2YWxpc3QgSm91cm5hbCAoSW5hdWd1cmFsIElzc3VlIEZhbGwgMjAw
+NCkuIENhbGwgZm9yIHBhcGVyczogPGEgY2xhc3M9Im1vei10eHQtbGluay1mcmVldGV4dCIgaHJl
+Zj0iaHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnL2NmcC5odG0iPmh0dHA6Ly93d3cu
+ZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy9jZnAuaHRtPC9hPgotLS0tLS0tLS0tLS0tLS0tCklsIGdp
+b3JubyBtYXIsIDA1LTEwLTIwMDQgYWxsZSAxMjo1MyAtMDYwMCwgRGFuaWVsIE8nRG9ubmVsbCBo
+YSBzY3JpdHRvOgogIDwvcHJlPgogIDxibG9ja3F1b3RlIHR5cGU9ImNpdGUiPgogICAgPHByZSB3
+cmFwPSIiPkRpZ2l0YWwgTWVkaWV2YWxpc3QgSm91cm5hbCAoSW5hdWd1cmFsIElzc3VlIEZhbGwg
+MjAwNCkuIENhbGwgZm9yIHBhcGVyczogPGEgY2xhc3M9Im1vei10eHQtbGluay1mcmVldGV4dCIg
+aHJlZj0iaHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnL2NmcC5odG0iPmh0dHA6Ly93
+d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy9jZnAuaHRtPC9hPgotLS0tLS0tLS0tLS0tLS0tCkhl
+bGxvIGFsbCwKCUkgbmVlZCBzb21lIGFkdmljZSBvbiBjb252ZXJ0aW5nIFVuaWNvZGUgY2hhcmFj
+dGVyIHJlZmVyZW5jZXMuIApDdXJyZW50bHksIGFtIGVuY29kaW5nIGNoYXJhY3RlciByZWZlcmVu
+Y2VzIGluIHdoYXQgSSBiZWxpZXZlIGlzIFVDUy00IApmb3JtYXQgKFVuaXZlcnNhbCBDaGFyYWN0
+ZXIgU2V0KS4gVGhpcyBtZWFucyB0aGV5IGxvb2sgbGlrZSB0aGlzIGluIG15IApzb3VyY2UgZmls
+ZXM6CgomYW1wOyN4MTA5MDsKCkkgd2FudCB0byBpbXBvcnQgeGh0bWwgZG9jdW1lbnRzIGludG8g
+T3BlbiBPZmZpY2UsIHdoaWNoIHNlZW1zIHRvIG5lZWQgClVURi04IGVuY29kaW5nIChJIGRvbid0
+IGtub3cgd2hhdCBVVEYgc3RhbmRzIGZvcikuIERvZXMgYW55Ym9keSBrbm93IG9mIAphIGZpbHRl
+ciB0aGF0IG1pZ2h0IGRvIHRoZSBjb252ZXJzaW9ucyBmb3IgbWU/IE9yIGhhdmUgYWR2aWNlIG9u
+IHVzaW5nIApvcGVuIG9mZmljZSAoV2luZG93cyB2ZXJzaW9uKSB3aXRoIFVDUy00IGVuY29kaW5n
+PwogICAgPC9wcmU+CiAgPC9ibG9ja3F1b3RlPgogIDxwcmUgd3JhcD0iIj48IS0tLS0+CkNhbid0
+IHlvdSBqdXN0IGNvcHkgYW5kIHBhc3RlIHlvdXIgZG9jdW1lbnRzIGZyb20KTW96aWxsYS9GaXJl
+Zm94L3doYXRldmVyIGludG8gT09vPyBJIGtub3csIHRoaXMgbG9va3MgdG9vIHNpbXBsZSB0byBi
+ZQp0cnVlIC4uLiBidXQgSSBqdXN0IHRyaWVkWzFdIGFuZCBpdCB3b3JrcyEKCkNpYW8KClsxXSBQ
+aWNrZWQgdXAgYW4geGh0bWwgZmlsZSwgaW5zZXJ0ZWQgcmFuZG9tIGRlY2ltYWwgZW50aXRpZXMs
+IGxvYWRlZCBpdAppbiBFcGlwaGFueSAoYmFzZWQgb24gTW96aWxsYSdzIGVuZ2luZSksIGNvcGll
+ZCB0ZXh0IGFuZCBwYXN0ZWQgaXQgaW50bwphIHVuaWNvZGUgdGV4dCBlZGl0b3I6IEkgZW5kZWQg
+dXAgd2l0aCB1bmljb2RlIGNoYXJhY3RlcnMuCgogIDwvcHJlPgo8L2Jsb2NrcXVvdGU+CjwvYm9k
+eT4KPC9odG1sPgo=

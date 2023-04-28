@@ -1,0 +1,37 @@
+Subject:> Not to forget of course the problem of accessibility and longevity. If
+> digital editions are indeed defined by the fact that they exploit the
+> possibilities of digital media, then it is problematic to say the least
+> that we have not really solved the issue that our current digital editions
+> are very much tied to particular versions of software/operating
+> systems/browers/devices.
+>
+> It is not enough that we can say that the underlying data is safe because
+> it is encoded in formats that will last (like XML TEI), because I don’t
+> think we can say the same for the functionality which we build on top of
+> our data. Unless one has both the technical skill and the resources to
+> keep updating the interface and architecture of one’s online editions
+> there will come a point in the not so distant future when things will stop
+> working and all we are left with are the data.I'm tempted to answer that the data *is* the edition, and that the
+presentation software's task is to "extract" it from the data so that the
+user can view it, but of course that's only a technicality and you're
+right: in the end, how the data is presented to the user is what matters,
+and of course if that isn't possible anymore from the user's point of view
+there's no edition at all (and I wouldn't really disagree).Fortunately there's a push to use open standards not only in creating the
+edition data (TEI XML), but also in visualizing it: the fact that almost
+all new digital editions are 100% web-based makes it sort of inevitable,
+although there are catches. I will be attending this workshop next month:http://easytools.huygens.knaw.nl/?page_id=18and one of the points I'll try to make is that we have several layers of
+software involved when creating an edition browsing tool: open standards
+like (X)HTML+CSS, which might be considered as safe as TEI XML when it
+comes to longevity; open source "de facto" standards such as the jQuery
+library, which are so widespread that they will forcefully retain
+compatibility for the foreseeable future; open source software like eXist;
+and a lively, somewhat wild open source small programs developed on the
+basis of the above (f.i. jQuery plugins). In my own edition viewing
+software I'm trying[1] to stay on top of this stack as much as possible,
+and going "down" only when absolutely necessary (f.i. using a plugin when
+the jQuery library doesn't allow a specific functionality). It's a tricky
+balance you want to have between standard compliance and sophisticated
+features, some of the latter being expected in a modern digital edition.R[1] More precisely, the talented young developers doing the actual
+development are trying to do that, since I can barely program my TV
+recorder XD
+--===============3145728920453912357==--

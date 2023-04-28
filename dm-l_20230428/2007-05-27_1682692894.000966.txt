@@ -1,0 +1,104 @@
+Subject: [dm-l] FW: Extreme pre-conference workshop on overlap
+This is a very technical conference, however it will be of interest to some o=
+n this list. Members and subscribers of the Text Encoding Initiative (TEI) ar=
+e entitled to a discount on the registration.-dan-----Original Message-----
+From: TEI Overlapping Markup SIG discussion list on behalf of Syd Bauman
+Sent: Sun 27/05/2007 6:40 AM
+_redacted_(a)listserv.brown.edu
+Subject: Extreme pre-conference workshop on overlap
+=20
+What:   International Workshop on Markup of Overlapping Structures=20        XML and SGML have revolutionized the representation of
+        structured information, but not all information structures
+        map
+        easily into systems of hierarchically nested elements. Markup
+        of overlapping structures is a perennially hot topic,
+        reinvented and reimagined as often as it is solved.        This full-day workshop will bring together the proponents of
+        some of the major proposals for markup, representation,
+        extraction, display, and validation of semantic overlap to
+        summarize the systems they are developing and discuss topics
+        of common interest. A morning of formal presentations will be
+        followed by an afternoon of free-ranging discussion.When:   Monday, 06 August 2007=20
+        the day before Extreme Markup Languages 2007,
+        "The Markup Theory and Practice Conference"Where:  Hotel Europa, Montreal, Canada (the Extreme hotel)=20Details: http://www.extrememarkup.com/extreme/overlap/
+Confirmed speakers and topics include:=20* Alexander Dekhtyar, California Polytechnic State University, on the
+  Concurrent XML and the ARCHway Project* Steven DeRose, National Center for Biotechnology Information
+  (National Institutes of Health), on Trojan Markup and other
+  empty-element techniques* Patrick Durusau, Snowfall Software, on Topic Mapping overlap* Wendell Piez, Mulberry Technologies, on LMNL (Layered Markup and
+  Annotation Language)* C. M. Sperberg-McQueen, World Wide Web Consortium, on TexMecs and
+  Goddag structures* Andreas Witt, University of Tubingen, on Multiple Annotations and
+  XConcurRegistration fee: $125 per person; there is a 20% discount for TEI-C
+members and subscribers, as well as for members of IDEAlliance,
+OASIS,
+SC34, & W3C, and for full-time academics & government employees)Registration and updated information at
+http://www.extrememarkup.com/extreme/overlap/index.htmlThere's Nothing so Theoretical as a Good Practice
+--===============7598630832799278700==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"
+MIME-Version: 1.0PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDMuMi8vRU4iPgo8SFRNTD4K
+PEhFQUQ+CjxNRVRBIEhUVFAtRVFVSVY9IkNvbnRlbnQtVHlwZSIgQ09OVEVOVD0idGV4dC9odG1s
+OyBjaGFyc2V0PWlzby04ODU5LTEiPgo8TUVUQSBOQU1FPSJHZW5lcmF0b3IiIENPTlRFTlQ9Ik1T
+IEV4Y2hhbmdlIFNlcnZlciB2ZXJzaW9uIDYuNS43NjUyLjI0Ij4KPFRJVExFPkZXOiBFeHRyZW1l
+IHByZS1jb25mZXJlbmNlIHdvcmtzaG9wIG9uIG92ZXJsYXA8L1RJVExFPgo8L0hFQUQ+CjxCT0RZ
+Pgo8IS0tIENvbnZlcnRlZCBmcm9tIHRleHQvcGxhaW4gZm9ybWF0IC0tPgo8QlI+Cgo8UD48Rk9O
+VCBTSVpFPTI+VGhpcyBpcyBhIHZlcnkgdGVjaG5pY2FsIGNvbmZlcmVuY2UsIGhvd2V2ZXIgaXQg
+d2lsbCBiZSBvZiBpbnRlcmVzdCB0byBzb21lIG9uIHRoaXMgbGlzdC4gTWVtYmVycyBhbmQgc3Vi
+c2NyaWJlcnMgb2YgdGhlIFRleHQgRW5jb2RpbmcgSW5pdGlhdGl2ZSAoVEVJKSBhcmUgZW50aXRs
+ZWQgdG8gYSBkaXNjb3VudCBvbiB0aGUgcmVnaXN0cmF0aW9uLjxCUj4KPEJSPgotZGFuPEJSPgo8
+QlI+Ci0tLS0tT3JpZ2luYWwgTWVzc2FnZS0tLS0tPEJSPgpGcm9tOiBURUkgT3ZlcmxhcHBpbmcg
+TWFya3VwIFNJRyBkaXNjdXNzaW9uIGxpc3Qgb24gYmVoYWxmIG9mIFN5ZCBCYXVtYW48QlI+ClNl
+bnQ6IFN1biAyNy8wNS8yMDA3IDY6NDAgQU08QlI+ClRvOiBURUktT0wtU0lHQGxpc3RzZXJ2LmJy
+b3duLmVkdTxCUj4KU3ViamVjdDogRXh0cmVtZSBwcmUtY29uZmVyZW5jZSB3b3Jrc2hvcCBvbiBv
+dmVybGFwPEJSPgo8QlI+CldoYXQ6Jm5ic3A7Jm5ic3A7IEludGVybmF0aW9uYWwgV29ya3Nob3Ag
+b24gTWFya3VwIG9mIE92ZXJsYXBwaW5nIFN0cnVjdHVyZXM8QlI+CjxCUj4KJm5ic3A7Jm5ic3A7
+Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7IFhNTCBhbmQgU0dNTCBoYXZlIHJldm9sdXRp
+b25pemVkIHRoZSByZXByZXNlbnRhdGlvbiBvZjxCUj4KJm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7
+Jm5ic3A7Jm5ic3A7Jm5ic3A7IHN0cnVjdHVyZWQgaW5mb3JtYXRpb24sIGJ1dCBub3QgYWxsIGlu
+Zm9ybWF0aW9uIHN0cnVjdHVyZXM8QlI+CiZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZu
+YnNwOyZuYnNwOyBtYXA8QlI+CiZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZu
+YnNwOyBlYXNpbHkgaW50byBzeXN0ZW1zIG9mIGhpZXJhcmNoaWNhbGx5IG5lc3RlZCBlbGVtZW50
+cy4gTWFya3VwPEJSPgombmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsg
+b2Ygb3ZlcmxhcHBpbmcgc3RydWN0dXJlcyBpcyBhIHBlcmVubmlhbGx5IGhvdCB0b3BpYyw8QlI+
+CiZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyByZWludmVudGVkIGFu
+ZCByZWltYWdpbmVkIGFzIG9mdGVuIGFzIGl0IGlzIHNvbHZlZC48QlI+CjxCUj4KJm5ic3A7Jm5i
+c3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7IFRoaXMgZnVsbC1kYXkgd29ya3Nob3Ag
+d2lsbCBicmluZyB0b2dldGhlciB0aGUgcHJvcG9uZW50cyBvZjxCUj4KJm5ic3A7Jm5ic3A7Jm5i
+c3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7IHNvbWUgb2YgdGhlIG1ham9yIHByb3Bvc2FscyBm
+b3IgbWFya3VwLCByZXByZXNlbnRhdGlvbiw8QlI+CiZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZu
+YnNwOyZuYnNwOyZuYnNwOyBleHRyYWN0aW9uLCBkaXNwbGF5LCBhbmQgdmFsaWRhdGlvbiBvZiBz
+ZW1hbnRpYyBvdmVybGFwIHRvPEJSPgombmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJz
+cDsmbmJzcDsgc3VtbWFyaXplIHRoZSBzeXN0ZW1zIHRoZXkgYXJlIGRldmVsb3BpbmcgYW5kIGRp
+c2N1c3MgdG9waWNzPEJSPgombmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJz
+cDsgb2YgY29tbW9uIGludGVyZXN0LiBBIG1vcm5pbmcgb2YgZm9ybWFsIHByZXNlbnRhdGlvbnMg
+d2lsbCBiZTxCUj4KJm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7IGZv
+bGxvd2VkIGJ5IGFuIGFmdGVybm9vbiBvZiBmcmVlLXJhbmdpbmcgZGlzY3Vzc2lvbi48QlI+CjxC
+Uj4KV2hlbjombmJzcDsmbmJzcDsgTW9uZGF5LCAwNiBBdWd1c3QgMjAwNzxCUj4KJm5ic3A7Jm5i
+c3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7IHRoZSBkYXkgYmVmb3JlIEV4dHJlbWUg
+TWFya3VwIExhbmd1YWdlcyAyMDA3LDxCUj4KJm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7
+Jm5ic3A7Jm5ic3A7ICZxdW90O1RoZSBNYXJrdXAgVGhlb3J5IGFuZCBQcmFjdGljZSBDb25mZXJl
+bmNlJnF1b3Q7PEJSPgo8QlI+CldoZXJlOiZuYnNwOyBIb3RlbCBFdXJvcGEsIE1vbnRyZWFsLCBD
+YW5hZGEgKHRoZSBFeHRyZW1lIGhvdGVsKTxCUj4KPEJSPgpEZXRhaWxzOiA8QSBIUkVGPSJodHRw
+Oi8vd3d3LmV4dHJlbWVtYXJrdXAuY29tL2V4dHJlbWUvb3ZlcmxhcC8iPmh0dHA6Ly93d3cuZXh0
+cmVtZW1hcmt1cC5jb20vZXh0cmVtZS9vdmVybGFwLzwvQT48QlI+CjxCUj4KPEJSPgpDb25maXJt
+ZWQgc3BlYWtlcnMgYW5kIHRvcGljcyBpbmNsdWRlOjxCUj4KPEJSPgoqIEFsZXhhbmRlciBEZWto
+dHlhciwgQ2FsaWZvcm5pYSBQb2x5dGVjaG5pYyBTdGF0ZSBVbml2ZXJzaXR5LCBvbiB0aGU8QlI+
+CiZuYnNwOyBDb25jdXJyZW50IFhNTCBhbmQgdGhlIEFSQ0h3YXkgUHJvamVjdDxCUj4KPEJSPgoq
+IFN0ZXZlbiBEZVJvc2UsIE5hdGlvbmFsIENlbnRlciBmb3IgQmlvdGVjaG5vbG9neSBJbmZvcm1h
+dGlvbjxCUj4KJm5ic3A7IChOYXRpb25hbCBJbnN0aXR1dGVzIG9mIEhlYWx0aCksIG9uIFRyb2ph
+biBNYXJrdXAgYW5kIG90aGVyPEJSPgombmJzcDsgZW1wdHktZWxlbWVudCB0ZWNobmlxdWVzPEJS
+Pgo8QlI+CiogUGF0cmljayBEdXJ1c2F1LCBTbm93ZmFsbCBTb2Z0d2FyZSwgb24gVG9waWMgTWFw
+cGluZyBvdmVybGFwPEJSPgo8QlI+CiogV2VuZGVsbCBQaWV6LCBNdWxiZXJyeSBUZWNobm9sb2dp
+ZXMsIG9uIExNTkwgKExheWVyZWQgTWFya3VwIGFuZDxCUj4KJm5ic3A7IEFubm90YXRpb24gTGFu
+Z3VhZ2UpPEJSPgo8QlI+CiogQy4gTS4gU3BlcmJlcmctTWNRdWVlbiwgV29ybGQgV2lkZSBXZWIg
+Q29uc29ydGl1bSwgb24gVGV4TWVjcyBhbmQ8QlI+CiZuYnNwOyBHb2RkYWcgc3RydWN0dXJlczxC
+Uj4KPEJSPgoqIEFuZHJlYXMgV2l0dCwgVW5pdmVyc2l0eSBvZiBUdWJpbmdlbiwgb24gTXVsdGlw
+bGUgQW5ub3RhdGlvbnMgYW5kPEJSPgombmJzcDsgWENvbmN1cjxCUj4KPEJSPgpSZWdpc3RyYXRp
+b24gZmVlOiAkMTI1IHBlciBwZXJzb247IHRoZXJlIGlzIGEgMjAlIGRpc2NvdW50IGZvciBURUkt
+QzxCUj4KbWVtYmVycyBhbmQgc3Vic2NyaWJlcnMsIGFzIHdlbGwgYXMgZm9yIG1lbWJlcnMgb2Yg
+SURFQWxsaWFuY2UsPEJSPgpPQVNJUyw8QlI+ClNDMzQsICZhbXA7IFczQywgYW5kIGZvciBmdWxs
+LXRpbWUgYWNhZGVtaWNzICZhbXA7IGdvdmVybm1lbnQgZW1wbG95ZWVzKTxCUj4KPEJSPgpSZWdp
+c3RyYXRpb24gYW5kIHVwZGF0ZWQgaW5mb3JtYXRpb24gYXQ8QlI+CjxBIEhSRUY9Imh0dHA6Ly93
+d3cuZXh0cmVtZW1hcmt1cC5jb20vZXh0cmVtZS9vdmVybGFwL2luZGV4Lmh0bWwiPmh0dHA6Ly93
+d3cuZXh0cmVtZW1hcmt1cC5jb20vZXh0cmVtZS9vdmVybGFwL2luZGV4Lmh0bWw8L0E+PEJSPgo8
+QlI+ClRoZXJlJ3MgTm90aGluZyBzbyBUaGVvcmV0aWNhbCBhcyBhIEdvb2QgUHJhY3RpY2U8QlI+
+CjxCUj4KPC9GT05UPgo8L1A+Cgo8L0JPRFk+CjwvSFRNTD4=

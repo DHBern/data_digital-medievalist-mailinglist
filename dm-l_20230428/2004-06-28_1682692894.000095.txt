@@ -1,0 +1,47 @@
+Subject: Multiple Stylesheets (was Re: [dm-l] Hacks: an example)So is the feeling that providing, say, a stylesheet that handles the 
+most important visually impaired demands (e.g. underlining and whatnot) 
+is a good idea? Or should that also be left up to users, who may have 
+unusual needs and well-developed personal stylesheets?Roberto Rosselli Del Turco wrote:>Il lun, 2004-06-28 alle 17:58, Jeffrey Fisher ha scritto:
+>  
+>
+>>On Monday, June 28, 2004, at 10:34 AM, Daniel O'Donnell wrote:
+>>
+>>    
+>>
+>>> I am beginning to wonder if it is not better, however, to design a 
+>>>sheet to the standard, and then allow users of MSIE to choose a 
+>>>simpler sheet if some effect doesn't work well in their browser. 
+>>>Comments?
+>>>      
+>>>
+>>i'm all in favor of user choice, as long as it doesn't get confusing. 
+>>just remember that most users will use whatever you've got set as the 
+>>default. i would just rather see user choice for the sake of the users 
+>>than users having the choice of fixing their browser's poor 
+>>implementation of standards.
+>>    
+>>
+>
+>I fully agree. Leaving the users a "choice", in this case, means that
+>the developer doesn't dare make a choice himself. Good user interface
+>design often simply means choosing sensible defaults, and not bothering
+>the user with the notion of different stylesheets for different, non
+>standard complying, browsers. In an ideal world, at least ... :)
+>
+>I've heard that MS finally decided to revive the IE development group,
+>and that the main developer has shown some willingness to listen to
+>suggestions, provided that they're not as generic as "better compliance
+>to web standards": I wonder why he chose this particular example! 
+>
+>Ciao
+>
+>  
+>-- 
+Daniel Paul O'Donnell, PhD
+Associate Professor of English
+University of Lethbridge
+Lethbridge AB T1K 3M4
+Tel. (403) 329-2377
+Fax. (403) 382-7191
+_redacted_(a)uleth.ca>
+Home Page <http://people.uleth.ca/~daniel.odonnell/>

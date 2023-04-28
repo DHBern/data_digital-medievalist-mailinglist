@@ -1,0 +1,62 @@
+Subject: Re: [dm-l] Are markup languages obsolete?On Wed, 2005-22-06 at 00:20 +0200, Peter Boot wrote:
+> Hi,
+> 
+> I do not believe that at present there exist many alternatives to 
+> something very much like XML/TEI for creating a true digital edition. A 
+> facsimile is nice to have, but no substitute for a true edition. What 
+> you lose is: ease of reading for all but specialists, searching, text 
+> manipulation, selection based on specialised tags for transcription 
+> data, etc. (But this goes without saying, surely?)This is certainly what I would say, and even more your point below,
+since I think the discipline required is extremely useful and
+instructive. The counter argument might be, however, that "editing" is
+important alongside facsimiles, but not necessarily digital editing, and
+not necessarily complicated markup. While you probably would lose text
+manipulation and selection based on specialised tags in an HTML edition,
+for example, you'd retain searchability and core editorial features like
+interpretation of data.I'm playing the devil's advocate obviously (and trying not to turn into
+a troll!).> I also believe that looking at your texts from a markup perspective 
+> requires attention to both structure and to detail, which makes it a 
+> very instructive activity.I think this is superb reason for structural markup, and is certainly
+one of the biggest reasons I find it useful. But when I make this
+argument people who aren't already convinced seem less than impressed
+often.Repurposability (if that's a word) is another strong argument. I often
+think that may be the real "selling point": if you are going to
+digitise, you may as well do it right so you can pump out your work in
+various media and update it easily as needed.-d
+> Peter
+> 
+> Daniel Paul O'Donnell wrote:
+> 
+> > Hi all,
+> > 	As some of you know, I write a column on electonica medievalia for
+> > Heroic Age, a superb online journal in its 8th year.
+> > 	My next column is due soon, and while I was originally planning to
+> > write on TEI P5, something that came up on Medtext has sat in my head
+> > for the last several weeks: it was an email from Judith Bolton Halloway
+> > (I think it was) that described markup languages and protocols like the
+> > TEI as obsolete in the face of high quality manuscript facsimiles (I'm
+> > paraphrasing and so might not have it exactly right).
+> > 	What I'm wondering is not so much whether markup languages are obsolete
+> > (that's demonstrably not true in a technical sense), but whether there
+> > is an easy argument that they are worth it for a low tech humanities
+> > oriented person to learn. I'm thinking here of the issues raised in
+> > Peter Robinson's article in the premier issue of DM, various talks I've
+> > given or heard at conferences.
+> > 	So here's a question: when is it worth it to devote time to learning a
+> > complex language like TEI--or any other standards based structural
+> > language or computer skill (and when is it not)? What should one expect
+> > to get out of going to the trouble of learning them? And what do you
+> > lose by (or simply what is the cost of) doing so?
+> > 	I suppose this might be a question for Humanist, but I thought I'd try
+> > it out here given the medieval focus of HA. I'm not (necessarily)
+> > looking for answers to my topic for my column, but I'm interested in
+> > mulling the question over with others before I set cursor to screen.
+> > -dan
+> 
+-- 
+Dr. Daniel Paul O'Donnell
+Associate Professor of English
+Director, Digital Medievalist Project
+University of Lethbridge
+Lethbridge AB T1K 3M4vox: +1 (403) 329-2377
+fax: +1 (403) 382-7191URL: http://people.uleth.ca/~daniel.odonnell/Digital Medievalist Project: http://www.digitalmedievalist.org/_redacted_@wiglaf)

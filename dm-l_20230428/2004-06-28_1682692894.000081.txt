@@ -1,0 +1,36 @@
+Subject: Re: [dm-l] MS-Internet Explorer 6 and standards based computing
+On Monday, June 28, 2004, at 09:32 AM, James Cummings wrote:> On Mon, 28 Jun 2004, Jeffrey Fisher wrote:
+>
+>> all this said, i would still guess people on this list will have a 
+>> higher
+>> percentage of IE5 and non-IE browsers with your users, in part 
+>> because you
+>> probably have a larger mac audience than the general population. you 
+>> probably
+>> also have more users with the lower resolution. these are obviously 
+>> just
+>> guesses, though.
+>
+> Probably.  Should we be building sites to the browsers/users or
+> just build them to the standards and wait for browers/users to
+> catch up?  Obviously while I'd like to do the latter, in practice
+> I do the former.  I do try to avoid the browser-specific hacks
+> that were mentioned earlier however (for the already mentioned
+> fear of their need for migration).  This is common in CSS to
+> produce hacks that display the same in MSIE and other browsers.
+> Better, in my opinion, to only use CSS that most modern
+> browsers understand.
+>agreed on all counts. my argument against designing for IE (and 
+designing instead to standards) is really an argument against 
+browser-specific design that is or amounts to a hack. i would include 
+using IE-specific functionality or ignoring standards to make something 
+work for IE in the latter category. the problem is that IE is the 
+dominant browser, so you have to make decisions about what's more 
+important in the long run.the thing is that with mozilla and opera you at least have browsers 
+that are committed to implementing the standards eventually, even if 
+they don't do so (or do so very well), yet. microsoft is another kettle 
+of fish.anyhow, i don't want to continue to push this, since i think there's 
+probably very little practical disagreement. i do think it's the kind 
+of thing that we all need to keep in mind as we make design decisions 
+now that we we will have to live with (or fix) down the road. that's 
+really what it amounts to.cheers,j

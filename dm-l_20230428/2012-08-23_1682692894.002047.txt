@@ -1,0 +1,47 @@
+Subject: RE: [dm-l] Geospatial/Geodetic mapping of MSSI wonder if your correspondents would mind your sharing their replies? This i=
+s a very interesting and current topic.
+________________________________________
+_redacted_(a)uleth.ca] on behalf of Dan Moss=
+_redacted_(a)vt.edu]
+Sent: August-23-12 7:02
+To: dm-l, MailList
+Subject: [dm-l] Geospatial/Geodetic mapping of MSSThanks to all who have replied (off list, I think) to my query about linguist=
+ic mapping of Middle English MSS.Dan O'Donnell asked for a sample of the markup. The DIMEV is an xml-based pro=
+ject. I haven't added mapping information as yet, but here is a straightforwa=
+rd example of the MS file with the <lang> entry: <item xml:id=3D"PhilUPEng8">
+        <loc>Philadelphia</loc>
+        <repos>University of Pennsylvania</repos>
+        <desc>MS Codex 218 [formerly Eng. 8; <i>olim</i> Stonor Park]</desc>
+        <lang><biblio key=3D"LALME">LALME</biblio> LP 559 (<place country=3D"=
+England" county=3D"Isle of Ely">Ely</place>: Hand A, ff. 1-146v); LP 551 (<pl=
+ace country=3D"England" county=3D"Lincolnshire">Lincs</place>:
+            Hand B, ff. 147-195v)</lang>
+    </item>The LALME and LAEME keys are linked to full entries in the bibliography. I'm =
+waiting for my coder to fit some time in for the style-sheet updates for this=
+ information.Since I haven't, as yet, constructed a tagging structure for the mapping coor=
+dinates, I'm happy to have suggestions. Dan mentioned KML and Google maps, an=
+d that might be an easy way to proceed.=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=
+=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=
+=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=
+=9C=CB=9C=CB=9C=CB=9C=CB=9C
+Dan Mosser
+_redacted_(a)vt.edu
+Office: Shanks 229Snailmail:
+Director of Graduate Studies
+English Department 0112
+Shanks Hall
+180 Turner Street NW
+Blacksburg, VA 24061VOICE: (540) 231-7753
+FAX: (540) 231-5692http://www.dimev.net
+http://www.gravell.org
+http://wiz.cath.vt.edu/Mosser/wiz/dwmcv/mossercv.html
+Digital Medievalist --  http://www.digitalmedievalist.org/
+Journal: http://www.digitalmedievalist.org/journal/
+Journal Editors: editors _AT_ digitalmedievalist.org
+News: http://www.digitalmedievalist.org/news/
+Wiki: http://www.digitalmedievalist.org/wiki/
+Twitter: http://twitter.com/digitalmedieval
+Facebook: http://www.facebook.com/group.php?gidI320313760
+_redacted_(a)uleth.ca
+Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+--===============1676533350814937541==--

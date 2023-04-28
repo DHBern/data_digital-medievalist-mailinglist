@@ -1,0 +1,57 @@
+Subject: Re: [dm-l] fontsI absolutely hate workarounds like using images or substituting "3" for 
+yogh. Like James, I like UTF-8 for web pages. It makes for smaller 
+files/faster downloads than entities, and IE (always the problem child) 
+seems to handle UTF-8 better than it does entities for some reason. But 
+for the "base" (presumably XML) file the considerations are different. 
+Don't want to get into a long discussion, but perhaps the most important 
+is not to require particular fonts or applications. It's hard to say 
+what's best for the long haul, but Murray's solution seems very good to 
+me. I'll just add that the Medieval Unicode Font Initiative 
+(http://helmer.aksis.uib.no/mufi/) suggests entity names for all the 
+Unicode characters it recognizes as useful for medievalists, and also 
+for all the code points is claims in the Private Use Area.And Murray--if you have questions about whether particular characters 
+are present in the Unicode standard I may be able to help.PeterMurray McGillivray wrote:>
+> James Cummings wrote:
+>
+>> So what is best? Obviously encoding your webpages as
+>> (say) UTF-8 is a good start.  Force user to download a
+>> font for your site with appropriate glyphs?  Use images
+>> of the glyphs instead of actual characters(*shudder*)?
+>> Transliterate into ascii characters/editorial marks? Use
+>> markup to allow easy replacement of different solutions
+>> on the fly?
+>>
+>> I have my own preferences but am interested in what
+>> other people have done.
+>>
+> Many factors may come into play in this decision, including not just 
+> current functionality, but (I would hope for anyone putting much time 
+> and energy into a scholarly project) a plan for future accessibility 
+> of the data--humanities projects have, or should have, a long time 
+> horizon of usabilty, whatever the publication mode.
+>
+> From the latter point of view as much as or more than the former, and 
+> because we are recording a variety of glyphs in our manuscript that 
+> are not (currently?) in Unicode, I have taken the tack in the 
+> transcription part of my current project of recording every manuscript 
+> glyph using an XML entity (here I simplify slightly). It's easy (here 
+> I simplify a bit more) to replace these entities on the fly with 
+> Unicode characters, transliterations into ASCII with editorial markup, 
+> or whatever, and they're reasonably convenient to deal with in writing 
+> things like search routines. Make the raw file look like doggy 
+> doo-doo,  of course:
+>
+>             http://www.gawain-ms.ca
+>
+> Murray McGillivray
+>
+>>
+>>  
+>>
+>
+>
+> _______________________________________________
+> dm-l mailing list
+_redacted_(a)uleth.ca
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+>

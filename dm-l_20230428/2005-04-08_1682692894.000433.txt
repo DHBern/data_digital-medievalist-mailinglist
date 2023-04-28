@@ -1,0 +1,158 @@
+Subject: RE: [dm-l] what xslt can't do..?I confess I haven't tried Anastasia yet, through lack of time and not of
+interest. Glancing at the documentation, I see that Anastasia appears to
+do lookups in a book file, which has (previously?) been compiled from
+the TEI. ("This must be an Anastasia book compiled from the XML using
+the Anastasia GroveMaker tool. This is designed to permit fast,
+real-time access to any part of the underlying XML.") Anastasia's speed
+is attributed to the fact that it is "interrogating not the source XML
+but a set of binary files (an "AnaGrove") which are optimized to permit
+the fastest access to information about every aspect of the source XML."
+GroveMaker is written in C.It would appear, then, that Anastasia would have the same syncronization
+requirements as the kind of pre-transformed XSL-based solution that
+James is talking about: if you change the TEI, you've got to remember to
+recompile the AnaGrove. If I've understood this correctly, then it seems
+to me that the correct object of comparison for Anastasia's ability to
+present an arbitrary page would not be a single-pass XSL against a large
+TEI file, but rather, say, a Cocoon pipeline using XSL to present
+arbitrary XML page files which have been pre-extracted from the TEI file
+and optimized for presentation by an XSL process along the lines of the
+one I hacked. The TCL scripts that Peter R. sent would be the equivalent
+of the matcher and generator in the Cocoon pipeline:<map:match pattern="*/*.html">
+	<map:generate src="path-to-texts/{1}/{2}.xml"/>
+	...
+</map:match>(where a url like "hengwrt/23.html" would be mapped to an extracted page
+file "path-to-texts/hengwrt/23.xml"). The output of this generator, as
+of the TCL scripts, is the marked-up text of a given page, ready to be
+styled and presented to the reader.Anastasia may well still win on speed, of course, if not in the
+presentation then in the preprocessing. An XSL-based extraction process
+will have a hard time keeping up with a custom-written C indexer. But it
+will be a lot easier to maintain, I submit (with apologies if I've
+misunderstood what Anastasia is doing).Has anyone looked at teiPublisher yet, by the way?
+(http://teipublisher.sourceforge.net/docs/index.php) Judging from the
+texts in the "Documenting the American South" project, they seem to have
+sidestepped the whole problem of presenting arbitrary pages, by only
+offering the complete text in a single HTML file. I haven't looked into
+it to see if there are other options, though.Final note regarding the sample text: again, I don't understand what the
+problem is with the last page, even with the appendix. How can any
+process know that that last div is an appendix and not a new section of
+the main text, beginning and ending on page 5? Whatever marker
+GroveMaker uses to make this distinction would also be available to XSL,
+presumably. (Perhaps my ignorance of TEI is showing...)Peter Binkley
+> -----Original Message-----
+_redacted_(a)uleth.ca] On 
+> Behalf Of Peter Robinson
+> Sent: Friday, April 08, 2005 12:11 AM
+_redacted_(a)uleth.ca
+> Subject: RE: [dm-l] what xslt can't do..?
+> 
+> The Digital Medievalist List (see end of message for contact 
+> information and project URLs).
+> 
+> ----------------------------------
+> Peter (Binkley) has already pointed out the problems with the 
+> XSLT approach he took.
+>  I think even the fix he suggests, of returning a stripped 
+> node fragment, would still lead to performance problems  (for 
+> instance..to pull a single page say out of the Hengwrt 
+> Chaucer you would need every time to read the WHOLE document 
+> to create the node sets for ALL pages, just so you could 
+> extract the node set for just one, every time).  There is 
+> also a problem with the last page.  Presume that we have, 
+> indeed, what we always have: a whole bunch of other text in 
+> separate divs in the document after the last page, as below.  
+> Here is a new div containing an
+> appendix:
+> Peter B's approach would include that text, wrongly, in the 
+> node set for the last page.  I'm sure this could be fixed 
+> (get the node sets only for the pbs in the div holding them) 
+> but it is just yet another complication.  (Incidentally, the 
+> best solution to the 'missing last end of page' problem, and 
+> ideed to various other problems, is what Steve De Rose 
+> describes as 'trojan milestones': see 
+> http://www.mulberrytech.com/Extreme/Proceedings/html/2004/DeRo
+> se01/EML2004DeRose01.html).
+> 
+> I think too there is some misconception about just how the 
+> system I use
+> (Anastasia)
+> would cope with this problem.  Peter B(inkley) suggests it is 
+> some kind of 'coded project', apparently using Java, while 
+> Peter B(aker..this is ridiculous) seems to think I would be 
+> using raw C.  For the many who do not seem to have looked yet at
+> Anastasia: it provides a tcl scripting environment which lets 
+> you manipulate XML easily in some ways (including ways very 
+> important to us) which XLST finds difficult.  Particularly -- 
+> the whole focus of this discussion -- it is straight-forward 
+> in Anastasia to manipulate a document according to 
+> alternative hierarchies implicit in the element relations: so 
+> you can show just one column or one page of a text otherwise 
+> structured in hierarchical divisions.
+> 
+> Thus, the whole Anastasia code to pull out the first two 
+> pages of this document looks like this:
+> 
+> proc begin {book me stylename} {
+>  global pagecounter startEl
+>  set pagecounter 0
+>  set startEl [findSGElement "stag(\"pb\") with attvalue(\"1\")"] }
+> 
+> proc pb {me context} {
+>   global pagecounter finish
+>   if {$pagecounter=="2"} {set finish 1}
+>   incr pagecounter
+> }
+> 
+> Folks, that is all there is.  The 'begin' function finds the 
+> first page by its attribute value (there are other ways one 
+> could do it, to be sure that this is the first page) and sets 
+> Anastasia to start reading the document right there. 
+> The 'pb'
+> function counts every page every time it hits a pb: when the 
+> pagecounter reaches '2'
+> it has read two full pages and setting the 'finish' variable 
+> to 1 stops the output.
+> One could include a few more proc functions to format the 
+> headings, paragraphs, etc, or one could identify the last 
+> page by attribute value, but that is all. 
+> And it does this just as quick for a document with 100000 
+> pages as one.
+> 
+> I don't have a prejudice against XSLT, which seems a fine 
+> tool for doing most of the things one wants to do with XML.  
+> But that does not mean it can do *everything* equally easily 
+> (which is how this whole thread started, with musings on its 
+> limits as a typesetting language).  Some things certainly 
+> Anastasia does much easier, and that is no surprise -- it was 
+> designed just for that.  She is open source.  Go look at her 
+> on http://anastasia.sourceforge.net Peter R(obinson)
+> 
+> ***revised document with an appendix after the last page...
+> <div>
+> <head>The whole text and all the texts</head> <div> <pb 
+> n="1"/> <head>First text</head> <p n="1">some text starts 
+> here and goes ita<hi rend="italic">lic an<pb n="2"/>d 
+> then</i> we get a pagebreak</p> <p n="2">so the text 
+> finishes</p> <p n="3"> with yet another page <pb n="3"/> and 
+> another page start </p> </div> <div> <head>Second text</head> 
+> <pb n="4"/> <p n="1">here my new text on the next page etc 
+> etc</p> <pb n="5"/> <p n="2">here my new text on the next 
+> page etc etc</p> </div> <div> <p>Now here we have an appendix 
+> and some more text after that</p> </div> </div>
+> 
+> 
+> 
+> _______________________________________________
+> Digital Medievalist Project
+> Homepage: http://www.digitalmedievalist.org Journal (December 
+> 2004-): http://www.digitalmedievalist.org/journal.cfm
+> RSS (announcements) server: 
+> http://www.digitalmedievalist.org/rss/rss2.cfm
+> Wiki: http://sql.uleth.ca/dmorgwiki/index.php
+> Change membership options: 
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+> Submit RSS announcement: http://www.digitalmedievalist.org/newitem.cfm
+_redacted_(a)uleth.ca dm-l 
+_redacted_(a)uleth.ca 
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+> 
+--===============3228129018399530391==--

@@ -1,0 +1,103 @@
+Subject: [dm-l] FW: TEI Live CDThis may be of interest to a number of different people on this list:1) If you are an experienced XMLer and/or linux user, this disk has the lates=
+t version of TEI XML and a number of excellent open source programmes--Sebast=
+ian is also responsible for following the open source "market" for Open Sourc=
+e Watch and so has his finger on the pulse, so to speak.2)If you have never tried Linux before, this disk is an interesting way to tr=
+y: you load it in your CD drive, reboot your computer, and your computer runs=
+ as a Linux computer from the CD-ROM--i.e. without changing anything on your =
+hard drive. It uses Ubuntu which is among the most popular version of Linux a=
+nd is also extremely good and user friendly. And if you end up liking what yo=
+u see, you can use the same disk to install Ubuntu to your computer's hard dr=
+ive--while keeping your Mac or Windows Operating system as well if you wish (=
+i.e. when you start up you are asked what you'd prefer to use). If you've eve=
+r installed or reinstalled Windows on a computer, then you will be pleased to=
+ know that installing Ubuntu is nothing like that horror: it has a very frien=
+dly and easy to use graphic user interface that guides the installation. But =
+if you just run it from the CD-ROM, you won't even have to worry about that.
+-----Original Message-----
+From: TEI (Text Encoding Initiative) public discussion list on behalf of Seba=
+stian Rahtz
+Sent: Sat 26/05/2007 11:39 AM
+_redacted_(a)listserv.brown.edu
+Subject: TEI Live CD
+=20
+http://tei.oucs.ox.ac.uk/teideb/tei-Ubuntu.iso is an image of a TEI=20
+customization
+of the Ubuntu Live CD (Feisty series) for Intel PC. Grab a copy, make a CD
+from it, reboot your PC from the CD, and you should find yourself
+in a nice Linux system with the latest and greatest TEI-everything=20
+installed.
+It includes a state of the art eXist XML database system running with=20
+various
+TEI documents preloaded.I make these CDs mainly for teaching purposes, but it can also be used
+as an install medium to set up a new computer with a running Ubuntu
+system.As I have said before, if you have some nice software which should/can be
+be on here, let me know.  There are three conditions:
+ * it can't need _too_ much space
+ * it must have an open source licence according to OSI definitions, and
+    data files must be completely free (no "nocommercial" clauses)
+ * it must be set up as a Debian package or something close (no "its got
+   its own copy of Tomcat and Java with it")--=20
+Sebastian Rahtz     =20Information Manager, Oxford University Computing Services
+13 Banbury Road, Oxford OX2 6NN. Phone +44 1865 283431
+--===============4375936475385051164==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"
+MIME-Version: 1.0PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDMuMi8vRU4iPgo8SFRNTD4K
+PEhFQUQ+CjxNRVRBIEhUVFAtRVFVSVY9IkNvbnRlbnQtVHlwZSIgQ09OVEVOVD0idGV4dC9odG1s
+OyBjaGFyc2V0PWlzby04ODU5LTEiPgo8TUVUQSBOQU1FPSJHZW5lcmF0b3IiIENPTlRFTlQ9Ik1T
+IEV4Y2hhbmdlIFNlcnZlciB2ZXJzaW9uIDYuNS43NjUyLjI0Ij4KPFRJVExFPkZXOiBURUkgTGl2
+ZSBDRDwvVElUTEU+CjwvSEVBRD4KPEJPRFk+CjwhLS0gQ29udmVydGVkIGZyb20gdGV4dC9wbGFp
+biBmb3JtYXQgLS0+Cgo8UD48Rk9OVCBTSVpFPTI+VGhpcyBtYXkgYmUgb2YgaW50ZXJlc3QgdG8g
+YSBudW1iZXIgb2YgZGlmZmVyZW50IHBlb3BsZSBvbiB0aGlzIGxpc3Q6PEJSPgo8QlI+CjEpIElm
+IHlvdSBhcmUgYW4gZXhwZXJpZW5jZWQgWE1MZXIgYW5kL29yIGxpbnV4IHVzZXIsIHRoaXMgZGlz
+ayBoYXMgdGhlIGxhdGVzdCB2ZXJzaW9uIG9mIFRFSSBYTUwgYW5kIGEgbnVtYmVyIG9mIGV4Y2Vs
+bGVudCBvcGVuIHNvdXJjZSBwcm9ncmFtbWVzLS1TZWJhc3RpYW4gaXMgYWxzbyByZXNwb25zaWJs
+ZSBmb3IgZm9sbG93aW5nIHRoZSBvcGVuIHNvdXJjZSAmcXVvdDttYXJrZXQmcXVvdDsgZm9yIE9w
+ZW4gU291cmNlIFdhdGNoIGFuZCBzbyBoYXMgaGlzIGZpbmdlciBvbiB0aGUgcHVsc2UsIHNvIHRv
+IHNwZWFrLjxCUj4KPEJSPgoyKUlmIHlvdSBoYXZlIG5ldmVyIHRyaWVkIExpbnV4IGJlZm9yZSwg
+dGhpcyBkaXNrIGlzIGFuIGludGVyZXN0aW5nIHdheSB0byB0cnk6IHlvdSBsb2FkIGl0IGluIHlv
+dXIgQ0QgZHJpdmUsIHJlYm9vdCB5b3VyIGNvbXB1dGVyLCBhbmQgeW91ciBjb21wdXRlciBydW5z
+IGFzIGEgTGludXggY29tcHV0ZXIgZnJvbSB0aGUgQ0QtUk9NLS1pLmUuIHdpdGhvdXQgY2hhbmdp
+bmcgYW55dGhpbmcgb24geW91ciBoYXJkIGRyaXZlLiBJdCB1c2VzIFVidW50dSB3aGljaCBpcyBh
+bW9uZyB0aGUgbW9zdCBwb3B1bGFyIHZlcnNpb24gb2YgTGludXggYW5kIGlzIGFsc28gZXh0cmVt
+ZWx5IGdvb2QgYW5kIHVzZXIgZnJpZW5kbHkuIEFuZCBpZiB5b3UgZW5kIHVwIGxpa2luZyB3aGF0
+IHlvdSBzZWUsIHlvdSBjYW4gdXNlIHRoZSBzYW1lIGRpc2sgdG8gaW5zdGFsbCBVYnVudHUgdG8g
+eW91ciBjb21wdXRlcidzIGhhcmQgZHJpdmUtLXdoaWxlIGtlZXBpbmcgeW91ciBNYWMgb3IgV2lu
+ZG93cyBPcGVyYXRpbmcgc3lzdGVtIGFzIHdlbGwgaWYgeW91IHdpc2ggKGkuZS4gd2hlbiB5b3Ug
+c3RhcnQgdXAgeW91IGFyZSBhc2tlZCB3aGF0IHlvdSdkIHByZWZlciB0byB1c2UpLiBJZiB5b3Un
+dmUgZXZlciBpbnN0YWxsZWQgb3IgcmVpbnN0YWxsZWQgV2luZG93cyBvbiBhIGNvbXB1dGVyLCB0
+aGVuIHlvdSB3aWxsIGJlIHBsZWFzZWQgdG8ga25vdyB0aGF0IGluc3RhbGxpbmcgVWJ1bnR1IGlz
+IG5vdGhpbmcgbGlrZSB0aGF0IGhvcnJvcjogaXQgaGFzIGEgdmVyeSBmcmllbmRseSBhbmQgZWFz
+eSB0byB1c2UgZ3JhcGhpYyB1c2VyIGludGVyZmFjZSB0aGF0IGd1aWRlcyB0aGUgaW5zdGFsbGF0
+aW9uLiBCdXQgaWYgeW91IGp1c3QgcnVuIGl0IGZyb20gdGhlIENELVJPTSwgeW91IHdvbid0IGV2
+ZW4gaGF2ZSB0byB3b3JyeSBhYm91dCB0aGF0LjxCUj4KPEJSPgo8QlI+Ci0tLS0tT3JpZ2luYWwg
+TWVzc2FnZS0tLS0tPEJSPgpGcm9tOiBURUkgKFRleHQgRW5jb2RpbmcgSW5pdGlhdGl2ZSkgcHVi
+bGljIGRpc2N1c3Npb24gbGlzdCBvbiBiZWhhbGYgb2YgU2ViYXN0aWFuIFJhaHR6PEJSPgpTZW50
+OiBTYXQgMjYvMDUvMjAwNyAxMTozOSBBTTxCUj4KVG86IFRFSS1MQGxpc3RzZXJ2LmJyb3duLmVk
+dTxCUj4KU3ViamVjdDogVEVJIExpdmUgQ0Q8QlI+CjxCUj4KPEEgSFJFRj0iaHR0cDovL3RlaS5v
+dWNzLm94LmFjLnVrL3RlaWRlYi90ZWktVWJ1bnR1LmlzbyI+aHR0cDovL3RlaS5vdWNzLm94LmFj
+LnVrL3RlaWRlYi90ZWktVWJ1bnR1LmlzbzwvQT4gaXMgYW4gaW1hZ2Ugb2YgYSBURUk8QlI+CmN1
+c3RvbWl6YXRpb248QlI+Cm9mIHRoZSBVYnVudHUgTGl2ZSBDRCAoRmVpc3R5IHNlcmllcykgZm9y
+IEludGVsIFBDLiBHcmFiIGEgY29weSwgbWFrZSBhIENEPEJSPgpmcm9tIGl0LCByZWJvb3QgeW91
+ciBQQyBmcm9tIHRoZSBDRCwgYW5kIHlvdSBzaG91bGQgZmluZCB5b3Vyc2VsZjxCUj4KaW4gYSBu
+aWNlIExpbnV4IHN5c3RlbSB3aXRoIHRoZSBsYXRlc3QgYW5kIGdyZWF0ZXN0IFRFSS1ldmVyeXRo
+aW5nPEJSPgppbnN0YWxsZWQuPEJSPgpJdCBpbmNsdWRlcyBhIHN0YXRlIG9mIHRoZSBhcnQgZVhp
+c3QgWE1MIGRhdGFiYXNlIHN5c3RlbSBydW5uaW5nIHdpdGg8QlI+CnZhcmlvdXM8QlI+ClRFSSBk
+b2N1bWVudHMgcHJlbG9hZGVkLjxCUj4KPEJSPgpJIG1ha2UgdGhlc2UgQ0RzIG1haW5seSBmb3Ig
+dGVhY2hpbmcgcHVycG9zZXMsIGJ1dCBpdCBjYW4gYWxzbyBiZSB1c2VkPEJSPgphcyBhbiBpbnN0
+YWxsIG1lZGl1bSB0byBzZXQgdXAgYSBuZXcgY29tcHV0ZXIgd2l0aCBhIHJ1bm5pbmcgVWJ1bnR1
+PEJSPgpzeXN0ZW0uPEJSPgo8QlI+CkFzIEkgaGF2ZSBzYWlkIGJlZm9yZSwgaWYgeW91IGhhdmUg
+c29tZSBuaWNlIHNvZnR3YXJlIHdoaWNoIHNob3VsZC9jYW4gYmU8QlI+CmJlIG9uIGhlcmUsIGxl
+dCBtZSBrbm93LiZuYnNwOyBUaGVyZSBhcmUgdGhyZWUgY29uZGl0aW9uczo8QlI+CiZuYnNwOyog
+aXQgY2FuJ3QgbmVlZCBfdG9vXyBtdWNoIHNwYWNlPEJSPgombmJzcDsqIGl0IG11c3QgaGF2ZSBh
+biBvcGVuIHNvdXJjZSBsaWNlbmNlIGFjY29yZGluZyB0byBPU0kgZGVmaW5pdGlvbnMsIGFuZDxC
+Uj4KJm5ic3A7Jm5ic3A7Jm5ic3A7IGRhdGEgZmlsZXMgbXVzdCBiZSBjb21wbGV0ZWx5IGZyZWUg
+KG5vICZxdW90O25vY29tbWVyY2lhbCZxdW90OyBjbGF1c2VzKTxCUj4KJm5ic3A7KiBpdCBtdXN0
+IGJlIHNldCB1cCBhcyBhIERlYmlhbiBwYWNrYWdlIG9yIHNvbWV0aGluZyBjbG9zZSAobm8gJnF1
+b3Q7aXRzIGdvdDxCUj4KJm5ic3A7Jm5ic3A7IGl0cyBvd24gY29weSBvZiBUb21jYXQgYW5kIEph
+dmEgd2l0aCBpdCZxdW90Oyk8QlI+CjxCUj4KLS08QlI+ClNlYmFzdGlhbiBSYWh0eiZuYnNwOyZu
+YnNwOyZuYnNwOyZuYnNwOyZuYnNwOzxCUj4KPEJSPgpJbmZvcm1hdGlvbiBNYW5hZ2VyLCBPeGZv
+cmQgVW5pdmVyc2l0eSBDb21wdXRpbmcgU2VydmljZXM8QlI+CjEzIEJhbmJ1cnkgUm9hZCwgT3hm
+b3JkIE9YMiA2Tk4uIFBob25lICs0NCAxODY1IDI4MzQzMTxCUj4KPEJSPgo8L0ZPTlQ+CjwvUD4K
+CjwvQk9EWT4KPC9IVE1MPg==

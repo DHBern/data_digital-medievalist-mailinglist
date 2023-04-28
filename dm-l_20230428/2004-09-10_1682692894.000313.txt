@@ -1,0 +1,47 @@
+Subject: RE: [dm-l] TEI page breaks, line breaksWow, I'd never thought of <lb> preceding a line (certianly not the first). I'=
+ve always used them as following. Same is true for pb and cb, though I suppos=
+_redacted_@n were I to number them.I wonder though if you should number a pb cb or lb, however. The tag doesn't =
+really contain the page, or whatever, after all. It is a point *between* page=
+s, lines, columns, etc. (think about lb and l. <l> naturally has a line numbe=
+r because it contains a line. <lb> on the other hand marks a point and so ssh=
+_redacted_@n.What we really need is a <pb/> : <pg></pg> pairing though that can rapidly ca=
+use hierarchy problems.One solution might be this:text <pb> <milestone type=3Dpagenumber n=3D2> more text...The only reason for offerng this is a) the pb describes a point (correctly IM=
+O) and the milestone is not incorrect in reporting that it is on p. 2.This is a good topic for a firt entry in a best practice for medievalists gui=
+de.!
+-dan=20-----Original Message-----
+From:  Murray McGillivray=20
+Date:  10/9/04 11:31
+To:  Digital Medievalist Community mailing list=20
+Subj:  [dm-l] TEI page breaks, line breaksDigital Medievalist Journal (Inaugural Issue Fall 2004). Call for papers: htt=
+p://www.digitalmedievalist.org/cfp.htm
+----------------
+I'm sorry, but this is a bit of a technical question. Please delete if=20
+you hate those.I wonder if anyone who has worked with using TEI P3-4 to encode=20
+manuscript or printed book transcriptions or editions could tell me if a=20
+local standard among medievalists is developing for the use of=20
+"milestone" elements that have to do with the arrangement of the=20
+physical object, such as line break, column break and page break tags.Specifically, I'm wondering if the attributes given to these tags (such=20
+as 'n') usually refer to the page (line, etc.) following or the page=20
+(line, etc.) preceding the milestone element. My *guess* is that these=20
+breaks are usually connected to the text following, but I don't see a=20
+logic in the tags themselves that would require that and my experience=20
+of what people do is pretty limited to my own narrow part of the field.I should comment that part of my doubt stems from the way pb, lb, and cb=20
+are described in the Guidelines. Both pb and cb say "marks the boundary=20
+between one . . . [X] and the next in a standard reference system,"=20
+apparently indicating that there should be an X already there before the=20
+first of these tags is used in a file; whereas lb  "marks the start of a=20
+new (typographic) line in some edition or version of a text," indicating=20
+that it should be used before the first (typographic) line.  I do not=20
+believe that either the implied variation in application (to a "standard=20
+reference system" on the one hand and "some edition or version" on the=20
+other) or the stated variation in placement (before or between bits of=20
+text) is intended in any strong sense--probably at all--by the editors,=20
+by the way. Several milestone elements (milestone itself, handshift,=20
+etc.) do make reasonably clear, either in their Guidelines description=20
+or in the examples given, that they are meant to be used at the=20
+beginning of a section of text to which they refer .Murray McGillivray_______________________________________________
+Project web site: http://www.digitalmedievalist.org/
+dm-l mailing list
+_redacted_(a)uleth.ca
+http://listserv.uleth.ca/mailman/listinfo/dm-l
+--===============1086975479510438666==--

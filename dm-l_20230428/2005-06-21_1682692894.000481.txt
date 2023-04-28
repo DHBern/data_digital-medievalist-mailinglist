@@ -1,0 +1,160 @@
+Subject: RE: [dm-l] Searching Latin texts and orthographical variantsHi Jim!
+ 
+I don't think the computational linguistics has to get too involved when
+you're dealing with scholastic Latin.  If -nt[vowel]- gets converted to
+-nc[vowel]- and -ae- gets converted to -e-, for example, then you're
+well on the way. You lose some fine granularity in your search, but
+that's going to happen anyway when you're dealing with heterogeneous
+materials like what you describe. I worked out a few rules like this for
+a processing routine in Pascal years ago for work on 14th century Latin
+preaching (Bromyard), and I'd be happy to dig out the code and send the
+relevant bits. If you do it with hashes and you don't have rules like
+this, won't you have to create the association between scientia and
+sciencia (and all other pairs) explicitly? 
+ 
+Peter
+_________________________________redacted_(a)uleth.ca] On
+Behalf Of James R. Ginther
+	Sent: Thursday, June 16, 2005 12:43 PM
+_redacted_(a)uleth.ca
+	Subject: [dm-l] Searching Latin texts and orthographical
+variants
+	
+	
+	I am the project director of the Electronic Grosseteste, a
+research resource that provides access to electronic medieval Latin
+texts and an integrated bibliography.  The textbase is composed of a
+variety of Latin texts (most of them under copyright but still
+searchable).  Right now the search engine is pretty primitive, and one
+enhancement I would like to make is to account for orthographical
+variants in the texts.  Some texts were classicized, while other editors
+followed either the orthography of a single manuscript or attempted to
+follow some sort of convention based generally on Latin texts in later
+medieval England (these are the facts, and this post is not about the
+joy of debating editorial practice).  Ideally, I would like to allow
+searches to include returns for classical and "medieval" spellings.  For
+example, if a user queried "scientia" the engine would return matches
+for "scientia" and "sciencia". (wildcards are permitted, btw). 
+	 
+	Now I work in Perl5, and so my initial thought was to create a
+set of hash tables that would map these variants since hashes would
+allow for more than one variant per entity, and the engine would then
+perform a lookup for each query element.  Now I suppose coding into the
+engine the "orthographical rules" is another option, but I'll be honest
+and admit that computational linguistics has never been my thing.  And,
+the beauty of hashes in Perl is that they are compiled very quickly, and
+don't eat too much memory. 
+	 
+	Now before I go and reinvent the wheel with these hash tables,
+does anyone know of an open-source method or resource that addresses
+this kind of problem (I know that Brepols--pardon me,
+Brepolis...yeesh---has this all figured out but they don't play will
+with others, so that's a closed door.).  My limited scouring of the web
+has yielded no joy, and so I seek the sage advice of this community.  
+	 
+	Many thanks
+	Jim
+	 
+	--------------------
+	Dr James R. Ginther, PhD
+	Assoc. Professor of Medieval Theology
+	& Director of Graduate Studies
+	Dept of Theological Studies
+	St Louis University
+_redacted_(a)slu.edu
+	---------------------------------
+	dept: http://theology.slu.edu/
+	research: http://www.grosseteste.com/
+--===============3028244363317320479==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"
+MIME-Version: 1.0PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMCBUcmFuc2l0aW9uYWwv
+L0VOIj4KPEhUTUw+PEhFQUQ+CjxNRVRBIGh0dHAtZXF1aXY9Q29udGVudC1UeXBlIGNvbnRlbnQ9
+InRleHQvaHRtbDsgY2hhcnNldD11cy1hc2NpaSI+CjxNRVRBIGNvbnRlbnQ9Ik1TSFRNTCA2LjAw
+LjI4MDAuMTUwNSIgbmFtZT1HRU5FUkFUT1I+CjxTVFlMRT48L1NUWUxFPgo8L0hFQUQ+CjxCT0RZ
+IGJnQ29sb3I9I2ZmZmZmZj4KPERJVj48Rk9OVCBmYWNlPUFyaWFsIGNvbG9yPSMwMDAwZmYgc2l6
+ZT0yPjxTUEFOIGNsYXNzPTY0ODQ1MDUxOC0yMTA2MjAwNT5IaSAKSmltITwvU1BBTj48L0ZPTlQ+
+PC9ESVY+CjxESVY+PEZPTlQgZmFjZT1BcmlhbCBjb2xvcj0jMDAwMGZmIHNpemU9Mj48U1BBTiAK
+Y2xhc3M9NjQ4NDUwNTE4LTIxMDYyMDA1PjwvU1BBTj48L0ZPTlQ+Jm5ic3A7PC9ESVY+CjxESVY+
+PEZPTlQgZmFjZT1BcmlhbCBjb2xvcj0jMDAwMGZmIHNpemU9Mj48U1BBTiBjbGFzcz02NDg0NTA1
+MTgtMjEwNjIwMDU+SSAKZG9uJ3QgdGhpbmsgdGhlIGNvbXB1dGF0aW9uYWwgbGluZ3Vpc3RpY3Mg
+aGFzIHRvIGdldCB0b28gaW52b2x2ZWQgd2hlbiB5b3UncmUgCmRlYWxpbmcgd2l0aCBzY2hvbGFz
+dGljIExhdGluLiAmbmJzcDtJZiAtbnRbdm93ZWxdLSBnZXRzIGNvbnZlcnRlZCB0byAKLW5jW3Zv
+d2VsXS0gYW5kIC1hZS0gZ2V0cyBjb252ZXJ0ZWQgdG8gLWUtLCBmb3IgZXhhbXBsZSwgdGhlbiB5
+b3UncmUgd2VsbCBvbiB0aGUgCndheS4gWW91IGxvc2Ugc29tZSBmaW5lIGdyYW51bGFyaXR5IGlu
+IHlvdXIgc2VhcmNoLCBidXQgdGhhdCdzIGdvaW5nIHRvIGhhcHBlbiAKYW55d2F5IHdoZW4geW91
+J3JlIGRlYWxpbmcgd2l0aCBoZXRlcm9nZW5lb3VzIG1hdGVyaWFscyBsaWtlIHdoYXQgeW91IGRl
+c2NyaWJlLiAKSSB3b3JrZWQgb3V0IGEgZmV3IHJ1bGVzIGxpa2UgdGhpcyBmb3IgYSBwcm9jZXNz
+aW5nIHJvdXRpbmUgaW4gUGFzY2FsIHllYXJzIGFnbyAKZm9yIHdvcmsgb24gMTR0aCBjZW50dXJ5
+IExhdGluIHByZWFjaGluZyAoQnJvbXlhcmQpLCBhbmQgSSdkIGJlIGhhcHB5IHRvIGRpZyBvdXQg
+CnRoZSBjb2RlIGFuZCBzZW5kIHRoZSByZWxldmFudCBiaXRzLiBJZiB5b3UgZG8gaXQgd2l0aCBo
+YXNoZXMgYW5kIHlvdSBkb24ndCBoYXZlIApydWxlcyBsaWtlIHRoaXMsIHdvbid0IHlvdSBoYXZl
+IHRvIGNyZWF0ZSB0aGUgYXNzb2NpYXRpb24gYmV0d2VlbiBzY2llbnRpYSBhbmQgCnNjaWVuY2lh
+IChhbmQgYWxsIG90aGVyIHBhaXJzKSBleHBsaWNpdGx5PyA8L1NQQU4+PC9GT05UPjwvRElWPgo8
+RElWPjxGT05UIGZhY2U9QXJpYWwgY29sb3I9IzAwMDBmZiBzaXplPTI+PFNQQU4gCmNsYXNzPTY0
+ODQ1MDUxOC0yMTA2MjAwNT48L1NQQU4+PC9GT05UPiZuYnNwOzwvRElWPgo8RElWPjxGT05UIGZh
+Y2U9QXJpYWwgY29sb3I9IzAwMDBmZiBzaXplPTI+PFNQQU4gCmNsYXNzPTY0ODQ1MDUxOC0yMTA2
+MjAwNT5QZXRlcjwvU1BBTj48L0ZPTlQ+PC9ESVY+PEJSPgo8QkxPQ0tRVU9URSBkaXI9bHRyIApz
+dHlsZT0iUEFERElORy1MRUZUOiA1cHg7IE1BUkdJTi1MRUZUOiA1cHg7IEJPUkRFUi1MRUZUOiAj
+MDAwMGZmIDJweCBzb2xpZDsgTUFSR0lOLVJJR0hUOiAwcHgiPgogIDxESVYgY2xhc3M9T3V0bG9v
+a01lc3NhZ2VIZWFkZXIgbGFuZz1lbi11cyBkaXI9bHRyIGFsaWduPWxlZnQ+CiAgPEhSIHRhYklu
+ZGV4PS0xPgogIDxGT05UIGZhY2U9VGFob21hIHNpemU9Mj48Qj5Gcm9tOjwvQj4gZG0tbC1ib3Vu
+Y2VzQHVsZXRoLmNhIAogIFttYWlsdG86ZG0tbC1ib3VuY2VzQHVsZXRoLmNhXSA8Qj5PbiBCZWhh
+bGYgT2YgPC9CPkphbWVzIFIuIAogIEdpbnRoZXI8QlI+PEI+U2VudDo8L0I+IFRodXJzZGF5LCBK
+dW5lIDE2LCAyMDA1IDEyOjQzIFBNPEJSPjxCPlRvOjwvQj4gCiAgZG0tbEB1bGV0aC5jYTxCUj48
+Qj5TdWJqZWN0OjwvQj4gW2RtLWxdIFNlYXJjaGluZyBMYXRpbiB0ZXh0cyBhbmQgCiAgb3J0aG9n
+cmFwaGljYWwgdmFyaWFudHM8QlI+PC9GT05UPjxCUj48L0RJVj4KICA8RElWPjwvRElWPgogIDxE
+SVY+PEZPTlQgZmFjZT1BcmlhbCBzaXplPTI+SSBhbSB0aGUgcHJvamVjdCBkaXJlY3RvciBvZiB0
+aGUgRWxlY3Ryb25pYyAKICBHcm9zc2V0ZXN0ZSwgYSByZXNlYXJjaCByZXNvdXJjZSB0aGF0IHBy
+b3ZpZGVzIGFjY2VzcyB0byBlbGVjdHJvbmljIG1lZGlldmFsIAogIExhdGluIHRleHRzIGFuZCBh
+biBpbnRlZ3JhdGVkIGJpYmxpb2dyYXBoeS4mbmJzcDsgVGhlIHRleHRiYXNlIGlzIGNvbXBvc2Vk
+IG9mIAogIGEgdmFyaWV0eSBvZiBMYXRpbiB0ZXh0cyAobW9zdCBvZiB0aGVtIHVuZGVyIGNvcHly
+aWdodCBidXQgc3RpbGwgCiAgc2VhcmNoYWJsZSkuJm5ic3A7IFJpZ2h0IG5vdyB0aGUgc2VhcmNo
+IGVuZ2luZSBpcyBwcmV0dHkgcHJpbWl0aXZlLCBhbmQgb25lIAogIGVuaGFuY2VtZW50IEkgd291
+bGQgbGlrZSB0byBtYWtlIGlzIHRvIGFjY291bnQgZm9yIG9ydGhvZ3JhcGhpY2FsIHZhcmlhbnRz
+IGluIAogIHRoZSB0ZXh0cy4mbmJzcDsgU29tZSB0ZXh0cyB3ZXJlIGNsYXNzaWNpemVkLCB3aGls
+ZSBvdGhlciBlZGl0b3JzIGZvbGxvd2VkIAogIGVpdGhlciB0aGUgb3J0aG9ncmFwaHkgb2YmbmJz
+cDthIHNpbmdsZSBtYW51c2NyaXB0IG9yIGF0dGVtcHRlZCB0byBmb2xsb3cgc29tZSAKICBzb3J0
+IG9mIGNvbnZlbnRpb24gYmFzZWQgZ2VuZXJhbGx5IG9uIExhdGluIHRleHRzIGluIGxhdGVyIG1l
+ZGlldmFsIEVuZ2xhbmQgCiAgKHRoZXNlIGFyZSB0aGUgZmFjdHMsIGFuZCB0aGlzIHBvc3QgaXMg
+bm90IGFib3V0IHRoZSBqb3kgb2YgZGViYXRpbmcgZWRpdG9yaWFsIAogIHByYWN0aWNlKS4mbmJz
+cDsgSWRlYWxseSwgSSB3b3VsZCBsaWtlIHRvIGFsbG93IHNlYXJjaGVzIHRvIGluY2x1ZGUgcmV0
+dXJucyAKICBmb3IgY2xhc3NpY2FsIGFuZCAibWVkaWV2YWwiIHNwZWxsaW5ncy4mbmJzcDsgRm9y
+IGV4YW1wbGUsIGlmIGEgdXNlciBxdWVyaWVkIAogICJzY2llbnRpYSIgdGhlIGVuZ2luZSB3b3Vs
+ZCByZXR1cm4gbWF0Y2hlcyBmb3IgInNjaWVudGlhIiBhbmQgInNjaWVuY2lhIi4gCiAgKHdpbGRj
+YXJkcyBhcmUgcGVybWl0dGVkLCBidHcpLiA8L0ZPTlQ+PC9ESVY+CiAgPERJVj48Rk9OVCBmYWNl
+PUFyaWFsIHNpemU9Mj48L0ZPTlQ+Jm5ic3A7PC9ESVY+CiAgPERJVj48Rk9OVCBmYWNlPUFyaWFs
+IHNpemU9Mj5Ob3cgSSB3b3JrIGluIFBlcmw1LCBhbmQgc28gbXkgaW5pdGlhbCB0aG91Z2h0IAog
+IHdhcyB0byBjcmVhdGUgYSBzZXQgb2YgaGFzaCB0YWJsZXMgdGhhdCB3b3VsZCBtYXAgdGhlc2Ug
+dmFyaWFudHMgc2luY2UgaGFzaGVzIAogIHdvdWxkIGFsbG93IGZvciBtb3JlIHRoYW4gb25lIHZh
+cmlhbnQgcGVyIGVudGl0eSwgYW5kIHRoZSBlbmdpbmUgd291bGQgdGhlbiAKICBwZXJmb3JtIGEg
+bG9va3VwIGZvciBlYWNoIHF1ZXJ5IGVsZW1lbnQuJm5ic3A7IE5vdyBJIHN1cHBvc2UgY29kaW5n
+IGludG8gdGhlIAogIGVuZ2luZSB0aGUgIm9ydGhvZ3JhcGhpY2FsIHJ1bGVzIiBpcyBhbm90aGVy
+IG9wdGlvbiwgYnV0IEknbGwgYmUgaG9uZXN0IGFuZCAKICBhZG1pdCB0aGF0IGNvbXB1dGF0aW9u
+YWwgbGluZ3Vpc3RpY3MgaGFzIG5ldmVyIGJlZW4gbXkgCiAgdGhpbmcuJm5ic3A7PC9GT05UPjxG
+T05UIGZhY2U9QXJpYWwgc2l6ZT0yPiBBbmQsIHRoZSBiZWF1dHkgb2YgaGFzaGVzIGluIFBlcmwg
+CiAgaXMgdGhhdCB0aGV5IGFyZSBjb21waWxlZCB2ZXJ5IHF1aWNrbHksIGFuZCBkb24ndCBlYXQg
+dG9vIG11Y2ggCiAgbWVtb3J5LiZuYnNwOzwvRk9OVD48L0RJVj4KICA8RElWPjxGT05UIGZhY2U9
+QXJpYWwgc2l6ZT0yPjwvRk9OVD4mbmJzcDs8L0RJVj4KICA8RElWPjxGT05UIGZhY2U9QXJpYWwg
+c2l6ZT0yPk5vdyBiZWZvcmUgSSBnbyBhbmQgcmVpbnZlbnQgdGhlIHdoZWVsIHdpdGggdGhlc2Ug
+CiAgaGFzaCB0YWJsZXMsIGRvZXMgYW55b25lIGtub3cgb2YgYW4gb3Blbi1zb3VyY2UmbmJzcDtt
+ZXRob2Qgb3IgCiAgcmVzb3VyY2UmbmJzcDt0aGF0IGFkZHJlc3NlcyB0aGlzIGtpbmQgb2YgcHJv
+YmxlbSAoSSBrbm93IHRoYXQgQnJlcG9scy0tcGFyZG9uIAogIG1lLCBCcmVwb2xpcy4uLnllZXNo
+LS0taGFzIHRoaXMgYWxsIGZpZ3VyZWQgb3V0IGJ1dCB0aGV5IGRvbid0IHBsYXkgd2lsbCB3aXRo
+IAogIG90aGVycywgc28gdGhhdCdzIGEgY2xvc2VkIGRvb3IuKS4mbmJzcDsgTXkgbGltaXRlZCBz
+Y291cmluZyBvZiB0aGUgd2ViIGhhcyAKICB5aWVsZGVkIG5vIGpveSwmbmJzcDthbmQgc28mbmJz
+cDtJIHNlZWsgdGhlIHNhZ2UgYWR2aWNlJm5ic3A7b2YgdGhpcyAKICBjb21tdW5pdHkuICZuYnNw
+OzwvRk9OVD48L0RJVj4KICA8RElWPjxGT05UIGZhY2U9QXJpYWwgc2l6ZT0yPjwvRk9OVD4mbmJz
+cDs8L0RJVj4KICA8RElWPjxGT05UIGZhY2U9QXJpYWwgc2l6ZT0yPk1hbnkgdGhhbmtzPC9GT05U
+PjwvRElWPgogIDxESVY+PEZPTlQgZmFjZT1BcmlhbCBzaXplPTI+SmltPC9GT05UPjwvRElWPgog
+IDxESVY+PEZPTlQgZmFjZT1BcmlhbCBzaXplPTI+PC9GT05UPiZuYnNwOzwvRElWPgogIDxESVY+
+PEZPTlQgZmFjZT1BcmlhbCBzaXplPTI+LS0tLS0tLS0tLS0tLS0tLS0tLS08QlI+RHIgSmFtZXMg
+Ui4gR2ludGhlciwgCiAgUGhEPEJSPkFzc29jLiBQcm9mZXNzb3Igb2YgTWVkaWV2YWwgVGhlb2xv
+Z3k8QlI+JmFtcDsgRGlyZWN0b3Igb2YgR3JhZHVhdGUgCiAgU3R1ZGllczxCUj5EZXB0IG9mIFRo
+ZW9sb2dpY2FsIFN0dWRpZXM8QlI+U3QgTG91aXMgVW5pdmVyc2l0eTxCUj48QSAKICBocmVmPSJt
+YWlsdG86Z2ludGhlakBzbHUuZWR1Ij5naW50aGVqQHNsdS5lZHU8L0E+PEJSPi0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLTxCUj5kZXB0OiAKICA8QSBocmVmPSJodHRwOi8vdGhlb2xv
+Z3kuc2x1LmVkdS8iPmh0dHA6Ly90aGVvbG9neS5zbHUuZWR1LzwvQT48QlI+cmVzZWFyY2g6IAog
+IDxBIAogIGhyZWY9Imh0dHA6Ly93d3cuZ3Jvc3NldGVzdGUuY29tLyI+aHR0cDovL3d3dy5ncm9z
+c2V0ZXN0ZS5jb20vPC9BPjwvRk9OVD48L0RJVj48L0JMT0NLUVVPVEU+PC9CT0RZPjwvSFRNTD4K

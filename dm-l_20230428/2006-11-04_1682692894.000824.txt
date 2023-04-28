@@ -1,0 +1,136 @@
+Subject: Re: [dm-l] Access or ExcelThanks for all the comments.  I am currently using Excel, but I may end 
+up using
+SPSS.  I've tried Access, and it's complicated trying to obtain statistical
+information that I want which Excel seems to do with ease.To tell you the truth, what I am doing is calculating the number of formulaic
+patterns and the number of punctuation marks in the Exeter Book.  It is quite
+simple to look at all the information in Excel, but I cannot really compare
+results from the formulaic patterns with the punctuation practises, since the
+data is quite large and multidimensional. I think that Minitab would work well
+from what I have been told, but I have no experience with this tool.Best,
+A.
+_redacted_(a)uleth.ca>:> Hi Abdullah,
+>
+> Would you want to report back to us on what you decide? This seems like
+> an interesting problem.
+>
+> -dan
+>
+> On Mon, 2006-30-10 at 14:46 +0100, Joris van Zundert wrote:
+>> HI Abdullah,
+>>
+>> You said 'data crunching'. It looks like I should interpret that as
+>> 'counting and computing numbers'. If so, stick to Excel. Access is a
+>> database. Databases are about describing/modeling, categorising,
+>> searching and selecting data. Spreadsheets are the things of use if
+>> you actually want to count things and apply statistics.
+>>
+>> That said, you could do it in Access - but it would take a
+>> considerable amount of additional VBA-scripting to get Access to count
+>> your phenomena properly. Excel should provide standard functions and
+>> solutions in most cases.
+>>
+>> If you're talking about really vast amounts of data, consider using
+>> more advanced statistical tools like SPSS or Stata.
+>>
+>> Hope this helps,
+>> y.s.,
+>> Joris van Zundert
+>>
+>>
+>> On 10/29/06, Abdullah Alger
+_redacted_(a)postgrad.manchester.ac.uk> wrote:
+>>         Dear all,
+>>
+>>         I would like to ask for advice whether I should use MS Access
+>>         or Excel for data
+>>         crunching.  I have been using Excel for some work I am doing
+>>         on Old English
+>>         poetry where I am looking at specific features of a fixed set
+>>         of poems.
+>>         However, I have decided also to look at other aspects of the
+>>         same set of poems.
+>>
+>>         To put it in a nutshell, I have three sets of data I want to
+>>         compare concerning
+>>         the same poems in order to see where the trends are.  I know
+>>         how to use Excel
+>>         fairly well - at least to get statistical information - but I
+>>         have been getting
+>>         into trouble when trying to find trends across several sets of
+>>         data.  I thought
+>>         about pivot tables, but I am not sure if that's the way to go,
+>>         when I think
+>>         that I may be able to do things easier in Access - even though
+>>         I don't know
+>>         anything about how to use it.
+>>
+>>         Which application would you suggest I use?
+>>
+>>         Best,
+>>         Abdullah Alger
+>>
+>>         _______________________________________________
+>>         Digital Medievalist Project
+>>         Homepage: http://www.digitalmedievalist.org
+>>         Journal (Spring 2005-):
+>>         http://www.digitalmedievalist.org/journal.cfm
+>>         RSS (announcements) server:
+>>         http://www.digitalmedievalist.org/rss/rss2.cfm
+>>         Wiki: http://sql.uleth.ca/dmorgwiki/index.php
+>>         Change membership options:
+>>         http://listserv.uleth.ca/mailman/listinfo/dm-l
+>>         Submit RSS announcement:
+>>         http://www.digitalmedievalist.org/newitem.cfm
+_redacted_(a)uleth.ca
+>>         dm-l mailing list
+_redacted_(a)uleth.ca
+>>         http://listserv.uleth.ca/mailman/listinfo/dm-l
+>>
+>>
+>>
+>> --
+>> Mr. Joris J. van Zundert (MA)
+>> Huygens Institute
+>> Royal Academy of Arts and Sciences
+>>
+>> Contact information can be found at http://www.brandaen.org
+>>
+>> A disclaimer is applicable to this e-mail, please refer to
+>> http://www.brandaen.org/emaildisclaimer for more information
+>> _______________________________________________
+>> Digital Medievalist Project
+>> Homepage: http://www.digitalmedievalist.org
+>> Journal (Spring 2005-): http://www.digitalmedievalist.org/journal.cfm
+>> RSS (announcements) server: http://www.digitalmedievalist.org/rss/rss2.cfm
+>> Wiki: http://sql.uleth.ca/dmorgwiki/index.php
+>> Change membership options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>> Submit RSS announcement: http://www.digitalmedievalist.org/newitem.cfm
+_redacted_(a)uleth.ca
+>> dm-l mailing list
+_redacted_(a)uleth.ca
+>> http://listserv.uleth.ca/mailman/listinfo/dm-l
+> --
+> Daniel Paul O'Donnell, PhD
+> Chair, Text Encoding Initiative <http://www.tei-c.org/>
+> Director, Digital Medievalist Project <http://www.digitalmedievalist.org/>
+> Associate Professor and Chair of English
+> University of Lethbridge
+> Lethbridge AB T1K 3M4
+> Vox: +1 403 329 2378
+> Fax: +1 403 382-7191
+> Homepage: http://people.uleth.ca/~daniel.odonnell/
+>
+>
+> _______________________________________________
+> Digital Medievalist Project
+> Homepage: http://www.digitalmedievalist.org
+> Journal (Spring 2005-): http://www.digitalmedievalist.org/journal.cfm
+> RSS (announcements) server: http://www.digitalmedievalist.org/rss/rss2.cfm
+> Wiki: http://sql.uleth.ca/dmorgwiki/index.php
+> Change membership options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+> Submit RSS announcement: http://www.digitalmedievalist.org/newitem.cfm
+_redacted_(a)uleth.ca
+> dm-l mailing list
+_redacted_(a)uleth.ca
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+>

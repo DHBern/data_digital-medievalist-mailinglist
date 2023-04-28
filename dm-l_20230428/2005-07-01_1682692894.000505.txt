@@ -1,0 +1,50 @@
+Subject: Re: [dm-l] Re: dm-l Digest, Vol 11, Issue 6Hi all,I tend to agree on Martin Holmes point. Apparently however, he's talking 
+from a luxurious position. Wow, having your own Humanities Computing Centre, 
+with stable funding and reliable job opportunities for 
+researcher/programmers. Brilliant, I'm truly jealous! In The Netherlands 
+(and I guess in other countries too) we're only having a toehold on stable 
+funding for computational aspects in Humanities. Most programming, research 
+and development in Humanities Computing is still ad hoc and moreover ad hoc 
+funded. Imagine: lone researchers that somewhere along the way grasped the 
+potentials of information technology cowboy coding away. Do not even think 
+of stable coding environments, shared languages, good programming practices 
+and standards compliance! (Okay, I might be exaggerating somewhat for the 
+benefit of clearness:)It's of course only in proving the added value of computational approaches 
+that we should be able to gain firmer ground. But in that case it would 
+clearly help us a lot when building tools would also benefit one's academic 
+esteem.Having said that, I totally disagree with Martin's last point. Open sourcing 
+is not about abandoning your source code. It's about giving the Humanities 
+community insight in what you are doing for benefit of academic review and 
+control. Research based on computation should always be reproducible and 
+controllable by peers. Also peers should be able to do code review to 
+control the exact and correct working of any algorithm. That can only be 
+accomplished by open sourcing your code bases. y.s.,
+Joris van ZundertSGkgYWxsLDxicj4KPGJyPgpJIHRlbmQgdG8gYWdyZWUgb24gTWFydGluIEhvbG1lcyBwb2ludC4g
+QXBwYXJlbnRseSBob3dldmVyLCBoZSdzCnRhbGtpbmcgZnJvbSBhIGx1eHVyaW91cyBwb3NpdGlv
+bi4gV293LCBoYXZpbmcgeW91ciBvd24gSHVtYW5pdGllcwpDb21wdXRpbmcgQ2VudHJlLCB3aXRo
+IHN0YWJsZSBmdW5kaW5nIGFuZCByZWxpYWJsZSBqb2Igb3Bwb3J0dW5pdGllcwpmb3IgcmVzZWFy
+Y2hlci9wcm9ncmFtbWVycy4gQnJpbGxpYW50LCBJJ20gdHJ1bHkgamVhbG91cyEgSW4gVGhlCk5l
+dGhlcmxhbmRzIChhbmQgSSBndWVzcyBpbiBvdGhlciBjb3VudHJpZXMgdG9vKSB3ZSdyZSBvbmx5
+IGhhdmluZyBhCnRvZWhvbGQgb24gc3RhYmxlIGZ1bmRpbmcgZm9yIGNvbXB1dGF0aW9uYWwgYXNw
+ZWN0cyBpbiBIdW1hbml0aWVzLiBNb3N0CnByb2dyYW1taW5nLCByZXNlYXJjaCBhbmQgZGV2ZWxv
+cG1lbnQgaW4gSHVtYW5pdGllcyBDb21wdXRpbmcgaXMgc3RpbGwKYWQgaG9jIGFuZCBtb3Jlb3Zl
+ciBhZCBob2MgZnVuZGVkLiBJbWFnaW5lOiBsb25lIHJlc2VhcmNoZXJzIHRoYXQKc29tZXdoZXJl
+IGFsb25nIHRoZSB3YXkgZ3Jhc3BlZCB0aGUgcG90ZW50aWFscyBvZiBpbmZvcm1hdGlvbgp0ZWNo
+bm9sb2d5IGNvd2JveSBjb2RpbmcgYXdheS4gRG8gbm90IGV2ZW4gdGhpbmsgb2Ygc3RhYmxlIGNv
+ZGluZwplbnZpcm9ubWVudHMsIHNoYXJlZCBsYW5ndWFnZXMsIGdvb2QgcHJvZ3JhbW1pbmcgcHJh
+Y3RpY2VzIGFuZApzdGFuZGFyZHMgY29tcGxpYW5jZSEgKE9rYXksIEkgbWlnaHQgYmUgZXhhZ2dl
+cmF0aW5nIHNvbWV3aGF0IGZvciB0aGUKYmVuZWZpdCBvZiBjbGVhcm5lc3M6KTxicj4KPGJyPgpJ
+dCdzIG9mIGNvdXJzZSBvbmx5IGluIHByb3ZpbmcgdGhlIGFkZGVkIHZhbHVlIG9mIGNvbXB1dGF0
+aW9uYWwKYXBwcm9hY2hlcyB0aGF0IHdlIHNob3VsZCBiZSBhYmxlIHRvIGdhaW4gZmlybWVyIGdy
+b3VuZC4gQnV0IGluIHRoYXQKY2FzZSBpdCB3b3VsZCBjbGVhcmx5IGhlbHAgdXMgYSBsb3Qgd2hl
+biBidWlsZGluZyB0b29scyB3b3VsZCBhbHNvCmJlbmVmaXQgb25lJ3MgYWNhZGVtaWMgZXN0ZWVt
+Ljxicj4KPGJyPgpIYXZpbmcgc2FpZCB0aGF0LCBJIHRvdGFsbHkgZGlzYWdyZWUgd2l0aCBNYXJ0
+aW4ncyBsYXN0IHBvaW50LiBPcGVuCnNvdXJjaW5nIGlzIG5vdCBhYm91dCBhYmFuZG9uaW5nIHlv
+dXIgc291cmNlIGNvZGUuIEl0J3MgYWJvdXQgZ2l2aW5nCnRoZSBIdW1hbml0aWVzIGNvbW11bml0
+eSBpbnNpZ2h0IGluIHdoYXQgeW91IGFyZSBkb2luZyBmb3IgYmVuZWZpdCBvZgphY2FkZW1pYyBy
+ZXZpZXcgYW5kIGNvbnRyb2wuIFJlc2VhcmNoIGJhc2VkIG9uIGNvbXB1dGF0aW9uIHNob3VsZAph
+bHdheXMgYmUgcmVwcm9kdWNpYmxlIGFuZCBjb250cm9sbGFibGUgYnkgcGVlcnMuIEFsc28gcGVl
+cnMgc2hvdWxkIGJlCmFibGUgdG8gZG8gY29kZSByZXZpZXcgdG8gY29udHJvbCB0aGUgZXhhY3Qg
+YW5kIGNvcnJlY3Qgd29ya2luZyBvZiBhbnkKYWxnb3JpdGhtLiBUaGF0IGNhbiBvbmx5IGJlIGFj
+Y29tcGxpc2hlZCBieSBvcGVuIHNvdXJjaW5nIHlvdXIgY29kZQpiYXNlcy4gPGJyPgo8YnI+Cnku
+cy4sPGJyPgpKb3JpcyB2YW4gWnVuZGVydDxicj4KPGJyPjxicj4K

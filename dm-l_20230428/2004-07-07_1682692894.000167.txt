@@ -1,0 +1,22 @@
+Subject: Re: [dm-l] [Fwd: encoding  maps, graphics with text?]Could be that your firewall is blocking port 8080. Try asking your network
+administrator.Tom
+> Peter Robinson wrote:
+>
+> >But alas
+> >This website does not respond to me
+> >Peter
+> >
+> >
+> >
+> >
+> >>Hi there,
+> >>
+> >>Our Graves Diary project includes enclosures such as letters, telegrams
+> >>etc. You can see the first few months of the markup (in TEI) accessible
+> >>through an eXist/Cocoon interface here:
+> >>
+> >><http://lingo.dcf.uvic.ca:8080/exist/graves/index.xml>
+> >>
+> >>Cheers,
+> >>Martin
+--===============0747181006000359278==--

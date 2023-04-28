@@ -1,0 +1,17 @@
+Subject: [dm-l] numbering linesFolks, I have a number of text files of poetry that I'd like to add line 
+numbers to for concordancing, starting the numbering at 1 and continuing 
+to the last text line, with the line numbers ending up as part of the 
+resulting text file, each number on the relevant line before the text of 
+that line of verse begins.I've done this before a few times a while ago, but danged if I can 
+remember what I used. I know I didn't write anything to do it, though I 
+assume it's pretty easy to do so.  I think it was in a text editor or 
+word processor, but looking at vi and emacs it looks like I can only get 
+the line numbers to display with the file, not to be added to the file, 
+and that's true of some Windows ones as well and of Word, unless there 
+are tricks.The UNIX/Linux "nl" utility does basically what I want (if I pipe the 
+output to a file, I get  my text file back but with a line number and a 
+tab added to the beginning of each line), and I can deal with the output 
+but I remember (possibly from one of those technicolor dreams--you'll 
+let me know!) a more interactive, less command-liney, way of doing this 
+that would make this stage easier.Thanks for any help.Murray McGillivray
+--===============1905071699880587204==--

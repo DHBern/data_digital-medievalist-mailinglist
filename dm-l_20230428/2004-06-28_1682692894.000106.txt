@@ -1,0 +1,50 @@
+Subject: [dm-l] [Fwd: The time has come to make some <choice>s]Hello all,
+    I realise that many of us are on the TEI list and hence have seen 
+this; it is an important question, however, and I thought I would 
+distribute it here as well. If you are just beginning in computer 
+applications, the issue is fairly advanced (though it has already come 
+up), and you're not likely to write a position paper on it in the next 
+30 days; I hope in this one instance, you'll forgive me for not 
+explaining it unless asked.
+-dan-------- Original Message --------
+Subject: 	The time has come to make some s
+Date: 	Mon, 28 Jun 2004 19:20:35 -0400
+_redacted_(a)BROWN.EDU>
+_redacted_(a)tei-c.org
+_redacted_(a)LISTSERV.BROWN.EDU            CALL FOR VOLUNTEERS TO INFLUENCE P5!
+            ---- --- ---------- -- --------- ---Over the last year there has been some public discussion of the
+"replacement Janus" mechanism for P5. The quick overview is that, in
+order to avoid putting content (which might need markup) in attribute
+values (which can't have markup), it has been suggested that we change
+the so-called Janus tags from things like  <corr sic="adnire">admire</corr>
+  <orig reg="w">vv</orig>ith <orig reg="w">vv</orig>hat charity
+  the <abbr expan="Text Encoding Initiative Consortium">tei-c</abbr>to things like  <choice>
+    <sic>adnire</sic>
+    <corr>admire</corr>
+  </choice>
+  <choice><orig>vv</orig><reg>w</reg></choice>ith
+  <choice>
+    <reg>w</reg>
+    <orig>vv</orig>
+  </choice>hat charity the
+  <choice src="abbr">
+    <abbr>tei-c</abbr>
+    <expan>Text Encoding Initiative Consortium</expan>
+  </choice>The TEI Council would like to enlist the assistance of interested
+parties in helping them consider the issues involved. Therefore, this
+is a call for volunteers to write up a short working paper on the
+issues surrounding the use of the new mechanism and of the previous
+attribute mechanism. (Note that some have referred to the new
+mechanism as the "choice" mechanism, but the name of the element used
+in the examples above is not carved in stone, and is one issue the
+authors of this working paper may wish to address.)Current thinking is that a first draft of the paper should be ready by
+Sat 07 Aug, and the final version should be ready on Thu 16 Sep._redacted_(a)tei-c.org.
+-- 
+Daniel Paul O'Donnell, PhD
+Associate Professor of English
+University of Lethbridge
+Lethbridge AB T1K 3M4
+Tel. (403) 329-2377
+Fax. (403) 382-7191
+_redacted_(a)uleth.ca>
+Home Page <http://people.uleth.ca/~daniel.odonnell/>

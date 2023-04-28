@@ -1,0 +1,228 @@
+Subject: Re: [dm-l] Proposed Changes to DMDear all,Many thanks for the thoughts so far, which I appreciate a lot. A few quick re=
+sponses for now:- Yes, certainly the blog would be open to anyone as the wiki is now. This is=
+ encoded in the Byelaws now and will not be changed. Whether it will lead to =
+more input from the Community remains to be seen.- Yes, certainly we would have to preserve the existing URLs, especially for =
+the Journal but ideally also for the static content. The Journal is a particu=
+lar concern here, of course, and some hosting systems require that they are t=
+he only point where the articles are available, meaning that we would have to=
+ remove the current copies. I expect that this could be managed with redirect=
+s, but it's something we need to check very carefully before committing.- One person (off list) suggested simply adding a recaptcha to the wiki. In p=
+rinciple this makes sense, but there is the secondary problem that the sys. a=
+dmin. load is such that this proved much more difficult than expected. It req=
+uired several upgrades of the wiki, combined with issues of getting root acce=
+ss, and our own time pressures. Ultimately the spam is a relatively small asp=
+ect: if we decide that a wiki is worth retaining then yes, there are easy eno=
+ugh ways of doing that. But it will require an investment of time and effort,=
+ and so we thought now is the time to review if it's what we really want.Larry is exactly right in that this is a human problem not a technology probl=
+em. The fundamental difficulty that the Board keeps coming up against, as Lar=
+ry points out, is that we are all contributing our time and effort without an=
+y financial contribution, and the reality is that we are all very busy and st=
+ruggling to find the time to maintain what we have. It's easy enough in short=
+ bursts: the problem is a framework that's sustainable over years. The change=
+ of infrastructure is intended to reduce the load so that we can focus on wha=
+t we are good at and what we can really do that has value to the community: i=
+n short, sys. admin. and XSLT doesn't seem to be the best use of our energies=
+, particularly these days when so many online frameworks are available. A ver=
+y modest amount of money would solve a lot of the problems, but introducing m=
+embership fees would introduce a whole new set of difficulties, and any one-o=
+ff grants or donations are not sustainable in the long term, so I don't think=
+ either of these is feasible.Again, though, I hope I'm not suggesting that any of this is a final decision=
+. We very much do want to hear your thoughts and suggestions.All the best,Peter
+On 21 May 2014, at 17:12, Larry Swain wrote:> I fully recognize some of the key issues that Peter has outlined here.=20
+> My responses:
+>=20
+> I like a wiki as a clearing house of DM projects more than a blog.  The
+> spam sounds like more an issue of how the wiki is set up than the
+> technology itself.  I have no problem either combining or cross listing
+> with the DC wiki and community as there is (and should be!) a good deal
+> of cross over. =20
+>=20
+> To encourage participation in the wiki: 1) grad students and interested
+> undergrads could be given internships at our own institutions with the
+> purpose of writing articles for the wiki. Thus, I, as member of the
+> community, would have a summer intern (for credit) and have this student
+> use and write up projects for the wiki and submit them.  This gives the
+> student some refereed publications, and also seeds things for the
+> future.....getting a student involved so that the next generation of
+> Digital Medievalists is growing and coming of age in direct relationship
+> with this community 2) grows the Wiki as a clearing house for DM
+> projects. =20
+>=20
+> I agree that the bylaws can/should be changed so that the board is not
+> locked into a single technology.  But I think that the issue is not
+> really the technology, but the humans. =20
+>=20
+> I'd be disappointed to see the journal move to a hosting site.  I'm not
+> sure of what advantages there are and I can see a number of
+> disadvantages.  But then I have strong opinions about what we can do in
+> electronic academic publishing and what we are doing. =20
+>=20
+> Recognizing that in an organization like ours where we charge no
+> membership fees also means that we have no money to pay someone to
+> undertake tasks such as coding webpages etc and so on, this means of
+> necessity depending on the generosity of someone to do it.  And again
+> this is an opportunity to cultivate the next generation of digital
+> medievalists rather than sticking James or Dan with it.  Our success
+> depends on our personal involvement, and how we can plug our students
+> into involvement, and I for one have really not been aware of how to do
+> that beyond being a board member.  As a once and future editor of an
+> online journal in the field and chair, I need to know some specifics and
+> where to put student energy to help out both organizations.
+>=20
+> I think there are other and better solutions to the problems outlined.
+>=20
+> --=20
+>  Larry Swain
+_redacted_(a)operamail.com
+>=20
+> On Wed, May 21, 2014, at 08:45 AM, Kalvesmaki, Joel wrote:
+>> My research in late antiquity falls between the worlds of classical and
+>> medieval scholarship. So when I first began to consider which Wiki to
+>> contribute to, DM or the Digital Classicist (wiki.digitalclassicist.org),
+>> I opted for the latter because it had garnered the most contributions and
+>> was at the time the most active. But I wondered at the time why
+>> medievalists and classicists really needed separate wikis anyway, since
+>> the material that was populating the pages applied to any field studying
+>> pre-modernity. Material surfaces in both spheres of exploration that
+>> could benefit any other. Thus, the "classicist" in "Digital Classicist"
+>> is not restricted to pre-2nd c. material; their wiki already has quite a
+>> lot of medieval and Byzantine content on it.
+>>=20
+>> So instead of altering the bylaws, why not simply have DM endorse either
+>> the DC wiki or a comparable one? Follow the road of collaboration?=20
+>>=20
+>> Best wishes,
+>>=20
+>> jk
+>> --
+>> Joel Kalvesmaki
+>> Editor in Byzantine Studies
+>> Dumbarton Oaks
+>> 1703 32nd St. NW
+>> Washington, DC 20007
+>> (202) 339-6435
+>>=20
+>> ________________________________________
+_redacted_(a)uleth.ca] on behalf of Stokes, Peter
+_redacted_(a)kcl.ac.uk]
+>> Sent: Wednesday, May 21, 2014 8:05 AM
+_redacted_(a)uleth.ca
+>> Subject: [SPAM - Header] - [dm-l] Proposed Changes to DM - Email found in
+>> subject
+>>=20
+>> Dear all,
+>>=20
+>> I apologise for the length of this e-mail, but I write regarding a series
+>> of fairly fundamental changes to the DM infrastructure that we have been
+>> planning for some time now. Given the scale of these changes, we on the
+>> DM Board think it is important to explain these in some detail and
+>> request feedback from the Community before we go ahead with them. They
+>> will also require a change of the Byelaws, and so again we need input
+>> from the Community for this.
+>>=20
+>> Unfortunately the existing infrastructure has proven unmanageable. The
+>> wiki and mailing-list have both been subject to large-scale spam attacks,
+>> such that the wiki now contains many many thousands of articles, only 70
+>> or so of which are genuine. The wiki has also had almost no activity
+>> beyond that of the Board, and so it has not been doing the job that we
+>> had hoped. Furthermore the website itself, which we have been hosting and
+>> coding ourselves (with substantial help from James Cummings and Dan
+>> O=E2=80=99Donnell) is also proving increasingly difficult to manage: it de=
+pends
+>> on the generosity of James and Dan to host and administer, even adding
+>> new pages is not trivial, and it has needed a dramatic overhaul for some
+>> time but to do this requires much more time and effort than we have been
+>> able to manage. For all of these reasons, we propose the following:
+>>=20
+>> 1. Moving the static website from the existing infrastructure (Cocoon +
+>> TEI + custom XSLT) to a standard CMS (currently Wordpress).
+>> 2. Closing down the wiki entirely and replacing it with a blog.
+>> 3. For the moment we are leaving the Journal in place, but we are very
+>> likely to move it to a dedicated open journal hosting of some sort. We
+>> have been discussing this in some detail with Revues.org but are not yet
+>> committed to this.
+>>=20
+>> As most of you have realised, we have already set up a Wordpress version
+>> of the site at <http://digitalmedievalist.wordpress.com/>, and this is
+>> already proving to overcome the problems listed above. The proposal is
+>> therefore to make this the DM site and close down the old one, except
+>> perhaps for the Journal.
+>>=20
+>> However, the current Byelaws require that DM maintains a wiki (see
+>> <http://digitalmedievalist.wordpress.com/about/byelaws/#wiki>). The Board
+>> is therefore not free to close the existing wiki without first changing
+>> the Byelaws. Even if we chose to keep the wiki, however, the Board feels
+>> that the Byelaws should not lock us into using any single technology, and
+>> so they should be changed even if we keep the existing infrastructure.
+>> The details of the proposed changes to the Byelaws will be posted shortly
+>> as a separate e-mail and on the new website, but in essence we propose
+>> simply to replace the term 'wiki' with 'information resources' and to
+>> adapt the containing sentences accordingly.
+>>=20
+>> We would be grateful for any feedback about any aspect of this,
+>> preferably by e-mail to the list for general discussion, or alternatively
+_redacted_(a)digitalmedievalist.org or any members of the Board directly. The
+>> next Board meeting is 4pm GMT+1 on Monday 2 June, at which point any
+>> comments will be discussed, and any changes in the Byelaws will be
+>> presented to the membership for vote shortly after that (as specified in
+>> =C2=A79 of the Byelaws:
+>> <http://digitalmedievalist.wordpress.com/about/byelaws/#amendments>).
+>>=20
+>> Thank you, and we look forward to receiving your comments.
+>>=20
+>> Peter Stokes (on behalf of the Executive Board)
+>>=20
+>> --
+>> Dr Peter Stokes
+>> Senior Lecturer
+>> Department of Digital Humanities
+>> King's College London
+>> Room 218, 2nd Floor
+>> 26-29 Drury Lane
+>> London, WC2B 5RL
+>> Tel: +44 (0)20 7848 2813
+_redacted_(a)kcl.ac.uk
+>>=20
+>>=20
+>> Digital Medievalist --  http://www.digitalmedievalist.org/
+>> Journal: http://www.digitalmedievalist.org/journal/
+>> Journal Editors: editors _AT_ digitalmedievalist.org
+>> News: http://www.digitalmedievalist.org/news/
+>> Wiki: http://www.digitalmedievalist.org/wiki/
+>> Twitter: http://twitter.com/digitalmedieval
+>> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+_redacted_(a)uleth.ca
+>> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>>=20
+>> Digital Medievalist --  http://www.digitalmedievalist.org/
+>> Journal: http://www.digitalmedievalist.org/journal/
+>> Journal Editors: editors _AT_ digitalmedievalist.org
+>> News: http://www.digitalmedievalist.org/news/
+>> Wiki: http://www.digitalmedievalist.org/wiki/
+>> Twitter: http://twitter.com/digitalmedieval
+>> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+_redacted_(a)uleth.ca
+>> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>=20
+> --=20
+> http://www.fastmail.fm - Same, same, but different...
+>=20
+>=20
+> Digital Medievalist --  http://www.digitalmedievalist.org/
+> Journal: http://www.digitalmedievalist.org/journal/
+> Journal Editors: editors _AT_ digitalmedievalist.org
+> News: http://www.digitalmedievalist.org/news/
+> Wiki: http://www.digitalmedievalist.org/wiki/
+> Twitter: http://twitter.com/digitalmedieval
+> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+_redacted_(a)uleth.ca
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l--
+Dr Peter Stokes
+Senior Lecturer
+Department of Digital Humanities
+King's College London
+Room 218, 2nd Floor
+26-29 Drury Lane
+London, WC2B 5RL
+Tel: +44 (0)20 7848 2813
+_redacted_(a)kcl.ac.uk

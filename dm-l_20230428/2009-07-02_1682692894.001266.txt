@@ -1,0 +1,19 @@
+Subject: Re: [dm-l] Anybody know of a html --> mediawiki parser/script?Boy, good thing we're all linux people here ;)-dan-----------
+Daniel O'Donnell
+University of Lethbridge
+(From my mobile telephone)--- original message ---
+_redacted_(a)digitalmedievalist.org>
+Subject: Re: [dm-l] Anybody know of a html --> mediawiki parser/script?
+Date: July 2, 2009
+Time: 3:4:1 On Thu, Jul 2, 2009 at 8:09 PM, Daniel Paul
+_redacted_(a)gmail.com> wrote:
+> Hi all,
+>
+> Anybody know of a script or parser that could convert HTML files INTO
+> mediawiki markup? We have a whole bunch of rescued wiki pages from
+> archive.org, but they are only the HTML display version. Cutting and pasting
+> the html into the mediawiki edit window isn't working as cleanly as I
+> thought it might, so I'm looking for something that would strip out markup
+> mediawiki doesn't accept.
+>In ubuntu linux:sudo apt-get install libhtml-wikiconverter-mediawiki-perlthen use html2wiki(untested but seems to be built for just this job)-James
+--===============1183754173864114509==--

@@ -1,0 +1,194 @@
+Subject: Re: [dm-l] small and large collectionsIt's by no means an off-topic question. Please let us know the results of
+your research!_redacted_(a)nd.edu> wrote:> Check out the CANTUS database, which is the basic search engine for
+> medieval musicologists. You will see that many of the MSS in the database
+> are linked to images that can be found on other sites, a greatly useful
+> feature.  It might be a good example for you as it is heavily trafficked.
+> Margot Fassler
+> Keough Hesburgh Professor of Music History and Liturgy
+> Director, Program in Sacred Music
+> University of Notre Dame
+>
+_redacted_(a)sas.ac.uk>
+> wrote:
+>
+>> Dear Matija,
+>>
+>> One example, which might or might not be the sort of thing you are
+>> looking for, is the catalogue of papyri at the University of Michigan,
+>> which is accessible both as a local catalogue (
+>> http://quod.lib.umich.edu/a/apis?page=index) and through the Papyri.info
+>> portal (http://papyri.info/search?COLLECTION=michigan). I think the
+>> data/metadata contained by the two sites is more or less the same, but
+>> Michigan may also maintain some catalogue data that isn't included in the
+>> APIS format that Papyri.info serve.
+>>
+>> (I picked Michigan at random, but I'm sure at least a few of the other
+>> contributing APIS institutions [http://papyri.info/browse/apis/] also
+>> serve their collections locally as well as through Papyri.info.)
+>>
+>> Hope this helps,
+>>
+>> Gabby
+>>
+>>
+>> On 27/11/2015 14:39, Matija Ogrin wrote:
+>>
+>>> Dear Colleagues,
+>>>
+>>> Can you please give any example of a (small) digital collection of
+>>> manuscript or printed primary sources which, 1) operates as an
+>>> independent web-portal AND also 2) their data are in some way
+>>> included/aggregated into some large collection or digital library?
+>>>
+>>> I am particularly interested in what happens as data pass from a "small"
+>>> into a "large" digital resource? What kind of data are most suitable and
+>>> frequent object of such aggregation in our area of digital humanities:
+>>> only meta-data, or also msDesc, digital images, transcriptions? How
+>>> "visible" is the original small collection after the aggregation? Etc.
+>>>
+>>> I hope this is not an off-topic question. Thank you for any advice,
+>>>
+>>> Matija
+>>>
+>>>
+>> --
+>> Dr Gabriel BODARD
+>> Reader in Digital Classics
+>>
+>> Institute of Classical Studies
+>> University of London
+>> Senate House
+>> Malet Street
+>> London WC1E 7HU
+>>
+_redacted_(a)sas.ac.uk
+>> T: +44 (0)20 78628752
+>>
+>> http://digitalclassicist.org/
+>>
+>>
+>> Digital Medievalist --  http://www.digitalmedievalist.org/
+>> Journal: http://www.digitalmedievalist.org/journal/
+>> Journal Editors: editors _AT_ digitalmedievalist.org
+>> News: https://digitalmedievalist.wordpress.com/news/
+>> Twitter: http://twitter.com/digitalmedieval
+>> Facebook: http://www.facebook.com/group.php?gid=49320313760
+_redacted_(a)uleth.ca
+>> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>>
+>
+> Digital Medievalist --  http://www.digitalmedievalist.org/
+> Journal: http://www.digitalmedievalist.org/journal/
+> Journal Editors: editors _AT_ digitalmedievalist.org
+> News: https://digitalmedievalist.wordpress.com/news/
+> Twitter: http://twitter.com/digitalmedieval
+> Facebook: http://www.facebook.com/group.php?gid=49320313760
+_redacted_(a)uleth.ca
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-lPGRpdiBkaXI9Imx0ciI+SXQmIzM5O3MgYnkgbm8gbWVhbnMgYW4gb2ZmLXRvcGljIHF1ZXN0aW9u
+LiBQbGVhc2UgbGV0IHVzIGtub3cgdGhlIHJlc3VsdHMgb2YgeW91ciByZXNlYXJjaCE8YnI+PC9k
+aXY+PGJyPjxkaXYgY2xhc3M9ImdtYWlsX3F1b3RlIj48ZGl2IGRpcj0ibHRyIj5PbiBGcmksIDI3
+IE5vdiAyMDE1IGF0IDA4OjIyIE1hcmdvdCBGYXNzbGVyICZsdDs8YSBocmVmPSJtYWlsdG86bWFy
+Z290LmZhc3NsZXJAbmQuZWR1Ij5tYXJnb3QuZmFzc2xlckBuZC5lZHU8L2E+Jmd0OyB3cm90ZTo8
+YnI+PC9kaXY+PGJsb2NrcXVvdGUgY2xhc3M9ImdtYWlsX3F1b3RlIiBzdHlsZT0ibWFyZ2luOjAg
+MCAwIC44ZXg7Ym9yZGVyLWxlZnQ6MXB4ICNjY2Mgc29saWQ7cGFkZGluZy1sZWZ0OjFleCI+PGRp
+diBkaXI9Imx0ciI+PGRpdj48ZGl2PjxkaXY+PGRpdj5DaGVjayBvdXQgdGhlIENBTlRVUyBkYXRh
+YmFzZSwgd2hpY2ggaXMgdGhlIGJhc2ljIHNlYXJjaCBlbmdpbmUgZm9yIG1lZGlldmFsIG11c2lj
+b2xvZ2lzdHMuIFlvdSB3aWxsIHNlZSB0aGF0IG1hbnkgb2YgdGhlIE1TUyBpbiB0aGUgZGF0YWJh
+c2UgYXJlIGxpbmtlZCB0byBpbWFnZXMgdGhhdCBjYW4gYmUgZm91bmQgb24gb3RoZXIgc2l0ZXMs
+IGEgZ3JlYXRseSB1c2VmdWwgZmVhdHVyZS7CoCBJdCBtaWdodCBiZSBhIGdvb2QgZXhhbXBsZSBm
+b3IgeW91IGFzIGl0IGlzIGhlYXZpbHkgdHJhZmZpY2tlZC48YnI+PC9kaXY+TWFyZ290IEZhc3Ns
+ZXI8YnI+PC9kaXY+S2VvdWdoIEhlc2J1cmdoIFByb2Zlc3NvciBvZiBNdXNpYyBIaXN0b3J5IGFu
+ZCBMaXR1cmd5PGJyPjwvZGl2PkRpcmVjdG9yLCBQcm9ncmFtIGluIFNhY3JlZCBNdXNpYzxicj48
+L2Rpdj48L2Rpdj48ZGl2IGRpcj0ibHRyIj5Vbml2ZXJzaXR5IG9mIE5vdHJlIERhbWU8YnI+PC9k
+aXY+PGRpdiBjbGFzcz0iZ21haWxfZXh0cmEiPjxicj48ZGl2IGNsYXNzPSJnbWFpbF9xdW90ZSI+
+T24gRnJpLCBOb3YgMjcsIDIwMTUgYXQgOTo1NyBBTSwgR2FicmllbCBCT0RBUkQgPHNwYW4gZGly
+PSJsdHIiPiZsdDs8YSBocmVmPSJtYWlsdG86R2FicmllbC5ib2RhcmRAc2FzLmFjLnVrIiB0YXJn
+ZXQ9Il9ibGFuayI+R2FicmllbC5ib2RhcmRAc2FzLmFjLnVrPC9hPiZndDs8L3NwYW4+IHdyb3Rl
+Ojxicj48YmxvY2txdW90ZSBjbGFzcz0iZ21haWxfcXVvdGUiIHN0eWxlPSJtYXJnaW46MCAwIDAg
+LjhleDtib3JkZXItbGVmdDoxcHggI2NjYyBzb2xpZDtwYWRkaW5nLWxlZnQ6MWV4Ij5EZWFyIE1h
+dGlqYSw8YnI+Cjxicj4KT25lIGV4YW1wbGUsIHdoaWNoIG1pZ2h0IG9yIG1pZ2h0IG5vdCBiZSB0
+aGUgc29ydCBvZiB0aGluZyB5b3UgYXJlIGxvb2tpbmcgZm9yLCBpcyB0aGUgY2F0YWxvZ3VlIG9m
+IHBhcHlyaSBhdCB0aGUgVW5pdmVyc2l0eSBvZiBNaWNoaWdhbiwgd2hpY2ggaXMgYWNjZXNzaWJs
+ZSBib3RoIGFzIGEgbG9jYWwgY2F0YWxvZ3VlICg8YSBocmVmPSJodHRwOi8vcXVvZC5saWIudW1p
+Y2guZWR1L2EvYXBpcz9wYWdlPWluZGV4IiByZWw9Im5vcmVmZXJyZXIiIHRhcmdldD0iX2JsYW5r
+Ij5odHRwOi8vcXVvZC5saWIudW1pY2guZWR1L2EvYXBpcz9wYWdlPWluZGV4PC9hPikgYW5kIHRo
+cm91Z2ggdGhlIFBhcHlyaS5pbmZvIHBvcnRhbCAoPGEgaHJlZj0iaHR0cDovL3BhcHlyaS5pbmZv
+L3NlYXJjaD9DT0xMRUNUSU9OPW1pY2hpZ2FuIiByZWw9Im5vcmVmZXJyZXIiIHRhcmdldD0iX2Js
+YW5rIj5odHRwOi8vcGFweXJpLmluZm8vc2VhcmNoP0NPTExFQ1RJT049bWljaGlnYW48L2E+KS4g
+SSB0aGluayB0aGUgZGF0YS9tZXRhZGF0YSBjb250YWluZWQgYnkgdGhlIHR3byBzaXRlcyBpcyBt
+b3JlIG9yIGxlc3MgdGhlIHNhbWUsIGJ1dCBNaWNoaWdhbiBtYXkgYWxzbyBtYWludGFpbiBzb21l
+IGNhdGFsb2d1ZSBkYXRhIHRoYXQgaXNuJiMzOTt0IGluY2x1ZGVkIGluIHRoZSBBUElTIGZvcm1h
+dCB0aGF0IFBhcHlyaS5pbmZvIHNlcnZlLjxicj4KPGJyPgooSSBwaWNrZWQgTWljaGlnYW4gYXQg
+cmFuZG9tLCBidXQgSSYjMzk7bSBzdXJlIGF0IGxlYXN0IGEgZmV3IG9mIHRoZSBvdGhlciBjb250
+cmlidXRpbmcgQVBJUyBpbnN0aXR1dGlvbnMgWzxhIGhyZWY9Imh0dHA6Ly9wYXB5cmkuaW5mby9i
+cm93c2UvYXBpcy8iIHJlbD0ibm9yZWZlcnJlciIgdGFyZ2V0PSJfYmxhbmsiPmh0dHA6Ly9wYXB5
+cmkuaW5mby9icm93c2UvYXBpcy88L2E+XSBhbHNvIHNlcnZlIHRoZWlyIGNvbGxlY3Rpb25zIGxv
+Y2FsbHkgYXMgd2VsbCBhcyB0aHJvdWdoIFBhcHlyaS5pbmZvLik8YnI+Cjxicj4KSG9wZSB0aGlz
+IGhlbHBzLDxicj4KPGJyPgpHYWJieTxzcGFuPjxicj4KPGJyPgo8YnI+Ck9uIDI3LzExLzIwMTUg
+MTQ6MzksIE1hdGlqYSBPZ3JpbiB3cm90ZTo8YnI+CjxibG9ja3F1b3RlIGNsYXNzPSJnbWFpbF9x
+dW90ZSIgc3R5bGU9Im1hcmdpbjowIDAgMCAuOGV4O2JvcmRlci1sZWZ0OjFweCAjY2NjIHNvbGlk
+O3BhZGRpbmctbGVmdDoxZXgiPgpEZWFyIENvbGxlYWd1ZXMsPGJyPgo8YnI+CkNhbiB5b3UgcGxl
+YXNlIGdpdmUgYW55IGV4YW1wbGUgb2YgYSAoc21hbGwpIGRpZ2l0YWwgY29sbGVjdGlvbiBvZjxi
+cj4KbWFudXNjcmlwdCBvciBwcmludGVkIHByaW1hcnkgc291cmNlcyB3aGljaCwgMSkgb3BlcmF0
+ZXMgYXMgYW48YnI+CmluZGVwZW5kZW50IHdlYi1wb3J0YWwgQU5EIGFsc28gMikgdGhlaXIgZGF0
+YSBhcmUgaW4gc29tZSB3YXk8YnI+CmluY2x1ZGVkL2FnZ3JlZ2F0ZWQgaW50byBzb21lIGxhcmdl
+IGNvbGxlY3Rpb24gb3IgZGlnaXRhbCBsaWJyYXJ5Pzxicj4KPGJyPgpJIGFtIHBhcnRpY3VsYXJs
+eSBpbnRlcmVzdGVkIGluIHdoYXQgaGFwcGVucyBhcyBkYXRhIHBhc3MgZnJvbSBhICZxdW90O3Nt
+YWxsJnF1b3Q7PGJyPgppbnRvIGEgJnF1b3Q7bGFyZ2UmcXVvdDsgZGlnaXRhbCByZXNvdXJjZT8g
+V2hhdCBraW5kIG9mIGRhdGEgYXJlIG1vc3Qgc3VpdGFibGUgYW5kPGJyPgpmcmVxdWVudCBvYmpl
+Y3Qgb2Ygc3VjaCBhZ2dyZWdhdGlvbiBpbiBvdXIgYXJlYSBvZiBkaWdpdGFsIGh1bWFuaXRpZXM6
+PGJyPgpvbmx5IG1ldGEtZGF0YSwgb3IgYWxzbyBtc0Rlc2MsIGRpZ2l0YWwgaW1hZ2VzLCB0cmFu
+c2NyaXB0aW9ucz8gSG93PGJyPgomcXVvdDt2aXNpYmxlJnF1b3Q7IGlzIHRoZSBvcmlnaW5hbCBz
+bWFsbCBjb2xsZWN0aW9uIGFmdGVyIHRoZSBhZ2dyZWdhdGlvbj8gRXRjLjxicj4KPGJyPgpJIGhv
+cGUgdGhpcyBpcyBub3QgYW4gb2ZmLXRvcGljIHF1ZXN0aW9uLiBUaGFuayB5b3UgZm9yIGFueSBh
+ZHZpY2UsPGJyPgo8YnI+Ck1hdGlqYTxicj4KPGJyPgo8L2Jsb2NrcXVvdGU+Cjxicj4KLS0gPGJy
+Pjwvc3Bhbj4KRHIgR2FicmllbCBCT0RBUkQ8YnI+ClJlYWRlciBpbiBEaWdpdGFsIENsYXNzaWNz
+PGJyPgo8YnI+Ckluc3RpdHV0ZSBvZiBDbGFzc2ljYWwgU3R1ZGllczxicj4KVW5pdmVyc2l0eSBv
+ZiBMb25kb248YnI+ClNlbmF0ZSBIb3VzZTxicj4KTWFsZXQgU3RyZWV0PGJyPgpMb25kb24gV0Mx
+RSA3SFU8YnI+Cjxicj4KRTogPGEgaHJlZj0ibWFpbHRvOkdhYnJpZWwuYm9kYXJkQHNhcy5hYy51
+ayIgdGFyZ2V0PSJfYmxhbmsiPkdhYnJpZWwuYm9kYXJkQHNhcy5hYy51azwvYT48YnI+ClQ6IDxh
+IGhyZWY9InRlbDolMkI0NCUyMCUyODAlMjkyMCUyMDc4NjI4NzUyIiB2YWx1ZT0iKzQ0MjA3ODYy
+ODc1MiIgdGFyZ2V0PSJfYmxhbmsiPis0NCAoMCkyMCA3ODYyODc1MjwvYT48YnI+Cjxicj4KPGEg
+aHJlZj0iaHR0cDovL2RpZ2l0YWxjbGFzc2ljaXN0Lm9yZy8iIHJlbD0ibm9yZWZlcnJlciIgdGFy
+Z2V0PSJfYmxhbmsiPmh0dHA6Ly9kaWdpdGFsY2xhc3NpY2lzdC5vcmcvPC9hPjxkaXY+PGRpdj48
+YnI+Cjxicj4KRGlnaXRhbCBNZWRpZXZhbGlzdCAtLcKgIDxhIGhyZWY9Imh0dHA6Ly93d3cuZGln
+aXRhbG1lZGlldmFsaXN0Lm9yZy8iIHJlbD0ibm9yZWZlcnJlciIgdGFyZ2V0PSJfYmxhbmsiPmh0
+dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy88L2E+PGJyPgpKb3VybmFsOiA8YSBocmVm
+PSJodHRwOi8vd3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmcvam91cm5hbC8iIHJlbD0ibm9yZWZl
+cnJlciIgdGFyZ2V0PSJfYmxhbmsiPmh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy9q
+b3VybmFsLzwvYT48YnI+CkpvdXJuYWwgRWRpdG9yczogZWRpdG9ycyBfQVRfIDxhIGhyZWY9Imh0
+dHA6Ly9kaWdpdGFsbWVkaWV2YWxpc3Qub3JnIiByZWw9Im5vcmVmZXJyZXIiIHRhcmdldD0iX2Js
+YW5rIj5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnPC9hPjxicj4KTmV3czogPGEgaHJlZj0iaHR0cHM6
+Ly9kaWdpdGFsbWVkaWV2YWxpc3Qud29yZHByZXNzLmNvbS9uZXdzLyIgcmVsPSJub3JlZmVycmVy
+IiB0YXJnZXQ9Il9ibGFuayI+aHR0cHM6Ly9kaWdpdGFsbWVkaWV2YWxpc3Qud29yZHByZXNzLmNv
+bS9uZXdzLzwvYT48YnI+ClR3aXR0ZXI6IDxhIGhyZWY9Imh0dHA6Ly90d2l0dGVyLmNvbS9kaWdp
+dGFsbWVkaWV2YWwiIHJlbD0ibm9yZWZlcnJlciIgdGFyZ2V0PSJfYmxhbmsiPmh0dHA6Ly90d2l0
+dGVyLmNvbS9kaWdpdGFsbWVkaWV2YWw8L2E+PGJyPgpGYWNlYm9vazogPGEgaHJlZj0iaHR0cDov
+L3d3dy5mYWNlYm9vay5jb20vZ3JvdXAucGhwP2dpZD00OTMyMDMxMzc2MCIgcmVsPSJub3JlZmVy
+cmVyIiB0YXJnZXQ9Il9ibGFuayI+aHR0cDovL3d3dy5mYWNlYm9vay5jb20vZ3JvdXAucGhwP2dp
+ZD00OTMyMDMxMzc2MDwvYT48YnI+CkRpc2N1c3Npb24gbGlzdDogPGEgaHJlZj0ibWFpbHRvOmRt
+LWxAdWxldGguY2EiIHRhcmdldD0iX2JsYW5rIj5kbS1sQHVsZXRoLmNhPC9hPjxicj4KQ2hhbmdl
+IGxpc3Qgb3B0aW9uczogPGEgaHJlZj0iaHR0cDovL2xpc3RzZXJ2LnVsZXRoLmNhL21haWxtYW4v
+bGlzdGluZm8vZG0tbCIgcmVsPSJub3JlZmVycmVyIiB0YXJnZXQ9Il9ibGFuayI+aHR0cDovL2xp
+c3RzZXJ2LnVsZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0tbDwvYT48YnI+CjwvZGl2PjwvZGl2
+PjwvYmxvY2txdW90ZT48L2Rpdj48YnI+PC9kaXY+CkRpZ2l0YWwgTWVkaWV2YWxpc3QgLS3CoCA8
+YSBocmVmPSJodHRwOi8vd3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmcvIiByZWw9Im5vcmVmZXJy
+ZXIiIHRhcmdldD0iX2JsYW5rIj5odHRwOi8vd3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmcvPC9h
+Pjxicj4KSm91cm5hbDogPGEgaHJlZj0iaHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3Jn
+L2pvdXJuYWwvIiByZWw9Im5vcmVmZXJyZXIiIHRhcmdldD0iX2JsYW5rIj5odHRwOi8vd3d3LmRp
+Z2l0YWxtZWRpZXZhbGlzdC5vcmcvam91cm5hbC88L2E+PGJyPgpKb3VybmFsIEVkaXRvcnM6IGVk
+aXRvcnMgX0FUXyA8YSBocmVmPSJodHRwOi8vZGlnaXRhbG1lZGlldmFsaXN0Lm9yZyIgcmVsPSJu
+b3JlZmVycmVyIiB0YXJnZXQ9Il9ibGFuayI+ZGlnaXRhbG1lZGlldmFsaXN0Lm9yZzwvYT48YnI+
+Ck5ld3M6IDxhIGhyZWY9Imh0dHBzOi8vZGlnaXRhbG1lZGlldmFsaXN0LndvcmRwcmVzcy5jb20v
+bmV3cy8iIHJlbD0ibm9yZWZlcnJlciIgdGFyZ2V0PSJfYmxhbmsiPmh0dHBzOi8vZGlnaXRhbG1l
+ZGlldmFsaXN0LndvcmRwcmVzcy5jb20vbmV3cy88L2E+PGJyPgpUd2l0dGVyOiA8YSBocmVmPSJo
+dHRwOi8vdHdpdHRlci5jb20vZGlnaXRhbG1lZGlldmFsIiByZWw9Im5vcmVmZXJyZXIiIHRhcmdl
+dD0iX2JsYW5rIj5odHRwOi8vdHdpdHRlci5jb20vZGlnaXRhbG1lZGlldmFsPC9hPjxicj4KRmFj
+ZWJvb2s6IDxhIGhyZWY9Imh0dHA6Ly93d3cuZmFjZWJvb2suY29tL2dyb3VwLnBocD9naWQ9NDkz
+MjAzMTM3NjAiIHJlbD0ibm9yZWZlcnJlciIgdGFyZ2V0PSJfYmxhbmsiPmh0dHA6Ly93d3cuZmFj
+ZWJvb2suY29tL2dyb3VwLnBocD9naWQ9NDkzMjAzMTM3NjA8L2E+PGJyPgpEaXNjdXNzaW9uIGxp
+c3Q6IDxhIGhyZWY9Im1haWx0bzpkbS1sQHVsZXRoLmNhIiB0YXJnZXQ9Il9ibGFuayI+ZG0tbEB1
+bGV0aC5jYTwvYT48YnI+CkNoYW5nZSBsaXN0IG9wdGlvbnM6IDxhIGhyZWY9Imh0dHA6Ly9saXN0
+c2Vydi51bGV0aC5jYS9tYWlsbWFuL2xpc3RpbmZvL2RtLWwiIHJlbD0ibm9yZWZlcnJlciIgdGFy
+Z2V0PSJfYmxhbmsiPmh0dHA6Ly9saXN0c2Vydi51bGV0aC5jYS9tYWlsbWFuL2xpc3RpbmZvL2Rt
+LWw8L2E+PC9ibG9ja3F1b3RlPjwvZGl2Pgo=

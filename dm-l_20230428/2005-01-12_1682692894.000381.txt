@@ -1,0 +1,86 @@
+Subject: RE: [dm-l] Form-based methods of building xml? I use Cocoon a lot, and for a particular project I've built a system
+similar to what you describe. I run an instance of Cocoon on my laptop,
+which serves out html forms to my browser, populated with info from a
+particular xml file. When I submit a form, another pipeline writes the
+results back to the original XML file, using the Source Writing
+Transformer
+(http://cocoon.apache.org/2.1/userdocs/transformers/sourcewriting-transf
+ormer.html). This allows me to use the amazing power of Cocoon Forms to
+manage the mapping from the source xml to the form and back again
+(http://cocoon.apache.org/2.1/userdocs/forms/sample.html). It would probably be overkill to pick up Cocoon from scratch for this
+purpose, but maybe you've been looking for an opportunity to try Cocoon?
+PeterPeter Binkley
+Digital Initiatives Technology Librarian
+Information Technology Services
+4-30 Cameron Library
+University of Alberta Libraries
+Edmonton, Alberta
+Canada T6G 2J8
+Phone: (780) 492-3743
+Fax: (780) 492-9243
+_redacted_(a)ualberta.ca> -----Original Message-----
+_redacted_(a)uleth.ca] On 
+> Behalf Of Daniel O'Donnell
+> Sent: Friday, January 07, 2005 02:16 PM
+> To: Digital Medievalist list
+> Subject: [dm-l] Form-based methods of building xml?
+> 
+> The Digital Medievalist List (see end of message for contact 
+> information and project URLs).
+> 
+> ----------------------------------
+> Hi all,
+> 	Does anybody know of a good method for form-based 
+> xml-file construction? I am looking for something to use on a 
+> local (winxp) machine.
+> 	Like most people I have a number of files that are 
+> written either through accretion (e.g. like a CV) or that 
+> consist largely of boiler plate with minor customisation 
+> (e.g. class schedules, web-pages, etc.). 
+> I'm in the process of converting these to xml from various 
+> formats, as I hope to gain some real efficiencies.
+> 	My question whether anybody can suggest a good method 
+> for adding marked up text to such files using a form. The CV 
+> is probably the best case: 
+> I'd like to have a form that allows me to read in the 
+> existing material, enter the new item, and have the expanded 
+> document as output.
+> 	In the past I've used javascript and HTML forms to 
+> build standard webpages, and emacs form-mode to build simple 
+> form-based database entry mechanisms. Since I'm basically 
+> looking for a very simple way of adding markup to highly 
+> standard text, I'm trying to avoid using a spreadsheet as an 
+> intermediate. In fact I'm probably looking for a combination 
+> of the emacs-style forms (which import or create datafiles 
+> and allow users to easily update existing data) and a 
+> java-script type solution that allows me to add markup around 
+> form-field contents.
+> 	Any suggestions?
+> -dan
+> --
+> Daniel Paul O'Donnell, PhD
+> Associate Professor of English
+> University of Lethbridge
+> Lethbridge AB T1K 3M4
+> Tel. (403) 329-2377
+> Fax. (403) 382-7191
+_redacted_(a)uleth.ca>
+> Home Page <http://people.uleth.ca/~daniel.odonnell/>
+> The Digital Medievalist Project: <http://www.digitalmedievalist.org/>
+> 
+> 
+> _______________________________________________
+> Digital Medievalist Project
+> Homepage: http://www.digitalmedievalist.org Journal (December 
+> 2004-): http://www.digitalmedievalist.org/journal.cfm
+> RSS (announcements) server: 
+> http://www.digitalmedievalist.org/rss/rss2.cfm
+> Wiki: http://sql.uleth.ca/dmorgwiki/index.php
+> Change membership options: 
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+> Submit RSS announcement: http://www.digitalmedievalist.org/newitem.cfm
+_redacted_(a)uleth.ca dm-l 
+_redacted_(a)uleth.ca 
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+> 
+--===============5967262494603957294==--

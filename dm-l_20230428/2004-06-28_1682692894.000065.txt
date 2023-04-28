@@ -1,0 +1,21 @@
+Subject: Re: [dm-l] Useful free tools for finding unicode charactersIl gio, 2004-06-24 alle 07:28, Daniel O'Donnell ha scritto:
+> The discussion of Junicode Wynn raises an interesting question: how can 
+> I find whether my system has a particular unicode character on it?> [...]> So how does one know if a specific character is a) present on my system 
+> or b) commonly or rarely found in fonts? There are several free tools 
+> and techniques you can use (these are windows based tools: I'd be 
+> interested in hearing about linux or mac based ones).There is a very good tool for Linux [*], Gucharmap
+(http://gucharmap.sourceforge.net/): it allows you to browse all
+characters/fonts present in your system and to look for specific
+characters/code points. For instance, you can search the string "latin
+small letter a with" to find all combination of 'a' with accents, dots,
+macron, etc. Then you can copy the desired character(s) in a text field,
+and even type more text using the keyboard, so that you're ready to copy
+and paste the resulting string in your document. Very useful.[*] It's an application for the GNOME desktop, so it actually runs
+wherever GNOME runs: Linux, *BSD, Unix, Solaris.Ciao-- Roberto Rosselli Del Turco	roberto.rossellidelturco at unito.it
+Dipartimento di Scienze		rosselli at ling.unipi.it
+del Linguaggio			Then spoke the thunder	DA
+Universita' di Torino		Datta: what have we given?  (TSE)
+ 
+  Hige sceal the heardra,     heorte the cenre,
+  mod sceal the mare,       the ure maegen litlath.  (Maldon 312-3)
+--===============3143142460630791341==--

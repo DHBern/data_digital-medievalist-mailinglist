@@ -1,0 +1,43 @@
+Subject: Re: [dm-l] TEI page breaks, line breaksOn Fri, 10 Sep 2004, Murray McGillivray wrote:> I wonder if anyone who has worked with using TEI P3-4 to encode manuscript =
+or
+> printed book transcriptions or editions could tell me if a local standard
+> among medievalists is developing for the use of "milestone" elements that h=
+ave
+> to do with the arrangement of the physical object, such as line break, colu=
+mn
+> break and page break tags.
+>=20
+> Specifically, I'm wondering if the attributes given to these tags (such as
+> 'n') usually refer to the page (line, etc.) following or the page (line, et=
+c.)
+> preceding the milestone element. My *guess* is that these breaks are usually
+> connected to the text following, but I don't see a logic in the tags
+> themselves that would require that and my experience of what people do is
+> pretty limited to my own narrow part of the field.I have always understood the page break or milestone tags to refer to
+the switch between pages (or whatever).  So if going from folio 21
+recto to folio 21v I would use=20
+<milestone unit=3D"folio" n=3D"21v" />
+because the notes to the element states "For this element, the global n
+attribute indicates the new number or other value for the unit which
+changes at this milestone." (http://www.tei-c.org/P4X/ref-MILEST.html)
+And <pb />'s notes state "On this element, the global n attribute
+indicates the number or other value associated with the page which
+follows the point of insertion of this <pb>."
+(http://www.tei-c.org/P4X/ref-PAGEBR.html)I always also use <milestone /> instead of <pb /> to refer to folio=20
+count and <pb /> to refer to record inscribed page numbers that may=20
+not be consistent, numerical or in any way sequential.  (I transcribed=20
+entries from some churchwardens' accounts where the folios had two=20
+numbering systems, one being the original chronological order marked in=20
+a contemporary hand, the other resulting from when in the 19thC the=20
+volume, falling apart was rebound in the order they picked it up off the=20
+floor and was the hand of a later archivist.)  I'm not suggesting that=20
+this is a consensus of how medievalists _should_ do it, just how I have=20
+in the past. I'm interested in other opinions.> handshift, etc.) do make reasonably clear, either in their Guidelines
+> description or in the examples given, that they are meant to be used at the
+> beginning of a section of text to which they refer .I suggest passing it on the TEI mailing list or the sourceforge=20
+site, since now is certainly the time to correct confusions in=20
+the guidelines.-James
+---
+Dr James Cummings, Oxford Text Archive, University of Oxford
+James dot Cummings at oucs dot ox dot ac dot uk=20
+--===============6550347237861521843==--

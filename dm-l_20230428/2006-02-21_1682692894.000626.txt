@@ -1,0 +1,61 @@
+Subject: Re: [dm-l] Refworks (and Wikindx)Hi Jesse,Searching around on refworks today, I see that this was already the
+subject of a thread by you on dm-l. Sorry I didn't see it earlier (and
+forgot that this had come up).I've spent the day playing with it, and I must say it looks pretty good:
+the format is more or less as detailed as ProCite (which seems to be
+better than end note), and it does everything one might want. It took a
+bit of work to import ProCite without losing information (the output
+styles they want you to use have terrible information loss), but onceI
+built a Procite > RefWorks stylesheet it went really well.Apart from the fact that it is totally non-standards based (but then
+reference managers don't seem to have an official standard as far as I
+can tell), it seems really good.It seems to have the same, or perhaps slightly better, field division
+than refdb (refdb.sourceforge.net), and I've never been able to get
+refdb working right. I'm off to try wikindx now.-dOn Tue, 2006-21-02 at 19:23 -0700, Jesse Hurlbut wrote:
+> My university has an institutional license for Refworks. I've recently
+> started using it. I used Endnote briefly and this seems like a product
+> with similar features except that it runs entirely on line (as opposed
+> to installing software and maintaining data on a local drive). 
+> 
+> Refworks will allow you to import data from on-line library and
+> database searches or you can import from Endnote v. 8 or higher. You
+> can also input individual entries using a form which follows any
+> number of different style templates (including user-defined). 
+> 
+> Advanced search capabilities allow you to search through your
+> bibliographies (which can be organized in different folders). Refworks
+> will also pull up any exact duplicate records or "near matches" to
+> help you clean out redundancies. 
+> 
+> Bibliography output formats include Word for Windows 2000 or later,
+> Word for Mac 98 or later, HTML, Rich Text Format, and Text format.
+> Bibliographies can be exported in any number of pre-programmed styles
+> (Chicago, MLA, Turabian, etc.). It looks like there are well over 100
+> different styles, but you can also create your own (or modify existing
+> styles). It didn't take me long to create my own export style, and I'd
+> think that most people on this list wouldn't struggle much figuring it
+> out. The process will intimidate many into using one of the presets.
+> There is a downloadable plug-in called Write-n-Cite that allows you to
+> run an abbreviated version of RefWorks inside Microsoft Word. I
+> haven't tried it. 
+> 
+> Data (or portions thereof) can be exported into XML, tab delimited,
+> "RefWorks Tagged Format" (for sharing with other RefWorks users), a
+> citation list, BibTex, or directly into EndNote, Reference Manager, or
+> ProCite). 
+> 
+> There are a handful of start-up options and preferences (which folder
+> to start with, how many reference to display on a  screenpage, etc.).
+> The site can run in English, French, Spanish, or in one of four other
+> oriental languages. The interface is satisfactory and basically
+> intuitive (by which, I mean that I can leave it alone for several
+> months and still find my way around when I come back to it). There is
+> good documentation via on-line tutorials and helpfiles. 
+> 
+> I'm not associated with RefWorks in any way. The program seems to do
+> all the basic things I need to do, so, I'll probably continue to use
+> it for my relatively simple needs. If my institution let its
+> subscription lapse, I probably would not spend the money for an
+> individual subscription. But I don't rely that heavily on a
+> bibliography manager at this point. 
+> 
+> Jesse
+_redacted_(a)byu.edu

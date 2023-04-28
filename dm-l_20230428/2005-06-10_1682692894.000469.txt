@@ -1,0 +1,104 @@
+Subject: RE: [dm-l] EPT The EPT (Edition Production Technology) is designed, as James says below, as
+"a tool for assisting less-technical resource creators to develop more
+sophisticated electronic editions." It is designed and developed through the
+Electronic Boethius and ARCHway Projects (both with PI Kevin Kiernan) at the
+University of Kentucky.The EPT enables an editor to: 1) Create a project by importing digital images, transcript (which can be a
+pre-existing XML document, or a text document with no markup), and a DTD or
+set of DTDs. (Details on what I mean by "set of DTDs" - not TEI tagsets! -
+can be found by following the tutorial links on the demo site, see below). 2) Insert markup into this project through user-friendly, completely
+configurable markup templates. In the EPT the editor views text & image
+side-by-side, and the markup software includes functionality for connecting
+pieces of text with the corresponding image sections.3) The full version of EPT includes additional tools for more advanced
+editing - collation (tools for both types - comparing versions of the same
+text, and describing the structure of the physical object), statistical
+analysis, paleographic description, glossary development. There are obvious start-up costs involved here - it's not simple to get
+started. You'll need to have your images and transcript (though it is
+possible to transcribe-as-you-go, if you import a blank text file into a new
+project). You'll need to have your DTD, and if you're concerned about
+overlapping markup you'll need to divide that DTD into smaller, well-formed
+DTDs (the demo example projects come with such DTDs, based on TEI, which
+you're welcome to use as-is and extend for your own projects). You'll also
+need to do a fair amount of configuration. On top of this, you'll need to
+learn to use the software, which has a fairly steep learning curve. Once the
+project is created and the software has been configured to suit the project,
+though, any editor comfortable with point-and-click technology should be
+able to create the electronic edition.For a nifty article on using the EPT to help solve an editorial problem, see
+Kevin Kiernan's article "The source of the Napier fragment of Alfred's
+Boethius" in the inaugural issue of the Digital Medievalist journal
+(http://www.digitalmedievalist.org/article.cfm?RecID=5).For the history of the EPT, and a discussion of the early aims &
+developments of the software and the relationship between eBo and ARCHway,
+see the article "The ARCHway Project: Architecture for Research in Computing
+for Humanities through Research, Teaching, and Learning" (Kiernan et al.),
+forthcoming in Literary and Linguistic Computing (abstract at
+http://llc.oxfordjournals.org/cgi/content/abstract/fqi018?ijkey=a2FHqg7XTTUL
+MJz&keytype=ref - full text is available online if your library subscribes
+to LLC online). Note that this article is based on our presentations at
+ACH/ALLC 2003 so some of the specifics are out of date.For a working demo, including text projects and tutorials for getting
+started with your own projects, visit
+http://rch01.rch.uky.edu/~ept/download/The source code for the EPT is being released in stages, corresponding with
+the finishing dates of the two supporting projects. The ARCHway Project
+finished at the end of January, and the source code for that project, the
+"Development EPT", will be released very shortly. The Development EPT is a
+general version of the EPT. It lacks some of the editing functionality in
+the Stable EPT - it has the basic image-text linking, but lacks the more
+specialized tools described above in #3. The Development EPT is designed to
+be extended - if you have access to computer science support (an RA with
+experience coding JAVA, especially using the Eclipse development platform),
+you can extend the Development EPT to serve the particular needs of your
+individual project. I will post to the list as soon as the Development EPT
+code is available.The "Stable EPT" is under continuing development by Kevin Kiernan and Emil
+Iacob through the Electronic Boethius project. The code for this version is
+not yet available, but if you're interested in more information about this
+_redacted_(a)uky.edu.James mentions our upcoming presentations and demos at ACH/ALLC (14-18 June,
+Victoria Canada). If you're attending the meeting, you'll have plenty of
+chances to see the software and talk with us about how EPT might suit your
+projects. Put us on your schedule!Thursday, 2:30 pm: Paper, Emil Iacob and Alex Dekhtyar, "Concurrent Markup
+Hierarchies: a Computer Science Approach"
+[http://mustard.tapor.uvic.ca/cocoon/ach_abstracts/xq/xhtml.xq?id=174]Friday, 9:00 am: 3 paper session, "The Edition Production Technology (EPT)
+and the ARCHway and Electronic Boethius Projects"
+[http://mustard.tapor.uvic.ca/cocoon/ach_abstracts/xq/xhtml.xq?id=176]
+ 
+Friday, 2:30 pm: 2 demos, "Edition Production Technology: an Eclipse-Based
+Platform for Building Image-Based Electronic Editions"
+[http://mustard.tapor.uvic.ca/cocoon/ach_abstracts/xq/xhtml.xq?id=178]
+and "The ARCHway Software Infrastructure: a Demo of a Platform and Utilities
+for Building Applications for Electronic Editions"
+[http://mustard.tapor.uvic.ca/cocoon/ach_abstracts/xq/xhtml.xq?id=177]If you have any questions, please don't hesitate to ask!Dot**********************************
+Dorothy Carr Porter
+Program Coordinator, Research in Computing for Humanities
+3-51/3-52 William T. Young Library
+University of Kentucky
+Lexington, KY  40391
+859-257-9549                      http://www.rch.uky.edu
+**********************************-----Original Message-----
+_redacted_(a)uleth.ca] On Behalf Of
+James Cummings
+Sent: Friday, June 10, 2005 9:13 AM
+To: Digital Medievalist Community mailing list
+Subject: [dm-l] EPT Dorothy C. Porter wrote:
+> I find it useful - and I was unaware of this site. I usually use the
+Unicode charts, but that can be tedious (since there are now five charts for
+the Latin alphabet).
+> 
+> Thanks, Dan, for a great bookmark!While I know you're listening Dot, can you tell us more about EPT?
+I enjoyed your paper in Kzoo about it, and have been meaning to try it out 
+and/or investigate it further.  Is there a downloadable demo or summat?I'm not so worried about the potential problems over overlap, but its use as
+a 
+tool for assisting less-technical resource creators to develop more 
+sophisticated electronic editions.I've noticed there are a number of presentations mentioning it at ACH/ALLC
+this 
+year, and I'll be attending most of them.-James-- 
+Dr James Cummings, Oxford Text Archive, University of Oxford
+James dot Cummings at oucs dot ox dot ac dot uk_______________________________________________
+Digital Medievalist Project
+Homepage: http://www.digitalmedievalist.org
+Journal (Spring 2005-): http://www.digitalmedievalist.org/journal.cfm
+RSS (announcements) server: http://www.digitalmedievalist.org/rss/rss2.cfm
+Wiki: http://sql.uleth.ca/dmorgwiki/index.php
+Change membership options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+Submit RSS announcement: http://www.digitalmedievalist.org/newitem.cfm
+_redacted_(a)uleth.ca
+dm-l mailing list
+_redacted_(a)uleth.ca
+http://listserv.uleth.ca/mailman/listinfo/dm-l
+--===============6597101407039176502==--

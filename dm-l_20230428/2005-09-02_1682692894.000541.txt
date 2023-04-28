@@ -1,0 +1,21 @@
+Subject: Re: [dm-l] Has anyone used MIML?Did anybody give an answer to this? I confess I'd never heard of it.
+Anybody here from the manuscript TEI SIG?
+-d
+On Tue, 2005-30-08 at 12:24 -0400, Dot Porter wrote:
+> Hi all,
+> 
+> Hope the Fall is starting out with minimal stress for everyone on the 
+> list! I have a query that I hope won't be too taxing.
+> 
+> A couple of years ago I came across the Manuscript Images Markup 
+> Language (MIML; http://raqoon.com/miml/index.html). It uses XML and SVG 
+> to annotate sections of digital images. I've never done anything with 
+> this, and I'm not aware of other project that have, either. Is anyone on 
+> the list familiar with MIML?
+> 
+> The page hasn't been updated since 2002; is this schema still worth 
+> considering?
+> 
+> Thanks,
+> Dot
+> 

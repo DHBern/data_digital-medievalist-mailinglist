@@ -1,0 +1,33 @@
+Subject: RE: [dm-l] Open Office and WordDear Dan,OO can both open and save files in Word format, although some of the more eso=
+teric new formatting found in Office 2007 is not preserved when the file is o=
+pened in OO, even in the latest version, OO 3.0.1.=20As far as I know, Word cannot handle files in OO format. There are projects t=
+o create converters and add-ins to enable Word to handle OO files, but they d=
+on't seem to be ready yet.There is lots of info on http://www.openoffice.org/ .Alec McAllister
+University of Leeds> -----Original Message-----
+_redacted_(a)uleth.ca] On=20
+> Behalf Of Dan O'Donnell
+> Sent: 05 February 2009 16:24
+_redacted_(a)uleth.ca
+> Subject: [dm-l] Open Office and Word
+>=20
+> Hi all,
+>=20
+> I just heard news that shook my lack of faith in mankind.=20
+> Does anybody know if it is true that Word reads Open Office=20
+> files? I'm fully linux, and so don't have access to word=20
+> anywhere. For years I've been dutifully converting my OO=20
+> files to .doc format for exchange. But if you can open OO=20
+> files in word natively, I'll start educating word users of=20
+> this fact and send the native .odt format.
+>=20
+> -dan
+>=20
+> Digital Medievalist --  http://www.digitalmedievalist.org/
+> Journal: http://www.digitalmedievalist.org/journal/
+> Journal Editors: editors _AT_ digitalmedievalist.org
+> News: http://www.digitalmedievalist.org/news/
+> Wiki: http://www.digitalmedievalist.org/wiki/
+_redacted_(a)uleth.ca
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>=20
+--===============4623328181503618966==--

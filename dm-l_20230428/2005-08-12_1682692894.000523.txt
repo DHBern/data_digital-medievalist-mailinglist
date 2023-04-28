@@ -1,0 +1,37 @@
+Subject: Re: [dm-l] TEI and concurrent hierarchiesMarjorie Burghart wrote:
+> Dear DMs,
+>=20
+> Maybe this should be better posted on the TEI list, but I hope some of you =
+could
+> have interesting experience in the field !Well, there is a fair degree of overlap between the TEI list and DM,=20
+so I'm sure some more qualified people will wade in...Perhaps some of the members of the Overlap SIG which has a summary of=20
+some of the major ways of dealing with overlap on the TEI Wiki...http://www.tei-c.org/wiki/index.php/SIG:Overlap> I'm encoding an ongoing project in TEI XML, and I'm encountering problems to
+> represent concurrent hierarchies.
+> I'd like to markup some rhetorical elements, that can either be contained in
+> paragraphes (<p> tags), or contain <p> tags, depending on their length and
+> importance. Therefore, I can't use <seg>, for instance.
+> From a "logical" point of view, it seems to me that <div> tags would be per=
+fect
+> (with a convenient type), but in this case I would have a problem of concur=
+rent
+> hierarchies (possible overlapping of <div> and <p> elements).This is the normal kind of problem people have with XML.  However,=20
+although there are technical solutions to represent both hierarchies,=20
+I've always found it easiest to simply compromise and mark up the=20
+structure of one of them as dominant.  (Usually for me this means=20
+marking page/folio breaks as milestones.)  This is the milestone=20
+method mentioned in chapter 31 of the guidelines.
+>
+> The solutions proposed in the current TEI Guidelines for the handling of
+> multiple hierarchies would work, BUT I'm afraid they would fairly complicate
+> the processing of the encoded texts with standard XML tools.They do.  If the methods of avoiding choosing one hierarchy over the=20
+other is unacceptably complex, then I don't see many options.=20
+Personaly I'd just milestone one of them, or use the fragmentation=20
+_redacted_@part attribute.> I thought about customizing the DTD to make <p> tags empty, which would be
+> convenient for my purpose, but the markup wouldn't be TEI compliant any more
+> (as CDATA is not allowed as child of div or body)...
+> In a way, it seems to be the problem too for, eg, the quite seducing HORSE
+> approach recently discussed by S. Bauman reguarding TEI
+> (http://www.mulberrytech.com/Extreme/Proceedings/html/2005/Bauman01/EML2005=
+Bauman01.html)I believe a variant on the HORSE/CLIX is quite likely to appear in the=20
+P5 guidelines.-James
+--===============5062528195448694700==--

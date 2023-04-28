@@ -1,0 +1,308 @@
+Subject: Re: [dm-l] Plain text access to medieval manuscripts: 147 volumesDear Nick,thank you for your encouraging message.As for the first question, I understand your concern about large publically
+funded projects. Alas, there is no plan to release the code under a free
+software license: This is part of the funding mechanism integrating a
+private company, in the present case A2iA, which is the leader worldwide in
+Handwritten Text Recognition. The methods, however, are published in
+conference and journals and can be replicated.I am glad to announce, as for the second question, that we will release the
+plain text under CC0 license. Please note the search interface gives access
+to more than the plain text, since it gives access to indexes in which each
+"word on the page" is transcribed by many "word hypotheses". A "plain text"
+would only be the sequence of "best word hypothese" for the "word on the
+page", while it often happens that the correct reading is in the second or
+third hypothese. So, plain text will be much poorer, even if, of course, it
+has a great potential for further analysis.Before releasing the "plain (automated) text", we plan to structure the
+corpus in single "documents" (here, typically, each royal charter recorded
+in the registers) and to attribute each part of the plain text to those
+documents, for which we have (more or less) metadata. The issue of
+granularity is of core importance to HIMANIS project, because network
+analysis (esp. on persons and places) will have to take into account the
+"document" granularity and not the "page" or the "volume". So, this is our
+priority by now.Best regards,
+Dominique=E2=80=93=E2=80=93
+M. Dominique Stutzmann
+Charg=C3=A9 de recherche =C3=A0 l'Institut de Recherche et d'Histoire des Tex=
+tes
+(CNRS, UPR 841)_redacted_(a)ell.ox.ac.uk>:> Dear Dominique,
+>
+> This does indeed look very interesting. I have a couple of
+> questions.
+>
+> First, is the software (or some part of it) used to extract the text
+> from the manuscripts going to be released under a free software
+> license? While I'm sure there's plenty of domain-specific stuff
+> there, I'm also sure it could be very useful to other projects which
+> are doing similar things.
+>
+> I find it so frustrating when large publically funded projects
+> funnel their money into proprietary software that can't be further
+> developed and built upon by others. c.f. Transkribus. Here's hoping
+> you're planning to release the code soon!
+>
+> Second question, is there a way to access the plain text directly,
+> or is there only a search interface at the moment? Having direct
+> plain text access can be useful for others to do various further
+> analysis on the corpus.
+>
+> Anyway, great work, looks exciting, congratulations!
+>
+> Nick White
+>
+> On Tue, Jun 20, 2017 at 03:12:12PM +0200, Dominique Stutzmann wrote:
+> > Dear all,
+> >
+> > Within the HIMANIS project, funded by the Joint Programming Initiative on
+> > Cultural Heritage and Global Change=E2=80=9D (JPI-CH) of the European Uni=
+on, the
+> > partners are developing cost-effective solutions for querying large sets
+> of
+> > handwritten document images. With IRHT and A2iA (France), the
+> Universities of
+> > Valencia (Spain) and Groningen (Netherlands) as well as the French
+> National
+> > Archive, it gathers Computer Science, Humanities and Cultural Heritage
+> > institutions in order to produce technology to generate new,
+> research-based
+> > knowledge from historical manuscripts. As a challenging and particularly
+> > interesting case study, we have indexed the large collection of the
+> Tr=C3=A9sor des
+> > Chartes=E2=80=99 registers produced by the French royal chancery (Paris, =
+Archives
+> > Nationales, JJ7 =E2=80=93 JJ209).
+> >
+> > Now we are proud to announce that you can search the plain text in the
+> Tr=C3=A9sor
+> > des Chartes=E2=80=99 registers and provide feedback: It is ready to be us=
+ed and
+> tested
+> > by all interested users worldwide!
+> > http://prhlt-kws.prhlt.upv.es/himanis/
+> >
+> >
+> > This is a prototype and beta version, which will be amended and will
+> change
+> > over the next months, with new functionalities (navigate through hits,
+> display
+> > of abstracts and editions) and with additional volumes to be indexed
+> from the
+> > French National Library and the National Archive..
+> >
+> > The project website is: http://www.himanis.org/
+> > The search interface into the corpus: http://prhlt-kws.prhlt.upv.es/
+> himanis/
+> > Additional explanations about the interface: https://himanis.hypotheses.
+> org/
+> > 105
+> >
+> > You can search with boolean operators and word sequences (for the
+> syntax, check
+> > on https://himanis.hypotheses. org/105)
+> >
+> > You can help us measuring the precision of our results:
+> > - please click on highlighted hits to confirm whether the word is
+> correctly
+> > spotted or not;
+> > - please double click on a missed hit if you see it on the page (it will
+> be
+> > added to the index for all users to search from the next day)
+> >
+> > Two simple examples as a beginning:
+> > - "scriptor" within the whole corpus: http://prhlt-kws.prhlt.upv.es/
+> himanis/
+> > index.php?q=3Dscriptor& t=3D10&feedback=3D1
+> > - "pelerinage" on one page : http://prhlt-kws.prhlt.upv.es/
+> himanis/index.php/
+> > ui/show/ chancery/147/853?q=3Dpelerinage& t=3D50&feedback=3D1
+> >
+> > The complete indexing results from an automated, image analysis process.
+> You
+> > may find unexpected or false hits: for example, abbreviations are
+> expanded
+> > automatically and it is needless to say that they are error-prone;
+> likewise
+> > place and person names are slightly less well spotted. You can enhance
+> the hit
+> > list by setting the "confidence" rate (between 0 and 100).
+> >
+> > We hope that you will be as thrilled as we are to present these results
+> and we
+> > invite you to test, give feedback and send further comments, critics and
+_redacted_(a)irht.cnrs.fr!
+> >
+> > Best regards
+> >
+> > Dominique Stutzmann
+> > =E2=80=93=E2=80=93
+> > M. Dominique Stutzmann
+> > Charg=C3=A9 de recherche =C3=A0 l'Institut de Recherche et d'Histoire des=
+ Textes
+> (CNRS,
+> > UPR 841)
+>
+> > Digital Medievalist --  http://www.digitalmedievalist.org/
+> > Journal: http://www.digitalmedievalist.org/journal/
+> > Journal Editors: editors _AT_ digitalmedievalist.org
+> > News: https://digitalmedievalist.wordpress.com/news/
+> > Twitter: http://twitter.com/digitalmedieval
+> > Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+_redacted_(a)uleth.ca
+> > Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>
+>PGRpdiBkaXI9Imx0ciI+PGRpdj48ZGl2PjxkaXY+PGRpdj48ZGl2PjxkaXY+RGVhciBOaWNrLCA8
+YnI+PGJyPjwvZGl2PnRoYW5rIHlvdSBmb3IgeW91ciBlbmNvdXJhZ2luZyBtZXNzYWdlLiA8YnI+
+PGJyPjwvZGl2PkFzIGZvciB0aGUgZmlyc3QgcXVlc3Rpb24sIEkgdW5kZXJzdGFuZCB5b3VyIGNv
+bmNlcm4gYWJvdXQgbGFyZ2UgcHVibGljYWxseSBmdW5kZWQgcHJvamVjdHMuIEFsYXMsIHRoZXJl
+IGlzIG5vIHBsYW4gdG8gcmVsZWFzZSB0aGUgY29kZSB1bmRlciBhIGZyZWUgc29mdHdhcmUgbGlj
+ZW5zZTogVGhpcyBpcyBwYXJ0IG9mIHRoZSBmdW5kaW5nIG1lY2hhbmlzbSBpbnRlZ3JhdGluZyBh
+IHByaXZhdGUgY29tcGFueSwgaW4gdGhlIHByZXNlbnQgY2FzZSBBMmlBLCB3aGljaCBpcyB0aGUg
+bGVhZGVyIHdvcmxkd2lkZSBpbiBIYW5kd3JpdHRlbiBUZXh0IFJlY29nbml0aW9uLiBUaGUgbWV0
+aG9kcywgaG93ZXZlciwgYXJlIHB1Ymxpc2hlZCBpbiBjb25mZXJlbmNlIGFuZCBqb3VybmFscyBh
+bmQgY2FuIGJlIHJlcGxpY2F0ZWQuPGJyPjxicj48L2Rpdj5JIGFtIGdsYWQgdG8gYW5ub3VuY2Us
+IGFzIGZvciB0aGUgc2Vjb25kIHF1ZXN0aW9uLCB0aGF0IHdlIHdpbGwgcmVsZWFzZSB0aGUgcGxh
+aW4gdGV4dCB1bmRlciBDQzAgbGljZW5zZS4gUGxlYXNlIG5vdGUgdGhlIHNlYXJjaCBpbnRlcmZh
+Y2UgZ2l2ZXMgYWNjZXNzIHRvIG1vcmUgdGhhbiB0aGUgcGxhaW4gdGV4dCwgc2luY2UgaXQgZ2l2
+ZXMgYWNjZXNzIHRvIGluZGV4ZXMgaW4gd2hpY2ggZWFjaCAmcXVvdDt3b3JkIG9uIHRoZSBwYWdl
+JnF1b3Q7IGlzIHRyYW5zY3JpYmVkIGJ5IG1hbnkgJnF1b3Q7d29yZCBoeXBvdGhlc2VzJnF1b3Q7
+LiBBICZxdW90O3BsYWluIHRleHQmcXVvdDsgd291bGQgb25seSBiZSB0aGUgc2VxdWVuY2Ugb2Yg
+JnF1b3Q7YmVzdCB3b3JkIGh5cG90aGVzZSZxdW90OyBmb3IgdGhlICZxdW90O3dvcmQgb24gdGhl
+IHBhZ2UmcXVvdDssIHdoaWxlIGl0IG9mdGVuIGhhcHBlbnMgdGhhdCB0aGUgY29ycmVjdCByZWFk
+aW5nIGlzIGluIHRoZSBzZWNvbmQgb3IgdGhpcmQgaHlwb3RoZXNlLiBTbywgcGxhaW4gdGV4dCB3
+aWxsIGJlIG11Y2ggcG9vcmVyLCBldmVuIGlmLCBvZiBjb3Vyc2UsIGl0IGhhcyBhIGdyZWF0IHBv
+dGVudGlhbCBmb3IgZnVydGhlciBhbmFseXNpcy48YnI+PGJyPjwvZGl2PkJlZm9yZSByZWxlYXNp
+bmcgdGhlICZxdW90O3BsYWluIChhdXRvbWF0ZWQpIHRleHQmcXVvdDssIHdlIHBsYW4gdG8gc3Ry
+dWN0dXJlIHRoZSBjb3JwdXMgaW4gc2luZ2xlICZxdW90O2RvY3VtZW50cyZxdW90OyAoaGVyZSwg
+dHlwaWNhbGx5LCBlYWNoIHJveWFsIGNoYXJ0ZXIgcmVjb3JkZWQgaW4gdGhlIHJlZ2lzdGVycykg
+YW5kIHRvIGF0dHJpYnV0ZSBlYWNoIHBhcnQgb2YgdGhlIHBsYWluIHRleHQgdG8gdGhvc2UgZG9j
+dW1lbnRzLCBmb3Igd2hpY2ggd2UgaGF2ZSAobW9yZSBvciBsZXNzKSBtZXRhZGF0YS4gVGhlIGlz
+c3VlIG9mIGdyYW51bGFyaXR5IGlzIG9mIGNvcmUgaW1wb3J0YW5jZSB0byBISU1BTklTIHByb2pl
+Y3QsIGJlY2F1c2UgbmV0d29yayBhbmFseXNpcyAoZXNwLiBvbiBwZXJzb25zIGFuZCBwbGFjZXMp
+IHdpbGwgaGF2ZSB0byB0YWtlIGludG8gYWNjb3VudCB0aGUgJnF1b3Q7ZG9jdW1lbnQmcXVvdDsg
+Z3JhbnVsYXJpdHkgYW5kIG5vdCB0aGUgJnF1b3Q7cGFnZSZxdW90OyBvciB0aGUgJnF1b3Q7dm9s
+dW1lJnF1b3Q7LiBTbywgdGhpcyBpcyBvdXIgcHJpb3JpdHkgYnkgbm93LiA8YnI+PGJyPjwvZGl2
+PkJlc3QgcmVnYXJkcywgPGJyPjwvZGl2PkRvbWluaXF1ZTxicj48ZGl2PjxkaXY+PGRpdj48ZGl2
+PjxkaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PGRpdiBjbGFzcz0iZ21h
+aWxfZXh0cmEiPjxiciBjbGVhcj0iYWxsIj48ZGl2PjxkaXYgY2xhc3M9ImdtYWlsX3NpZ25hdHVy
+ZSIgZGF0YS1zbWFydG1haWw9ImdtYWlsX3NpZ25hdHVyZSI+PGRpdiBkaXI9Imx0ciI+PGRpdj48
+ZGl2IGRpcj0ibHRyIj7igJPigJM8YnI+TS4gRG9taW5pcXVlIFN0dXR6bWFubjxicj5DaGFyZ8Op
+IGRlIHJlY2hlcmNoZSDDoCBsJiMzOTtJbnN0aXR1dCBkZSBSZWNoZXJjaGUgZXQgZCYjMzk7SGlz
+dG9pcmUgZGVzIFRleHRlcyAoQ05SUywgVVBSIDg0MSk8L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48
+L2Rpdj4KPGJyPjxkaXYgY2xhc3M9ImdtYWlsX3F1b3RlIj4yMDE3LTA2LTI5IDExOjU0IEdNVCsw
+MjowMCBOaWNrIFdoaXRlIDxzcGFuIGRpcj0ibHRyIj4mbHQ7PGEgaHJlZj0ibWFpbHRvOm5pY2su
+d2hpdGVAZWxsLm94LmFjLnVrIiB0YXJnZXQ9Il9ibGFuayI+bmljay53aGl0ZUBlbGwub3guYWMu
+dWs8L2E+Jmd0Ozwvc3Bhbj46PGJyPjxibG9ja3F1b3RlIGNsYXNzPSJnbWFpbF9xdW90ZSIgc3R5
+bGU9Im1hcmdpbjowIDAgMCAuOGV4O2JvcmRlci1sZWZ0OjFweCAjY2NjIHNvbGlkO3BhZGRpbmct
+bGVmdDoxZXgiPkRlYXIgRG9taW5pcXVlLDxicj4KPGJyPgpUaGlzIGRvZXMgaW5kZWVkIGxvb2sg
+dmVyeSBpbnRlcmVzdGluZy4gSSBoYXZlIGEgY291cGxlIG9mPGJyPgpxdWVzdGlvbnMuPGJyPgo8
+YnI+CkZpcnN0LCBpcyB0aGUgc29mdHdhcmUgKG9yIHNvbWUgcGFydCBvZiBpdCkgdXNlZCB0byBl
+eHRyYWN0IHRoZSB0ZXh0PGJyPgpmcm9tIHRoZSBtYW51c2NyaXB0cyBnb2luZyB0byBiZSByZWxl
+YXNlZCB1bmRlciBhIGZyZWUgc29mdHdhcmU8YnI+CmxpY2Vuc2U/IFdoaWxlIEkmIzM5O20gc3Vy
+ZSB0aGVyZSYjMzk7cyBwbGVudHkgb2YgZG9tYWluLXNwZWNpZmljIHN0dWZmPGJyPgp0aGVyZSwg
+SSYjMzk7bSBhbHNvIHN1cmUgaXQgY291bGQgYmUgdmVyeSB1c2VmdWwgdG8gb3RoZXIgcHJvamVj
+dHMgd2hpY2g8YnI+CmFyZSBkb2luZyBzaW1pbGFyIHRoaW5ncy48YnI+Cjxicj4KSSBmaW5kIGl0
+IHNvIGZydXN0cmF0aW5nIHdoZW4gbGFyZ2UgcHVibGljYWxseSBmdW5kZWQgcHJvamVjdHM8YnI+
+CmZ1bm5lbCB0aGVpciBtb25leSBpbnRvIHByb3ByaWV0YXJ5IHNvZnR3YXJlIHRoYXQgY2FuJiMz
+OTt0IGJlIGZ1cnRoZXI8YnI+CmRldmVsb3BlZCBhbmQgYnVpbHQgdXBvbiBieSBvdGhlcnMuIGMu
+Zi4gVHJhbnNrcmlidXMuIEhlcmUmIzM5O3MgaG9waW5nPGJyPgp5b3UmIzM5O3JlIHBsYW5uaW5n
+IHRvIHJlbGVhc2UgdGhlIGNvZGUgc29vbiE8YnI+Cjxicj4KU2Vjb25kIHF1ZXN0aW9uLCBpcyB0
+aGVyZSBhIHdheSB0byBhY2Nlc3MgdGhlIHBsYWluIHRleHQgZGlyZWN0bHksPGJyPgpvciBpcyB0
+aGVyZSBvbmx5IGEgc2VhcmNoIGludGVyZmFjZSBhdCB0aGUgbW9tZW50PyBIYXZpbmcgZGlyZWN0
+PGJyPgpwbGFpbiB0ZXh0IGFjY2VzcyBjYW4gYmUgdXNlZnVsIGZvciBvdGhlcnMgdG8gZG8gdmFy
+aW91cyBmdXJ0aGVyPGJyPgphbmFseXNpcyBvbiB0aGUgY29ycHVzLjxicj4KPGJyPgpBbnl3YXks
+IGdyZWF0IHdvcmssIGxvb2tzIGV4Y2l0aW5nLCBjb25ncmF0dWxhdGlvbnMhPGJyPgo8c3BhbiBj
+bGFzcz0iSE9FblpiIj48Zm9udCBjb2xvcj0iIzg4ODg4OCI+PGJyPgpOaWNrIFdoaXRlPGJyPgo8
+L2ZvbnQ+PC9zcGFuPjxkaXYgY2xhc3M9IkhPRW5aYiI+PGRpdiBjbGFzcz0iaDUiPjxicj4KT24g
+VHVlLCBKdW4gMjAsIDIwMTcgYXQgMDM6MTI6MTJQTSArMDIwMCwgRG9taW5pcXVlIFN0dXR6bWFu
+biB3cm90ZTo8YnI+CiZndDsgRGVhciBhbGwsPGJyPgomZ3Q7PGJyPgomZ3Q7IFdpdGhpbiB0aGUg
+SElNQU5JUyBwcm9qZWN0LCBmdW5kZWQgYnkgdGhlIEpvaW50IFByb2dyYW1taW5nIEluaXRpYXRp
+dmUgb248YnI+CiZndDsgQ3VsdHVyYWwgSGVyaXRhZ2UgYW5kIEdsb2JhbCBDaGFuZ2XigJ0gKEpQ
+SS1DSCkgb2YgdGhlIEV1cm9wZWFuIFVuaW9uLCB0aGU8YnI+CiZndDsgcGFydG5lcnMgYXJlIGRl
+dmVsb3BpbmcgY29zdC1lZmZlY3RpdmUgc29sdXRpb25zIGZvciBxdWVyeWluZyBsYXJnZSBzZXRz
+IG9mPGJyPgomZ3Q7IGhhbmR3cml0dGVuIGRvY3VtZW50IGltYWdlcy4gV2l0aCBJUkhUIGFuZCBB
+MmlBIChGcmFuY2UpLCB0aGUgVW5pdmVyc2l0aWVzIG9mPGJyPgomZ3Q7IFZhbGVuY2lhIChTcGFp
+bikgYW5kIEdyb25pbmdlbiAoTmV0aGVybGFuZHMpIGFzIHdlbGwgYXMgdGhlIEZyZW5jaCBOYXRp
+b25hbDxicj4KJmd0OyBBcmNoaXZlLCBpdCBnYXRoZXJzIENvbXB1dGVyIFNjaWVuY2UsIEh1bWFu
+aXRpZXMgYW5kIEN1bHR1cmFsIEhlcml0YWdlPGJyPgomZ3Q7IGluc3RpdHV0aW9ucyBpbiBvcmRl
+ciB0byBwcm9kdWNlIHRlY2hub2xvZ3kgdG8gZ2VuZXJhdGUgbmV3LCByZXNlYXJjaC1iYXNlZDxi
+cj4KJmd0OyBrbm93bGVkZ2UgZnJvbSBoaXN0b3JpY2FsIG1hbnVzY3JpcHRzLiBBcyBhIGNoYWxs
+ZW5naW5nIGFuZCBwYXJ0aWN1bGFybHk8YnI+CiZndDsgaW50ZXJlc3RpbmcgY2FzZSBzdHVkeSwg
+d2UgaGF2ZSBpbmRleGVkIHRoZSBsYXJnZSBjb2xsZWN0aW9uIG9mIHRoZSBUcsOpc29yIGRlczxi
+cj4KJmd0OyBDaGFydGVz4oCZIHJlZ2lzdGVycyBwcm9kdWNlZCBieSB0aGUgRnJlbmNoIHJveWFs
+IGNoYW5jZXJ5IChQYXJpcywgQXJjaGl2ZXM8YnI+CiZndDsgTmF0aW9uYWxlcywgSko3IOKAkyBK
+SjIwOSkuPGJyPgomZ3Q7PGJyPgomZ3Q7IE5vdyB3ZSBhcmUgcHJvdWQgdG8gYW5ub3VuY2UgdGhh
+dCB5b3UgY2FuIHNlYXJjaCB0aGUgcGxhaW4gdGV4dCBpbiB0aGUgVHLDqXNvcjxicj4KJmd0OyBk
+ZXMgQ2hhcnRlc+KAmSByZWdpc3RlcnMgYW5kIHByb3ZpZGUgZmVlZGJhY2s6IEl0IGlzIHJlYWR5
+IHRvIGJlIHVzZWQgYW5kIHRlc3RlZDxicj4KJmd0OyBieSBhbGwgaW50ZXJlc3RlZCB1c2VycyB3
+b3JsZHdpZGUhPGJyPgomZ3Q7IDxhIGhyZWY9Imh0dHA6Ly9wcmhsdC1rd3MucHJobHQudXB2LmVz
+L2hpbWFuaXMvIiByZWw9Im5vcmVmZXJyZXIiIHRhcmdldD0iX2JsYW5rIj5odHRwOi8vcHJobHQt
+a3dzLnByaGx0LnVwdi5lcy88d2JyPmhpbWFuaXMvPC9hPjxicj4KJmd0Ozxicj4KJmd0Ozxicj4K
+Jmd0OyBUaGlzIGlzIGEgcHJvdG90eXBlIGFuZCBiZXRhIHZlcnNpb24sIHdoaWNoIHdpbGwgYmUg
+YW1lbmRlZCBhbmQgd2lsbCBjaGFuZ2U8YnI+CiZndDsgb3ZlciB0aGUgbmV4dCBtb250aHMsIHdp
+dGggbmV3IGZ1bmN0aW9uYWxpdGllcyAobmF2aWdhdGUgdGhyb3VnaCBoaXRzLCBkaXNwbGF5PGJy
+PgomZ3Q7IG9mIGFic3RyYWN0cyBhbmQgZWRpdGlvbnMpIGFuZCB3aXRoIGFkZGl0aW9uYWwgdm9s
+dW1lcyB0byBiZSBpbmRleGVkIGZyb20gdGhlPGJyPgomZ3Q7IEZyZW5jaCBOYXRpb25hbCBMaWJy
+YXJ5IGFuZCB0aGUgTmF0aW9uYWwgQXJjaGl2ZS4uPGJyPgomZ3Q7PGJyPgomZ3Q7IFRoZSBwcm9q
+ZWN0IHdlYnNpdGUgaXM6IDxhIGhyZWY9Imh0dHA6Ly93d3cuaGltYW5pcy5vcmcvIiByZWw9Im5v
+cmVmZXJyZXIiIHRhcmdldD0iX2JsYW5rIj5odHRwOi8vd3d3LmhpbWFuaXMub3JnLzwvYT48YnI+
+CiZndDsgVGhlIHNlYXJjaCBpbnRlcmZhY2UgaW50byB0aGUgY29ycHVzOiA8YSBocmVmPSJodHRw
+Oi8vcHJobHQta3dzLnByaGx0LnVwdi5lcy8iIHJlbD0ibm9yZWZlcnJlciIgdGFyZ2V0PSJfYmxh
+bmsiPmh0dHA6Ly9wcmhsdC1rd3MucHJobHQudXB2LmVzLzwvYT4gaGltYW5pcy88YnI+CiZndDsg
+QWRkaXRpb25hbCBleHBsYW5hdGlvbnMgYWJvdXQgdGhlIGludGVyZmFjZTogPGEgaHJlZj0iaHR0
+cHM6Ly9oaW1hbmlzLmh5cG90aGVzZXMiIHJlbD0ibm9yZWZlcnJlciIgdGFyZ2V0PSJfYmxhbmsi
+Pmh0dHBzOi8vaGltYW5pcy5oeXBvdGhlc2VzPC9hPi4gb3JnLzxicj4KJmd0OyAxMDU8YnI+CiZn
+dDs8YnI+CiZndDsgWW91IGNhbiBzZWFyY2ggd2l0aCBib29sZWFuIG9wZXJhdG9ycyBhbmQgd29y
+ZCBzZXF1ZW5jZXMgKGZvciB0aGUgc3ludGF4LCBjaGVjazxicj4KJmd0OyBvbiA8YSBocmVmPSJo
+dHRwczovL2hpbWFuaXMuaHlwb3RoZXNlcyIgcmVsPSJub3JlZmVycmVyIiB0YXJnZXQ9Il9ibGFu
+ayI+aHR0cHM6Ly9oaW1hbmlzLmh5cG90aGVzZXM8L2E+LiBvcmcvMTA1KTxicj4KJmd0Ozxicj4K
+Jmd0OyBZb3UgY2FuIGhlbHAgdXMgbWVhc3VyaW5nIHRoZSBwcmVjaXNpb24gb2Ygb3VyIHJlc3Vs
+dHM6PGJyPgomZ3Q7IC0gcGxlYXNlIGNsaWNrIG9uIGhpZ2hsaWdodGVkIGhpdHMgdG8gY29uZmly
+bSB3aGV0aGVyIHRoZSB3b3JkIGlzIGNvcnJlY3RseTxicj4KJmd0OyBzcG90dGVkIG9yIG5vdDs8
+YnI+CiZndDsgLSBwbGVhc2UgZG91YmxlIGNsaWNrIG9uIGEgbWlzc2VkIGhpdCBpZiB5b3Ugc2Vl
+IGl0IG9uIHRoZSBwYWdlIChpdCB3aWxsIGJlPGJyPgomZ3Q7IGFkZGVkIHRvIHRoZSBpbmRleCBm
+b3IgYWxsIHVzZXJzIHRvIHNlYXJjaCBmcm9tIHRoZSBuZXh0IGRheSk8YnI+CiZndDs8YnI+CiZn
+dDsgVHdvIHNpbXBsZSBleGFtcGxlcyBhcyBhIGJlZ2lubmluZzo8YnI+CiZndDsgLSAmcXVvdDtz
+Y3JpcHRvciZxdW90OyB3aXRoaW4gdGhlIHdob2xlIGNvcnB1czogPGEgaHJlZj0iaHR0cDovL3By
+aGx0LWt3cy5wcmhsdC51cHYuZXMvIiByZWw9Im5vcmVmZXJyZXIiIHRhcmdldD0iX2JsYW5rIj5o
+dHRwOi8vcHJobHQta3dzLnByaGx0LnVwdi5lcy88L2E+IGhpbWFuaXMvPGJyPgomZ3Q7IGluZGV4
+LnBocD9xPXNjcmlwdG9yJmFtcDsgdD0xMCZhbXA7ZmVlZGJhY2s9MTxicj4KJmd0OyAtICZxdW90
+O3BlbGVyaW5hZ2UmcXVvdDsgb24gb25lIHBhZ2UgOiA8YSBocmVmPSJodHRwOi8vcHJobHQta3dz
+LnByaGx0LnVwdi5lcy8iIHJlbD0ibm9yZWZlcnJlciIgdGFyZ2V0PSJfYmxhbmsiPmh0dHA6Ly9w
+cmhsdC1rd3MucHJobHQudXB2LmVzLzwvYT4gaGltYW5pcy9pbmRleC5waHAvPGJyPgomZ3Q7IHVp
+L3Nob3cvIGNoYW5jZXJ5LzE0Ny84NTM/cT1wZWxlcmluYWdlJmFtcDsgdD01MCZhbXA7ZmVlZGJh
+Y2s9MTxicj4KJmd0Ozxicj4KJmd0OyBUaGUgY29tcGxldGUgaW5kZXhpbmcgcmVzdWx0cyBmcm9t
+IGFuIGF1dG9tYXRlZCwgaW1hZ2UgYW5hbHlzaXMgcHJvY2Vzcy4gWW91PGJyPgomZ3Q7IG1heSBm
+aW5kIHVuZXhwZWN0ZWQgb3IgZmFsc2UgaGl0czogZm9yIGV4YW1wbGUsIGFiYnJldmlhdGlvbnMg
+YXJlIGV4cGFuZGVkPGJyPgomZ3Q7IGF1dG9tYXRpY2FsbHkgYW5kIGl0IGlzIG5lZWRsZXNzIHRv
+IHNheSB0aGF0IHRoZXkgYXJlIGVycm9yLXByb25lOyBsaWtld2lzZTxicj4KJmd0OyBwbGFjZSBh
+bmQgcGVyc29uIG5hbWVzIGFyZSBzbGlnaHRseSBsZXNzIHdlbGwgc3BvdHRlZC4gWW91IGNhbiBl
+bmhhbmNlIHRoZSBoaXQ8YnI+CiZndDsgbGlzdCBieSBzZXR0aW5nIHRoZSAmcXVvdDtjb25maWRl
+bmNlJnF1b3Q7IHJhdGUgKGJldHdlZW4gMCBhbmQgMTAwKS48YnI+CiZndDs8YnI+CiZndDsgV2Ug
+aG9wZSB0aGF0IHlvdSB3aWxsIGJlIGFzIHRocmlsbGVkIGFzIHdlIGFyZSB0byBwcmVzZW50IHRo
+ZXNlIHJlc3VsdHMgYW5kIHdlPGJyPgomZ3Q7IGludml0ZSB5b3UgdG8gdGVzdCwgZ2l2ZSBmZWVk
+YmFjayBhbmQgc2VuZCBmdXJ0aGVyIGNvbW1lbnRzLCBjcml0aWNzIGFuZDxicj4KJmd0OyBzdWdn
+ZXN0aW9ucyB0byA8YSBocmVmPSJtYWlsdG86aGltYW5pc0Bpcmh0LmNucnMuZnIiPmhpbWFuaXNA
+aXJodC5jbnJzLmZyPC9hPiE8YnI+CiZndDs8YnI+CiZndDsgQmVzdCByZWdhcmRzPGJyPgomZ3Q7
+PGJyPgomZ3Q7IERvbWluaXF1ZSBTdHV0em1hbm48YnI+CiZndDsg4oCT4oCTPGJyPgomZ3Q7IE0u
+IERvbWluaXF1ZSBTdHV0em1hbm48YnI+CiZndDsgQ2hhcmfDqSBkZSByZWNoZXJjaGUgw6AgbCYj
+Mzk7SW5zdGl0dXQgZGUgUmVjaGVyY2hlIGV0IGQmIzM5O0hpc3RvaXJlIGRlcyBUZXh0ZXMgKENO
+UlMsPGJyPgomZ3Q7IFVQUiA4NDEpPGJyPgo8YnI+CjwvZGl2PjwvZGl2PjxkaXYgY2xhc3M9IkhP
+RW5aYiI+PGRpdiBjbGFzcz0iaDUiPiZndDsgRGlnaXRhbCBNZWRpZXZhbGlzdCAtLcKgIDxhIGhy
+ZWY9Imh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy8iIHJlbD0ibm9yZWZlcnJlciIg
+dGFyZ2V0PSJfYmxhbmsiPmh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Ljx3YnI+b3JnLzwv
+YT48YnI+CiZndDsgSm91cm5hbDogPGEgaHJlZj0iaHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxp
+c3Qub3JnL2pvdXJuYWwvIiByZWw9Im5vcmVmZXJyZXIiIHRhcmdldD0iX2JsYW5rIj5odHRwOi8v
+d3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC48d2JyPm9yZy9qb3VybmFsLzwvYT48YnI+CiZndDsgSm91
+cm5hbCBFZGl0b3JzOiBlZGl0b3JzIF9BVF8gPGEgaHJlZj0iaHR0cDovL2RpZ2l0YWxtZWRpZXZh
+bGlzdC5vcmciIHJlbD0ibm9yZWZlcnJlciIgdGFyZ2V0PSJfYmxhbmsiPmRpZ2l0YWxtZWRpZXZh
+bGlzdC5vcmc8L2E+PGJyPgomZ3Q7IE5ld3M6IDxhIGhyZWY9Imh0dHBzOi8vZGlnaXRhbG1lZGll
+dmFsaXN0LndvcmRwcmVzcy5jb20vbmV3cy8iIHJlbD0ibm9yZWZlcnJlciIgdGFyZ2V0PSJfYmxh
+bmsiPmh0dHBzOi8vZGlnaXRhbG1lZGlldmFsaXN0Ljx3YnI+d29yZHByZXNzLmNvbS9uZXdzLzwv
+YT48YnI+CiZndDsgVHdpdHRlcjogPGEgaHJlZj0iaHR0cDovL3R3aXR0ZXIuY29tL2RpZ2l0YWxt
+ZWRpZXZhbCIgcmVsPSJub3JlZmVycmVyIiB0YXJnZXQ9Il9ibGFuayI+aHR0cDovL3R3aXR0ZXIu
+Y29tLzx3YnI+ZGlnaXRhbG1lZGlldmFsPC9hPjxicj4KJmd0OyBGYWNlYm9vazogPGEgaHJlZj0i
+aHR0cDovL3d3dy5mYWNlYm9vay5jb20vZ3JvdXAucGhwP2dpZD00OTMyMDMxMzc2MCIgcmVsPSJu
+b3JlZmVycmVyIiB0YXJnZXQ9Il9ibGFuayI+aHR0cDovL3d3dy5mYWNlYm9vay5jb20vZ3JvdXAu
+PHdicj5waHA/Z2lkPTQ5MzIwMzEzNzYwPC9hPjxicj4KJmd0OyBEaXNjdXNzaW9uIGxpc3Q6IDxh
+IGhyZWY9Im1haWx0bzpkbS1sQHVsZXRoLmNhIj5kbS1sQHVsZXRoLmNhPC9hPjxicj4KJmd0OyBD
+aGFuZ2UgbGlzdCBvcHRpb25zOiA8YSBocmVmPSJodHRwOi8vbGlzdHNlcnYudWxldGguY2EvbWFp
+bG1hbi9saXN0aW5mby9kbS1sIiByZWw9Im5vcmVmZXJyZXIiIHRhcmdldD0iX2JsYW5rIj5odHRw
+Oi8vbGlzdHNlcnYudWxldGguY2EvPHdicj5tYWlsbWFuL2xpc3RpbmZvL2RtLWw8L2E+PGJyPgo8
+YnI+CjwvZGl2PjwvZGl2PjwvYmxvY2txdW90ZT48L2Rpdj48YnI+PC9kaXY+Cg==

@@ -1,0 +1,21 @@
+Subject: [dm-l] EVT 3 alpha released!
+Dear all,
+after a long period of testing and bug-fixing today we release EVT 3
+alpha! This is the very first version after switching from AngularJS to
+Angular as a development framework: the basic features are already there
+(support for diplomatic and critical editions, page-level image-text
+linking, support for named entities), but they are still to be completed
+(e.g., the critical edition apparatus frame has not yet been
+implemented) and some basic features such as a search engine are missing
+as well. Please let us know what you think of this version, your
+feedback will help us in developing a stable and feature complete
+version 1.0.Full announce available at
+https://visualizationtechnology.wordpress.com/2022/12/08/evt-3-alpha-availabl=
+e-for-download-and-testing/.
+Direct download here:
+https://github.com/evt-project/evt-viewer-angular/releases/download/v1.0.0-al=
+pha/evt3_1.0.0-alpha.zip.
+Feedback page:
+https://github.com/evt-project/evt-viewer-angular/discussions/213
+GitHub repository: https://github.com/evt-project/evt-viewer-angular.R
+--===============4151479753909176854==--

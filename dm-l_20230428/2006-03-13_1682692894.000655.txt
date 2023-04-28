@@ -1,0 +1,23 @@
+Subject: Re: [dm-l] TEI/XML manuscript markup initiatives?
+> I, of course, must in turn agree with Roberto there is certainly room for
+> improvement in the areas he mentions.  Perhaps the right place to collect a=
+nd
+> compare this information would be on a page off the TEI wiki's MSS SIG page=
+ at
+> http://www.tei-c.org.uk/wiki/index.php/SIG:MSS
+>  =20
+I add few links :
+- one link for manuscript description : the summary of reviews of the=20
+manuscript description chapter :=20
+http://www.tei-c.org/Activities/MS/msw05.xml
+- links for manuscript transcription : a new electronic edition in TEI=20
+P4 by Ecole des chartes : les chroniques latines de Saint-Denis :=20
+http://elec.enc.sorbonne.fr/chroniqueslatines/ and two guidelines in=20
+french (vive le multinlinguisme :-) ) to encode medieval deeds (It's an=20
+handwritten source too !).
+We are beginning a project in Ecole des chartes to make an inventory of=20
+translations in vernacular language of classical texts and we use the=20
+new manuscript Description module that is very good answer for our=20
+needs. I hope we can propose the guidelines of this work for the autumn.
+I hope this few links and informations will be able to help youGautier PoupeauPS : I'm sorry for my awful english...
+--===============3930998776706966275==--

@@ -1,0 +1,26 @@
+Subject: Re: [dm-l] CD-Rom electronic editions with full text searchingIl giorno lun, 15-11-2004 alle 16:47 -0700, caedmon ha scritto:
+> Hello all,
+>     I'm helping a graduate student with a quick survey: does anybody 
+> know of CD-ROM editions with full text searching of the entire disk? 
+> I've looked through the editions I have, and I'm not sure any of the 
+> ones I own have mechanisms for full text searching of all the files on 
+> the disk. What she is looking for are texts that produce Google like 
+> results, limited solely to the contents of the disk in question, from a 
+> text search on CD-ROM. We are of course aware of the new Google beta 
+> disk search, and realise that things like HT/dig allow one to do this 
+> kind of searching on-line.Perhaps these two can be of help:Namazu http://www.namazu.org/Namazu is a full-text search engine intended for easy use. Not only does
+it work as a small or medium scale Web search engine, but also as a
+personal search system for email or other files.JSSINDEX http://jssindex.sourceforge.net/JSS is a simple search engine designed for CDROM or Web-based document
+collections. The documents to be indexed can be in HTML, PostScript (.ps
+and .ps.gz), PDF, and DjVu. The main feature of JSS is that the query
+engine and the index are entirely in JavaScript, and therefore require
+no other software than a JavaScript-enabled Web browser.Ciao-- 
+ 
+Roberto Rosselli Del Turco      roberto.rossellidelturco at unito.it
+Dipartimento di Scienze         rosselli at ling.unipi.it
+del Linguaggio                  Then spoke the thunder  DA
+Universita' di Torino           Datta: what have we given?  (TSE)
+ 
+  Hige sceal the heardra,     heorte the cenre,
+  mod sceal the mare,       the ure maegen litlath.  (Maldon 312-3)
+--===============0211427216826848381==--

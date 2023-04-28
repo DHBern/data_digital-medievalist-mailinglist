@@ -1,0 +1,52 @@
+Subject: Re: [dm-l] RDF in digital medieval studies?Thanks Elena. This is exactly what I mean - and the Henry III Fine
+Rolls is the only project already on my radar (sorry, I should have
+mentioned that in my very short request!). Any others?DotOn Thu, Jul 16, 2009 at 10:15 AM, Elena
+_redacted_(a)kcl.ac.uk> wrote:
+> Dot,
+>
+> Fine Rolls Henry the III uses RDF-OWL for storing prosopographical
+> information (names, places, subjects): see
+>
+> Arianna Ciula, Paul Spence, and José Miguel Vieira
+> Expressing complex associations in medieval historical documents: the Henry
+> III Fine Rolls Project
+> Lit Linguist Computing, September 2008; 23: 311 - 325.
+>
+> Don't know if is this what you meant for metadata, though.
+>
+> Elena
+>
+> Dot Porter wrote:
+>
+> Hello everyone,
+>
+> I'm looking for examples of projects in the digital humanities that
+> use RDF for storing metadata. Does anyone on the list have examples of
+> projects in the digital medieval studies that are using RDF?
+>
+> Many thanks,
+> Dot
+>
+>
+>
+> --
+> Dr Elena Pierazzo
+> Research Associate
+> Centre for Computing in the Humanities
+> King's College London
+> 26-29 Drury Lane
+> London WC2B 5RL
+>
+> Phone: 0207-848-1949
+> Fax: 0207-848-2980
+_redacted_(a)kcl.ac.uk
+> www.kcl.ac.uk-- 
+*~*~*~*~*~*~*~*~*~*~*
+Dot Porter (MA, MSLS)          Metadata Manager
+Digital Humanities Observatory (RIA), Regus House, 28-32 Upper
+Pembroke Street, Dublin 2, Ireland
+-- A Project of the Royal Irish Academy --
+Phone: +353 1 234 2444        Fax: +353 1 234 2400
+_redacted_(a)gmail.com
+*~*~*~*~*~*~*~*~*~*~*
+--===============4483726753830755233==--

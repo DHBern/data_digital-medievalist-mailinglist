@@ -1,0 +1,16 @@
+Subject: [dm-l] Junicode beta postedBy way more (I hope) of a plea for help than of self-promotion:I've posted a beta of Junicode 0.6.5 on my websitewww.engl.virginia.edu/OE/junicode/junicode.htmland I'm hoping that some members of this list will want to download and
+test it.I had hoped to completely implement the Medieval Unicode Font Initiative
+recommendation, but decided I should release it half-done. The latest
+version of OS X seems much pickier about fonts than earlier versions and
+some bugs in the current version were causing it to be rejected. Since I
+still can't test on OS X myself, I'm particularly hoping for help from
+Mac users.Though MUFI is not complete in this version, it nevertheless includes
+some substantial revisions. The number of characters in the "Regular"
+style has gone from something over 1400 to 1756, in large part because
+the whole of "Latin Extended Additional" (U+1E00 - U+1EF9) has now been
+implemented. In addition, "hinting" of the Regular and Bold styles has
+progressed far enough that nearly all documents produced by medievalists
+will look good on a computer screen.To download, scroll to the bottom and click on the link for the test
+version of 0.6.5. Sorry, no documentation yet; but members of this list
+will know what to do.Thanks,
+Peter

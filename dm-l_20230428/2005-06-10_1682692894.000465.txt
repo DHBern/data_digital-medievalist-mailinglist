@@ -1,0 +1,10 @@
+Subject: [dm-l] Letter database: languages, character sets, names etcI'm not sure if members of this list would find this type of e-mail
+useful (please let me know if you do... or don't), but here goes:A common problem in text encoding is locating the correct codes for
+"unusual letters". There are various utilities for doing this in
+windows, mac, and Linux. But here is a useful web-based utility.You can
+use it to look up character names and find their code point (though you
+do have to be fairly precise), and it will produce the correct number in
+hex and decimal formats. It will also tell you everything you ever
+wanted to know about characters required for encoding Estonian.http://www.eki.ee/letter/See also the Digital Medievalist Wiki entry for character encoding
+http://sql.uleth.ca/dmorgwiki/index.php/Fonts (to which I have just
+added information about this site).-dan

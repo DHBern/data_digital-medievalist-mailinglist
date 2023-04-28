@@ -1,0 +1,19 @@
+Subject: Re: [dm-l] numbering lines> So I can use automatic numbering to generate an initial matching of=20
+> number to line for each of the chunks, but I need to fiddle a bit around th=
+e=20
+> anomalies and then actually stick the numbers to the lines permanently befo=
+re=20
+> concordancing.We meet this frequently when our keyers have neglected to capture
+line numbers, and our best solution, though not ideal, is interactive
+editing with an editor that allows not only automatic numbering, but
+easy selection of lines to operate on, easy undo if it goes wrong,
+and easy numbering from arbitrary starting points and with arbitrary
+increments, e.g. 'replace every <l> in the selected region with
+<l n=3D"..."> starting at 238 and incrementing by 2 each time.'
+TextPad (on Windows) does this well (replace <l> with <l n=3D"\i(238,2)">)If you have some match point in the 'external reference system'
+on which to key in inserting numbers, a more elaborate scripted
+solution suggests itself. But you probably don't.pfs
+--------------------------------------------------------------------
+_redacted_(a)umich.edu | http://www-personal.umich.edu/~pfs/
+University of Michigan Digital Library Production Service
+--------------------------------------------------------------------

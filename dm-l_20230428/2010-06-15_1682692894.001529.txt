@@ -1,0 +1,65 @@
+Subject: Re: [dm-l] Multiple streams / stages of footnotes: what solutions?Dear Godfried,
+Of course, you have a point there: typesetting is a job on its own.
+Although, there are occasions on which you might want to handle the=20
+multiple layers of footnotes: either when you have to prepare the=20
+camera-ready file without the help of a professional typesetter (I know=20
+many students, for instance, who have to use LaTex for the critical=20
+edition included in their thesis, just to obtain the mandatory multiple=20
+layers), or also when you simply want to have a "cleaner" apparatus for=20
+your own use on a "work-in-progress" critical edition.Marjorie
+Croenen, Godfried wrote:
+> Dear Marjorie,
+>
+> I fully recognise the problem but unless you want do the typesetting yourse=
+lf, then there is no real need to use any of these packages. My personal expe=
+rience teaches me that professional typesetters can perfectly set as many lay=
+ers of footnotes as you need and many of them will take XML or SGML files as =
+input.
+>
+> Godfried
+>
+> -----Original Message-----
+_redacted_(a)uleth.ca] On Behalf Of=
+ Marjorie Burghart
+> Sent: 15 June 2010 09:54
+_redacted_(a)uleth.ca
+> Subject: [dm-l] Multiple streams / stages of footnotes: what solutions?
+>
+> Dear list,
+> As those of you who have had the pleasure to tackle critical editions in=20
+> printed form, the traditional
+> mutiple streams or "stages" of footnotes (variants + biblical references=20
+> + sources, for instance) are a real pain, and very few solutions are=20
+> offered.
+>
+> I knew of two, mainly (leaving aside InDesign and the like): LaTex (for=20
+> the bold and slightly geeky critical editor with time on his hands), and=20
+> the Classical Text Editor, an apparently quite interesting text editor=20
+> dedicated to critical editions (unfortunately rather expensive).
+>
+> I have just discovered that, apparently, a word processor for MacOSX is=20
+> capable of handling those multiple layers:
+> http://www.redlers.com/mellelscholars.htm
+> See also for a more detailed explanation of the footnotes features p.=20
+> 111- 124 in the PDF manual:
+> http://www.connectnw.com/redlers/MellelGuide.pdf
+> Unfortunately, I have no MacOsX at hand for the moment, and haven't been=20
+> able to give this word processor a test yet. But I would be very=20
+> interested to hear from the DM-L list members, if ever some of you had=20
+> tried this Mellel software.
+>
+> More generally, do some of you use other solutions to handle multiple=20
+> streams of footnotes in their *printed* editions, and what is your=20
+> assesment of the various solutions?
+>
+> Best, Marjorie
+>
+>  =20
+--=20
+Marjorie BURGHART
+EHESS (p=C3=B4le de Lyon) / UMR 5648
+Histoire et Arch=C3=A9ologie des Mondes Chr=C3=A9tiens et Musulmans M=C3=A9di=
+=C3=A9vaux
+18 quai Claude Bernard
+69007 Lyon - FRANCE
+--===============8182291970054526509==--

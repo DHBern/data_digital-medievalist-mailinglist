@@ -1,0 +1,51 @@
+Subject: Re: [dm-l] Use of wikis for transcriptionThanks for these replies.  From work on other wikis, in particular 
+Wikipedia, I think1. Crowdsourcing very poor at anything involving summarisation, synthesis 
+and so on.  Hence Wikipedia is good at biographies (which have a set format, 
+and usually follow the progress of someone's life in the obvious order). 
+Very poor at high level subjects like 'History', 'Philosophy', 'Roman 
+Empire' and that sort of thing, where 95% of the work is sourcing the 
+relevant and important facts and so on.2.  There is no problem with conventions - co-editors generally quick to 
+absorb relevant policy, house style and so on (over much, in my view).3.  For these reasons, wikis well suited to translation work (which has 
+absolutely no demands on organisation or synthesis).4.  For similar reasons, transcription would also be well suited for wiki 
+work.5.  What originally drew me to the idea was finding an important medieval 
+work (a critical edition from the 1960's) in a London library where the 
+basement had clearly flooded at some time.  The volumes were out of order, 
+there were missing leaves, one volume was even missing.  Many important 
+works are not critical editions and are simply transcriptions made by 
+dedicated enthusiasts.  These are published in obscure journals like CIMAGL, 
+in courier font, generally not checked by others (in my view - it is easy to 
+locate mistakes), and generally not accessible to the outside world.6. Thus, publication on a wiki would ensure much better access to important 
+works, and also the opportunity for others to check.7.  Some here have commented on the use of character recognition, which I 
+find bizarre.  I studied optical pattern recognition in the 1980's and it 
+was accepted then, and it is still true I think, that machines cannot 
+understand human speech or writing unless they also grasp the semantics.  I 
+can work through a text without concentrating on the meaning and I can get 
+probably a 90% success rate.  Then I go through again, this time translating 
+as I go along and get a 98% success rate.  Finally I go one level higher (it 
+is philosophy I usually translate) and try to understand not just what the 
+writer is literally saying in their language, but what they actually mean, 
+the argument they are making.  This gets me to 99% but I am still learning. 
+It is very difficult to transcribe medieval texts without a deep 
+understanding of the *kind* of thing the writer is trying to say.  That is 
+because the writer was communicating with his or her (usually his) audience 
+knowing the assumptions they would make and which would not need to be 
+clarified.8.  To give an example, some years ago I hired a Cambridge PhD to help me 
+brush up my Latin.  We worked through some medieval texts and we got stuck 
+at 'Minor patet'.  He thought this meant 'it is less clear'.  In fact, as I 
+soon found out, 'Minor' in this context means 'the minor proposition' (of a 
+syllogism).9.  I did try out my OCR on a manuscript, but it was completely hopeless. 
+Only humans will ever be able to read these things.10.  Thanks for the tips about XML.  I do work with XML and indeed I have 
+made many experiments with trying to present images of manuscripts together 
+with the Latin transcript and then an English translation.  Another reason 
+for presenting the material like this is that we should no longer be hostage 
+to the person making a transcription, who is often interpreting the Latin in 
+a way that suits their interpretation of grammar and meaning.  It was not 
+until I started reading manuscripts that I realised how much of the printed 
+material we read is simply a typographer's invention.  For example medieval 
+texts do not generally use the honorific capital.  They write 'aristotle' 
+and even 'god', rather than 'Aristotle' or 'God'.  Actually they don't even 
+write the full word.  There are standard abbreviations for all the commonly 
+used words, such as Aristotle, Priscianus and so on.  The only way to 
+present this material is to give the original, a transcript in the original 
+language, and a translation into a modern language.Edward
+--===============4758110649094310535==--

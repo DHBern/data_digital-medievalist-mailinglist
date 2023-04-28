@@ -1,0 +1,124 @@
+Subject: Re: [dm-l] Access or ExcelHI Abdullah,You said 'data crunching'. It looks like I should interpret that as
+'counting and computing numbers'. If so, stick to Excel. Access is a
+database. Databases are about describing/modeling, categorising, searching
+and selecting data. Spreadsheets are the things of use if you actually want
+to count things and apply statistics.That said, you could do it in Access - but it would take a considerable
+amount of additional VBA-scripting to get Access to count your phenomena
+properly. Excel should provide standard functions and solutions in most
+cases.If you're talking about really vast amounts of data, consider using more
+advanced statistical tools like SPSS or Stata.Hope this helps,
+y.s.,
+Joris van Zundert
+_redacted_(a)postgrad.manchester.ac.uk>
+wrote:
+>
+> Dear all,
+>
+> I would like to ask for advice whether I should use MS Access or Excel for
+> data
+> crunching.  I have been using Excel for some work I am doing on Old
+> English
+> poetry where I am looking at specific features of a fixed set of poems.
+> However, I have decided also to look at other aspects of the same set of
+> poems.
+>
+> To put it in a nutshell, I have three sets of data I want to compare
+> concerning
+> the same poems in order to see where the trends are.  I know how to use
+> Excel
+> fairly well - at least to get statistical information - but I have been
+> getting
+> into trouble when trying to find trends across several sets of data.  I
+> thought
+> about pivot tables, but I am not sure if that's the way to go, when I
+> think
+> that I may be able to do things easier in Access - even though I don't
+> know
+> anything about how to use it.
+>
+> Which application would you suggest I use?
+>
+> Best,
+> Abdullah Alger
+>
+> _______________________________________________
+> Digital Medievalist Project
+> Homepage: http://www.digitalmedievalist.org
+> Journal (Spring 2005-): http://www.digitalmedievalist.org/journal.cfm
+> RSS (announcements) server: http://www.digitalmedievalist.org/rss/rss2.cfm
+> Wiki: http://sql.uleth.ca/dmorgwiki/index.php
+> Change membership options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+> Submit RSS announcement: http://www.digitalmedievalist.org/newitem.cfm
+_redacted_(a)uleth.ca
+> dm-l mailing list
+_redacted_(a)uleth.ca
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+>-- 
+Mr. Joris J. van Zundert (MA)
+Huygens Institute
+Royal Academy of Arts and SciencesContact information can be found at http://www.brandaen.orgA disclaimer is applicable to this e-mail, please refer to
+http://www.brandaen.org/emaildisclaimer for more informationSEkgQWJkdWxsYWgsPGJyPjxicj5Zb3Ugc2FpZCAnZGF0YSBjcnVuY2hpbmcnLiBJdCBsb29rcyBs
+aWtlIEkgc2hvdWxkIGludGVycHJldCB0aGF0IGFzICdjb3VudGluZyBhbmQgY29tcHV0aW5nIG51
+bWJlcnMnLiBJZiBzbywgc3RpY2sgdG8gRXhjZWwuIEFjY2VzcyBpcyBhIGRhdGFiYXNlLiBEYXRh
+YmFzZXMgYXJlIGFib3V0IGRlc2NyaWJpbmcvbW9kZWxpbmcsIGNhdGVnb3Jpc2luZywgc2VhcmNo
+aW5nIGFuZCBzZWxlY3RpbmcgZGF0YS4gU3ByZWFkc2hlZXRzIGFyZSB0aGUgdGhpbmdzIG9mIHVz
+ZSBpZiB5b3UgYWN0dWFsbHkgd2FudCB0byBjb3VudCB0aGluZ3MgYW5kIGFwcGx5IHN0YXRpc3Rp
+Y3MuCjxicj48YnI+VGhhdCBzYWlkLCB5b3UgPHNwYW4gc3R5bGU9ImZvbnQtc3R5bGU6IGl0YWxp
+YzsiPmNvdWxkIDwvc3Bhbj5kbyBpdCBpbiBBY2Nlc3MgLSBidXQgaXQgd291bGQgdGFrZSBhIGNv
+bnNpZGVyYWJsZSBhbW91bnQgb2YgYWRkaXRpb25hbCBWQkEtc2NyaXB0aW5nIHRvIGdldCBBY2Nl
+c3MgdG8gY291bnQgeW91ciBwaGVub21lbmEgcHJvcGVybHkuIEV4Y2VsIHNob3VsZCBwcm92aWRl
+IHN0YW5kYXJkIGZ1bmN0aW9ucyBhbmQgc29sdXRpb25zIGluIG1vc3QgY2FzZXMuCjxicj48YnI+
+SWYgeW91J3JlIHRhbGtpbmcgYWJvdXQgcmVhbGx5IHZhc3QgYW1vdW50cyBvZiBkYXRhLCBjb25z
+aWRlciB1c2luZyBtb3JlIGFkdmFuY2VkIHN0YXRpc3RpY2FsIHRvb2xzIGxpa2UgU1BTUyBvciBT
+dGF0YS48YnI+PGJyPkhvcGUgdGhpcyBoZWxwcyw8YnI+eS5zLiw8YnI+Sm9yaXMgdmFuIFp1bmRl
+cnQ8YnI+PGJyPjxicj48ZGl2PjxzcGFuIGNsYXNzPSJnbWFpbF9xdW90ZSI+Ck9uIDEwLzI5LzA2
+LCA8YiBjbGFzcz0iZ21haWxfc2VuZGVybmFtZSI+QWJkdWxsYWggQWxnZXI8L2I+ICZsdDs8YSBo
+cmVmPSJtYWlsdG86QWJkdWxsYWguQWxnZXItMkBwb3N0Z3JhZC5tYW5jaGVzdGVyLmFjLnVrIj5B
+YmR1bGxhaC5BbGdlci0yQHBvc3RncmFkLm1hbmNoZXN0ZXIuYWMudWs8L2E+Jmd0OyB3cm90ZTo8
+L3NwYW4+PGJsb2NrcXVvdGUgY2xhc3M9ImdtYWlsX3F1b3RlIiBzdHlsZT0iYm9yZGVyLWxlZnQ6
+IDFweCBzb2xpZCByZ2IoMjA0LCAyMDQsIDIwNCk7IG1hcmdpbjogMHB0IDBwdCAwcHQgMC44ZXg7
+IHBhZGRpbmctbGVmdDogMWV4OyI+CkRlYXIgYWxsLDxicj48YnI+SSB3b3VsZCBsaWtlIHRvIGFz
+ayBmb3IgYWR2aWNlIHdoZXRoZXIgSSBzaG91bGQgdXNlIE1TIEFjY2VzcyBvciBFeGNlbCBmb3Ig
+ZGF0YTxicj5jcnVuY2hpbmcuJm5ic3A7Jm5ic3A7SSBoYXZlIGJlZW4gdXNpbmcgRXhjZWwgZm9y
+IHNvbWUgd29yayBJIGFtIGRvaW5nIG9uIE9sZCBFbmdsaXNoPGJyPnBvZXRyeSB3aGVyZSBJIGFt
+IGxvb2tpbmcgYXQgc3BlY2lmaWMgZmVhdHVyZXMgb2YgYSBmaXhlZCBzZXQgb2YgcG9lbXMuCjxi
+cj5Ib3dldmVyLCBJIGhhdmUgZGVjaWRlZCBhbHNvIHRvIGxvb2sgYXQgb3RoZXIgYXNwZWN0cyBv
+ZiB0aGUgc2FtZSBzZXQgb2YgcG9lbXMuPGJyPjxicj5UbyBwdXQgaXQgaW4gYSBudXRzaGVsbCwg
+SSBoYXZlIHRocmVlIHNldHMgb2YgZGF0YSBJIHdhbnQgdG8gY29tcGFyZSBjb25jZXJuaW5nPGJy
+PnRoZSBzYW1lIHBvZW1zIGluIG9yZGVyIHRvIHNlZSB3aGVyZSB0aGUgdHJlbmRzIGFyZS4mbmJz
+cDsmbmJzcDtJIGtub3cgaG93IHRvIHVzZSBFeGNlbAo8YnI+ZmFpcmx5IHdlbGwgLSBhdCBsZWFz
+dCB0byBnZXQgc3RhdGlzdGljYWwgaW5mb3JtYXRpb24gLSBidXQgSSBoYXZlIGJlZW4gZ2V0dGlu
+Zzxicj5pbnRvIHRyb3VibGUgd2hlbiB0cnlpbmcgdG8gZmluZCB0cmVuZHMgYWNyb3NzIHNldmVy
+YWwgc2V0cyBvZiBkYXRhLiZuYnNwOyZuYnNwO0kgdGhvdWdodDxicj5hYm91dCBwaXZvdCB0YWJs
+ZXMsIGJ1dCBJIGFtIG5vdCBzdXJlIGlmIHRoYXQncyB0aGUgd2F5IHRvIGdvLCB3aGVuIEkgdGhp
+bmsKPGJyPnRoYXQgSSBtYXkgYmUgYWJsZSB0byBkbyB0aGluZ3MgZWFzaWVyIGluIEFjY2VzcyAt
+IGV2ZW4gdGhvdWdoIEkgZG9uJ3Qga25vdzxicj5hbnl0aGluZyBhYm91dCBob3cgdG8gdXNlIGl0
+Ljxicj48YnI+V2hpY2ggYXBwbGljYXRpb24gd291bGQgeW91IHN1Z2dlc3QgSSB1c2U/PGJyPjxi
+cj5CZXN0LDxicj5BYmR1bGxhaCBBbGdlcjxicj48YnI+X19fX19fX19fX19fX19fX19fX19fX19f
+X19fX19fX19fX19fX19fX19fX19fX18KPGJyPkRpZ2l0YWwgTWVkaWV2YWxpc3QgUHJvamVjdDxi
+cj5Ib21lcGFnZTogPGEgaHJlZj0iaHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnIj5o
+dHRwOi8vd3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmc8L2E+PGJyPkpvdXJuYWwgKFNwcmluZyAy
+MDA1LSk6IDxhIGhyZWY9Imh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy9qb3VybmFs
+LmNmbSI+aHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnL2pvdXJuYWwuY2ZtCjwvYT48
+YnI+UlNTIChhbm5vdW5jZW1lbnRzKSBzZXJ2ZXI6IDxhIGhyZWY9Imh0dHA6Ly93d3cuZGlnaXRh
+bG1lZGlldmFsaXN0Lm9yZy9yc3MvcnNzMi5jZm0iPmh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFs
+aXN0Lm9yZy9yc3MvcnNzMi5jZm08L2E+PGJyPldpa2k6IDxhIGhyZWY9Imh0dHA6Ly9zcWwudWxl
+dGguY2EvZG1vcmd3aWtpL2luZGV4LnBocCI+aHR0cDovL3NxbC51bGV0aC5jYS9kbW9yZ3dpa2kv
+aW5kZXgucGhwCjwvYT48YnI+Q2hhbmdlIG1lbWJlcnNoaXAgb3B0aW9uczogPGEgaHJlZj0iaHR0
+cDovL2xpc3RzZXJ2LnVsZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0tbCI+aHR0cDovL2xpc3Rz
+ZXJ2LnVsZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0tbDwvYT48YnI+U3VibWl0IFJTUyBhbm5v
+dW5jZW1lbnQ6IDxhIGhyZWY9Imh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy9uZXdp
+dGVtLmNmbSI+Cmh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy9uZXdpdGVtLmNmbTwv
+YT48YnI+Q29udGFjdCBlZGl0b3JpYWwgQm9hcmQ6IDxhIGhyZWY9Im1haWx0bzpkaWdpdGFsbWVk
+aWV2YWxpc3RAdWxldGguY2EiPmRpZ2l0YWxtZWRpZXZhbGlzdEB1bGV0aC5jYTwvYT48YnI+ZG0t
+bCBtYWlsaW5nIGxpc3Q8YnI+PGEgaHJlZj0ibWFpbHRvOmRtLWxAdWxldGguY2EiPmRtLWxAdWxl
+dGguY2EKPC9hPjxicj48YSBocmVmPSJodHRwOi8vbGlzdHNlcnYudWxldGguY2EvbWFpbG1hbi9s
+aXN0aW5mby9kbS1sIj5odHRwOi8vbGlzdHNlcnYudWxldGguY2EvbWFpbG1hbi9saXN0aW5mby9k
+bS1sPC9hPjxicj48L2Jsb2NrcXVvdGU+PC9kaXY+PGJyPjxiciBjbGVhcj0iYWxsIj48YnI+LS0g
+PGJyPk1yLiBKb3JpcyBKLiB2YW4gWnVuZGVydCAoTUEpPGJyPkh1eWdlbnMgSW5zdGl0dXRlPGJy
+PgpSb3lhbCBBY2FkZW15IG9mIEFydHMgYW5kIFNjaWVuY2VzPGJyPjxicj5Db250YWN0IGluZm9y
+bWF0aW9uIGNhbiBiZSBmb3VuZCBhdCA8YSBocmVmPSJodHRwOi8vd3d3LmJyYW5kYWVuLm9yZyI+
+aHR0cDovL3d3dy5icmFuZGFlbi5vcmc8L2E+PGJyPjxicj5BIGRpc2NsYWltZXIgaXMgYXBwbGlj
+YWJsZSB0byB0aGlzIGUtbWFpbCwgcGxlYXNlIHJlZmVyIHRvIDxhIGhyZWY9Imh0dHA6Ly93d3cu
+YnJhbmRhZW4ub3JnL2VtYWlsZGlzY2xhaW1lciI+Cmh0dHA6Ly93d3cuYnJhbmRhZW4ub3JnL2Vt
+YWlsZGlzY2xhaW1lcjwvYT4gZm9yIG1vcmUgaW5mb3JtYXRpb24K

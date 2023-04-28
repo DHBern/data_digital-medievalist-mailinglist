@@ -1,0 +1,26 @@
+Subject:Thanks to all for your feedback about the systems / browsers working 
+fine with the program :)Neven Jovanović a écrit :
+> This kind of exercises could be used even for learning to read old printed
+> books. Do you plan to make the sources for XSL, CSS and Java publicly
+> available somewhere?
+>   Yes, Neven, I do: the sources will be available in a few days, just the 
+time for me to fix some minor details :) I'll keep the list posted as 
+soon as they are available.
+Dr Notis Toufexis a écrit :
+> In "1345 : prologue d'un compte" scrolling back and forth from
+> the image to the transcription box is a little bit difficult but
+> that's no big deal.
+>   
+Yes indeed, the span of image was probably a bit too large for comfort 
+on smaller screens in this exercise. On the other hand, the "zoom" of 
+the current zone is always visible (but I agree it's useful to have the 
+"big picture" to decipher a word) ; another trick might be to hide the 
+lines of the transcription box when one has finished to transcribe them 
+(not only the full zones can be hidden, but within the zones each line 
+can also be hidden by clicking on its label).Best, Marjorie-- 
+Marjorie BURGHART
+EHESS (pôle de Lyon) / UMR 5648
+Histoire et Archéologie des Mondes Chrétiens et Musulmans Médiévaux
+18 quai Claude Bernard
+69007 Lyon - FRANCE
+--===============4583719486848497725==--

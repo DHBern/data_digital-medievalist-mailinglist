@@ -1,0 +1,12 @@
+Subject: RE: [dm-l] Question about CSS and IE Aargh, you're right, I misunderstood the new spec. So the implication
+is that browsers that don't yet provide CSS support SHOULD provide it,
+rather than having a default behaviour.Peter
+Dan wrote:
+ 
+> Looking at the 2.0 standard, I think they are probably doing 
+> a bad job of explaining it: they should be emphasising that 
+> the marks are to be supplied by a stylesheet; given that the 
+> actual marks used to indicate quotations are really 
+> accidental features of typography rather than structural 
+> categories, they should not be encouraging people to put them 
+> into a document as CDATA!

@@ -1,0 +1,18 @@
+Subject: [dm-l] Searching for a search engine[apologies for the slightly redundant subject line. It's not even very funny.]I'm looking for a search engine to handle what I guess is termed
+"fuzzy searching" across a corpus of Latin legal texts.Essentially, what we will have are TEI tagged transcriptions, but we
+will not have detailed parts of speech encoding (and I don't believe
+it's realistic to add such encoding), so the search could not rely on
+tags. Variant spellings are a huge issue, so we
+would like a search that is "smart" in the sense that it will have
+some kind of algorithmic approach to finding potential variant
+spellings (as opposed to relying on a list of known variant
+spellings). We do not want to rely on any kind of Boolean searching
+(commas, curly brackets, etc.). We want a search where the user will
+discover the variants *after the fact* (once the search is done),
+rather than having to make a determination about what those variants
+might be ahead of time. Finally, the search will need to work both
+within single transcriptions, and across multiple transcriptions
+(potentially across the entire corpus).Is anyone on-list familiar with any existing search engines or frameworks that
+suit our needs, or that might be modified to suit them?Thanks,
+Dot
+--===============5793921579467758493==--

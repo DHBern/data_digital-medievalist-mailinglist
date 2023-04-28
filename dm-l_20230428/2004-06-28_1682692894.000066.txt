@@ -1,0 +1,45 @@
+Subject: Re: [dm-l] MS-Internet Explorer 6 and standards based	computing>>in short, yes. MSIE is the regular target of complaints from the web 
+>>standards community.I second that.>>perhaps the response among this group should be the converse of many>>web developers: develop standards-based texts and applications and 
+>>require your users to use standards-based browsers.Succesfullness of a webtool/application is often decided by whether
+it's well usable in the most popular browser (which too bad still is
+IE). If it's not, users will blame the application, not the browser. So
+I wouldn't recommend not making your application IE compatible. One
+should do both: implement the standards and provide a IE compatible
+version as well. >>even if IE is parsing XSL better right now, other browsers, 
+>>particularly mozilla-based browsers, are sure to catch up.Although I doubt whether IE parses better, I wonder why one wouldn't
+just parse server side and sending HTML? For those who want the very
+XML, a download button, FTP, or OAI solution may be provided. HTML is
+implemented fairly reliable over all browsers, is it? Or do I fail to
+see an important point for not parsing XML server side?
+ 
+grtz,
+Joris
+ 
+ PEhUTUw+PEhFQUQ+CjxNRVRBIGh0dHAtZXF1aXY9Q29udGVudC1UeXBlIGNvbnRlbnQ9InRleHQv
+aHRtbDsgY2hhcnNldD1pc28tODg1OS0xIj4KPE1FVEEgY29udGVudD0iTVNIVE1MIDYuMDAuMjgw
+MC4xNDAwIiBuYW1lPUdFTkVSQVRPUj48L0hFQUQ+CjxCT0RZIHN0eWxlPSJNQVJHSU46IDRweCA0
+cHggMXB4OyBGT05UOiAxMHB0IEFyaWFsOyBDT0xPUjogIzAwMDAwMCI+CjxESVY+Jmd0OyZndDtp
+biBzaG9ydCwgeWVzLiBNU0lFIGlzIHRoZSByZWd1bGFyIHRhcmdldCBvZiBjb21wbGFpbnRzIGZy
+b20gdGhlIHdlYiA8QlI+Jmd0OyZndDtzdGFuZGFyZHMgY29tbXVuaXR5LjxCUj48L0RJVj4KPERJ
+Vj5JIHNlY29uZCB0aGF0LjwvRElWPgo8RElWPjxCUj4mZ3Q7Jmd0O3BlcmhhcHMgdGhlIHJlc3Bv
+bnNlIGFtb25nIHRoaXMgZ3JvdXAgc2hvdWxkIGJlIHRoZSBjb252ZXJzZSBvZiBtYW55IDxCUj4m
+Z3Q7Jmd0O3dlYiBkZXZlbG9wZXJzOiBkZXZlbG9wIHN0YW5kYXJkcy1iYXNlZCB0ZXh0cyBhbmQg
+YXBwbGljYXRpb25zIGFuZCA8QlI+Jmd0OyZndDtyZXF1aXJlIHlvdXIgdXNlcnMgdG8gdXNlIHN0
+YW5kYXJkcy1iYXNlZCBicm93c2Vycy48QlI+PC9ESVY+CjxESVY+U3VjY2VzZnVsbG5lc3Mgb2Yg
+YSB3ZWJ0b29sL2FwcGxpY2F0aW9uIGlzIG9mdGVuIGRlY2lkZWQgYnkgd2hldGhlciBpdCdzIHdl
+bGwgdXNhYmxlIGluIHRoZSBtb3N0IHBvcHVsYXIgYnJvd3NlciAod2hpY2ggdG9vIGJhZCBzdGls
+bCBpcyBJRSkuIElmIGl0J3Mgbm90LCB1c2VycyB3aWxsIGJsYW1lIHRoZSBhcHBsaWNhdGlvbiwm
+bmJzcDtub3QgdGhlIGJyb3dzZXIuIFNvIEkgd291bGRuJ3QgcmVjb21tZW5kIG5vdCBtYWtpbmcg
+eW91ciBhcHBsaWNhdGlvbiBJRSBjb21wYXRpYmxlLiBPbmUgc2hvdWxkIGRvIGJvdGg6IGltcGxl
+bWVudCB0aGUgc3RhbmRhcmRzIGFuZCBwcm92aWRlIGEgSUUgY29tcGF0aWJsZSB2ZXJzaW9uIGFz
+IHdlbGwuIDwvRElWPgo8RElWPjxCUj4mZ3Q7Jmd0O2V2ZW4gaWYgSUUgaXMgcGFyc2luZyBYU0wg
+YmV0dGVyIHJpZ2h0IG5vdywgb3RoZXIgYnJvd3NlcnMsIDxCUj4mZ3Q7Jmd0O3BhcnRpY3VsYXJs
+eSBtb3ppbGxhLWJhc2VkIGJyb3dzZXJzLCBhcmUgc3VyZSB0byBjYXRjaCB1cC48QlI+PEJSPkFs
+dGhvdWdoIEkgZG91YnQgd2hldGhlciBJRSBwYXJzZXMgYmV0dGVyLCBJIHdvbmRlciB3aHkgb25l
+IHdvdWxkbid0IGp1c3QgcGFyc2Ugc2VydmVyIHNpZGUgYW5kIHNlbmRpbmcgSFRNTD8gRm9yIHRo
+b3NlIHdobyB3YW50IHRoZSB2ZXJ5IFhNTCwgYSBkb3dubG9hZCBidXR0b24sIEZUUCwgb3IgT0FJ
+Jm5ic3A7c29sdXRpb24gbWF5IGJlIHByb3ZpZGVkLiBIVE1MIGlzIGltcGxlbWVudGVkIGZhaXJs
+eSByZWxpYWJsZSBvdmVyIGFsbCBicm93c2VycywgaXMgaXQ/IE9yIGRvIEkgZmFpbCB0byBzZWUg
+YW4gaW1wb3J0YW50IHBvaW50IGZvciBub3QgcGFyc2luZyBYTUwgc2VydmVyIHNpZGU/PC9ESVY+
+CjxESVY+Jm5ic3A7PC9ESVY+CjxESVY+Z3J0eiw8L0RJVj4KPERJVj5Kb3JpczwvRElWPgo8RElW
+PiZuYnNwOzwvRElWPgo8RElWPiZuYnNwOzwvRElWPjwvQk9EWT48L0hUTUw+

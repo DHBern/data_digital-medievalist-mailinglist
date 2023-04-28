@@ -1,0 +1,22 @@
+Subject: Re: [dm-l] Fwd: Image EncodingIl giorno ven, 09/06/2006 alle 10.51 -0400, Dot Porter ha scritto:
+> Hi List,
+> 
+> I don't know what kind of overlap the DM list has with the TEI list,
+> so apologies if this is the second time you've received this message.
+> Though the issue of image encoding is of general interest to the
+> electronic editing community I think it's of special interest to
+> medievalists. Hope this is useful!Very good job Dot! Two little notes:1. I don't think "Legacy" (in the title) is an adequate description,
+since only the original "Draft Recommendations for TEI Digital
+Facsimiles" document isn't up to date (read this as: this page can be
+useful right NOW! :) ;2. this is also relevant for people interested in transcription, should
+be mentioned on the transcription SIG ml (will do that myself later...).Since the purpose of SVG is quite alien to our purposes, I fully agree
+with the "[looking at] ways that TEI repeats functionality in SVG and
+suggests ways that TEI might incorporate elements from the SVG
+namespace rather than using different elements in the TEI namespace"
+part. Will follow these pages with interest.Ciao-- Roberto Rosselli Del Turco      roberto.rossellidelturco at unito.it
+Dipartimento di Scienze         rosselli at ling.unipi.it
+del Linguaggio                  Then spoke the thunder  DA
+Universita' di Torino           Datta: what have we given?  (TSE)
+ 
+  Hige sceal the heardra,     heorte the cenre,
+  mod sceal the mare,       the ure maegen litlath.  (Maldon 312-3)

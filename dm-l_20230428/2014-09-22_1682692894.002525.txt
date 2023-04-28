@@ -1,0 +1,128 @@
+Subject: Re: [dm-l] Image Content in Digital Projects and MetadataThank you Franz. Your response is very useful. I am trying to determine how i=
+nstitutions are doing this, the degree to which images are described and the =
+frequency. Thanks again,  Harriet.Harriet Sonne de Torrens, MA, MISt., Ph.D., L.M.S.
+Librarian, Visual Resource Library
+https://utoronto.academia.edu/HarrietSonnedeTorrens=20
+Room 3021, CCT Building
+University of Toronto Mississauga
+3359 Mississauga Road North
+Mississauga ON =C2=A0L5L 1C6
+_redacted_(a)utoronto.ca
+Office: 905-569-4610-----Original Message-----
+_redacted_(a)uni-koeln.de]=20
+Sent: September 17, 2014 3:48 AM
+To: Harriet Sonne de Torrens
+Cc: Digital Medievalist
+Subject: Re: [dm-l] Image Content in Digital Projects and MetadataDear Harriet,If the metadata is organised and represented in XML according to the TEI guid=
+elines for manuscript description you should find information on images in th=
+e decoration description (<decoDesc> and <decoNote> resp.).Best,
+Franz_redacted_(a)utoronto.ca>:> Dear Colleagues,
+>
+> I have a question for this esteemed group. As an art =20
+> historian/medievalist and visual resource librarian, I am very =20
+> interested in how institutions are addressing and including metadata =20
+> for images in rare books and manuscripts which are being digitized. =20
+> With the continual growth of digital projects it an important area. =20
+> It is fantastic to have these wonderful collections digitized but a =20
+> real frustration when image data cannot be located. I am wondering =20
+> how this group is addressing this issue in their institutions? If =20
+> you are addressing it, what schema for the image metadata you are =20
+> using? Ideally, we would all want to be heading toward consistency =20
+> and inter-collaborative schema for the sustainability of these =20
+> projects in the future.
+>
+> If you have some time, I would be interested in hearing about this =20
+> area and what some of the current challenges are. Thank you. Harriet.
+>
+> ------------------------------------
+> Harriet Sonne de Torrens, MA, MISt., Ph.D., L.M.S.
+> Librarian, Visual Resource Library
+> https://utoronto.academia.edu/HarrietSonnedeTorrens
+> Room 3021, CCT Building
+> University of Toronto Mississauga
+> 3359 Mississauga Road North
+> Mississauga ON =C2=A0L5L 1C6
+_redacted_(a)utoronto.ca
+> Office: 905-569-4610
+>
+>
+>
+> -----Original Message-----
+_redacted_(a)uleth.ca] On Behalf Of Dan Mosser
+> Sent: September 13, 2014 2:56 AM
+> To: Digital Medievalist
+> Subject: [dm-l] Filemaker Pro/MySQL/ODBC issue
+>
+> HI,
+>
+> I am currently migrating projects to a new server and have =20
+> encountered difficulties with the Thomas L. Gravell Watermarks =20
+> Archive database. As is summarized below, we have moved everything, =20
+> confirmed that we can update a MySQL database on the new server =20
+> using FMP and the ODBC driver, but the Gravell database itself is =20
+> not communicating, despite updating scripts, etc. Has anyone on the =20
+> list had recent experience with these issues? One problem is that it =20
+> has been awhile since we have had to deal with a migration and there =20
+> are some rusty chops! Thanks in advance for any insights. Here's the =20
+> summary from my tech person:
+>
+> - Moved the MySQL database to the new server. Verified that the =20
+> database user has all privileges to manage the database.
+>
+> - Verified that Port 3306 is open so the database can be managed remotely.
+>
+> - Installed the Actual Technologies ODBC Driver, created a new DSN =20
+> for the MySQL database, and verified that we can connect to the =20
+> MySQL database using ODBC.
+>
+> - Updated the FileMaker Pro scripts to use the new DSN we created.
+>
+> I can confirm that the MySQL database can be modified in FileMaker =20
+> Pro via ODBC (I created a new FileMaker Pro database to test this), =20
+> but something in the scripts in the existing FileMaker Pro database =20
+> is preventing the ODBC connection from working.
+> _____________________________
+> Dan Mosser
+_redacted_(a)vt.edu
+> _____________________________
+> Digital index of Middle English Verse (www.dimev.net) Thomas L. =20
+> Gravell Watermark Archive (www.gravell.org) A Digital Catalogue of =20
+> the Pre-1500 Manuscripts and Incunables of the Canterbury Tales =20
+> (http://www.mossercatalogue.net) CV (http://mosser.vtcath.org)
+>
+>
+>
+>
+>
+> Digital Medievalist --  http://www.digitalmedievalist.org/
+> Journal: http://www.digitalmedievalist.org/journal/
+> Journal Editors: editors _AT_ digitalmedievalist.org
+> News: http://www.digitalmedievalist.org/news/
+> Wiki: http://www.digitalmedievalist.org/wiki/
+> Twitter: http://twitter.com/digitalmedieval
+> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+_redacted_(a)uleth.ca
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>
+> Digital Medievalist --  http://www.digitalmedievalist.org/
+> Journal: http://www.digitalmedievalist.org/journal/
+> Journal Editors: editors _AT_ digitalmedievalist.org
+> News: http://www.digitalmedievalist.org/news/
+> Wiki: http://www.digitalmedievalist.org/wiki/
+> Twitter: http://twitter.com/digitalmedieval
+> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+_redacted_(a)uleth.ca
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>--=20
+Dr. Franz Fischer
+Cologne Center for eHumanities
+Universit=C3=A4t zu K=C3=B6ln, Universit=C3=A4tsstr. 22, D-50923 K=C3=B6ln
+Telefon: +49 - (0)221 - 470 - 4056
+_redacted_(a)uni-koeln.de-----------------------------------------------------------------------------=
+---
+http://www.cceh.uni-koeln.de
+http://www.i-d-e.de
+http://www.thomasinstitut.uni-koeln.dehttp://dixit.uni-koeln.de
+http://guillelmus.uni-koeln.de
+http://confessio.ie
+--===============7795510516892836519==--

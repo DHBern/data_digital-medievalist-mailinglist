@@ -1,0 +1,24 @@
+Subject: Re: [dm-l] Access or ExcelOn Sat, 2006-11-04 at 09:36 +0000, Abdullah Alger wrote:> To tell you the truth, what I am doing is calculating the number of formula=
+ic
+> patterns and the number of punctuation marks in the Exeter Book.  It is qui=
+te
+> simple to look at all the information in Excel, but I cannot really compare
+> results from the formulaic patterns with the punctuation practises, since t=
+he
+> data is quite large and multidimensional. I think that Minitab would work w=
+ell
+> from what I have been told, but I have no experience with this tool.I don't know minitab, but I'm wondering if XML and XQuery might be a
+useful way of getting at this data--of course I don't know exactly where
+you are with it or what you are doing. There would be issues with
+multiple hierarchies, but they wouldn't be unsolvable. In my new
+function, of course, I'd strongly recommend TEI for it as well ;)-dan
+--=20
+Daniel Paul O'Donnell, PhD
+Chair, Text Encoding Initiative (http://www.tei-c.org/)
+Director, Digital Medievalist Project http://www.digitalmedievalist.org/
+Associate Professor and Chair, Department of English
+University of Lethbridge
+Lethbridge AB T1K 3M4
+Canada
+Vox: +1 403 329-2378
+Fax: +1 403 382-7191

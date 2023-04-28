@@ -1,0 +1,109 @@
+Subject: [dm-l] New Book: "Narrative Information"NEW BOOK: Apologies for multiple postings.Gian Piero ZARRI
+Representation and Management of Narrative Information, Theoretical 
+Principles and Implementation
+Series: Advanced Information and Knowledge Processing
+2009, X, 302 p. 55 illus., Hardcover
+ISBN: 978-1-84800-077-3
+Springer-Verlag London
+http://www.springer.com/computer/artificial/book/978-1-84800-077-3
+A big amount of important, economically relevant information, is buried 
+within the huge mass of multimedia documents that correspond to some 
+form of 'narrative' description.Due to the ubiquity of these narrative resources, representing in a 
+general, accurate, and effective way their semantic content - i.e., 
+their key 'meaning' - is then both conceptually relevant and 
+economically important. In this book, we present the main properties of 
+NKRL ('Narrative Knowledge Representation Language'), a language 
+expressly designed for representing and managing, in a standardised way, 
+the 'meaning' of complex multimedia narrative documents. NKRL is also a 
+fully implemented environment that exists in two versions: a relational 
+database-supported version and a file-oriented one. It constitutes 
+probably the most complete and realistic effort realised so far to deal 
+with the huge industrial potentialities of the narrative domain.
+    
+Written from a multidisciplinary perspective, this book not only 
+supplies an exhaustive description of NKRL and of the associated 
+knowledge representation principles, it also constitutes a source of 
+reference for practitioners, researchers and graduates in domains that 
+range over narrative theories, linguistics and computational 
+linguistics, artificial intelligence, knowledge bases, information 
+retrieval, and languages for the ontologies and the semantic web.Contents:- Narratology and NKRL.
+- The notion of 'event' in an NKRL context.
+- Knowledge representation and NKRL.
+- Architecture of NKRL, the four 'components'.
+- Second order structures.
+- The semantic and ontological contents.
+- Ontology of 'concepts' and ontology of 'events'.
+- The query and inference procedures.
+- Temporal information and indexing.
+- High-level inference procedures.
+- Technological enhancements and theoretical enhancements.
+- Appendix A: NKRL software.
+- Appendix B: Plural entities in NKRL.
+Professional address of the author from February 1st, 2009:Gian Piero Zarri
+University Paris-Est - LISSI Laboratory
+120-122, rue Paul Armangot
+94400 Vitry-sur-Seine
+France
+Phone: 33-1-41807383
+Fax: 33-1-41807369
+_redacted_(a)univ-paris12.fr
+--===============2328158583417803971==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"
+MIME-Version: 1.0PCFET0NUWVBFIGh0bWwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMDEgVHJhbnNpdGlvbmFs
+Ly9FTiI+CjxodG1sPgo8aGVhZD4KPC9oZWFkPgo8Ym9keSBiZ2NvbG9yPSIjZmZmZmZmIiB0ZXh0
+PSIjMDAwMDAwIj4KPGJpZz5ORVcgQk9PSzogQXBvbG9naWVzIGZvciBtdWx0aXBsZSBwb3N0aW5n
+cy48YnI+Cjxicj4KR2lhbiBQaWVybyBaQVJSSTxicj4KUmVwcmVzZW50YXRpb24gYW5kIE1hbmFn
+ZW1lbnQgb2YgTmFycmF0aXZlIEluZm9ybWF0aW9uLCBUaGVvcmV0aWNhbApQcmluY2lwbGVzIGFu
+ZCBJbXBsZW1lbnRhdGlvbjxicj4KU2VyaWVzOiBBZHZhbmNlZCBJbmZvcm1hdGlvbiBhbmQgS25v
+d2xlZGdlIFByb2Nlc3Npbmc8YnI+CjIwMDksIFgsIDMwMiBwLiA1NSBpbGx1cy4sIEhhcmRjb3Zl
+cjxicj4KSVNCTjogOTc4LTEtODQ4MDAtMDc3LTM8YnI+ClNwcmluZ2VyLVZlcmxhZyBMb25kb248
+YnI+CjxhIGNsYXNzPSJtb3otdHh0LWxpbmstZnJlZXRleHQiCiBocmVmPSJodHRwOi8vd3d3LnNw
+cmluZ2VyLmNvbS9jb21wdXRlci9hcnRpZmljaWFsL2Jvb2svOTc4LTEtODQ4MDAtMDc3LTMiPmh0
+dHA6Ly93d3cuc3ByaW5nZXIuY29tL2NvbXB1dGVyL2FydGlmaWNpYWwvYm9vay85NzgtMS04NDgw
+MC0wNzctMzwvYT48YnI+Cjxicj4KPGJyPgpBIGJpZyBhbW91bnQgb2YgaW1wb3J0YW50LCBlY29u
+b21pY2FsbHkgcmVsZXZhbnQgaW5mb3JtYXRpb24sIGlzIGJ1cmllZAp3aXRoaW4gdGhlIGh1Z2Ug
+bWFzcyBvZiBtdWx0aW1lZGlhIGRvY3VtZW50cyB0aGF0IGNvcnJlc3BvbmQgdG8gc29tZQpmb3Jt
+IG9mICduYXJyYXRpdmUnIGRlc2NyaXB0aW9uLjxicj4KPGJyPgpEdWUgdG8gdGhlIHViaXF1aXR5
+IG9mIHRoZXNlIG5hcnJhdGl2ZSByZXNvdXJjZXMsIHJlcHJlc2VudGluZyBpbiBhCmdlbmVyYWws
+IGFjY3VyYXRlLCBhbmQgZWZmZWN0aXZlIHdheSB0aGVpciBzZW1hbnRpYyBjb250ZW50IC0gaS5l
+LiwKdGhlaXIga2V5ICdtZWFuaW5nJyAtIGlzIHRoZW4gYm90aCBjb25jZXB0dWFsbHkgcmVsZXZh
+bnQgYW5kCmVjb25vbWljYWxseSBpbXBvcnRhbnQuIEluIHRoaXMgYm9vaywgd2UgcHJlc2VudCB0
+aGUgbWFpbiBwcm9wZXJ0aWVzIG9mCk5LUkwgKCdOYXJyYXRpdmUgS25vd2xlZGdlIFJlcHJlc2Vu
+dGF0aW9uIExhbmd1YWdlJyksIGEgbGFuZ3VhZ2UKZXhwcmVzc2x5IGRlc2lnbmVkIGZvciByZXBy
+ZXNlbnRpbmcgYW5kIG1hbmFnaW5nLCBpbiBhIHN0YW5kYXJkaXNlZAp3YXksIHRoZSAnbWVhbmlu
+Zycgb2YgY29tcGxleCBtdWx0aW1lZGlhIG5hcnJhdGl2ZSBkb2N1bWVudHMuIE5LUkwgaXMKYWxz
+byBhIGZ1bGx5IGltcGxlbWVudGVkIGVudmlyb25tZW50IHRoYXQgZXhpc3RzIGluIHR3byB2ZXJz
+aW9uczogYQpyZWxhdGlvbmFsIGRhdGFiYXNlLXN1cHBvcnRlZCB2ZXJzaW9uIGFuZCBhIGZpbGUt
+b3JpZW50ZWQgb25lLiBJdApjb25zdGl0dXRlcyBwcm9iYWJseSB0aGUgbW9zdCBjb21wbGV0ZSBh
+bmQgcmVhbGlzdGljIGVmZm9ydCByZWFsaXNlZCBzbwpmYXIgdG8gZGVhbCB3aXRoIHRoZSBodWdl
+IGluZHVzdHJpYWwgcG90ZW50aWFsaXRpZXMgb2YgdGhlIG5hcnJhdGl2ZQpkb21haW4uIDxicj4K
+Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7IDxicj4KV3JpdHRlbiBmcm9tIGEgbXVsdGlkaXNjaXBs
+aW5hcnkgcGVyc3BlY3RpdmUsIHRoaXMgYm9vayBub3Qgb25seQpzdXBwbGllcyBhbiBleGhhdXN0
+aXZlIGRlc2NyaXB0aW9uIG9mIE5LUkwgYW5kIG9mIHRoZSBhc3NvY2lhdGVkCmtub3dsZWRnZSBy
+ZXByZXNlbnRhdGlvbiBwcmluY2lwbGVzLCBpdCBhbHNvIGNvbnN0aXR1dGVzIGEgc291cmNlIG9m
+CnJlZmVyZW5jZSBmb3IgcHJhY3RpdGlvbmVycywgcmVzZWFyY2hlcnMgYW5kIGdyYWR1YXRlcyBp
+biBkb21haW5zIHRoYXQKcmFuZ2Ugb3ZlciBuYXJyYXRpdmUgdGhlb3JpZXMsIGxpbmd1aXN0aWNz
+IGFuZCBjb21wdXRhdGlvbmFsCmxpbmd1aXN0aWNzLCBhcnRpZmljaWFsIGludGVsbGlnZW5jZSwg
+a25vd2xlZGdlIGJhc2VzLCBpbmZvcm1hdGlvbgpyZXRyaWV2YWwsIGFuZCBsYW5ndWFnZXMgZm9y
+IHRoZSBvbnRvbG9naWVzIGFuZCB0aGUgc2VtYW50aWMgd2ViLjxicj4KPGJyPgpDb250ZW50czo8
+YnI+Cjxicj4KLSBOYXJyYXRvbG9neSBhbmQgTktSTC48YnI+Ci0gVGhlIG5vdGlvbiBvZiAnZXZl
+bnQnIGluIGFuIE5LUkwgY29udGV4dC48YnI+Ci0gS25vd2xlZGdlIHJlcHJlc2VudGF0aW9uIGFu
+ZCBOS1JMLjxicj4KLSBBcmNoaXRlY3R1cmUgb2YgTktSTCwgdGhlIGZvdXIgJ2NvbXBvbmVudHMn
+Ljxicj4KLSBTZWNvbmQgb3JkZXIgc3RydWN0dXJlcy48YnI+Ci0gVGhlIHNlbWFudGljIGFuZCBv
+bnRvbG9naWNhbCBjb250ZW50cy48YnI+Ci0gT250b2xvZ3kgb2YgJ2NvbmNlcHRzJyBhbmQgb250
+b2xvZ3kgb2YgJ2V2ZW50cycuPGJyPgotIFRoZSBxdWVyeSBhbmQgaW5mZXJlbmNlIHByb2NlZHVy
+ZXMuPGJyPgotIFRlbXBvcmFsIGluZm9ybWF0aW9uIGFuZCBpbmRleGluZy48YnI+Ci0gSGlnaC1s
+ZXZlbCBpbmZlcmVuY2UgcHJvY2VkdXJlcy48YnI+Ci0gVGVjaG5vbG9naWNhbCBlbmhhbmNlbWVu
+dHMgYW5kIHRoZW9yZXRpY2FsIGVuaGFuY2VtZW50cy48YnI+Ci0gQXBwZW5kaXggQTogTktSTCBz
+b2Z0d2FyZS48YnI+Ci0gQXBwZW5kaXggQjogUGx1cmFsIGVudGl0aWVzIGluIE5LUkwuPGJyPgo8
+YnI+Cjxicj4KUHJvZmVzc2lvbmFsIGFkZHJlc3Mgb2YgdGhlIGF1dGhvciBmcm9tIEZlYnJ1YXJ5
+IDFzdCwgMjAwOTo8YnI+Cjxicj4KR2lhbiBQaWVybyBaYXJyaTxicj4KVW5pdmVyc2l0eSBQYXJp
+cy1Fc3QgLSBMSVNTSSBMYWJvcmF0b3J5PGJyPgoxMjAtMTIyLCBydWUgUGF1bCBBcm1hbmdvdDxi
+cj4KOTQ0MDAgVml0cnktc3VyLVNlaW5lPGJyPgpGcmFuY2U8YnI+ClBob25lOiAzMy0xLTQxODA3
+MzgzPGJyPgpGYXg6IDMzLTEtNDE4MDczNjk8YnI+CkVtYWlsOiA8YSBjbGFzcz0ibW96LXR4dC1s
+aW5rLWFiYnJldmlhdGVkIiBocmVmPSJtYWlsdG86emFycmlAbm9vcy5mciI+emFycmlAbm9vcy5m
+cjwvYT4sCjxhIGNsYXNzPSJtb3otdHh0LWxpbmstYWJicmV2aWF0ZWQiCiBocmVmPSJtYWlsdG86
+Z2lhbi1waWVyby56YXJyaUB1bml2LXBhcmlzMTIuZnIiPmdpYW4tcGllcm8uemFycmlAdW5pdi1w
+YXJpczEyLmZyPC9hPjxicj4KPGJyPgo8L2JpZz4KPC9ib2R5Pgo8L2h0bWw+Cg==

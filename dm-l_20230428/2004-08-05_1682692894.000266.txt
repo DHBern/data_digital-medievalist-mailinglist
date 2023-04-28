@@ -1,0 +1,89 @@
+Subject: [dm-l] CHUM changing focus and nameAnother piece of news beginning to show up on other mailing lists. Sorry 
+for the cross posting to those who have received it multiple times. 
+While this is a reasonable change in focus, I'll miss the old CHum, I 
+must say. There were interesting markup articles every couple of issues 
+(including, for example, one on metre last year and one in the latest 
+issue on an "intertextual" tag and using multiple dtds).
+-dan***************************************************
+LANGUAGE RESOURCES AND EVALUATION
+***************************************************Editors-in-chief:
+      Nancy Ide, Department of Computer Science, Vassar College, USA
+      Nicoletta Calzolari, Isitiuto di Linguistica Computazionale, CNR, 
+ItalyPublished by Springer (formerly Kluwer Academic Publishers and Springer 
+Verlag)We are pleased to announce that as of Volume 39 for 2005, Computers and the
+Humanities will be changing its name to Language Resources and Evaluation.Language Resources and Evaluation is the first publication devoted to the
+creation, annotation, and exploitation of language resources for use in
+language processing applications, corpus linguistics and linguistic studies
+generally, as well as evaluation of language processing methods and
+results. These areas have seen a dramatic increase in activity over the
+past decade, as evidenced by the growing attendance at the four Language
+Resources and Evaluation Conferences (LREC) held since 1998.Language resources include language data and descriptions in machine
+readable form used to assist and augment language processing applications
+and linguistic studies, such as written or spoken corpora and lexica,
+multimodal resources, grammars, terminology or domain specific databases
+and dictionaries, ontologies, multimedia databases, etc., as well as basic
+software tools for their acquisition, preparation, annotation, management,
+customization, and use. Evaluation of language resources concerns assessing
+the state-of-the-art for a given technology, comparing different approaches
+to a given problem, assessing the availability of resources and
+technologies for a given application, benchmarking, and assessing system
+usability and user satisfaction.Articles are solicited on the following topics:Design, construction and use of Language Resources (LRs):
+·      Guidelines, standards, specifications, models, and best practices
+for LRs,
+·      Methods, tools and procedures for the acquisition, creation,
+annotation, management, access, distribution and use of LRs
+·      Methods for the extraction and acquisition of knowledge (e.g. terms,
+lexical information, language modeling data) from LRs
+·      Organizational and legal issues in the construction, distribution,
+access and use of LRs
+·      Availability and use of generic vs. task/domain specific LRs
+·      Monolingual and multilingual LRs
+·      Multimedia and multimodal LRs and integration of various media and
+modalities (speech, vision, language)
+·      Documentation and archiving of languages, including minority and
+endangered languages,
+·      Ontologies and knowledge representation
+·      Tools and methodologies for terminology and ontology building, term
+extraction, and creation of specialized dictionaries
+·      LRs for linguistic research in human-machine communication
+·      Exploitation of LRs in different types of applications (information
+extraction, information retrieval, speech dictation, translation,
+summarization, web services, semantic web, etc.),
+·      Exploitation of LRs in different types of interfaces (dialog
+systems, natural language and multimodal/multisensorial interactions, etc.)
+·      Metadata descriptions of LRs
+·      Open architectures for LRsHuman Language Technologies Evaluation:
+·      Evaluation, validation, quality assurance of LRs
+·      Evaluation methodologies, protocols and measures
+·      Benchmarking of systems, resources for benchmarking and evaluation,
+blackbox, glassbox and diagnostic evaluation of systems
+·      Evaluation in written language processing (document production and
+management, text retrieval, terminology extraction, message understanding,
+text alignment, machine translation, morphosyntactic tagging, parsing,
+semantic tagging, word sense disambiguation, text understanding,
+summarization, question answering, etc.)
+·      Evaluation in spoken language processing (speech recognition and
+understanding, voice dictation, oral dialog, speech synthesis, speech
+coding, speaker and language recognition, spoken translation, etc.)
+·      Evaluation of multimedia document retrieval and search systems
+(including detection, indexing, filtering, alert, question answering, etc)
+·      Evaluation of multimodal systems
+·      Moving from evaluation to standardizationLanguage Resources and Evaluation is the official journal of the European
+Language Resources Association (ELRA), sponsor of the bi-annual LREC
+conference. The first number of LRE in 2005 will be a special issue
+dedicated to the memory of Antonio Zampolli.For information about this new title, aims and scope, manuscript
+submission, and subscription, please contact the publisher:Mrs. Jolanda Voogd, Associate Publishing Editor
+Humanities Unit - Linguistics
+Springer
+P.O. Box 17, 3300 AA Dordrecht,
+The NetherlandsTelephone: +31-(0)78 - 6576116 (direct)
+Fax: +31-(0)78 - 6576350
+_redacted_(a)springer-sbm.com-- 
+Daniel Paul O'Donnell, PhD
+Associate Professor of English
+University of Lethbridge
+Lethbridge AB T1K 3M4
+Tel. (403) 329-2377
+Fax. (403) 382-7191
+_redacted_(a)uleth.ca>
+Home Page <http://people.uleth.ca/~daniel.odonnell/>

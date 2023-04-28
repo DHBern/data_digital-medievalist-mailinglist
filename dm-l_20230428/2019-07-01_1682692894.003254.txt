@@ -1,0 +1,52 @@
+Subject: [dm-l] Release of the BFM2019 Corpus[Apologies for cross-posting]Dear colleagues,We are delighted to announce the BFM2019 corpus on the web portal of the 
+Base de Français Médiéval 
+http://txm.bfm-corpus.org/?command=documentation&path=/BFM2019.The graphical design of the BFM-TXM web portal has been entirely revised 
+and improved at this occasion.The Terms of use have been simplified and all the texts are now 
+available under an open licence Etalab 
+(https://www.etalab.gouv.fr/licence-ouverte-open-licence).The BFM2019 corpus includes some fifteen new texts and amounts 
+approximately 4,700,000 words. All the texts are formatted according to 
+the TEI guidelines (including the instances of directed speech), 
+automatically pos-tagged and lemmatized. The POS tags are manually 
+verified in 4 new texts (38 total, approximately 1,000,000 words), and 
+the lemmatization is verified and disambiguated in 18 texts 
+(approximately 400,000 words).The corpus includes three new original editions:
+- /La Vie de saint Alexis/, ed. T. Rainsford et C. Marchello-Nizia,
+- /L’image du monde/ by Gossouin, prose version, ed N. Kanaoka,
+- /Les quinze joies de mariage/, ed. N. Kanaoka on the basis of the 
+printed edition prepared by M. Guéret-Laferté, S. Louis and C. Mira, 
+Rouen, Presses universitaires de Rouen et du Havre, 2009.Best regards,The BFM Team
+bfm [at] ens-lyon [dot] frPGh0bWw+CiAgPGhlYWQ+CgogICAgPG1ldGEgaHR0cC1lcXVpdj0iY29udGVudC10eXBlIiBjb250
+ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9VVRGLTgiPgogIDwvaGVhZD4KICA8Ym9keSB0ZXh0PSIj
+MDAwMDAwIiBiZ2NvbG9yPSIjRkZGRkZGIj4KICAgIFtBcG9sb2dpZXMgZm9yIGNyb3NzLXBvc3Rp
+bmddPGJyPgogICAgPGJyPgogICAgRGVhciBjb2xsZWFndWVzLDxicj4KICAgIDxicj4KICAgIDxw
+PldlIGFyZSBkZWxpZ2h0ZWQgdG8gYW5ub3VuY2UgdGhlIEJGTTIwMTkgY29ycHVzIG9uIHRoZSB3
+ZWIgcG9ydGFsCiAgICAgIG9mIHRoZSBCYXNlIGRlIEZyYW7Dp2FpcyBNw6lkacOpdmFsIDxhIGNs
+YXNzPSJtb3otdHh0LWxpbmstZnJlZXRleHQiCmhyZWY9Imh0dHA6Ly90eG0uYmZtLWNvcnB1cy5v
+cmcvP2NvbW1hbmQ9ZG9jdW1lbnRhdGlvbiZhbXA7cGF0aD0vQkZNMjAxOSI+aHR0cDovL3R4bS5i
+Zm0tY29ycHVzLm9yZy8/Y29tbWFuZD1kb2N1bWVudGF0aW9uJmFtcDtwYXRoPS9CRk0yMDE5PC9h
+Pi48L3A+CiAgICA8cD5UaGUgZ3JhcGhpY2FsIGRlc2lnbiBvZiB0aGUgQkZNLVRYTSB3ZWIgcG9y
+dGFsIGhhcyBiZWVuIGVudGlyZWx5CiAgICAgIHJldmlzZWQgYW5kIGltcHJvdmVkIGF0IHRoaXMg
+b2NjYXNpb24uPC9wPgogICAgVGhlIFRlcm1zIG9mIHVzZSBoYXZlIGJlZW4gc2ltcGxpZmllZCBh
+bmQgYWxsIHRoZSB0ZXh0cyBhcmUgbm93CiAgICBhdmFpbGFibGUgdW5kZXIgYW4gb3BlbiBsaWNl
+bmNlIEV0YWxhYiAoPGEKICAgICAgY2xhc3M9Im1vei10eHQtbGluay1mcmVldGV4dCIKICAgICAg
+aHJlZj0iaHR0cHM6Ly93d3cuZXRhbGFiLmdvdXYuZnIvbGljZW5jZS1vdXZlcnRlLW9wZW4tbGlj
+ZW5jZSI+aHR0cHM6Ly93d3cuZXRhbGFiLmdvdXYuZnIvbGljZW5jZS1vdXZlcnRlLW9wZW4tbGlj
+ZW5jZTwvYT4pLjxicj4KICAgIDxwPlRoZSBCRk0yMDE5IGNvcnB1cyBpbmNsdWRlcyBzb21lIGZp
+ZnRlZW4gbmV3IHRleHRzIGFuZCBhbW91bnRzCiAgICAgIGFwcHJveGltYXRlbHkgNCw3MDAsMDAw
+IHdvcmRzLiBBbGwgdGhlIHRleHRzIGFyZSBmb3JtYXR0ZWQKICAgICAgYWNjb3JkaW5nIHRvIHRo
+ZSBURUkgZ3VpZGVsaW5lcyAoaW5jbHVkaW5nIHRoZSBpbnN0YW5jZXMgb2YKICAgICAgZGlyZWN0
+ZWQgc3BlZWNoKSwgYXV0b21hdGljYWxseSBwb3MtdGFnZ2VkIGFuZCBsZW1tYXRpemVkLiBUaGUg
+UE9TCiAgICAgIHRhZ3MgYXJlIG1hbnVhbGx5IHZlcmlmaWVkIGluIDQgbmV3IHRleHRzICgzOCB0
+b3RhbCwgYXBwcm94aW1hdGVseQogICAgICAxLDAwMCwwMDAgd29yZHMpLCBhbmQgdGhlIGxlbW1h
+dGl6YXRpb24gaXMgdmVyaWZpZWQgYW5kCiAgICAgIGRpc2FtYmlndWF0ZWQgaW4gMTggdGV4dHMg
+KGFwcHJveGltYXRlbHkgNDAwLDAwMCB3b3JkcykuPC9wPgogICAgVGhlIGNvcnB1cyBpbmNsdWRl
+cyB0aHJlZSBuZXcgb3JpZ2luYWwgZWRpdGlvbnM6PGJyPgogICAgLSA8aT5MYSBWaWUgZGUgc2Fp
+bnQgQWxleGlzPC9pPiwgZWQuIFQuIFJhaW5zZm9yZCBldCBDLgogICAgTWFyY2hlbGxvLU5pemlh
+LDxicj4KICAgIC0gPGk+TOKAmWltYWdlIGR1IG1vbmRlPC9pPiBieSBHb3Nzb3VpbiwgcHJvc2Ug
+dmVyc2lvbiwgZWQgTi4KICAgIEthbmFva2EsPGJyPgogICAgLSA8aT5MZXMgcXVpbnplIGpvaWVz
+IGRlIG1hcmlhZ2U8L2k+LCBlZC4gTi4gS2FuYW9rYSBvbiB0aGUgYmFzaXMKICAgIG9mIHRoZSBw
+cmludGVkIGVkaXRpb24gcHJlcGFyZWQgYnkgTS4gR3XDqXJldC1MYWZlcnTDqSwgUy4gTG91aXMg
+YW5kCiAgICBDLiBNaXJhLCBSb3VlbiwgUHJlc3NlcyB1bml2ZXJzaXRhaXJlcyBkZSBSb3VlbiBl
+dCBkdSBIYXZyZSwgMjAwOS48YnI+CiAgICA8cD5CZXN0IHJlZ2FyZHMsPC9wPgogICAgVGhlIEJG
+TSBUZWFtPGJyPgogICAgYmZtIFthdF0gZW5zLWx5b24gW2RvdF0gZnIKICA8L2JvZHk+CjwvaHRt
+bD4K

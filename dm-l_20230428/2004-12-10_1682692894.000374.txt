@@ -1,0 +1,34 @@
+Subject: Re: [dm-l] TAN: XSLT QuestionDan,If you could share the XSLT script, I'd be glad to have a look.PeterDaniel O'Donnell wrote:> The Digital Medievalist List (see end of message for contact 
+> information and project URLs).
+>
+> ----------------------------------
+> Hello all,
+>     I have an XSLT question:
+>
+> I want a stylesheet to reproduce the following html tags (i.e. this is 
+> what is in my sheet):
+>
+> <head profile="http://www.url.net">
+>
+> <br/>
+>
+> <meta content="some content"/>
+>
+>
+> What I get as an output is:
+>
+> <head xmlns="" profile="http://www.url.net"> [i.e. extra namespace]
+>
+> <br> [i.e. no solidus]
+>
+> <meta content="some content"> [i.e. no solidus]
+>
+> Anybody know why this happens or how to turn it off? It is the only 
+> thing stopping my files from validating.
+>
+> -dan
+>
+>
+>
+>
+>

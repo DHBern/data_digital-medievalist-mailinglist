@@ -1,0 +1,24 @@
+Subject: Re: [dm-l] Teaching the TEI: your practice?Dear Godfried,> But even then, I would be hard-pressed to see how XSLT would be better than=
+ Perl or a similar language when it comes to processing data in which which a=
+re not essentially to do with formatting XML documents for display.I find it particular handy to operate on XML data in a code that is XML=20
+itself. As well XPath expressions might be way shorter (and clearer?) as=20
+Perl constructs? But it's a matter of taste.
+> If I wanted to, say, develop a program to lemmatise text marked up in parag=
+raphs<p>, or parse Roman calendar dates marked up with<date>, is that somethi=
+ng for which you would recommend using XSLT? XSLT would easily let you find t=
+hat data, but I am not sure it would be easy to then process it in XSLT.I would dare to say "They become more and more similar", e.g. with Perl=20
+coping better with XML while XSLT starts operating on the file system?=20
+As long as both are Turing-complete, it should be possible to implement=20
+every operation in both languages?
+> Not having associative arrays or more complex data structures in XSLT makes=
+ that particularly hard, not?You aren't talking about XSLT2, are you? Because there we have e.g.=20
+temporary trees that make up for complex data structures and speed up=20
+the processing alot. Although processing data with a certain type of=20
+loop would also make up for that?Best, Torsten--=20
+Torsten Schassan
+Digitale Editionen
+Abteilung Handschriften und Sondersammlungen
+Herzog August Bibliothek, Postfach 1364, D-38299 Wolfenbuettel
+Tel.: +49-5331-808-130 (Fax -165), schassan {at} hab.dehttp://www.hab.de/forschung/projekte/europeana-regia.htm
+http://www.hab.de/forschung/projekte/weiss64.htm
+--===============2498834218556999607==--

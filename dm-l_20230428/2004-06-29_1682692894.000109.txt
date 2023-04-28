@@ -1,0 +1,39 @@
+Subject: Re: [dm-l] palaeography and computingOn Tue, 29 Jun 2004 10:57:54 +0100
+_redacted_(a)kcl.ac.uk> wrote:
+> I'll try to explain better my needs. I'd like to have a kind of 
+> reference for the description of the morphology (meaning 
+> palaeographical shapes) of letters, ligatures and so on. I probably 
+> could build my own structure and try to express it using XML, but, 
+> before doing that, I wanted to look around and see if some more 
+> ambitious international project has already faced the problem.
+> 
+> So, when you say
+> "where each glyph used in the manuscript 
+> including ligatures or junctures (sorted by hand and script) can be 
+> described, linked to a typical image or more and a transcription and 
+> transliteration"
+> 
+> what do you mean for "can be 
+> described"? 
+> 
+> Do you have a set of possible terms to use in the description?
+> 
+> Cheers,
+> 
+> AriannaArianna --The discussion so far about how to go about such stuff has been 
+entirely TEI/logocentric in its approach to the data. For an 
+alternative approach, you might also want to look into the work of 
+Satoko Tokunaga and Tomohiro Kishida at Keio University, Japan. They gave a fantastic talk last summer at Peter Robinson's New 
+Technology/Old Text conference on “Computer-assisted analysis of 
+Caxton's Typography," in which they demonstrate software they had 
+developed for morphological analysis of individual characters. Very 
+impressive stuff, and an important addition to the usual mode of 
+trying to describe visual shapes through textual descriptions.~ Martin Foys
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Martin K. Foys
+Assistant Professor
+Department of English
+Hood College
+Frederick, MD 21701vox: 301~696~3740
+fax: 301~696~3586
+_redacted_(a)hood.eduBayeux Tapestry Digital Edition: http://www.sd-editions.com
+--===============8399337407414841742==--

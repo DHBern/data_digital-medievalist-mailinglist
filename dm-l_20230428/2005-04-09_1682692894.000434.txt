@@ -1,0 +1,75 @@
+Subject: RE: [dm-l] what xslt can't do..?Peter B(i) is right about how Anastasia does its magic: it does indeed
+pre-index the xml into various binaries, and it is the information
+extracted from the xml and so indexed which allows it to perform optimally
+on such situations.  This does mean it is *not* the tool to use if your
+data is changing frequently.  The indexer is pretty fast (about 10 minutes
+to operate over a 55 mb source collection), and it can be (and has been)
+automated to run each time files change, though we usually don't operate
+it so.  But I would not use it for (say) a dynamic content management
+system.Still, this is quite a difference from the 'generate static files to
+optimize particular views' approach (actually, the cocoon example Peter B
+gives seems to be such, and so not really comparable to what A does). 
+Under that, you have to figure out in advance just what particular views
+you want to enable.  And, there can be a near infinite number of these. 
+Some bits of our publications do things like: let the reader decide just
+which out of 50+ manuscripts he wants to see information for (and so,
+factorial 50 + combinations, already a number so big it is stars in the
+sky stuff.)  And let him or her do this for *every* word of the text --
+some 5000 words in our recent publications. Another problem is the process
+chain itself.  If your approach means daisychaining various processes
+together, and at the end you discover something wrong, fixing can be a
+real pain: you have to go back, figure out which bit of the chain caused
+the problem (which can be real hard, when you have complex interactions)
+then rerun the whole thing before you can view the result.  With Anastasia
+the problem is either in the tcl scripts (in which case, you can fix and
+see the results instantly)  or in the source xml (which will mean you need
+to reindex): there is no somewhere-in-between.If you want to see a nice instance of Anastasia, not done by us, look at
+the Laures rare book database (Tokyo) on http://133.12.23.145:8000/html/. 
+Really nifty, I think, is the way this does searches on various names and
+places etc: choose 'place name' from the search drop down menu and type in
+Kyoto: you get all kinds of different forms of the name back.  Also very
+nice is the Welsh Biography Online site at: http://yba.llgc.org.uk/ --
+this allows you to see the pages formatted as they are in the print by
+page and column.All the best
+Peter----------------------------------
+I confess I haven't tried Anastasia yet, through lack of time and not of
+interest. Glancing at the documentation, I see that Anastasia appears to
+do lookups in a book file, which has (previously?) been compiled from
+the TEI. ("This must be an Anastasia book compiled from the XML using
+the Anastasia GroveMaker tool. This is designed to permit fast,
+real-time access to any part of the underlying XML.") Anastasia's speed
+is attributed to the fact that it is "interrogating not the source XML
+but a set of binary files (an "AnaGrove") which are optimized to permit
+the fastest access to information about every aspect of the source XML."
+GroveMaker is written in C.It would appear, then, that Anastasia would have the same syncronization
+requirements as the kind of pre-transformed XSL-based solution that
+James is talking about: if you change the TEI, you've got to remember to
+recompile the AnaGrove. If I've understood this correctly, then it seems
+to me that the correct object of comparison for Anastasia's ability to
+present an arbitrary page would not be a single-pass XSL against a large
+TEI file, but rather, say, a Cocoon pipeline using XSL to present
+arbitrary XML page files which have been pre-extracted from the TEI file
+and optimized for presentation by an XSL process along the lines of the
+one I hacked. The TCL scripts that Peter R. sent would be the equivalent
+of the matcher and generator in the Cocoon pipeline:<map:match pattern="*/*.html">
+        <map:generate src="path-to-texts/{1}/{2}.xml"/>
+        ...
+</map:match>(where a url like "hengwrt/23.html" would be mapped to an extracted page
+file "path-to-texts/hengwrt/23.xml"). The output of this generator, as
+of the TCL scripts, is the marked-up text of a given page, ready to be
+styled and presented to the reader.Anastasia may well still win on speed, of course, if not in the
+presentation then in the preprocessing. An XSL-based extraction process
+will have a hard time keeping up with a custom-written C indexer. But it
+will be a lot easier to maintain, I submit (with apologies if I've
+misunderstood what Anastasia is doing).Has anyone looked at teiPublisher yet, by the way?
+(http://teipublisher.sourceforge.net/docs/index.php) Judging from the
+texts in the "Documenting the American South" project, they seem to have
+sidestepped the whole problem of presenting arbitrary pages, by only
+offering the complete text in a single HTML file. I haven't looked into
+it to see if there are other options, though.Final note regarding the sample text: again, I don't understand what the
+problem is with the last page, even with the appendix. How can any
+process know that that last div is an appendix and not a new section of
+the main text, beginning and ending on page 5? Whatever marker
+GroveMaker uses to make this distinction would also be available to XSL,
+presumably. (Perhaps my ignorance of TEI is showing...)Peter Binkley
+--===============9064605298009057213==--

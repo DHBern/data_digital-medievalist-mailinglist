@@ -1,0 +1,30 @@
+Subject: [dm-l] Weird windows problemHello all,
+	I'm having a weird windows problem I wonder if anybody knows anything 
+about: all of a sudden programs that work from the dos prompt at having 
+difficulty with long file and folder names. I.e. when I try to write to 
+the directory "My Documents" (actually c:\Documents and Settings\Dan\My 
+Documents), the files actually get written to a separate directory, 
+c:\Documents%20and%20Settings\Dan\My%20Documents which appears along 
+side the other in the file tree. The contents of this new directory to 
+not map onto the "My Documents" directory. They are separate.
+	This problem has arisen in the last week or so, and it is affecting bat 
+files that were working fine until recently.
+	Here's an example of the syntax I've been using:cd\saxon6_5_3
+java -jar saxon.jar -o "c:/documents and settings/dan/my 
+documents/_filing cabinet/dm2/3.revised/name/name.htm" "c:/documents and 
+settings/dan/my documents/_filing cabinet/dm2/3.revised/name/name.xml" 
+"c:/documents and settings/dan/my documents/_filing 
+cabinet/dm2/xslt/dm1file2.xsl"
+cd\
+I've looked for help but not seen anything relevant. Any suggestions?
+-dan
+-- 
+Daniel Paul O'Donnell, PhD
+Associate Professor of English
+University of Lethbridge
+Lethbridge AB T1K 3M4
+Tel. (403) 329-2377
+Fax. (403) 382-7191
+_redacted_(a)uleth.ca>
+Home Page <http://people.uleth.ca/~daniel.odonnell/>
+The Digital Medievalist Project: <http://www.digitalmedievalist.org/>

@@ -1,0 +1,28 @@
+Subject:Hi Dan,there are several subversion clients for windows. Once I set up a system 
+for people
+who wanted an easy to use system without or with little technical 
+background. I used
+TortoiseSVN (http://tortoisesvn.tigris.org/) which i think is the 
+programm to go for as it is easy to use,
+mature and open source. TortoiseSVN is basically a shell extension for 
+windows explorer,
+so usage should be really straightforward.Best,
+Philipp> Hi all,
+>
+> I am helping a project that is working on a really interesting text.
+> Nobody on the project is particularly technical.
+>
+> Because the members of the project are spread all over the place, they
+> need a version control system for keeping track of their documents. I'd
+> say they need subversion (the documents are PDFs and XML files), but I
+> need them to be able to see it in something like windows explorer.
+>
+> Has anybody any experience in setting up something like subversion for
+> use with Windows?
+>
+> -dan
+-- 
+Philipp Steinkrüger
+Thomas-Institut der Universität zu Köln
+IDE - Institut für Dokumentologie und Editorik_redacted_(a)uni-koeln.de
+http://www.thomasinst.uni-koeln.de || http://www.i-d-e.de

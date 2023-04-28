@@ -1,0 +1,29 @@
+Subject: [dm-l] New resource: Enigma - Unpuzzling difficult Latin readings inDear list members,=20Since I assume most of us work with Latin manuscripts at least sometimes, I w=
+ould like to share here the news of the release of my latest development, cal=
+led "Enigma" (Latin word for "puzzle"):=20
+http://ciham-digital.huma-num.fr/enigma/=20
+"Enigma helps scholars to decipher Latin words which are difficult to read in=
+ medieval manuscripts. It is sometimes impossible to decipher all the letters=
+ in a word, for various reasons (difficult palaeography, unclear writing, dam=
+age to the document, etc.) If you type the letters you can read and add wildc=
+ards, Enigma will list the possible Latin forms, drawing from its database of=
+ more than 400 000 forms."=20I hpe you will find this useful :)=20
+Best regards,=20
+Marjorie Burghart=20PGh0bWw+PGJvZHk+PGRpdiBzdHlsZT0iZm9udC1mYW1pbHk6IHRpbWVzIG5ldyByb21hbiwgbmV3
+IHlvcmssIHRpbWVzLCBzZXJpZjsgZm9udC1zaXplOiAxMnB0OyBjb2xvcjogIzAwMDAwMCI+PGRp
+dj48c3BhbiBzdHlsZT0iZm9udC1zaXplOiAxMnB0OyI+RGVhciBsaXN0IG1lbWJlcnMsJm5ic3A7
+PC9zcGFuPjwvZGl2PjxkaXY+PGJyPjwvZGl2PjxkaXY+U2luY2UgSSBhc3N1bWUgbW9zdCBvZiB1
+cyB3b3JrIHdpdGggTGF0aW4gbWFudXNjcmlwdHMgYXQgbGVhc3Qgc29tZXRpbWVzLCBJIHdvdWxk
+IGxpa2UgdG8gc2hhcmUgaGVyZSB0aGUgbmV3cyBvZiB0aGUgcmVsZWFzZSBvZiBteSBsYXRlc3Qg
+ZGV2ZWxvcG1lbnQsIGNhbGxlZCAiRW5pZ21hIiAoTGF0aW4gd29yZCBmb3IgInB1enpsZSIpOjwv
+ZGl2PjxkaXY+aHR0cDovL2NpaGFtLWRpZ2l0YWwuaHVtYS1udW0uZnIvZW5pZ21hLzwvZGl2Pjxk
+aXY+IkVuaWdtYSBoZWxwcyBzY2hvbGFycyB0byBkZWNpcGhlciBMYXRpbiB3b3JkcyB3aGljaCBh
+cmUgZGlmZmljdWx0IHRvIHJlYWQgaW4gbWVkaWV2YWwgbWFudXNjcmlwdHMuIEl0IGlzIHNvbWV0
+aW1lcyBpbXBvc3NpYmxlIHRvIGRlY2lwaGVyIGFsbCB0aGUgbGV0dGVycyBpbiBhIHdvcmQsIGZv
+ciB2YXJpb3VzIHJlYXNvbnMgKGRpZmZpY3VsdCBwYWxhZW9ncmFwaHksIHVuY2xlYXIgd3JpdGlu
+ZywgZGFtYWdlIHRvIHRoZSBkb2N1bWVudCwgZXRjLikgSWYgeW91IHR5cGUgdGhlIGxldHRlcnMg
+eW91IGNhbiByZWFkIGFuZCBhZGQgd2lsZGNhcmRzLCBFbmlnbWEgd2lsbCBsaXN0IHRoZSBwb3Nz
+aWJsZSBMYXRpbiBmb3JtcywgZHJhd2luZyBmcm9tIGl0cyBkYXRhYmFzZSBvZiBtb3JlIHRoYW4g
+NDAwIDAwMCBmb3Jtcy4iPC9kaXY+PGRpdj48YnI+PC9kaXY+PGRpdj5JIGhwZSB5b3Ugd2lsbCBm
+aW5kIHRoaXMgdXNlZnVsIDopJm5ic3A7PC9kaXY+PGRpdj5CZXN0IHJlZ2FyZHMsJm5ic3A7PC9k
+aXY+PGRpdj5NYXJqb3JpZSBCdXJnaGFydDwvZGl2PjwvZGl2PjwvYm9keT48L2h0bWw+

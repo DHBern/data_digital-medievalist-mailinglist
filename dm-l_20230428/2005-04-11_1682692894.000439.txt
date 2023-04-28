@@ -1,0 +1,38 @@
+Subject: [dm-l] Question about CSS and IEHi all,
+I have a question about Internet Explorer. We are proofing the journal 
+right now, and have discovered that IE doesn't seem to display quotation 
+marks for the html:q tag. To indicate italics, we follow the W3C 
+recommendation and use <q> rather than marks to rend quotations, article 
+titles, and the like. In our CSS, we indicate how those marks are 
+supposed to appear (e.g. when nested). In this specific case, we have--In HTML--
+<q>quoted text</q>--In CSS--
+q {
+       quotes: &#x201C; &#x201D;
+}q q {
+       quotes:  &#x2018; &#x2019;
+}q q q {
+   quotes: &#x201C; &#x201D;
+}q:lang(FRA), q:lang(ITA) {
+       quotes:&#x00AB; &#x00BB;;
+}(we've also tried:
+q {
+       quotes: '"' '"'
+}q q {
+       quotes:  "'" "'"
+}q q q {
+   quotes: '"' '"';
+}q:lang(FRA), q:lang(ITA) {
+       quotes:&#x00AB; &#x00BB;;
+})
+Weirdly, the Italian and French quotes work fine in all browsers; the 
+other q styles work in Opera and Firefox.Any suggestions?-dan
+-- 
+Daniel Paul O'Donnell, PhD
+Associate Professor of English
+University of Lethbridge
+Lethbridge AB T1K 3M4
+Tel. (403) 329-2377
+Fax. (403) 382-7191
+_redacted_(a)uleth.ca>
+Home Page <http://people.uleth.ca/~daniel.odonnell/>
+The Digital Medievalist Project: <http://www.digitalmedievalist.org/>

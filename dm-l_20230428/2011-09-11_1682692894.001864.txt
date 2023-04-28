@@ -1,0 +1,58 @@
+Subject: Re: [dm-l] Text Editor for Tagging Arabic TextsI am not a user of Arabic, but from your description of needs, it may  
+well be that Nisus Writer Pro 2.0.1 will work.  It supports Arabic,  
+bidirectional text, complex searches, etc.  You'd have to see from the  
+web site or trial download if it will do the custom highlighting  
+(somehow, from having used it a while back in earlier versions for  
+projects, I suspect it will).bestGroverGrover A. Zinn
+William H. Danforth Professor of Religion (emeritus)
+former Associate Dean, College of Arts and Sciences
+Oberlin College
+Oberlin, OH 44074
+440-775-8866 (department)
+_redacted_(a)oberlin.edu
+On Sep 11, 2011, at 2:46 PM, Maxim Romanov wrote:> Dear all,
+>
+> I wonder if anyone can help me with the following problem. I am  
+> tagging Arabic texts (classical Arabic sources, mostly biographical  
+> dictionaries and chronicles) to be converted into XML format for the  
+> following analysis. Currently I am doing that in MS Word 2007,  
+> which, despite all improvements, does not handle long text files  
+> well and crashes from time to time. I was desperately trying to find  
+> a good alternative, but did not succeed so far. I need a text editor  
+> which have/do the following:
+> 	• Support for bi-directional text and Unicode;
+> 	• Support for large text files (mine are not too big, but may go up  
+> to 20Mb of TXT in UTF-8; Yaqut’s Mu‘jam al-Buldan is ~9Mb, Ibn  
+> ‘Imad’s Shadharat al-Dhahab is ~8Mb; Ibn al-Jawzi’s al-Muntazam is  
+> 12Mb);
+> 	• Changing Font and its Size;
+> 	• Custom Highlighting: an editable list of symbols and phrases (in  
+> Arabic) to be highlighted for visibility. The sources I work with  
+> have a number of technical topoi (most obvious examples are the  
+> words like bab, fasl, harf etc.) that mark the structure of the book  
+> as well as transition points between information of different kind  
+> (for example, in al-Sam‘ani’s Kitab al-ansab the explanation of most  
+> of nisba names begins with phrases like wa-hadhihi-l-nisba ila and  
+> ends with wa-l-mashhur bi-hadhihi-l-nisba, or wa-ilay-ha, or wa- 
+> ntasaba[t] ila etc.). Having them highlighted makes the structure of  
+> the test highly visible and tagging process much faster and easier.
+> 	• The editor should be stable and fast.
+> I will deeply appreciate any comments and suggestions.
+>
+> Best regards,
+> Maxim G. Romanov
+>
+> PhD Candidate in Arabic & Islamic Studies
+> Department of Near Eastern Studies
+> University of Michigan
+> Ann Arbor, MI, U.S.A.
+>
+> Digital Medievalist --  http://www.digitalmedievalist.org/
+> Journal: http://www.digitalmedievalist.org/journal/
+> Journal Editors: editors _AT_ digitalmedievalist.org
+> News: http://www.digitalmedievalist.org/news/
+> Wiki: http://www.digitalmedievalist.org/wiki/
+> Twitter: http://twitter.com/digitalmedieval
+> Facebook: http://www.facebook.com/group.php?gid=49320313760
+_redacted_(a)uleth.ca
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l

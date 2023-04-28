@@ -1,0 +1,21 @@
+Subject: Re: [dm-l] numbering linesJames Cummings wrote:>
+> However, I would echo what I'd say to Abdullah above.  *Why* add line 
+> numbers? The *only* reason really to add line numbers these days is if 
+> the line numbering is irregular for some reason. (i.e. the text goes 
+> 1,2,3,4, *big burnt hole*,12,13,14.)  Amazingly, computers are really 
+> good at counting, and counting lines is easy.  So, mark everything up 
+> as <l> and then just number them automatically when producing a 
+> presentation version.Actually, my situation is that very one (well, not the *big burnt hole*, 
+but the general idea): I want to have the line numbering in the 
+concordance I'm building be in conformance to line numbering in a 
+"standard reference system" (to use TEI jargon), that is, the line 
+numbering in a standard edition, and there are missing lines and 
+stanzas, duplicated lines, inversions of lines, etc. in my text as 
+compared to the standard line numbering--a pretty common situation in 
+medieval and early modern texts. The standard reference system also has 
+several series of line numbers beginning at 1 and extending to the 
+hundreds. So I can use automatic numbering to generate an initial 
+matching of number to line for each of the chunks, but I need to fiddle 
+a bit around the anomalies and then actually stick the numbers to the 
+lines permanently before concordancing.Thanks to everyone for the excellent suggestions.Murray
+--===============7956223389949838813==--

@@ -1,0 +1,68 @@
+Subject: RE: [dm-l] Teaching the TEI: your practice?I do agree that how easy or difficult it is to learn a new technology depends=
+ to an extent on one's previous experience and knowledge.But even then, I would be hard-pressed to see how XSLT would be better than P=
+erl or a similar language when it comes to processing data in which which are=
+ not essentially to do with formatting XML documents for display.If I wanted to, say, develop a program to lemmatise text marked up in paragra=
+phs <p>, or parse Roman calendar dates marked up with <date>, is that somethi=
+ng for which you would recommend using XSLT? XSLT would easily let you find t=
+hat data, but I am not sure it would be easy to then process it in XSLT. Not =
+having associative arrays or more complex data structures in XSLT makes that =
+particularly hard, not?Godfried-----Original Message-----
+_redacted_(a)uleth.ca] On Behalf Of H=
+ugh Cayless
+Sent: 30 January 2011 03:09
+To: Digital Medievalist
+Subject: Re: [dm-l] Teaching the TEI: your practice?I think it's certainly true that if you're used to a procedural language like=
+ Perl, a functional(ish) language like XSLT will seem bizarre.  But I'm not s=
+ure XSLT is any stranger than any other programming language to someone witho=
+ut programming experience.HughOn Jan 28, 2011, at 5:36AM, Torsten Schassan wrote:> Dear Godfried,
+>=20
+>> Instead of teaching Perl from scratch I would give them working little pro=
+grams which they can then modify to suit their needs (a recipe book approach).
+>=20
+> although this seems to be perfectly reasonable,
+>=20
+>> I think that a procedural language like Perl is easier to grasp than XSLT =
+and to learn.
+>=20
+> I wonder how to prove this? Learning a (another) procedural language might =
+be easier for someone who already learned a procedural language, but I find t=
+he way XSLT work so quite straight forward that once you understood how XML w=
+orks it might be easy to understand XSLT too?! If you learned object oriented=
+ programming like Java, XML-processing with XSLT, XPath etc seems to be very =
+similar?
+>=20
+> But I admit it might be only me estimating this?
+>=20
+> Best, Torsten
+>=20
+> --=20
+> Torsten Schassan
+> Digitale Editionen
+> Abteilung Handschriften und Sondersammlungen
+> Herzog August Bibliothek, Postfach 1364, D-38299 Wolfenbuettel
+> Tel.: +49-5331-808-130 (Fax -165), schassan {at} hab.de
+>=20
+> http://www.hab.de/forschung/projekte/europeana-regia.htm
+> http://www.hab.de/forschung/projekte/weiss64.htm
+>=20
+>=20
+>=20
+> Digital Medievalist --  http://www.digitalmedievalist.org/
+> Journal: http://www.digitalmedievalist.org/journal/
+> Journal Editors: editors _AT_ digitalmedievalist.org
+> News: http://www.digitalmedievalist.org/news/
+> Wiki: http://www.digitalmedievalist.org/wiki/
+> Twitter: http://twitter.com/digitalmedieval
+> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+_redacted_(a)uleth.ca
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+Digital Medievalist --  http://www.digitalmedievalist.org/
+Journal: http://www.digitalmedievalist.org/journal/
+Journal Editors: editors _AT_ digitalmedievalist.org
+News: http://www.digitalmedievalist.org/news/
+Wiki: http://www.digitalmedievalist.org/wiki/
+Twitter: http://twitter.com/digitalmedieval
+Facebook: http://www.facebook.com/group.php?gidI320313760
+_redacted_(a)uleth.ca
+Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+--===============0673005727127404238==--

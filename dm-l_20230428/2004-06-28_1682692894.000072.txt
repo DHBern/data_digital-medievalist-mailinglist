@@ -1,0 +1,90 @@
+Subject: Re: [dm-l] MS-Internet Explorer 6 and standards based computingThis is an interesting thread in as much as it touches on best practice. 
+Leaving aside the server vs. client side serving of xml for a minute (do 
+most people still not convert xml to (x)html and serve static pages?), 
+surely it isn't that hard to produce pages that work on both Internet 
+Explorer and proper browsers? I've always followed what I've thought as 
+Peter Baker's philosophy (perhaps he can correct me if I'm wrong) of 
+adopting "works well on standards based browsers, is neither broken nor 
+egregiously ugly on Internet Explorer" in my design. The place where I 
+am most aware of this is with floating menus (as in the dm site 
+<www.digitalmedievalist.org>). These stay put in standards-based 
+browsers, but scroll in MSIE. If and when IE does these properly, there 
+are no work arounds to content with: the menu will float for IE users as 
+well.I am a little more concerned about the need for some work-arounds, 
+mostly because it produces bad coding that won't age gracefully when IE 
+gets with the program. One place is, for example, the min- and max-width 
+instructions in CSS. I use a workaround that takes advantage of the fact 
+that MSIE doesn't understand child rules expressed using a "greater than 
+sign" to turn off styles MSIE specific styles. I suppose this is 
+harmless, though it is annoying.I have been thinking lately of offering users multiple stylesheets to 
+allow them to customise pages to suit their equipement, interests, 
+and/or disabilities. Thus users with larger screens might like to see 
+more options on a menu; or visually impaired users might prefer their 
+links to be underlined. Of course, once again, most standards based 
+browsers have a style sheet switcher option built in, which means MSIE 
+doesn't. There are some simple solutions however. If you'd like to see 
+one in action, the CSSZenGarden is a great site 
+<http://www.csszengarden.com/>. They have a link that explains how they 
+switch the stylesheets.If you are new to CSS, standards-based design, and this MSIE 
+implementation problem, csszengarden is also a good site to visit. It 
+shows you the power of predictable coding.
+-dan
+Jeffrey Fisher wrote:>
+> On Monday, June 28, 2004, at 08:16 AM, Peter Baker wrote:
+>
+>> I suspect that my own experiences have made me a bit jaundiced about 
+>> client-side programming generally. I spent years making and 
+>> maintaining a Java applet that would work both in Netscape and IE. It 
+>> was an unspeakable misery: every time I got it stable Sun would 
+>> change the spec in response to some new security concern, or 
+>> Microsoft would break some new thing in their Java "implementation," 
+>> and I'd have to figure out what was wrong and fix it, often while my 
+>> students or someone else's were complaining loudly about lack of access.
+>
+>
+> java is a particularly egregious example of incompatible 
+> implementations of what was meant to be an entirely 
+> platform-independent "standard". very very frustrating, in principle 
+> and in practice. "java" never really meant "java".
+>
+>>
+>> So now I'm in the process of migrating as much as possible to the 
+>> server side, and my new rules are:
+>>
+>> - never to do anything on the client side that can be done on the 
+>> server.
+>
+>
+> i don't think i would disagree with this. i would only say that the 
+> key word is "can". it includes the server resources to handle the 
+> load, and in such a way that it doesn't affect end-user experience 
+> (ie, slow loading or server overload errors). to be honest, my 
+> argument about a smaller niche audience with respect to browsers may 
+> apply here, as long as your institution has the server resources and 
+> bandwidth to give you.
+>
+>>
+>> - Use only standards-compliant features of browsers (in my case CSS 
+>> and a bit of [mostly] ECMA-compliant JavaScript).
+>
+>
+> exactly. and so this is *still* an argument for staying with standards 
+> and not relying on browser-dependent work-arounds.
+>
+> cheers,
+> j
+>
+>
+> _______________________________________________
+> dm-l mailing list
+_redacted_(a)uleth.ca
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+-- 
+Daniel Paul O'Donnell, PhD
+Associate Professor of English
+University of Lethbridge
+Lethbridge AB T1K 3M4
+Tel. (403) 329-2377
+Fax. (403) 382-7191
+_redacted_(a)uleth.ca>
+Home Page <http://people.uleth.ca/~daniel.odonnell/>

@@ -1,0 +1,24 @@
+Subject: [dm-l] Concordancing QueriesI am producing a concordance of the English vernacular texts that
+scholarship allows as Wycliffite or Lollard in persuasion. I would like
+to add more texts, and am attempting to work out a few issues on which I
+wondered if anyone might have advice.For information I have recently been using R.J.C. Watt's programme
+Concordance (http://www.concordancesoftware.co.uk/); however, due to a
+significant problem with hyphenated words---Watt's Help file
+specifically states that it does not treat hyphenated words, which are
+divided between 2 lines, as single words---I am thinking of switching
+back to TACT or to another programme.It's been some years since I used TACT. Is anyone fluent in TACT and
+willing to field the odd question or two which Ian Lancashire's book
+Using TACT with Electronic Texts does not answer? Or, alternatively, can
+anyone recommend a better programme?Line numbering: Aside from keying in line numbers by hand (which I have
+been doing), is there a macro or application that can automate the line
+numbering process in large numbers of texts in Word or Word Pad?Page numbering: As above, is there a macro or application that can
+automate the page numbering process in large numbers of texts? NB: the
+end of the printed page in electronic format rarely corresponds with the
+end of a Word or Word Pad page.Many thanks for any suggestions anyone might be able to make.
+---LaurieLaurie Ringer
+Assistant Professor of English
+Canadian University College
+Lacombe, AB T4L 2E5
+(phone) 403.782.3381, ext. 4085
+(fax) 403.782.0735
+--===============2054808027059919196==--

@@ -1,0 +1,3 @@
+Subject: [dm-l] xsltproc and xslHi all, I just discovered xsltproc in linux. Does anybody know what XSL
+process it is? It seems quite good. Is there a reason not to prefer it
+to Saxon?-dan

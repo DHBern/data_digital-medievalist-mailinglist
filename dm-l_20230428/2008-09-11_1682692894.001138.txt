@@ -1,0 +1,54 @@
+Subject: Re: [dm-l] DM Website back up!_redacted_(a)uleth.ca> wro=
+te:
+> I would also like to thank James very much for his great work on the DM
+> site over the life of the project and especially since the rewrite of
+> the site. I sometimes think it is too bad that not everybody can see his
+> wonderful backend ;)Thanks Dan, always good to be appreciated. I'm of course happy to talk
+about how the site works (and keep meaning to document it in the DM
+wiki), if anyone is ever interested.I am of course only a bit worried that you like my backend. ;-)-James>
+> -dan
+>
+>
+> On Thu, 2008-09-11 at 18:20 +0100, James Cummings wrote:
+>> As announced earlier the DM website, www.digitalmedievalist.org, was
+>> taken down today for some essential maintenance.  Only minor
+>> complications were encountered in what was a long overdue set of
+>> upgrades through 4 operating system versions, and I believe these have
+>> been resolved.  It is hoped that this upgrade will solve a driver
+>> mismatch problem that was causing occasional downtime when the virtual
+>> machine would fail to restart properly whenever the VM servers at
+>> University of Lethbridge had a problem which necessitated their own
+>> restart.  Simultaneous to the multiple upgrades, some other underlying
+>> changes (hopefully invisible) were made which will allow further
+>> development of our journal production workflow.
+>>
+>> If you notice any problems with the site feel free to email either
+_redacted_(a)digitalmedievalist.org.
+>>
+>> Apologies for any inconvenience,
+>>
+>> James Cummings
+>>
+>> Digital Medievalist --  http://www.digitalmedievalist.org/
+>> Journal: http://www.digitalmedievalist.org/journal/
+>> Journal Editors: editors _AT_ digitalmedievalist.org
+>> News: http://www.digitalmedievalist.org/news/
+>> Wiki: http://www.digitalmedievalist.org/wiki/
+_redacted_(a)uleth.ca
+>> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+> --
+> Daniel Paul O'Donnell, PhD
+> Associate Professor of English
+> Director, Digital Medievalist Project http://www.digitalmedievalist.org/
+> Chair, Text Encoding Initiative http://www.tei-c.org/
+>
+> Department of English
+> University of Lethbridge
+> Lethbridge AB T1K 3M4
+> Vox +1 403 329-2377
+> Fax +1 403 382-7191
+_redacted_(a)uleth.ca
+> WWW: http://people.uleth.ca/~daniel.odonnell/
+>
+>
+--===============3910890877155613980==--

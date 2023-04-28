@@ -1,0 +1,35 @@
+Subject: Re: [dm-l] what xslt can't do..?Peter Robinson wrote:
+> The Digital Medievalist List (see end of message for contact information an=
+d project URLs).
+>=20
+> ----------------------------------
+> Peter (Binkley) has already pointed out the problems with the XSLT
+> approach he took.
+>  I think even the fix he suggests, of returning a stripped node fragment,
+> would
+> still lead to performance problems  (for instance..to pull a single page
+> say out of
+> the Hengwrt Chaucer you would need every time to read the WHOLE document
+> to create
+> the node sets for ALL pages, just so you could extract the node set for
+> just one,
+> every time).Is this necessarily the case?  Couldn't you simply output these=20
+fragments as individual page files - so only having to do the process=20
+once?  I agree with you whole-heartedly that XSLT is problematic for=20
+choosing to display from one arbitrary point to another arbitrary point=20
+in the XML, but your points aren't arbitrary.  Page breaks will be the=20
+same each time, so I don't see the need to do this dynamically.  Store=20
+your full versions of Hengwrt, and also store files created for each=20
+page, searching the former, but displaying the latter.  Just because we=20
+*can* dynamically pull out a single page from the whole of a large XML=20
+file doesn't mean we *have* to.> I don't have a prejudice against XSLT, which seems a fine tool for doing
+> most of the things one wants to do with XML.  But that does not mean it
+> can do *everything* equally easily (which is how this whole thread
+> started, with musings on its limits as a typesetting language).  Some
+> things certainly Anastasia does much easier, and that is no surprise -- it
+> was designed just for that.  She is open source.  Go look at her on
+> http://anastasia.sourceforge.netI'd of course encourage people to do so as well, Anastasia is a great=20
+tool and it is wonderful that it has been made open source.--=20
+Dr James Cummings, Oxford Text Archive, University of Oxford
+James dot Cummings at oucs dot ox dot ac dot uk
+--===============3836064540417992119==--

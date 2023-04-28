@@ -1,0 +1,14 @@
+Subject: Re: [dm-l] PDF markup?On Tue, 29 Jun 2004, Jeffrey Fisher wrote:> there are server utilities that convert html to pdf on the fly. i don't thi=
+nk
+> you can do that with a stylesheet.There are a number of ways that people convert XML (and so xhtml) to PDF
+on the fly.  My preferred method is to use XSL-FO (formatting objects)
+and then use apache's FOP to convert to PDF.  This can be all done
+dynamically within apache's Cocoon.(see http://cocoon.apache.org and/or http://xml.apache.org/fop/ for more
+information.)Other pople use tools via LaTeX, also called dynamically through
+packages like axkit.For Dan's question, usually such conversions are done via the above or=20
+via LaTeX.  PDF is very similar in many ways to postscript, and not=20
+something you'd really want to code directly.[1]-James
+[1]Unless you are really strange.---
+Dr James Cummings, Oxford Text Archive, University of Oxford
+James dot Cummings at ota dot ahds dot ac dot uk=20
+--===============6170570472451890271==--

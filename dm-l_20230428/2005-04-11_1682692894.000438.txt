@@ -1,0 +1,10 @@
+Subject: Re: [dm-l] what xslt can't do..?What I Learned from This Exchange:1. XSLT is able to rearrange the hierarchy of an XML document using 
+"milestone" elements. This was the original question, and I think it has 
+been answered sufficiently, even if some of the fine points have not 
+been worked out.2. A major limitation of XSLT is that it builds a document tree in 
+memory. This limits its usefulness in working with very large files.3. Workarounds using XSLT are possible (e.g. file-splitting), but it may 
+make more sense to use another tool.4. Anastasia appears to be a very good approach to the problem. I have 
+poked around in it now (it's true that I hadn't before), and it seems 
+commendable in its use of existing, stable tools and standards as well 
+as its sensible approach to the problem of handling large textbases.5. Never get into an on-line discussion with two other guys named Peter, 
+even if a James is there to help out.Peter Baker

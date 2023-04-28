@@ -1,0 +1,37 @@
+Subject: Re: [dm-l] Access or ExcelDaniel O'Donnell wrote:
+> Well it really depends on what you want to do. If the goal is to extract
+> information and then calculate scores, XML+XSL can do that. You could
+> also use XSL to produce delimited text for adhoc spreadsheets in Excel.
+> I don't know what your starting point is.
+>=20
+> -dan
+>=20
+> On Mon, 2006-06-11 at 00:23 +0000, Abdullah Alger wrote:
+>> I also thought about XML, because of its flexibility, but if I decided to =
+use
+>> XML then wouldn't I have to write all the code for it?  It would take a lo=
+t of
+>> time, unless there was a way that I could do it through excel.Abdullah,I believe modern versions of excel allow you to export tables into a form of
+XML.  Which then could certainly be queried with XQuery or transformed with
+XSLT.  I'd be interested in what form you have the texts at the moment, or
+whether you are starting from scratch.What I'd suggest is not to limit yourself necessarily to one technology, but =
+use
+those applications which are fit for purpose.  Excel is good at typical
+spreadsheet applications and some statistical work, Access (and other RDMS li=
+ke
+mysql) are good at relating large tables of non-nested information, SPSS is
+quite good at performing statistical analysis, XML Databases are good at
+enabling queries between hierarchically structured documents.We have, thankfully, reached a point where putting your information in any one
+of these does not stop you exporting, transforming, and importing portions of
+the information into another application.  There are other options, such as
+linguistic analysis software such as Xaira.My advice generally with textual materials is to create a a detailed text in a
+neutral an easily transformable format (and for me this is TEI XML), and then
+generate the input expected by other programs when needed.  For example, a CSV
+file to import into Access or Excel.  To me comparing formulaic patterns with
+punctuation is a form of textual analysis akin to computational linguistics, =
+and
+so I would use markup (say a teiCorpus structure) and any existing tools where
+applicable.Let us know how you get along,-James--=20
+Dr James Cummings, Oxford Text Archive, University of Oxford
+James dot Cummings at oucs dot ox dot ac dot uk
+--===============0949815278218894730==--

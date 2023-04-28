@@ -1,0 +1,173 @@
+Subject: Re: [dm-l] Use of wikis for transcriptionHi All,I agree with Dot that any collaborative transcription (which is
+slightly different from collaborative editing) is all about adhering
+to mutually agreed conventions of collaborative transcription.A good model for this is the Distributed Proofreaders that
+crowdsources correction of dirty OCR for project gutenberg. If I'm not
+mistaken there is per volume a responsible person who checks things
+and is responsible for any specialised guidelines, anyone is allowed
+to go and proofread a few pages depending on the perceived level of
+difficulty of the volume.  As you proofread more you graduate to being
+allowed to do volumes with a higher level of perceived difficulty, and
+presumably eventually oversee volumes.I feel that kind of graduated  responsibility in crowdsourcing
+techniques is probably a good idea.  But it all comes down to the
+guidelines for the average user being clear and easy to understand, or
+them being able to flag potential problems easily.With collaborative editing, then there are lots of models with
+slightly different methodologies and technologies.  I, of course,
+agree with Dot and Dan that XML as a preservation format is pretty
+much a requirement these days.  And with Dot that medievalists can
+learn (and in my experience quite frequently are learning) TEI XML
+quite quickly.  After all as medievalists we do things like learn
+skills like palaeography and languages like medieval Latin, nevermind
+all the other things, so by comparison to learn a human-readable
+markup format is really a lot easier than most of the things we do.-James_redacted_(a)gmail.com> wrote:
+> Hi Edward (and Dan, and all). Just a few thoughts on what Dan's
+> already written...
+>
+_redacted_(a)btinternet.com> wrote:
+_redacted_(a)gmail.com>
+>>>> The main problem is that there  is no way of automatically enforcing a
+>>>> policy on what is to be captured
+>>
+>> or how these details are to be recorded: if you have multiple people
+>> working on a project, and you have no control over what they enter, they
+>> will invariably diverge in practice: one scholar might expand
+>> abbreviations, another prefer to leave them unexpanded; one might record
+>> multiple options for reading difficult passages, another just choose the
+>> most likely, and yet others use different symbols for indicating
+>> uncertainty.
+>>
+>> Why?  This is an issue about conventions.
+>>
+> Setting up a wiki for public transcription would be all about
+> conventions, I think. You would need to make a clear set of
+> conventions available to the transcribers so they know exactly how to
+> note ... anything that you might want them to note (abbreviations,
+> expansions if you want them to expand them, unclear letters,
+> suggestions for editorial corrections if you want them included as
+> well). But if you could supply clear guidelines I think a wiki would
+> be a fine place for sourcing transcriptions, and much simpler in the
+> first instance than using XML.
+>
+>>>> XML and XML tools like the OxygenXML editor are designed precisely to
+>>
+>> give you this kind of control. There was a time when they could seem
+>> quite intimidating.
+>>
+>> I find software pretty intimidating.  How does this work?
+>>
+> I think what Dan is talking about is the ability of XML to be defined
+> by a schema, basically a set of rules that limits what tags you can
+> use, and where you can put them. So you can have tags <abbreviation>,
+> <unclear>, whatever, and just place those around the text you want to
+> set apart from the surrounding text:
+>
+> <abbreviation>abbreviated text</abbreviation>
+> <unclear>unclear text</unclear>
+>
+> They function the same way as things like brackets and special
+> formatting to indicate specific editorial elements, but are rather
+> more clear (and can be processed in any number of ways - abbreviations
+> could be rendered in italics, or in another colour, for example).
+>
+> What this means is that if someone is creating a transcription and
+> marking bits of it in XML (abbreviations, expansions, unclear letters,
+> whatever) there is some guarantee that everyone following that schema
+> will mark the same thing in the same way. There is still the
+> possibility that those tags will be misused (<abbreviation> to mark
+> something other than abbreviated text), but perhaps less likely to be
+> misused than formatting such as special brackets, italics, etc.
+>
+> The most widely-used schema for humanities text encoding is the Text
+> Encoding Initiative (TEI): http://www.tei-c.org/
+>
+>>>> Bottom line: a wiki is a good informal way of sharing work (with loss of
+>>
+>> policy control) or for crowdsourcing very simple questions (are these
+>> the right letters? what letters does this image contain?). But for
+>> really encoding expert knowledge or doing anything complicated with the
+>> text at all, you are going to want to use XML. There are very robust
+>> ways of doing that in a distributed fashion.
+>>
+>> I suspect that crowdsourcing may work for stuff like translation and
+>> particularly for image recognition.  As mentioned above, reading the
+>> manuscripts is very easy with a limited amount of practice.
+>>
+> I snipped a bit of what Dan said about using a system of distributed
+> XML. I think that is a fine idea if you have some IT support and
+> transcribers who are ready and willing to learn how to tag using XML
+> (I've worked on a project like this so I know it can be done - it also
+> helps if you have funding to pay all these people). But I think that
+> Dan is writing off wikis a bit too easily. I think for a project with
+> limited or no funding, and that does not want to have the curve it
+> takes to learn XML/TEI, the Oxygen software, setting up files etc.
+> (not a small order), a wiki would be a really good way to get started.
+> Assuming you could get strong conventions that are tied to accepted
+> editorial (non-digital) conventions (use italics for one thing, square
+> brackets for this other thing, three dots for unclear text, do or do
+> not expand abbreviations, etc.) assuming it's done well by everyone
+> you would be able to convert that text to XML later which would give
+> you the ability to add more expert knowledge if you wanted to
+> (including notes, or additional information that would be difficult to
+> put in a wiki system). I'm not necessarily talking about translating
+> the code that the wiki creates behind the scenes, because that might
+> be more difficult than taking the surface text and translating that
+> (I've converted "traditional" transcriptions but not wiki code, so I
+> can't really judge).
+>
+> Another thought - if you want to apply for funding at some later
+> point, a wiki would give you something to point to to show that you
+> already have community involvement, and any transcriptions completed
+> could be the basis for an XML-based digital edition or project. These
+> are things that funding agencies like to see.
+>
+> And, really, if all you want is an interactive space for looking at
+> images and viewing transcriptions, the only problem I see with having
+> that *only* in a wiki is that of long term preservation. If you export
+> to XML (even if you don't actually use it), the transcriptions are
+> likely to last longer, and they also become available to be taken and
+> used by other scholars (at least more easily than they would be from
+> wiki alone). But if you just want a simple collaborative transcription
+> space, you want to make things simple for your transcribers, you
+> aren't very concerned that those transcriptions be around in 20 years,
+> and you don't care that those transcriptions are available to be
+> incorporated into other projects, I think a wiki would be fine. It
+> would certainly be easier for your average manuscripts transcriber to
+> learn than XML (although, from experience, I can say that with a good
+> tutorial and a lot of time and support, medievalists really can learn
+> TEI! But having been that support, I can also say it's a lot of work
+> for all involved).
+>
+> Hope this helps.
+>
+> Dot
+>
+>
+>> Digital Medievalist --  http://www.digitalmedievalist.org/
+>> Journal: http://www.digitalmedievalist.org/journal/
+>> Journal Editors: editors _AT_ digitalmedievalist.org
+>> News: http://www.digitalmedievalist.org/news/
+>> Wiki: http://www.digitalmedievalist.org/wiki/
+_redacted_(a)uleth.ca
+>> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>>
+>
+>
+>
+> --
+> *~*~*~*~*~*~*~*~*~*~*
+> Dot Porter (MA, MSLS)          Metadata Manager
+> Digital Humanities Observatory (RIA), Regus House, 28-32 Upper
+> Pembroke Street, Dublin 2, Ireland
+> -- A Project of the Royal Irish Academy --
+> Phone: +353 1 234 2444        Fax: +353 1 234 2400
+_redacted_(a)gmail.com
+> *~*~*~*~*~*~*~*~*~*~*
+>
+> Digital Medievalist --  http://www.digitalmedievalist.org/
+> Journal: http://www.digitalmedievalist.org/journal/
+> Journal Editors: editors _AT_ digitalmedievalist.org
+> News: http://www.digitalmedievalist.org/news/
+> Wiki: http://www.digitalmedievalist.org/wiki/
+_redacted_(a)uleth.ca
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>
+--===============7888396120575260259==--

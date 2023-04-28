@@ -1,0 +1,193 @@
+Subject: Re: [dm-l] numbering linesWhy not encode your poem in TEI usind the <l> (or any other element) and
+output line numbers using XSLT and <xsl:number>?
+Best,
+Notis_redacted_(a)postgrad.manchester.ac.uk>
+wrote:
+>
+> I've done this in Excel for my own concordance.  You can put the lines in
+> the
+> cells, then in another column you can automatically put 1, 2, 3, etc. down
+> the
+> side by highlighting the first two or three and then by dragging the
+> pointer
+> down to where the end of the text is.  You can also modify the numbers in
+> a
+> different format, by selecting a custom format for the cells.  Below is a
+> sample of what I did.
+>
+> Abdullah Alger
+>
+> <L 1>      cyninge
+> <L 2>   ðu eart se weallstan         þe ða wyrhtan iu
+> <L 3>   wiðwurpon to weorce         Wel þe geriseð
+> <L 4>   þæt þu heafod sie         healle mærre
+> <L 5>   ond gesomnige         side weallas
+> <L 6>   fæste gefoge         flint unbræcne
+> <L 7>   þæt geond eorðbold eall         eagna gesihþe
+>
+>
+>
+>
+_redacted_(a)ucalgary.ca>:
+>
+> > Folks, I have a number of text files of poetry that I'd like to add
+> > line numbers to for concordancing, starting the numbering at 1 and
+> > continuing to the last text line, with the line numbers ending up as
+> > part of the resulting text file, each number on the relevant line
+> > before the text of that line of verse begins.
+> >
+> > I've done this before a few times a while ago, but danged if I can
+> > remember what I used. I know I didn't write anything to do it, though
+> > I assume it's pretty easy to do so.  I think it was in a text editor
+> > or word processor, but looking at vi and emacs it looks like I can
+> > only get the line numbers to display with the file, not to be added
+> > to the file, and that's true of some Windows ones as well and of
+> > Word, unless there are tricks.
+> >
+> > The UNIX/Linux "nl" utility does basically what I want (if I pipe the
+> > output to a file, I get  my text file back but with a line number and
+> > a tab added to the beginning of each line), and I can deal with the
+> > output but I remember (possibly from one of those technicolor
+> > dreams--you'll let me know!) a more interactive, less command-liney,
+> > way of doing this that would make this stage easier.
+> >
+> > Thanks for any help.
+> >
+> > Murray McGillivray
+> >
+> > _______________________________________________
+> > Digital Medievalist Project
+> > Homepage: http://www.digitalmedievalist.org
+> > Journal (Spring 2005-): http://www.digitalmedievalist.org/journal.cfm
+> > RSS (announcements) server:
+> http://www.digitalmedievalist.org/rss/rss2.cfm
+> > Wiki: http://sql.uleth.ca/dmorgwiki/index.php
+> > Change membership options:
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+> > Submit RSS announcement: http://www.digitalmedievalist.org/newitem.cfm
+_redacted_(a)uleth.ca
+> > dm-l mailing list
+_redacted_(a)uleth.ca
+> > http://listserv.uleth.ca/mailman/listinfo/dm-l
+> >
+>
+>
+>
+>
+> _______________________________________________
+> Digital Medievalist Project
+> Homepage: http://www.digitalmedievalist.org
+> Journal (Spring 2005-): http://www.digitalmedievalist.org/journal.cfm
+> RSS (announcements) server: http://www.digitalmedievalist.org/rss/rss2.cfm
+> Wiki: http://sql.uleth.ca/dmorgwiki/index.php
+> Change membership options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+> Submit RSS announcement: http://www.digitalmedievalist.org/newitem.cfm
+_redacted_(a)uleth.ca
+> dm-l mailing list
+_redacted_(a)uleth.ca
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+>-- 
+http://www.early-modern-greek.org
+http://www.mml.cam.ac.uk/greek/grammarofmedievalgreek/V2h5IG5vdCBlbmNvZGUgeW91ciBwb2VtIGluIFRFSSB1c2luZCB0aGUgJmx0O2wmZ3Q7IChvciBh
+bnkgb3RoZXIgZWxlbWVudCkgYW5kIG91dHB1dCBsaW5lIG51bWJlcnMgdXNpbmcgWFNMVCBhbmQg
+Jmx0O3hzbDpudW1iZXImZ3Q7Pzxicj5CZXN0LDxicj5Ob3Rpczxicj48YnI+PGRpdj48c3BhbiBj
+bGFzcz0iZ21haWxfcXVvdGUiPk9uIDExLzE1LzA2LCA8YiBjbGFzcz0iZ21haWxfc2VuZGVybmFt
+ZSI+CkFiZHVsbGFoIEFsZ2VyPC9iPiAmbHQ7PGEgaHJlZj0ibWFpbHRvOkFiZHVsbGFoLkFsZ2Vy
+LTJAcG9zdGdyYWQubWFuY2hlc3Rlci5hYy51ayI+QWJkdWxsYWguQWxnZXItMkBwb3N0Z3JhZC5t
+YW5jaGVzdGVyLmFjLnVrPC9hPiZndDsgd3JvdGU6PC9zcGFuPjxibG9ja3F1b3RlIGNsYXNzPSJn
+bWFpbF9xdW90ZSIgc3R5bGU9ImJvcmRlci1sZWZ0OiAxcHggc29saWQgcmdiKDIwNCwgMjA0LCAy
+MDQpOyBtYXJnaW46IDBwdCAwcHQgMHB0IDAuOGV4OyBwYWRkaW5nLWxlZnQ6IDFleDsiPgpJJ3Zl
+IGRvbmUgdGhpcyBpbiBFeGNlbCBmb3IgbXkgb3duIGNvbmNvcmRhbmNlLiZuYnNwOyZuYnNwO1lv
+dSBjYW4gcHV0IHRoZSBsaW5lcyBpbiB0aGU8YnI+Y2VsbHMsIHRoZW4gaW4gYW5vdGhlciBjb2x1
+bW4geW91IGNhbiBhdXRvbWF0aWNhbGx5IHB1dCAxLCAyLCAzLCBldGMuIGRvd24gdGhlPGJyPnNp
+ZGUgYnkgaGlnaGxpZ2h0aW5nIHRoZSBmaXJzdCB0d28gb3IgdGhyZWUgYW5kIHRoZW4gYnkgZHJh
+Z2dpbmcgdGhlIHBvaW50ZXIKPGJyPmRvd24gdG8gd2hlcmUgdGhlIGVuZCBvZiB0aGUgdGV4dCBp
+cy4mbmJzcDsmbmJzcDtZb3UgY2FuIGFsc28gbW9kaWZ5IHRoZSBudW1iZXJzIGluIGE8YnI+ZGlm
+ZmVyZW50IGZvcm1hdCwgYnkgc2VsZWN0aW5nIGEgY3VzdG9tIGZvcm1hdCBmb3IgdGhlIGNlbGxz
+LiZuYnNwOyZuYnNwO0JlbG93IGlzIGE8YnI+c2FtcGxlIG9mIHdoYXQgSSBkaWQuPGJyPjxicj5B
+YmR1bGxhaCBBbGdlcjxicj48YnI+Jmx0O0wgMSZndDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsm
+bmJzcDsmbmJzcDtjeW5pbmdlCjxicj4mbHQ7TCAyJmd0OyZuYnNwOyZuYnNwOyDDsHUgZWFydCBz
+ZSB3ZWFsbHN0YW4mbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJz
+cDsgw75lIMOwYSB3eXJodGFuIGl1PGJyPiZsdDtMIDMmZ3Q7Jm5ic3A7Jm5ic3A7IHdpw7B3dXJw
+b24gdG8gd2VvcmNlJm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5i
+c3A7IFdlbCDDvmUgZ2VyaXNlw7A8YnI+Jmx0O0wgNCZndDsmbmJzcDsmbmJzcDsgw77DpnQgw751
+IGhlYWZvZCBzaWUmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJz
+cDsgaGVhbGxlIG3DpnJyZTxicj4mbHQ7TCA1Jmd0OyZuYnNwOyZuYnNwOyBvbmQgZ2Vzb21uaWdl
+Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7IHNpZGUgd2Vh
+bGxhcwo8YnI+Jmx0O0wgNiZndDsmbmJzcDsmbmJzcDsgZsOmc3RlIGdlZm9nZSZuYnNwOyZuYnNw
+OyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyBmbGludCB1bmJyw6ZjbmU8YnI+
+Jmx0O0wgNyZndDsmbmJzcDsmbmJzcDsgw77DpnQgZ2VvbmQgZW9yw7Bib2xkIGVhbGwmbmJzcDsm
+bmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsgZWFnbmEgZ2VzaWjDvmU8
+YnI+PGJyPjxicj48YnI+PGJyPlF1b3RpbmcgTXVycmF5IE1jR2lsbGl2cmF5ICZsdDs8YSBocmVm
+PSJtYWlsdG86bW1jZ2lsbGlAdWNhbGdhcnkuY2EiPm1tY2dpbGxpQHVjYWxnYXJ5LmNhCjwvYT4m
+Z3Q7Ojxicj48YnI+Jmd0OyBGb2xrcywgSSBoYXZlIGEgbnVtYmVyIG9mIHRleHQgZmlsZXMgb2Yg
+cG9ldHJ5IHRoYXQgSSdkIGxpa2UgdG8gYWRkPGJyPiZndDsgbGluZSBudW1iZXJzIHRvIGZvciBj
+b25jb3JkYW5jaW5nLCBzdGFydGluZyB0aGUgbnVtYmVyaW5nIGF0IDEgYW5kPGJyPiZndDsgY29u
+dGludWluZyB0byB0aGUgbGFzdCB0ZXh0IGxpbmUsIHdpdGggdGhlIGxpbmUgbnVtYmVycyBlbmRp
+bmcgdXAgYXMKPGJyPiZndDsgcGFydCBvZiB0aGUgcmVzdWx0aW5nIHRleHQgZmlsZSwgZWFjaCBu
+dW1iZXIgb24gdGhlIHJlbGV2YW50IGxpbmU8YnI+Jmd0OyBiZWZvcmUgdGhlIHRleHQgb2YgdGhh
+dCBsaW5lIG9mIHZlcnNlIGJlZ2lucy48YnI+Jmd0Ozxicj4mZ3Q7IEkndmUgZG9uZSB0aGlzIGJl
+Zm9yZSBhIGZldyB0aW1lcyBhIHdoaWxlIGFnbywgYnV0IGRhbmdlZCBpZiBJIGNhbjxicj4mZ3Q7
+IHJlbWVtYmVyIHdoYXQgSSB1c2VkLiBJIGtub3cgSSBkaWRuJ3Qgd3JpdGUgYW55dGhpbmcgdG8g
+ZG8gaXQsIHRob3VnaAo8YnI+Jmd0OyBJIGFzc3VtZSBpdCdzIHByZXR0eSBlYXN5IHRvIGRvIHNv
+LiZuYnNwOyZuYnNwO0kgdGhpbmsgaXQgd2FzIGluIGEgdGV4dCBlZGl0b3I8YnI+Jmd0OyBvciB3
+b3JkIHByb2Nlc3NvciwgYnV0IGxvb2tpbmcgYXQgdmkgYW5kIGVtYWNzIGl0IGxvb2tzIGxpa2Ug
+SSBjYW48YnI+Jmd0OyBvbmx5IGdldCB0aGUgbGluZSBudW1iZXJzIHRvIGRpc3BsYXkgd2l0aCB0
+aGUgZmlsZSwgbm90IHRvIGJlIGFkZGVkCjxicj4mZ3Q7IHRvIHRoZSBmaWxlLCBhbmQgdGhhdCdz
+IHRydWUgb2Ygc29tZSBXaW5kb3dzIG9uZXMgYXMgd2VsbCBhbmQgb2Y8YnI+Jmd0OyBXb3JkLCB1
+bmxlc3MgdGhlcmUgYXJlIHRyaWNrcy48YnI+Jmd0Ozxicj4mZ3Q7IFRoZSBVTklYL0xpbnV4ICZx
+dW90O25sJnF1b3Q7IHV0aWxpdHkgZG9lcyBiYXNpY2FsbHkgd2hhdCBJIHdhbnQgKGlmIEkgcGlw
+ZSB0aGU8YnI+Jmd0OyBvdXRwdXQgdG8gYSBmaWxlLCBJIGdldCZuYnNwOyZuYnNwO215IHRleHQg
+ZmlsZSBiYWNrIGJ1dCB3aXRoIGEgbGluZSBudW1iZXIgYW5kCjxicj4mZ3Q7IGEgdGFiIGFkZGVk
+IHRvIHRoZSBiZWdpbm5pbmcgb2YgZWFjaCBsaW5lKSwgYW5kIEkgY2FuIGRlYWwgd2l0aCB0aGU8
+YnI+Jmd0OyBvdXRwdXQgYnV0IEkgcmVtZW1iZXIgKHBvc3NpYmx5IGZyb20gb25lIG9mIHRob3Nl
+IHRlY2huaWNvbG9yPGJyPiZndDsgZHJlYW1zLS15b3UnbGwgbGV0IG1lIGtub3chKSBhIG1vcmUg
+aW50ZXJhY3RpdmUsIGxlc3MgY29tbWFuZC1saW5leSwKPGJyPiZndDsgd2F5IG9mIGRvaW5nIHRo
+aXMgdGhhdCB3b3VsZCBtYWtlIHRoaXMgc3RhZ2UgZWFzaWVyLjxicj4mZ3Q7PGJyPiZndDsgVGhh
+bmtzIGZvciBhbnkgaGVscC48YnI+Jmd0Ozxicj4mZ3Q7IE11cnJheSBNY0dpbGxpdnJheTxicj4m
+Z3Q7PGJyPiZndDsgX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19f
+X188YnI+Jmd0OyBEaWdpdGFsIE1lZGlldmFsaXN0IFByb2plY3QKPGJyPiZndDsgSG9tZXBhZ2U6
+IDxhIGhyZWY9Imh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZyI+aHR0cDovL3d3dy5k
+aWdpdGFsbWVkaWV2YWxpc3Qub3JnPC9hPjxicj4mZ3Q7IEpvdXJuYWwgKFNwcmluZyAyMDA1LSk6
+IDxhIGhyZWY9Imh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy9qb3VybmFsLmNmbSI+
+aHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnL2pvdXJuYWwuY2ZtCjwvYT48YnI+Jmd0
+OyBSU1MgKGFubm91bmNlbWVudHMpIHNlcnZlcjogPGEgaHJlZj0iaHR0cDovL3d3dy5kaWdpdGFs
+bWVkaWV2YWxpc3Qub3JnL3Jzcy9yc3MyLmNmbSI+aHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxp
+c3Qub3JnL3Jzcy9yc3MyLmNmbTwvYT48YnI+Jmd0OyBXaWtpOiA8YSBocmVmPSJodHRwOi8vc3Fs
+LnVsZXRoLmNhL2Rtb3Jnd2lraS9pbmRleC5waHAiPmh0dHA6Ly9zcWwudWxldGguY2EvZG1vcmd3
+aWtpL2luZGV4LnBocAo8L2E+PGJyPiZndDsgQ2hhbmdlIG1lbWJlcnNoaXAgb3B0aW9uczogPGEg
+aHJlZj0iaHR0cDovL2xpc3RzZXJ2LnVsZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0tbCI+aHR0
+cDovL2xpc3RzZXJ2LnVsZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0tbDwvYT48YnI+Jmd0OyBT
+dWJtaXQgUlNTIGFubm91bmNlbWVudDogPGEgaHJlZj0iaHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2
+YWxpc3Qub3JnL25ld2l0ZW0uY2ZtIj4KaHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3Jn
+L25ld2l0ZW0uY2ZtPC9hPjxicj4mZ3Q7IENvbnRhY3QgZWRpdG9yaWFsIEJvYXJkOiA8YSBocmVm
+PSJtYWlsdG86ZGlnaXRhbG1lZGlldmFsaXN0QHVsZXRoLmNhIj5kaWdpdGFsbWVkaWV2YWxpc3RA
+dWxldGguY2E8L2E+PGJyPiZndDsgZG0tbCBtYWlsaW5nIGxpc3Q8YnI+Jmd0OyA8YSBocmVmPSJt
+YWlsdG86ZG0tbEB1bGV0aC5jYSI+CmRtLWxAdWxldGguY2E8L2E+PGJyPiZndDsgPGEgaHJlZj0i
+aHR0cDovL2xpc3RzZXJ2LnVsZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0tbCI+aHR0cDovL2xp
+c3RzZXJ2LnVsZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0tbDwvYT48YnI+Jmd0Ozxicj48YnI+
+PGJyPjxicj48YnI+X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19f
+X188YnI+RGlnaXRhbCBNZWRpZXZhbGlzdCBQcm9qZWN0Cjxicj5Ib21lcGFnZTogPGEgaHJlZj0i
+aHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnIj5odHRwOi8vd3d3LmRpZ2l0YWxtZWRp
+ZXZhbGlzdC5vcmc8L2E+PGJyPkpvdXJuYWwgKFNwcmluZyAyMDA1LSk6IDxhIGhyZWY9Imh0dHA6
+Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy9qb3VybmFsLmNmbSI+aHR0cDovL3d3dy5kaWdp
+dGFsbWVkaWV2YWxpc3Qub3JnL2pvdXJuYWwuY2ZtCjwvYT48YnI+UlNTIChhbm5vdW5jZW1lbnRz
+KSBzZXJ2ZXI6IDxhIGhyZWY9Imh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy9yc3Mv
+cnNzMi5jZm0iPmh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy9yc3MvcnNzMi5jZm08
+L2E+PGJyPldpa2k6IDxhIGhyZWY9Imh0dHA6Ly9zcWwudWxldGguY2EvZG1vcmd3aWtpL2luZGV4
+LnBocCI+aHR0cDovL3NxbC51bGV0aC5jYS9kbW9yZ3dpa2kvaW5kZXgucGhwCjwvYT48YnI+Q2hh
+bmdlIG1lbWJlcnNoaXAgb3B0aW9uczogPGEgaHJlZj0iaHR0cDovL2xpc3RzZXJ2LnVsZXRoLmNh
+L21haWxtYW4vbGlzdGluZm8vZG0tbCI+aHR0cDovL2xpc3RzZXJ2LnVsZXRoLmNhL21haWxtYW4v
+bGlzdGluZm8vZG0tbDwvYT48YnI+U3VibWl0IFJTUyBhbm5vdW5jZW1lbnQ6IDxhIGhyZWY9Imh0
+dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy9uZXdpdGVtLmNmbSI+Cmh0dHA6Ly93d3cu
+ZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy9uZXdpdGVtLmNmbTwvYT48YnI+Q29udGFjdCBlZGl0b3Jp
+YWwgQm9hcmQ6IDxhIGhyZWY9Im1haWx0bzpkaWdpdGFsbWVkaWV2YWxpc3RAdWxldGguY2EiPmRp
+Z2l0YWxtZWRpZXZhbGlzdEB1bGV0aC5jYTwvYT48YnI+ZG0tbCBtYWlsaW5nIGxpc3Q8YnI+PGEg
+aHJlZj0ibWFpbHRvOmRtLWxAdWxldGguY2EiPmRtLWxAdWxldGguY2EKPC9hPjxicj48YSBocmVm
+PSJodHRwOi8vbGlzdHNlcnYudWxldGguY2EvbWFpbG1hbi9saXN0aW5mby9kbS1sIj5odHRwOi8v
+bGlzdHNlcnYudWxldGguY2EvbWFpbG1hbi9saXN0aW5mby9kbS1sPC9hPjxicj48L2Jsb2NrcXVv
+dGU+PC9kaXY+PGJyPjxiciBjbGVhcj0iYWxsIj48YnI+LS0gPGJyPjxhIGhyZWY9Imh0dHA6Ly93
+d3cuZWFybHktbW9kZXJuLWdyZWVrLm9yZyI+aHR0cDovL3d3dy5lYXJseS1tb2Rlcm4tZ3JlZWsu
+b3JnCjwvYT48YnI+PGEgaHJlZj0iaHR0cDovL3d3dy5tbWwuY2FtLmFjLnVrL2dyZWVrL2dyYW1t
+YXJvZm1lZGlldmFsZ3JlZWsvIj5odHRwOi8vd3d3Lm1tbC5jYW0uYWMudWsvZ3JlZWsvZ3JhbW1h
+cm9mbWVkaWV2YWxncmVlay88L2E+Cg==

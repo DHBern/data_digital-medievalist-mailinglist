@@ -1,0 +1,149 @@
+Subject: RE: [dm-l] Question about preservation of digital contentDear Daniel,I understand your question of 'preservation of digital content'. As far as my=
+ memory serves, it seems to be a Microsoft specific problem. DOC format, nati=
+ve to MS, has gone through two 'major' changes in the last two decades, as MS=
+ Word goes on improving. The .doc file created by Word 97 was unreadable on o=
+lder versions; but the one created by Word 95 and older was readable on Word =
+97. It's called downward-compatibility, designed to serve 'business ethic' fo=
+r not ruining the valuable digital content. The same problem happened again w=
+hen Word 2007 was released. Word 2007 is downward-compatible, whilst Word 200=
+7's specific doc files are unreadeable on Word 2003. However, I have no idea =
+whether Word 2007 reads the doc files before Word 97 or not.=20Other popular formats have also gone through improvements, though compatibili=
+ty issues are barely heard. I remember when I opened a PDF file created by ne=
+wer version of Photoshop with an older version programme, the file was proper=
+ly opened despite the message 'Some information will lose, etc'. That's why I=
+ say the compability issue is probably a MS specific issue.I think, the life of a popular file format, e.g. jpg or mpg, is rather long. =
+There was a debate over compatibility when MS was planning its 2nd generation=
+ GUI, i.e. Win 95, to succeed Win 3.x. They seem to have come to an agreement=
+ about downward-compatibility, as stated. That's why many 20-yr old formats a=
+re still in use and 20-yr old files of those formats are still readable. For =
+example, JPEG format was there when I was in high school. Now I have no diffi=
+culty reading those archaic files on this computer, though their 65k-colour p=
+alette violates my eyes.=20I wish I can say something about XML, which is way too modern for a historian=
+, um, politically. Personally I like databases and .txt format more than new =
+standards, only because I am used to them.So far CD and DVD are the most reliable media. Their life span is longer than=
+ 15 years as long as they are treated tenderly. Hard Drive is efficient when =
+it is cool. It, however, can turn into a nightmare when it is naughty. That's=
+ why IT experts suggest everybody to make backup CD/DVDs of the HD. Older har=
+ddisks are useable as long as they are with IDE interface and NOT broken. The=
+ average life span of the older generation HD, says, 20G, is like 5 years. Do=
+n't shake it and don't feed it water, it may live longer. It is hard to tell =
+how long IDE interface will survive though, as SATA is getting popular. ZIP d=
+rives! It was out in the market for maybe a half year? It was gone immediatel=
+y when CD-R was commercialised. Magnetic tapes were terminated by CD-R, too. =
+Whatever media you use, regular backup is the rule. Hope this helps.
+Best wishes=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3DGerald LiuPhD student in medieval history, Durham
+Working on late medieval manorial management and farm workers.
+Personal website http://www.durham.ac.uk/gerald.liu/-----Original Message-----
+_redacted_(a)uleth.ca on behalf of Daniel Mondekar
+Sent: Thu 29/07/2010 00:12
+_redacted_(a)uleth.ca
+Subject: [dm-l] Question about preservation of digital content
+=20
+Dear Digital Medievalists and TEI members,=20I have a question about preservation of digital content especially medieval
+manuscripts. I am writing a small article on the topic and I have consulted
+a lot sources (papers, handbooks) but most of them do not say anything about
+the "life span" of the data in specific formats. To clarify this - a .doc
+file crated in 1995. Will be most likely unreadable  in 2010.  What about
+other formats? Has anyone done some research on "life span" of a specific
+version of digital formats and when it becomes clear that the new version
+and the old one are not compatible anymore? And here I am talking about pdf,
+rtf, doc (and all office files), djvu, tiff, jpg , mpg etc. (texts and
+images especially)=20In my work I am also making a small remark on XML as a data container since
+it is, in my opinion, the best way to go and the standard will surely be
+around for years. But what kind of steps do you make to ensure the
+preservation of documents that have been encoded in xmlI would also like to hear if there are opposing views on xml.I also have the same question about the media. I found some research about
+the longevity of CDs and DVDs but I am also interested in other media like
+older hard disks, zip drives and magnetic media.I am sorry to bother you with this, but I can use any help I can get=20Thank you in advanceDaniel Mondekar=20=20PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDMuMi8vRU4iPgo8SFRNTD4K
+PEhFQUQ+CjxNRVRBIEhUVFAtRVFVSVY9IkNvbnRlbnQtVHlwZSIgQ09OVEVOVD0idGV4dC9odG1s
+OyBjaGFyc2V0PWlzby04ODU5LTEiPgo8TUVUQSBOQU1FPSJHZW5lcmF0b3IiIENPTlRFTlQ9Ik1T
+IEV4Y2hhbmdlIFNlcnZlciB2ZXJzaW9uIDYuNS43NjUxLjU5Ij4KPFRJVExFPlJFOiBbZG0tbF0g
+UXVlc3Rpb24gYWJvdXQgcHJlc2VydmF0aW9uIG9mIGRpZ2l0YWwgY29udGVudDwvVElUTEU+Cjwv
+SEVBRD4KPEJPRFk+CjwhLS0gQ29udmVydGVkIGZyb20gdGV4dC9wbGFpbiBmb3JtYXQgLS0+Cgo8
+UD48Rk9OVCBTSVpFPTI+RGVhciBEYW5pZWwsPEJSPgo8QlI+CkkgdW5kZXJzdGFuZCB5b3VyIHF1
+ZXN0aW9uIG9mICdwcmVzZXJ2YXRpb24gb2YgZGlnaXRhbCBjb250ZW50Jy4gQXMgZmFyIGFzIG15
+IG1lbW9yeSBzZXJ2ZXMsIGl0IHNlZW1zIHRvIGJlIGEgTWljcm9zb2Z0IHNwZWNpZmljIHByb2Js
+ZW0uIERPQyBmb3JtYXQsIG5hdGl2ZSB0byBNUywgaGFzIGdvbmUgdGhyb3VnaCB0d28gJ21ham9y
+JyBjaGFuZ2VzIGluIHRoZSBsYXN0IHR3byBkZWNhZGVzLCBhcyBNUyBXb3JkIGdvZXMgb24gaW1w
+cm92aW5nLiBUaGUgLmRvYyBmaWxlIGNyZWF0ZWQgYnkgV29yZCA5NyB3YXMgdW5yZWFkYWJsZSBv
+biBvbGRlciB2ZXJzaW9uczsgYnV0IHRoZSBvbmUgY3JlYXRlZCBieSBXb3JkIDk1IGFuZCBvbGRl
+ciB3YXMgcmVhZGFibGUgb24gV29yZCA5Ny4gSXQncyBjYWxsZWQgZG93bndhcmQtY29tcGF0aWJp
+bGl0eSwgZGVzaWduZWQgdG8gc2VydmUgJ2J1c2luZXNzIGV0aGljJyBmb3Igbm90IHJ1aW5pbmcg
+dGhlIHZhbHVhYmxlIGRpZ2l0YWwgY29udGVudC4gVGhlIHNhbWUgcHJvYmxlbSBoYXBwZW5lZCBh
+Z2FpbiB3aGVuIFdvcmQgMjAwNyB3YXMgcmVsZWFzZWQuIFdvcmQgMjAwNyBpcyBkb3dud2FyZC1j
+b21wYXRpYmxlLCB3aGlsc3QgV29yZCAyMDA3J3Mgc3BlY2lmaWMgZG9jIGZpbGVzIGFyZSB1bnJl
+YWRlYWJsZSBvbiBXb3JkIDIwMDMuIEhvd2V2ZXIsIEkgaGF2ZSBubyBpZGVhIHdoZXRoZXIgV29y
+ZCAyMDA3IHJlYWRzIHRoZSBkb2MgZmlsZXMgYmVmb3JlIFdvcmQgOTcgb3Igbm90LjxCUj4KPEJS
+PgpPdGhlciBwb3B1bGFyIGZvcm1hdHMgaGF2ZSBhbHNvIGdvbmUgdGhyb3VnaCBpbXByb3ZlbWVu
+dHMsIHRob3VnaCBjb21wYXRpYmlsaXR5IGlzc3VlcyBhcmUgYmFyZWx5IGhlYXJkLiBJIHJlbWVt
+YmVyIHdoZW4gSSBvcGVuZWQgYSBQREYgZmlsZSBjcmVhdGVkIGJ5IG5ld2VyIHZlcnNpb24gb2Yg
+UGhvdG9zaG9wIHdpdGggYW4gb2xkZXIgdmVyc2lvbiBwcm9ncmFtbWUsIHRoZSBmaWxlIHdhcyBw
+cm9wZXJseSBvcGVuZWQgZGVzcGl0ZSB0aGUgbWVzc2FnZSAnU29tZSBpbmZvcm1hdGlvbiB3aWxs
+IGxvc2UsIGV0YycuIFRoYXQncyB3aHkgSSBzYXkgdGhlIGNvbXBhYmlsaXR5IGlzc3VlIGlzIHBy
+b2JhYmx5IGEgTVMgc3BlY2lmaWMgaXNzdWUuPEJSPgo8QlI+CkkgdGhpbmssIHRoZSBsaWZlIG9m
+IGEgcG9wdWxhciBmaWxlIGZvcm1hdCwgZS5nLiBqcGcgb3IgbXBnLCBpcyByYXRoZXIgbG9uZy4g
+VGhlcmUgd2FzIGEgZGViYXRlIG92ZXIgY29tcGF0aWJpbGl0eSB3aGVuIE1TIHdhcyBwbGFubmlu
+ZyBpdHMgMm5kIGdlbmVyYXRpb24gR1VJLCBpLmUuIFdpbiA5NSwgdG8gc3VjY2VlZCBXaW4gMy54
+LiBUaGV5IHNlZW0gdG8gaGF2ZSBjb21lIHRvIGFuIGFncmVlbWVudCBhYm91dCBkb3dud2FyZC1j
+b21wYXRpYmlsaXR5LCBhcyBzdGF0ZWQuIFRoYXQncyB3aHkgbWFueSAyMC15ciBvbGQgZm9ybWF0
+cyBhcmUgc3RpbGwgaW4gdXNlIGFuZCAyMC15ciBvbGQgZmlsZXMgb2YgdGhvc2UgZm9ybWF0cyBh
+cmUgc3RpbGwgcmVhZGFibGUuIEZvciBleGFtcGxlLCBKUEVHIGZvcm1hdCB3YXMgdGhlcmUgd2hl
+biBJIHdhcyBpbiBoaWdoIHNjaG9vbC4gTm93IEkgaGF2ZSBubyBkaWZmaWN1bHR5IHJlYWRpbmcg
+dGhvc2UgYXJjaGFpYyBmaWxlcyBvbiB0aGlzIGNvbXB1dGVyLCB0aG91Z2ggdGhlaXIgNjVrLWNv
+bG91ciBwYWxldHRlIHZpb2xhdGVzIG15IGV5ZXMuPEJSPgo8QlI+Ckkgd2lzaCBJIGNhbiBzYXkg
+c29tZXRoaW5nIGFib3V0IFhNTCwgd2hpY2ggaXMgd2F5IHRvbyBtb2Rlcm4gZm9yIGEgaGlzdG9y
+aWFuLCB1bSwgcG9saXRpY2FsbHkuIFBlcnNvbmFsbHkgSSBsaWtlIGRhdGFiYXNlcyBhbmQgLnR4
+dCBmb3JtYXQgbW9yZSB0aGFuIG5ldyBzdGFuZGFyZHMsIG9ubHkgYmVjYXVzZSBJIGFtIHVzZWQg
+dG8gdGhlbS48QlI+CjxCUj4KU28gZmFyIENEIGFuZCBEVkQgYXJlIHRoZSBtb3N0IHJlbGlhYmxl
+IG1lZGlhLiBUaGVpciBsaWZlIHNwYW4gaXMgbG9uZ2VyIHRoYW4gMTUgeWVhcnMgYXMgbG9uZyBh
+cyB0aGV5IGFyZSB0cmVhdGVkIHRlbmRlcmx5LiBIYXJkIERyaXZlIGlzIGVmZmljaWVudCB3aGVu
+IGl0IGlzIGNvb2wuIEl0LCBob3dldmVyLCBjYW4gdHVybiBpbnRvIGEgbmlnaHRtYXJlIHdoZW4g
+aXQgaXMgbmF1Z2h0eS4gVGhhdCdzIHdoeSBJVCBleHBlcnRzIHN1Z2dlc3QgZXZlcnlib2R5IHRv
+IG1ha2UgYmFja3VwIENEL0RWRHMgb2YgdGhlIEhELiBPbGRlciBoYXJkZGlza3MgYXJlIHVzZWFi
+bGUgYXMgbG9uZyBhcyB0aGV5IGFyZSB3aXRoIElERSBpbnRlcmZhY2UgYW5kIE5PVCBicm9rZW4u
+IFRoZSBhdmVyYWdlIGxpZmUgc3BhbiBvZiB0aGUgb2xkZXIgZ2VuZXJhdGlvbiBIRCwgc2F5cywg
+MjBHLCBpcyBsaWtlIDUgeWVhcnMuIERvbid0IHNoYWtlIGl0IGFuZCBkb24ndCBmZWVkIGl0IHdh
+dGVyLCBpdCBtYXkgbGl2ZSBsb25nZXIuIEl0IGlzIGhhcmQgdG8gdGVsbCBob3cgbG9uZyBJREUg
+aW50ZXJmYWNlIHdpbGwgc3Vydml2ZSB0aG91Z2gsIGFzIFNBVEEgaXMgZ2V0dGluZyBwb3B1bGFy
+LiBaSVAgZHJpdmVzISBJdCB3YXMgb3V0IGluIHRoZSBtYXJrZXQgZm9yIG1heWJlIGEgaGFsZiB5
+ZWFyPyBJdCB3YXMgZ29uZSBpbW1lZGlhdGVseSB3aGVuIENELVIgd2FzIGNvbW1lcmNpYWxpc2Vk
+LiBNYWduZXRpYyB0YXBlcyB3ZXJlIHRlcm1pbmF0ZWQgYnkgQ0QtUiwgdG9vLjxCUj4KPEJSPgpX
+aGF0ZXZlciBtZWRpYSB5b3UgdXNlLCByZWd1bGFyIGJhY2t1cCBpcyB0aGUgcnVsZS4gSG9wZSB0
+aGlzIGhlbHBzLjxCUj4KPEJSPgo8QlI+CkJlc3Qgd2lzaGVzPEJSPgo8QlI+Cj09PT09PT09PT09
+PT09PT09PT09PT09PT09PT08QlI+CjxCUj4KR2VyYWxkIExpdTxCUj4KPEJSPgpQaEQgc3R1ZGVu
+dCBpbiBtZWRpZXZhbCBoaXN0b3J5LCBEdXJoYW08QlI+Cldvcmtpbmcgb24gbGF0ZSBtZWRpZXZh
+bCBtYW5vcmlhbCBtYW5hZ2VtZW50IGFuZCBmYXJtIHdvcmtlcnMuPEJSPgpQZXJzb25hbCB3ZWJz
+aXRlIDxBIEhSRUY9Imh0dHA6Ly93d3cuZHVyaGFtLmFjLnVrL2dlcmFsZC5saXUvIj5odHRwOi8v
+d3d3LmR1cmhhbS5hYy51ay9nZXJhbGQubGl1LzwvQT48QlI+CjxCUj4KPEJSPgo8QlI+Ci0tLS0t
+T3JpZ2luYWwgTWVzc2FnZS0tLS0tPEJSPgpGcm9tOiBkbS1sLWJvdW5jZXNAdWxldGguY2Egb24g
+YmVoYWxmIG9mIERhbmllbCBNb25kZWthcjxCUj4KU2VudDogVGh1IDI5LzA3LzIwMTAgMDA6MTI8
+QlI+ClRvOiBkbS1sQHVsZXRoLmNhPEJSPgpTdWJqZWN0OiBbZG0tbF0gUXVlc3Rpb24gYWJvdXQg
+cHJlc2VydmF0aW9uIG9mIGRpZ2l0YWwgY29udGVudDxCUj4KPEJSPgpEZWFyIERpZ2l0YWwgTWVk
+aWV2YWxpc3RzIGFuZCBURUkgbWVtYmVycyw8QlI+CjxCUj4KPEJSPgo8QlI+CkkgaGF2ZSBhIHF1
+ZXN0aW9uIGFib3V0IHByZXNlcnZhdGlvbiBvZiBkaWdpdGFsIGNvbnRlbnQgZXNwZWNpYWxseSBt
+ZWRpZXZhbDxCUj4KbWFudXNjcmlwdHMuIEkgYW0gd3JpdGluZyBhIHNtYWxsIGFydGljbGUgb24g
+dGhlIHRvcGljIGFuZCBJIGhhdmUgY29uc3VsdGVkPEJSPgphIGxvdCBzb3VyY2VzIChwYXBlcnMs
+IGhhbmRib29rcykgYnV0IG1vc3Qgb2YgdGhlbSBkbyBub3Qgc2F5IGFueXRoaW5nIGFib3V0PEJS
+Pgp0aGUgJnF1b3Q7bGlmZSBzcGFuJnF1b3Q7IG9mIHRoZSBkYXRhIGluIHNwZWNpZmljIGZvcm1h
+dHMuIFRvIGNsYXJpZnkgdGhpcyAtIGEgLmRvYzxCUj4KZmlsZSBjcmF0ZWQgaW4gMTk5NS4gV2ls
+bCBiZSBtb3N0IGxpa2VseSB1bnJlYWRhYmxlJm5ic3A7IGluIDIwMTAuJm5ic3A7IFdoYXQgYWJv
+dXQ8QlI+Cm90aGVyIGZvcm1hdHM/IEhhcyBhbnlvbmUgZG9uZSBzb21lIHJlc2VhcmNoIG9uICZx
+dW90O2xpZmUgc3BhbiZxdW90OyBvZiBhIHNwZWNpZmljPEJSPgp2ZXJzaW9uIG9mIGRpZ2l0YWwg
+Zm9ybWF0cyBhbmQgd2hlbiBpdCBiZWNvbWVzIGNsZWFyIHRoYXQgdGhlIG5ldyB2ZXJzaW9uPEJS
+PgphbmQgdGhlIG9sZCBvbmUgYXJlIG5vdCBjb21wYXRpYmxlIGFueW1vcmU/IEFuZCBoZXJlIEkg
+YW0gdGFsa2luZyBhYm91dCBwZGYsPEJSPgpydGYsIGRvYyAoYW5kIGFsbCBvZmZpY2UgZmlsZXMp
+LCBkanZ1LCB0aWZmLCBqcGcgLCBtcGcgZXRjLiAodGV4dHMgYW5kPEJSPgppbWFnZXMgZXNwZWNp
+YWxseSk8QlI+CjxCUj4KSW4gbXkgd29yayBJIGFtIGFsc28gbWFraW5nIGEgc21hbGwgcmVtYXJr
+IG9uIFhNTCBhcyBhIGRhdGEgY29udGFpbmVyIHNpbmNlPEJSPgppdCBpcywgaW4gbXkgb3Bpbmlv
+biwgdGhlIGJlc3Qgd2F5IHRvIGdvIGFuZCB0aGUgc3RhbmRhcmQgd2lsbCBzdXJlbHkgYmU8QlI+
+CmFyb3VuZCBmb3IgeWVhcnMuIEJ1dCB3aGF0IGtpbmQgb2Ygc3RlcHMgZG8geW91IG1ha2UgdG8g
+ZW5zdXJlIHRoZTxCUj4KcHJlc2VydmF0aW9uIG9mIGRvY3VtZW50cyB0aGF0IGhhdmUgYmVlbiBl
+bmNvZGVkIGluIHhtbDxCUj4KPEJSPgpJIHdvdWxkIGFsc28gbGlrZSB0byBoZWFyIGlmIHRoZXJl
+IGFyZSBvcHBvc2luZyB2aWV3cyBvbiB4bWwuPEJSPgo8QlI+CkkgYWxzbyBoYXZlIHRoZSBzYW1l
+IHF1ZXN0aW9uIGFib3V0IHRoZSBtZWRpYS4gSSBmb3VuZCBzb21lIHJlc2VhcmNoIGFib3V0PEJS
+Pgp0aGUgbG9uZ2V2aXR5IG9mIENEcyBhbmQgRFZEcyBidXQgSSBhbSBhbHNvIGludGVyZXN0ZWQg
+aW4gb3RoZXIgbWVkaWEgbGlrZTxCUj4Kb2xkZXIgaGFyZCBkaXNrcywgemlwIGRyaXZlcyBhbmQg
+bWFnbmV0aWMgbWVkaWEuPEJSPgo8QlI+CkkgYW0gc29ycnkgdG8gYm90aGVyIHlvdSB3aXRoIHRo
+aXMsIGJ1dCBJIGNhbiB1c2UgYW55IGhlbHAgSSBjYW4gZ2V0PEJSPgo8QlI+ClRoYW5rIHlvdSBp
+biBhZHZhbmNlPEJSPgo8QlI+CkRhbmllbCBNb25kZWthcjxCUj4KPEJSPgo8QlI+CjxCUj4KPEJS
+Pgo8QlI+CjxCUj4KPC9GT05UPgo8L1A+Cgo8L0JPRFk+CjwvSFRNTD4=

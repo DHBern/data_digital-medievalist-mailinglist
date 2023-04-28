@@ -1,0 +1,13 @@
+Subject: Re: [dm-l] Mac helpMac users don't need this, but about a year ago I made a little 
+command-line utility called "fontswith," which searches the fonts on a 
+system for one or more glyphs and reports which ones the system has, e.g.me> fontswith Amacron
+me> fontswith U+FB01 eacuteA search can take a minute or so, but fontswith can also build an index 
+so that searches can usually be done in about a second. You need Python 
+2.3 or higher and a reasonably recent build of FontForge (with its 
+Python extensions). It's here:http://faculty.virginia.edu/OldEnglish/fontswith/A reasonably decent little utility for Linux.PeterOn 2/6/11 4:18 PM, Simpson, Grant Leyton wrote:
+> Sure, that would tell you if a font had a glyph at that code point, but
+> what Character Viewer does is tell you, for a given code point, which
+> fonts have that glyph.
+>
+>
+>

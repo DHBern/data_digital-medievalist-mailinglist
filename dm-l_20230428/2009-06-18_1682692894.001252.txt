@@ -1,0 +1,17 @@
+Subject: [dm-l] DM News Server KudosJames is really to be congratulated for fixing up the DM newserver,=20
+replacing the buggy, handrolled one I did as an exercise in learning PHP.As James mentions in the email, this new server allows posters to a)=20
+push their messages to the list; b) have a record that will be indexed=20
+by the search engines, and c) allow distribution to people who subscribe=20
+to the server, even if they are not members of the list--all this using=20
+a single form.Although the server is powered by wordpress, you can access it from the=20
+digitalmedievalist.org site, by clicking on the news tab. Every posting=20
+to dm-l also contains a link to the server in the information found at=20
+the bottom of the page.Thanks again, James!--=20
+Daniel Paul O'Donnell
+Associate Professor of English
+University of LethbridgeChair and CEO, Text Encoding Initiative (http://www.tei-c.org/)
+Founding Director, Digital Medievalist Project (http://www.digitalmedievalist=
+.org/)
+Chair, Electronic Editions Advisory Board, Medieval Academy of AmericaVox: +1 403 329-2377
+Fax: +1 403 382-7191 (non-confidental)
+Home Page: http://people.uleth.ca/~daniel.odonnell/

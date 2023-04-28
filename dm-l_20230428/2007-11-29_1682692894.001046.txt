@@ -1,0 +1,119 @@
+Subject: Re: [dm-l] Bibliographical software for medievalistsThanks for all the replies. After I read Laurent's post yesterday I 
+looked at the Bookends format manager and was impressed by the 
+flexibility--not enough, to be sure, but a start. But this morning 
+Bookends decided it could not hook up my reference "Cunningham, 1966" to 
+the CCSL edition of Prudentius (though it had done so many times 
+before): this happens to me quite a bit, and the workaround is to unscan 
+the whole document (essentially unlinking from the database) and scan 
+again (regenerating all the citations and bib entries). After that it 
+decided for unknown reasons that the best citation for a number of works 
+which it had rendered correctly before was a space--so the in-text 
+reference looks like "( 85)." I'm sure there's a workaround for this 
+too, but I have no idea what it is, and I'm of the school that holds 
+that software should Just Work without a lot of kerfuffle. BibTeX, 
+though inadequate in several ways (I'll spare everyone the rant), Just 
+Worked. I won't go on with a tool that puts me through that kind of thing.I'll have a look at zotero, jabref and refdb next--but I might end up 
+with biblatex in the end. Certainly for anyone committed to the TeX 
+family of tools it looks terrific.PeterO'Donnell, Dan wrote:
+>
+> I'm a developer on refdb (http://refdb.sourceforge.net/), which is not 
+> aimed at medievalists, per se, but is powerful and outputs in a 
+> variety of formats. "Cite-as-you-write" is still a bit weak (though it 
+> works well in XML). Because the outputs are XSL determined, problems 
+> like you discuss with eds. and commas are easily fixable.
+>
+> It is a server based program.
+>
+>
+> -----Original Message-----
+_redacted_(a)uleth.ca on behalf of Toufexis Notis
+> Sent: Wed 28/11/2007 13:53
+> To: dm-l, MailList
+> Subject: Re: [dm-l] Bibliographical software for medievalists
+>
+> Ever tried zotero? Available at http://www.zotero.org/ it lives as a 
+> Firefox extension. It's note as versatile as a dedicated 
+> bibliographical software but can do more then that and can prove 
+> valuable as an overall research tool.
+>
+> I am also using jabref (http://jabref.sourceforge.net/), written in 
+> Java, open source and BibTex based. It's not exactly user friendly but 
+> quite powerful.
+>
+> Best,
+> Notis
+>
+>
+> On 28 Nov 2007, at 20:42, Peter Baker wrote:
+>
+> > I'm wondering what bibliographical software people on this list are 
+> > using. Last time I needed such software I used BibTeX, despite 
+> > certain significant lacks. Now BibLaTeX looks very good. But with my 
+> > last venture my publisher got kinda cranky about getting files in 
+> > LaTeX, so I'm hesitant to go that route again.
+> >
+> > I've been using the Mellel word processor because of its nice 
+> > typography, sensibly structured files and pleasant interface. I got 
+> > Bookends to go with it for bibliographical management, but I find it 
+> > shockingly bad--introducing stray commas in bib entries and doing 
+> > crazy stuff like rendering authors' names as "Smith, John" but 
+> > editors' names (when there is no author) as "John Smith." Unless I 
+> > just haven't figured out how to use it, I think it quite unusable.
+> >
+> > So: what are the tech-savvy people on this list doing about 
+> > bibliographical management? As medievalists we need software that 
+> > handles edited books (with or without authors' names) gracefully, 
+> > can handle translations, and can help with the complicated 
+> > bibliographical situations we sometimes face in series like CCSL. It 
+> > would be nice if it could produce a two-part bibliography ("primary 
+> > works"/"secondary works"). For my own purposes, it would be nice if 
+> > it ran on both the Mac and Linux, but I'd settle for Mac-only 
+> > software if it would just work properly.
+> >
+> > Peter Baker
+> >
+> >
+> > _______________________________________________
+> > Digital Medievalist Project
+> > Homepage: http://www.digitalmedievalist.org
+> > Journal (Spring 2005-): http://www.digitalmedievalist.org/journal.cfm
+> > RSS (announcements) server: 
+> http://www.digitalmedievalist.org/rss/rss2.cfm
+> > Wiki: http://sql.uleth.ca/dmorgwiki/index.php
+> > Change membership options: 
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+> > Submit RSS announcement: http://www.digitalmedievalist.org/newitem.cfm
+_redacted_(a)uleth.ca
+> > dm-l mailing list
+_redacted_(a)uleth.ca
+> > http://listserv.uleth.ca/mailman/listinfo/dm-l
+>
+>
+> _______________________________________________
+> Digital Medievalist Project
+> Homepage: http://www.digitalmedievalist.org
+> Journal (Spring 2005-): http://www.digitalmedievalist.org/journal.cfm
+> RSS (announcements) server: http://www.digitalmedievalist.org/rss/rss2.cfm
+> Wiki: http://sql.uleth.ca/dmorgwiki/index.php
+> Change membership options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+> Submit RSS announcement: http://www.digitalmedievalist.org/newitem.cfm
+_redacted_(a)uleth.ca
+> dm-l mailing list
+_redacted_(a)uleth.ca
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+>
+> ------------------------------------------------------------------------
+>
+> _______________________________________________
+> Digital Medievalist Project
+> Homepage: http://www.digitalmedievalist.org
+> Journal (Spring 2005-): http://www.digitalmedievalist.org/journal.cfm
+> RSS (announcements) server: http://www.digitalmedievalist.org/rss/rss2.cfm
+> Wiki: http://sql.uleth.ca/dmorgwiki/index.php
+> Change membership options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+> Submit RSS announcement: http://www.digitalmedievalist.org/newitem.cfm
+_redacted_(a)uleth.ca
+> dm-l mailing list
+_redacted_(a)uleth.ca
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+>   

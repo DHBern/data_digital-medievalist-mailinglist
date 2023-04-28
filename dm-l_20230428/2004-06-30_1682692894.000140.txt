@@ -1,0 +1,63 @@
+Subject: [dm-l] The time has come to make some <choice>s
+I find both positions (James Cummings, Martin Holmes) very close to each
+other and to my own point of view. Would you agree if I describe them as
+some sort of modern textual materialism, where the 'text' always is
+something which is 'medialised' - which is an (digital) document rather
+than an abstract idea? And on the other hand we would have 'data'
+containing all the representational (and interpretative) information we
+have about a 'text' - I would call this a 'transmedial' text. As I would
+call the new media revolution a process of 'transmedialisation'.patrick[...]>> At 02:41 PM 29/06/2004, you wrote:
+>> > Well, there could be a third area of discussion: What is the status of an
+>> > electronic text and what does the borderline between "text" and "markup"
+>> > really mean (for this case)? The problem here could be, that - if you
+>> > believe in the ontological discrimination of "text" and "markup" - you
+seem
+>> > to double the portion of "text" in question. But this is no question of
+>> > practical relevance and only leads to a philosophical sophistry which
+maybe
+>> > should better be left to an even more specialised debate (and my
+>> > forthcoming PhD-thesis ;-)) ...
+>> 
+>> This is a fascinating topic. I'd argue that markup and its content is just
+>> data; "texts" are generated from markup using specific transformations for
+>> specific audiences or purposes. Given this:
+>> 
+>> <corr>Martin</corr><sic>Marnit</sic>
+>> 
+>> one "text" might show "Martin" with a mouseover popup indicating the
+>> misspelling in the original source, and another might show "Marnit" with a
+>> mouseover explaining the assumed correct form. The differences embody
+>> editorial approaches and purposes, and it's these that give birth to texts.
+>> The markup merely strives after completeness and transparency.
+>
+>
+>There is the feeling that many have that once you strip away the markup, 
+>you should be left with a bare version of 'the text'.  They argue that 
+>all such alternatives should be stored in attributes (even with the
+>aforementioned problems) in order to separate the interpretation from 
+>the text.  But the problems with this are legion.  Aside from the
+>obvious need for markup inside these interpretative readings, the 
+>choice of markup itself is, of course, an interpretation of structure 
+>that they are imposing on the text. (That way lies overlapping 
+>hierarchy discussion again...)  Moreover, the same process of 
+>stripping away the markup to reveal 'the text' is still simplistically 
+>possible, it is just that the act of 'stripping' in this case doesn't 
+>mean 'remove the tags' but instead process them so that 'the text' 
+>is the result.  Whether 'the text' is with corrections made,
+>abbreviations expanded, spelling regularised, or any of the other 
+>possible applications of this <choice> type of encoding is a 
+>decision that is made at the point of processing.  But, I'm sure 
+>you know all this and I'm preaching to the converted. ;-)
+>
+>-James
+>___________________________________________________________________
+Universität zu Köln
+Historisch-Kulturwissenschaftliche Informationsverarbeitung
+Albertus-Magnus-Platz
+50923 Koeln
+http://www.hki.uni-koeln.de/Privat: Häuschensweg 2a
+50827 Köln
+0049 - (0)221 - 2805695
+_redacted_(a)uni-koeln.de
+http://www.uni-koeln.de/~ahz26/
+--===============7891831615295978281==--

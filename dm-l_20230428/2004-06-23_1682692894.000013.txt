@@ -1,0 +1,90 @@
+Subject: Re: [dm-l] Re: Manuscript-transcription correlationTransforming text from one presentation to another is a key rationale 
+for XSLT.The problem Peter is mentioning is a core one in structural markup 
+languages, though it always seems trivial at first glance. That is to 
+say, you can't markup the same stretch of text using two competing 
+hierarchies.  To give an example. Imagine a print text like the 
+following, where dotted lines are page boundaries:Chapter 1
+Blah blah blah...
+...blah blah blah.
+1
+--------------------
+Blah blah blah..
+...blah blah blah.Chapter 2
+Blah blah blah...
+...blah blah blah
+2
+---------------------
+blah blah blah etc.
+3In marking this up, I have two structural choices: I can treat the 
+textual division (chapter, paragraph, sentences, etc.) as my major 
+hierarchy or I can treat the physical layout of the document (page 
+divisions) as my hierarchy. These would produce the following markup:
+(textual division as hierarchy)
+<chapter n="1">
+<p>Blah...<pageBreak n="1"/> blah...</p>
+</chapter>
+<chapter n="2">
+<p>Blah...<pageBreak n="2"/> blah...</p>
+</chapter>or
+(Layout as structure: this is unsual; I'm guessing this is how it might go)
+<page n="1">
+<titleBegin />Chapter 1
+<paragraphBegin />Blah blah
+</page>
+<page n="2">
+etc.The first option is the more usual structure. Peter's point is that this 
+makes it difficult to tie page images to running text, since page images 
+seem naturally aligned to the second encoding. Using XSLT, it should be 
+possible to transform encoding 1 to encoding 2, however, since you could 
+use the page break tags as begin and end tags. The main problem comes 
+with all the other elements that are rhetorical rather than layout 
+based: in going from encoding one to encoding two, since paragraphs 
+extent across page boundaries, you can't keep them as containing 
+elements; same would be true of sentences, and, if words are allowed to 
+hyphenate across page boundaries, words as well. As we've already heard, 
+there are several proposals for getting around the problem which can be 
+suprisingly difficult.-dan
+Martin K. Foys wrote:>> At 08:49 AM 23/06/2004, Peter Robinson wrote:
+>> >If you can do it (and I have not yet seen this done,
+>> >though I have heard lengthy explanations of how it *might* be done) 
+>> >you can
+>> >only do it with great difficulty with the standard tools.  The 
+>> >problem here
+>> >is our old bugbear overlapping hierarchies, and XSLT etc just don't 
+>> >have any
+>> >easy answer to this -- and maybe no reliable answer at all.
+>>
+>
+> I have not worked with XSLT, so this might seem like a naive question, 
+> but is it possible to write a bridge program to copy text from a 
+> specific starting tag to an ending tag, create a new file for just 
+> that text, and then display that file next to the MS image?
+>  ~ Martin Foys
+>
+> ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+>
+> Martin K. Foys
+> Assistant Professor
+> Department of English
+> Hood College
+> Frederick, MD 21701
+>
+> vox: 301~696~3740
+> fax: 301~696~3586
+_redacted_(a)hood.edu
+>
+> Bayeux Tapestry Digital Edition: http://www.sd-editions.com
+>
+> _______________________________________________
+> dm-l mailing list
+_redacted_(a)uleth.ca
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+-- 
+Daniel Paul O'Donnell, PhD
+Associate Professor of English
+University of Lethbridge
+Lethbridge AB T1K 3M4
+Tel. (403) 329-2377
+Fax. (403) 382-7191
+_redacted_(a)uleth.ca>
+Home Page <http://people.uleth.ca/~daniel.odonnell/>

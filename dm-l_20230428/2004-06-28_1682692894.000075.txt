@@ -1,0 +1,32 @@
+Subject: Re: [dm-l] MS-Internet Explorer 6 and standards based computing
+I've been following this discussion on browser standards 
+with interest, but one thought keeps nagging at me.One of the mentioned benefits is this browser or that 
+browser's XSLT parser and its standards compliance.  I think 
+that we all agree the standard compliance and also the 
+promotion of open standards are good things. The little 
+nagging thought comes with this discussion of XML transformation 
+in the browser.  Who actually requires this of their users?
+Many users have extremely out of date browsers which will 
+display HTML with (sometimes if you are lucky) a bit of CSS. 
+Many don't have browsers that have XSLT parsers built in. 
+So it really isn't an issue, to me, because any site I 
+design will always try to serve (X)HTML as a bare minimum.[1] 
+The transformations of XML to HTML via XSLT may be done 
+on the fly, but they certainly won't be done in the user's 
+browser.  I don't trust users to have any particular browser.
+So if the transformations (with my preference with apache's 
+cocoon) are done on the server, then the XSLT parser of the 
+browser doesn't really matter to me that much.  Now, it 
+is a shame that all browsers don't follow the same standard 
+in the same way (esp. with regard to CSS), but I don't see 
+that there is much I can do about that, only follow the 
+spec. and hope the browsers finally sort things out.[2]-James[1] I hasten to add that I didn't design the Oxford Text 
+Archive's website, and that we will be redesigning it to 
+be entirely open standards compliant, once we have finished 
+totally reorganising the back end and our matching workflow.
+[2] Ok, I use Firefox, and yes I could donate time and energy 
+to the mozilla project to help it, but I don't really have 
+any spare reserves of either.---
+Dr James Cummings, Oxford Text Archive, University of Oxford
+James dot Cummings at ota dot ahds dot ac dot uk
+--===============7565726616417544990==--

@@ -1,0 +1,9 @@
+Subject: Re: [dm-l] Hacks: an example.
+On Monday, June 28, 2004, at 10:34 AM, Daniel O'Donnell wrote:>  I am beginning to wonder if it is not better, however, to design a 
+> sheet to the standard, and then allow users of MSIE to choose a 
+> simpler sheet if some effect doesn't work well in their browser. 
+> Comments?i'm all in favor of user choice, as long as it doesn't get confusing. 
+just remember that most users will use whatever you've got set as the 
+default. i would just rather see user choice for the sake of the users 
+than users having the choice of fixing their browser's poor 
+implementation of standards.j

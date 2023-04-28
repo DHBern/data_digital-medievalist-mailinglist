@@ -1,0 +1,42 @@
+Subject: [dm-l] TEI by example: CALL FOR EXAMPLES[apologies for cross-posting]The Centre for Scholarly Editing and Document Studies (CTB)
+<http://www.kantl.be/ctb/> of the Royal Academy of Dutch Language and
+Literature, the Centre for Computing in the Humanities (CCH)
+<http://www.kcl.ac.uk/humanities/cch/> of King's College London, and the
+School for Library, Archive, and Information Studies (SLAIS)
+<http://www.slais.ucl.ac.uk/> of University College London, are involved
+in the joint project "TEI by Example".Featuring freely available online tutorials walking individuals through
+the different stages in marking up a document in TEI (Text Encoding
+Initiative <http://www.tei-c.org>), these online tutorials will provide
+examples for users of all levels. Examples will be provided of different
+document types, with varying degrees in the granularity of markup, to
+provide a useful teaching and reference aid for those involved in the
+marking up of texts.Eight tutorial modules will address a wide range of issues in text
+encoding with TEI:
+1. Introduction to text encoding with TEI
+2. The TEI header
+3. Prose
+4. Poetry
+5. Drama
+6. Manuscript Transcription
+7. Scholarly Editing
+8. Customizing TEI, ODD, RomaTo build as much as possible on available sources of existing practice
+in the field and to be able to present a broad view on the wide variety
+of encoding practices, we warmly welcome you to contribute TEI-encoded
+examples (either fragments or complete texts) that are applicable to any
+of these subjects. Examples are preferably encoded as TEI P5 XML texts,
+but also texts encoded in TEI P4 XML, other XML formats, or other
+(documented) electronic formats are of interest. Even examples of
+less-ideal encoding practices are welcome, since the idea of learning by
+error is a valuable didactic principle. Please do provide some
+indication of the errors or controversies in such examples when
+appropriate. After selection and editing, the example fragments will be
+incorporated in the freely available online deliverables, which will be
+issued under a Creative Commons Attribution Non-Commercial No
+Derivatives licence (see
+<http://creativecommons.org/licenses/by-nc-nd/2.5/>). All contributors
+will be credited.The examples can be sent (preferably compressed in .zip format and with
+an indication of applicability and credits due) to
+_redacted_(a)kantl.be. Please do not hesitate to contact us for any
+inquiries regarding copyright issues or any more general issues.Kind regards,The project team:Ron Van den Branden,
+Melissa Terras,
+Edward Vanhoutte

@@ -1,0 +1,109 @@
+Subject: Re: Fwd: [dm-l] Jan 2013: 256 BAV MSs accessible on-lineTaking Marjorie's suggestion one step further, the BnF is also supporting
+persistent links to details of images for embedding - even supplying the
+code.  I haven't seen this advertised broadly either, but:1. From the zoom view of a folio
+1a. Zoom to the desired resolution
+2. Click on the "Select a part of the image" button in the upper right-hand
+part of the screen
+3. Highlight the part of the image you wish to save
+4. Copy the embed code from the pop-up box
+5. Example:
+<a href=3D'http://gallica.bnf.fr/ark:/12148/btv1b8449032x/f9.item'
+title=3D'Lien vers le document' target=3D'_blank'><img src=3D'
+http://gallica.bnf.fr/proxy?method=3DR&ark=3Dbtv1b8449032x.f9&l=3D4&r=3D1464,=
+204,194,187'
+alt=3D'Po=C3=A9sies [de GUILLAUME DE MACHAUT]'/><br/>Po=C3=A9sies [de GUILLAU=
+ME DE
+MACHAUT]<br/> Source: gallica.bnf.fr</a>
+5a. Register this snippet if you want with Gallica
+6. Embed this in your blog or other site
+7. Or simply use the img src URL to show friends the detail you're
+interested in:
+http://gallica.bnf.fr/proxy?method=3DR&ark=3Dbtv1b8449032x.f9&l=3D4&r=3D1464,=
+204,194,187Best, Ben
+On Mon, Feb 4, 2013 at 2:02 PM, Marjorie Burghart <
+_redacted_(a)ehess.fr> wrote:> Talking about baby steps, things are really moving in the right direction
+> at the French national library (BnF): few people have noticed, but now
+> images from the Gallica portal are royalty-free for any non-commercial use.
+> I don' think the news is very widespread, but just go on Gallica, look for
+> instance for a digitized manuscript (example "Latin 12584"), choose any
+> folio and click on "t=C3=A9l=C3=A9charger / imprimer" (download / print), a=
+nd you'll
+> find a link to the non-commercial and commercial use policies.
+> Best regards, Marjorie
+>
+> Digital Medievalist --  http://www.digitalmedievalist.org/
+> Journal: http://www.digitalmedievalist.org/journal/
+> Journal Editors: editors _AT_ digitalmedievalist.org
+> News: http://www.digitalmedievalist.org/news/
+> Wiki: http://www.digitalmedievalist.org/wiki/
+> Twitter: http://twitter.com/digitalmedieval
+> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+_redacted_(a)uleth.ca
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>PGRpdiBkaXI9Imx0ciI+PGRpdj48ZGl2PjxkaXY+PGRpdj48ZGl2PjxkaXY+PGRpdj48ZGl2PlRh
+a2luZyBNYXJqb3JpZSYjMzk7cyBzdWdnZXN0aW9uIG9uZQogc3RlcCBmdXJ0aGVyLCB0aGUgQm5G
+IGlzIGFsc28gc3VwcG9ydGluZyBwZXJzaXN0ZW50IGxpbmtzIHRvIGRldGFpbHMgb2YKIGltYWdl
+cyBmb3IgZW1iZWRkaW5nIC0gZXZlbiBzdXBwbHlpbmcgdGhlIGNvZGUuoCBJIGhhdmVuJiMzOTt0
+IHNlZW4gdGhpcyAKYWR2ZXJ0aXNlZCBicm9hZGx5IGVpdGhlciwgYnV0OiA8YnI+Cgo8YnI+PC9k
+aXY+MS4gRnJvbSB0aGUgem9vbSB2aWV3IG9mIGEgZm9saW88YnI+PC9kaXY+PGRpdj4xYS4gWm9v
+bSB0byB0aGUgZGVzaXJlZCByZXNvbHV0aW9uPGJyPjwvZGl2PjIuIENsaWNrIG9uIHRoZSAmcXVv
+dDtTZWxlY3QgYSBwYXJ0IG9mIHRoZSBpbWFnZSZxdW90OyBidXR0b24gaW4gdGhlIHVwcGVyIHJp
+Z2h0LWhhbmQgcGFydCBvZiB0aGUgc2NyZWVuPGJyPjwvZGl2PjMuIEhpZ2hsaWdodCB0aGUgcGFy
+dCBvZiB0aGUgaW1hZ2UgeW91IHdpc2ggdG8gc2F2ZTxicj4KCgoKPC9kaXY+NC4gQ29weSB0aGUg
+ZW1iZWQgY29kZSBmcm9tIHRoZSBwb3AtdXAgYm94PGJyPjwvZGl2PjUuIEV4YW1wbGU6PGJyPiZs
+dDthIGhyZWY9JiMzOTs8YSBocmVmPSJodHRwOi8vZ2FsbGljYS5ibmYuZnIvYXJrOi8xMjE0OC9i
+dHYxYjg0NDkwMzJ4L2Y5Lml0ZW0iIHRhcmdldD0iX2JsYW5rIj5odHRwOi8vZ2FsbGljYS5ibmYu
+ZnIvYXJrOi8xMjE0OC9idHYxYjg0NDkwMzJ4L2Y5Lml0ZW08L2E+JiMzOTsgdGl0bGU9JiMzOTtM
+aWVuIHZlcnMgbGUgZG9jdW1lbnQmIzM5OyB0YXJnZXQ9JiMzOTtfYmxhbmsmIzM5OyZndDsmbHQ7
+aW1nIHNyYz0mIzM5OzxhIGhyZWY9Imh0dHA6Ly9nYWxsaWNhLmJuZi5mci9wcm94eT9tZXRob2Q9
+UiZhbXA7YXJrPWJ0djFiODQ0OTAzMnguZjkmYW1wO2w9NCZhbXA7cj0xNDY0LDIwNCwxOTQsMTg3
+IiB0YXJnZXQ9Il9ibGFuayI+aHR0cDovL2dhbGxpY2EuYm5mLmZyL3Byb3h5P21ldGhvZD1SJmFt
+cDthcms9YnR2MWI4NDQ5MDMyeC5mOSZhbXA7bD00JmFtcDtyPTE0NjQsMjA0LDE5NCwxODc8L2E+
+JiMzOTsgYWx0PSYjMzk7UG/pc2llcyBbZGUgR1VJTExBVU1FIERFIE1BQ0hBVVRdJiMzOTsvJmd0
+OyZsdDtici8mZ3Q7UG/pc2llcyBbZGUgR1VJTExBVU1FIERFIE1BQ0hBVVRdJmx0O2JyLyZndDsg
+U291cmNlOiA8YSBocmVmPSJodHRwOi8vZ2FsbGljYS5ibmYuZnIiIHRhcmdldD0iX2JsYW5rIj5n
+YWxsaWNhLmJuZi5mcjwvYT4mbHQ7L2EmZ3Q7PGJyPgoKPC9kaXY+PGRpdj41YS4gUmVnaXN0ZXIg
+dGhpcyBzbmlwcGV0IGlmIHlvdSB3YW50IHdpdGggR2FsbGljYTxicj4KCjwvZGl2PjYuIEVtYmVk
+IHRoaXMgaW4geW91ciBibG9nIG9yIG90aGVyIHNpdGU8YnI+PC9kaXY+Ny4gT3Igc2ltcGx5IHVz
+ZSB0aGUgaW1nIHNyYyBVUkwgdG8gc2hvdyBmcmllbmRzIHRoZSBkZXRhaWwgeW91JiMzOTtyZSBp
+bnRlcmVzdGVkIGluOiA8YSBocmVmPSJodHRwOi8vZ2FsbGljYS5ibmYuZnIvcHJveHk/bWV0aG9k
+PVImYW1wO2Fyaz1idHYxYjg0NDkwMzJ4LmY5JmFtcDtsPTQmYW1wO3I9MTQ2NCwyMDQsMTk0LDE4
+NyIgdGFyZ2V0PSJfYmxhbmsiPmh0dHA6Ly9nYWxsaWNhLmJuZi5mci9wcm94eT9tZXRob2Q9UiZh
+bXA7YXJrPWJ0djFiODQ0OTAzMnguZjkmYW1wO2w9NCZhbXA7cj0xNDY0LDIwNCwxOTQsMTg3PC9h
+Pjxicj4KCgoKPGJyPjwvZGl2PkJlc3QsIEJlbjwvZGl2PjxkaXYgY2xhc3M9ImdtYWlsX2V4dHJh
+Ij48YnI+PGJyPjxkaXYgY2xhc3M9ImdtYWlsX3F1b3RlIj5PbiBNb24sIEZlYiA0LCAyMDEzIGF0
+IDI6MDIgUE0sIE1hcmpvcmllIEJ1cmdoYXJ0IDxzcGFuIGRpcj0ibHRyIj4mbHQ7PGEgaHJlZj0i
+bWFpbHRvOm1hcmpvcmllLmJ1cmdoYXJ0QGVoZXNzLmZyIiB0YXJnZXQ9Il9ibGFuayI+bWFyam9y
+aWUuYnVyZ2hhcnRAZWhlc3MuZnI8L2E+Jmd0Ozwvc3Bhbj4gd3JvdGU6PGJyPgoKPGJsb2NrcXVv
+dGUgY2xhc3M9ImdtYWlsX3F1b3RlIiBzdHlsZT0ibWFyZ2luOjAgMCAwIC44ZXg7Ym9yZGVyLWxl
+ZnQ6MXB4ICNjY2Mgc29saWQ7cGFkZGluZy1sZWZ0OjFleCI+VGFsa2luZyBhYm91dCBiYWJ5IHN0
+ZXBzLCB0aGluZ3MgYXJlIHJlYWxseSBtb3ZpbmcgaW4gdGhlIHJpZ2h0IGRpcmVjdGlvbiBhdCB0
+aGUgRnJlbmNoIG5hdGlvbmFsIGxpYnJhcnkgKEJuRik6IGZldyBwZW9wbGUgaGF2ZSBub3RpY2Vk
+LCBidXQgbm93IGltYWdlcyBmcm9tIHRoZSBHYWxsaWNhIHBvcnRhbCBhcmUgcm95YWx0eS1mcmVl
+IGZvciBhbnkgbm9uLWNvbW1lcmNpYWwgdXNlLiBJIGRvbiYjMzk7IHRoaW5rIHRoZSBuZXdzIGlz
+IHZlcnkgd2lkZXNwcmVhZCwgYnV0IGp1c3QgZ28gb24gR2FsbGljYSwgbG9vayBmb3IgaW5zdGFu
+Y2UgZm9yIGEgZGlnaXRpemVkIG1hbnVzY3JpcHQgKGV4YW1wbGUgJnF1b3Q7TGF0aW4gMTI1ODQm
+cXVvdDspLCBjaG9vc2UgYW55IGZvbGlvIGFuZCBjbGljayBvbiAmcXVvdDt06WzpY2hhcmdlciAv
+IGltcHJpbWVyJnF1b3Q7IChkb3dubG9hZCAvIHByaW50KSwgYW5kIHlvdSYjMzk7bGwgZmluZCBh
+IGxpbmsgdG8gdGhlIG5vbi1jb21tZXJjaWFsIGFuZCBjb21tZXJjaWFsIHVzZSBwb2xpY2llcy6g
+PGRpdj4KCgpCZXN0IHJlZ2FyZHMsIE1hcmpvcmllPC9kaXY+Cjxicj5EaWdpdGFsIE1lZGlldmFs
+aXN0IC0tIKA8YSBocmVmPSJodHRwOi8vd3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmcvIiB0YXJn
+ZXQ9Il9ibGFuayI+aHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnLzwvYT48YnI+Ckpv
+dXJuYWw6IDxhIGhyZWY9Imh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy9qb3VybmFs
+LyIgdGFyZ2V0PSJfYmxhbmsiPmh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy9qb3Vy
+bmFsLzwvYT48YnI+CkpvdXJuYWwgRWRpdG9yczogZWRpdG9ycyBfQVRfIDxhIGhyZWY9Imh0dHA6
+Ly9kaWdpdGFsbWVkaWV2YWxpc3Qub3JnIiB0YXJnZXQ9Il9ibGFuayI+ZGlnaXRhbG1lZGlldmFs
+aXN0Lm9yZzwvYT48YnI+Ck5ld3M6IDxhIGhyZWY9Imh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFs
+aXN0Lm9yZy9uZXdzLyIgdGFyZ2V0PSJfYmxhbmsiPmh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFs
+aXN0Lm9yZy9uZXdzLzwvYT48YnI+Cldpa2k6IDxhIGhyZWY9Imh0dHA6Ly93d3cuZGlnaXRhbG1l
+ZGlldmFsaXN0Lm9yZy93aWtpLyIgdGFyZ2V0PSJfYmxhbmsiPmh0dHA6Ly93d3cuZGlnaXRhbG1l
+ZGlldmFsaXN0Lm9yZy93aWtpLzwvYT48YnI+ClR3aXR0ZXI6IDxhIGhyZWY9Imh0dHA6Ly90d2l0
+dGVyLmNvbS9kaWdpdGFsbWVkaWV2YWwiIHRhcmdldD0iX2JsYW5rIj5odHRwOi8vdHdpdHRlci5j
+b20vZGlnaXRhbG1lZGlldmFsPC9hPjxicj4KRmFjZWJvb2s6IDxhIGhyZWY9Imh0dHA6Ly93d3cu
+ZmFjZWJvb2suY29tL2dyb3VwLnBocD9naWQ9NDkzMjAzMTM3NjAiIHRhcmdldD0iX2JsYW5rIj5o
+dHRwOi8vd3d3LmZhY2Vib29rLmNvbS9ncm91cC5waHA/Z2lkPTQ5MzIwMzEzNzYwPC9hPjxicj4K
+RGlzY3Vzc2lvbiBsaXN0OiA8YSBocmVmPSJtYWlsdG86ZG0tbEB1bGV0aC5jYSI+ZG0tbEB1bGV0
+aC5jYTwvYT48YnI+CkNoYW5nZSBsaXN0IG9wdGlvbnM6IDxhIGhyZWY9Imh0dHA6Ly9saXN0c2Vy
+di51bGV0aC5jYS9tYWlsbWFuL2xpc3RpbmZvL2RtLWwiIHRhcmdldD0iX2JsYW5rIj5odHRwOi8v
+bGlzdHNlcnYudWxldGguY2EvbWFpbG1hbi9saXN0aW5mby9kbS1sPC9hPjxicj48L2Jsb2NrcXVv
+dGU+PC9kaXY+PGJyPjwvZGl2Pgo=

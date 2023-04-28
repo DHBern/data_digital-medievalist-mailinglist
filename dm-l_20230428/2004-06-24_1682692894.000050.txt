@@ -1,0 +1,22 @@
+Subject:Hi there,At 12:48 PM 24/06/2004, you wrote:
+>Who or what even locates all the <lq> coded text, much less does
+>anything with it?  If a user approached my etext and asked
+>himself, "I wonder how much Latin is in Hall," how would the
+>coding help?  How do I as the author tell a user, "I put a lot
+>of fancy coding into Hall, so just press _____ and bingo!"The eXist XML database makes this kind of query easy. We're currently 
+working on a system called teiPublisher, an open-source project to provide 
+a repository for XML document collections which allows searching and 
+browsing based on eXist queries:<http://teipublisher.sourceforge.net/docs/index.php>Searches in eXist are done through the XQuery language, which is very 
+flexible and allows you to do sophisticated searches based on the document 
+tree, rather than the kind of simple plain-text searches we're used to from 
+Web search tools.Cheers,
+Martin
+______________________________________
+Martin Holmes
+University of Victoria Humanities Computing and Media Centre
+_redacted_(a)uvic.ca
+_redacted_(a)mholmes.com
+_redacted_(a)halfbakedsoftware.com
+http://www.mholmes.com
+http://web.uvic.ca/hcmc/
+http://www.halfbakedsoftware.com

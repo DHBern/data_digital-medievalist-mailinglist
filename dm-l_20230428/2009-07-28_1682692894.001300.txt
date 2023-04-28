@@ -1,0 +1,30 @@
+Subject: Re: [dm-l] Use of wikis for transcription_redacted_(a)btinternet.com> wrote:
+> 7.  Some here have commented on the use of character recognition, which I
+> find bizarre.  I studied optical pattern recognition in the 1980's and it
+> was accepted then, and it is still true I think, that machines cannot
+> understand human speech or writing unless they also grasp the semantics.
+<snip/>
+> 9.  I did try out my OCR on a manuscript, but it was completely hopeless.
+> Only humans will ever be able to read these things.
+<snip/>
+I believe you may be thinking about this the wrong way.  Yes,
+straightforward boundary-mapping OCR is almost always going to be
+doomed to failure on the wide and various nature of human handwriting.
+ But what does work is machine-assisted transcription.  Where similar
+technology to that in OCR looks through the images and finds fragments
+(words, parts of words, ligatures,etc.) that it thinks broadly
+similar, and displays them (with a bit of context) for a human to
+(dis)agree are the right reading or to provide a reading for all the
+ones the human ticks off a list as the same letters.  Rather than
+machine-transcription (which is what OCR is), this is machine-assisted
+transcription and much more plausible because the limitations in OCR
+isn't the pattern matching of This looks like This but the disconnect
+between the matched graphical component and the idealised character
+transcription.  If a computer can provide a list of 100 fragments of
+'th' that look similar (some maybe from 'the' and some from 'with')
+for a human to confirm, then that is a big step forward in
+transcription.  (Especially if it then occasionally mixes back in ones
+you've already approved but look slightly different to most just to
+double-check.)I remember seeing a project that was doing just this for a particular
+manuscript several years ago at the DRH (now DRHA) conference I think.-James
+--===============6700875751314446573==--

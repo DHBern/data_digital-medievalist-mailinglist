@@ -1,0 +1,33 @@
+Subject: [dm-l] JuxtaHas anyone had a look at Juxta, from UVa's Patacriticism group?
+http://www.patacriticism.org/juxta/ ; best intro seems to be in the
+manual
+http://www.patacriticism.org/juxta/wp-content/uploads/2006/02/JuxtaManua
+l.pdf (warning: 1meg pdf):"Juxta is an open-source cross-platform tool for comparing and collating
+multiple witnesses to a single textual work. The software allows users
+to
+set any of the witnesses as the base text, to add or remove witness
+texts,
+to switch the base text at will, and to annotate Juxta-revealed
+comparisons and save the results.Juxta presents several kinds of analytic visualizations. The most basic
+collation offers a split frame comparison of a base text with a witness
+text, along with a display of the digital images from which the base
+text
+is derived. Additionally, Juxta has several visualizations for the
+collation
+of multiple witnesses. Juxta can display a heat map of the textual
+variants that allows the user to locate-at the level of any textual
+unit-all witness variations from the base text. Users can also view the
+collation as a histogram, which displays the density of all variation
+from
+the base text and serves as a useful finding aid for variants in long
+documents. Finally, Juxta can output a lemmatized schedule (in HTML
+format) of the textual variants in any set of comparisons."PeterPeter Binkley
+Digital Initiatives Technology Librarian
+Information Technology Services
+4-30 Cameron Library
+University of Alberta Libraries
+Edmonton, Alberta
+Canada T6G 2J8
+Phone: (780) 492-3743
+Fax: (780) 492-9243
+_redacted_(a)ualberta.ca

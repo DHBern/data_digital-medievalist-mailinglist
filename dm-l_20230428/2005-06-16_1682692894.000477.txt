@@ -1,0 +1,89 @@
+Subject: [dm-l] Searching Latin texts and orthographical variantsI am the project director of the Electronic Grosseteste, a research resource =
+that provides access to electronic medieval Latin texts and an integrated bib=
+liography.  The textbase is composed of a variety of Latin texts (most of the=
+m under copyright but still searchable).  Right now the search engine is pret=
+ty primitive, and one enhancement I would like to make is to account for orth=
+ographical variants in the texts.  Some texts were classicized, while other e=
+ditors followed either the orthography of a single manuscript or attempted to=
+ follow some sort of convention based generally on Latin texts in later medie=
+val England (these are the facts, and this post is not about the joy of debat=
+ing editorial practice).  Ideally, I would like to allow searches to include =
+returns for classical and "medieval" spellings.  For example, if a user queri=
+ed "scientia" the engine would return matches for "scientia" and "sciencia". =
+(wildcards are permitted, btw).=20Now I work in Perl5, and so my initial thought was to create a set of hash ta=
+bles that would map these variants since hashes would allow for more than one=
+ variant per entity, and the engine would then perform a lookup for each quer=
+y element.  Now I suppose coding into the engine the "orthographical rules" i=
+s another option, but I'll be honest and admit that computational linguistics=
+ has never been my thing.  And, the beauty of hashes in Perl is that they are=
+ compiled very quickly, and don't eat too much memory.=20Now before I go and reinvent the wheel with these hash tables, does anyone kn=
+ow of an open-source method or resource that addresses this kind of problem (=
+I know that Brepols--pardon me, Brepolis...yeesh---has this all figured out b=
+ut they don't play will with others, so that's a closed door.).  My limited s=
+couring of the web has yielded no joy, and so I seek the sage advice of this =
+community. =20Many thanks
+Jim--------------------
+Dr James R. Ginther, PhD
+Assoc. Professor of Medieval Theology
+& Director of Graduate Studies
+Dept of Theological Studies
+St Louis University
+_redacted_(a)slu.edu
+---------------------------------
+dept: http://theology.slu.edu/
+research: http://www.grosseteste.com/PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMCBUcmFuc2l0aW9uYWwv
+L0VOIj4KPEhUTUw+PEhFQUQ+CjxNRVRBIGh0dHAtZXF1aXY9Q29udGVudC1UeXBlIGNvbnRlbnQ9
+InRleHQvaHRtbDsgY2hhcnNldD1pc28tODg1OS0xIj4KPE1FVEEgY29udGVudD0iTVNIVE1MIDYu
+MDAuMjgwMC4xNDk4IiBuYW1lPUdFTkVSQVRPUj4KPFNUWUxFPjwvU1RZTEU+CjwvSEVBRD4KPEJP
+RFkgYmdDb2xvcj0jZmZmZmZmPgo8RElWPjxGT05UIGZhY2U9QXJpYWwgc2l6ZT0yPkkgYW0gdGhl
+IHByb2plY3QgZGlyZWN0b3Igb2YgdGhlIEVsZWN0cm9uaWMgCkdyb3NzZXRlc3RlLCBhIHJlc2Vh
+cmNoIHJlc291cmNlIHRoYXQgcHJvdmlkZXMgYWNjZXNzIHRvIGVsZWN0cm9uaWMgbWVkaWV2YWwg
+CkxhdGluIHRleHRzIGFuZCBhbiBpbnRlZ3JhdGVkIGJpYmxpb2dyYXBoeS4mbmJzcDsgVGhlIHRl
+eHRiYXNlIGlzIGNvbXBvc2VkIG9mIGEgCnZhcmlldHkgb2YgTGF0aW4gdGV4dHMgKG1vc3Qgb2Yg
+dGhlbSB1bmRlciBjb3B5cmlnaHQgYnV0IHN0aWxsIApzZWFyY2hhYmxlKS4mbmJzcDsgUmlnaHQg
+bm93IHRoZSBzZWFyY2ggZW5naW5lIGlzIHByZXR0eSBwcmltaXRpdmUsIGFuZCBvbmUgCmVuaGFu
+Y2VtZW50IEkgd291bGQgbGlrZSB0byBtYWtlIGlzIHRvIGFjY291bnQgZm9yIG9ydGhvZ3JhcGhp
+Y2FsIHZhcmlhbnRzIGluIAp0aGUgdGV4dHMuJm5ic3A7IFNvbWUgdGV4dHMgd2VyZSBjbGFzc2lj
+aXplZCwgd2hpbGUgb3RoZXIgZWRpdG9ycyBmb2xsb3dlZCAKZWl0aGVyIHRoZSBvcnRob2dyYXBo
+eSBvZiZuYnNwO2Egc2luZ2xlIG1hbnVzY3JpcHQgb3IgYXR0ZW1wdGVkIHRvIGZvbGxvdyBzb21l
+IApzb3J0IG9mIGNvbnZlbnRpb24gYmFzZWQgZ2VuZXJhbGx5IG9uIExhdGluIHRleHRzIGluIGxh
+dGVyIG1lZGlldmFsIEVuZ2xhbmQgCih0aGVzZSBhcmUgdGhlIGZhY3RzLCBhbmQgdGhpcyBwb3N0
+IGlzIG5vdCBhYm91dCB0aGUgam95IG9mIGRlYmF0aW5nIGVkaXRvcmlhbCAKcHJhY3RpY2UpLiZu
+YnNwOyBJZGVhbGx5LCBJIHdvdWxkIGxpa2UgdG8gYWxsb3cgc2VhcmNoZXMgdG8gaW5jbHVkZSBy
+ZXR1cm5zIGZvciAKY2xhc3NpY2FsIGFuZCAibWVkaWV2YWwiIHNwZWxsaW5ncy4mbmJzcDsgRm9y
+IGV4YW1wbGUsIGlmIGEgdXNlciBxdWVyaWVkIAoic2NpZW50aWEiIHRoZSBlbmdpbmUgd291bGQg
+cmV0dXJuIG1hdGNoZXMgZm9yICJzY2llbnRpYSIgYW5kICJzY2llbmNpYSIuIAood2lsZGNhcmRz
+IGFyZSBwZXJtaXR0ZWQsIGJ0dykuIDwvRk9OVD48L0RJVj4KPERJVj48Rk9OVCBmYWNlPUFyaWFs
+IHNpemU9Mj48L0ZPTlQ+Jm5ic3A7PC9ESVY+CjxESVY+PEZPTlQgZmFjZT1BcmlhbCBzaXplPTI+
+Tm93IEkgd29yayBpbiBQZXJsNSwgYW5kIHNvIG15IGluaXRpYWwgdGhvdWdodCB3YXMgCnRvIGNy
+ZWF0ZSBhIHNldCBvZiBoYXNoIHRhYmxlcyB0aGF0IHdvdWxkIG1hcCB0aGVzZSB2YXJpYW50cyBz
+aW5jZSBoYXNoZXMgd291bGQgCmFsbG93IGZvciBtb3JlIHRoYW4gb25lIHZhcmlhbnQgcGVyIGVu
+dGl0eSwgYW5kIHRoZSBlbmdpbmUgd291bGQgdGhlbiBwZXJmb3JtIGEgCmxvb2t1cCBmb3IgZWFj
+aCBxdWVyeSBlbGVtZW50LiZuYnNwOyBOb3cgSSBzdXBwb3NlIGNvZGluZyBpbnRvIHRoZSBlbmdp
+bmUgdGhlIAoib3J0aG9ncmFwaGljYWwgcnVsZXMiIGlzIGFub3RoZXIgb3B0aW9uLCBidXQgSSds
+bCBiZSBob25lc3QgYW5kIGFkbWl0IHRoYXQgCmNvbXB1dGF0aW9uYWwgbGluZ3Vpc3RpY3MgaGFz
+IG5ldmVyIGJlZW4gbXkgdGhpbmcuJm5ic3A7PC9GT05UPjxGT05UIGZhY2U9QXJpYWwgCnNpemU9
+Mj4gQW5kLCB0aGUgYmVhdXR5IG9mIGhhc2hlcyBpbiBQZXJsIGlzIHRoYXQgdGhleSBhcmUgY29t
+cGlsZWQgdmVyeSAKcXVpY2tseSwgYW5kIGRvbid0IGVhdCB0b28gbXVjaCBtZW1vcnkuJm5ic3A7
+PC9GT05UPjwvRElWPgo8RElWPjxGT05UIGZhY2U9QXJpYWwgc2l6ZT0yPjwvRk9OVD4mbmJzcDs8
+L0RJVj4KPERJVj48Rk9OVCBmYWNlPUFyaWFsIHNpemU9Mj5Ob3cgYmVmb3JlIEkgZ28gYW5kIHJl
+aW52ZW50IHRoZSB3aGVlbCB3aXRoIHRoZXNlIApoYXNoIHRhYmxlcywgZG9lcyBhbnlvbmUga25v
+dyBvZiBhbiBvcGVuLXNvdXJjZSZuYnNwO21ldGhvZCBvciAKcmVzb3VyY2UmbmJzcDt0aGF0IGFk
+ZHJlc3NlcyB0aGlzIGtpbmQgb2YgcHJvYmxlbSAoSSBrbm93IHRoYXQgQnJlcG9scy0tcGFyZG9u
+IAptZSwgQnJlcG9saXMuLi55ZWVzaC0tLWhhcyB0aGlzIGFsbCBmaWd1cmVkIG91dCBidXQgdGhl
+eSBkb24ndCBwbGF5IHdpbGwgd2l0aCAKb3RoZXJzLCBzbyB0aGF0J3MgYSBjbG9zZWQgZG9vci4p
+LiZuYnNwOyBNeSBsaW1pdGVkIHNjb3VyaW5nIG9mIHRoZSB3ZWIgaGFzIAp5aWVsZGVkIG5vIGpv
+eSwmbmJzcDthbmQgc28mbmJzcDtJIHNlZWsgdGhlIHNhZ2UgYWR2aWNlJm5ic3A7b2YgdGhpcyBj
+b21tdW5pdHkuIAombmJzcDs8L0ZPTlQ+PC9ESVY+CjxESVY+PEZPTlQgZmFjZT1BcmlhbCBzaXpl
+PTI+PC9GT05UPiZuYnNwOzwvRElWPgo8RElWPjxGT05UIGZhY2U9QXJpYWwgc2l6ZT0yPk1hbnkg
+dGhhbmtzPC9GT05UPjwvRElWPgo8RElWPjxGT05UIGZhY2U9QXJpYWwgc2l6ZT0yPkppbTwvRk9O
+VD48L0RJVj4KPERJVj48Rk9OVCBmYWNlPUFyaWFsIHNpemU9Mj48L0ZPTlQ+Jm5ic3A7PC9ESVY+
+CjxESVY+PEZPTlQgZmFjZT1BcmlhbCBzaXplPTI+LS0tLS0tLS0tLS0tLS0tLS0tLS08QlI+RHIg
+SmFtZXMgUi4gR2ludGhlciwgClBoRDxCUj5Bc3NvYy4gUHJvZmVzc29yIG9mIE1lZGlldmFsIFRo
+ZW9sb2d5PEJSPiZhbXA7IERpcmVjdG9yIG9mIEdyYWR1YXRlIApTdHVkaWVzPEJSPkRlcHQgb2Yg
+VGhlb2xvZ2ljYWwgU3R1ZGllczxCUj5TdCBMb3VpcyBVbml2ZXJzaXR5PEJSPjxBIApocmVmPSJt
+YWlsdG86Z2ludGhlakBzbHUuZWR1Ij5naW50aGVqQHNsdS5lZHU8L0E+PEJSPi0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLTxCUj5kZXB0OiAKPEEgaHJlZj0iaHR0cDovL3RoZW9sb2d5
+LnNsdS5lZHUvIj5odHRwOi8vdGhlb2xvZ3kuc2x1LmVkdS88L0E+PEJSPnJlc2VhcmNoOiA8QSAK
+aHJlZj0iaHR0cDovL3d3dy5ncm9zc2V0ZXN0ZS5jb20vIj5odHRwOi8vd3d3Lmdyb3NzZXRlc3Rl
+LmNvbS88L0E+PC9GT05UPjwvRElWPjwvQk9EWT48L0hUTUw+Cg==

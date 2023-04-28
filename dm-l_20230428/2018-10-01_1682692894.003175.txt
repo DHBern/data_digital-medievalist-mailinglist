@@ -1,0 +1,576 @@
+Subject: [dm-l] DH2019: call for papersApologies for cross-posting and please share widely
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3DDIGITAL HUMANITIES 2019: =E2=80=9CCOMPLEXITIES=E2=80=9D  - CALL FOR PAPERS
+Alliance of Digital Humanities Organizations
+Utrecht University (The Netherlands)
+Paper/Poster/Panel deadline: 11:59pm GMT 27 November 2018
+Workshop/Tutorial deadline: 11:59pm GMT, 10 January 2019
+Workshops: 8-9 July 2019
+Conference: 9-12 July 2019
+http://dh2018.adho.org<http://dh2018.adho.org/>
+@DH2019_NL
+_redacted_(a)adho.org<http://adho.org>I: GENERAL INFORMATIONThe Alliance of Digital Humanities Organizations (ADHO) invites submission of=
+ proposals for its annual conference.The theme of the 2019 conference is Complexities. This theme has a multifacet=
+ed connection with Digital Humanities scholarship. Complexities intends to in=
+spire people to focus on DH as the humanist way of building complex models of=
+ complex realities, analysing them with computational methods and communicati=
+ng the results to a broader public. The theme also invites people to think of=
+ the theoretical, social, and cultural complexity and diversity in which DH s=
+cholarship is immersed and asks our community to interact consciously and cri=
+tically in myriad ways, through the conference and the networks, institutions=
+ and the enterprises interested in DH research. Finally, it means involving t=
+he next generation, teaching DH to students - the people who will need to dea=
+l with the complexities of the future.Proposals related to these themes are particularly welcome, but the Conferenc=
+e will accept submissions on any other aspect or field of Digital Humanities.=
+ Possible topics include, but are not limited to:
+  *   Theoretical, epistemological, methodological or historical aspects of D=
+igital Humanities;
+  *   Digital and computational approaches and applications in literary and l=
+inguistic fields, including computational text analysis, stylometry, authorsh=
+ip attribution, natural language processing and computational linguistics, di=
+gital philology and textual scholarship;
+  *   Digital and computational approaches and applications in archaeology, a=
+rchitecture, and art history, including image processing, 3D modeling, digita=
+l restoration;
+  *   Digital history, geographic information systems applications in spatial=
+ humanities and historical studies, public history;
+  *   Digital approaches in music, film, theatre, and media studies; electron=
+ic art and literature, games studies, hacker culture, networked communities, =
+digital divides, digital activism, open/libre networks and software, etc.;
+  *   Cultural heritage, digital cultural studies and research undertaken by =
+digital cultural institutions
+  *   Social, cultural, and political aspects of Digital Humanities including=
+ digital feminisms, digital indigenous studies, digital cultural and ethnic s=
+tudies, digital black studies, digital queer studies, digital geopolitical st=
+udies, multilingualism and multiculturalism in DH, eco-criticism and environm=
+ental humanities as they intersect with the Digital Humanities;
+  *   Emerging technologies such as physical computing, single-board computer=
+s, minimal computing, wearable devices, and haptic technologies applied to hu=
+manities research;
+  *   Institutional aspects of DH, interdisciplinary aspects of scholarship, =
+open science, public humanities, societal engagement and impact of DH;
+  *   Digital Humanities pedagogy and academic curricula;
+  *   Digital Research infrastructures, digital libraries and virtual researc=
+h environment, critical infrastructure studies, media archaeology, etc.;
+  *   Any other theme pertaining to the Digital HumanitiesThe primary language of the conference will be English, but we warmly invite =
+proposals written in other languages for which we have a sufficient pool of p=
+eer reviewers (German, Italian, French and Spanish).Presentations may include:
+  *   Posters (abstract maximum 750 words)
+  *   Short papers (abstract maximum 1 000 words)
+  *   Long papers (abstract maximum 1 500 words)
+  *   Multiple-paper panels (500-word abstracts + 500-word overview)
+  *   Pre-conference workshops and tutorials (proposal maximum 1 500 words)The deadline for submitting poster, short paper, long paper, and multiple-pap=
+er panel proposals to the international Program Committee is 11:59pm GMT 27 N=
+ovember 2018. Presenters will be notified of acceptance by March 3 2019.The deadline for submitting workshops and tutorials, , is 11:59pm GMT, 10 Jan=
+uary 2019, with notice of acceptance by 3 March 2019.Proposal must be submitted via https://www.conftool.pro/dh2019/.DH2019 will use double-blind peer review. To facilitate this process, please =
+remove all identifying information from your proposal submission including au=
+thor name(s) and affiliation(s), project URLs, etc..When submitting proposals, previous Digital Humanities conference participant=
+s and reviewers should use their existing ConfTool account rather than settin=
+g up new ones. If you have forgotten your username or password, please contac=
+t Program Committee Co-chairs Fabio Ciotti: fabio [dot] ciotti [at] uniroma2 =
+[dot] it or Elena Pierazzo: elena [dot] pierazzo [at] univ-grenoble-alpes [do=
+t] fr.To facilitate the production of the conference abstract book, authors of acce=
+pted papers will be asked to submit final approved versions of their abstract=
+s via the DHConvalidator, available through ConfTool, which creates a TEI tex=
+t base of conference abstracts for further processing.Presenters are encouraged to familiarize themselves with Global Outlook::Digi=
+tal Humanities=E2=80=99 Translation Toolkit to prepare for a multilingual con=
+ference. This includes guidelines and best practices for multilingual slides/=
+posters/handouts and ad hoc community translation: http://go-dh.github.io/tra=
+nslation-toolkit/conferences/.Similarly, participants are strongly encouraged to make themselves aware of c=
+urrent recommendations for accessibility of presentations and multimedia-base=
+d materials. Please review the World Wide Web Consortium=E2=80=99s Web Initia=
+tive Guidelines on Presentation Accessibility: https://www.w3.org/WAI/trainin=
+g/accessible.II: TYPES OF PROPOSALSProposals may be of five types: (1) poster presentations; (2) short paper pre=
+sentations; (3) long papers; (4) multiple-paper panels; (5) pre-conference wo=
+rkshops and tutorials. Short paper and poster proposals are especially welcom=
+e and, based on peer review and its mandate to create a balanced and varied p=
+rogram, the Program Committee may offer acceptance in a different category fr=
+om the one initially proposed. The committee will not normally accept more th=
+an a total of two submissions from one primary or co-author. Papers and poste=
+rs may be given in English, French, German, Italian or Spanish.All proposals should include relevant citations to sources in the appropriate=
+ literature. Citations are not to be included in the word count. Additionally=
+, proposals that concentrate on a particular tool or digital resource should =
+cite non-digital as well as computer-based approaches to the problem.Poster Presentations
+Poster proposals (abstract maximum: 750 words) may describe work on any speci=
+fic topics or methods or present projects and software tools in any stage of =
+development. Poster presentations are intended to be interactive with the opp=
+ortunity to exchange ideas one-on-one with attendees.  Posters are in no way =
+considered lesser forms of presentation at the DH conference and are subject =
+to the same strict peer review as other presentation types. Submissions in th=
+is category are strongly encouraged.Short Papers
+Short paper proposals (abstract maximum: 1000 words) are intended to be dynam=
+ic 10-minute presentations appropriate for reporting on experiments or works =
+in progress or for describing tools or software in development. Short-paper s=
+essions seek to open dialogues among scholars working on related topics. Shor=
+t papers are in no way considered lesser forms of presentation at the DH conf=
+erence and are subject to the same strict peer review as other presentation t=
+ypes. Submissions in this category are strongly encouraged.Long Papers
+Proposals for long papers (abstract maximum: 1500 words) should deal with sub=
+stantial or completed research; report the development of significant new met=
+hodologies or digital resources; or present rigorous theoretical, speculative=
+, or critical discussions. Individual papers will be allocated 20 minutes for=
+ presentation and 10 minutes for questions.
+Proposals relating to the development of new computing methodologies or digit=
+al resources should indicate how the methods are applied to research and/or t=
+eaching in the humanities and what their impact has been in formulating and a=
+ddressing research questions. They should also include critical assessments o=
+f their application in the humanities as well as of the computing methodologi=
+es used.Multiple Paper Panels
+Panels (abstract maximum: 500 words for overview, plus 500 words for each pap=
+er) should focus on a single theme and be inherently coherent in presenting a=
+ substantial body of research or a research question. Panel submissions which=
+ do not meet this criterion and which could function as individual papers wil=
+l not normally be accepted. A panel should be conceived as a 90-minute sessio=
+n of four to six speakers.
+Since the conference offers an important occasion to attract new scholars fro=
+m diverse backgrounds to specific research areas, those submitting proposals =
+for panels are advised to ensure that the constitution of the panel reflects =
+the constitution of the field and/or research topic that is being addressed a=
+nd ADHO=E2=80=99s expressed commitment to diversity or to explicitly address =
+problems in those areas. In case the proposer=E2=80=99s own network is too li=
+mited, the Program Committee can advise them prior to submission on whom to c=
+ontact to broaden the panel. Please contact the PC chairs Fabio Ciotti fabio =
+[dot] ciotti [at] uniroma2 [dot] it or Elena Pierazzo elena [dot] pierazzo [a=
+t] univ-grenoble-alpes [dot] fr if you need advice.Pre-Conference Workshops and Tutorials
+Tutorials are normally half-day intensive introductions to specific technique=
+s, software packages, or theoretical approaches with a small number of partic=
+ipants. Workshop proposals may take many forms, including proposals with a fu=
+ll slate of speakers and presentations, as well as proposals to issue an inde=
+pendent call for papers from which submissions will be chosen. Participants i=
+n pre-conference workshops and tutorials will be expected to register for the=
+ full conference as well as pay a small additional fee to the conference. Wor=
+kshops are expected to be self-financing in terms of hardware and software ne=
+eds.Proposals should provide the following information:
+  *   Title and brief description of the content or topic and its relevance t=
+o the Digital Humanities community (not more than 1500 words);
+  *   Full contact information for all tutorial instructors or workshop leade=
+rs, including a one-paragraph statement summarizing their research interests =
+and areas of expertise;
+  *   Description of target audience and expected number of participants (bas=
+ed, if possible, on past experience); and
+  *   Special requirements for technical support.Additionally, tutorial proposals should include:
+  *   A brief outline showing that the core content can be covered in a half-=
+day (approximately 3 hours, plus breaks). In exceptional cases, full-day tuto=
+rials may be supported.And workshop proposals must include:
+  *   Intended length and format of the workshop (minimum half-day; maximum o=
+ne-and-a-half days);
+  *   Any special requirements for attendees, including software installation=
+ (the conference will handle traditional technological support, but workshop =
+organizers are expected to manage specific needs such as access to software, =
+servers, etc.).
+  *   If the workshop is to have its own call for participation, a deadline a=
+nd date for notification of acceptances, and a list of individuals who have a=
+greed to be part of the workshop=E2=80=99s Program Committee.As with Multiple Paper Panel proposals, those submitting proposals for pre-co=
+nference workshops are advised to ensure that the constitution of the worksho=
+p reflects the constitution of the field and/or research topic that is being =
+addressed and ADHO=E2=80=99s expressed commitment to diversity, or explicitly=
+ address problems in those areas.  In case the proposer=E2=80=99s own network=
+ is too limited, the Program Committee can advise them before submission on w=
+hom to contact to broaden the panel. Please contact the PC chairs Fabio Ciott=
+i fabio [dot] ciotti [at] uniroma2 [dot] it or Elena Pierazzo elena [dot] pie=
+razzo [at] univ-grenoble-alpes [dot] fr if you need advice.N.B. Pre-conference workshops endorsed by ADHO Special Interest Groups (SIGs)=
+ will be considered via separate calls put out by SIG conveners and will not =
+be evaluated in the general academic program review process.III: ADHO CONFERENCE CODE OF CONDUCTThe Alliance of Digital Humanities Organizations (ADHO) is dedicated to creat=
+ing a safe, respectful, and collegial conference environment for the benefit =
+of everyone who attends and for the advancement of research and scholarship i=
+n fields supported by our constituent organizations. The ADHO Digital Humanit=
+ies conference Code of Conduct is available at http://adho.org/administration=
+/conference-coordinating-program-committee/adho-conference-code-conduct. All =
+people submitting proposals to DH2018 should observe and uphold it.IV: VENUEDH2019 will take place at the TivoliVredenburg music theatre in the city cent=
+re of Utrecht, the Netherlands, and is hosted by the Faculty of Humanities at=
+ Utrecht University. The co-chairs of the local organization committee are Fr=
+anciska de Jong and Joris van Eijnatten.V: BURSARIES FOR EARLY-CAREER AND EMERGING SCHOLARSThe Alliance of Digital Humanities Organizations will offer a limited number =
+of bursaries for early-career scholars presenting at the conference. Applicat=
+ion guidelines will appear on the ADHO website early in 2019: http://www.adho=
+.org.VI: INTERNATIONAL PROGRAM COMMITTEECo-Chair: Elena Pierazzo
+Co-Chair: Fabio Ciotti
+Co-Vice Chair: Laura Estill
+Co-Vice Chair: Jennifer Guiliano
+aaDH representative: Paul Arthur
+aaDH representative: Simon Musgrave
+ACH representative: Meghan Ferriter
+ACH representative: Thomas Padilla
+centerNet representative: Francesca Benatti
+centerNet representative: Nirmala Menon
+CSDH/SCHN representative: Maureen Engel
+CSDH/SCHN representative: Michael Ullyot
+EADH representative: Claire Clivaz
+EADH representative: Christian-Emil Ore
+Humanistica representative: Clarisse Bardiot
+Humanistica representative: Vincent Razanajao
+JADH representative: Akihiro Kawase
+JADH representative: Taizo Yamada__
+Elena Pierazzo
+Professeure d=E2=80=99italien et humanit=C3=A9s num=C3=A9riques
+Universit=C3=A9 Grenoble-Alpes - LUHCIE
+Bureau B=C3=A2timent 'Stendhal=E2=80=99 F307
+BP 25 38040 Grenoble Cedex 9
+Tel. +33 4 76828032Visiting Senior Research Fellow
+King's College London
+Department of Digital Humanities
+King's College London
+26-29 Drury Lane
+London
+WC2B 5RLPGh0bWw+DQo8aGVhZD4NCjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSIgY29udGVudD0i
+dGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04Ij4NCjwvaGVhZD4NCjxib2R5IHN0eWxlPSJ3b3JkLXdy
+YXA6IGJyZWFrLXdvcmQ7IC13ZWJraXQtbmJzcC1tb2RlOiBzcGFjZTsgLXdlYmtpdC1saW5lLWJy
+ZWFrOiBhZnRlci13aGl0ZS1zcGFjZTsiIGNsYXNzPSIiPg0KPGRpdiBjbGFzcz0iIj5BcG9sb2dp
+ZXMgZm9yIGNyb3NzLXBvc3RpbmcgYW5kIHBsZWFzZSBzaGFyZSB3aWRlbHk8L2Rpdj4NCjxkaXYg
+Y2xhc3M9IiI+PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT08L2Rpdj4NCjxkaXYgY2xh
+c3M9IiI+PGJyIGNsYXNzPSIiPg0KPC9kaXY+DQo8ZGl2IGNsYXNzPSIiPkRJR0lUQUwgSFVNQU5J
+VElFUyZuYnNwOzxzcGFuIGNsYXNzPSJnbWFpbC1pbCI+MjAxOTwvc3Bhbj46IOKAnENPTVBMRVhJ
+VElFU+KAnSZuYnNwOyAtIENBTEwgRk9SIFBBUEVSUzwvZGl2Pg0KPGRpdiBjbGFzcz0iIj4NCjxw
+IGNsYXNzPSJNc29Ob3JtYWwiPjxzcGFuIGxhbmc9IkVOLUNBIiBjbGFzcz0iIj5BbGxpYW5jZSBv
+ZiBEaWdpdGFsIEh1bWFuaXRpZXMgT3JnYW5pemF0aW9uczxiciBjbGFzcz0iIj4NCjwvc3Bhbj48
+L3A+DQo8cCBjbGFzcz0iTXNvTm9ybWFsIj48c3BhbiBsYW5nPSJFTi1DQSIgY2xhc3M9IiI+VXRy
+ZWNodCBVbml2ZXJzaXR5IChUaGUgTmV0aGVybGFuZHMpJm5ic3A7Jm5ic3A7PGJyIGNsYXNzPSIi
+Pg0KPC9zcGFuPjwvcD4NCjxwIGNsYXNzPSJNc29Ob3JtYWwiPjxzcGFuIGxhbmc9IkVOLUNBIiBj
+bGFzcz0iIj5QYXBlci9Qb3N0ZXIvUGFuZWwgZGVhZGxpbmU6IDExOjU5cG0gR01UIDI3IE5vdmVt
+YmVyIDIwMTg8L3NwYW4+PHNwYW4gbGFuZz0iRU4tVVMiIGNsYXNzPSIiPjx1IGNsYXNzPSIiPjwv
+dT48dSBjbGFzcz0iIj48L3U+PC9zcGFuPjwvcD4NCjxwIGNsYXNzPSJNc29Ob3JtYWwiPjxzcGFu
+IGxhbmc9IkVOLUNBIiBjbGFzcz0iIj5Xb3Jrc2hvcC9UdXRvcmlhbCBkZWFkbGluZTogMTE6NTlw
+bSBHTVQsIDEwIEphbnVhcnkgMjAxOTwvc3Bhbj48c3BhbiBsYW5nPSJFTi1VUyIgY2xhc3M9IiI+
+PHUgY2xhc3M9IiI+PC91Pjx1IGNsYXNzPSIiPjwvdT48L3NwYW4+PC9wPg0KPHAgY2xhc3M9Ik1z
+b05vcm1hbCI+V29ya3Nob3BzOiA4LTkgSnVseSAyMDE5PGJyIGNsYXNzPSIiPg0KPC9wPg0KPHAg
+Y2xhc3M9Ik1zb05vcm1hbCI+PHNwYW4gbGFuZz0iRU4tQ0EiIGNsYXNzPSIiPkNvbmZlcmVuY2U6
+IDktMTIgSnVseSAyMDE5PC9zcGFuPjwvcD4NCjxwIGNsYXNzPSJNc29Ob3JtYWwiPjxzcGFuIGxh
+bmc9IkVOLUNBIiBjbGFzcz0iIj48YSBocmVmPSJodHRwOi8vZGgyMDE4LmFkaG8ub3JnLyIgcmVs
+PSJub3JlZmVycmVyIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9IiI+aHR0cDovLzxzcGFuIGNsYXNz
+PSJnbWFpbC1pbCI+ZGgyMDE4PC9zcGFuPi5hZGhvLm9yZzwvYT4mbmJzcDs8L3NwYW4+PC9wPg0K
+PHAgY2xhc3M9Ik1zb05vcm1hbCI+PHNwYW4gbGFuZz0iRU4tQ0EiIGNsYXNzPSIiPjxzcGFuIGNs
+YXNzPSJnbWFpbC11c2VybmFtZSBnbWFpbC11LWRpciIgZGlyPSJsdHIiIHN0eWxlPSJ1bmljb2Rl
+LWJpZGk6IGVtYmVkOyBkaXJlY3Rpb246IGx0cjsiPkA8c3BhbiBjbGFzcz0iZ21haWwtdS1saW5r
+Q29tcGxleC10YXJnZXQiPkRIMjAxOV9OTDwvc3Bhbj48L3NwYW4+Jm5ic3A7PGJyIGNsYXNzPSIi
+Pg0KPC9zcGFuPjwvcD4NCjxwIGNsYXNzPSJNc29Ob3JtYWwiPkVtYWlsOiZuYnNwOzxzcGFuIGNs
+YXNzPSJnbWFpbC1pbCI+ZGgyMDE5PC9zcGFuPkA8YSBocmVmPSJodHRwOi8vYWRoby5vcmciIGNs
+YXNzPSIiPmFkaG8ub3JnPC9hPjxiciBjbGFzcz0iIj4NCjwvcD4NCjwvZGl2Pg0KPGRpdiBjbGFz
+cz0iIj48YnIgY2xhc3M9IiI+DQo8L2Rpdj4NCjxkaXYgY2xhc3M9IiI+DQo8ZGl2IGNsYXNzPSIi
+Pkk6IEdFTkVSQUwgSU5GT1JNQVRJT048L2Rpdj4NCjxkaXYgY2xhc3M9IiI+PGJyIGNsYXNzPSIi
+Pg0KPC9kaXY+DQo8ZGl2IGNsYXNzPSIiPlRoZSBBbGxpYW5jZSBvZiBEaWdpdGFsIEh1bWFuaXRp
+ZXMgT3JnYW5pemF0aW9ucyAoQURITykgaW52aXRlcyBzdWJtaXNzaW9uIG9mIHByb3Bvc2FscyBm
+b3IgaXRzIGFubnVhbCBjb25mZXJlbmNlLjwvZGl2Pg0KPGRpdiBjbGFzcz0iIj48YnIgY2xhc3M9
+IiI+DQo8L2Rpdj4NCjxkaXYgY2xhc3M9IiI+VGhlIHRoZW1lIG9mIHRoZSAyMDE5IGNvbmZlcmVu
+Y2UgaXMgQ29tcGxleGl0aWVzLiBUaGlzIHRoZW1lIGhhcyBhIG11bHRpZmFjZXRlZCBjb25uZWN0
+aW9uIHdpdGggRGlnaXRhbCBIdW1hbml0aWVzIHNjaG9sYXJzaGlwLiBDb21wbGV4aXRpZXMgaW50
+ZW5kcyB0byBpbnNwaXJlIHBlb3BsZSB0byBmb2N1cyBvbiBESCBhcyB0aGUgaHVtYW5pc3Qgd2F5
+IG9mIGJ1aWxkaW5nIGNvbXBsZXggbW9kZWxzIG9mIGNvbXBsZXggcmVhbGl0aWVzLA0KIGFuYWx5
+c2luZyB0aGVtIHdpdGggY29tcHV0YXRpb25hbCBtZXRob2RzIGFuZCBjb21tdW5pY2F0aW5nIHRo
+ZSByZXN1bHRzIHRvIGEgYnJvYWRlciBwdWJsaWMuIFRoZSB0aGVtZSBhbHNvIGludml0ZXMgcGVv
+cGxlIHRvIHRoaW5rIG9mIHRoZSB0aGVvcmV0aWNhbCwgc29jaWFsLCBhbmQgY3VsdHVyYWwgY29t
+cGxleGl0eSBhbmQgZGl2ZXJzaXR5IGluIHdoaWNoIERIIHNjaG9sYXJzaGlwIGlzIGltbWVyc2Vk
+IGFuZCBhc2tzIG91ciBjb21tdW5pdHkNCiB0byBpbnRlcmFjdCBjb25zY2lvdXNseSBhbmQgY3Jp
+dGljYWxseSBpbiBteXJpYWQgd2F5cywgdGhyb3VnaCB0aGUgY29uZmVyZW5jZSBhbmQgdGhlIG5l
+dHdvcmtzLCBpbnN0aXR1dGlvbnMgYW5kIHRoZSBlbnRlcnByaXNlcyBpbnRlcmVzdGVkIGluIERI
+IHJlc2VhcmNoLiBGaW5hbGx5LCBpdCBtZWFucyBpbnZvbHZpbmcgdGhlIG5leHQgZ2VuZXJhdGlv
+biwgdGVhY2hpbmcgREggdG8gc3R1ZGVudHMgLSB0aGUgcGVvcGxlIHdobyB3aWxsIG5lZWQNCiB0
+byBkZWFsIHdpdGggdGhlIGNvbXBsZXhpdGllcyBvZiB0aGUgZnV0dXJlLjwvZGl2Pg0KPGRpdiBj
+bGFzcz0iIj48YnIgY2xhc3M9IiI+DQo8L2Rpdj4NCjxkaXYgY2xhc3M9IiI+UHJvcG9zYWxzIHJl
+bGF0ZWQgdG8gdGhlc2UgdGhlbWVzIGFyZSBwYXJ0aWN1bGFybHkgd2VsY29tZSwgYnV0IHRoZSBD
+b25mZXJlbmNlIHdpbGwgYWNjZXB0IHN1Ym1pc3Npb25zIG9uIGFueSBvdGhlciBhc3BlY3Qgb3Ig
+ZmllbGQgb2YgRGlnaXRhbCBIdW1hbml0aWVzLiBQb3NzaWJsZSB0b3BpY3MgaW5jbHVkZSwgYnV0
+IGFyZSBub3QgbGltaXRlZCB0bzo8L2Rpdj4NCjxkaXYgY2xhc3M9IiI+PGJyIGNsYXNzPSIiPg0K
+PC9kaXY+DQo8ZGl2IGNsYXNzPSIiPg0KPHVsIGNsYXNzPSIiPg0KPGxpIGNsYXNzPSIiPlRoZW9y
+ZXRpY2FsLCBlcGlzdGVtb2xvZ2ljYWwsIG1ldGhvZG9sb2dpY2FsIG9yIGhpc3RvcmljYWwgYXNw
+ZWN0cyBvZiBEaWdpdGFsIEh1bWFuaXRpZXM7PGJyIGNsYXNzPSIiPg0KPC9saT48bGkgY2xhc3M9
+IiI+RGlnaXRhbCBhbmQgY29tcHV0YXRpb25hbCBhcHByb2FjaGVzIGFuZCBhcHBsaWNhdGlvbnMg
+aW4gbGl0ZXJhcnkgYW5kIGxpbmd1aXN0aWMgZmllbGRzLCBpbmNsdWRpbmcgY29tcHV0YXRpb25h
+bCB0ZXh0IGFuYWx5c2lzLCBzdHlsb21ldHJ5LCBhdXRob3JzaGlwIGF0dHJpYnV0aW9uLCBuYXR1
+cmFsIGxhbmd1YWdlIHByb2Nlc3NpbmcgYW5kIGNvbXB1dGF0aW9uYWwgbGluZ3Vpc3RpY3MsIGRp
+Z2l0YWwgcGhpbG9sb2d5IGFuZA0KIHRleHR1YWwgc2Nob2xhcnNoaXA7PGJyIGNsYXNzPSIiPg0K
+PC9saT48bGkgY2xhc3M9IiI+RGlnaXRhbCBhbmQgY29tcHV0YXRpb25hbCBhcHByb2FjaGVzIGFu
+ZCBhcHBsaWNhdGlvbnMgaW4gYXJjaGFlb2xvZ3ksIGFyY2hpdGVjdHVyZSwgYW5kIGFydCBoaXN0
+b3J5LCBpbmNsdWRpbmcgaW1hZ2UgcHJvY2Vzc2luZywgM0QgbW9kZWxpbmcsIGRpZ2l0YWwgcmVz
+dG9yYXRpb247PGJyIGNsYXNzPSIiPg0KPC9saT48bGkgY2xhc3M9IiI+RGlnaXRhbCBoaXN0b3J5
+LCBnZW9ncmFwaGljIGluZm9ybWF0aW9uIHN5c3RlbXMgYXBwbGljYXRpb25zIGluIHNwYXRpYWwg
+aHVtYW5pdGllcyBhbmQgaGlzdG9yaWNhbCBzdHVkaWVzLCBwdWJsaWMgaGlzdG9yeTs8YnIgY2xh
+c3M9IiI+DQo8L2xpPjxsaSBjbGFzcz0iIj5EaWdpdGFsIGFwcHJvYWNoZXMgaW4gbXVzaWMsIGZp
+bG0sIHRoZWF0cmUsIGFuZCBtZWRpYSBzdHVkaWVzOyBlbGVjdHJvbmljIGFydCBhbmQgbGl0ZXJh
+dHVyZSwgZ2FtZXMgc3R1ZGllcywgaGFja2VyIGN1bHR1cmUsIG5ldHdvcmtlZCBjb21tdW5pdGll
+cywgZGlnaXRhbCBkaXZpZGVzLCBkaWdpdGFsIGFjdGl2aXNtLCBvcGVuL2xpYnJlIG5ldHdvcmtz
+IGFuZCBzb2Z0d2FyZSwgZXRjLjs8YnIgY2xhc3M9IiI+DQo8L2xpPjxsaSBjbGFzcz0iIj5DdWx0
+dXJhbCBoZXJpdGFnZSwgZGlnaXRhbCBjdWx0dXJhbCBzdHVkaWVzIGFuZCByZXNlYXJjaCB1bmRl
+cnRha2VuIGJ5IGRpZ2l0YWwgY3VsdHVyYWwgaW5zdGl0dXRpb25zPGJyIGNsYXNzPSIiPg0KPC9s
+aT48bGkgY2xhc3M9IiI+U29jaWFsLCBjdWx0dXJhbCwgYW5kIHBvbGl0aWNhbCBhc3BlY3RzIG9m
+IERpZ2l0YWwgSHVtYW5pdGllcyBpbmNsdWRpbmcgZGlnaXRhbCBmZW1pbmlzbXMsIGRpZ2l0YWwg
+aW5kaWdlbm91cyBzdHVkaWVzLCBkaWdpdGFsIGN1bHR1cmFsIGFuZCBldGhuaWMgc3R1ZGllcywg
+ZGlnaXRhbCBibGFjayBzdHVkaWVzLCBkaWdpdGFsIHF1ZWVyIHN0dWRpZXMsIGRpZ2l0YWwgZ2Vv
+cG9saXRpY2FsIHN0dWRpZXMsIG11bHRpbGluZ3VhbGlzbQ0KIGFuZCBtdWx0aWN1bHR1cmFsaXNt
+IGluIERILCBlY28tY3JpdGljaXNtIGFuZCBlbnZpcm9ubWVudGFsIGh1bWFuaXRpZXMgYXMgdGhl
+eSBpbnRlcnNlY3Qgd2l0aCB0aGUgRGlnaXRhbCBIdW1hbml0aWVzOzxiciBjbGFzcz0iIj4NCjwv
+bGk+PGxpIGNsYXNzPSIiPkVtZXJnaW5nIHRlY2hub2xvZ2llcyBzdWNoIGFzIHBoeXNpY2FsIGNv
+bXB1dGluZywgc2luZ2xlLWJvYXJkIGNvbXB1dGVycywgbWluaW1hbCBjb21wdXRpbmcsIHdlYXJh
+YmxlIGRldmljZXMsIGFuZCBoYXB0aWMgdGVjaG5vbG9naWVzIGFwcGxpZWQgdG8gaHVtYW5pdGll
+cyByZXNlYXJjaDs8YnIgY2xhc3M9IiI+DQo8L2xpPjxsaSBjbGFzcz0iIj5JbnN0aXR1dGlvbmFs
+IGFzcGVjdHMgb2YgREgsIGludGVyZGlzY2lwbGluYXJ5IGFzcGVjdHMgb2Ygc2Nob2xhcnNoaXAs
+IG9wZW4gc2NpZW5jZSwgcHVibGljIGh1bWFuaXRpZXMsIHNvY2lldGFsIGVuZ2FnZW1lbnQgYW5k
+IGltcGFjdCBvZiBESDs8YnIgY2xhc3M9IiI+DQo8L2xpPjxsaSBjbGFzcz0iIj5EaWdpdGFsIEh1
+bWFuaXRpZXMgcGVkYWdvZ3kgYW5kIGFjYWRlbWljIGN1cnJpY3VsYTs8YnIgY2xhc3M9IiI+DQo8
+L2xpPjxsaSBjbGFzcz0iIj5EaWdpdGFsIFJlc2VhcmNoIGluZnJhc3RydWN0dXJlcywgZGlnaXRh
+bCBsaWJyYXJpZXMgYW5kIHZpcnR1YWwgcmVzZWFyY2ggZW52aXJvbm1lbnQsIGNyaXRpY2FsIGlu
+ZnJhc3RydWN0dXJlIHN0dWRpZXMsIG1lZGlhIGFyY2hhZW9sb2d5LCBldGMuOzxiciBjbGFzcz0i
+Ij4NCjwvbGk+PGxpIGNsYXNzPSIiPkFueSBvdGhlciB0aGVtZSBwZXJ0YWluaW5nIHRvIHRoZSBE
+aWdpdGFsIEh1bWFuaXRpZXM8YnIgY2xhc3M9IiI+DQo8L2xpPjwvdWw+DQo8L2Rpdj4NCjxkaXYg
+Y2xhc3M9IiI+PGJyIGNsYXNzPSIiPg0KPC9kaXY+DQo8ZGl2IGNsYXNzPSIiPlRoZSBwcmltYXJ5
+IGxhbmd1YWdlIG9mIHRoZSBjb25mZXJlbmNlIHdpbGwgYmUgRW5nbGlzaCwgYnV0IHdlIHdhcm1s
+eSBpbnZpdGUgcHJvcG9zYWxzIHdyaXR0ZW4gaW4gb3RoZXIgbGFuZ3VhZ2VzIGZvciB3aGljaCB3
+ZSBoYXZlIGEgc3VmZmljaWVudCBwb29sIG9mIHBlZXIgcmV2aWV3ZXJzIChHZXJtYW4sIEl0YWxp
+YW4sIEZyZW5jaCBhbmQgU3BhbmlzaCkuPC9kaXY+DQo8ZGl2IGNsYXNzPSIiPjxiciBjbGFzcz0i
+Ij4NCjwvZGl2Pg0KPGRpdiBjbGFzcz0iIj5QcmVzZW50YXRpb25zIG1heSBpbmNsdWRlOjwvZGl2
+Pg0KPGRpdiBjbGFzcz0iIj48YnIgY2xhc3M9IiI+DQo8L2Rpdj4NCjxkaXYgY2xhc3M9IiI+DQo8
+dWwgY2xhc3M9IiI+DQo8bGkgY2xhc3M9IiI+UG9zdGVycyAoYWJzdHJhY3QgbWF4aW11bSA3NTAg
+d29yZHMpPGJyIGNsYXNzPSIiPg0KPC9saT48bGkgY2xhc3M9IiI+U2hvcnQgcGFwZXJzIChhYnN0
+cmFjdCBtYXhpbXVtIDEgMDAwIHdvcmRzKTxiciBjbGFzcz0iIj4NCjwvbGk+PGxpIGNsYXNzPSIi
+PkxvbmcgcGFwZXJzIChhYnN0cmFjdCBtYXhpbXVtIDEgNTAwIHdvcmRzKTxiciBjbGFzcz0iIj4N
+CjwvbGk+PGxpIGNsYXNzPSIiPk11bHRpcGxlLXBhcGVyIHBhbmVscyAoNTAwLXdvcmQgYWJzdHJh
+Y3RzICYjNDM7IDUwMC13b3JkIG92ZXJ2aWV3KTxiciBjbGFzcz0iIj4NCjwvbGk+PGxpIGNsYXNz
+PSIiPlByZS1jb25mZXJlbmNlIHdvcmtzaG9wcyBhbmQgdHV0b3JpYWxzIChwcm9wb3NhbCBtYXhp
+bXVtIDEgNTAwIHdvcmRzKTxiciBjbGFzcz0iIj4NCjwvbGk+PC91bD4NCjwvZGl2Pg0KPGRpdiBj
+bGFzcz0iIj5UaGUgZGVhZGxpbmUgZm9yIHN1Ym1pdHRpbmcgcG9zdGVyLCBzaG9ydCBwYXBlciwg
+bG9uZyBwYXBlciwgYW5kIG11bHRpcGxlLXBhcGVyIHBhbmVsIHByb3Bvc2FscyB0byB0aGUgaW50
+ZXJuYXRpb25hbCBQcm9ncmFtIENvbW1pdHRlZSBpcyAxMTo1OXBtIEdNVCAyNyBOb3ZlbWJlciAy
+MDE4LiBQcmVzZW50ZXJzIHdpbGwgYmUgbm90aWZpZWQgb2YgYWNjZXB0YW5jZSBieSBNYXJjaCAz
+IDIwMTkuPC9kaXY+DQo8ZGl2IGNsYXNzPSIiPjxiciBjbGFzcz0iIj4NCjwvZGl2Pg0KPGRpdiBj
+bGFzcz0iIj5UaGUgZGVhZGxpbmUgZm9yIHN1Ym1pdHRpbmcgd29ya3Nob3BzIGFuZCB0dXRvcmlh
+bHMsICwgaXMgMTE6NTlwbSBHTVQsIDEwIEphbnVhcnkgMjAxOSwgd2l0aCBub3RpY2Ugb2YgYWNj
+ZXB0YW5jZSBieSAzIE1hcmNoIDIwMTkuPC9kaXY+DQo8ZGl2IGNsYXNzPSIiPjxiciBjbGFzcz0i
+Ij4NCjwvZGl2Pg0KPGRpdiBjbGFzcz0iIj5Qcm9wb3NhbCBtdXN0IGJlIHN1Ym1pdHRlZCB2aWEm
+bmJzcDs8YSBocmVmPSJodHRwczovL3d3dy5jb25mdG9vbC5wcm8vZGgyMDE5LyIgY2xhc3M9IiI+
+aHR0cHM6Ly93d3cuY29uZnRvb2wucHJvL2RoMjAxOS88L2E+LjwvZGl2Pg0KPGRpdiBjbGFzcz0i
+Ij48YnIgY2xhc3M9IiI+DQo8L2Rpdj4NCjxkaXYgY2xhc3M9IiI+REgyMDE5IHdpbGwgdXNlIGRv
+dWJsZS1ibGluZCBwZWVyIHJldmlldy4gVG8gZmFjaWxpdGF0ZSB0aGlzIHByb2Nlc3MsIHBsZWFz
+ZSByZW1vdmUgYWxsIGlkZW50aWZ5aW5nIGluZm9ybWF0aW9uIGZyb20geW91ciBwcm9wb3NhbCBz
+dWJtaXNzaW9uIGluY2x1ZGluZyBhdXRob3IgbmFtZShzKSBhbmQgYWZmaWxpYXRpb24ocyksIHBy
+b2plY3QgVVJMcywgZXRjLi48L2Rpdj4NCjxkaXYgY2xhc3M9IiI+PGJyIGNsYXNzPSIiPg0KPC9k
+aXY+DQo8ZGl2IGNsYXNzPSIiPldoZW4gc3VibWl0dGluZyBwcm9wb3NhbHMsIHByZXZpb3VzIERp
+Z2l0YWwgSHVtYW5pdGllcyBjb25mZXJlbmNlIHBhcnRpY2lwYW50cyBhbmQgcmV2aWV3ZXJzIHNo
+b3VsZCB1c2UgdGhlaXIgZXhpc3RpbmcgQ29uZlRvb2wgYWNjb3VudCByYXRoZXIgdGhhbiBzZXR0
+aW5nIHVwIG5ldyBvbmVzLiBJZiB5b3UgaGF2ZSBmb3Jnb3R0ZW4geW91ciB1c2VybmFtZSBvciBw
+YXNzd29yZCwgcGxlYXNlIGNvbnRhY3QgUHJvZ3JhbSBDb21taXR0ZWUNCiBDby1jaGFpcnMgRmFi
+aW8gQ2lvdHRpOiBmYWJpbyBbZG90XSBjaW90dGkgW2F0XSB1bmlyb21hMiBbZG90XSBpdCBvciBF
+bGVuYSBQaWVyYXp6bzogZWxlbmEgW2RvdF0gcGllcmF6em8gW2F0XSB1bml2LWdyZW5vYmxlLWFs
+cGVzIFtkb3RdIGZyLjwvZGl2Pg0KPGRpdiBjbGFzcz0iIj48YnIgY2xhc3M9IiI+DQo8L2Rpdj4N
+CjxkaXYgY2xhc3M9IiI+VG8gZmFjaWxpdGF0ZSB0aGUgcHJvZHVjdGlvbiBvZiB0aGUgY29uZmVy
+ZW5jZSBhYnN0cmFjdCBib29rLCBhdXRob3JzIG9mIGFjY2VwdGVkIHBhcGVycyB3aWxsIGJlIGFz
+a2VkIHRvIHN1Ym1pdCBmaW5hbCBhcHByb3ZlZCB2ZXJzaW9ucyBvZiB0aGVpciBhYnN0cmFjdHMg
+dmlhIHRoZSBESENvbnZhbGlkYXRvciwgYXZhaWxhYmxlIHRocm91Z2ggQ29uZlRvb2wsIHdoaWNo
+IGNyZWF0ZXMgYSBURUkgdGV4dCBiYXNlIG9mIGNvbmZlcmVuY2UNCiBhYnN0cmFjdHMgZm9yIGZ1
+cnRoZXIgcHJvY2Vzc2luZy48L2Rpdj4NCjxkaXYgY2xhc3M9IiI+PGJyIGNsYXNzPSIiPg0KPC9k
+aXY+DQo8ZGl2IGNsYXNzPSIiPlByZXNlbnRlcnMgYXJlIGVuY291cmFnZWQgdG8gZmFtaWxpYXJp
+emUgdGhlbXNlbHZlcyB3aXRoIEdsb2JhbCBPdXRsb29rOjpEaWdpdGFsIEh1bWFuaXRpZXPigJkg
+VHJhbnNsYXRpb24gVG9vbGtpdCB0byBwcmVwYXJlIGZvciBhIG11bHRpbGluZ3VhbCBjb25mZXJl
+bmNlLiBUaGlzIGluY2x1ZGVzIGd1aWRlbGluZXMgYW5kIGJlc3QgcHJhY3RpY2VzIGZvciBtdWx0
+aWxpbmd1YWwgc2xpZGVzL3Bvc3RlcnMvaGFuZG91dHMgYW5kDQogYWQgaG9jIGNvbW11bml0eSB0
+cmFuc2xhdGlvbjombmJzcDs8YSBocmVmPSJodHRwOi8vZ28tZGguZ2l0aHViLmlvL3RyYW5zbGF0
+aW9uLXRvb2xraXQvY29uZmVyZW5jZXMvIiBjbGFzcz0iIj5odHRwOi8vZ28tZGguZ2l0aHViLmlv
+L3RyYW5zbGF0aW9uLXRvb2xraXQvY29uZmVyZW5jZXMvPC9hPi48L2Rpdj4NCjxkaXYgY2xhc3M9
+IiI+PGJyIGNsYXNzPSIiPg0KPC9kaXY+DQo8ZGl2IGNsYXNzPSIiPlNpbWlsYXJseSwgcGFydGlj
+aXBhbnRzIGFyZSBzdHJvbmdseSBlbmNvdXJhZ2VkIHRvIG1ha2UgdGhlbXNlbHZlcyBhd2FyZSBv
+ZiBjdXJyZW50IHJlY29tbWVuZGF0aW9ucyBmb3IgYWNjZXNzaWJpbGl0eSBvZiBwcmVzZW50YXRp
+b25zIGFuZCBtdWx0aW1lZGlhLWJhc2VkIG1hdGVyaWFscy4gUGxlYXNlIHJldmlldyB0aGUgV29y
+bGQgV2lkZSBXZWIgQ29uc29ydGl1beKAmXMgV2ViIEluaXRpYXRpdmUgR3VpZGVsaW5lcyBvbiBQ
+cmVzZW50YXRpb24NCiBBY2Nlc3NpYmlsaXR5OiZuYnNwOzxhIGhyZWY9Imh0dHBzOi8vd3d3Lncz
+Lm9yZy9XQUkvdHJhaW5pbmcvYWNjZXNzaWJsZSIgY2xhc3M9IiI+aHR0cHM6Ly93d3cudzMub3Jn
+L1dBSS90cmFpbmluZy9hY2Nlc3NpYmxlPC9hPi48L2Rpdj4NCjxkaXYgY2xhc3M9IiI+PGJyIGNs
+YXNzPSIiPg0KPC9kaXY+DQo8ZGl2IGNsYXNzPSIiPklJOiBUWVBFUyBPRiBQUk9QT1NBTFM8L2Rp
+dj4NCjxkaXYgY2xhc3M9IiI+PGJyIGNsYXNzPSIiPg0KPC9kaXY+DQo8ZGl2IGNsYXNzPSIiPlBy
+b3Bvc2FscyBtYXkgYmUgb2YgZml2ZSB0eXBlczogKDEpIHBvc3RlciBwcmVzZW50YXRpb25zOyAo
+Mikgc2hvcnQgcGFwZXIgcHJlc2VudGF0aW9uczsgKDMpIGxvbmcgcGFwZXJzOyAoNCkgbXVsdGlw
+bGUtcGFwZXIgcGFuZWxzOyAoNSkgcHJlLWNvbmZlcmVuY2Ugd29ya3Nob3BzIGFuZCB0dXRvcmlh
+bHMuIFNob3J0IHBhcGVyIGFuZCBwb3N0ZXIgcHJvcG9zYWxzIGFyZSBlc3BlY2lhbGx5IHdlbGNv
+bWUgYW5kLCBiYXNlZA0KIG9uIHBlZXIgcmV2aWV3IGFuZCBpdHMgbWFuZGF0ZSB0byBjcmVhdGUg
+YSBiYWxhbmNlZCBhbmQgdmFyaWVkIHByb2dyYW0sIHRoZSBQcm9ncmFtIENvbW1pdHRlZSBtYXkg
+b2ZmZXIgYWNjZXB0YW5jZSBpbiBhIGRpZmZlcmVudCBjYXRlZ29yeSBmcm9tIHRoZSBvbmUgaW5p
+dGlhbGx5IHByb3Bvc2VkLiBUaGUgY29tbWl0dGVlIHdpbGwgbm90IG5vcm1hbGx5IGFjY2VwdCBt
+b3JlIHRoYW4gYSB0b3RhbCBvZiB0d28gc3VibWlzc2lvbnMgZnJvbSBvbmUNCiBwcmltYXJ5IG9y
+IGNvLWF1dGhvci4gUGFwZXJzIGFuZCBwb3N0ZXJzIG1heSBiZSBnaXZlbiBpbiBFbmdsaXNoLCBG
+cmVuY2gsIEdlcm1hbiwgSXRhbGlhbiBvciBTcGFuaXNoLjwvZGl2Pg0KPGRpdiBjbGFzcz0iIj48
+YnIgY2xhc3M9IiI+DQo8L2Rpdj4NCjxkaXYgY2xhc3M9IiI+QWxsIHByb3Bvc2FscyBzaG91bGQg
+aW5jbHVkZSByZWxldmFudCBjaXRhdGlvbnMgdG8gc291cmNlcyBpbiB0aGUgYXBwcm9wcmlhdGUg
+bGl0ZXJhdHVyZS4gQ2l0YXRpb25zIGFyZSBub3QgdG8gYmUgaW5jbHVkZWQgaW4gdGhlIHdvcmQg
+Y291bnQuIEFkZGl0aW9uYWxseSwgcHJvcG9zYWxzIHRoYXQgY29uY2VudHJhdGUgb24gYSBwYXJ0
+aWN1bGFyIHRvb2wgb3IgZGlnaXRhbCByZXNvdXJjZSBzaG91bGQgY2l0ZSBub24tZGlnaXRhbA0K
+IGFzIHdlbGwgYXMgY29tcHV0ZXItYmFzZWQgYXBwcm9hY2hlcyB0byB0aGUgcHJvYmxlbS48L2Rp
+dj4NCjxkaXYgY2xhc3M9IiI+PGJyIGNsYXNzPSIiPg0KPC9kaXY+DQo8ZGl2IGNsYXNzPSIiPlBv
+c3RlciBQcmVzZW50YXRpb25zPC9kaXY+DQo8ZGl2IGNsYXNzPSIiPlBvc3RlciBwcm9wb3NhbHMg
+KGFic3RyYWN0IG1heGltdW06IDc1MCB3b3JkcykgbWF5IGRlc2NyaWJlIHdvcmsgb24gYW55IHNw
+ZWNpZmljIHRvcGljcyBvciBtZXRob2RzIG9yIHByZXNlbnQgcHJvamVjdHMgYW5kIHNvZnR3YXJl
+IHRvb2xzIGluIGFueSBzdGFnZSBvZiBkZXZlbG9wbWVudC4gUG9zdGVyIHByZXNlbnRhdGlvbnMg
+YXJlIGludGVuZGVkIHRvIGJlIGludGVyYWN0aXZlIHdpdGggdGhlIG9wcG9ydHVuaXR5IHRvDQog
+ZXhjaGFuZ2UgaWRlYXMgb25lLW9uLW9uZSB3aXRoIGF0dGVuZGVlcy4mbmJzcDsgUG9zdGVycyBh
+cmUgaW4gbm8gd2F5IGNvbnNpZGVyZWQgbGVzc2VyIGZvcm1zIG9mIHByZXNlbnRhdGlvbiBhdCB0
+aGUgREggY29uZmVyZW5jZSBhbmQgYXJlIHN1YmplY3QgdG8gdGhlIHNhbWUgc3RyaWN0IHBlZXIg
+cmV2aWV3IGFzIG90aGVyIHByZXNlbnRhdGlvbiB0eXBlcy4gU3VibWlzc2lvbnMgaW4gdGhpcyBj
+YXRlZ29yeSBhcmUgc3Ryb25nbHkgZW5jb3VyYWdlZC48L2Rpdj4NCjxkaXYgY2xhc3M9IiI+PGJy
+IGNsYXNzPSIiPg0KPC9kaXY+DQo8ZGl2IGNsYXNzPSIiPlNob3J0IFBhcGVyczwvZGl2Pg0KPGRp
+diBjbGFzcz0iIj5TaG9ydCBwYXBlciBwcm9wb3NhbHMgKGFic3RyYWN0IG1heGltdW06IDEwMDAg
+d29yZHMpIGFyZSBpbnRlbmRlZCB0byBiZSBkeW5hbWljIDEwLW1pbnV0ZSBwcmVzZW50YXRpb25z
+IGFwcHJvcHJpYXRlIGZvciByZXBvcnRpbmcgb24gZXhwZXJpbWVudHMgb3Igd29ya3MgaW4gcHJv
+Z3Jlc3Mgb3IgZm9yIGRlc2NyaWJpbmcgdG9vbHMgb3Igc29mdHdhcmUgaW4gZGV2ZWxvcG1lbnQu
+IFNob3J0LXBhcGVyIHNlc3Npb25zIHNlZWsNCiB0byBvcGVuIGRpYWxvZ3VlcyBhbW9uZyBzY2hv
+bGFycyB3b3JraW5nIG9uIHJlbGF0ZWQgdG9waWNzLiBTaG9ydCBwYXBlcnMgYXJlIGluIG5vIHdh
+eSBjb25zaWRlcmVkIGxlc3NlciBmb3JtcyBvZiBwcmVzZW50YXRpb24gYXQgdGhlIERIIGNvbmZl
+cmVuY2UgYW5kIGFyZSBzdWJqZWN0IHRvIHRoZSBzYW1lIHN0cmljdCBwZWVyIHJldmlldyBhcyBv
+dGhlciBwcmVzZW50YXRpb24gdHlwZXMuIFN1Ym1pc3Npb25zIGluIHRoaXMgY2F0ZWdvcnkgYXJl
+DQogc3Ryb25nbHkgZW5jb3VyYWdlZC48L2Rpdj4NCjxkaXYgY2xhc3M9IiI+PGJyIGNsYXNzPSIi
+Pg0KPC9kaXY+DQo8ZGl2IGNsYXNzPSIiPkxvbmcgUGFwZXJzPC9kaXY+DQo8ZGl2IGNsYXNzPSIi
+PlByb3Bvc2FscyBmb3IgbG9uZyBwYXBlcnMgKGFic3RyYWN0IG1heGltdW06IDE1MDAgd29yZHMp
+IHNob3VsZCBkZWFsIHdpdGggc3Vic3RhbnRpYWwgb3IgY29tcGxldGVkIHJlc2VhcmNoOyByZXBv
+cnQgdGhlIGRldmVsb3BtZW50IG9mIHNpZ25pZmljYW50IG5ldyBtZXRob2RvbG9naWVzIG9yIGRp
+Z2l0YWwgcmVzb3VyY2VzOyBvciBwcmVzZW50IHJpZ29yb3VzIHRoZW9yZXRpY2FsLCBzcGVjdWxh
+dGl2ZSwgb3IgY3JpdGljYWwNCiBkaXNjdXNzaW9ucy4gSW5kaXZpZHVhbCBwYXBlcnMgd2lsbCBi
+ZSBhbGxvY2F0ZWQgMjAgbWludXRlcyBmb3IgcHJlc2VudGF0aW9uIGFuZCAxMCBtaW51dGVzIGZv
+ciBxdWVzdGlvbnMuJm5ic3A7PC9kaXY+DQo8ZGl2IGNsYXNzPSIiPlByb3Bvc2FscyByZWxhdGlu
+ZyB0byB0aGUgZGV2ZWxvcG1lbnQgb2YgbmV3IGNvbXB1dGluZyBtZXRob2RvbG9naWVzIG9yIGRp
+Z2l0YWwgcmVzb3VyY2VzIHNob3VsZCBpbmRpY2F0ZSBob3cgdGhlIG1ldGhvZHMgYXJlIGFwcGxp
+ZWQgdG8gcmVzZWFyY2ggYW5kL29yIHRlYWNoaW5nIGluIHRoZSBodW1hbml0aWVzIGFuZCB3aGF0
+IHRoZWlyIGltcGFjdCBoYXMgYmVlbiBpbiBmb3JtdWxhdGluZyBhbmQgYWRkcmVzc2luZyByZXNl
+YXJjaA0KIHF1ZXN0aW9ucy4gVGhleSBzaG91bGQgYWxzbyBpbmNsdWRlIGNyaXRpY2FsIGFzc2Vz
+c21lbnRzIG9mIHRoZWlyIGFwcGxpY2F0aW9uIGluIHRoZSBodW1hbml0aWVzIGFzIHdlbGwgYXMg
+b2YgdGhlIGNvbXB1dGluZyBtZXRob2RvbG9naWVzIHVzZWQuPC9kaXY+DQo8ZGl2IGNsYXNzPSIi
+PjxiciBjbGFzcz0iIj4NCjwvZGl2Pg0KPGRpdiBjbGFzcz0iIj5NdWx0aXBsZSBQYXBlciBQYW5l
+bHM8L2Rpdj4NCjxkaXYgY2xhc3M9IiI+UGFuZWxzIChhYnN0cmFjdCBtYXhpbXVtOiA1MDAgd29y
+ZHMgZm9yIG92ZXJ2aWV3LCBwbHVzIDUwMCB3b3JkcyBmb3IgZWFjaCBwYXBlcikgc2hvdWxkIGZv
+Y3VzIG9uIGEgc2luZ2xlIHRoZW1lIGFuZCBiZSBpbmhlcmVudGx5IGNvaGVyZW50IGluIHByZXNl
+bnRpbmcgYSBzdWJzdGFudGlhbCBib2R5IG9mIHJlc2VhcmNoIG9yIGEgcmVzZWFyY2ggcXVlc3Rp
+b24uIFBhbmVsIHN1Ym1pc3Npb25zIHdoaWNoIGRvIG5vdCBtZWV0DQogdGhpcyBjcml0ZXJpb24g
+YW5kIHdoaWNoIGNvdWxkIGZ1bmN0aW9uIGFzIGluZGl2aWR1YWwgcGFwZXJzIHdpbGwgbm90IG5v
+cm1hbGx5IGJlIGFjY2VwdGVkLiBBIHBhbmVsIHNob3VsZCBiZSBjb25jZWl2ZWQgYXMgYSA5MC1t
+aW51dGUgc2Vzc2lvbiBvZiBmb3VyIHRvIHNpeCBzcGVha2Vycy48L2Rpdj4NCjxkaXYgY2xhc3M9
+IiI+U2luY2UgdGhlIGNvbmZlcmVuY2Ugb2ZmZXJzIGFuIGltcG9ydGFudCBvY2Nhc2lvbiB0byBh
+dHRyYWN0IG5ldyBzY2hvbGFycyBmcm9tIGRpdmVyc2UgYmFja2dyb3VuZHMgdG8gc3BlY2lmaWMg
+cmVzZWFyY2ggYXJlYXMsIHRob3NlIHN1Ym1pdHRpbmcgcHJvcG9zYWxzIGZvciBwYW5lbHMgYXJl
+IGFkdmlzZWQgdG8gZW5zdXJlIHRoYXQgdGhlIGNvbnN0aXR1dGlvbiBvZiB0aGUgcGFuZWwgcmVm
+bGVjdHMgdGhlIGNvbnN0aXR1dGlvbg0KIG9mIHRoZSBmaWVsZCBhbmQvb3IgcmVzZWFyY2ggdG9w
+aWMgdGhhdCBpcyBiZWluZyBhZGRyZXNzZWQgYW5kIEFESE/igJlzIGV4cHJlc3NlZCBjb21taXRt
+ZW50IHRvIGRpdmVyc2l0eSBvciB0byBleHBsaWNpdGx5IGFkZHJlc3MgcHJvYmxlbXMgaW4gdGhv
+c2UgYXJlYXMuIEluIGNhc2UgdGhlIHByb3Bvc2Vy4oCZcyBvd24gbmV0d29yayBpcyB0b28gbGlt
+aXRlZCwgdGhlIFByb2dyYW0gQ29tbWl0dGVlIGNhbiBhZHZpc2UgdGhlbSBwcmlvciB0byBzdWJt
+aXNzaW9uDQogb24gd2hvbSB0byBjb250YWN0IHRvIGJyb2FkZW4gdGhlIHBhbmVsLiBQbGVhc2Ug
+Y29udGFjdCB0aGUgUEMgY2hhaXJzIEZhYmlvIENpb3R0aSBmYWJpbyBbZG90XSBjaW90dGkgW2F0
+XSB1bmlyb21hMiBbZG90XSBpdCBvciBFbGVuYSBQaWVyYXp6byBlbGVuYSBbZG90XSBwaWVyYXp6
+byBbYXRdIHVuaXYtZ3Jlbm9ibGUtYWxwZXMgW2RvdF0gZnIgaWYgeW91IG5lZWQgYWR2aWNlLjwv
+ZGl2Pg0KPGRpdiBjbGFzcz0iIj48YnIgY2xhc3M9IiI+DQo8L2Rpdj4NCjxkaXYgY2xhc3M9IiI+
+UHJlLUNvbmZlcmVuY2UgV29ya3Nob3BzIGFuZCBUdXRvcmlhbHM8L2Rpdj4NCjxkaXYgY2xhc3M9
+IiI+VHV0b3JpYWxzIGFyZSBub3JtYWxseSBoYWxmLWRheSBpbnRlbnNpdmUgaW50cm9kdWN0aW9u
+cyB0byBzcGVjaWZpYyB0ZWNobmlxdWVzLCBzb2Z0d2FyZSBwYWNrYWdlcywgb3IgdGhlb3JldGlj
+YWwgYXBwcm9hY2hlcyB3aXRoIGEgc21hbGwgbnVtYmVyIG9mIHBhcnRpY2lwYW50cy4gV29ya3No
+b3AgcHJvcG9zYWxzIG1heSB0YWtlIG1hbnkgZm9ybXMsIGluY2x1ZGluZyBwcm9wb3NhbHMgd2l0
+aCBhIGZ1bGwgc2xhdGUgb2YNCiBzcGVha2VycyBhbmQgcHJlc2VudGF0aW9ucywgYXMgd2VsbCBh
+cyBwcm9wb3NhbHMgdG8gaXNzdWUgYW4gaW5kZXBlbmRlbnQgY2FsbCBmb3IgcGFwZXJzIGZyb20g
+d2hpY2ggc3VibWlzc2lvbnMgd2lsbCBiZSBjaG9zZW4uIFBhcnRpY2lwYW50cyBpbiBwcmUtY29u
+ZmVyZW5jZSB3b3Jrc2hvcHMgYW5kIHR1dG9yaWFscyB3aWxsIGJlIGV4cGVjdGVkIHRvIHJlZ2lz
+dGVyIGZvciB0aGUgZnVsbCBjb25mZXJlbmNlIGFzIHdlbGwgYXMgcGF5IGEgc21hbGwNCiBhZGRp
+dGlvbmFsIGZlZSB0byB0aGUgY29uZmVyZW5jZS4gV29ya3Nob3BzIGFyZSBleHBlY3RlZCB0byBi
+ZSBzZWxmLWZpbmFuY2luZyBpbiB0ZXJtcyBvZiBoYXJkd2FyZSBhbmQgc29mdHdhcmUgbmVlZHMu
+PC9kaXY+DQo8ZGl2IGNsYXNzPSIiPjxiciBjbGFzcz0iIj4NCjwvZGl2Pg0KPGRpdiBjbGFzcz0i
+Ij5Qcm9wb3NhbHMgc2hvdWxkIHByb3ZpZGUgdGhlIGZvbGxvd2luZyBpbmZvcm1hdGlvbjo8L2Rp
+dj4NCjxkaXYgY2xhc3M9IiI+PGJyIGNsYXNzPSIiPg0KPC9kaXY+DQo8ZGl2IGNsYXNzPSIiPg0K
+PHVsIGNsYXNzPSIiPg0KPGxpIGNsYXNzPSIiPlRpdGxlIGFuZCBicmllZiBkZXNjcmlwdGlvbiBv
+ZiB0aGUgY29udGVudCBvciB0b3BpYyBhbmQgaXRzIHJlbGV2YW5jZSB0byB0aGUgRGlnaXRhbCBI
+dW1hbml0aWVzIGNvbW11bml0eSAobm90IG1vcmUgdGhhbiAxNTAwIHdvcmRzKTs8YnIgY2xhc3M9
+IiI+DQo8L2xpPjxsaSBjbGFzcz0iIj5GdWxsIGNvbnRhY3QgaW5mb3JtYXRpb24gZm9yIGFsbCB0
+dXRvcmlhbCBpbnN0cnVjdG9ycyBvciB3b3Jrc2hvcCBsZWFkZXJzLCBpbmNsdWRpbmcgYSBvbmUt
+cGFyYWdyYXBoIHN0YXRlbWVudCBzdW1tYXJpemluZyB0aGVpciByZXNlYXJjaCBpbnRlcmVzdHMg
+YW5kIGFyZWFzIG9mIGV4cGVydGlzZTs8YnIgY2xhc3M9IiI+DQo8L2xpPjxsaSBjbGFzcz0iIj5E
+ZXNjcmlwdGlvbiBvZiB0YXJnZXQgYXVkaWVuY2UgYW5kIGV4cGVjdGVkIG51bWJlciBvZiBwYXJ0
+aWNpcGFudHMgKGJhc2VkLCBpZiBwb3NzaWJsZSwgb24gcGFzdCBleHBlcmllbmNlKTsgYW5kPGJy
+IGNsYXNzPSIiPg0KPC9saT48bGkgY2xhc3M9IiI+U3BlY2lhbCByZXF1aXJlbWVudHMgZm9yIHRl
+Y2huaWNhbCBzdXBwb3J0LjxiciBjbGFzcz0iIj4NCjwvbGk+PC91bD4NCjwvZGl2Pg0KPGRpdiBj
+bGFzcz0iIj5BZGRpdGlvbmFsbHksIHR1dG9yaWFsIHByb3Bvc2FscyBzaG91bGQgaW5jbHVkZTo8
+L2Rpdj4NCjxkaXYgY2xhc3M9IiI+PGJyIGNsYXNzPSIiPg0KPC9kaXY+DQo8ZGl2IGNsYXNzPSIi
+Pg0KPHVsIGNsYXNzPSIiPg0KPGxpIGNsYXNzPSIiPkEgYnJpZWYgb3V0bGluZSBzaG93aW5nIHRo
+YXQgdGhlIGNvcmUgY29udGVudCBjYW4gYmUgY292ZXJlZCBpbiBhIGhhbGYtZGF5IChhcHByb3hp
+bWF0ZWx5IDMgaG91cnMsIHBsdXMgYnJlYWtzKS4gSW4gZXhjZXB0aW9uYWwgY2FzZXMsIGZ1bGwt
+ZGF5IHR1dG9yaWFscyBtYXkgYmUgc3VwcG9ydGVkLjxiciBjbGFzcz0iIj4NCjwvbGk+PC91bD4N
+CkFuZCB3b3Jrc2hvcCBwcm9wb3NhbHMgbXVzdCBpbmNsdWRlOjxiciBjbGFzcz0iIj4NCjwvZGl2
+Pg0KPGRpdiBjbGFzcz0iIj48YnIgY2xhc3M9IiI+DQo8L2Rpdj4NCjxkaXYgY2xhc3M9IiI+DQo8
+dWwgY2xhc3M9IiI+DQo8bGkgY2xhc3M9IiI+SW50ZW5kZWQgbGVuZ3RoIGFuZCBmb3JtYXQgb2Yg
+dGhlIHdvcmtzaG9wIChtaW5pbXVtIGhhbGYtZGF5OyBtYXhpbXVtIG9uZS1hbmQtYS1oYWxmIGRh
+eXMpOzxiciBjbGFzcz0iIj4NCjwvbGk+PGxpIGNsYXNzPSIiPkFueSBzcGVjaWFsIHJlcXVpcmVt
+ZW50cyBmb3IgYXR0ZW5kZWVzLCBpbmNsdWRpbmcgc29mdHdhcmUgaW5zdGFsbGF0aW9uICh0aGUg
+Y29uZmVyZW5jZSB3aWxsIGhhbmRsZSB0cmFkaXRpb25hbCB0ZWNobm9sb2dpY2FsIHN1cHBvcnQs
+IGJ1dCB3b3Jrc2hvcCBvcmdhbml6ZXJzIGFyZSBleHBlY3RlZCB0byBtYW5hZ2Ugc3BlY2lmaWMg
+bmVlZHMgc3VjaCBhcyBhY2Nlc3MgdG8gc29mdHdhcmUsIHNlcnZlcnMsIGV0Yy4pLiZuYnNwOyZu
+YnNwOzxiciBjbGFzcz0iIj4NCjwvbGk+PGxpIGNsYXNzPSIiPklmIHRoZSB3b3Jrc2hvcCBpcyB0
+byBoYXZlIGl0cyBvd24gY2FsbCBmb3IgcGFydGljaXBhdGlvbiwgYSBkZWFkbGluZSBhbmQgZGF0
+ZSBmb3Igbm90aWZpY2F0aW9uIG9mIGFjY2VwdGFuY2VzLCBhbmQgYSBsaXN0IG9mIGluZGl2aWR1
+YWxzIHdobyBoYXZlIGFncmVlZCB0byBiZSBwYXJ0IG9mIHRoZSB3b3Jrc2hvcOKAmXMgUHJvZ3Jh
+bSBDb21taXR0ZWUuPGJyIGNsYXNzPSIiPg0KPC9saT48L3VsPg0KPC9kaXY+DQo8ZGl2IGNsYXNz
+PSIiPkFzIHdpdGggTXVsdGlwbGUgUGFwZXIgUGFuZWwgcHJvcG9zYWxzLCB0aG9zZSBzdWJtaXR0
+aW5nIHByb3Bvc2FscyBmb3IgcHJlLWNvbmZlcmVuY2Ugd29ya3Nob3BzIGFyZSBhZHZpc2VkIHRv
+IGVuc3VyZSB0aGF0IHRoZSBjb25zdGl0dXRpb24gb2YgdGhlIHdvcmtzaG9wIHJlZmxlY3RzIHRo
+ZSBjb25zdGl0dXRpb24gb2YgdGhlIGZpZWxkIGFuZC9vciByZXNlYXJjaCB0b3BpYyB0aGF0IGlz
+IGJlaW5nIGFkZHJlc3NlZCBhbmQNCiBBREhP4oCZcyBleHByZXNzZWQgY29tbWl0bWVudCB0byBk
+aXZlcnNpdHksIG9yIGV4cGxpY2l0bHkgYWRkcmVzcyBwcm9ibGVtcyBpbiB0aG9zZSBhcmVhcy4m
+bmJzcDsgSW4gY2FzZSB0aGUgcHJvcG9zZXLigJlzIG93biBuZXR3b3JrIGlzIHRvbyBsaW1pdGVk
+LCB0aGUgUHJvZ3JhbSBDb21taXR0ZWUgY2FuIGFkdmlzZSB0aGVtIGJlZm9yZSBzdWJtaXNzaW9u
+IG9uIHdob20gdG8gY29udGFjdCB0byBicm9hZGVuIHRoZSBwYW5lbC4gUGxlYXNlIGNvbnRhY3Qg
+dGhlDQogUEMgY2hhaXJzIEZhYmlvIENpb3R0aSBmYWJpbyBbZG90XSBjaW90dGkgW2F0XSB1bmly
+b21hMiBbZG90XSBpdCBvciBFbGVuYSBQaWVyYXp6byBlbGVuYSBbZG90XSBwaWVyYXp6byBbYXRd
+IHVuaXYtZ3Jlbm9ibGUtYWxwZXMgW2RvdF0gZnIgaWYgeW91IG5lZWQgYWR2aWNlLjwvZGl2Pg0K
+PGRpdiBjbGFzcz0iIj48YnIgY2xhc3M9IiI+DQo8L2Rpdj4NCjxkaXYgY2xhc3M9IiI+Ti5CLiBQ
+cmUtY29uZmVyZW5jZSB3b3Jrc2hvcHMgZW5kb3JzZWQgYnkgQURITyBTcGVjaWFsIEludGVyZXN0
+IEdyb3VwcyAoU0lHcykgd2lsbCBiZSBjb25zaWRlcmVkIHZpYSBzZXBhcmF0ZSBjYWxscyBwdXQg
+b3V0IGJ5IFNJRyBjb252ZW5lcnMgYW5kIHdpbGwgbm90IGJlIGV2YWx1YXRlZCBpbiB0aGUgZ2Vu
+ZXJhbCBhY2FkZW1pYyBwcm9ncmFtIHJldmlldyBwcm9jZXNzLjwvZGl2Pg0KPGRpdiBjbGFzcz0i
+Ij48YnIgY2xhc3M9IiI+DQo8L2Rpdj4NCjxkaXYgY2xhc3M9IiI+SUlJOiBBREhPIENPTkZFUkVO
+Q0UgQ09ERSBPRiBDT05EVUNUPC9kaXY+DQo8ZGl2IGNsYXNzPSIiPjxiciBjbGFzcz0iIj4NCjwv
+ZGl2Pg0KPGRpdiBjbGFzcz0iIj5UaGUgQWxsaWFuY2Ugb2YgRGlnaXRhbCBIdW1hbml0aWVzIE9y
+Z2FuaXphdGlvbnMgKEFESE8pIGlzIGRlZGljYXRlZCB0byBjcmVhdGluZyBhIHNhZmUsIHJlc3Bl
+Y3RmdWwsIGFuZCBjb2xsZWdpYWwgY29uZmVyZW5jZSBlbnZpcm9ubWVudCBmb3IgdGhlIGJlbmVm
+aXQgb2YgZXZlcnlvbmUgd2hvIGF0dGVuZHMgYW5kIGZvciB0aGUgYWR2YW5jZW1lbnQgb2YgcmVz
+ZWFyY2ggYW5kIHNjaG9sYXJzaGlwIGluIGZpZWxkcyBzdXBwb3J0ZWQNCiBieSBvdXIgY29uc3Rp
+dHVlbnQgb3JnYW5pemF0aW9ucy4gVGhlIEFESE8gRGlnaXRhbCBIdW1hbml0aWVzIGNvbmZlcmVu
+Y2UgQ29kZSBvZiBDb25kdWN0IGlzIGF2YWlsYWJsZSBhdCZuYnNwOzxhIGhyZWY9Imh0dHA6Ly9h
+ZGhvLm9yZy9hZG1pbmlzdHJhdGlvbi9jb25mZXJlbmNlLWNvb3JkaW5hdGluZy1wcm9ncmFtLWNv
+bW1pdHRlZS9hZGhvLWNvbmZlcmVuY2UtY29kZS1jb25kdWN0IiBjbGFzcz0iIj5odHRwOi8vYWRo
+by5vcmcvYWRtaW5pc3RyYXRpb24vY29uZmVyZW5jZS1jb29yZGluYXRpbmctcHJvZ3JhbS1jb21t
+aXR0ZWUvYWRoby1jb25mZXJlbmNlLWNvZGUtY29uZHVjdDwvYT4uDQogQWxsIHBlb3BsZSBzdWJt
+aXR0aW5nIHByb3Bvc2FscyB0byBESDIwMTggc2hvdWxkIG9ic2VydmUgYW5kIHVwaG9sZCBpdC48
+L2Rpdj4NCjxkaXYgY2xhc3M9IiI+PGJyIGNsYXNzPSIiPg0KPC9kaXY+DQo8ZGl2IGNsYXNzPSIi
+PklWOiBWRU5VRTwvZGl2Pg0KPGRpdiBjbGFzcz0iIj48YnIgY2xhc3M9IiI+DQo8L2Rpdj4NCjxk
+aXYgY2xhc3M9IiI+REgyMDE5IHdpbGwgdGFrZSBwbGFjZSBhdCB0aGUgVGl2b2xpVnJlZGVuYnVy
+ZyBtdXNpYyB0aGVhdHJlIGluIHRoZSBjaXR5IGNlbnRyZSBvZiBVdHJlY2h0LCB0aGUgTmV0aGVy
+bGFuZHMsIGFuZCBpcyBob3N0ZWQgYnkgdGhlIEZhY3VsdHkgb2YgSHVtYW5pdGllcyBhdCBVdHJl
+Y2h0IFVuaXZlcnNpdHkuIFRoZSBjby1jaGFpcnMgb2YgdGhlIGxvY2FsIG9yZ2FuaXphdGlvbiBj
+b21taXR0ZWUgYXJlIEZyYW5jaXNrYSBkZSBKb25nDQogYW5kIEpvcmlzIHZhbiBFaWpuYXR0ZW4u
+PC9kaXY+DQo8ZGl2IGNsYXNzPSIiPjxiciBjbGFzcz0iIj4NCjwvZGl2Pg0KPGRpdiBjbGFzcz0i
+Ij5WOiBCVVJTQVJJRVMgRk9SIEVBUkxZLUNBUkVFUiBBTkQgRU1FUkdJTkcgU0NIT0xBUlM8L2Rp
+dj4NCjxkaXYgY2xhc3M9IiI+PGJyIGNsYXNzPSIiPg0KPC9kaXY+DQo8ZGl2IGNsYXNzPSIiPlRo
+ZSBBbGxpYW5jZSBvZiBEaWdpdGFsIEh1bWFuaXRpZXMgT3JnYW5pemF0aW9ucyB3aWxsIG9mZmVy
+IGEgbGltaXRlZCBudW1iZXIgb2YgYnVyc2FyaWVzIGZvciBlYXJseS1jYXJlZXIgc2Nob2xhcnMg
+cHJlc2VudGluZyBhdCB0aGUgY29uZmVyZW5jZS4gQXBwbGljYXRpb24gZ3VpZGVsaW5lcyB3aWxs
+IGFwcGVhciBvbiB0aGUgQURITyB3ZWJzaXRlIGVhcmx5IGluIDIwMTk6Jm5ic3A7PGEgaHJlZj0i
+aHR0cDovL3d3dy5hZGhvLm9yZyIgY2xhc3M9IiI+aHR0cDovL3d3dy5hZGhvLm9yZzwvYT4uPC9k
+aXY+DQo8ZGl2IGNsYXNzPSIiPjxiciBjbGFzcz0iIj4NCjwvZGl2Pg0KPGRpdiBjbGFzcz0iIj5W
+STogSU5URVJOQVRJT05BTCBQUk9HUkFNIENPTU1JVFRFRTwvZGl2Pg0KPGRpdiBjbGFzcz0iIj48
+YnIgY2xhc3M9IiI+DQo8L2Rpdj4NCjxkaXYgY2xhc3M9IiI+Q28tQ2hhaXI6IEVsZW5hIFBpZXJh
+enpvPC9kaXY+DQo8ZGl2IGNsYXNzPSIiPkNvLUNoYWlyOiBGYWJpbyBDaW90dGk8L2Rpdj4NCjxk
+aXYgY2xhc3M9IiI+Q28tVmljZSBDaGFpcjogTGF1cmEgRXN0aWxsPC9kaXY+DQo8ZGl2IGNsYXNz
+PSIiPkNvLVZpY2UgQ2hhaXI6IEplbm5pZmVyIEd1aWxpYW5vPC9kaXY+DQo8ZGl2IGNsYXNzPSIi
+PmFhREggcmVwcmVzZW50YXRpdmU6IFBhdWwgQXJ0aHVyPC9kaXY+DQo8ZGl2IGNsYXNzPSIiPmFh
+REggcmVwcmVzZW50YXRpdmU6IFNpbW9uIE11c2dyYXZlPC9kaXY+DQo8ZGl2IGNsYXNzPSIiPkFD
+SCByZXByZXNlbnRhdGl2ZTogTWVnaGFuIEZlcnJpdGVyPC9kaXY+DQo8ZGl2IGNsYXNzPSIiPkFD
+SCByZXByZXNlbnRhdGl2ZTogVGhvbWFzIFBhZGlsbGE8L2Rpdj4NCjxkaXYgY2xhc3M9IiI+Y2Vu
+dGVyTmV0IHJlcHJlc2VudGF0aXZlOiBGcmFuY2VzY2EgQmVuYXR0aTwvZGl2Pg0KPGRpdiBjbGFz
+cz0iIj5jZW50ZXJOZXQgcmVwcmVzZW50YXRpdmU6IE5pcm1hbGEgTWVub248L2Rpdj4NCjxkaXYg
+Y2xhc3M9IiI+Q1NESC9TQ0hOIHJlcHJlc2VudGF0aXZlOiBNYXVyZWVuIEVuZ2VsPC9kaXY+DQo8
+ZGl2IGNsYXNzPSIiPkNTREgvU0NITiByZXByZXNlbnRhdGl2ZTogTWljaGFlbCBVbGx5b3Q8L2Rp
+dj4NCjxkaXYgY2xhc3M9IiI+RUFESCByZXByZXNlbnRhdGl2ZTogQ2xhaXJlIENsaXZhejwvZGl2
+Pg0KPGRpdiBjbGFzcz0iIj5FQURIIHJlcHJlc2VudGF0aXZlOiBDaHJpc3RpYW4tRW1pbCBPcmU8
+L2Rpdj4NCjxkaXYgY2xhc3M9IiI+SHVtYW5pc3RpY2EgcmVwcmVzZW50YXRpdmU6IENsYXJpc3Nl
+IEJhcmRpb3Q8L2Rpdj4NCjxkaXYgY2xhc3M9IiI+SHVtYW5pc3RpY2EgcmVwcmVzZW50YXRpdmU6
+IFZpbmNlbnQgUmF6YW5hamFvPC9kaXY+DQo8ZGl2IGNsYXNzPSIiPkpBREggcmVwcmVzZW50YXRp
+dmU6IEFraWhpcm8gS2F3YXNlPC9kaXY+DQo8ZGl2IGNsYXNzPSIiPkpBREggcmVwcmVzZW50YXRp
+dmU6IFRhaXpvIFlhbWFkYTwvZGl2Pg0KPC9kaXY+DQo8YnIgY2xhc3M9IiI+DQo8ZGl2IGNsYXNz
+PSIiPl9fPGJyIGNsYXNzPSIiPg0KRWxlbmEgUGllcmF6em88YnIgY2xhc3M9IiI+DQpQcm9mZXNz
+ZXVyZSBk4oCZaXRhbGllbiBldCBodW1hbml0w6lzIG51bcOpcmlxdWVzJm5ic3A7PGJyIGNsYXNz
+PSIiPg0KVW5pdmVyc2l0w6kgR3Jlbm9ibGUtQWxwZXMgLSBMVUhDSUU8YnIgY2xhc3M9IiI+DQpC
+dXJlYXUgQsOidGltZW50ICdTdGVuZGhhbOKAmSBGMzA3PGJyIGNsYXNzPSIiPg0KQlAgMjUgMzgw
+NDAgR3Jlbm9ibGUgQ2VkZXggOTxiciBjbGFzcz0iIj4NClRlbC4gJiM0MzszMyA0IDc2ODI4MDMy
+PGJyIGNsYXNzPSIiPg0KPGJyIGNsYXNzPSIiPg0KVmlzaXRpbmcgU2VuaW9yIFJlc2VhcmNoIEZl
+bGxvdzxiciBjbGFzcz0iIj4NCktpbmcncyBDb2xsZWdlIExvbmRvbjxiciBjbGFzcz0iIj4NCkRl
+cGFydG1lbnQgb2YgRGlnaXRhbCBIdW1hbml0aWVzPGJyIGNsYXNzPSIiPg0KS2luZydzIENvbGxl
+Z2UgTG9uZG9uPGJyIGNsYXNzPSIiPg0KMjYtMjkgRHJ1cnkgTGFuZTxiciBjbGFzcz0iIj4NCkxv
+bmRvbjxiciBjbGFzcz0iIj4NCldDMkIgNVJMPGJyIGNsYXNzPSIiPg0KPGJyIGNsYXNzPSIiPg0K
+PC9kaXY+DQo8YnIgY2xhc3M9IiI+DQo8L2JvZHk+DQo8L2h0bWw+DQo=

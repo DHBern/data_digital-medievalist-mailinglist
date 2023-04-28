@@ -1,0 +1,31 @@
+Subject: Re: [dm-l] Teaching the TEI: your practice?Il giorno ven, 28/01/2011 alle 00.14 +0100, Marjorie Burghart ha
+scritto:
+> Dear Digital Medievalists,
+> 
+> I guess I can safely assume that several people here have an experience 
+> teaching the TEI, specifically to an audience of medievalists or 
+> historians. After teaching some workshops, I feel more and more that it 
+> is highly efficient to teach the TEI not alone, isolated, as a means to 
+> encode documents in a smart way, but putting the TEI XML at the center 
+> of the other technologies that make its interest immediately evident to 
+> the students.I totally agree with that. My current practice (after teaching a bit of
+theory on markup, and the TEI fundamentals):- teach some XSLT and have students experiment with it at once: this is
+really useful to put to test some of the key concepts I explained before
+(form-content separation, importance of selecting carefully *what* to
+markup, what Torsten wrote about visualizing the intended result in
+adnvance, etc.);
+- have them use IMT to learn about with <facsimile> and friends;
+- have them prepare a little encoding project to be discussed during the
+final exam: they choose the text, explain to me their markup strategy,
+then do everything on their own, including creating a custom schema
+(using Roma) and XSLT style sheets to produce an HTML version ... this
+is incredibly useful to expose lingering misconceptions and to really
+learn what is like to work on a 'real' markup project.So far I'm quite satisfied with this sequence, will look into the
+versioning machine too :) unfortunately I doubt I'd have the time to
+explain XML DBs (that would be needed as well, of course).Ciao	Roberto-- Roberto Rosselli Del Turco      roberto.rossellidelturco at unito.it
+Dipartimento di Scienze         rosselli at ling.unipi.it
+del Linguaggio                  Then spoke the thunder  DA
+Universita' di Torino           Datta: what have we given?  (TSE)
+ 
+  Hige sceal the heardra,     heorte the cenre,
+  mod sceal the mare,       the ure maegen litlath.  (Maldon 312-3)

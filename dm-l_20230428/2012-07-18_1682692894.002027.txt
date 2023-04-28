@@ -1,0 +1,377 @@
+Subject: Re: [dm-l] Getting Latin Spell Check for Word 2011 ON A MACMany thanks for the suggestions everyone.
+Installing Latin dictionary is so easy in OpenOffice, I sure hope Microsoft
+can get its act together someday.jw_redacted_(a)gmail.com>wr=
+ote:>
+> Best regards,
+> Maxim G. Romanov
+>
+> PhD Candidate in Arabic & Islamic Studies
+> Department of Near Eastern Studies
+> University of Michigan
+> Ann Arbor, MI, U.S.A.
+>
+>
+>
+_redacted_(a)gmail.com>=
+wrote:
+>
+>> Dear Jeffery,
+>>
+>> Another alternative is to use virtualization software like Parallels
+>> <http://www.parallels.com/products/desktop/>or VMware Fusion<http://www.vm=
+ware.com/products/fusion/overview.html>,
+>> which will allow you to run Windows programs from within Mac OS (Using
+>> BootCamp, you will have to reboot, so that is not very convenient and kind
+>> of defeats the purpose of switching to Mac). I was particularly impressed
+>> with VMware Fusion, since it fuses MacOS and Windows visually and you get
+>> the smoothest experience. With all that said, you will have to use the same
+>> Windows text editor as well.
+>>
+>> Best regards,
+>> Maxim G. Romanov
+>>
+>> PhD Candidate in Arabic & Islamic Studies
+>> Department of Near Eastern Studies
+>> University of Michigan
+>> Ann Arbor, MI, U.S.A.
+>>
+>>
+>>
+>> On Wed, Jul 18, 2012 at 11:25 AM, Tony Harris <
+_redacted_(a)regents.ox.ac.uk> wrote:
+>>
+>>>  Hi Jeffrey****
+>>>
+>>> ** **
+>>>
+>>> This is an MS Windows program and therefore it will not run under MacOS
+>>> which is a different operating system and different architecture. Dependi=
+ng
+>>> on your Mac (intel based plus enough memory) you may be able to install a
+>>> version of Windows on it. For more details refer to Apple=E2=80=99s help =
+notes on
+>>> this at: http://support.apple.com/kb/HT3986****
+>>>
+>>> ** **
+>>>
+>>> Once you have a running version of Windows you will be able to install
+>>> the MSI. The important thing to realise is that you will either be running
+>>> MacOS OR you will be running Windows.****
+>>>
+>>> ** **
+>>>
+>>> Hope this helps.****
+>>>
+>>> ** **
+>>>
+>>> Regards****
+>>>
+>>> ** **
+>>>
+>>> Tony Harris****
+>>>
+>>> Kellogg College, Oxford****
+>>>
+>>> ** **
+>>>
+>>> ** **
+>>>
+_redacted_(a)uleth.ca] *On Beha=
+lf
+>>> Of *Jeffrey C. Witt
+>>> *Sent:* 18 July 2012 15:26
+_redacted_(a)uleth.ca
+>>> *Subject:* [dm-l] Getting Latin Spell Check for Word 2011 ON A MAC****
+>>>
+>>> ** **
+>>>
+>>> Dear Fellow Medievalist,****
+>>>
+>>> ** **
+>>>
+>>> Can anyone help me get a Latin Spell Checker installed for Microsoft
+>>> Word 2011 on a Mac. ****
+>>>
+>>> ** **
+>>>
+>>> I'm switching from a PC to a Mac. On my PC I had COL - Correcteur
+>>> Orthographique de Latin installed and working fairly well ****
+>>>
+>>> ** **
+>>>
+>>> I've tried to recreate this on my Mac. ****
+>>>
+>>> ** **
+>>>
+>>> I've downloaded the newest release of COL - Correcteur Orthographique de
+>>> Latin - Correttore Ortografico di Latino - Corrector Ortogr=C3=A1fico de =
+Lat=C3=ADn
+>>> from
+>>> http://www.drouizig.org/index.php?option=3Dcom_content&view=3Darticle&id=
+=3D75%3Acol&catid=3D38%3Adifazier&Itemid=3D68&lang=3Den
+>>> ****
+>>>
+>>> ** **
+>>>
+>>> However, the download is an .msi file, which is a windows file ext. So
+>>> is it possible for me to get this working on mac? Has one else done this?
+>>> Is there a better solution?****
+>>>
+>>> ** **
+>>>
+>>> Thanks for your help. ****
+>>>
+>>> ** **
+>>>
+>>> -- ****
+>>>
+>>> Dr. Jeffrey C. Witt****
+>>>
+>>> Philosophy Department****
+>>>
+>>> Loyola University Maryland****
+>>>
+>>> 4501 N. Charles St.****
+>>>
+>>> Baltimore, MD 21210****
+>>>
+>>> www.jeffreycwitt.com****
+>>>
+>>> ** **
+>>>
+>>> Digital Medievalist --  http://www.digitalmedievalist.org/
+>>> Journal: http://www.digitalmedievalist.org/journal/
+>>> Journal Editors: editors _AT_ digitalmedievalist.org
+>>> News: http://www.digitalmedievalist.org/news/
+>>> Wiki: http://www.digitalmedievalist.org/wiki/
+>>> Twitter: http://twitter.com/digitalmedieval
+>>> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+_redacted_(a)uleth.ca
+>>> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>>>
+>>
+>>
+>
+--=20
+Dr. Jeffrey C. Witt
+Philosophy Department
+Loyola University Maryland
+4501 N. Charles St.
+Baltimore, MD 21210
+www.jeffreycwitt.comTWFueSB0aGFua3MgZm9yIHRoZSBzdWdnZXN0aW9ucyBldmVyeW9uZS48ZGl2Pkluc3RhbGxpbmcg
+TGF0aW4gZGljdGlvbmFyeSBpcyBzbyBlYXN5IGluIE9wZW5PZmZpY2UsIEkgc3VyZSBob3BlIE1p
+Y3Jvc29mdCBjYW4gZ2V0IGl0cyBhY3QgdG9nZXRoZXIgc29tZWRheS48L2Rpdj48ZGl2Pjxicj48
+L2Rpdj48ZGl2Pmp3PGJyPjxkaXY+PGJyPjxkaXYgY2xhc3M9ImdtYWlsX3F1b3RlIj5PbiBXZWQs
+IEp1bCAxOCwgMjAxMiBhdCAxMTo0MyBBTSwgTWF4aW0gUm9tYW5vdiA8c3BhbiBkaXI9Imx0ciI+
+Jmx0OzxhIGhyZWY9Im1haWx0bzpyb21hbm92Lm1heGltQGdtYWlsLmNvbSIgdGFyZ2V0PSJfYmxh
+bmsiPnJvbWFub3YubWF4aW1AZ21haWwuY29tPC9hPiZndDs8L3NwYW4+IHdyb3RlOjxicj4KPGJs
+b2NrcXVvdGUgY2xhc3M9ImdtYWlsX3F1b3RlIiBzdHlsZT0ibWFyZ2luOjAgMCAwIC44ZXg7Ym9y
+ZGVyLWxlZnQ6MXB4ICNjY2Mgc29saWQ7cGFkZGluZy1sZWZ0OjFleCI+PGRpdiBkaXI9Imx0ciI+
+PGZvbnQgc2l6ZT0iNCI+PGZvbnQgZmFjZT0iZ2VvcmdpYSxzZXJpZiI+PGJyIGNsZWFyPSJhbGwi
+PjwvZm9udD48L2ZvbnQ+PGRpdiBkaXI9Imx0ciI+PGRpdj48Zm9udCBmYWNlPSJnZW9yZ2lhLCBz
+ZXJpZiI+QmVzdCByZWdhcmRzLDwvZm9udD48L2Rpdj4KPGRpdj48Zm9udCBmYWNlPSJnZW9yZ2lh
+LCBzZXJpZiI+TWF4aW0gRy4gUm9tYW5vdjwvZm9udD48L2Rpdj4KCjxkaXY+PGZvbnQgZmFjZT0i
+Z2VvcmdpYSwgc2VyaWYiPjxicj48L2ZvbnQ+PC9kaXY+PGRpdj48Zm9udCBmYWNlPSJnZW9yZ2lh
+LCBzZXJpZiIgc2l6ZT0iMSI+UGhEIENhbmRpZGF0ZSBpbiBBcmFiaWMgJmFtcDsgSXNsYW1pYyBT
+dHVkaWVzPC9mb250PjwvZGl2PjxkaXY+PGZvbnQgZmFjZT0iZ2VvcmdpYSwgc2VyaWYiIHNpemU9
+IjEiPkRlcGFydG1lbnQgb2YgTmVhciBFYXN0ZXJuIFN0dWRpZXM8L2ZvbnQ+PC9kaXY+CgoKPGRp
+dj48Zm9udCBmYWNlPSJnZW9yZ2lhLCBzZXJpZiIgc2l6ZT0iMSI+VW5pdmVyc2l0eSBvZiBNaWNo
+aWdhbjwvZm9udD48L2Rpdj48ZGl2Pjxmb250IGZhY2U9Imdlb3JnaWEsIHNlcmlmIiBzaXplPSIx
+Ij5Bbm4gQXJib3IsIE1JLCBVLlMuQS48L2ZvbnQ+PC9kaXY+PC9kaXY+PGJyPgo8YnI+PGJyPjxk
+aXYgY2xhc3M9ImdtYWlsX3F1b3RlIj5PbiBXZWQsIEp1bCAxOCwgMjAxMiBhdCAxMTo0MiBBTSwg
+TWF4aW0gUm9tYW5vdiA8c3BhbiBkaXI9Imx0ciI+Jmx0OzxhIGhyZWY9Im1haWx0bzpyb21hbm92
+Lm1heGltQGdtYWlsLmNvbSIgdGFyZ2V0PSJfYmxhbmsiPnJvbWFub3YubWF4aW1AZ21haWwuY29t
+PC9hPiZndDs8L3NwYW4+IHdyb3RlOjxicj48YmxvY2txdW90ZSBjbGFzcz0iZ21haWxfcXVvdGUi
+IHN0eWxlPSJtYXJnaW46MCAwIDAgLjhleDtib3JkZXItbGVmdDoxcHggI2NjYyBzb2xpZDtwYWRk
+aW5nLWxlZnQ6MWV4Ij4KCgo8ZGl2IGRpcj0ibHRyIj48ZGl2Pjxmb250IGZhY2U9Imdlb3JnaWEs
+IHNlcmlmIiBzaXplPSI0Ij5EZWFyIEplZmZlcnksPC9mb250PjwvZGl2PjxkaXY+PGZvbnQgZmFj
+ZT0iZ2VvcmdpYSwgc2VyaWYiIHNpemU9IjQiPjxicj48L2ZvbnQ+PC9kaXY+PGRpdj48Zm9udCBm
+YWNlPSJnZW9yZ2lhLCBzZXJpZiIgc2l6ZT0iNCI+QW5vdGhlciBhbHRlcm5hdGl2ZSBpcyB0byB1
+c2UgdmlydHVhbGl6YXRpb24gc29mdHdhcmUgbGlrZSA8YSBocmVmPSJodHRwOi8vd3d3LnBhcmFs
+bGVscy5jb20vcHJvZHVjdHMvZGVza3RvcC8iIHRhcmdldD0iX2JsYW5rIj5QYXJhbGxlbHMgPC9h
+Pm9yIDxhIGhyZWY9Imh0dHA6Ly93d3cudm13YXJlLmNvbS9wcm9kdWN0cy9mdXNpb24vb3ZlcnZp
+ZXcuaHRtbCIgdGFyZ2V0PSJfYmxhbmsiPlZNd2FyZSBGdXNpb248L2E+LCB3aGljaCB3aWxsIGFs
+bG93IHlvdSB0byBydW4gV2luZG93cyBwcm9ncmFtcyBmcm9tIHdpdGhpbiBNYWMgT1MgKFVzaW5n
+IEJvb3RDYW1wLCB5b3Ugd2lsbCBoYXZlIHRvIHJlYm9vdCwgc28gdGhhdCBpcyBub3QgdmVyeSBj
+b252ZW5pZW50IGFuZCBraW5kIG9mIGRlZmVhdHMgdGhlIHB1cnBvc2Ugb2Ygc3dpdGNoaW5nIHRv
+IE1hYykuIEkgd2FzIHBhcnRpY3VsYXJseSBpbXByZXNzZWQgd2l0aCBWTXdhcmUgRnVzaW9uLCBz
+aW5jZSBpdCBmdXNlcyBNYWNPUyBhbmQgV2luZG93cyB2aXN1YWxseSBhbmQgeW91IGdldCB0aGUg
+c21vb3RoZXN0IGV4cGVyaWVuY2UuIFdpdGggYWxsIHRoYXQgc2FpZCwgeW91IHdpbGwgaGF2ZSB0
+byB1c2UgdGhlIHNhbWUgV2luZG93cyB0ZXh0IGVkaXRvciBhcyB3ZWxsLjwvZm9udD48L2Rpdj4K
+CgoKPGZvbnQgc2l6ZT0iNCI+PGZvbnQgZmFjZT0iZ2VvcmdpYSxzZXJpZiI+PGJyIGNsZWFyPSJh
+bGwiPjwvZm9udD48L2ZvbnQ+PGRpdiBkaXI9Imx0ciI+PGRpdj48Zm9udCBmYWNlPSJnZW9yZ2lh
+LCBzZXJpZiI+QmVzdCByZWdhcmRzLDwvZm9udD48L2Rpdj48ZGl2Pjxmb250IGZhY2U9Imdlb3Jn
+aWEsIHNlcmlmIj5NYXhpbSBHLiBSb21hbm92PC9mb250PjwvZGl2PjxkaXY+PGZvbnQgZmFjZT0i
+Z2VvcmdpYSwgc2VyaWYiPjxicj4KCgoKPC9mb250PjwvZGl2PjxkaXY+PGZvbnQgZmFjZT0iZ2Vv
+cmdpYSwgc2VyaWYiIHNpemU9IjEiPlBoRCBDYW5kaWRhdGUgaW4gQXJhYmljICZhbXA7IElzbGFt
+aWMgU3R1ZGllczwvZm9udD48L2Rpdj48ZGl2Pjxmb250IGZhY2U9Imdlb3JnaWEsIHNlcmlmIiBz
+aXplPSIxIj5EZXBhcnRtZW50IG9mIE5lYXIgRWFzdGVybiBTdHVkaWVzPC9mb250PjwvZGl2Pjxk
+aXY+PGZvbnQgZmFjZT0iZ2VvcmdpYSwgc2VyaWYiIHNpemU9IjEiPlVuaXZlcnNpdHkgb2YgTWlj
+aGlnYW48L2ZvbnQ+PC9kaXY+CgoKCjxkaXY+PGZvbnQgZmFjZT0iZ2VvcmdpYSwgc2VyaWYiIHNp
+emU9IjEiPkFubiBBcmJvciwgTUksIFUuUy5BLjwvZm9udD48L2Rpdj48L2Rpdj48YnI+Cjxicj48
+YnI+PGRpdiBjbGFzcz0iZ21haWxfcXVvdGUiPjxkaXY+PGRpdiBjbGFzcz0iaDUiPjxkaXY+PGRp
+dj5PbiBXZWQsIEp1bCAxOCwgMjAxMiBhdCAxMToyNSBBTSwgVG9ueSBIYXJyaXMgPHNwYW4gZGly
+PSJsdHIiPiZsdDs8YSBocmVmPSJtYWlsdG86dG9ueS5oYXJyaXNAcmVnZW50cy5veC5hYy51ayIg
+dGFyZ2V0PSJfYmxhbmsiPnRvbnkuaGFycmlzQHJlZ2VudHMub3guYWMudWs8L2E+Jmd0Ozwvc3Bh
+bj4gd3JvdGU6PGJyPgoKCjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2PjxibG9ja3F1b3RlIGNsYXNz
+PSJnbWFpbF9xdW90ZSIgc3R5bGU9Im1hcmdpbjowIDAgMCAuOGV4O2JvcmRlci1sZWZ0OjFweCAj
+Y2NjIHNvbGlkO3BhZGRpbmctbGVmdDoxZXgiPjxkaXY+PGRpdiBjbGFzcz0iaDUiPjxkaXY+PGRp
+dj4KCgoKCgoKPGRpdiBsYW5nPSJFTi1HQiIgbGluaz0iYmx1ZSIgdmxpbms9InB1cnBsZSI+Cjxk
+aXY+CjxwIGNsYXNzPSJNc29Ob3JtYWwiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6MTEuMHB0O2Zv
+bnQtZmFtaWx5OiZxdW90O0NhbGlicmkmcXVvdDssJnF1b3Q7c2Fucy1zZXJpZiZxdW90Oztjb2xv
+cjojMWY0OTdkIj5IaSBKZWZmcmV5PHU+PC91Pjx1PjwvdT48L3NwYW4+PC9wPgo8cCBjbGFzcz0i
+TXNvTm9ybWFsIj48c3BhbiBzdHlsZT0iZm9udC1zaXplOjExLjBwdDtmb250LWZhbWlseTomcXVv
+dDtDYWxpYnJpJnF1b3Q7LCZxdW90O3NhbnMtc2VyaWYmcXVvdDs7Y29sb3I6IzFmNDk3ZCI+PHU+
+PC91PqA8dT48L3U+PC9zcGFuPjwvcD4KPHAgY2xhc3M9Ik1zb05vcm1hbCI+PHNwYW4gc3R5bGU9
+ImZvbnQtc2l6ZToxMS4wcHQ7Zm9udC1mYW1pbHk6JnF1b3Q7Q2FsaWJyaSZxdW90OywmcXVvdDtz
+YW5zLXNlcmlmJnF1b3Q7O2NvbG9yOiMxZjQ5N2QiPlRoaXMgaXMgYW4gTVMgV2luZG93cyBwcm9n
+cmFtIGFuZCB0aGVyZWZvcmUgaXQgd2lsbCBub3QgcnVuIHVuZGVyIE1hY09TIHdoaWNoIGlzIGEg
+ZGlmZmVyZW50IG9wZXJhdGluZyBzeXN0ZW0gYW5kIGRpZmZlcmVudCBhcmNoaXRlY3R1cmUuIERl
+cGVuZGluZyBvbiB5b3VyCiBNYWMgKGludGVsIGJhc2VkIHBsdXMgZW5vdWdoIG1lbW9yeSkgeW91
+IG1heSBiZSBhYmxlIHRvIGluc3RhbGwgYSB2ZXJzaW9uIG9mIFdpbmRvd3Mgb24gaXQuIEZvciBt
+b3JlIGRldGFpbHMgcmVmZXIgdG8gQXBwbGWScyBoZWxwIG5vdGVzIG9uIHRoaXMgYXQ6CjxhIGhy
+ZWY9Imh0dHA6Ly9zdXBwb3J0LmFwcGxlLmNvbS9rYi9IVDM5ODYiIHRhcmdldD0iX2JsYW5rIj5o
+dHRwOi8vc3VwcG9ydC5hcHBsZS5jb20va2IvSFQzOTg2PC9hPjx1PjwvdT48dT48L3U+PC9zcGFu
+PjwvcD4KPHAgY2xhc3M9Ik1zb05vcm1hbCI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZToxMS4wcHQ7
+Zm9udC1mYW1pbHk6JnF1b3Q7Q2FsaWJyaSZxdW90OywmcXVvdDtzYW5zLXNlcmlmJnF1b3Q7O2Nv
+bG9yOiMxZjQ5N2QiPjx1PjwvdT6gPHU+PC91Pjwvc3Bhbj48L3A+CjxwIGNsYXNzPSJNc29Ob3Jt
+YWwiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6MTEuMHB0O2ZvbnQtZmFtaWx5OiZxdW90O0NhbGli
+cmkmcXVvdDssJnF1b3Q7c2Fucy1zZXJpZiZxdW90Oztjb2xvcjojMWY0OTdkIj5PbmNlIHlvdSBo
+YXZlIGEgcnVubmluZyB2ZXJzaW9uIG9mIFdpbmRvd3MgeW91IHdpbGwgYmUgYWJsZSB0byBpbnN0
+YWxsIHRoZSBNU0kuIFRoZSBpbXBvcnRhbnQgdGhpbmcgdG8gcmVhbGlzZSBpcyB0aGF0IHlvdSB3
+aWxsIGVpdGhlciBiZSBydW5uaW5nIE1hY09TIE9SIHlvdQogd2lsbCBiZSBydW5uaW5nIFdpbmRv
+d3MuPHU+PC91Pjx1PjwvdT48L3NwYW4+PC9wPgo8cCBjbGFzcz0iTXNvTm9ybWFsIj48c3BhbiBz
+dHlsZT0iZm9udC1zaXplOjExLjBwdDtmb250LWZhbWlseTomcXVvdDtDYWxpYnJpJnF1b3Q7LCZx
+dW90O3NhbnMtc2VyaWYmcXVvdDs7Y29sb3I6IzFmNDk3ZCI+PHU+PC91PqA8dT48L3U+PC9zcGFu
+PjwvcD4KPHAgY2xhc3M9Ik1zb05vcm1hbCI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZToxMS4wcHQ7
+Zm9udC1mYW1pbHk6JnF1b3Q7Q2FsaWJyaSZxdW90OywmcXVvdDtzYW5zLXNlcmlmJnF1b3Q7O2Nv
+bG9yOiMxZjQ5N2QiPkhvcGUgdGhpcyBoZWxwcy48dT48L3U+PHU+PC91Pjwvc3Bhbj48L3A+Cjxw
+IGNsYXNzPSJNc29Ob3JtYWwiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6MTEuMHB0O2ZvbnQtZmFt
+aWx5OiZxdW90O0NhbGlicmkmcXVvdDssJnF1b3Q7c2Fucy1zZXJpZiZxdW90Oztjb2xvcjojMWY0
+OTdkIj48dT48L3U+oDx1PjwvdT48L3NwYW4+PC9wPgo8cCBjbGFzcz0iTXNvTm9ybWFsIj48c3Bh
+biBzdHlsZT0iZm9udC1zaXplOjExLjBwdDtmb250LWZhbWlseTomcXVvdDtDYWxpYnJpJnF1b3Q7
+LCZxdW90O3NhbnMtc2VyaWYmcXVvdDs7Y29sb3I6IzFmNDk3ZCI+UmVnYXJkczx1PjwvdT48dT48
+L3U+PC9zcGFuPjwvcD4KPHAgY2xhc3M9Ik1zb05vcm1hbCI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6
+ZToxMS4wcHQ7Zm9udC1mYW1pbHk6JnF1b3Q7Q2FsaWJyaSZxdW90OywmcXVvdDtzYW5zLXNlcmlm
+JnF1b3Q7O2NvbG9yOiMxZjQ5N2QiPjx1PjwvdT6gPHU+PC91Pjwvc3Bhbj48L3A+CjxwIGNsYXNz
+PSJNc29Ob3JtYWwiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6MTEuMHB0O2ZvbnQtZmFtaWx5OiZx
+dW90O0NhbGlicmkmcXVvdDssJnF1b3Q7c2Fucy1zZXJpZiZxdW90Oztjb2xvcjojMWY0OTdkIj5U
+b255IEhhcnJpczx1PjwvdT48dT48L3U+PC9zcGFuPjwvcD4KPHAgY2xhc3M9Ik1zb05vcm1hbCI+
+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZToxMS4wcHQ7Zm9udC1mYW1pbHk6JnF1b3Q7Q2FsaWJyaSZx
+dW90OywmcXVvdDtzYW5zLXNlcmlmJnF1b3Q7O2NvbG9yOiMxZjQ5N2QiPktlbGxvZ2cgQ29sbGVn
+ZSwgT3hmb3JkPHU+PC91Pjx1PjwvdT48L3NwYW4+PC9wPgo8cCBjbGFzcz0iTXNvTm9ybWFsIj48
+c3BhbiBzdHlsZT0iZm9udC1zaXplOjExLjBwdDtmb250LWZhbWlseTomcXVvdDtDYWxpYnJpJnF1
+b3Q7LCZxdW90O3NhbnMtc2VyaWYmcXVvdDs7Y29sb3I6IzFmNDk3ZCI+PHU+PC91PqA8dT48L3U+
+PC9zcGFuPjwvcD4KPHAgY2xhc3M9Ik1zb05vcm1hbCI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTox
+MS4wcHQ7Zm9udC1mYW1pbHk6JnF1b3Q7Q2FsaWJyaSZxdW90OywmcXVvdDtzYW5zLXNlcmlmJnF1
+b3Q7O2NvbG9yOiMxZjQ5N2QiPjx1PjwvdT6gPHU+PC91Pjwvc3Bhbj48L3A+CjxwIGNsYXNzPSJN
+c29Ob3JtYWwiPjxiPjxzcGFuIGxhbmc9IkVOLVVTIiBzdHlsZT0iZm9udC1zaXplOjEwLjBwdDtm
+b250LWZhbWlseTomcXVvdDtUYWhvbWEmcXVvdDssJnF1b3Q7c2Fucy1zZXJpZiZxdW90OyI+RnJv
+bTo8L3NwYW4+PC9iPjxzcGFuIGxhbmc9IkVOLVVTIiBzdHlsZT0iZm9udC1zaXplOjEwLjBwdDtm
+b250LWZhbWlseTomcXVvdDtUYWhvbWEmcXVvdDssJnF1b3Q7c2Fucy1zZXJpZiZxdW90OyI+IDxh
+IGhyZWY9Im1haWx0bzpkbS1sLWJvdW5jZXNAdWxldGguY2EiIHRhcmdldD0iX2JsYW5rIj5kbS1s
+LWJvdW5jZXNAdWxldGguY2E8L2E+IFttYWlsdG86PGEgaHJlZj0ibWFpbHRvOmRtLWwtYm91bmNl
+c0B1bGV0aC5jYSIgdGFyZ2V0PSJfYmxhbmsiPmRtLWwtYm91bmNlc0B1bGV0aC5jYTwvYT5dCjxi
+Pk9uIEJlaGFsZiBPZiA8L2I+SmVmZnJleSBDLiBXaXR0PGJyPgo8Yj5TZW50OjwvYj4gMTggSnVs
+eSAyMDEyIDE1OjI2PGJyPgo8Yj5Ubzo8L2I+IDxhIGhyZWY9Im1haWx0bzpkbS1sQHVsZXRoLmNh
+IiB0YXJnZXQ9Il9ibGFuayI+ZG0tbEB1bGV0aC5jYTwvYT48YnI+CjxiPlN1YmplY3Q6PC9iPiBb
+ZG0tbF0gR2V0dGluZyBMYXRpbiBTcGVsbCBDaGVjayBmb3IgV29yZCAyMDExIE9OIEEgTUFDPHU+
+PC91Pjx1PjwvdT48L3NwYW4+PC9wPjxkaXY+PGRpdj4KPHAgY2xhc3M9Ik1zb05vcm1hbCI+PHU+
+PC91PqA8dT48L3U+PC9wPgo8cCBjbGFzcz0iTXNvTm9ybWFsIj48c3BhbiBzdHlsZT0iZm9udC1z
+aXplOjEwLjBwdDtmb250LWZhbWlseTomcXVvdDtBcmlhbCZxdW90OywmcXVvdDtzYW5zLXNlcmlm
+JnF1b3Q7O2NvbG9yOiMyMjIyMjI7YmFja2dyb3VuZDp3aGl0ZSI+RGVhciBGZWxsb3cgTWVkaWV2
+YWxpc3QsPC9zcGFuPjx1PjwvdT48dT48L3U+PC9wPgo8ZGl2Pgo8cCBjbGFzcz0iTXNvTm9ybWFs
+IiBzdHlsZT0iYmFja2dyb3VuZDp3aGl0ZSI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZToxMC4wcHQ7
+Zm9udC1mYW1pbHk6JnF1b3Q7QXJpYWwmcXVvdDssJnF1b3Q7c2Fucy1zZXJpZiZxdW90Oztjb2xv
+cjojMjIyMjIyIj48dT48L3U+oDx1PjwvdT48L3NwYW4+PC9wPgo8L2Rpdj4KPGRpdj4KPHAgY2xh
+c3M9Ik1zb05vcm1hbCIgc3R5bGU9ImJhY2tncm91bmQ6d2hpdGUiPjxzcGFuIHN0eWxlPSJmb250
+LXNpemU6MTAuMHB0O2ZvbnQtZmFtaWx5OiZxdW90O0FyaWFsJnF1b3Q7LCZxdW90O3NhbnMtc2Vy
+aWYmcXVvdDs7Y29sb3I6IzIyMjIyMiI+Q2FuIGFueW9uZSBoZWxwIG1lIGdldCBhIExhdGluIFNw
+ZWxsIENoZWNrZXIgaW5zdGFsbGVkIGZvciBNaWNyb3NvZnQgV29yZCAyMDExIG9uIGEgTWFjLqA8
+dT48L3U+PHU+PC91Pjwvc3Bhbj48L3A+CgoKCgo8L2Rpdj4KPGRpdj4KPHAgY2xhc3M9Ik1zb05v
+cm1hbCIgc3R5bGU9ImJhY2tncm91bmQ6d2hpdGUiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6MTAu
+MHB0O2ZvbnQtZmFtaWx5OiZxdW90O0FyaWFsJnF1b3Q7LCZxdW90O3NhbnMtc2VyaWYmcXVvdDs7
+Y29sb3I6IzIyMjIyMiI+PHU+PC91PqA8dT48L3U+PC9zcGFuPjwvcD4KPC9kaXY+CjxkaXY+Cjxw
+IGNsYXNzPSJNc29Ob3JtYWwiIHN0eWxlPSJiYWNrZ3JvdW5kOndoaXRlIj48c3BhbiBzdHlsZT0i
+Zm9udC1zaXplOjEwLjBwdDtmb250LWZhbWlseTomcXVvdDtBcmlhbCZxdW90OywmcXVvdDtzYW5z
+LXNlcmlmJnF1b3Q7O2NvbG9yOiMyMjIyMjIiPkkmIzM5O20gc3dpdGNoaW5nIGZyb20gYSBQQyB0
+byBhIE1hYy4gT24gbXkgUEMgSSBoYWSgQ09MIC0gQ29ycmVjdGV1ciBPcnRob2dyYXBoaXF1ZSBk
+ZSBMYXRpbqBpbnN0YWxsZWQgYW5kIHdvcmtpbmcgZmFpcmx5IHdlbGygPHU+PC91Pjx1PjwvdT48
+L3NwYW4+PC9wPgoKCgoKPC9kaXY+CjxkaXY+CjxwIGNsYXNzPSJNc29Ob3JtYWwiIHN0eWxlPSJi
+YWNrZ3JvdW5kOndoaXRlIj48c3BhbiBzdHlsZT0iZm9udC1zaXplOjEwLjBwdDtmb250LWZhbWls
+eTomcXVvdDtBcmlhbCZxdW90OywmcXVvdDtzYW5zLXNlcmlmJnF1b3Q7O2NvbG9yOiMyMjIyMjIi
+Pjx1PjwvdT6gPHU+PC91Pjwvc3Bhbj48L3A+CjwvZGl2Pgo8ZGl2Pgo8cCBjbGFzcz0iTXNvTm9y
+bWFsIiBzdHlsZT0iYmFja2dyb3VuZDp3aGl0ZSI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZToxMC4w
+cHQ7Zm9udC1mYW1pbHk6JnF1b3Q7QXJpYWwmcXVvdDssJnF1b3Q7c2Fucy1zZXJpZiZxdW90Oztj
+b2xvcjojMjIyMjIyIj5JJiMzOTt2ZSB0cmllZCB0byByZWNyZWF0ZSB0aGlzIG9uIG15IE1hYy6g
+PHU+PC91Pjx1PjwvdT48L3NwYW4+PC9wPgo8L2Rpdj4KPGRpdj4KPHAgY2xhc3M9Ik1zb05vcm1h
+bCIgc3R5bGU9ImJhY2tncm91bmQ6d2hpdGUiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6MTAuMHB0
+O2ZvbnQtZmFtaWx5OiZxdW90O0FyaWFsJnF1b3Q7LCZxdW90O3NhbnMtc2VyaWYmcXVvdDs7Y29s
+b3I6IzIyMjIyMiI+PHU+PC91PqA8dT48L3U+PC9zcGFuPjwvcD4KPC9kaXY+CjxkaXY+CjxwIGNs
+YXNzPSJNc29Ob3JtYWwiIHN0eWxlPSJiYWNrZ3JvdW5kOndoaXRlIj48c3BhbiBzdHlsZT0iZm9u
+dC1zaXplOjEwLjBwdDtmb250LWZhbWlseTomcXVvdDtBcmlhbCZxdW90OywmcXVvdDtzYW5zLXNl
+cmlmJnF1b3Q7O2NvbG9yOiMyMjIyMjIiPkkmIzM5O3ZlIGRvd25sb2FkZWQgdGhlIG5ld2VzdCBy
+ZWxlYXNlIG9moENPTCAtIENvcnJlY3RldXIgT3J0aG9ncmFwaGlxdWUgZGUgTGF0aW4gLSBDb3Jy
+ZXR0b3JlIE9ydG9ncmFmaWNvIGRpIExhdGlubyAtIENvcnJlY3RvciBPcnRvZ3LhZmljbwogZGUg
+TGF07W4gZnJvbaA8YSBocmVmPSJodHRwOi8vd3d3LmRyb3VpemlnLm9yZy9pbmRleC5waHA/b3B0
+aW9uPWNvbV9jb250ZW50JmFtcDt2aWV3PWFydGljbGUmYW1wO2lkPTc1JTNBY29sJmFtcDtjYXRp
+ZD0zOCUzQWRpZmF6aWVyJmFtcDtJdGVtaWQ9NjgmYW1wO2xhbmc9ZW4iIHRhcmdldD0iX2JsYW5r
+Ij48c3BhbiBzdHlsZT0iY29sb3I6IzExNTVjYyI+aHR0cDovL3d3dy5kcm91aXppZy5vcmcvaW5k
+ZXgucGhwP29wdGlvbj1jb21fY29udGVudCZhbXA7dmlldz1hcnRpY2xlJmFtcDtpZD03NSUzQWNv
+bCZhbXA7Y2F0aWQ9MzglM0FkaWZhemllciZhbXA7SXRlbWlkPTY4JmFtcDtsYW5nPWVuPC9zcGFu
+PjwvYT48dT48L3U+PHU+PC91Pjwvc3Bhbj48L3A+CgoKCgo8L2Rpdj4KPGRpdj4KPHAgY2xhc3M9
+Ik1zb05vcm1hbCIgc3R5bGU9ImJhY2tncm91bmQ6d2hpdGUiPjxzcGFuIHN0eWxlPSJmb250LXNp
+emU6MTAuMHB0O2ZvbnQtZmFtaWx5OiZxdW90O0FyaWFsJnF1b3Q7LCZxdW90O3NhbnMtc2VyaWYm
+cXVvdDs7Y29sb3I6IzIyMjIyMiI+PHU+PC91PqA8dT48L3U+PC9zcGFuPjwvcD4KPC9kaXY+Cjxk
+aXY+CjxwIGNsYXNzPSJNc29Ob3JtYWwiIHN0eWxlPSJiYWNrZ3JvdW5kOndoaXRlIj48c3BhbiBz
+dHlsZT0iZm9udC1zaXplOjEwLjBwdDtmb250LWZhbWlseTomcXVvdDtBcmlhbCZxdW90OywmcXVv
+dDtzYW5zLXNlcmlmJnF1b3Q7O2NvbG9yOiMyMjIyMjIiPkhvd2V2ZXIsIHRoZSBkb3dubG9hZCBp
+cyBhbiAubXNpIGZpbGUsIHdoaWNoIGlzIGEgd2luZG93cyBmaWxlIGV4dC4gU28gaXMgaXQgcG9z
+c2libGUgZm9yIG1lIHRvIGdldCB0aGlzIHdvcmtpbmcgb24gbWFjPyBIYXMgb25lIGVsc2UKIGRv
+bmUgdGhpcz8gSXMgdGhlcmUgYSBiZXR0ZXIgc29sdXRpb24/PHU+PC91Pjx1PjwvdT48L3NwYW4+
+PC9wPgo8L2Rpdj4KPGRpdj4KPHAgY2xhc3M9Ik1zb05vcm1hbCIgc3R5bGU9ImJhY2tncm91bmQ6
+d2hpdGUiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6MTAuMHB0O2ZvbnQtZmFtaWx5OiZxdW90O0Fy
+aWFsJnF1b3Q7LCZxdW90O3NhbnMtc2VyaWYmcXVvdDs7Y29sb3I6IzIyMjIyMiI+PHU+PC91PqA8
+dT48L3U+PC9zcGFuPjwvcD4KPC9kaXY+CjxkaXY+CjxwIGNsYXNzPSJNc29Ob3JtYWwiIHN0eWxl
+PSJiYWNrZ3JvdW5kOndoaXRlIj48c3BhbiBzdHlsZT0iZm9udC1zaXplOjEwLjBwdDtmb250LWZh
+bWlseTomcXVvdDtBcmlhbCZxdW90OywmcXVvdDtzYW5zLXNlcmlmJnF1b3Q7O2NvbG9yOiMyMjIy
+MjIiPlRoYW5rcyBmb3IgeW91ciBoZWxwLqA8dT48L3U+PHU+PC91Pjwvc3Bhbj48L3A+CjwvZGl2
+Pgo8ZGl2Pgo8cCBjbGFzcz0iTXNvTm9ybWFsIj48dT48L3U+oDx1PjwvdT48L3A+CjwvZGl2Pgo8
+cCBjbGFzcz0iTXNvTm9ybWFsIj4tLSA8dT48L3U+PHU+PC91PjwvcD4KPGRpdj4KPHAgY2xhc3M9
+Ik1zb05vcm1hbCI+RHIuIEplZmZyZXkgQy4gV2l0dDx1PjwvdT48dT48L3U+PC9wPgo8L2Rpdj4K
+PGRpdj4KPHAgY2xhc3M9Ik1zb05vcm1hbCI+UGhpbG9zb3BoeSBEZXBhcnRtZW50PHU+PC91Pjx1
+PjwvdT48L3A+CjwvZGl2Pgo8ZGl2Pgo8cCBjbGFzcz0iTXNvTm9ybWFsIj5Mb3lvbGEgVW5pdmVy
+c2l0eSBNYXJ5bGFuZDx1PjwvdT48dT48L3U+PC9wPgo8L2Rpdj4KPGRpdj4KPHAgY2xhc3M9Ik1z
+b05vcm1hbCI+NDUwMSBOLiBDaGFybGVzIFN0Ljx1PjwvdT48dT48L3U+PC9wPgo8L2Rpdj4KPHAg
+Y2xhc3M9Ik1zb05vcm1hbCI+QmFsdGltb3JlLCBNRCAyMTIxMDx1PjwvdT48dT48L3U+PC9wPgo8
+ZGl2Pgo8cCBjbGFzcz0iTXNvTm9ybWFsIj48YSBocmVmPSJodHRwOi8vd3d3LmplZmZyZXljd2l0
+dC5jb20iIHRhcmdldD0iX2JsYW5rIj53d3cuamVmZnJleWN3aXR0LmNvbTwvYT48dT48L3U+PHU+
+PC91PjwvcD4KPC9kaXY+CjxwIGNsYXNzPSJNc29Ob3JtYWwiPjx1PjwvdT6gPHU+PC91PjwvcD4K
+PC9kaXY+PC9kaXY+PC9kaXY+CjwvZGl2PgoKPGJyPjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2Pjxk
+aXYgY2xhc3M9ImltIj48ZGl2PkRpZ2l0YWwgTWVkaWV2YWxpc3QgLS0goDxhIGhyZWY9Imh0dHA6
+Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy8iIHRhcmdldD0iX2JsYW5rIj5odHRwOi8vd3d3
+LmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmcvPC9hPjxicj4KSm91cm5hbDogPGEgaHJlZj0iaHR0cDov
+L3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnL2pvdXJuYWwvIiB0YXJnZXQ9Il9ibGFuayI+aHR0
+cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnL2pvdXJuYWwvPC9hPjxicj4KSm91cm5hbCBF
+ZGl0b3JzOiBlZGl0b3JzIF9BVF8gPGEgaHJlZj0iaHR0cDovL2RpZ2l0YWxtZWRpZXZhbGlzdC5v
+cmciIHRhcmdldD0iX2JsYW5rIj5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnPC9hPjxicj4KTmV3czog
+PGEgaHJlZj0iaHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnL25ld3MvIiB0YXJnZXQ9
+Il9ibGFuayI+aHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnL25ld3MvPC9hPjxicj4K
+V2lraTogPGEgaHJlZj0iaHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnL3dpa2kvIiB0
+YXJnZXQ9Il9ibGFuayI+aHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnL3dpa2kvPC9h
+Pjxicj4KVHdpdHRlcjogPGEgaHJlZj0iaHR0cDovL3R3aXR0ZXIuY29tL2RpZ2l0YWxtZWRpZXZh
+bCIgdGFyZ2V0PSJfYmxhbmsiPmh0dHA6Ly90d2l0dGVyLmNvbS9kaWdpdGFsbWVkaWV2YWw8L2E+
+PGJyPgpGYWNlYm9vazogPGEgaHJlZj0iaHR0cDovL3d3dy5mYWNlYm9vay5jb20vZ3JvdXAucGhw
+P2dpZD00OTMyMDMxMzc2MCIgdGFyZ2V0PSJfYmxhbmsiPmh0dHA6Ly93d3cuZmFjZWJvb2suY29t
+L2dyb3VwLnBocD9naWQ9NDkzMjAzMTM3NjA8L2E+PGJyPgpEaXNjdXNzaW9uIGxpc3Q6IDxhIGhy
+ZWY9Im1haWx0bzpkbS1sQHVsZXRoLmNhIiB0YXJnZXQ9Il9ibGFuayI+ZG0tbEB1bGV0aC5jYTwv
+YT48YnI+CkNoYW5nZSBsaXN0IG9wdGlvbnM6IDxhIGhyZWY9Imh0dHA6Ly9saXN0c2Vydi51bGV0
+aC5jYS9tYWlsbWFuL2xpc3RpbmZvL2RtLWwiIHRhcmdldD0iX2JsYW5rIj5odHRwOi8vbGlzdHNl
+cnYudWxldGguY2EvbWFpbG1hbi9saXN0aW5mby9kbS1sPC9hPjxicj48L2Rpdj48L2Rpdj48L2Js
+b2NrcXVvdGU+PC9kaXY+PGJyPjwvZGl2Pgo8L2Jsb2NrcXVvdGU+PC9kaXY+PGJyPjwvZGl2Pgo8
+L2Jsb2NrcXVvdGU+PC9kaXY+PGJyPjxiciBjbGVhcj0iYWxsIj48ZGl2Pjxicj48L2Rpdj4tLSA8
+YnI+PGRpdj5Eci4gSmVmZnJleSBDLiBXaXR0PC9kaXY+PGRpdj5QaGlsb3NvcGh5IERlcGFydG1l
+bnQ8L2Rpdj48ZGl2PkxveW9sYSBVbml2ZXJzaXR5IE1hcnlsYW5kPC9kaXY+PGRpdj40NTAxIE4u
+IENoYXJsZXMgU3QuPC9kaXY+QmFsdGltb3JlLCBNRCAyMTIxMDxkaXY+PGEgaHJlZj0iaHR0cDov
+L3d3dy5qZWZmcmV5Y3dpdHQuY29tIiB0YXJnZXQ9Il9ibGFuayI+d3d3LmplZmZyZXljd2l0dC5j
+b208L2E+PC9kaXY+Cjxicj4KPC9kaXY+PC9kaXY+Cg==

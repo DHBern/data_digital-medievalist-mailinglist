@@ -1,0 +1,9 @@
+Subject: Re: [dm-l] Anastasia goes open sourceDear everyoneA few weeks ago I announced that Anastasia, our own xml publishing system,
+was going open source.  We have now put the distibutable binaries for OS X
+and Windows on source forge; the source is currently uploading and should be
+available in a few hours.
+You can read about it now at:
+http://anastasia.sourceforge.net
+And get it from
+http://sourceforge.net/projects/anastasiaAll the best
+Peter Robinson

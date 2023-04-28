@@ -1,0 +1,23 @@
+Subject: [dm-l] paleographical encodingHi everyone:I have a few questions that I would like to ask those of you have, are, or
+are considering electronic editing of medieval manuscripts, and recording
+paleographical information about the manuscript(s). I'm working on a project
+that has a focus on paleographical description, and I'm very interested in
+seeing what other projects are doing on this front. Is there a standard? Is
+a standard approach to paleographical description possible, given differing
+concerns, uses, etc.?1. First, a brief description of your project.2. What paleographical information are you interested in? Letter forms,
+abbreviations, ligatures, other? 3. What is your purpose for recording these differences? Searching, display,
+counting?4. How are you recording this paleographical information? Markup (TEI or
+other), entities, Unicode characters, other?You can reply directly to me, or to the list. I will synchronize all results
+of this little questionnaire and report back to the list. I think this would
+also be a good way to start populating the "Fonts, Characters, and Glyphs"
+section of the DM Wiki.Thanks!
+Dot
+ 
+**********************************
+Dorothy Carr Porter
+Program Coordinator, Research in Computing for Humanities
+3-51/3-52 William T. Young Library
+University of Kentucky
+Lexington, KY  40391
+859-257-9549                      http://www.rch.uky.edu
+**********************************

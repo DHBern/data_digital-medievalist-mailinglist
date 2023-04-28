@@ -1,0 +1,44 @@
+Subject: [Fwd: RE: [dm-l] Switching XSL on the web (Lazy question)]From Michael Beddow---------------------------- Original Message ----------------------------
+Subject: RE: [dm-l] Switching XSL on the web (Lazy question)
+_redacted_(a)mbeddow.net>
+Date:    Sat, March 25, 2006 5:18 pm
+_redacted_(a)ULETH.CA>
+--------------------------------------------------------------------------Hello Dan,A couple of hours back I was quaffing a double-shot latte in a supermarket
+cafe near the Scottish border when, as invariably happens in such
+circumstances, a former student of mine emerged from nowhere and said "there
+was a posting on DM-L a while back about dynamic XSLT sheet switching you
+could have answered".So I took a peek when I got home (I don't subscribe to DM-L) and behold,
+'twas even so.I think my first response would have been to say do the transform server
+side.  It's certainly not necessary to get embroiled with Cocoon to do that.
+Half a dozen lines in any common scripting language that has an XSLT library
+will get you a CGI script that will accept as params from your browser an
+xml file name and a stylesheet name, then apply the xslt to the xml and send
+the html back to the browser.However, it looks like you want a client side solution, so I've hacked a
+quick one together for you as a demo.If you go *using IE6 on Windows* to
+http://www.anglo-norman.net/sitedocs/workshop/switch-demo.html
+you will get a page that lets you apply any of a choice of three xslt sheets
+to it client-side. If you like, you can also download
+www.anglo-norman-net/sitedocs/workshop/switch-demo.zip
+that contains all the
+necessary files: an xml document; three xslt sheets; and the loader
+switch-demo.html file itself, which contains the actual code that does the
+business. But the only essential thing is the html; beyond that you can plug
+in any xml and xslt you like and the thing will work on that data instead. I
+have tried to explain the workings of the dynamic html in the html file
+itself. I haven't similarly commented the XSLT, because that's not really
+the point of concern here.The sample I provide is for IE6 on Win32 only. Before that brings down the
+wrath of the self-righteous upon me, let me say that it can just as readily
+be done in Mozilla/Firefox on any platform using its internal Transformix
+engine instead of the MS DLL I use here, although the necessary code is a
+bit more complicated and you have to be more careful about the mime-type
+configuration of any server from which you deliver. But if any knee-jerk
+anti-Windowers care to put their brains where their zeal is, they will I'm
+sure soon be able to put together a Redmond-free version.Please feel free to repost this on my behalf if you think it would be of any
+broader interest.Bon weekend!Michael-- 
+Daniel Paul O'Donnell
+Director, Digital Medievalist Project (http://www.digitalmedievalist.org/)
+Associate Professor of English
+University of Lethbridge
+Lethbridge AB T1K 3M4
+Tel. +1 (403) 329-2377
+Fax. +1 (403) 382-7191_redacted_@webmail)

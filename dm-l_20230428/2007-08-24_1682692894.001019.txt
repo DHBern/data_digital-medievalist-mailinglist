@@ -1,0 +1,36 @@
+Subject:Hi Dan,We use Subversion at the Emblem Project Utrecht. There's a wonderful 
+windows client, Tortoise, that implements the calls to Subversion 
+functionality through the context menu. I didn't set this up myself, but 
+as a user I like it. You can see what this looks like at 
+http://tortoisesvn.tigris.org/ExplorerIntegration.html.Best,
+PeterDaniel O'Donnell wrote:
+> Hi all,
+> 
+> I am helping a project that is working on a really interesting text.
+> Nobody on the project is particularly technical.
+> 
+> Because the members of the project are spread all over the place, they
+> need a version control system for keeping track of their documents. I'd
+> say they need subversion (the documents are PDFs and XML files), but I
+> need them to be able to see it in something like windows explorer.
+> 
+> Has anybody any experience in setting up something like subversion for
+> use with Windows?
+> 
+> -dan
+> 
+> 
+> _______________________________________________
+> Digital Medievalist Project
+> Homepage: http://www.digitalmedievalist.org
+> Journal (Spring 2005-): http://www.digitalmedievalist.org/journal.cfm
+> RSS (announcements) server: http://www.digitalmedievalist.org/rss/rss2.cfm
+> Wiki: http://sql.uleth.ca/dmorgwiki/index.php
+> Change membership options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+> Submit RSS announcement: http://www.digitalmedievalist.org/newitem.cfm
+_redacted_(a)uleth.ca
+> dm-l mailing list
+_redacted_(a)uleth.ca
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+> 
+> 

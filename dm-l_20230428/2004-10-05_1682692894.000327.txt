@@ -1,0 +1,70 @@
+Subject: Re: [dm-l] Character reference conversions: help?For those of us not comfortable with XSLT, any editor designed to
+work with unicode text (e.g. UniPad, BabelPad) should be able
+to convert to and from numeric character references (decimal or hex), 
+UTF-8 (little- or bigendian), UTF-16, and (my favorite) 'java unicode 
+escapes' (aka UCNs). UniPad is pricey; BabelPad, I think, is free.
+Ideally also from and to ISO standard SGML SDATA character entities. Such 
+editors, however, usually work on one file at a time, rather than as a 
+batch-mode filter.For the latter purpose, Perl should do the trick: the only filters I 
+use locally go the wrong direction (either from named entities to UTF-8 or
+from UTF-8 to UCNs), but there are a couple of scripts posted
+_redacted_(a)nl.linux.org/msg02741.html
+that look like they should work; if not, there are undoubtedly
+others out there that will. I think all it has to do is parse
+&...; strings and convert them to UTF-8 characters, but what would
+I know?pfs
+--
+--------------------------------------------------------------------
+_redacted_(a)umich.edu | http://www-personal.umich.edu/~pfs/
+316 Hatcher Library N, Univ. of Michigan, Ann Arbor MI 48109-1205
+--------------------------------------------------------------------On Tue, 5 Oct 2004, Peter Baker wrote:> If you process the file with an XSLT script that looks like this:
+> 
+> <?xml version="1.0" encoding="UTF-8"?>
+> <xsl:stylesheet version = '1.0'
+>      xmlns="http://www.w3.org/1999/xhtml"
+>      xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+>  
+> <xsl:output method="xml" doctype-public="-//W3C//DTD XHTML 1.0 
+> Transitional//EN"            
+> doctype-system="http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"/>
+>  
+> <xsl:template match="/">
+>   <xsl:copy-of select="."/>
+> </xsl:template>
+>  
+>  
+> </xsl:stylesheet>
+> 
+> then your entities should all get converted to UTF-8 automagically.
+> 
+> Peter
+> 
+> Daniel O'Donnell wrote:
+> 
+> > Digital Medievalist Journal (Inaugural Issue Fall 2004). Call for 
+> > papers: http://www.digitalmedievalist.org/cfp.htm
+> > ----------------
+> > Hello all,
+> >     I need some advice on converting Unicode character references. 
+> > Currently, am encoding character references in what I believe is UCS-4 
+> > format (Universal Character Set). This means they look like this in my 
+> > source files:
+> >
+> > &#x1090;
+> >
+> > I want to import xhtml documents into Open Office, which seems to need 
+> > UTF-8 encoding (I don't know what UTF stands for). Does anybody know 
+> > of a filter that might do the conversions for me? Or have advice on 
+> > using open office (Windows version) with UCS-4 encoding?
+> >
+> > -dan
+> 
+> 
+> 
+> _______________________________________________
+> Project web site: http://www.digitalmedievalist.org/
+> dm-l mailing list
+_redacted_(a)uleth.ca
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+> 
+--===============1697122576609006771==--

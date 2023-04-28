@@ -1,0 +1,9 @@
+Subject: [dm-l] Junicode 0.7.5The newest version of the Junicode font adds the Gothic range 
+(U+10330-1034A) in all four faces. The original Gothic added in 0.7.4 
+has been moved to the bold face. In regular the Gothic now harmonizes 
+with the rest of the face. The two italic faces have skewed versions of 
+the regular and bold. OpenType features in all four faces automatically 
+handle transliteration from Latin to Gothic and Gothic to Latin. If you 
+work with Gothic at all, have a look and tell me what you think. This 
+feature isn't for everyone, but I've really enjoyed adding it.Peter Baker
+http://junicode.sourceforge.net

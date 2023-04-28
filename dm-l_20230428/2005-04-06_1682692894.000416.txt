@@ -1,0 +1,45 @@
+Subject: Re: [dm-l] tex, unicode, etcThis is true about TeX and LaTeX. There is no better typesetting 
+available unless you go to high-end typesetting systems. And it's worth 
+pointing out that even an implementation that doesn't do Unicode can 
+still do a great deal, for LaTeX does a great job of positioning 
+diacritics, and there are good IPA and Greek packages available. For the 
+last few years of typesetting The Year's Work in Old English Studies I 
+used LaTeX with my own font package and IPA and Greek packages, and I 
+never came across a situation the system couldn't handle. It would be 
+easy to produce a script to generate perfectly decent LaTeX code and a 
+beautiful PDF file.I must say, though, Peter, that this isn't the first time you've 
+mentioned things that XSL can't do. I'm not sure I believe that it can't 
+be done. Someday, when we've all got lots of time, we'll have to have a 
+programming shootout. You can offer up a problem that you think XSL 
+can't handle, and you code it in C (or whatever it is you use), and I'll 
+use XSLT, and we'll see who gets there first.PeterPeter Robinson wrote:>To follow this up: on at least one operating system, matters are rather
+>different.  In Mac OS X, there is a quite wonderful TeX implementation
+>named XeTeX: go see
+>http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=xetex.  This
+>does Utf-8 right out of the box -- CJK, Thai (with hyphenation tables
+>even!!), Arabic, Mongolian, polytonic greek, just anything as far as I can
+>see.  It also seems to work nicely with OpenType font families, etc.  It
+>also works seamlessly with LaTeX, including some real tricksy bits of
+>LaTeX (long tables, for instance, spanning many pages).  I got this
+>running from bare ground to making Arabic pdfs in about 30 minutes -- you
+>have to install the full TeX, XeTeX, and a graphic UI, TeXShop (which
+>creates pdfs straight out of the TeX, which is very cool), but all this is
+>nicely explained on the XeTeX site.  I don't yet know whether XeTeX works
+>ok with the EDMAC critical edition macros, but there's no reason why it
+>should not.
+>
+>I'd have to say that TeX is still, after all these years, just the best
+>typesetting system I have seen. I agree with Dan, that it is annoying in
+>that appartently simple things (changing page sizes!) can be hard to do in
+>TeX.  But boy, does it make up for it in its power to make really complex,
+>really beautiful pages.  I am currently setting some 10,000 pages of a
+>historical edition (about 9,000,000 words) from XML, and for a task like
+>this, TeX is incomparable.  We use our own transformer tool to translate
+>the xml into tex source, and away we go (as always, we have to do dicy
+>things like make up pages from bits of other pages mosaiced together, with
+>lots of text bounded by empty elements, so XSL does not cut it for us).
+>all the best
+>Peter
+>
+>  
+>

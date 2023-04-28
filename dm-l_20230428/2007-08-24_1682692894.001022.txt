@@ -1,0 +1,134 @@
+Subject:Hi Dan and all,Just a third vote for TortiseSVN. We use it for the SVN interface at RCH and
+it's really simple for anyone familiar with the Windows interface. For
+non-techies, I wouldn't recommend anything else.Dot_redacted_(a)uni-koeln.de> wrote:
+>
+> Hi Dan,
+>
+> there are several subversion clients for windows. Once I set up a system
+> for people
+> who wanted an easy to use system without or with little technical
+> background. I used
+> TortoiseSVN (http://tortoisesvn.tigris.org/) which i think is the
+> programm to go for as it is easy to use,
+> mature and open source. TortoiseSVN is basically a shell extension for
+> windows explorer,
+> so usage should be really straightforward.
+>
+> Best,
+> Philipp
+>
+> > Hi all,
+> >
+> > I am helping a project that is working on a really interesting text.
+> > Nobody on the project is particularly technical.
+> >
+> > Because the members of the project are spread all over the place, they
+> > need a version control system for keeping track of their documents. I'd
+> > say they need subversion (the documents are PDFs and XML files), but I
+> > need them to be able to see it in something like windows explorer.
+> >
+> > Has anybody any experience in setting up something like subversion for
+> > use with Windows?
+> >
+> > -dan
+>
+>
+> --
+> Philipp Steinkrüger
+> Thomas-Institut der Universität zu Köln
+> IDE - Institut für Dokumentologie und Editorik
+>
+_redacted_(a)uni-koeln.de
+> http://www.thomasinst.uni-koeln.de || http://www.i-d-e.de
+>
+>
+> _______________________________________________
+> Digital Medievalist Project
+> Homepage: http://www.digitalmedievalist.org
+> Journal (Spring 2005-): http://www.digitalmedievalist.org/journal.cfm
+> RSS (announcements) server: http://www.digitalmedievalist.org/rss/rss2.cfm
+> Wiki: http://sql.uleth.ca/dmorgwiki/index.php
+> Change membership options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+> Submit RSS announcement: http://www.digitalmedievalist.org/newitem.cfm
+_redacted_(a)uleth.ca
+> dm-l mailing list
+_redacted_(a)uleth.ca
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+>-- 
+***************************************
+Dot Porter, University of Kentucky
+#####
+Program Coordinator
+Collaboratory for Research in Computing for Humanities
+_redacted_(a)uky.edu          859-257-9549
+#####
+Editorial Assistant, REVEAL Project
+Center for Visualization and Virtual Environments
+_redacted_(a)vis.uky.edu
+***************************************SGkgRGFuIGFuZCBhbGwsPGJyPjxicj5KdXN0IGEgdGhpcmQgdm90ZSBmb3IgVG9ydGlzZVNWTi4g
+V2UgdXNlIGl0IGZvciB0aGUgU1ZOIGludGVyZmFjZSBhdCBSQ0ggYW5kIGl0JiMzOTtzIHJlYWxs
+eSBzaW1wbGUgZm9yIGFueW9uZSBmYW1pbGlhciB3aXRoIHRoZSBXaW5kb3dzIGludGVyZmFjZS4g
+Rm9yIG5vbi10ZWNoaWVzLCBJIHdvdWxkbiYjMzk7dCByZWNvbW1lbmQgYW55dGhpbmcgZWxzZS4K
+PGJyPjxicj5Eb3Q8YnI+PGJyPjxkaXY+PHNwYW4gY2xhc3M9ImdtYWlsX3F1b3RlIj5PbiA4LzI0
+LzA3LCA8YiBjbGFzcz0iZ21haWxfc2VuZGVybmFtZSI+UGhpbGlwcCBTdGVpbmty/GdlcjwvYj4g
+Jmx0OzxhIGhyZWY9Im1haWx0bzpwaGlsaXBwLnN0ZWlua3J1ZWdlckB1bmkta29lbG4uZGUiPnBo
+aWxpcHAuc3RlaW5rcnVlZ2VyQHVuaS1rb2Vsbi5kZTwvYT4mZ3Q7IHdyb3RlOjwvc3Bhbj4KPGJs
+b2NrcXVvdGUgY2xhc3M9ImdtYWlsX3F1b3RlIiBzdHlsZT0iYm9yZGVyLWxlZnQ6IDFweCBzb2xp
+ZCByZ2IoMjA0LCAyMDQsIDIwNCk7IG1hcmdpbjogMHB0IDBwdCAwcHQgMC44ZXg7IHBhZGRpbmct
+bGVmdDogMWV4OyI+SGkgRGFuLDxicj48YnI+dGhlcmUgYXJlIHNldmVyYWwgc3VidmVyc2lvbiBj
+bGllbnRzIGZvciB3aW5kb3dzLiBPbmNlIEkgc2V0IHVwIGEgc3lzdGVtPGJyPmZvciBwZW9wbGUK
+PGJyPndobyB3YW50ZWQgYW4gZWFzeSB0byB1c2Ugc3lzdGVtIHdpdGhvdXQgb3Igd2l0aCBsaXR0
+bGUgdGVjaG5pY2FsPGJyPmJhY2tncm91bmQuIEkgdXNlZDxicj5Ub3J0b2lzZVNWTiAoPGEgaHJl
+Zj0iaHR0cDovL3RvcnRvaXNlc3ZuLnRpZ3Jpcy5vcmcvIj5odHRwOi8vdG9ydG9pc2Vzdm4udGln
+cmlzLm9yZy88L2E+KSB3aGljaCBpIHRoaW5rIGlzIHRoZTxicj5wcm9ncmFtbSB0byBnbyBmb3Ig
+YXMgaXQgaXMgZWFzeSB0byB1c2UsCjxicj5tYXR1cmUgYW5kIG9wZW4gc291cmNlLiBUb3J0b2lz
+ZVNWTiBpcyBiYXNpY2FsbHkgYSBzaGVsbCBleHRlbnNpb24gZm9yPGJyPndpbmRvd3MgZXhwbG9y
+ZXIsPGJyPnNvIHVzYWdlIHNob3VsZCBiZSByZWFsbHkgc3RyYWlnaHRmb3J3YXJkLjxicj48YnI+
+QmVzdCw8YnI+UGhpbGlwcDxicj48YnI+Jmd0OyBIaSBhbGwsPGJyPiZndDs8YnI+Jmd0OyBJIGFt
+IGhlbHBpbmcgYSBwcm9qZWN0IHRoYXQgaXMgd29ya2luZyBvbiBhIHJlYWxseSBpbnRlcmVzdGlu
+ZyB0ZXh0Lgo8YnI+Jmd0OyBOb2JvZHkgb24gdGhlIHByb2plY3QgaXMgcGFydGljdWxhcmx5IHRl
+Y2huaWNhbC48YnI+Jmd0Ozxicj4mZ3Q7IEJlY2F1c2UgdGhlIG1lbWJlcnMgb2YgdGhlIHByb2pl
+Y3QgYXJlIHNwcmVhZCBhbGwgb3ZlciB0aGUgcGxhY2UsIHRoZXk8YnI+Jmd0OyBuZWVkIGEgdmVy
+c2lvbiBjb250cm9sIHN5c3RlbSBmb3Iga2VlcGluZyB0cmFjayBvZiB0aGVpciBkb2N1bWVudHMu
+IEkmIzM5O2QKPGJyPiZndDsgc2F5IHRoZXkgbmVlZCBzdWJ2ZXJzaW9uICh0aGUgZG9jdW1lbnRz
+IGFyZSBQREZzIGFuZCBYTUwgZmlsZXMpLCBidXQgSTxicj4mZ3Q7IG5lZWQgdGhlbSB0byBiZSBh
+YmxlIHRvIHNlZSBpdCBpbiBzb21ldGhpbmcgbGlrZSB3aW5kb3dzIGV4cGxvcmVyLjxicj4mZ3Q7
+PGJyPiZndDsgSGFzIGFueWJvZHkgYW55IGV4cGVyaWVuY2UgaW4gc2V0dGluZyB1cCBzb21ldGhp
+bmcgbGlrZSBzdWJ2ZXJzaW9uIGZvcgo8YnI+Jmd0OyB1c2Ugd2l0aCBXaW5kb3dzPzxicj4mZ3Q7
+PGJyPiZndDsgLWRhbjxicj48YnI+PGJyPi0tPGJyPlBoaWxpcHAgU3RlaW5rcvxnZXI8YnI+VGhv
+bWFzLUluc3RpdHV0IGRlciBVbml2ZXJzaXTkdCB6dSBL9mxuPGJyPklERSAtIEluc3RpdHV0IGb8
+ciBEb2t1bWVudG9sb2dpZSB1bmQgRWRpdG9yaWs8YnI+PGJyPjxhIGhyZWY9Im1haWx0bzpwaGls
+aXBwLnN0ZWlua3J1ZWdlckB1bmkta29lbG4uZGUiPgpwaGlsaXBwLnN0ZWlua3J1ZWdlckB1bmkt
+a29lbG4uZGU8L2E+PGJyPjxhIGhyZWY9Imh0dHA6Ly93d3cudGhvbWFzaW5zdC51bmkta29lbG4u
+ZGUiPmh0dHA6Ly93d3cudGhvbWFzaW5zdC51bmkta29lbG4uZGU8L2E+IHx8IDxhIGhyZWY9Imh0
+dHA6Ly93d3cuaS1kLWUuZGUiPmh0dHA6Ly93d3cuaS1kLWUuZGU8L2E+PGJyPjxicj48YnI+X19f
+X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX18KPGJyPkRpZ2l0YWwg
+TWVkaWV2YWxpc3QgUHJvamVjdDxicj5Ib21lcGFnZTogPGEgaHJlZj0iaHR0cDovL3d3dy5kaWdp
+dGFsbWVkaWV2YWxpc3Qub3JnIj5odHRwOi8vd3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmc8L2E+
+PGJyPkpvdXJuYWwgKFNwcmluZyAyMDA1LSk6IDxhIGhyZWY9Imh0dHA6Ly93d3cuZGlnaXRhbG1l
+ZGlldmFsaXN0Lm9yZy9qb3VybmFsLmNmbSI+aHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qu
+b3JnL2pvdXJuYWwuY2ZtCjwvYT48YnI+UlNTIChhbm5vdW5jZW1lbnRzKSBzZXJ2ZXI6IDxhIGhy
+ZWY9Imh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy9yc3MvcnNzMi5jZm0iPmh0dHA6
+Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy9yc3MvcnNzMi5jZm08L2E+PGJyPldpa2k6IDxh
+IGhyZWY9Imh0dHA6Ly9zcWwudWxldGguY2EvZG1vcmd3aWtpL2luZGV4LnBocCI+aHR0cDovL3Nx
+bC51bGV0aC5jYS9kbW9yZ3dpa2kvaW5kZXgucGhwCjwvYT48YnI+Q2hhbmdlIG1lbWJlcnNoaXAg
+b3B0aW9uczogPGEgaHJlZj0iaHR0cDovL2xpc3RzZXJ2LnVsZXRoLmNhL21haWxtYW4vbGlzdGlu
+Zm8vZG0tbCI+aHR0cDovL2xpc3RzZXJ2LnVsZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0tbDwv
+YT48YnI+U3VibWl0IFJTUyBhbm5vdW5jZW1lbnQ6IDxhIGhyZWY9Imh0dHA6Ly93d3cuZGlnaXRh
+bG1lZGlldmFsaXN0Lm9yZy9uZXdpdGVtLmNmbSI+Cmh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFs
+aXN0Lm9yZy9uZXdpdGVtLmNmbTwvYT48YnI+Q29udGFjdCBlZGl0b3JpYWwgQm9hcmQ6IDxhIGhy
+ZWY9Im1haWx0bzpkaWdpdGFsbWVkaWV2YWxpc3RAdWxldGguY2EiPmRpZ2l0YWxtZWRpZXZhbGlz
+dEB1bGV0aC5jYTwvYT48YnI+ZG0tbCBtYWlsaW5nIGxpc3Q8YnI+PGEgaHJlZj0ibWFpbHRvOmRt
+LWxAdWxldGguY2EiPmRtLWxAdWxldGguY2EKPC9hPjxicj48YSBocmVmPSJodHRwOi8vbGlzdHNl
+cnYudWxldGguY2EvbWFpbG1hbi9saXN0aW5mby9kbS1sIj5odHRwOi8vbGlzdHNlcnYudWxldGgu
+Y2EvbWFpbG1hbi9saXN0aW5mby9kbS1sPC9hPjxicj48L2Jsb2NrcXVvdGU+PC9kaXY+PGJyPjxi
+ciBjbGVhcj0iYWxsIj48YnI+LS0gPGJyPioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioq
+KioqKioqKjxicj5Eb3QgUG9ydGVyLCBVbml2ZXJzaXR5IG9mIEtlbnR1Y2t5Cjxicj4jIyMjIzxi
+cj5Qcm9ncmFtIENvb3JkaW5hdG9yPGJyPkNvbGxhYm9yYXRvcnkgZm9yIFJlc2VhcmNoIGluIENv
+bXB1dGluZyBmb3IgSHVtYW5pdGllczxicj48YSBocmVmPSJtYWlsdG86ZHBvcnRlckB1a3kuZWR1
+Ij5kcG9ydGVyQHVreS5lZHU8L2E+Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7
+Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7ODU5LTI1Ny05NTQ5PGJyPiMjIyMjPGJyPkVkaXRvcmlh
+bCBBc3Npc3RhbnQsIFJFVkVBTCBQcm9qZWN0PGJyPkNlbnRlciBmb3IgVmlzdWFsaXphdGlvbiBh
+bmQgVmlydHVhbCBFbnZpcm9ubWVudHMKPGJyPjxhIGhyZWY9Im1haWx0bzpwb3J0ZXJAdmlzLnVr
+eS5lZHUiPnBvcnRlckB2aXMudWt5LmVkdTwvYT48YnI+KioqKioqKioqKioqKioqKioqKioqKioq
+KioqKioqKioqKioqKioqCg==

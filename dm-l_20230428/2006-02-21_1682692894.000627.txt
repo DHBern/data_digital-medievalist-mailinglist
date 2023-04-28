@@ -1,0 +1,57 @@
+Subject: Re: [dm-l] RefworksSince this keeps coming up--and is a perennial scholarly problem--it
+seems to me that it might be something for the wiki.Would anybody be willing to help me write an entry on reference managers
+in the dm wiki?-dOn Tue, 2006-21-02 at 22:58 +0100, Laurent Brun wrote:
+> After having tried many software, including Bibdesk and Bookends, I've 
+> recently been using Wikindx (http://wikindx.sourceforge.net, look under 
+> "Features"), which is open-source and allows you to import from Bibtex 
+> and Endnote as well as to export to RTF, RIS, Endnote, Bibtex and HTML. 
+> All you need is a website with PHP and MySQL; it is thus possible to run 
+> it on virtually every platform and to use it either locally or on the 
+> Internet. And you can also use, edit and create any bibliographical 
+> style you wish. For a complete list of features, see: 
+> http://wikindx.sourceforge.net/features.html  There's even a multi-user 
+> mode that can be useful for research groups.
+> 
+> Laurent
+> 
+> Daniel O'Donnell wrote:
+> > Hi all,
+> > 
+> > Does anybody have any experience with RefWorks
+> > (http://www.refworks.com/)? It looks like a pay-as-you-go on-line
+> > reference manager that has many of the features of standalone products
+> > like Procite and Endnote.
+> > 
+> > While I'd prefer an open-source replacement for Procite, I've not been
+> > able to find something suitable yet. This looks like it might be a
+> > decent stop-gap. Does anybody have any experience with it?
+> > 
+> > -dan
+> > 
+> > 
+> > _______________________________________________
+> > Digital Medievalist Project
+> > Homepage: http://www.digitalmedievalist.org
+> > Journal (Spring 2005-): http://www.digitalmedievalist.org/journal.cfm
+> > RSS (announcements) server: http://www.digitalmedievalist.org/rss/rss2.cfm
+> > Wiki: http://sql.uleth.ca/dmorgwiki/index.php
+> > Change membership options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+> > Submit RSS announcement: http://www.digitalmedievalist.org/newitem.cfm
+_redacted_(a)uleth.ca
+> > dm-l mailing list
+_redacted_(a)uleth.ca
+> > http://listserv.uleth.ca/mailman/listinfo/dm-l
+> > 
+> 
+> _______________________________________________
+> Digital Medievalist Project
+> Homepage: http://www.digitalmedievalist.org
+> Journal (Spring 2005-): http://www.digitalmedievalist.org/journal.cfm
+> RSS (announcements) server: http://www.digitalmedievalist.org/rss/rss2.cfm
+> Wiki: http://sql.uleth.ca/dmorgwiki/index.php
+> Change membership options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+> Submit RSS announcement: http://www.digitalmedievalist.org/newitem.cfm
+_redacted_(a)uleth.ca
+> dm-l mailing list
+_redacted_(a)uleth.ca
+> http://listserv.uleth.ca/mailman/listinfo/dm-l

@@ -1,0 +1,151 @@
+Subject:Dear digital medievalists,We invite applications for a two-day workshop in digitizing and encoding
+ancient seals, hosted by the Venice Centre for Digital and Public
+Humanities (VeDPH) at the Department for the Humanities, Ca' Foscari
+University of Venice, January 20-21, 2020.The aim of the workshop is to present and discuss solutions, currently
+under development, concerning an XML-based and TEI-compliant data model for
+the description of Byzantine seals  - and, with minor adjustments, of other
+coin-like objects, such as bread stamps, Hellenistic or Western Medieval
+seals and sealings. For this purpose, participants will be introduced to a
+new encoding standard: SigiDoc, the first attempt to adapt and extend the
+digital approach - already applied to inscriptions, coins and papyri - to
+seals. SigiDoc builds on the experience of the EpiDoc encoding standard and
+its customisable publication platform EFES (EpiDoc Front End Services). The
+introduction into the methodology and functionalities of both SigiDoc and
+EFES will take place during the first half of the workshop, followed by
+hands-on training sessions on the second day. The final session of the
+workshop will be dedicated to discussing challenges and solutions to open
+issues within the development of SigiDoc, as well as the questions and
+suggestions arising from the participants.The workshop will also feature an introduction and a practical
+demonstration of Reflective Transformation Imaging (RTI), a cutting edge
+imaging technology especially well-suited for the digitization of seals.
+With RTI, an object is photographed multiple times with lightning from
+different angles. These images are then computationally processed and
+presented in a way that allows the viewer to virtually move the light
+source on-screen, thus making visible and discernible finest and most
+subtle structure of the object's surface. Legibility and analysis of visual
+features can be significantly improved. Participants in the RTI session
+will be introduced into the use of RTI technology, techniques and
+equipment, and their applications in sigillography. During the RTI session,
+seals and other objects (brought by the participants) will be digitised
+using a custom built RTI dome.Lessons and hands-on training will be offered by Alessio Sopracasa
+(Sorbonne University, Paris), Simona Stoyanova (University of Nottingham),
+Martina Filosa (University of Cologne), and Marcel Schaeben (CCeH,
+University of Cologne).To apply for a place on this workshop, please send an application
+_redacted_(a)unive.it by December 27 including a brief description of your
+interest in the workshop as well as your scholarly background. Basic
+knowledge of TEI-XML as well as of Ancient/Byzantine Greek are desirable.
+Programme:Monday, 20 Jan 2020
+13.00    Welcome
+13.15    Introducing SigiDoc - A digital standard for describing seals
+14.15    Digitizing seals - A practical introduction to RTI
+15.30    Coffee Break
+16.00    Encoding seals - Introduction to EFES (Metadata encoding,
+inscription tagging)
+19.00    EndTuesday, 21 Jan 2020
+09.00    Indexing and authority files
+10.00    Coffee Break
+10.30    Faceted search and other features
+12.00    Lunch Break
+13.00    Hands-on training SigiDoc/EFES
+14.30    Evaluation of the RTI test results
+15.00    Coffee Break
+15.30    Hands-on training SigiDoc/EFES
+17.00    Closure
+Venue: Sala Piccola, Palazzo Malcanton MarcorÃ , Dorsoduro 3484/D - 30123
+Venezia
+Application deadline: *27 December 2019*
+_redacted_(a)unive.it
+More information at: https://www.unive.it/vedphAll the best,
+Franz-- Franz Fischer
+Direttore, Venice Centre for Digital & Public Humanities (VeDPH)
+Dipartimento di Studi Umanistici
+Università Ca' Foscari
+Palazzo Malcanton Marcorà
+Dorsoduro 3484/D - 30123 VeneziaTel.: +39 041 234 6266 (ufficio), +39 041 234 9863 (segreteria del centro)
+https://www.unive.it/vedph
+https://www.i-d-e.de/
+https://journal.digitalmedievalist.org/PGRpdiBkaXI9Imx0ciI+CjxwcmUgY2xhc3M9ImdtYWlsLW1vei1xdW90ZS1wcmUiPkRlYXIgZGln
+aXRhbCBtZWRpZXZhbGlzdHMsCgpXZSBpbnZpdGUgYXBwbGljYXRpb25zIGZvciBhIHR3by1kYXkg
+d29ya3Nob3AgaW4gZGlnaXRpemluZyBhbmQgZW5jb2RpbmcKYW5jaWVudCBzZWFscywgaG9zdGVk
+IGJ5IHRoZSBWZW5pY2UgQ2VudHJlIGZvciBEaWdpdGFsIGFuZCBQdWJsaWMKSHVtYW5pdGllcyAo
+VmVEUEgpIGF0IHRoZSBEZXBhcnRtZW50IGZvciB0aGUgSHVtYW5pdGllcywgQ2EmIzM5OyBGb3Nj
+YXJpClVuaXZlcnNpdHkgb2YgVmVuaWNlLCBKYW51YXJ5IDIwLTIxLCAyMDIwLgoKVGhlIGFpbSBv
+ZiB0aGUgd29ya3Nob3AgaXMgdG8gcHJlc2VudCBhbmQgZGlzY3VzcyBzb2x1dGlvbnMsIGN1cnJl
+bnRseQp1bmRlciBkZXZlbG9wbWVudCwgY29uY2VybmluZyBhbiBYTUwtYmFzZWQgYW5kIFRFSS1j
+b21wbGlhbnQgZGF0YSBtb2RlbCBmb3IKdGhlIGRlc2NyaXB0aW9uIG9mIEJ5emFudGluZSBzZWFs
+cyAgLSBhbmQsIHdpdGggbWlub3IgYWRqdXN0bWVudHMsIG9mIG90aGVyCmNvaW4tbGlrZSBvYmpl
+Y3RzLCBzdWNoIGFzIGJyZWFkIHN0YW1wcywgSGVsbGVuaXN0aWMgb3IgV2VzdGVybiBNZWRpZXZh
+bApzZWFscyBhbmQgc2VhbGluZ3MuIEZvciB0aGlzIHB1cnBvc2UsIHBhcnRpY2lwYW50cyB3aWxs
+IGJlIGludHJvZHVjZWQgdG8gYQpuZXcgZW5jb2Rpbmcgc3RhbmRhcmQ6IFNpZ2lEb2MsIHRoZSBm
+aXJzdCBhdHRlbXB0IHRvIGFkYXB0IGFuZCBleHRlbmQgdGhlCmRpZ2l0YWwgYXBwcm9hY2ggLSBh
+bHJlYWR5IGFwcGxpZWQgdG8gaW5zY3JpcHRpb25zLCBjb2lucyBhbmQgcGFweXJpIC0gdG8Kc2Vh
+bHMuIFNpZ2lEb2MgYnVpbGRzIG9uIHRoZSBleHBlcmllbmNlIG9mIHRoZSBFcGlEb2MgZW5jb2Rp
+bmcgc3RhbmRhcmQgYW5kCml0cyBjdXN0b21pc2FibGUgcHVibGljYXRpb24gcGxhdGZvcm0gRUZF
+UyAoRXBpRG9jIEZyb250IEVuZCBTZXJ2aWNlcykuIFRoZQppbnRyb2R1Y3Rpb24gaW50byB0aGUg
+bWV0aG9kb2xvZ3kgYW5kIGZ1bmN0aW9uYWxpdGllcyBvZiBib3RoIFNpZ2lEb2MgYW5kCkVGRVMg
+d2lsbCB0YWtlIHBsYWNlIGR1cmluZyB0aGUgZmlyc3QgaGFsZiBvZiB0aGUgd29ya3Nob3AsIGZv
+bGxvd2VkIGJ5CmhhbmRzLW9uIHRyYWluaW5nIHNlc3Npb25zIG9uIHRoZSBzZWNvbmQgZGF5LiBU
+aGUgZmluYWwgc2Vzc2lvbiBvZiB0aGUKd29ya3Nob3Agd2lsbCBiZSBkZWRpY2F0ZWQgdG8gZGlz
+Y3Vzc2luZyBjaGFsbGVuZ2VzIGFuZCBzb2x1dGlvbnMgdG8gb3Blbgppc3N1ZXMgd2l0aGluIHRo
+ZSBkZXZlbG9wbWVudCBvZiBTaWdpRG9jLCBhcyB3ZWxsIGFzIHRoZSBxdWVzdGlvbnMgYW5kCnN1
+Z2dlc3Rpb25zIGFyaXNpbmcgZnJvbSB0aGUgcGFydGljaXBhbnRzLgoKVGhlIHdvcmtzaG9wIHdp
+bGwgYWxzbyBmZWF0dXJlIGFuIGludHJvZHVjdGlvbiBhbmQgYSBwcmFjdGljYWwKZGVtb25zdHJh
+dGlvbiBvZiBSZWZsZWN0aXZlIFRyYW5zZm9ybWF0aW9uIEltYWdpbmcgKFJUSSksIGEgY3V0dGlu
+ZyBlZGdlCmltYWdpbmcgdGVjaG5vbG9neSBlc3BlY2lhbGx5IHdlbGwtc3VpdGVkIGZvciB0aGUg
+ZGlnaXRpemF0aW9uIG9mIHNlYWxzLgpXaXRoIFJUSSwgYW4gb2JqZWN0IGlzIHBob3RvZ3JhcGhl
+ZCBtdWx0aXBsZSB0aW1lcyB3aXRoIGxpZ2h0bmluZyBmcm9tCmRpZmZlcmVudCBhbmdsZXMuIFRo
+ZXNlIGltYWdlcyBhcmUgdGhlbiBjb21wdXRhdGlvbmFsbHkgcHJvY2Vzc2VkIGFuZApwcmVzZW50
+ZWQgaW4gYSB3YXkgdGhhdCBhbGxvd3MgdGhlIHZpZXdlciB0byB2aXJ0dWFsbHkgbW92ZSB0aGUg
+bGlnaHQKc291cmNlIG9uLXNjcmVlbiwgdGh1cyBtYWtpbmcgdmlzaWJsZSBhbmQgZGlzY2Vybmli
+bGUgZmluZXN0IGFuZCBtb3N0CnN1YnRsZSBzdHJ1Y3R1cmUgb2YgdGhlIG9iamVjdCYjMzk7cyBz
+dXJmYWNlLiBMZWdpYmlsaXR5IGFuZCBhbmFseXNpcyBvZiB2aXN1YWwKZmVhdHVyZXMgY2FuIGJl
+IHNpZ25pZmljYW50bHkgaW1wcm92ZWQuIFBhcnRpY2lwYW50cyBpbiB0aGUgUlRJIHNlc3Npb24K
+d2lsbCBiZSBpbnRyb2R1Y2VkIGludG8gdGhlIHVzZSBvZiBSVEkgdGVjaG5vbG9neSwgdGVjaG5p
+cXVlcyBhbmQKZXF1aXBtZW50LCBhbmQgdGhlaXIgYXBwbGljYXRpb25zIGluIHNpZ2lsbG9ncmFw
+aHkuIER1cmluZyB0aGUgUlRJIHNlc3Npb24sCnNlYWxzIGFuZCBvdGhlciBvYmplY3RzIChicm91
+Z2h0IGJ5IHRoZSBwYXJ0aWNpcGFudHMpIHdpbGwgYmUgZGlnaXRpc2VkCnVzaW5nIGEgY3VzdG9t
+IGJ1aWx0IFJUSSBkb21lLgoKTGVzc29ucyBhbmQgaGFuZHMtb24gdHJhaW5pbmcgd2lsbCBiZSBv
+ZmZlcmVkIGJ5IEFsZXNzaW8gU29wcmFjYXNhCihTb3Jib25uZSBVbml2ZXJzaXR5LCBQYXJpcyks
+IFNpbW9uYSBTdG95YW5vdmEgKFVuaXZlcnNpdHkgb2YgTm90dGluZ2hhbSksCk1hcnRpbmEgRmls
+b3NhIChVbml2ZXJzaXR5IG9mIENvbG9nbmUpLCBhbmQgTWFyY2VsIFNjaGFlYmVuIChDQ2VILApV
+bml2ZXJzaXR5IG9mIENvbG9nbmUpLgoKVG8gYXBwbHkgZm9yIGEgcGxhY2Ugb24gdGhpcyB3b3Jr
+c2hvcCwgcGxlYXNlIHNlbmQgYW4gYXBwbGljYXRpb24gdG8KPGEgY2xhc3M9ImdtYWlsLW1vei10
+eHQtbGluay1hYmJyZXZpYXRlZCIgaHJlZj0ibWFpbHRvOnZlZHBoQHVuaXZlLml0Ij52ZWRwaEB1
+bml2ZS5pdDwvYT4gYnkgRGVjZW1iZXIgMjcgaW5jbHVkaW5nIGEgYnJpZWYgZGVzY3JpcHRpb24g
+b2YgeW91cgppbnRlcmVzdCBpbiB0aGUgd29ya3Nob3AgYXMgd2VsbCBhcyB5b3VyIHNjaG9sYXJs
+eSBiYWNrZ3JvdW5kLiBCYXNpYwprbm93bGVkZ2Ugb2YgVEVJLVhNTCBhcyB3ZWxsIGFzIG9mIEFu
+Y2llbnQvQnl6YW50aW5lIEdyZWVrIGFyZSBkZXNpcmFibGUuClByb2dyYW1tZToKCk1vbmRheSwg
+MjAgSmFuIDIwMjAKMTMuMDAgICAgV2VsY29tZQoxMy4xNSAgICBJbnRyb2R1Y2luZyBTaWdpRG9j
+IC0gQSBkaWdpdGFsIHN0YW5kYXJkIGZvciBkZXNjcmliaW5nIHNlYWxzCjE0LjE1ICAgIERpZ2l0
+aXppbmcgc2VhbHMgLSBBIHByYWN0aWNhbCBpbnRyb2R1Y3Rpb24gdG8gUlRJCjE1LjMwICAgIENv
+ZmZlZSBCcmVhawoxNi4wMCAgICBFbmNvZGluZyBzZWFscyAtIEludHJvZHVjdGlvbiB0byBFRkVT
+IChNZXRhZGF0YSBlbmNvZGluZywgaW5zY3JpcHRpb24gdGFnZ2luZykKMTkuMDAgICAgRW5kCgpU
+dWVzZGF5LCAyMSBKYW4gMjAyMAowOS4wMCAgICBJbmRleGluZyBhbmQgYXV0aG9yaXR5IGZpbGVz
+CjEwLjAwICAgIENvZmZlZSBCcmVhawoxMC4zMCAgICBGYWNldGVkIHNlYXJjaCBhbmQgb3RoZXIg
+ZmVhdHVyZXMKMTIuMDAgICAgTHVuY2ggQnJlYWsKMTMuMDAgICAgSGFuZHMtb24gdHJhaW5pbmcg
+U2lnaURvYy9FRkVTCjE0LjMwICAgIEV2YWx1YXRpb24gb2YgdGhlIFJUSSB0ZXN0IHJlc3VsdHMK
+MTUuMDAgICAgQ29mZmVlIEJyZWFrCjE1LjMwICAgIEhhbmRzLW9uIHRyYWluaW5nIFNpZ2lEb2Mv
+RUZFUwoxNy4wMCAgICBDbG9zdXJlCjxicj5WZW51ZTogU2FsYSBQaWNjb2xhLCBQYWxhenpvIE1h
+bGNhbnRvbiBNYXJjb3LDg8KgLCBEb3Jzb2R1cm8gMzQ4NC9EIC0gMzAxMjMKVmVuZXppYQo8YnI+
+QXBwbGljYXRpb24gZGVhZGxpbmU6ICoyNyBEZWNlbWJlciAyMDE5KgpDb250YWN0OiA8YSBjbGFz
+cz0iZ21haWwtbW96LXR4dC1saW5rLWFiYnJldmlhdGVkIiBocmVmPSJtYWlsdG86dmVkcGhAdW5p
+dmUuaXQiPnZlZHBoQHVuaXZlLml0PC9hPgpNb3JlIGluZm9ybWF0aW9uIGF0OiA8YSBjbGFzcz0i
+Z21haWwtbW96LXR4dC1saW5rLWZyZWV0ZXh0IiBocmVmPSJodHRwczovL3d3dy51bml2ZS5pdC92
+ZWRwaCI+aHR0cHM6Ly93d3cudW5pdmUuaXQvdmVkcGg8L2E+CjwvcHJlPjxkaXY+QWxsIHRoZSBi
+ZXN0LDwvZGl2PjxkaXY+RnJhbno8L2Rpdj48ZGl2PjxkaXY+PGJyPi0tIDxicj48ZGl2IGRpcj0i
+bHRyIiBjbGFzcz0iZ21haWxfc2lnbmF0dXJlIiBkYXRhLXNtYXJ0bWFpbD0iZ21haWxfc2lnbmF0
+dXJlIj48ZGl2IGRpcj0ibHRyIj48ZGl2PjxkaXYgZGlyPSJsdHIiPjxkaXY+PGRpdiBkaXI9Imx0
+ciI+PGRpdj48ZGl2IGRpcj0ibHRyIj48cHJlIGNvbHM9IjcyIj5GcmFueiBGaXNjaGVyPGJyPkRp
+cmV0dG9yZSwgVmVuaWNlIENlbnRyZSBmb3IgRGlnaXRhbCAmYW1wOyBQdWJsaWMgSHVtYW5pdGll
+cyAoVmVEUEgpPGJyPkRpcGFydGltZW50byBkaSBTdHVkaSBVbWFuaXN0aWNpPGJyPlVuaXZlcnNp
+dMOgIENhJiMzOTsgRm9zY2FyaTxicj5QYWxhenpvIE1hbGNhbnRvbiBNYXJjb3LDoDxicj5Eb3Jz
+b2R1cm8gMzQ4NC9EIC0gMzAxMjMgVmVuZXppYTxicj48YnI+VGVsLjogKzM5IDA0MSAyMzQgNjI2
+NiAodWZmaWNpbyksICszOSAwNDEgMjM0IDk4NjMgKHNlZ3JldGVyaWEgZGVsIGNlbnRybyk8YnI+
+PGEgaHJlZj0iaHR0cHM6Ly93d3cudW5pdmUuaXQvdmVkcGgiIHRhcmdldD0iX2JsYW5rIj5odHRw
+czovL3d3dy51bml2ZS5pdC92ZWRwaDwvYT48YnI+PGEgaHJlZj0iaHR0cHM6Ly93d3cuaS1kLWUu
+ZGUvIiB0YXJnZXQ9Il9ibGFuayI+aHR0cHM6Ly93d3cuaS1kLWUuZGUvPC9hPjxicj48YSBocmVm
+PSJodHRwczovL2pvdXJuYWwuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy8iIHRhcmdldD0iX2JsYW5r
+Ij5odHRwczovL2pvdXJuYWwuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy88L2E+PGJyPjwvcHJlPjxk
+aXY+PHNwYW4+PGJyPjwvc3Bhbj48L2Rpdj48ZGl2PjxzcGFuPgo8L3NwYW4+PC9kaXY+PC9kaXY+
+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9k
+aXY+Cg==

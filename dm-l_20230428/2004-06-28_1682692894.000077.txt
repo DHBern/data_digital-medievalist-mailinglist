@@ -1,0 +1,12 @@
+Subject: Re: [dm-l] MS-Internet Explorer 6 and standards based computing
+On Monday, June 28, 2004, at 09:03 AM, Joris van.Zundert wrote:_redacted_(a)uleth.ca> 6/28/04 15:48:51 >>>
+> >>This is an interesting thread in as much as it touches on best 
+> practice.
+> >>Leaving aside the server vs. client side serving of xml for a minute 
+> (do
+> >>most people still not convert xml to (x)html and serve static 
+> pages?),
+> Thank you for shortcutting the tedious answer I was preparing for that 
+> one ;-)
+>touché.but is this not just another item on the list for letting go of IE, if 
+the main upside is supposed to be xslt parsing? :-)james cummings's post goes right to this point, i think.j

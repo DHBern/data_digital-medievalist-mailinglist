@@ -1,0 +1,86 @@
+Subject: RE: [dm-l] re: Relational database and TEIAccess exports in PDF, SQL, XML and Excel as well.Access also upsizes and/or manages passthrough queries to SQL Server rather
+gracefully. Filemaker 8 is an excellent product, though.Any RDMS can export/generate an XML structure in one form or another. It is,
+after all, just a textfile, derived or physical. Its all whether the RDMS
+does the work generating the SQL to do it for you or not, or to which
+degree.If you serve the data from SQL Server, you don't export a XML file; you
+generate an xml datasource through scripting. XML just becomes the proxy
+middleware between your application and your data.Travis________________________________________
+_redacted_(a)uleth.ca] On Behalf Of Da
+Rold, Dr. O.
+Sent: Tuesday, November 22, 2005 8:13 AM
+To: Digital Medievalist Community mailing list
+Subject: RE: [dm-l] re: Relational database and TEIThank you Peter, 
+This is very useful indeed, and yes, I did have a look at eXist, but not
+sure I'd be prepared to use this software for the project without specific
+technical support.
+ 
+However, I should have perhaps explained that after numerous discussions
+with colleagues, trials and advice from our computing centre here in
+Leicester, the decision was taken to catalogue our manuscripts creating a
+data-capture database. We need to be able to publish our data soon, ideally
+June 2006, it is not  a single publication at the end of the project. We are
+relying on our computer centre, which suggested managing our data from
+Microsoft Access on my desk machine, but then publish it for Web access on
+the university SQL server. I am some how hesitant about using  Access as it
+does not seem to have any flexibility in exporting the data, a part from SQL
+and XML. FileMaker Pro 8 seems to have more flexibility at this hand
+exporting in PDF, SQL, XML and excel. A similar method was used by the PASE
+project, I think.
+I am digressing here, anyway, we would still want to export the data in XML
+and clearly there are standards which may not be ignored. Thus my question
+relating to a possible correlation between TEI and relational databases. 
+I look forward to the West Midland Catalogue.
+ 
+All the best,
+Orietta________________________________________
+_redacted_(a)uleth.ca] On Behalf Of
+Peter Robinson
+Sent: 22 November 2005 15:33
+_redacted_(a)uleth.ca
+Subject: [dm-l] re: Relational database and TEI
+In fact, this is not quite what Scriptorium does.  Scriptorium was actually
+originally built as a relational database, using Access indeed, and I
+believe that this is still what it is, at base.  The Scriptorium people were
+indeed heavily involved in the drafting of the XML manuscript descriptoin
+guidelines which first became the MASTER system, and now underlie the TEI
+guidelines.  It was one of their aims to be able to export data from their
+database into Master/TEI XML, and possibly to import from Master/TEI into
+the database, but I am not sure how far they got with this. In any case, one
+should distinguish their arrangement from that now used by quite a few
+database systems now available (mostly proprietary and very very expensive),
+which can read XML schemas, configure a database accordingly, and then
+automatically import data direct from the XML into the database.
+One such system, which seems very powerful, is free, and has been used with
+some success by some people at least, is eXist
+(http://exist.sourceforge.net/): very powerful, very configurable.  I don't
+know of an implementation of EXIST for Master/TEI encoded manuscript
+descriptions but this would surely be possible.  One system which was built
+specifically for MASTER records was the PHELIX system, built at Oxford for
+the MASTER project.  This had some very neat features indeed -- where is it
+now?
+And, of course, I have to mention the Anastasia implementations of
+XML-encoded manuscript descriptions.  The original MASTER catalogue is not
+now functioning.  But there is a quite wonderful early print book (not
+manuscript! -- but the encodings work just fine, it seems) database of books
+printed in or about Japan c.1550-1650 at http://133.12.23.145:8080/html/. 
+This features, among many amazing things, some very clever cross-language
+searching -- choose 'place name' in the search menu and look for 'Kyoto' and
+it will find you Kyoto in Japanese! It also has many images, and lots of
+other fine things.
+If you are looking for an XML online catalogue of manuscripts: Wendy Scase's
+West Midland Manuscripts project is also  coming your way, again, done with
+Anastasia.  This is http://www.sd-editions.com/AnaServer?MWM+0+start.anv. 
+This website is currently being updated and should look much nicer in a few
+days.  But what is here, gives some idea of what can be doneall the best
+Peter
+***original messageDear all, Does anybody know about electronic manuscript projects which are
+using/have used relational databases following the TEI guidelines for
+'Manuscript description'?Scriptorium seems to have done it, any other similar project? If so, do
+you know of any related publication?I'd be very grateful for any advice, pitfall etc.Best wishes, OriettaDr Orietta Da Rold
+Research Fellow
+English Department
+University of Leicester
+University Road
+LE1 7RHTel. +44 (0)116 252 2778
+e-mail: odr1 at le.ac.ukThe Production and Use of English Manuscripts
+http://www.le.ac.uk/ee/em1060to1220/index.htm

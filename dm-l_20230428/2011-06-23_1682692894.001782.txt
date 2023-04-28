@@ -1,0 +1,118 @@
+Subject: [dm-l] Fwd: Late Breaking News added to Balisage 2011 ProgramDear all,
+I've been amused by one of the added topics at the BALISAGE conference=20
+(see email below:"Why is XML a pain to produce?"I would be curious to know the fellow Digital Medievalists on that. Off=20
+the top of my head, I'd say "because uit's semantic!"Any thoughts? :)
+Best wishes, Marjorie
+-------- Message original --------
+Sujet: 	Late Breaking News added to Balisage 2011 Program
+Date : 	Thu, 23 Jun 2011 12:53:06 -0400
+_redacted_(a)MULBERRYTECH.COM>
+_redacted_(a)MULBERRYTECH.COM>
+_redacted_(a)listserv.brown.eduBalisage 2011 Program FinalizedWhen the regular (peer-reviewed) part of the Balisage 2011 program was schedu=
+led, a few slots were reserved for presentation of "Late breaking" material. =
+ These presentations have now been selected and added to the program.Topics added include:  -  XQuery and SparQL
+  -  XQuery and XSLT
+  -  the Logical Form of a Metadata Record
+  -  Why is XML a pain to produce?
+  -  XML Serialization of C# and Java Objects
+  -  testing XSLT in continuous integration
+  -  dealing with markup without using words
+  -  REST for document resource nodes
+  -  tagging journal article supplemental materials
+  -  using 15 year old SGML documents in current softwareThe program already included talks about DITA, XSLT, generic microformats, XM=
+L Ebooks, JSON, multiple hrefs, XML editors, markup overlap, encryption of XM=
+L documents, and XML Interoperability, among others. Now it is a real must fo=
+r anyone who thinks deeply about markup.Balisage is the XML Geek-fest; the annual gathering of people who design mark=
+up and markup-based applications; who develop XML specifications, standards, =
+and tools; the people who read and write, books about publishing technologies=
+ in general and XML in particular; and super-users of XML and related technol=
+ogies. You can read about the Balisage 2011 conference at http://www.balisage=
+.net.
+Schedule At A Glance: http://www.balisage.net/2011/At-A-Glance.htmlDetailed program: http://www.balisage.net/2011/Program.html=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+_redacted_(a)balisage.net
+August 2-5, 2011                               http://www.balisage.net
+Symposium on Document-Oriented XML                    Montreal, Canada
+August 1, 2011
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+--===============8885423353193384998==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"
+MIME-Version: 1.0PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMDEgVHJhbnNpdGlvbmFs
+Ly9FTiI+CjxodG1sPgogIDxoZWFkPgoKICAgIDxtZXRhIGh0dHAtZXF1aXY9ImNvbnRlbnQtdHlw
+ZSIgY29udGVudD0idGV4dC9odG1sOyBjaGFyc2V0PUlTTy04ODU5LTEiPgogIDwvaGVhZD4KICA8
+Ym9keSB0ZXh0PSIjMDAwMDAwIiBiZ2NvbG9yPSIjZmZmZmZmIj4KICAgIERlYXIgYWxsLCA8YnI+
+CiAgICBJJ3ZlIGJlZW4gYW11c2VkIGJ5IG9uZSBvZiB0aGUgYWRkZWQgdG9waWNzIGF0IHRoZSBC
+QUxJU0FHRQogICAgY29uZmVyZW5jZSAoc2VlIGVtYWlsIGJlbG93OiA8YnI+CiAgICA8YnI+CiAg
+ICAiV2h5IGlzIFhNTCBhIHBhaW4gdG8gcHJvZHVjZT8iPGJyPgogICAgPGJyPgogICAgSSB3b3Vs
+ZCBiZSBjdXJpb3VzIHRvIGtub3cgdGhlIGZlbGxvdyBEaWdpdGFsIE1lZGlldmFsaXN0cyBvbiB0
+aGF0LgogICAgT2ZmIHRoZSB0b3Agb2YgbXkgaGVhZCwgSSdkIHNheSAiYmVjYXVzZSB1aXQncyBz
+ZW1hbnRpYyEiPGJyPgogICAgPGJyPgogICAgQW55IHRob3VnaHRzPyA6KSA8YnI+CiAgICBCZXN0
+IHdpc2hlcywgTWFyam9yaWU8YnI+CiAgICA8YnI+CiAgICA8YnI+CiAgICA8YnI+CiAgICA8YnI+
+CiAgICAtLS0tLS0tLSBNZXNzYWdlIG9yaWdpbmFsIC0tLS0tLS0tCiAgICA8dGFibGUgY2xhc3M9
+Im1vei1lbWFpbC1oZWFkZXJzLXRhYmxlIiBib3JkZXI9IjAiIGNlbGxwYWRkaW5nPSIwIgogICAg
+ICBjZWxsc3BhY2luZz0iMCI+CiAgICAgIDx0Ym9keT4KICAgICAgICA8dHI+CiAgICAgICAgICA8
+dGggdmFsaWduPSJCQVNFTElORSIgYWxpZ249IlJJR0hUIiBub3dyYXA9Im5vd3JhcCI+U3VqZXQ6
+IDwvdGg+CiAgICAgICAgICA8dGQ+TGF0ZSBCcmVha2luZyBOZXdzIGFkZGVkIHRvIEJhbGlzYWdl
+IDIwMTEgUHJvZ3JhbTwvdGQ+CiAgICAgICAgPC90cj4KICAgICAgICA8dHI+CiAgICAgICAgICA8
+dGggdmFsaWduPSJCQVNFTElORSIgYWxpZ249IlJJR0hUIiBub3dyYXA9Im5vd3JhcCI+RGF0ZSZu
+YnNwOzogPC90aD4KICAgICAgICAgIDx0ZD5UaHUsIDIzIEp1biAyMDExIDEyOjUzOjA2IC0wNDAw
+PC90ZD4KICAgICAgICA8L3RyPgogICAgICAgIDx0cj4KICAgICAgICAgIDx0aCB2YWxpZ249IkJB
+U0VMSU5FIiBhbGlnbj0iUklHSFQiIG5vd3JhcD0ibm93cmFwIj5EZSZuYnNwOzogPC90aD4KICAg
+ICAgICAgIDx0ZD5Ub21taWUgVXNkaW4gPGEgY2xhc3M9Im1vei10eHQtbGluay1yZmMyMzk2RSIg
+aHJlZj0ibWFpbHRvOmJ0dXNkaW5ATVVMQkVSUllURUNILkNPTSI+Jmx0O2J0dXNkaW5ATVVMQkVS
+UllURUNILkNPTSZndDs8L2E+PC90ZD4KICAgICAgICA8L3RyPgogICAgICAgIDx0cj4KICAgICAg
+ICAgIDx0aCB2YWxpZ249IkJBU0VMSU5FIiBhbGlnbj0iUklHSFQiIG5vd3JhcD0ibm93cmFwIj5S
+JmVhY3V0ZTtwb25kcmUKICAgICAgICAgICAgJmFncmF2ZTsmbmJzcDs6IDwvdGg+CiAgICAgICAg
+ICA8dGQ+VG9tbWllIFVzZGluIDxhIGNsYXNzPSJtb3otdHh0LWxpbmstcmZjMjM5NkUiIGhyZWY9
+Im1haWx0bzpidHVzZGluQE1VTEJFUlJZVEVDSC5DT00iPiZsdDtidHVzZGluQE1VTEJFUlJZVEVD
+SC5DT00mZ3Q7PC9hPjwvdGQ+CiAgICAgICAgPC90cj4KICAgICAgICA8dHI+CiAgICAgICAgICA8
+dGggdmFsaWduPSJCQVNFTElORSIgYWxpZ249IlJJR0hUIiBub3dyYXA9Im5vd3JhcCI+UG91ciZu
+YnNwOzogPC90aD4KICAgICAgICAgIDx0ZD48YSBjbGFzcz0ibW96LXR4dC1saW5rLWFiYnJldmlh
+dGVkIiBocmVmPSJtYWlsdG86VEVJLUxAbGlzdHNlcnYuYnJvd24uZWR1Ij5URUktTEBsaXN0c2Vy
+di5icm93bi5lZHU8L2E+PC90ZD4KICAgICAgICA8L3RyPgogICAgICA8L3Rib2R5PgogICAgPC90
+YWJsZT4KICAgIDxicj4KICAgIDxicj4KICAgIDxwcmU+QmFsaXNhZ2UgMjAxMSBQcm9ncmFtIEZp
+bmFsaXplZAoKV2hlbiB0aGUgcmVndWxhciAocGVlci1yZXZpZXdlZCkgcGFydCBvZiB0aGUgQmFs
+aXNhZ2UgMjAxMSBwcm9ncmFtIHdhcyBzY2hlZHVsZWQsIGEgZmV3IHNsb3RzIHdlcmUgcmVzZXJ2
+ZWQgZm9yIHByZXNlbnRhdGlvbiBvZiAiTGF0ZSBicmVha2luZyIgbWF0ZXJpYWwuICBUaGVzZSBw
+cmVzZW50YXRpb25zIGhhdmUgbm93IGJlZW4gc2VsZWN0ZWQgYW5kIGFkZGVkIHRvIHRoZSBwcm9n
+cmFtLgoKVG9waWNzIGFkZGVkIGluY2x1ZGU6CgogLSAgWFF1ZXJ5IGFuZCBTcGFyUUwKIC0gIFhR
+dWVyeSBhbmQgWFNMVAogLSAgdGhlIExvZ2ljYWwgRm9ybSBvZiBhIE1ldGFkYXRhIFJlY29yZAog
+LSAgV2h5IGlzIFhNTCBhIHBhaW4gdG8gcHJvZHVjZT8KIC0gIFhNTCBTZXJpYWxpemF0aW9uIG9m
+IEMjIGFuZCBKYXZhIE9iamVjdHMKIC0gIHRlc3RpbmcgWFNMVCBpbiBjb250aW51b3VzIGludGVn
+cmF0aW9uCiAtICBkZWFsaW5nIHdpdGggbWFya3VwIHdpdGhvdXQgdXNpbmcgd29yZHMKIC0gIFJF
+U1QgZm9yIGRvY3VtZW50IHJlc291cmNlIG5vZGVzCiAtICB0YWdnaW5nIGpvdXJuYWwgYXJ0aWNs
+ZSBzdXBwbGVtZW50YWwgbWF0ZXJpYWxzCiAtICB1c2luZyAxNSB5ZWFyIG9sZCBTR01MIGRvY3Vt
+ZW50cyBpbiBjdXJyZW50IHNvZnR3YXJlCgpUaGUgcHJvZ3JhbSBhbHJlYWR5IGluY2x1ZGVkIHRh
+bGtzIGFib3V0IERJVEEsIFhTTFQsIGdlbmVyaWMgbWljcm9mb3JtYXRzLCBYTUwgRWJvb2tzLCBK
+U09OLCBtdWx0aXBsZSBocmVmcywgWE1MIGVkaXRvcnMsIG1hcmt1cCBvdmVybGFwLCBlbmNyeXB0
+aW9uIG9mIFhNTCBkb2N1bWVudHMsIGFuZCBYTUwgSW50ZXJvcGVyYWJpbGl0eSwgYW1vbmcgb3Ro
+ZXJzLiBOb3cgaXQgaXMgYSByZWFsIG11c3QgZm9yIGFueW9uZSB3aG8gdGhpbmtzIGRlZXBseSBh
+Ym91dCBtYXJrdXAuICAKCkJhbGlzYWdlIGlzIHRoZSBYTUwgR2Vlay1mZXN0OyB0aGUgYW5udWFs
+IGdhdGhlcmluZyBvZiBwZW9wbGUgd2hvIGRlc2lnbiBtYXJrdXAgYW5kIG1hcmt1cC1iYXNlZCBh
+cHBsaWNhdGlvbnM7IHdobyBkZXZlbG9wIFhNTCBzcGVjaWZpY2F0aW9ucywgc3RhbmRhcmRzLCBh
+bmQgdG9vbHM7IHRoZSBwZW9wbGUgd2hvIHJlYWQgYW5kIHdyaXRlLCBib29rcyBhYm91dCBwdWJs
+aXNoaW5nIHRlY2hub2xvZ2llcyBpbiBnZW5lcmFsIGFuZCBYTUwgaW4gcGFydGljdWxhcjsgYW5k
+IHN1cGVyLXVzZXJzIG9mIFhNTCBhbmQgcmVsYXRlZCB0ZWNobm9sb2dpZXMuIFlvdSBjYW4gcmVh
+ZCBhYm91dCB0aGUgQmFsaXNhZ2UgMjAxMSBjb25mZXJlbmNlIGF0IDxhIGNsYXNzPSJtb3otdHh0
+LWxpbmstZnJlZXRleHQiIGhyZWY9Imh0dHA6Ly93d3cuYmFsaXNhZ2UubmV0Ij5odHRwOi8vd3d3
+LmJhbGlzYWdlLm5ldDwvYT4uCgoKU2NoZWR1bGUgQXQgQSBHbGFuY2U6IDxhIGNsYXNzPSJtb3ot
+dHh0LWxpbmstZnJlZXRleHQiIGhyZWY9Imh0dHA6Ly93d3cuYmFsaXNhZ2UubmV0LzIwMTEvQXQt
+QS1HbGFuY2UuaHRtbCI+aHR0cDovL3d3dy5iYWxpc2FnZS5uZXQvMjAxMS9BdC1BLUdsYW5jZS5o
+dG1sPC9hPgoKRGV0YWlsZWQgcHJvZ3JhbTogPGEgY2xhc3M9Im1vei10eHQtbGluay1mcmVldGV4
+dCIgaHJlZj0iaHR0cDovL3d3dy5iYWxpc2FnZS5uZXQvMjAxMS9Qcm9ncmFtLmh0bWwiPmh0dHA6
+Ly93d3cuYmFsaXNhZ2UubmV0LzIwMTEvUHJvZ3JhbS5odG1sPC9hPgoKPT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQpC
+YWxpc2FnZTogVGhlIE1hcmt1cCBDb25mZXJlbmNlIDIwMTEgICAgICAgICAgPGEgY2xhc3M9Im1v
+ei10eHQtbGluay1mcmVldGV4dCIgaHJlZj0ibWFpbHRvOmluZm9AYmFsaXNhZ2UubmV0Ij5tYWls
+dG86aW5mb0BiYWxpc2FnZS5uZXQ8L2E+CkF1Z3VzdCAyLTUsIDIwMTEgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgPGEgY2xhc3M9Im1vei10eHQtbGluay1mcmVldGV4dCIgaHJlZj0iaHR0
+cDovL3d3dy5iYWxpc2FnZS5uZXQiPmh0dHA6Ly93d3cuYmFsaXNhZ2UubmV0PC9hPgpTeW1wb3Np
+dW0gb24gRG9jdW1lbnQtT3JpZW50ZWQgWE1MICAgICAgICAgICAgICAgICAgICBNb250cmVhbCwg
+Q2FuYWRhCkF1Z3VzdCAxLCAyMDExCj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KPC9wcmU+CiAgPC9ib2R5Pgo8L2h0
+bWw+Cg==

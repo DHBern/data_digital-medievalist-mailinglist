@@ -1,0 +1,17 @@
+Subject: Re: [dm-l] MS-Internet Explorer 6 and standards based computingOn Mon, 28 Jun 2004, Jeffrey Fisher wrote:> all this said, i would still guess people on this list will have a higher
+> percentage of IE5 and non-IE browsers with your users, in part because you
+> probably have a larger mac audience than the general population. you probab=
+ly
+> also have more users with the lower resolution. these are obviously just
+> guesses, though.Probably.  Should we be building sites to the browsers/users or=20
+just build them to the standards and wait for browers/users to=20
+catch up?  Obviously while I'd like to do the latter, in practice=20
+I do the former.  I do try to avoid the browser-specific hacks=20
+that were mentioned earlier however (for the already mentioned=20
+fear of their need for migration).  This is common in CSS to=20
+produce hacks that display the same in MSIE and other browsers. =20
+Better, in my opinion, to only use CSS that most modern=20
+browsers understand.-James---
+Dr James Cummings, Oxford Text Archive, University of Oxford
+James dot Cummings at ota dot ahds dot ac dot uk=20
+--===============1586474194491036592==--

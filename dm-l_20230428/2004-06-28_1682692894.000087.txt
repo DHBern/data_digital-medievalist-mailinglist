@@ -1,0 +1,63 @@
+Subject: Re: [dm-l] palaeography and computingArianna,We (Research in Computing for Humanities at the University of Kentucky) are w=
+orking on DTD and tool (called "DucType") for paleographical description. Bri=
+efly, it will enable to editor to view a manuscript image alongside a transcr=
+ipt, and encode paleographical descriptions using a simple template interface=
+. It's still under development, although Kevin Kiernan, PI on the projects, h=
+as shown several demonstrations, including one at Kzoo in May.=20Look for our forthcoming article in Literary and Linguistic Computing (the pr=
+oceedings from last year's ACH/ALLC meeting - July or August 2004). We also h=
+ave a short article coming out in the July DigiCULT Newsletter [http://www.di=
+gicult.info/pages/index.php] that gives a bit of history and briefly describe=
+s DucType and our other editing tools.=20You can find out more on our project websites:Electronic Boethius - http://beowulf.engl.uky.edu/~kiernan/eBoethius/inlad.htm
+ARCHway - http://beowulf.engl.uky.edu/~kiernan/ARCHway/entrance.htmHope this helps,DotArianna Ciula wrote:>Dear all,
+>
+>as a Ph.D. student working on palaeography and computing, I find this=20
+>mailing list very useful and I start my contribution with a question.
+>
+>Is there any sort of DTD designed with the purpose of describing a=20
+>medieval manuscript, not just in its physical features as a global=20
+>object, but in its palaeographical features?
+>
+>I mean any kind of XML grill and hierarchy able to encounter=20
+>description and comments on the shape of letters, of ligatures and so=20
+>on, even related just to one period and one handwritten style.
+>
+>I know the TEI guidelines and the efforts of some specific projects such
+>as Digital Scriptorium, but none of them seems to me to go into the=20
+>image with the granularity needed for a palaeographical analysis.
+>
+>Cheers,
+>
+>Arianna Ciula
+>
+>----------------------
+>Arianna Ciula
+_redacted_(a)kcl.ac.uk
+>
+>
+>
+>_______________________________________________
+>dm-l mailing list
+_redacted_(a)uleth.ca
+>http://listserv.uleth.ca/mailman/listinfo/dm-l
+> =20
+>--=20
+Daniel Paul O'Donnell, PhD
+Associate Professor of English
+University of Lethbridge
+Lethbridge AB T1K 3M4
+Tel. (403) 329-2377
+Fax. (403) 382-7191
+_redacted_(a)uleth.ca>
+Home Page <http://people.uleth.ca/~daniel.odonnell/>
+_______________________________________________
+dm-l mailing list
+_redacted_(a)uleth.ca
+http://listserv.uleth.ca/mailman/listinfo/dm-l
+***************************************
+Dorothy Carr Porter, Program Coordinator
+Collaboratory for Research in Computing for Humanities
+University of Kentucky
+351 William T. Young Library
+Lexington, KY  40506_redacted_(a)uky.edu          859-257-9549
+***************************************
+--===============4035907607000447910==--

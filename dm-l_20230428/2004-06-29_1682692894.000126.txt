@@ -1,0 +1,26 @@
+Subject: Re: Re: [dm-l] palaeography and computing-----Original Message-----
+_redacted_(a)ucalgary.ca>
+_redacted_(a)uleth.ca>
+Date: Tue, 29 Jun 2004 10:36:24 -0600
+Subject: Re: [dm-l] palaeography and computing<snip>
+The thing that would be=20
+most helpful, actually, is a universally accepted "controlled=20
+vocabulary" for paleographic description, either verbal or in terms of=20
+graphical metrics (or ideally both), on which we could build descriptive=20
+structures in XML or whatever. I don't think paleographers are close to=20
+having that.
+**********Last year I went through the introductions to several Old English facsimiles =
+(Vercelli Book, Hatton 20, Junius 11, Royal 7 C xii; and Ker's Catalogue - wh=
+atever was easily available at UK) in an attempt to glean such a controlled v=
+ocabulary. It was an interesting experience - paleographers seem to have diff=
+erent terms to describe the same forms, and I found that many terms were rath=
+er vague and only made sense when I actually saw the letter in question (asce=
+nder "rises well above the bow" or "projects slightly to the left"). And thes=
+e lengthy descriptions are not always suitable as markup.Dot***************************************
+Dorothy Carr Porter, Program Coordinator
+Collaboratory for Research in Computing for Humanities
+University of Kentucky
+351 William T. Young Library
+Lexington, KY  40506_redacted_(a)uky.edu          859-257-9549
+***************************************
+--===============0841806251894329805==--

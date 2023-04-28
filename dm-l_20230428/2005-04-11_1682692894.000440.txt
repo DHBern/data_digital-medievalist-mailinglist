@@ -1,0 +1,96 @@
+Subject: RE: [dm-l] what xslt can't do..?(With apologies to the list for not trimming quoted messages in this
+exchange). I've just about run out of things I wanted to say on this,
+but I wanted to respond to a couple of points in Peter R.'s last
+posting. I've learned a lot from this exchange and thank all Peters and
+others who have participated, in particular Peter R. for his patient and
+thoughtful responses.
+ 
+Peter R. wrote:
+> Still, this is quite a difference from the 'generate static 
+> files to optimize particular views' approach (actually, the 
+> cocoon example Peter B gives seems to be such, and so not 
+> really comparable to what A does). That is indeed what I intended, and I do see it as comparable to
+Anastasia: a relatively slow and complex pre-processing of the source
+XML to enable a relatively fast and simple front-end. Whether the
+pre-processing involves indexing as Anastasia does or chunking and
+transforming as the theoretical Cocoon-based system would do, doesn't
+seem to me to be material. They both have to be done, and redone every
+time the source changes. And I admit that A's pre-processing will be
+much, much faster than the kind of system I'm imagining.> Under that, you have to figure out in advance just what 
+> particular views you want to enable.  And, there can be a 
+> near infinite number of these. But once we're dealing with XML files containing a single page's worth
+of XML, XSL is back on its home turf, using Xpath to deal with complex
+parsing of the XML source. Even if the pre-processing did nothing but
+chunk the TEI into pages, the stylesheet to extract the text of a given
+witness would be fairly simple. As one of my first XSL projects I hacked
+a Cocoon-based system to present critical editions for a text I was
+working on; the underlying format isn't TEI (I didn't know any better at
+the time and was working with texts I originally transcribed in Nota
+Bene) and the XSL is far from optimal or bug-free, but it at least shows
+that this can be done. The prototype is here:
+http://www.library.ualberta.ca:8080/cocoon/quentin/sp-0prol.html . The
+number of witnesses is nowhere near 50, but there's rather more than a
+page of text here (about 70k of xml). Set your options in the menu and
+click the "Render" button: you can select a base witness, compare two
+witnesses in parallel columns with differences highlighted, or generate
+an app. crit. containing variants from selected witnesses. A text with
+about 50 hexameters and 26 witnesses is here:
+http://www.library.ualberta.ca:8080/cocoon/quentin/decmet-page.html ,
+about 140k of xml (unfortunately, I apparently never finished adapting
+the stylesheet for my clumsy verse format, so the app. crit. isn't
+coming out right - must get around to fixing that). This is still way
+too slow, but there's lots I know now that I didn't when I last worked
+on it, and I'm sure I could improve it. Whether the response time would
+ever approach Anastasia's for complex texts I don't know, but I wouldn't
+rule it out without trying.(Now, shall we discuss whether Cocoon's XSL-FO support could ever
+generate a pdf of a critical edition to compare with XeTeX's output ...)<...snip...>> Another problem is the 
+> process chain itself.  If your approach means daisychaining 
+> various processes together, and at the end you discover 
+> something wrong, fixing can be a real pain: you have to go 
+> back, figure out which bit of the chain caused the problem 
+> (which can be real hard, when you have complex interactions) 
+> then rerun the whole thing before you can view the result.  
+> With Anastasia the problem is either in the tcl scripts (in 
+> which case, you can fix and see the results instantly)  or in 
+> the source xml (which will mean you need to reindex): there 
+> is no somewhere-in-between.Here we're dealing with personal preferences, I think. I find Cocoon's
+pipeline structure very handy for debugging, since it's easy to inspect
+the output of every stage of the process: just add label attributes to
+the pipeline, and then pass those labels on the query string in a field
+called "cocoon-view". In the prototype mentioned above, you can add
+"cocoon-view=source", or "step1", or "step2" to the query string to see
+the source xml or the output of the two intermediate transformations.
+This is so easy that I often start off by breaking a process into more
+transformations than is necessary, until I've debugged it. In debugging
+a TCL script doing the same complex work, you'd presumably set
+breakpoints to do the same thing.Peter Baker has summed up the lessons I've drawn from this thread very
+well. My motivation for defending XSL in such tedious detail is that it
+is my pet technology, which I freely admit is not always a good ground
+for choosing. But it shouldn't be dismissed out of hand: the main
+limiting factor on what we can do, at least in my environment, is not
+processing power or storage space but my development time. XSL is so
+useful for so many things that I expect I'll get a higher return on the
+time I invest if I find a way to do things with XSL than if I try to
+learn a new technology, even if XSL isn't the best possible tool. I'm
+also, I suspect, operating from different assumptions about what is
+"good enough" than Peter R. is, since I'm interested in Latin texts,
+where the range of orthographic variation is much narrower (and less
+interesting) than in the vernacular texts that Anastasia has been used
+on. It may well be that an XSL-based system could get an acceptable
+level of performance for a Latin text that it couldn't match for a
+vernacular text of comparable length and number of witnesses. My conclusion: I think a system comparable to Anastasia could be built
+using XSL; if such a system existed, I'd use it in preference to
+Anastasia because it would fit better with my technology environment;
+but now that something as good as Anastasia exists and is available
+under an open-source license, the only real reason to develop such a
+system would be for the fun of it.PeterPeter Binkley, Ph.D., MLIS
+Digital Initiatives Technology Librarian
+Information Technology Services
+4-30 Cameron Library
+University of Alberta Libraries
+Edmonton, Alberta
+Canada T6G 2J8
+Phone: (780) 492-3743
+Fax: (780) 492-9243
+_redacted_(a)ualberta.ca
+--===============0162358612654449395==--

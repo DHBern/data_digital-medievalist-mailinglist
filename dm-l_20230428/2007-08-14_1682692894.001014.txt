@@ -1,0 +1,47 @@
+Subject: Re: [dm-l] Software for doing source criticismI'd also look at what TAPoR is up to. I don't know too much about
+specific software, but I believe this is the kind of thing they are
+interested in.-danOn Tue, 2007-08-14 at 19:58 +0100, James Cummings wrote:
+> James Ginther wrote:
+> > Does anyone know of software that will aid in the comparison of two or=20
+> > more texs in order to determine specific use of sources?  Ideally, the=20
+> > software would recognize a base text and then compare it to other texts=20
+> > that are potential sources.=20
+> > =20
+> > I know of software applications like Collate that does some basic=20
+> > comparative work in order to create an apparatus criticus for critical=20
+> > editions, or the "authorship" testing software that Peter Miliken at=20
+> > Leeds developed using stylometrics (which only outputs statistical=20
+> > results and no textual output).  But I am looking for software that=20
+> > would compare units of texts (such as sentence to sentence) and=20
+> > one--here's the kicker--that might also work with an inflected language=20
+> > like Latin (so that it would include returns that differ only in terms=20
+> > of case ending).   I know that's a tall order, and I have my doubts that => > something like this exists--but I thought someone on this list might=20
+> > know of some code kicking around in somebody's virtual basement.
+>=20
+> Hi Jim,
+>=20
+> Although they aren't really intended to do what you want (and I'm intereste=
+d in=20
+> other answers you might receive), have you considered some of the corpus=20
+> linguistic analysis software out there?  It would involve having all the=20
+> sources, of course, in the corpus but then indicating that one text uses a => particular text more than another seems fairly straightforward.  However, a=
+s=20
+> with all such things having the texts with detailed descriptive markup woul=
+d be=20
+> even more beneficial.  I can't think of anything which would do exactly wha=
+t you=20
+> want out-of-the-box.
+>=20
+> -James
+>=20
+--=20
+Daniel Paul O'Donnell, PhD
+Department Chair and Associate Professor of English
+Director, Digital Medievalist Project http://www.digitalmedievalist.org/
+Chair, Text Encoding Initiative http://www.tei-c.org/Department of English
+University of Lethbridge
+Lethbridge AB T1K 3M4
+Vox +1 403 329-2377
+Fax +1 403 382-7191
+_redacted_(a)uleth.ca
+WWW: http://people.uleth.ca/~daniel.odonnell/

@@ -1,0 +1,51 @@
+Subject: [dm-l] ACM DocEng 2014 -- Call for Papers-----------------------------------------------------------------------           *** Apologies if you receive multiple copies ***                           CALL FOR PAPERS                     Join us in Fort Collins, for the
+        14th ACM Symposium on Document Engineering (DocEng 2014),                        September 16-19 2014,
+     at Hewlett-Packard in Fort Collins, near Denver, Colorado, USA                      http://www.doceng2014.org-----------------------------------------------------------------------
+Documents are communication artifacts in any form and in any media; they 
+can be simple or compound, static or time-varying, private or open. 
+Document collections increasingly underpin research, education, 
+commerce, entertainment – the full range of human activity. Document 
+engineering covers both the innovative use of documents and document 
+collections in real-world applications and the study of principles, 
+tools and processes that improve our ability to create, manage, 
+maintain, share, and productively use these.You are invited to submit original papers to the 14th ACM Symposium on 
+Document Engineering (DocEng 2014), to be held at the Hewlett-Packard 
+site in Fort Collins, Colorado, USA. Attendees at this international 
+forum have interests that span all aspects of document engineering and 
+applications. DocEng is sponsored by ACM by means of the ACM SIGWEB 
+Special Interest Group. Proceedings are available through the ACM 
+Digital Library.
+Important dates
+===============* Mar 30, 2014: Workshop and tutorial proposals due
+* Mar 30, 2014: Full papers abstracts due
+* Apr  6, 2014: Full papers due
+* May 25, 2014: Short papers abstracts due
+* Jun  1, 2014:  Short papers due
+Topics relevant to the symposium include (but are not limited to)
+===================================================Modeling and Representation:* Document representation and standards including interchange standards,
+   markup languages, style sheets, type representation, multimedia
+   (incl. HTML-5, MPEG, SMIL, SVG)* Metadata creation and standards, use of semantic web technologies* Hypertext/hypermedia, distributed documents, blogs, wikis* Linking techniques and standards, integration with other digital
+   artifacts
+Generation, Manipulation, and Presentation:* Document authoring tools and systems* Document presentation (typography, formatting, layout) algorithms and
+   systems* Automatically generated documents, automated layout and composition,
+   variable data printing* Adaptive, responsive documents, content customization* Mobile platforms and documents* Document transformation and rich-web-client models* Document internationalization, multilingual representations
+Collections, Systems, and Management:* Collections databases and repositories, storage, indexing, retrieval,
+   versioning, deduplication* Enterprise content management: models and standards (CMIS),
+   scale and performance, platforms and applications* Digital libraries and archives, preservation systems* Document system components: security, APIs (SAX, DOM), versioning,
+   synchronization* Document systems and workflows* Management of collaboratively authored online documents
+Document Analysis and Semantic Enrichment:* Structure and representation analysis (layout, OCR, visual analysis)
+   and classification* Linguistic and semantic (content) analysis, categorization,
+   classification, clustering* Automatic tagging, named entity disambiguation, semantic linking* Automatic abstract generation and metadata extraction* Multi-lingual and cross-lingual indexing and search
+User Experience:* Navigation, search* Usability, accessibility, readability and aesthetics* Collaborative authoring and editing, curation and annotation* Workflows, integration and interaction between human and automated
+   processes* Culture-dependent layouts
+Security:* Secure document workflows, including policy and access* Security printing, including document identification, tagging and
+   meta-data* Cyber-physical document workflows, especially electronic/print options* Embedded systems: access, workflow and security of documents on
+   embedded devices (mobile, printing, etc.)
+Applications:* Digital humanities, digital preservation and archiving* eBooks and digital publishing... and all other application areas
+For more information, please visit the conference website at:
+===  http://www.doceng2014.org  ===
+--
+Tamir Hassan
+Publicity Chair
+ACM DocEng 2014
+--===============0662549256882162094==--

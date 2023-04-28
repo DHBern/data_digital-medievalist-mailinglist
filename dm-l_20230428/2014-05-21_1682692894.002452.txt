@@ -1,0 +1,1087 @@
+Subject: Re: [dm-l] dm-l Digest, Vol 117, Issue 3_redacted_(a)kcl.ac.uk>
+wrote:=E2=80=94Quick
+comment re the journal: I'd very much hope that wherever the journal
+migrates to (and Revues.org or similar would seem useful) the old,
+transparent, human-readable, "cool" URLs remain live permanently, even if
+as rewrites/redirects. I've cited many of those urls in dozens of places,
+including in print (!).=E2=80=94Seconded. This would be tres useful for many of us.Agreement on all points, and thanks to the hard-working few who have put so
+much into keeping the old site up this long.Out of curiosity, if we shut the wiki down, will the community still have
+the opportunity to contribute to the blog in a similar fashion? I realize
+that the original intent of the wiki was to have a resource created by the
+community. Since the current one was predominantly populated by the board
+members, it hasn't met with expectations. Does the Board envision that the
+proposed blog would encourage more input?Best,~Sarah Pf.
+_redacted_(a)uleth.ca> wrote:> Send dm-l mailing list submissions to
+_redacted_(a)uleth.ca
+>
+> To subscribe or unsubscribe via the World Wide Web, visit
+>         http://listserv.uleth.ca/mailman/listinfo/dm-l
+> or, via email, send a message with subject or body 'help' to
+_redacted_(a)uleth.ca
+>
+> You can reach the person managing the list at
+_redacted_(a)uleth.ca
+>
+> When replying, please edit your Subject line so it is more specific
+> than "Re: Contents of dm-l digest..."
+>
+> Today's Topics:
+>
+>    1. Re: Proposed Changes to DM (Kalvesmaki, Joel)
+>    2. Re: Proposed Changes to DM (Gabriel Bodard)
+>    3. Re: Proposed Changes to DM (Grover Zinn)
+>
+>
+> ---------- Forwarded message ----------
+_redacted_(a)doaks.org>
+_redacted_(a)uleth.ca>
+> Cc:
+> Date: Wed, 21 May 2014 13:45:34 +0000
+> Subject: Re: [dm-l] Proposed Changes to DM
+> My research in late antiquity falls between the worlds of classical and
+> medieval scholarship. So when I first began to consider which Wiki to
+> contribute to, DM or the Digital Classicist (wiki.digitalclassicist.org),
+> I opted for the latter because it had garnered the most contributions and
+> was at the time the most active. But I wondered at the time why
+> medievalists and classicists really needed separate wikis anyway, since the
+> material that was populating the pages applied to any field studying
+> pre-modernity. Material surfaces in both spheres of exploration that could
+> benefit any other. Thus, the "classicist" in "Digital Classicist" is not
+> restricted to pre-2nd c. material; their wiki already has quite a lot of
+> medieval and Byzantine content on it.
+>
+> So instead of altering the bylaws, why not simply have DM endorse either
+> the DC wiki or a comparable one? Follow the road of collaboration?
+>
+> Best wishes,
+>
+> jk
+> --
+> Joel Kalvesmaki
+> Editor in Byzantine Studies
+> Dumbarton Oaks
+> 1703 32nd St. NW
+> Washington, DC 20007
+> (202) 339-6435
+>
+> ________________________________________
+_redacted_(a)uleth.ca] on behalf of Stokes, Peter [
+_redacted_(a)kcl.ac.uk]
+> Sent: Wednesday, May 21, 2014 8:05 AM
+_redacted_(a)uleth.ca
+> Subject: [SPAM - Header] - [dm-l] Proposed Changes to DM - Email found in
+> subject
+>
+> Dear all,
+>
+> I apologise for the length of this e-mail, but I write regarding a series
+> of fairly fundamental changes to the DM infrastructure that we have been
+> planning for some time now. Given the scale of these changes, we on the DM
+> Board think it is important to explain these in some detail and request
+> feedback from the Community before we go ahead with them. They will also
+> require a change of the Byelaws, and so again we need input from the
+> Community for this.
+>
+> Unfortunately the existing infrastructure has proven unmanageable. The
+> wiki and mailing-list have both been subject to large-scale spam attacks,
+> such that the wiki now contains many many thousands of articles, only 70 or
+> so of which are genuine. The wiki has also had almost no activity beyond
+> that of the Board, and so it has not been doing the job that we had hoped.
+> Furthermore the website itself, which we have been hosting and coding
+> ourselves (with substantial help from James Cummings and Dan O=E2=80=99Donn=
+ell) is
+> also proving increasingly difficult to manage: it depends on the generosity
+> of James and Dan to host and administer, even adding new pages is not
+> trivial, and it has needed a dramatic overhaul for some time but to do this
+> requires much more time and effort than we have been able to manage. For
+> all of these reasons, we propose the following:
+>
+> 1. Moving the static website from the existing infrastructure (Cocoon +
+> TEI + custom XSLT) to a standard CMS (currently Wordpress).
+> 2. Closing down the wiki entirely and replacing it with a blog.
+> 3. For the moment we are leaving the Journal in place, but we are very
+> likely to move it to a dedicated open journal hosting of some sort. We have
+> been discussing this in some detail with Revues.org but are not yet
+> committed to this.
+>
+> As most of you have realised, we have already set up a Wordpress version
+> of the site at <http://digitalmedievalist.wordpress.com/>, and this is
+> already proving to overcome the problems listed above. The proposal is
+> therefore to make this the DM site and close down the old one, except
+> perhaps for the Journal.
+>
+> However, the current Byelaws require that DM maintains a wiki (see <
+> http://digitalmedievalist.wordpress.com/about/byelaws/#wiki>). The Board
+> is therefore not free to close the existing wiki without first changing the
+> Byelaws. Even if we chose to keep the wiki, however, the Board feels that
+> the Byelaws should not lock us into using any single technology, and so
+> they should be changed even if we keep the existing infrastructure. The
+> details of the proposed changes to the Byelaws will be posted shortly as a
+> separate e-mail and on the new website, but in essence we propose simply to
+> replace the term 'wiki' with 'information resources' and to adapt the
+> containing sentences accordingly.
+>
+> We would be grateful for any feedback about any aspect of this, preferably
+> by e-mail to the list for general discussion, or alternatively to
+_redacted_(a)digitalmedievalist.org or any members of the Board directly. The
+> next Board meeting is 4pm GMT+1 on Monday 2 June, at which point any
+> comments will be discussed, and any changes in the Byelaws will be
+> presented to the membership for vote shortly after that (as specified in =
+=C2=A79
+> of the Byelaws: <
+> http://digitalmedievalist.wordpress.com/about/byelaws/#amendments>).
+>
+> Thank you, and we look forward to receiving your comments.
+>
+> Peter Stokes (on behalf of the Executive Board)
+>
+> --
+> Dr Peter Stokes
+> Senior Lecturer
+> Department of Digital Humanities
+> King's College London
+> Room 218, 2nd Floor
+> 26-29 Drury Lane
+> London, WC2B 5RL
+> Tel: +44 (0)20 7848 2813
+_redacted_(a)kcl.ac.uk
+>
+>
+> Digital Medievalist --  http://www.digitalmedievalist.org/
+> Journal: http://www.digitalmedievalist.org/journal/
+> Journal Editors: editors _AT_ digitalmedievalist.org
+> News: http://www.digitalmedievalist.org/news/
+> Wiki: http://www.digitalmedievalist.org/wiki/
+> Twitter: http://twitter.com/digitalmedieval
+> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+_redacted_(a)uleth.ca
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>
+>
+>
+>
+> ---------- Forwarded message ----------
+_redacted_(a)kcl.ac.uk>
+_redacted_(a)uleth.ca>
+> Cc:
+> Date: Wed, 21 May 2014 15:00:27 +0100
+> Subject: Re: [dm-l] Proposed Changes to DM
+> I'd be happy to see a lot of Byzantine and other Mediaeval-ish material
+> migrate to the DC wiki if desirable. The DC community are in fact just
+> starting a series of wiki sprints to further improve and build on the
+> content therein. (We sympathize with the problem of spam--we have resisted
+> this only by making editing the wiki by "invitation only", which means that
+> an admin has to create you an account to give you even the most basic
+> editing rights. It's a pain, and no doubt limits participation to those who
+> can be bothered to email us, but the DM experience that only board members
+> do much editing anyway probably suggests that this isn't a tragedy.)
+>
+> I don't think we'd want to see the DC wiki become a sort of generic
+> "Digital Pre-Modernist" site, though, so let's try to keep some basic
+> coherence. I think much of the content in DM was of a different order from
+> the DC wiki, anyway...
+>
+> Quick comment re the journal: I'd very much hope that wherever the journal
+> migrates to (and Revues.org or similar would seem useful) the old,
+> transparent, human-readable, "cool" URLs remain live permanently, even if
+> as rewrites/redirects. I've cited many of those urls in dozens of places,
+> including in print (!).
+>
+> Otherwise, I endorse everything Peter suggests below.
+>
+> Best,
+>
+> Gabby
+>
+> On 2014-05-21 14:45, Kalvesmaki, Joel wrote:
+>
+>> My research in late antiquity falls between the worlds of classical and
+>> medieval scholarship. So when I first began to consider which Wiki to
+>> contribute to, DM or the Digital Classicist (wiki.digitalclassicist.org),
+>> I opted for the latter because it had garnered the most contributions and
+>> was at the time the most active. But I wondered at the time why
+>> medievalists and classicists really needed separate wikis anyway, since the
+>> material that was populating the pages applied to any field studying
+>> pre-modernity. Material surfaces in both spheres of exploration that could
+>> benefit any other. Thus, the "classicist" in "Digital Classicist" is not
+>> restricted to pre-2nd c. material; their wiki already has quite a lot of
+>> medieval and Byzantine content on it.
+>>
+>> So instead of altering the bylaws, why not simply have DM endorse either
+>> the DC wiki or a comparable one? Follow the road of collaboration?
+>>
+>> Best wishes,
+>>
+>> jk
+>> --
+>> Joel Kalvesmaki
+>> Editor in Byzantine Studies
+>> Dumbarton Oaks
+>> 1703 32nd St. NW
+>> Washington, DC 20007
+>> (202) 339-6435
+>>
+>> ________________________________________
+_redacted_(a)uleth.ca] on behalf of Stokes, Peter [
+_redacted_(a)kcl.ac.uk]
+>> Sent: Wednesday, May 21, 2014 8:05 AM
+_redacted_(a)uleth.ca
+>> Subject: [SPAM - Header] - [dm-l] Proposed Changes to DM - Email found in
+>> subject
+>>
+>> Dear all,
+>>
+>> I apologise for the length of this e-mail, but I write regarding a series
+>> of fairly fundamental changes to the DM infrastructure that we have been
+>> planning for some time now. Given the scale of these changes, we on the DM
+>> Board think it is important to explain these in some detail and request
+>> feedback from the Community before we go ahead with them. They will also
+>> require a change of the Byelaws, and so again we need input from the
+>> Community for this.
+>>
+>> Unfortunately the existing infrastructure has proven unmanageable. The
+>> wiki and mailing-list have both been subject to large-scale spam attacks,
+>> such that the wiki now contains many many thousands of articles, only 70 or
+>> so of which are genuine. The wiki has also had almost no activity beyond
+>> that of the Board, and so it has not been doing the job that we had hoped.
+>> Furthermore the website itself, which we have been hosting and coding
+>> ourselves (with substantial help from James Cummings and Dan O=E2=80=99Don=
+nell) is
+>> also proving increasingly difficult to manage: it depends on the generosity
+>> of James and Dan to host and administer, even adding new pages is not
+>> trivial, and it has needed a dramatic overhaul for some time but to do this
+>> requires much more time and effort than we have been able to manage. For
+>> all of these reasons, we propose the following:
+>>
+>> 1. Moving the static website from the existing infrastructure (Cocoon +
+>> TEI + custom XSLT) to a standard CMS (currently Wordpress).
+>> 2. Closing down the wiki entirely and replacing it with a blog.
+>> 3. For the moment we are leaving the Journal in place, but we are very
+>> likely to move it to a dedicated open journal hosting of some sort. We have
+>> been discussing this in some detail with Revues.org but are not yet
+>> committed to this.
+>>
+>> As most of you have realised, we have already set up a Wordpress version
+>> of the site at <http://digitalmedievalist.wordpress.com/>, and this is
+>> already proving to overcome the problems listed above. The proposal is
+>> therefore to make this the DM site and close down the old one, except
+>> perhaps for the Journal.
+>>
+>> However, the current Byelaws require that DM maintains a wiki (see <
+>> http://digitalmedievalist.wordpress.com/about/byelaws/#wiki>). The Board
+>> is therefore not free to close the existing wiki without first changing the
+>> Byelaws. Even if we chose to keep the wiki, however, the Board feels that
+>> the Byelaws should not lock us into using any single technology, and so
+>> they should be changed even if we keep the existing infrastructure. The
+>> details of the proposed changes to the Byelaws will be posted shortly as a
+>> separate e-mail and on the new website, but in essence we propose simply to
+>> replace the term 'wiki' with 'information resources' and to adapt the
+>> containing sentences accordingly.
+>>
+>> We would be grateful for any feedback about any aspect of this,
+>> preferably by e-mail to the list for general discussion, or alternatively
+_redacted_(a)digitalmedievalist.org or any members of the Board directly.
+>> The next Board meeting is 4pm GMT+1 on Monday 2 June, at which point any
+>> comments will be discussed, and any changes in the Byelaws will be
+>> presented to the membership for vote shortly after that (as specified in =
+=C2=A79
+>> of the Byelaws: <http://digitalmedievalist.wordpress.com/about/byelaws/#
+>> amendments>).
+>>
+>> Thank you, and we look forward to receiving your comments.
+>>
+>> Peter Stokes (on behalf of the Executive Board)
+>>
+>> --
+>> Dr Peter Stokes
+>> Senior Lecturer
+>> Department of Digital Humanities
+>> King's College London
+>> Room 218, 2nd Floor
+>> 26-29 Drury Lane
+>> London, WC2B 5RL
+>> Tel: +44 (0)20 7848 2813
+_redacted_(a)kcl.ac.uk
+>>
+>>
+>> Digital Medievalist --  http://www.digitalmedievalist.org/
+>> Journal: http://www.digitalmedievalist.org/journal/
+>> Journal Editors: editors _AT_ digitalmedievalist.org
+>> News: http://www.digitalmedievalist.org/news/
+>> Wiki: http://www.digitalmedievalist.org/wiki/
+>> Twitter: http://twitter.com/digitalmedieval
+>> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+_redacted_(a)uleth.ca
+>> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>>
+>> Digital Medievalist --  http://www.digitalmedievalist.org/
+>> Journal: http://www.digitalmedievalist.org/journal/
+>> Journal Editors: editors _AT_ digitalmedievalist.org
+>> News: http://www.digitalmedievalist.org/news/
+>> Wiki: http://www.digitalmedievalist.org/wiki/
+>> Twitter: http://twitter.com/digitalmedieval
+>> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+_redacted_(a)uleth.ca
+>> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>>
+>>
+> --
+> Dr Gabriel BODARD
+> Researcher in Digital Epigraphy
+>
+> Digital Humanities
+> King's College London
+> Boris Karloff Building
+> 26-29 Drury Lane
+> London WC2B 5RL
+>
+> T: +44 (0)20 7848 1388
+_redacted_(a)kcl.ac.uk
+>
+> http://www.digitalclassicist.org/
+> http://www.currentepigraphy.org/
+>
+>
+>
+>
+> ---------- Forwarded message ----------
+_redacted_(a)oberlin.edu>
+_redacted_(a)uleth.ca>
+> Cc:
+> Date: Wed, 21 May 2014 11:23:07 -0400
+> Subject: Re: [dm-l] Proposed Changes to DM
+>
+> Thanks to Peter for such a clear presentation of problems and solutions. I
+> support all suggestions from Peter and the board.
+>
+> Best
+>
+> Grover
+>
+_redacted_(a)kcl.ac.uk>
+> wrote:
+>
+>> I'd be happy to see a lot of Byzantine and other Mediaeval-ish material
+>> migrate to the DC wiki if desirable. The DC community are in fact just
+>> starting a series of wiki sprints to further improve and build on the
+>> content therein. (We sympathize with the problem of spam--we have resisted
+>> this only by making editing the wiki by "invitation only", which means that
+>> an admin has to create you an account to give you even the most basic
+>> editing rights. It's a pain, and no doubt limits participation to those who
+>> can be bothered to email us, but the DM experience that only board members
+>> do much editing anyway probably suggests that this isn't a tragedy.)
+>>
+>> I don't think we'd want to see the DC wiki become a sort of generic
+>> "Digital Pre-Modernist" site, though, so let's try to keep some basic
+>> coherence. I think much of the content in DM was of a different order from
+>> the DC wiki, anyway...
+>>
+>> Quick comment re the journal: I'd very much hope that wherever the
+>> journal migrates to (and Revues.org or similar would seem useful) the old,
+>> transparent, human-readable, "cool" URLs remain live permanently, even if
+>> as rewrites/redirects. I've cited many of those urls in dozens of places,
+>> including in print (!).
+>>
+>> Otherwise, I endorse everything Peter suggests below.
+>>
+>> Best,
+>>
+>> Gabby
+>>
+>> On 2014-05-21 14:45, Kalvesmaki, Joel wrote:
+>>
+>> My research in late antiquity falls between the worlds of classical and
+>> medieval scholarship. So when I first began to consider which Wiki to
+>> contribute to, DM or the Digital Classicist (wiki.digitalclassicist.org),
+>> I opted for the latter because it had garnered the most contributions and
+>> was at the time the most active. But I wondered at the time why
+>> medievalists and classicists really needed separate wikis anyway, since the
+>> material that was populating the pages applied to any field studying
+>> pre-modernity. Material surfaces in both spheres of exploration that could
+>> benefit any other. Thus, the "classicist" in "Digital Classicist" is not
+>> restricted to pre-2nd c. material; their wiki already has quite a lot of
+>> medieval and Byzantine content on it.
+>>
+>> So instead of altering the bylaws, why not simply have DM endorse either
+>> the DC wiki or a comparable one? Follow the road of collaboration?
+>>
+>> Best wishes,
+>>
+>> jk
+>> --
+>> Joel Kalvesmaki
+>> Editor in Byzantine Studies
+>> Dumbarton Oaks
+>> 1703 32nd St. NW
+>> Washington, DC 20007
+>> (202) 339-6435
+>>
+>> ________________________________________
+_redacted_(a)uleth.ca] on behalf of Stokes, Peter [
+_redacted_(a)kcl.ac.uk]
+>> Sent: Wednesday, May 21, 2014 8:05 AM
+_redacted_(a)uleth.ca
+>> Subject: [SPAM - Header] - [dm-l] Proposed Changes to DM - Email found in
+>> subject
+>>
+>> Dear all,
+>>
+>> I apologise for the length of this e-mail, but I write regarding a series
+>> of fairly fundamental changes to the DM infrastructure that we have been
+>> planning for some time now. Given the scale of these changes, we on the DM
+>> Board think it is important to explain these in some detail and request
+>> feedback from the Community before we go ahead with them. They will also
+>> require a change of the Byelaws, and so again we need input from the
+>> Community for this.
+>>
+>> Unfortunately the existing infrastructure has proven unmanageable. The
+>> wiki and mailing-list have both been subject to large-scale spam attacks,
+>> such that the wiki now contains many many thousands of articles, only 70 or
+>> so of which are genuine. The wiki has also had almost no activity beyond
+>> that of the Board, and so it has not been doing the job that we had hoped.
+>> Furthermore the website itself, which we have been hosting and coding
+>> ourselves (with substantial help from James Cummings and Dan O=E2=80=99Don=
+nell) is
+>> also proving increasingly difficult to manage: it depends on the generosity
+>> of James and Dan to host and administer, even adding new pages is not
+>> trivial, and it has needed a dramatic overhaul for some time but to do this
+>> requires much more time and effort than we have been able to manage. For
+>> all of these reasons, we propose the following:
+>>
+>> 1. Moving the static website from the existing infrastructure (Cocoon +
+>> TEI + custom XSLT) to a standard CMS (currently Wordpress).
+>> 2. Closing down the wiki entirely and replacing it with a blog.
+>> 3. For the moment we are leaving the Journal in place, but we are very
+>> likely to move it to a dedicated open journal hosting of some sort. We have
+>> been discussing this in some detail with Revues.org but are not yet
+>> committed to this.
+>>
+>> As most of you have realised, we have already set up a Wordpress version
+>> of the site at <http://digitalmedievalist.wordpress.com/>, and this is
+>> already proving to overcome the problems listed above. The proposal is
+>> therefore to make this the DM site and close down the old one, except
+>> perhaps for the Journal.
+>>
+>> However, the current Byelaws require that DM maintains a wiki (see <
+>> http://digitalmedievalist.wordpress.com/about/byelaws/#wiki>). The Board
+>> is therefore not free to close the existing wiki without first changing the
+>> Byelaws. Even if we chose to keep the wiki, however, the Board feels that
+>> the Byelaws should not lock us into using any single technology, and so
+>> they should be changed even if we keep the existing infrastructure. The
+>> details of the proposed changes to the Byelaws will be posted shortly as a
+>> separate e-mail and on the new website, but in essence we propose simply to
+>> replace the term 'wiki' with 'information resources' and to adapt the
+>> containing sentences accordingly.
+>>
+>> We would be grateful for any feedback about any aspect of this,
+>> preferably by e-mail to the list for general discussion, or alternatively
+_redacted_(a)digitalmedievalist.org or any members of the Board directly.
+>> The next Board meeting is 4pm GMT+1 on Monday 2 June, at which point any
+>> comments will be discussed, and any changes in the Byelaws will be
+>> presented to the membership for vote shortly after that (as sp
+>>
+>> --
+>> Dr Gabriel BODARD
+>> Researcher in Digital Epigraphy
+>>
+>> Digital Humanities
+>> King's College London
+>> Boris Karloff Building
+>> 26-29 Drury Lane
+>> London WC2B 5RL
+>>
+>> T: +44 (0)20 7848 1388
+_redacted_(a)kcl.ac.uk
+>>
+>> http://www.digitalclassicist.org/
+>> http://www.currentepigraphy.org/
+>>
+>> Digital Medievalist --  http://www.digitalmedievalist.org/
+>> Journal: http://www.digitalmedievalist.org/journal/
+>> Journal Editors: editors _AT_ digitalmedievalist.org
+>> News: http://www.digitalmedievalist.org/news/
+>> Wiki: http://www.digitalmedievalist.org/wiki/
+>> Twitter: http://twitter.com/digitalmedieval
+>> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+_redacted_(a)uleth.ca
+>> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>>
+>
+>
+> --
+> Grover Zinn
+> William H. Danforth Professor of Religion, emeritus
+> former Associate Dean of the College of Arts and Sciences
+> Oberlin College
+> Oberlin, OH 44074
+> grover.zinn (at) oberlin.edu
+>
+>
+> Digital Medievalist --  http://www.digitalmedievalist.org/
+> Journal: http://www.digitalmedievalist.org/journal/
+> Journal Editors: editors _AT_ digitalmedievalist.org
+> News: http://www.digitalmedievalist.org/news/
+> Wiki: http://www.digitalmedievalist.org/wiki/
+> Twitter: http://twitter.com/digitalmedieval
+> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+_redacted_(a)uleth.ca
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>PGRpdiBkaXI9Imx0ciI+PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OmFyaWFsLHNhbnMtc2VyaWY7
+Zm9udC1zaXplOjEzcHgiPk9uIFdlZG5lc2RheSwgTWF5IDIxLCAyMDE0LCBHYWJyaWVsIEJvZGFy
+ZCAmbHQ7PC9zcGFuPjxhIGhyZWY9Im1haWx0bzpnYWJyaWVsLmJvZGFyZEBrY2wuYWMudWsiIHRh
+cmdldD0iX2JsYW5rIiBzdHlsZT0iZm9udC1mYW1pbHk6YXJpYWwsc2Fucy1zZXJpZjtmb250LXNp
+emU6MTNweCI+Z2FicmllbC5ib2RhcmRAa2NsLmFjLnVrPC9hPjxzcGFuIHN0eWxlPSJmb250LWZh
+bWlseTphcmlhbCxzYW5zLXNlcmlmO2ZvbnQtc2l6ZToxM3B4Ij4mZ3Q7IHdyb3RlOjwvc3Bhbj48
+c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6YXJpYWwsc2Fucy1zZXJpZjtmb250LXNpemU6MTNweCI+
+4oCUUXVpY2sgY29tbWVudCByZSB0aGUgam91cm5hbDogSSYjMzk7ZCB2ZXJ5IG11Y2ggaG9wZSB0
+aGF0IHdoZXJldmVyIHRoZSBqb3VybmFsIG1pZ3JhdGVzIHRvIChhbmQgUmV2dWVzLm9yZyBvciBz
+aW1pbGFyIHdvdWxkIHNlZW0gdXNlZnVsKSB0aGUgb2xkLCB0cmFuc3BhcmVudCwgaHVtYW4tcmVh
+ZGFibGUsICZxdW90O2Nvb2wmcXVvdDsgVVJMcyByZW1haW4gbGl2ZSBwZXJtYW5lbnRseSwgZXZl
+biBpZiBhcyByZXdyaXRlcy9yZWRpcmVjdHMuIEkmIzM5O3ZlIGNpdGVkIG1hbnkgb2YgdGhvc2Ug
+dXJscyBpbiBkb3plbnMgb2YgcGxhY2VzLCBpbmNsdWRpbmcgaW4gcHJpbnQgKCEpLuKAlDwvc3Bh
+bj48YnI+Cgo8ZGl2PjxzcGFuIHN0eWxlPSJmb250LWZhbWlseTphcmlhbCxzYW5zLXNlcmlmO2Zv
+bnQtc2l6ZToxM3B4Ij48YnI+PC9zcGFuPjwvZGl2PjxkaXY+PHNwYW4gc3R5bGU9ImZvbnQtZmFt
+aWx5OmFyaWFsLHNhbnMtc2VyaWY7Zm9udC1zaXplOjEzcHgiPlNlY29uZGVkLiBUaGlzIHdvdWxk
+IGJlIHRyZXMgdXNlZnVsIGZvciBtYW55IG9mIHVzLjwvc3Bhbj48L2Rpdj48ZGl2PjxzcGFuIHN0
+eWxlPSJmb250LWZhbWlseTphcmlhbCxzYW5zLXNlcmlmO2ZvbnQtc2l6ZToxM3B4Ij48YnI+Cgo8
+L3NwYW4+PC9kaXY+PGRpdj48Zm9udCBmYWNlPSJhcmlhbCwgc2Fucy1zZXJpZiI+QWdyZWVtZW50
+IG9uIGFsbCBwb2ludHMsIGFuZCB0aGFua3MgdG8gdGhlIGhhcmQtd29ya2luZyBmZXcgd2hvIGhh
+dmUgcHV0IHNvIG11Y2ggaW50byBrZWVwaW5nIHRoZSBvbGQgc2l0ZSB1cCB0aGlzIGxvbmcuPC9m
+b250PjwvZGl2PjxkaXY+PGZvbnQgZmFjZT0iYXJpYWwsIHNhbnMtc2VyaWYiPjxicj4KCjwvZm9u
+dD48L2Rpdj48ZGl2Pjxmb250IGZhY2U9ImFyaWFsLCBzYW5zLXNlcmlmIj5PdXQgb2YgY3VyaW9z
+aXR5LCBpZiB3ZSBzaHV0IHRoZSB3aWtpIGRvd24sIHdpbGwgdGhlIGNvbW11bml0eSBzdGlsbCBo
+YXZlIHRoZSBvcHBvcnR1bml0eSB0byBjb250cmlidXRlIHRvIHRoZSBibG9nIGluIGEgc2ltaWxh
+ciBmYXNoaW9uPyBJIHJlYWxpemUgdGhhdCB0aGUgb3JpZ2luYWwgaW50ZW50IG9mIHRoZSB3aWtp
+IHdhcyB0byBoYXZlIGEgcmVzb3VyY2UgY3JlYXRlZCBieSB0aGUgY29tbXVuaXR5LiBTaW5jZSB0
+aGUgY3VycmVudCBvbmUgd2FzIHByZWRvbWluYW50bHkgcG9wdWxhdGVkIGJ5IHRoZSBib2FyZCBt
+ZW1iZXJzLCBpdCBoYXNuJiMzOTt0IG1ldCB3aXRoIGV4cGVjdGF0aW9ucy4gRG9lcyB0aGUgQm9h
+cmQgZW52aXNpb24gdGhhdCB0aGUgcHJvcG9zZWQgYmxvZyB3b3VsZCBlbmNvdXJhZ2UgbW9yZSBp
+bnB1dD/CoDwvZm9udD48L2Rpdj4KCjxkaXY+PGZvbnQgZmFjZT0iYXJpYWwsIHNhbnMtc2VyaWYi
+Pjxicj48L2ZvbnQ+PC9kaXY+PGRpdj48Zm9udCBmYWNlPSJhcmlhbCwgc2Fucy1zZXJpZiI+QmVz
+dCw8L2ZvbnQ+PC9kaXY+PGRpdj48YnI+PC9kaXY+PGRpdj48Zm9udCBmYWNlPSJhcmlhbCwgc2Fu
+cy1zZXJpZiI+flNhcmFoIFBmLjwvZm9udD48L2Rpdj48ZGl2IGNsYXNzPSJnbWFpbF9leHRyYSI+
+PGJyPjxicj48ZGl2IGNsYXNzPSJnbWFpbF9xdW90ZSI+CgpPbiBXZWQsIE1heSAyMSwgMjAxNCBh
+dCAxMDoyMyBBTSwgIDxzcGFuIGRpcj0ibHRyIj4mbHQ7PGEgaHJlZj0ibWFpbHRvOmRtLWwtcmVx
+dWVzdEB1bGV0aC5jYSIgdGFyZ2V0PSJfYmxhbmsiPmRtLWwtcmVxdWVzdEB1bGV0aC5jYTwvYT4m
+Z3Q7PC9zcGFuPiB3cm90ZTo8YnI+PGJsb2NrcXVvdGUgY2xhc3M9ImdtYWlsX3F1b3RlIiBzdHls
+ZT0ibWFyZ2luOjAgMCAwIC44ZXg7Ym9yZGVyLWxlZnQ6MXB4ICNjY2Mgc29saWQ7cGFkZGluZy1s
+ZWZ0OjFleCI+CgpTZW5kIGRtLWwgbWFpbGluZyBsaXN0IHN1Ym1pc3Npb25zIHRvPGJyPgrCoCDC
+oCDCoCDCoCA8YSBocmVmPSJtYWlsdG86ZG0tbEB1bGV0aC5jYSI+ZG0tbEB1bGV0aC5jYTwvYT48
+YnI+Cjxicj4KVG8gc3Vic2NyaWJlIG9yIHVuc3Vic2NyaWJlIHZpYSB0aGUgV29ybGQgV2lkZSBX
+ZWIsIHZpc2l0PGJyPgrCoCDCoCDCoCDCoCA8YSBocmVmPSJodHRwOi8vbGlzdHNlcnYudWxldGgu
+Y2EvbWFpbG1hbi9saXN0aW5mby9kbS1sIiB0YXJnZXQ9Il9ibGFuayI+aHR0cDovL2xpc3RzZXJ2
+LnVsZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0tbDwvYT48YnI+Cm9yLCB2aWEgZW1haWwsIHNl
+bmQgYSBtZXNzYWdlIHdpdGggc3ViamVjdCBvciBib2R5ICYjMzk7aGVscCYjMzk7IHRvPGJyPgrC
+oCDCoCDCoCDCoCA8YSBocmVmPSJtYWlsdG86ZG0tbC1yZXF1ZXN0QHVsZXRoLmNhIj5kbS1sLXJl
+cXVlc3RAdWxldGguY2E8L2E+PGJyPgo8YnI+CllvdSBjYW4gcmVhY2ggdGhlIHBlcnNvbiBtYW5h
+Z2luZyB0aGUgbGlzdCBhdDxicj4KwqAgwqAgwqAgwqAgPGEgaHJlZj0ibWFpbHRvOmRtLWwtb3du
+ZXJAdWxldGguY2EiPmRtLWwtb3duZXJAdWxldGguY2E8L2E+PGJyPgo8YnI+CldoZW4gcmVwbHlp
+bmcsIHBsZWFzZSBlZGl0IHlvdXIgU3ViamVjdCBsaW5lIHNvIGl0IGlzIG1vcmUgc3BlY2lmaWM8
+YnI+CnRoYW4gJnF1b3Q7UmU6IENvbnRlbnRzIG9mIGRtLWwgZGlnZXN0Li4uJnF1b3Q7PGJyPgo8
+YnI+VG9kYXkmIzM5O3MgVG9waWNzOjxicj4KPGJyPgrCoCDCoDEuIFJlOiBQcm9wb3NlZCBDaGFu
+Z2VzIHRvIERNIChLYWx2ZXNtYWtpLCBKb2VsKTxicj4KwqAgwqAyLiBSZTogUHJvcG9zZWQgQ2hh
+bmdlcyB0byBETSAoR2FicmllbCBCb2RhcmQpPGJyPgrCoCDCoDMuIFJlOiBQcm9wb3NlZCBDaGFu
+Z2VzIHRvIERNIChHcm92ZXIgWmlubik8YnI+Cjxicj48YnI+LS0tLS0tLS0tLSBGb3J3YXJkZWQg
+bWVzc2FnZSAtLS0tLS0tLS0tPGJyPkZyb206wqAmcXVvdDtLYWx2ZXNtYWtpLCBKb2VsJnF1b3Q7
+ICZsdDs8YSBocmVmPSJtYWlsdG86S2FsdmVzbWFraUpAZG9ha3Mub3JnIj5LYWx2ZXNtYWtpSkBk
+b2Frcy5vcmc8L2E+Jmd0Ozxicj5UbzrCoCZxdW90OzxhIGhyZWY9Im1haWx0bzpkbS1sQHVsZXRo
+LmNhIj5kbS1sQHVsZXRoLmNhPC9hPiZxdW90OyAmbHQ7PGEgaHJlZj0ibWFpbHRvOmRtLWxAdWxl
+dGguY2EiPmRtLWxAdWxldGguY2E8L2E+Jmd0Ozxicj4KCkNjOsKgPGJyPkRhdGU6wqBXZWQsIDIx
+IE1heSAyMDE0IDEzOjQ1OjM0ICswMDAwPGJyPlN1YmplY3Q6wqBSZTogW2RtLWxdIFByb3Bvc2Vk
+IENoYW5nZXMgdG8gRE08YnI+TXkgcmVzZWFyY2ggaW4gbGF0ZSBhbnRpcXVpdHkgZmFsbHMgYmV0
+d2VlbiB0aGUgd29ybGRzIG9mIGNsYXNzaWNhbCBhbmQgbWVkaWV2YWwgc2Nob2xhcnNoaXAuIFNv
+IHdoZW4gSSBmaXJzdCBiZWdhbiB0byBjb25zaWRlciB3aGljaCBXaWtpIHRvIGNvbnRyaWJ1dGUg
+dG8sIERNIG9yIHRoZSBEaWdpdGFsIENsYXNzaWNpc3QgKDxhIGhyZWY9Imh0dHA6Ly93aWtpLmRp
+Z2l0YWxjbGFzc2ljaXN0Lm9yZyIgdGFyZ2V0PSJfYmxhbmsiPndpa2kuZGlnaXRhbGNsYXNzaWNp
+c3Qub3JnPC9hPiksIEkgb3B0ZWQgZm9yIHRoZSBsYXR0ZXIgYmVjYXVzZSBpdCBoYWQgZ2FybmVy
+ZWQgdGhlIG1vc3QgY29udHJpYnV0aW9ucyBhbmQgd2FzIGF0IHRoZSB0aW1lIHRoZSBtb3N0IGFj
+dGl2ZS4gQnV0IEkgd29uZGVyZWQgYXQgdGhlIHRpbWUgd2h5IG1lZGlldmFsaXN0cyBhbmQgY2xh
+c3NpY2lzdHMgcmVhbGx5IG5lZWRlZCBzZXBhcmF0ZSB3aWtpcyBhbnl3YXksIHNpbmNlIHRoZSBt
+YXRlcmlhbCB0aGF0IHdhcyBwb3B1bGF0aW5nIHRoZSBwYWdlcyBhcHBsaWVkIHRvIGFueSBmaWVs
+ZCBzdHVkeWluZyBwcmUtbW9kZXJuaXR5LiBNYXRlcmlhbCBzdXJmYWNlcyBpbiBib3RoIHNwaGVy
+ZXMgb2YgZXhwbG9yYXRpb24gdGhhdCBjb3VsZCBiZW5lZml0IGFueSBvdGhlci4gVGh1cywgdGhl
+ICZxdW90O2NsYXNzaWNpc3QmcXVvdDsgaW4gJnF1b3Q7RGlnaXRhbCBDbGFzc2ljaXN0JnF1b3Q7
+IGlzIG5vdCByZXN0cmljdGVkIHRvIHByZS0ybmQgYy4gbWF0ZXJpYWw7IHRoZWlyIHdpa2kgYWxy
+ZWFkeSBoYXMgcXVpdGUgYSBsb3Qgb2YgbWVkaWV2YWwgYW5kIEJ5emFudGluZSBjb250ZW50IG9u
+IGl0Ljxicj4KCgo8YnI+ClNvIGluc3RlYWQgb2YgYWx0ZXJpbmcgdGhlIGJ5bGF3cywgd2h5IG5v
+dCBzaW1wbHkgaGF2ZSBETSBlbmRvcnNlIGVpdGhlciB0aGUgREMgd2lraSBvciBhIGNvbXBhcmFi
+bGUgb25lPyBGb2xsb3cgdGhlIHJvYWQgb2YgY29sbGFib3JhdGlvbj88YnI+Cjxicj4KQmVzdCB3
+aXNoZXMsPGJyPgo8YnI+CmprPGJyPgotLTxicj4KSm9lbCBLYWx2ZXNtYWtpPGJyPgpFZGl0b3Ig
+aW4gQnl6YW50aW5lIFN0dWRpZXM8YnI+CkR1bWJhcnRvbiBPYWtzPGJyPgoxNzAzIDMybmQgU3Qu
+IE5XPGJyPgpXYXNoaW5ndG9uLCBEQyAyMDAwNzxicj4KPGEgaHJlZj0idGVsOiUyODIwMiUyOSUy
+MDMzOS02NDM1IiB2YWx1ZT0iKzEyMDIzMzk2NDM1Ij4oMjAyKSAzMzktNjQzNTwvYT48YnI+Cjxi
+cj4KX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fXzxicj4KRnJvbTogZG0t
+bCBbPGEgaHJlZj0ibWFpbHRvOmRtLWwtYm91bmNlc0B1bGV0aC5jYSI+ZG0tbC1ib3VuY2VzQHVs
+ZXRoLmNhPC9hPl0gb24gYmVoYWxmIG9mIFN0b2tlcywgUGV0ZXIgWzxhIGhyZWY9Im1haWx0bzpw
+ZXRlci5zdG9rZXNAa2NsLmFjLnVrIj5wZXRlci5zdG9rZXNAa2NsLmFjLnVrPC9hPl08YnI+ClNl
+bnQ6IFdlZG5lc2RheSwgTWF5IDIxLCAyMDE0IDg6MDUgQU08YnI+ClRvOiA8YSBocmVmPSJtYWls
+dG86ZG0tbEB1bGV0aC5jYSI+ZG0tbEB1bGV0aC5jYTwvYT48YnI+ClN1YmplY3Q6IFtTUEFNIC0g
+SGVhZGVyXSAtIFtkbS1sXSBQcm9wb3NlZCBDaGFuZ2VzIHRvIERNIC0gRW1haWwgZm91bmQgaW4g
+c3ViamVjdDxicj4KPGJyPgpEZWFyIGFsbCw8YnI+Cjxicj4KSSBhcG9sb2dpc2UgZm9yIHRoZSBs
+ZW5ndGggb2YgdGhpcyBlLW1haWwsIGJ1dCBJIHdyaXRlIHJlZ2FyZGluZyBhIHNlcmllcyBvZiBm
+YWlybHkgZnVuZGFtZW50YWwgY2hhbmdlcyB0byB0aGUgRE0gaW5mcmFzdHJ1Y3R1cmUgdGhhdCB3
+ZSBoYXZlIGJlZW4gcGxhbm5pbmcgZm9yIHNvbWUgdGltZSBub3cuIEdpdmVuIHRoZSBzY2FsZSBv
+ZiB0aGVzZSBjaGFuZ2VzLCB3ZSBvbiB0aGUgRE0gQm9hcmQgdGhpbmsgaXQgaXMgaW1wb3J0YW50
+IHRvIGV4cGxhaW4gdGhlc2UgaW4gc29tZSBkZXRhaWwgYW5kIHJlcXVlc3QgZmVlZGJhY2sgZnJv
+bSB0aGUgQ29tbXVuaXR5IGJlZm9yZSB3ZSBnbyBhaGVhZCB3aXRoIHRoZW0uIFRoZXkgd2lsbCBh
+bHNvIHJlcXVpcmUgYSBjaGFuZ2Ugb2YgdGhlIEJ5ZWxhd3MsIGFuZCBzbyBhZ2FpbiB3ZSBuZWVk
+IGlucHV0IGZyb20gdGhlIENvbW11bml0eSBmb3IgdGhpcy48YnI+CgoKPGJyPgpVbmZvcnR1bmF0
+ZWx5IHRoZSBleGlzdGluZyBpbmZyYXN0cnVjdHVyZSBoYXMgcHJvdmVuIHVubWFuYWdlYWJsZS4g
+VGhlIHdpa2kgYW5kIG1haWxpbmctbGlzdCBoYXZlIGJvdGggYmVlbiBzdWJqZWN0IHRvIGxhcmdl
+LXNjYWxlIHNwYW0gYXR0YWNrcywgc3VjaCB0aGF0IHRoZSB3aWtpIG5vdyBjb250YWlucyBtYW55
+IG1hbnkgdGhvdXNhbmRzIG9mIGFydGljbGVzLCBvbmx5IDcwIG9yIHNvIG9mIHdoaWNoIGFyZSBn
+ZW51aW5lLiBUaGUgd2lraSBoYXMgYWxzbyBoYWQgYWxtb3N0IG5vIGFjdGl2aXR5IGJleW9uZCB0
+aGF0IG9mIHRoZSBCb2FyZCwgYW5kIHNvIGl0IGhhcyBub3QgYmVlbiBkb2luZyB0aGUgam9iIHRo
+YXQgd2UgaGFkIGhvcGVkLiBGdXJ0aGVybW9yZSB0aGUgd2Vic2l0ZSBpdHNlbGYsIHdoaWNoIHdl
+IGhhdmUgYmVlbiBob3N0aW5nIGFuZCBjb2Rpbmcgb3Vyc2VsdmVzICh3aXRoIHN1YnN0YW50aWFs
+IGhlbHAgZnJvbSBKYW1lcyBDdW1taW5ncyBhbmQgRGFuIE/igJlEb25uZWxsKSBpcyBhbHNvIHBy
+b3ZpbmcgaW5jcmVhc2luZ2x5IGRpZmZpY3VsdCB0byBtYW5hZ2U6IGl0IGRlcGVuZHMgb24gdGhl
+IGdlbmVyb3NpdHkgb2YgSmFtZXMgYW5kIERhbiB0byBob3N0IGFuZCBhZG1pbmlzdGVyLCBldmVu
+IGFkZGluZyBuZXcgcGFnZXMgaXMgbm90IHRyaXZpYWwsIGFuZCBpdCBoYXMgbmVlZGVkIGEgZHJh
+bWF0aWMgb3ZlcmhhdWwgZm9yIHNvbWUgdGltZSBidXQgdG8gZG8gdGhpcyByZXF1aXJlcyBtdWNo
+IG1vcmUgdGltZSBhbmQgZWZmb3J0IHRoYW4gd2UgaGF2ZSBiZWVuIGFibGUgdG8gbWFuYWdlLiBG
+b3IgYWxsIG9mIHRoZXNlIHJlYXNvbnMsIHdlIHByb3Bvc2UgdGhlIGZvbGxvd2luZzo8YnI+CgoK
+PGJyPgoxLiBNb3ZpbmcgdGhlIHN0YXRpYyB3ZWJzaXRlIGZyb20gdGhlIGV4aXN0aW5nIGluZnJh
+c3RydWN0dXJlIChDb2Nvb24gKyBURUkgKyBjdXN0b20gWFNMVCkgdG8gYSBzdGFuZGFyZCBDTVMg
+KGN1cnJlbnRseSBXb3JkcHJlc3MpLjxicj4KMi4gQ2xvc2luZyBkb3duIHRoZSB3aWtpIGVudGly
+ZWx5IGFuZCByZXBsYWNpbmcgaXQgd2l0aCBhIGJsb2cuPGJyPgozLiBGb3IgdGhlIG1vbWVudCB3
+ZSBhcmUgbGVhdmluZyB0aGUgSm91cm5hbCBpbiBwbGFjZSwgYnV0IHdlIGFyZSB2ZXJ5IGxpa2Vs
+eSB0byBtb3ZlIGl0IHRvIGEgZGVkaWNhdGVkIG9wZW4gam91cm5hbCBob3N0aW5nIG9mIHNvbWUg
+c29ydC4gV2UgaGF2ZSBiZWVuIGRpc2N1c3NpbmcgdGhpcyBpbiBzb21lIGRldGFpbCB3aXRoIFJl
+dnVlcy5vcmcgYnV0IGFyZSBub3QgeWV0IGNvbW1pdHRlZCB0byB0aGlzLjxicj4KCgo8YnI+CkFz
+IG1vc3Qgb2YgeW91IGhhdmUgcmVhbGlzZWQsIHdlIGhhdmUgYWxyZWFkeSBzZXQgdXAgYSBXb3Jk
+cHJlc3MgdmVyc2lvbiBvZiB0aGUgc2l0ZSBhdCAmbHQ7PGEgaHJlZj0iaHR0cDovL2RpZ2l0YWxt
+ZWRpZXZhbGlzdC53b3JkcHJlc3MuY29tLyIgdGFyZ2V0PSJfYmxhbmsiPmh0dHA6Ly9kaWdpdGFs
+bWVkaWV2YWxpc3Qud29yZHByZXNzLmNvbS88L2E+Jmd0OywgYW5kIHRoaXMgaXMgYWxyZWFkeSBw
+cm92aW5nIHRvIG92ZXJjb21lIHRoZSBwcm9ibGVtcyBsaXN0ZWQgYWJvdmUuIFRoZSBwcm9wb3Nh
+bCBpcyB0aGVyZWZvcmUgdG8gbWFrZSB0aGlzIHRoZSBETSBzaXRlIGFuZCBjbG9zZSBkb3duIHRo
+ZSBvbGQgb25lLCBleGNlcHQgcGVyaGFwcyBmb3IgdGhlIEpvdXJuYWwuPGJyPgoKCjxicj4KSG93
+ZXZlciwgdGhlIGN1cnJlbnQgQnllbGF3cyByZXF1aXJlIHRoYXQgRE0gbWFpbnRhaW5zIGEgd2lr
+aSAoc2VlICZsdDs8YSBocmVmPSJodHRwOi8vZGlnaXRhbG1lZGlldmFsaXN0LndvcmRwcmVzcy5j
+b20vYWJvdXQvYnllbGF3cy8jd2lraSIgdGFyZ2V0PSJfYmxhbmsiPmh0dHA6Ly9kaWdpdGFsbWVk
+aWV2YWxpc3Qud29yZHByZXNzLmNvbS9hYm91dC9ieWVsYXdzLyN3aWtpPC9hPiZndDspLiBUaGUg
+Qm9hcmQgaXMgdGhlcmVmb3JlIG5vdCBmcmVlIHRvIGNsb3NlIHRoZSBleGlzdGluZyB3aWtpIHdp
+dGhvdXQgZmlyc3QgY2hhbmdpbmcgdGhlIEJ5ZWxhd3MuIEV2ZW4gaWYgd2UgY2hvc2UgdG8ga2Vl
+cCB0aGUgd2lraSwgaG93ZXZlciwgdGhlIEJvYXJkIGZlZWxzIHRoYXQgdGhlIEJ5ZWxhd3Mgc2hv
+dWxkIG5vdCBsb2NrIHVzIGludG8gdXNpbmcgYW55IHNpbmdsZSB0ZWNobm9sb2d5LCBhbmQgc28g
+dGhleSBzaG91bGQgYmUgY2hhbmdlZCBldmVuIGlmIHdlIGtlZXAgdGhlIGV4aXN0aW5nIGluZnJh
+c3RydWN0dXJlLiBUaGUgZGV0YWlscyBvZiB0aGUgcHJvcG9zZWQgY2hhbmdlcyB0byB0aGUgQnll
+bGF3cyB3aWxsIGJlIHBvc3RlZCBzaG9ydGx5IGFzIGEgc2VwYXJhdGUgZS1tYWlsIGFuZCBvbiB0
+aGUgbmV3IHdlYnNpdGUsIGJ1dCBpbiBlc3NlbmNlIHdlIHByb3Bvc2Ugc2ltcGx5IHRvIHJlcGxh
+Y2UgdGhlIHRlcm0gJiMzOTt3aWtpJiMzOTsgd2l0aCAmIzM5O2luZm9ybWF0aW9uIHJlc291cmNl
+cyYjMzk7IGFuZCB0byBhZGFwdCB0aGUgY29udGFpbmluZyBzZW50ZW5jZXMgYWNjb3JkaW5nbHku
+PGJyPgoKCjxicj4KV2Ugd291bGQgYmUgZ3JhdGVmdWwgZm9yIGFueSBmZWVkYmFjayBhYm91dCBh
+bnkgYXNwZWN0IG9mIHRoaXMsIHByZWZlcmFibHkgYnkgZS1tYWlsIHRvIHRoZSBsaXN0IGZvciBn
+ZW5lcmFsIGRpc2N1c3Npb24sIG9yIGFsdGVybmF0aXZlbHkgdG8gPGEgaHJlZj0ibWFpbHRvOmJv
+YXJkQGRpZ2l0YWxtZWRpZXZhbGlzdC5vcmciPmJvYXJkQGRpZ2l0YWxtZWRpZXZhbGlzdC5vcmc8
+L2E+IG9yIGFueSBtZW1iZXJzIG9mIHRoZSBCb2FyZCBkaXJlY3RseS4gVGhlIG5leHQgQm9hcmQg
+bWVldGluZyBpcyA0cG0gR01UKzEgb24gTW9uZGF5IDIgSnVuZSwgYXQgd2hpY2ggcG9pbnQgYW55
+IGNvbW1lbnRzIHdpbGwgYmUgZGlzY3Vzc2VkLCBhbmQgYW55IGNoYW5nZXMgaW4gdGhlIEJ5ZWxh
+d3Mgd2lsbCBiZSBwcmVzZW50ZWQgdG8gdGhlIG1lbWJlcnNoaXAgZm9yIHZvdGUgc2hvcnRseSBh
+ZnRlciB0aGF0IChhcyBzcGVjaWZpZWQgaW4gwqc5IG9mIHRoZSBCeWVsYXdzOiAmbHQ7PGEgaHJl
+Zj0iaHR0cDovL2RpZ2l0YWxtZWRpZXZhbGlzdC53b3JkcHJlc3MuY29tL2Fib3V0L2J5ZWxhd3Mv
+I2FtZW5kbWVudHMiIHRhcmdldD0iX2JsYW5rIj5odHRwOi8vZGlnaXRhbG1lZGlldmFsaXN0Lndv
+cmRwcmVzcy5jb20vYWJvdXQvYnllbGF3cy8jYW1lbmRtZW50czwvYT4mZ3Q7KS48YnI+CgoKPGJy
+PgpUaGFuayB5b3UsIGFuZCB3ZSBsb29rIGZvcndhcmQgdG8gcmVjZWl2aW5nIHlvdXIgY29tbWVu
+dHMuPGJyPgo8YnI+ClBldGVyIFN0b2tlcyAob24gYmVoYWxmIG9mIHRoZSBFeGVjdXRpdmUgQm9h
+cmQpPGJyPgo8YnI+Ci0tPGJyPgpEciBQZXRlciBTdG9rZXM8YnI+ClNlbmlvciBMZWN0dXJlcjxi
+cj4KRGVwYXJ0bWVudCBvZiBEaWdpdGFsIEh1bWFuaXRpZXM8YnI+CktpbmcmIzM5O3MgQ29sbGVn
+ZSBMb25kb248YnI+ClJvb20gMjE4LCAybmQgRmxvb3I8YnI+CjI2LTI5IERydXJ5IExhbmU8YnI+
+CkxvbmRvbiwgV0MyQiA1Ukw8YnI+ClRlbDogPGEgaHJlZj0idGVsOiUyQjQ0JTIwJTI4MCUyOTIw
+JTIwNzg0OCUyMDI4MTMiIHZhbHVlPSIrNDQyMDc4NDgyODEzIj4rNDQgKDApMjAgNzg0OCAyODEz
+PC9hPjxicj4KPGEgaHJlZj0ibWFpbHRvOnBldGVyLnN0b2tlc0BrY2wuYWMudWsiPnBldGVyLnN0
+b2tlc0BrY2wuYWMudWs8L2E+PGJyPgo8YnI+Cjxicj4KRGlnaXRhbCBNZWRpZXZhbGlzdCAtLSDC
+oDxhIGhyZWY9Imh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy8iIHRhcmdldD0iX2Js
+YW5rIj5odHRwOi8vd3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmcvPC9hPjxicj4KSm91cm5hbDog
+PGEgaHJlZj0iaHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnL2pvdXJuYWwvIiB0YXJn
+ZXQ9Il9ibGFuayI+aHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnL2pvdXJuYWwvPC9h
+Pjxicj4KSm91cm5hbCBFZGl0b3JzOiBlZGl0b3JzIF9BVF8gPGEgaHJlZj0iaHR0cDovL2RpZ2l0
+YWxtZWRpZXZhbGlzdC5vcmciIHRhcmdldD0iX2JsYW5rIj5kaWdpdGFsbWVkaWV2YWxpc3Qub3Jn
+PC9hPjxicj4KTmV3czogPGEgaHJlZj0iaHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3Jn
+L25ld3MvIiB0YXJnZXQ9Il9ibGFuayI+aHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3Jn
+L25ld3MvPC9hPjxicj4KV2lraTogPGEgaHJlZj0iaHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxp
+c3Qub3JnL3dpa2kvIiB0YXJnZXQ9Il9ibGFuayI+aHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxp
+c3Qub3JnL3dpa2kvPC9hPjxicj4KVHdpdHRlcjogPGEgaHJlZj0iaHR0cDovL3R3aXR0ZXIuY29t
+L2RpZ2l0YWxtZWRpZXZhbCIgdGFyZ2V0PSJfYmxhbmsiPmh0dHA6Ly90d2l0dGVyLmNvbS9kaWdp
+dGFsbWVkaWV2YWw8L2E+PGJyPgpGYWNlYm9vazogPGEgaHJlZj0iaHR0cDovL3d3dy5mYWNlYm9v
+ay5jb20vZ3JvdXAucGhwP2dpZD00OTMyMDMxMzc2MCIgdGFyZ2V0PSJfYmxhbmsiPmh0dHA6Ly93
+d3cuZmFjZWJvb2suY29tL2dyb3VwLnBocD9naWQ9NDkzMjAzMTM3NjA8L2E+PGJyPgpEaXNjdXNz
+aW9uIGxpc3Q6IDxhIGhyZWY9Im1haWx0bzpkbS1sQHVsZXRoLmNhIj5kbS1sQHVsZXRoLmNhPC9h
+Pjxicj4KQ2hhbmdlIGxpc3Qgb3B0aW9uczogPGEgaHJlZj0iaHR0cDovL2xpc3RzZXJ2LnVsZXRo
+LmNhL21haWxtYW4vbGlzdGluZm8vZG0tbCIgdGFyZ2V0PSJfYmxhbmsiPmh0dHA6Ly9saXN0c2Vy
+di51bGV0aC5jYS9tYWlsbWFuL2xpc3RpbmZvL2RtLWw8L2E+PGJyPgo8YnI+Cjxicj4KPGJyPjxi
+cj4tLS0tLS0tLS0tIEZvcndhcmRlZCBtZXNzYWdlIC0tLS0tLS0tLS08YnI+RnJvbTrCoEdhYnJp
+ZWwgQm9kYXJkICZsdDs8YSBocmVmPSJtYWlsdG86Z2FicmllbC5ib2RhcmRAa2NsLmFjLnVrIj5n
+YWJyaWVsLmJvZGFyZEBrY2wuYWMudWs8L2E+Jmd0Ozxicj5UbzrCoCZsdDs8YSBocmVmPSJtYWls
+dG86ZG0tbEB1bGV0aC5jYSI+ZG0tbEB1bGV0aC5jYTwvYT4mZ3Q7PGJyPkNjOsKgPGJyPgoKRGF0
+ZTrCoFdlZCwgMjEgTWF5IDIwMTQgMTU6MDA6MjcgKzAxMDA8YnI+U3ViamVjdDrCoFJlOiBbZG0t
+bF0gUHJvcG9zZWQgQ2hhbmdlcyB0byBETTxicj5JJiMzOTtkIGJlIGhhcHB5IHRvIHNlZSBhIGxv
+dCBvZiBCeXphbnRpbmUgYW5kIG90aGVyIE1lZGlhZXZhbC1pc2ggbWF0ZXJpYWwgbWlncmF0ZSB0
+byB0aGUgREMgd2lraSBpZiBkZXNpcmFibGUuIFRoZSBEQyBjb21tdW5pdHkgYXJlIGluIGZhY3Qg
+anVzdCBzdGFydGluZyBhIHNlcmllcyBvZiB3aWtpIHNwcmludHMgdG8gZnVydGhlciBpbXByb3Zl
+IGFuZCBidWlsZCBvbiB0aGUgY29udGVudCB0aGVyZWluLiAoV2Ugc3ltcGF0aGl6ZSB3aXRoIHRo
+ZSBwcm9ibGVtIG9mIHNwYW0tLXdlIGhhdmUgcmVzaXN0ZWQgdGhpcyBvbmx5IGJ5IG1ha2luZyBl
+ZGl0aW5nIHRoZSB3aWtpIGJ5ICZxdW90O2ludml0YXRpb24gb25seSZxdW90Oywgd2hpY2ggbWVh
+bnMgdGhhdCBhbiBhZG1pbiBoYXMgdG8gY3JlYXRlIHlvdSBhbiBhY2NvdW50IHRvIGdpdmUgeW91
+IGV2ZW4gdGhlIG1vc3QgYmFzaWMgZWRpdGluZyByaWdodHMuIEl0JiMzOTtzIGEgcGFpbiwgYW5k
+IG5vIGRvdWJ0IGxpbWl0cyBwYXJ0aWNpcGF0aW9uIHRvIHRob3NlIHdobyBjYW4gYmUgYm90aGVy
+ZWQgdG8gZW1haWwgdXMsIGJ1dCB0aGUgRE0gZXhwZXJpZW5jZSB0aGF0IG9ubHkgYm9hcmQgbWVt
+YmVycyBkbyBtdWNoIGVkaXRpbmcgYW55d2F5IHByb2JhYmx5IHN1Z2dlc3RzIHRoYXQgdGhpcyBp
+c24mIzM5O3QgYSB0cmFnZWR5Lik8YnI+CgoKPGJyPgpJIGRvbiYjMzk7dCB0aGluayB3ZSYjMzk7
+ZCB3YW50IHRvIHNlZSB0aGUgREMgd2lraSBiZWNvbWUgYSBzb3J0IG9mIGdlbmVyaWMgJnF1b3Q7
+RGlnaXRhbCBQcmUtTW9kZXJuaXN0JnF1b3Q7IHNpdGUsIHRob3VnaCwgc28gbGV0JiMzOTtzIHRy
+eSB0byBrZWVwIHNvbWUgYmFzaWMgY29oZXJlbmNlLiBJIHRoaW5rIG11Y2ggb2YgdGhlIGNvbnRl
+bnQgaW4gRE0gd2FzIG9mIGEgZGlmZmVyZW50IG9yZGVyIGZyb20gdGhlIERDIHdpa2ksIGFueXdh
+eS4uLjxicj4KCgo8YnI+ClF1aWNrIGNvbW1lbnQgcmUgdGhlIGpvdXJuYWw6IEkmIzM5O2QgdmVy
+eSBtdWNoIGhvcGUgdGhhdCB3aGVyZXZlciB0aGUgam91cm5hbCBtaWdyYXRlcyB0byAoYW5kIFJl
+dnVlcy5vcmcgb3Igc2ltaWxhciB3b3VsZCBzZWVtIHVzZWZ1bCkgdGhlIG9sZCwgdHJhbnNwYXJl
+bnQsIGh1bWFuLXJlYWRhYmxlLCAmcXVvdDtjb29sJnF1b3Q7IFVSTHMgcmVtYWluIGxpdmUgcGVy
+bWFuZW50bHksIGV2ZW4gaWYgYXMgcmV3cml0ZXMvcmVkaXJlY3RzLiBJJiMzOTt2ZSBjaXRlZCBt
+YW55IG9mIHRob3NlIHVybHMgaW4gZG96ZW5zIG9mIHBsYWNlcywgaW5jbHVkaW5nIGluIHByaW50
+ICghKS48YnI+CgoKPGJyPgpPdGhlcndpc2UsIEkgZW5kb3JzZSBldmVyeXRoaW5nIFBldGVyIHN1
+Z2dlc3RzIGJlbG93Ljxicj4KPGJyPgpCZXN0LDxicj4KPGJyPgpHYWJieTxicj4KPGJyPgpPbiAy
+MDE0LTA1LTIxIDE0OjQ1LCBLYWx2ZXNtYWtpLCBKb2VsIHdyb3RlOjxicj4KPGJsb2NrcXVvdGUg
+Y2xhc3M9ImdtYWlsX3F1b3RlIiBzdHlsZT0ibWFyZ2luOjAgMCAwIC44ZXg7Ym9yZGVyLWxlZnQ6
+MXB4ICNjY2Mgc29saWQ7cGFkZGluZy1sZWZ0OjFleCI+Ck15IHJlc2VhcmNoIGluIGxhdGUgYW50
+aXF1aXR5IGZhbGxzIGJldHdlZW4gdGhlIHdvcmxkcyBvZiBjbGFzc2ljYWwgYW5kIG1lZGlldmFs
+IHNjaG9sYXJzaGlwLiBTbyB3aGVuIEkgZmlyc3QgYmVnYW4gdG8gY29uc2lkZXIgd2hpY2ggV2lr
+aSB0byBjb250cmlidXRlIHRvLCBETSBvciB0aGUgRGlnaXRhbCBDbGFzc2ljaXN0ICg8YSBocmVm
+PSJodHRwOi8vd2lraS5kaWdpdGFsY2xhc3NpY2lzdC5vcmciIHRhcmdldD0iX2JsYW5rIj53aWtp
+LmRpZ2l0YWxjbGFzc2ljaXN0Lm9yZzwvYT4pLCBJIG9wdGVkIGZvciB0aGUgbGF0dGVyIGJlY2F1
+c2UgaXQgaGFkIGdhcm5lcmVkIHRoZSBtb3N0IGNvbnRyaWJ1dGlvbnMgYW5kIHdhcyBhdCB0aGUg
+dGltZSB0aGUgbW9zdCBhY3RpdmUuIEJ1dCBJIHdvbmRlcmVkIGF0IHRoZSB0aW1lIHdoeSBtZWRp
+ZXZhbGlzdHMgYW5kIGNsYXNzaWNpc3RzIHJlYWxseSBuZWVkZWQgc2VwYXJhdGUgd2lraXMgYW55
+d2F5LCBzaW5jZSB0aGUgbWF0ZXJpYWwgdGhhdCB3YXMgcG9wdWxhdGluZyB0aGUgcGFnZXMgYXBw
+bGllZCB0byBhbnkgZmllbGQgc3R1ZHlpbmcgcHJlLW1vZGVybml0eS4gTWF0ZXJpYWwgc3VyZmFj
+ZXMgaW4gYm90aCBzcGhlcmVzIG9mIGV4cGxvcmF0aW9uIHRoYXQgY291bGQgYmVuZWZpdCBhbnkg
+b3RoZXIuIFRodXMsIHRoZSAmcXVvdDtjbGFzc2ljaXN0JnF1b3Q7IGluICZxdW90O0RpZ2l0YWwg
+Q2xhc3NpY2lzdCZxdW90OyBpcyBub3QgcmVzdHJpY3RlZCB0byBwcmUtMm5kIGMuIG1hdGVyaWFs
+OyB0aGVpciB3aWtpIGFscmVhZHkgaGFzIHF1aXRlIGEgbG90IG9mIG1lZGlldmFsIGFuZCBCeXph
+bnRpbmUgY29udGVudCBvbiBpdC48YnI+CgoKPGJyPgpTbyBpbnN0ZWFkIG9mIGFsdGVyaW5nIHRo
+ZSBieWxhd3MsIHdoeSBub3Qgc2ltcGx5IGhhdmUgRE0gZW5kb3JzZSBlaXRoZXIgdGhlIERDIHdp
+a2kgb3IgYSBjb21wYXJhYmxlIG9uZT8gRm9sbG93IHRoZSByb2FkIG9mIGNvbGxhYm9yYXRpb24/
+PGJyPgo8YnI+CkJlc3Qgd2lzaGVzLDxicj4KPGJyPgpqazxicj4KLS08YnI+CkpvZWwgS2FsdmVz
+bWFraTxicj4KRWRpdG9yIGluIEJ5emFudGluZSBTdHVkaWVzPGJyPgpEdW1iYXJ0b24gT2Frczxi
+cj4KMTcwMyAzMm5kIFN0LiBOVzxicj4KV2FzaGluZ3RvbiwgREMgMjAwMDc8YnI+CjxhIGhyZWY9
+InRlbDolMjgyMDIlMjklMjAzMzktNjQzNSIgdmFsdWU9IisxMjAyMzM5NjQzNSIgdGFyZ2V0PSJf
+YmxhbmsiPigyMDIpIDMzOS02NDM1PC9hPjxicj4KPGJyPgpfX19fX19fX19fX19fX19fX19fX19f
+X19fX19fX188dT48L3U+X19fX19fX19fXzxicj4KRnJvbTogZG0tbCBbPGEgaHJlZj0ibWFpbHRv
+OmRtLWwtYm91bmNlc0B1bGV0aC5jYSIgdGFyZ2V0PSJfYmxhbmsiPmRtLWwtYm91bmNlc0B1bGV0
+aC5jYTwvYT5dIG9uIGJlaGFsZiBvZiBTdG9rZXMsIFBldGVyIFs8YSBocmVmPSJtYWlsdG86cGV0
+ZXIuc3Rva2VzQGtjbC5hYy51ayIgdGFyZ2V0PSJfYmxhbmsiPnBldGVyLnN0b2tlc0BrY2wuYWMu
+dWs8L2E+XTxicj4KU2VudDogV2VkbmVzZGF5LCBNYXkgMjEsIDIwMTQgODowNSBBTTxicj4KVG86
+IDxhIGhyZWY9Im1haWx0bzpkbS1sQHVsZXRoLmNhIiB0YXJnZXQ9Il9ibGFuayI+ZG0tbEB1bGV0
+aC5jYTwvYT48YnI+ClN1YmplY3Q6IFtTUEFNIC0gSGVhZGVyXSAtIFtkbS1sXSBQcm9wb3NlZCBD
+aGFuZ2VzIHRvIERNIC0gRW1haWwgZm91bmQgaW4gc3ViamVjdDxicj4KPGJyPgpEZWFyIGFsbCw8
+YnI+Cjxicj4KSSBhcG9sb2dpc2UgZm9yIHRoZSBsZW5ndGggb2YgdGhpcyBlLW1haWwsIGJ1dCBJ
+IHdyaXRlIHJlZ2FyZGluZyBhIHNlcmllcyBvZiBmYWlybHkgZnVuZGFtZW50YWwgY2hhbmdlcyB0
+byB0aGUgRE0gaW5mcmFzdHJ1Y3R1cmUgdGhhdCB3ZSBoYXZlIGJlZW4gcGxhbm5pbmcgZm9yIHNv
+bWUgdGltZSBub3cuIEdpdmVuIHRoZSBzY2FsZSBvZiB0aGVzZSBjaGFuZ2VzLCB3ZSBvbiB0aGUg
+RE0gQm9hcmQgdGhpbmsgaXQgaXMgaW1wb3J0YW50IHRvIGV4cGxhaW4gdGhlc2UgaW4gc29tZSBk
+ZXRhaWwgYW5kIHJlcXVlc3QgZmVlZGJhY2sgZnJvbSB0aGUgQ29tbXVuaXR5IGJlZm9yZSB3ZSBn
+byBhaGVhZCB3aXRoIHRoZW0uIFRoZXkgd2lsbCBhbHNvIHJlcXVpcmUgYSBjaGFuZ2Ugb2YgdGhl
+IEJ5ZWxhd3MsIGFuZCBzbyBhZ2FpbiB3ZSBuZWVkIGlucHV0IGZyb20gdGhlIENvbW11bml0eSBm
+b3IgdGhpcy48YnI+CgoKPGJyPgpVbmZvcnR1bmF0ZWx5IHRoZSBleGlzdGluZyBpbmZyYXN0cnVj
+dHVyZSBoYXMgcHJvdmVuIHVubWFuYWdlYWJsZS4gVGhlIHdpa2kgYW5kIG1haWxpbmctbGlzdCBo
+YXZlIGJvdGggYmVlbiBzdWJqZWN0IHRvIGxhcmdlLXNjYWxlIHNwYW0gYXR0YWNrcywgc3VjaCB0
+aGF0IHRoZSB3aWtpIG5vdyBjb250YWlucyBtYW55IG1hbnkgdGhvdXNhbmRzIG9mIGFydGljbGVz
+LCBvbmx5IDcwIG9yIHNvIG9mIHdoaWNoIGFyZSBnZW51aW5lLiBUaGUgd2lraSBoYXMgYWxzbyBo
+YWQgYWxtb3N0IG5vIGFjdGl2aXR5IGJleW9uZCB0aGF0IG9mIHRoZSBCb2FyZCwgYW5kIHNvIGl0
+IGhhcyBub3QgYmVlbiBkb2luZyB0aGUgam9iIHRoYXQgd2UgaGFkIGhvcGVkLiBGdXJ0aGVybW9y
+ZSB0aGUgd2Vic2l0ZSBpdHNlbGYsIHdoaWNoIHdlIGhhdmUgYmVlbiBob3N0aW5nIGFuZCBjb2Rp
+bmcgb3Vyc2VsdmVzICh3aXRoIHN1YnN0YW50aWFsIGhlbHAgZnJvbSBKYW1lcyBDdW1taW5ncyBh
+bmQgRGFuIE/igJlEb25uZWxsKSBpcyBhbHNvIHByb3ZpbmcgaW5jcmVhc2luZ2x5IGRpZmZpY3Vs
+dCB0byBtYW5hZ2U6IGl0IGRlcGVuZHMgb24gdGhlIGdlbmVyb3NpdHkgb2YgSmFtZXMgYW5kIERh
+biB0byBob3N0IGFuZCBhZG1pbmlzdGVyLCBldmVuIGFkZGluZyBuZXcgcGFnZXMgaXMgbm90IHRy
+aXZpYWwsIGFuZCBpdCBoYXMgbmVlZGVkIGEgZHJhbWF0aWMgb3ZlcmhhdWwgZm9yIHNvbWUgdGlt
+ZSBidXQgdG8gZG8gdGhpcyByZXF1aXJlcyBtdWNoIG1vcmUgdGltZSBhbmQgZWZmb3J0IHRoYW4g
+d2UgaGF2ZSBiZWVuIGFibGUgdG8gbWFuYWdlLiBGb3IgYWxsIG9mIHRoZXNlIHJlYXNvbnMsIHdl
+IHByb3Bvc2UgdGhlIGZvbGxvd2luZzo8YnI+CgoKPGJyPgoxLiBNb3ZpbmcgdGhlIHN0YXRpYyB3
+ZWJzaXRlIGZyb20gdGhlIGV4aXN0aW5nIGluZnJhc3RydWN0dXJlIChDb2Nvb24gKyBURUkgKyBj
+dXN0b20gWFNMVCkgdG8gYSBzdGFuZGFyZCBDTVMgKGN1cnJlbnRseSBXb3JkcHJlc3MpLjxicj4K
+Mi4gQ2xvc2luZyBkb3duIHRoZSB3aWtpIGVudGlyZWx5IGFuZCByZXBsYWNpbmcgaXQgd2l0aCBh
+IGJsb2cuPGJyPgozLiBGb3IgdGhlIG1vbWVudCB3ZSBhcmUgbGVhdmluZyB0aGUgSm91cm5hbCBp
+biBwbGFjZSwgYnV0IHdlIGFyZSB2ZXJ5IGxpa2VseSB0byBtb3ZlIGl0IHRvIGEgZGVkaWNhdGVk
+IG9wZW4gam91cm5hbCBob3N0aW5nIG9mIHNvbWUgc29ydC4gV2UgaGF2ZSBiZWVuIGRpc2N1c3Np
+bmcgdGhpcyBpbiBzb21lIGRldGFpbCB3aXRoIFJldnVlcy5vcmcgYnV0IGFyZSBub3QgeWV0IGNv
+bW1pdHRlZCB0byB0aGlzLjxicj4KCgo8YnI+CkFzIG1vc3Qgb2YgeW91IGhhdmUgcmVhbGlzZWQs
+IHdlIGhhdmUgYWxyZWFkeSBzZXQgdXAgYSBXb3JkcHJlc3MgdmVyc2lvbiBvZiB0aGUgc2l0ZSBh
+dCAmbHQ7PGEgaHJlZj0iaHR0cDovL2RpZ2l0YWxtZWRpZXZhbGlzdC53b3JkcHJlc3MuY29tLyIg
+dGFyZ2V0PSJfYmxhbmsiPmh0dHA6Ly9kaWdpdGFsbWVkaWV2YWxpc3QuPHU+PC91PndvcmRwcmVz
+cy5jb20vPC9hPiZndDssIGFuZCB0aGlzIGlzIGFscmVhZHkgcHJvdmluZyB0byBvdmVyY29tZSB0
+aGUgcHJvYmxlbXMgbGlzdGVkIGFib3ZlLiBUaGUgcHJvcG9zYWwgaXMgdGhlcmVmb3JlIHRvIG1h
+a2UgdGhpcyB0aGUgRE0gc2l0ZSBhbmQgY2xvc2UgZG93biB0aGUgb2xkIG9uZSwgZXhjZXB0IHBl
+cmhhcHMgZm9yIHRoZSBKb3VybmFsLjxicj4KCgo8YnI+Ckhvd2V2ZXIsIHRoZSBjdXJyZW50IEJ5
+ZWxhd3MgcmVxdWlyZSB0aGF0IERNIG1haW50YWlucyBhIHdpa2kgKHNlZSAmbHQ7PGEgaHJlZj0i
+aHR0cDovL2RpZ2l0YWxtZWRpZXZhbGlzdC53b3JkcHJlc3MuY29tL2Fib3V0L2J5ZWxhd3MvI3dp
+a2kiIHRhcmdldD0iX2JsYW5rIj5odHRwOi8vZGlnaXRhbG1lZGlldmFsaXN0Ljx1PjwvdT53b3Jk
+cHJlc3MuY29tL2Fib3V0L2J5ZWxhd3MvIzx1PjwvdT53aWtpPC9hPiZndDspLiBUaGUgQm9hcmQg
+aXMgdGhlcmVmb3JlIG5vdCBmcmVlIHRvIGNsb3NlIHRoZSBleGlzdGluZyB3aWtpIHdpdGhvdXQg
+Zmlyc3QgY2hhbmdpbmcgdGhlIEJ5ZWxhd3MuIEV2ZW4gaWYgd2UgY2hvc2UgdG8ga2VlcCB0aGUg
+d2lraSwgaG93ZXZlciwgdGhlIEJvYXJkIGZlZWxzIHRoYXQgdGhlIEJ5ZWxhd3Mgc2hvdWxkIG5v
+dCBsb2NrIHVzIGludG8gdXNpbmcgYW55IHNpbmdsZSB0ZWNobm9sb2d5LCBhbmQgc28gdGhleSBz
+aG91bGQgYmUgY2hhbmdlZCBldmVuIGlmIHdlIGtlZXAgdGhlIGV4aXN0aW5nIGluZnJhc3RydWN0
+dXJlLiBUaGUgZGV0YWlscyBvZiB0aGUgcHJvcG9zZWQgY2hhbmdlcyB0byB0aGUgQnllbGF3cyB3
+aWxsIGJlIHBvc3RlZCBzaG9ydGx5IGFzIGEgc2VwYXJhdGUgZS1tYWlsIGFuZCBvbiB0aGUgbmV3
+IHdlYnNpdGUsIGJ1dCBpbiBlc3NlbmNlIHdlIHByb3Bvc2Ugc2ltcGx5IHRvIHJlcGxhY2UgdGhl
+IHRlcm0gJiMzOTt3aWtpJiMzOTsgd2l0aCAmIzM5O2luZm9ybWF0aW9uIHJlc291cmNlcyYjMzk7
+IGFuZCB0byBhZGFwdCB0aGUgY29udGFpbmluZyBzZW50ZW5jZXMgYWNjb3JkaW5nbHkuPGJyPgoK
+Cjxicj4KV2Ugd291bGQgYmUgZ3JhdGVmdWwgZm9yIGFueSBmZWVkYmFjayBhYm91dCBhbnkgYXNw
+ZWN0IG9mIHRoaXMsIHByZWZlcmFibHkgYnkgZS1tYWlsIHRvIHRoZSBsaXN0IGZvciBnZW5lcmFs
+IGRpc2N1c3Npb24sIG9yIGFsdGVybmF0aXZlbHkgdG8gPGEgaHJlZj0ibWFpbHRvOmJvYXJkQGRp
+Z2l0YWxtZWRpZXZhbGlzdC5vcmciIHRhcmdldD0iX2JsYW5rIj5ib2FyZEBkaWdpdGFsbWVkaWV2
+YWxpc3Qub3JnPC9hPiBvciBhbnkgbWVtYmVycyBvZiB0aGUgQm9hcmQgZGlyZWN0bHkuIFRoZSBu
+ZXh0IEJvYXJkIG1lZXRpbmcgaXMgNHBtIEdNVCsxIG9uIE1vbmRheSAyIEp1bmUsIGF0IHdoaWNo
+IHBvaW50IGFueSBjb21tZW50cyB3aWxsIGJlIGRpc2N1c3NlZCwgYW5kIGFueSBjaGFuZ2VzIGlu
+IHRoZSBCeWVsYXdzIHdpbGwgYmUgcHJlc2VudGVkIHRvIHRoZSBtZW1iZXJzaGlwIGZvciB2b3Rl
+IHNob3J0bHkgYWZ0ZXIgdGhhdCAoYXMgc3BlY2lmaWVkIGluIMKnOSBvZiB0aGUgQnllbGF3czog
+Jmx0OzxhIGhyZWY9Imh0dHA6Ly9kaWdpdGFsbWVkaWV2YWxpc3Qud29yZHByZXNzLmNvbS9hYm91
+dC9ieWVsYXdzLyNhbWVuZG1lbnRzIiB0YXJnZXQ9Il9ibGFuayI+aHR0cDovL2RpZ2l0YWxtZWRp
+ZXZhbGlzdC48dT48L3U+d29yZHByZXNzLmNvbS9hYm91dC9ieWVsYXdzLyM8dT48L3U+YW1lbmRt
+ZW50czwvYT4mZ3Q7KS48YnI+CgoKPGJyPgpUaGFuayB5b3UsIGFuZCB3ZSBsb29rIGZvcndhcmQg
+dG8gcmVjZWl2aW5nIHlvdXIgY29tbWVudHMuPGJyPgo8YnI+ClBldGVyIFN0b2tlcyAob24gYmVo
+YWxmIG9mIHRoZSBFeGVjdXRpdmUgQm9hcmQpPGJyPgo8YnI+Ci0tPGJyPgpEciBQZXRlciBTdG9r
+ZXM8YnI+ClNlbmlvciBMZWN0dXJlcjxicj4KRGVwYXJ0bWVudCBvZiBEaWdpdGFsIEh1bWFuaXRp
+ZXM8YnI+CktpbmcmIzM5O3MgQ29sbGVnZSBMb25kb248YnI+ClJvb20gMjE4LCAybmQgRmxvb3I8
+YnI+CjI2LTI5IERydXJ5IExhbmU8YnI+CkxvbmRvbiwgV0MyQiA1Ukw8YnI+ClRlbDogPGEgaHJl
+Zj0idGVsOiUyQjQ0JTIwJTI4MCUyOTIwJTIwNzg0OCUyMDI4MTMiIHZhbHVlPSIrNDQyMDc4NDgy
+ODEzIiB0YXJnZXQ9Il9ibGFuayI+KzQ0ICgwKTIwIDc4NDggMjgxMzwvYT48YnI+CjxhIGhyZWY9
+Im1haWx0bzpwZXRlci5zdG9rZXNAa2NsLmFjLnVrIiB0YXJnZXQ9Il9ibGFuayI+cGV0ZXIuc3Rv
+a2VzQGtjbC5hYy51azwvYT48YnI+Cjxicj4KPGJyPgpEaWdpdGFsIE1lZGlldmFsaXN0IC0tIMKg
+PGEgaHJlZj0iaHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnLyIgdGFyZ2V0PSJfYmxh
+bmsiPmh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Ljx1PjwvdT5vcmcvPC9hPjxicj4KSm91
+cm5hbDogPGEgaHJlZj0iaHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnL2pvdXJuYWwv
+IiB0YXJnZXQ9Il9ibGFuayI+aHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3QuPHU+PC91Pm9y
+Zy9qb3VybmFsLzwvYT48YnI+CkpvdXJuYWwgRWRpdG9yczogZWRpdG9ycyBfQVRfIDxhIGhyZWY9
+Imh0dHA6Ly9kaWdpdGFsbWVkaWV2YWxpc3Qub3JnIiB0YXJnZXQ9Il9ibGFuayI+ZGlnaXRhbG1l
+ZGlldmFsaXN0Lm9yZzwvYT48YnI+Ck5ld3M6IDxhIGhyZWY9Imh0dHA6Ly93d3cuZGlnaXRhbG1l
+ZGlldmFsaXN0Lm9yZy9uZXdzLyIgdGFyZ2V0PSJfYmxhbmsiPmh0dHA6Ly93d3cuZGlnaXRhbG1l
+ZGlldmFsaXN0Ljx1PjwvdT5vcmcvbmV3cy88L2E+PGJyPgpXaWtpOiA8YSBocmVmPSJodHRwOi8v
+d3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmcvd2lraS8iIHRhcmdldD0iX2JsYW5rIj5odHRwOi8v
+d3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC48dT48L3U+b3JnL3dpa2kvPC9hPjxicj4KVHdpdHRlcjog
+PGEgaHJlZj0iaHR0cDovL3R3aXR0ZXIuY29tL2RpZ2l0YWxtZWRpZXZhbCIgdGFyZ2V0PSJfYmxh
+bmsiPmh0dHA6Ly90d2l0dGVyLmNvbS88dT48L3U+ZGlnaXRhbG1lZGlldmFsPC9hPjxicj4KRmFj
+ZWJvb2s6IDxhIGhyZWY9Imh0dHA6Ly93d3cuZmFjZWJvb2suY29tL2dyb3VwLnBocD9naWQ9NDkz
+MjAzMTM3NjAiIHRhcmdldD0iX2JsYW5rIj5odHRwOi8vd3d3LmZhY2Vib29rLmNvbS9ncm91cC48
+dT48L3U+cGhwP2dpZD00OTMyMDMxMzc2MDwvYT48YnI+CkRpc2N1c3Npb24gbGlzdDogPGEgaHJl
+Zj0ibWFpbHRvOmRtLWxAdWxldGguY2EiIHRhcmdldD0iX2JsYW5rIj5kbS1sQHVsZXRoLmNhPC9h
+Pjxicj4KQ2hhbmdlIGxpc3Qgb3B0aW9uczogPGEgaHJlZj0iaHR0cDovL2xpc3RzZXJ2LnVsZXRo
+LmNhL21haWxtYW4vbGlzdGluZm8vZG0tbCIgdGFyZ2V0PSJfYmxhbmsiPmh0dHA6Ly9saXN0c2Vy
+di51bGV0aC5jYS88dT48L3U+bWFpbG1hbi9saXN0aW5mby9kbS1sPC9hPjxicj4KPGJyPgpEaWdp
+dGFsIE1lZGlldmFsaXN0IC0tIMKgPGEgaHJlZj0iaHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxp
+c3Qub3JnLyIgdGFyZ2V0PSJfYmxhbmsiPmh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Ljx1
+PjwvdT5vcmcvPC9hPjxicj4KSm91cm5hbDogPGEgaHJlZj0iaHR0cDovL3d3dy5kaWdpdGFsbWVk
+aWV2YWxpc3Qub3JnL2pvdXJuYWwvIiB0YXJnZXQ9Il9ibGFuayI+aHR0cDovL3d3dy5kaWdpdGFs
+bWVkaWV2YWxpc3QuPHU+PC91Pm9yZy9qb3VybmFsLzwvYT48YnI+CkpvdXJuYWwgRWRpdG9yczog
+ZWRpdG9ycyBfQVRfIDxhIGhyZWY9Imh0dHA6Ly9kaWdpdGFsbWVkaWV2YWxpc3Qub3JnIiB0YXJn
+ZXQ9Il9ibGFuayI+ZGlnaXRhbG1lZGlldmFsaXN0Lm9yZzwvYT48YnI+Ck5ld3M6IDxhIGhyZWY9
+Imh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy9uZXdzLyIgdGFyZ2V0PSJfYmxhbmsi
+Pmh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Ljx1PjwvdT5vcmcvbmV3cy88L2E+PGJyPgpX
+aWtpOiA8YSBocmVmPSJodHRwOi8vd3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmcvd2lraS8iIHRh
+cmdldD0iX2JsYW5rIj5odHRwOi8vd3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC48dT48L3U+b3JnL3dp
+a2kvPC9hPjxicj4KVHdpdHRlcjogPGEgaHJlZj0iaHR0cDovL3R3aXR0ZXIuY29tL2RpZ2l0YWxt
+ZWRpZXZhbCIgdGFyZ2V0PSJfYmxhbmsiPmh0dHA6Ly90d2l0dGVyLmNvbS88dT48L3U+ZGlnaXRh
+bG1lZGlldmFsPC9hPjxicj4KRmFjZWJvb2s6IDxhIGhyZWY9Imh0dHA6Ly93d3cuZmFjZWJvb2su
+Y29tL2dyb3VwLnBocD9naWQ9NDkzMjAzMTM3NjAiIHRhcmdldD0iX2JsYW5rIj5odHRwOi8vd3d3
+LmZhY2Vib29rLmNvbS9ncm91cC48dT48L3U+cGhwP2dpZD00OTMyMDMxMzc2MDwvYT48YnI+CkRp
+c2N1c3Npb24gbGlzdDogPGEgaHJlZj0ibWFpbHRvOmRtLWxAdWxldGguY2EiIHRhcmdldD0iX2Js
+YW5rIj5kbS1sQHVsZXRoLmNhPC9hPjxicj4KQ2hhbmdlIGxpc3Qgb3B0aW9uczogPGEgaHJlZj0i
+aHR0cDovL2xpc3RzZXJ2LnVsZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0tbCIgdGFyZ2V0PSJf
+YmxhbmsiPmh0dHA6Ly9saXN0c2Vydi51bGV0aC5jYS88dT48L3U+bWFpbG1hbi9saXN0aW5mby9k
+bS1sPC9hPjxicj4KPGJyPgo8L2Jsb2NrcXVvdGU+Cjxicj4KLS0gPGJyPgpEciBHYWJyaWVsIEJP
+REFSRDxicj4KUmVzZWFyY2hlciBpbiBEaWdpdGFsIEVwaWdyYXBoeTxicj4KPGJyPgpEaWdpdGFs
+IEh1bWFuaXRpZXM8YnI+CktpbmcmIzM5O3MgQ29sbGVnZSBMb25kb248YnI+CkJvcmlzIEthcmxv
+ZmYgQnVpbGRpbmc8YnI+CjI2LTI5IERydXJ5IExhbmU8YnI+CkxvbmRvbiBXQzJCIDVSTDxicj4K
+PGJyPgpUOiA8YSBocmVmPSJ0ZWw6JTJCNDQlMjAlMjgwJTI5MjAlMjA3ODQ4JTIwMTM4OCIgdmFs
+dWU9Iis0NDIwNzg0ODEzODgiIHRhcmdldD0iX2JsYW5rIj4rNDQgKDApMjAgNzg0OCAxMzg4PC9h
+Pjxicj4KRTogPGEgaHJlZj0ibWFpbHRvOmdhYnJpZWwuYm9kYXJkQGtjbC5hYy51ayIgdGFyZ2V0
+PSJfYmxhbmsiPmdhYnJpZWwuYm9kYXJkQGtjbC5hYy51azwvYT48YnI+Cjxicj4KPGEgaHJlZj0i
+aHR0cDovL3d3dy5kaWdpdGFsY2xhc3NpY2lzdC5vcmcvIiB0YXJnZXQ9Il9ibGFuayI+aHR0cDov
+L3d3dy5kaWdpdGFsY2xhc3NpY2lzdC48dT48L3U+b3JnLzwvYT48YnI+CjxhIGhyZWY9Imh0dHA6
+Ly93d3cuY3VycmVudGVwaWdyYXBoeS5vcmcvIiB0YXJnZXQ9Il9ibGFuayI+aHR0cDovL3d3dy5j
+dXJyZW50ZXBpZ3JhcGh5Ljx1PjwvdT5vcmcvPC9hPjxicj4KPGJyPgo8YnI+Cjxicj48YnI+LS0t
+LS0tLS0tLSBGb3J3YXJkZWQgbWVzc2FnZSAtLS0tLS0tLS0tPGJyPkZyb206wqBHcm92ZXIgWmlu
+biAmbHQ7PGEgaHJlZj0ibWFpbHRvOmdyb3Zlci56aW5uQG9iZXJsaW4uZWR1Ij5ncm92ZXIuemlu
+bkBvYmVybGluLmVkdTwvYT4mZ3Q7PGJyPlRvOsKgJmx0OzxhIGhyZWY9Im1haWx0bzpkbS1sQHVs
+ZXRoLmNhIj5kbS1sQHVsZXRoLmNhPC9hPiZndDs8YnI+Q2M6wqA8YnI+CgpEYXRlOsKgV2VkLCAy
+MSBNYXkgMjAxNCAxMToyMzowNyAtMDQwMDxicj5TdWJqZWN0OsKgUmU6IFtkbS1sXSBQcm9wb3Nl
+ZCBDaGFuZ2VzIHRvIERNPGJyPjxicj5UaGFua3MgdG8gUGV0ZXIgZm9yIHN1Y2ggYSBjbGVhciBw
+cmVzZW50YXRpb24gb2YgcHJvYmxlbXMgYW5kIHNvbHV0aW9ucy4gSSBzdXBwb3J0IGFsbCBzdWdn
+ZXN0aW9ucyBmcm9tIFBldGVyIGFuZCB0aGUgYm9hcmQuPGRpdj4KPGJyPgo8L2Rpdj48ZGl2PkJl
+c3Q8L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2Pkdyb3ZlcjwvZGl2PjxkaXY+PGJyPk9uIFdlZG5l
+c2RheSwgTWF5IDIxLCAyMDE0LCBHYWJyaWVsIEJvZGFyZCAmbHQ7PGEgaHJlZj0ibWFpbHRvOmdh
+YnJpZWwuYm9kYXJkQGtjbC5hYy51ayIgdGFyZ2V0PSJfYmxhbmsiPmdhYnJpZWwuYm9kYXJkQGtj
+bC5hYy51azwvYT4mZ3Q7IHdyb3RlOjxicj4KPGJsb2NrcXVvdGUgY2xhc3M9ImdtYWlsX3F1b3Rl
+IiBzdHlsZT0ibWFyZ2luOjAgMCAwIC44ZXg7Ym9yZGVyLWxlZnQ6MXB4ICNjY2Mgc29saWQ7cGFk
+ZGluZy1sZWZ0OjFleCI+SSYjMzk7ZCBiZSBoYXBweSB0byBzZWUgYSBsb3Qgb2YgQnl6YW50aW5l
+IGFuZCBvdGhlciBNZWRpYWV2YWwtaXNoIG1hdGVyaWFsIG1pZ3JhdGUgdG8gdGhlIERDIHdpa2kg
+aWYgZGVzaXJhYmxlLiBUaGUgREMgY29tbXVuaXR5IGFyZSBpbiBmYWN0IGp1c3Qgc3RhcnRpbmcg
+YSBzZXJpZXMgb2Ygd2lraSBzcHJpbnRzIHRvIGZ1cnRoZXIgaW1wcm92ZSBhbmQgYnVpbGQgb24g
+dGhlIGNvbnRlbnQgdGhlcmVpbi4gKFdlIHN5bXBhdGhpemUgd2l0aCB0aGUgcHJvYmxlbSBvZiBz
+cGFtLS13ZSBoYXZlIHJlc2lzdGVkIHRoaXMgb25seSBieSBtYWtpbmcgZWRpdGluZyB0aGUgd2lr
+aSBieSAmcXVvdDtpbnZpdGF0aW9uIG9ubHkmcXVvdDssIHdoaWNoIG1lYW5zIHRoYXQgYW4gYWRt
+aW4gaGFzIHRvIGNyZWF0ZSB5b3UgYW4gYWNjb3VudCB0byBnaXZlIHlvdSBldmVuIHRoZSBtb3N0
+IGJhc2ljIGVkaXRpbmcgcmlnaHRzLiBJdCYjMzk7cyBhIHBhaW4sIGFuZCBubyBkb3VidCBsaW1p
+dHMgcGFydGljaXBhdGlvbiB0byB0aG9zZSB3aG8gY2FuIGJlIGJvdGhlcmVkIHRvIGVtYWlsIHVz
+LCBidXQgdGhlIERNIGV4cGVyaWVuY2UgdGhhdCBvbmx5IGJvYXJkIG1lbWJlcnMgZG8gbXVjaCBl
+ZGl0aW5nIGFueXdheSBwcm9iYWJseSBzdWdnZXN0cyB0aGF0IHRoaXMgaXNuJiMzOTt0IGEgdHJh
+Z2VkeS4pPGJyPgoKCgo8YnI+CkkgZG9uJiMzOTt0IHRoaW5rIHdlJiMzOTtkIHdhbnQgdG8gc2Vl
+IHRoZSBEQyB3aWtpIGJlY29tZSBhIHNvcnQgb2YgZ2VuZXJpYyAmcXVvdDtEaWdpdGFsIFByZS1N
+b2Rlcm5pc3QmcXVvdDsgc2l0ZSwgdGhvdWdoLCBzbyBsZXQmIzM5O3MgdHJ5IHRvIGtlZXAgc29t
+ZSBiYXNpYyBjb2hlcmVuY2UuIEkgdGhpbmsgbXVjaCBvZiB0aGUgY29udGVudCBpbiBETSB3YXMg
+b2YgYSBkaWZmZXJlbnQgb3JkZXIgZnJvbSB0aGUgREMgd2lraSwgYW55d2F5Li4uPGJyPgoKCgo8
+YnI+ClF1aWNrIGNvbW1lbnQgcmUgdGhlIGpvdXJuYWw6IEkmIzM5O2QgdmVyeSBtdWNoIGhvcGUg
+dGhhdCB3aGVyZXZlciB0aGUgam91cm5hbCBtaWdyYXRlcyB0byAoYW5kIFJldnVlcy5vcmcgb3Ig
+c2ltaWxhciB3b3VsZCBzZWVtIHVzZWZ1bCkgdGhlIG9sZCwgdHJhbnNwYXJlbnQsIGh1bWFuLXJl
+YWRhYmxlLCAmcXVvdDtjb29sJnF1b3Q7IFVSTHMgcmVtYWluIGxpdmUgcGVybWFuZW50bHksIGV2
+ZW4gaWYgYXMgcmV3cml0ZXMvcmVkaXJlY3RzLiBJJiMzOTt2ZSBjaXRlZCBtYW55IG9mIHRob3Nl
+IHVybHMgaW4gZG96ZW5zIG9mIHBsYWNlcywgaW5jbHVkaW5nIGluIHByaW50ICghKS48YnI+CgoK
+Cjxicj4KT3RoZXJ3aXNlLCBJIGVuZG9yc2UgZXZlcnl0aGluZyBQZXRlciBzdWdnZXN0cyBiZWxv
+dy48YnI+Cjxicj4KQmVzdCw8YnI+Cjxicj4KR2FiYnk8YnI+Cjxicj4KT24gMjAxNC0wNS0yMSAx
+NDo0NSwgS2FsdmVzbWFraSwgSm9lbCB3cm90ZTo8YnI+CjxibG9ja3F1b3RlIHN0eWxlPSJtYXJn
+aW46MCAwIDAgLjhleDtib3JkZXItbGVmdDoxcHggI2NjYyBzb2xpZDtwYWRkaW5nLWxlZnQ6MWV4
+Ij4KTXkgcmVzZWFyY2ggaW4gbGF0ZSBhbnRpcXVpdHkgZmFsbHMgYmV0d2VlbiB0aGUgd29ybGRz
+IG9mIGNsYXNzaWNhbCBhbmQgbWVkaWV2YWwgc2Nob2xhcnNoaXAuIFNvIHdoZW4gSSBmaXJzdCBi
+ZWdhbiB0byBjb25zaWRlciB3aGljaCBXaWtpIHRvIGNvbnRyaWJ1dGUgdG8sIERNIG9yIHRoZSBE
+aWdpdGFsIENsYXNzaWNpc3QgKDxhIGhyZWY9Imh0dHA6Ly93aWtpLmRpZ2l0YWxjbGFzc2ljaXN0
+Lm9yZyIgdGFyZ2V0PSJfYmxhbmsiPndpa2kuZGlnaXRhbGNsYXNzaWNpc3Qub3JnPC9hPiksIEkg
+b3B0ZWQgZm9yIHRoZSBsYXR0ZXIgYmVjYXVzZSBpdCBoYWQgZ2FybmVyZWQgdGhlIG1vc3QgY29u
+dHJpYnV0aW9ucyBhbmQgd2FzIGF0IHRoZSB0aW1lIHRoZSBtb3N0IGFjdGl2ZS4gQnV0IEkgd29u
+ZGVyZWQgYXQgdGhlIHRpbWUgd2h5IG1lZGlldmFsaXN0cyBhbmQgY2xhc3NpY2lzdHMgcmVhbGx5
+IG5lZWRlZCBzZXBhcmF0ZSB3aWtpcyBhbnl3YXksIHNpbmNlIHRoZSBtYXRlcmlhbCB0aGF0IHdh
+cyBwb3B1bGF0aW5nIHRoZSBwYWdlcyBhcHBsaWVkIHRvIGFueSBmaWVsZCBzdHVkeWluZyBwcmUt
+bW9kZXJuaXR5LiBNYXRlcmlhbCBzdXJmYWNlcyBpbiBib3RoIHNwaGVyZXMgb2YgZXhwbG9yYXRp
+b24gdGhhdCBjb3VsZCBiZW5lZml0IGFueSBvdGhlci4gVGh1cywgdGhlICZxdW90O2NsYXNzaWNp
+c3QmcXVvdDsgaW4gJnF1b3Q7RGlnaXRhbCBDbGFzc2ljaXN0JnF1b3Q7IGlzIG5vdCByZXN0cmlj
+dGVkIHRvIHByZS0ybmQgYy4gbWF0ZXJpYWw7IHRoZWlyIHdpa2kgYWxyZWFkeSBoYXMgcXVpdGUg
+YSBsb3Qgb2YgbWVkaWV2YWwgYW5kIEJ5emFudGluZSBjb250ZW50IG9uIGl0Ljxicj4KCgoKPGJy
+PgpTbyBpbnN0ZWFkIG9mIGFsdGVyaW5nIHRoZSBieWxhd3MsIHdoeSBub3Qgc2ltcGx5IGhhdmUg
+RE0gZW5kb3JzZSBlaXRoZXIgdGhlIERDIHdpa2kgb3IgYSBjb21wYXJhYmxlIG9uZT8gRm9sbG93
+IHRoZSByb2FkIG9mIGNvbGxhYm9yYXRpb24/PGJyPgo8YnI+CkJlc3Qgd2lzaGVzLDxicj4KPGJy
+Pgpqazxicj4KLS08YnI+CkpvZWwgS2FsdmVzbWFraTxicj4KRWRpdG9yIGluIEJ5emFudGluZSBT
+dHVkaWVzPGJyPgpEdW1iYXJ0b24gT2Frczxicj4KMTcwMyAzMm5kIFN0LiBOVzxicj4KV2FzaGlu
+Z3RvbiwgREMgMjAwMDc8YnI+CjxhIGhyZWY9InRlbDolMjgyMDIlMjklMjAzMzktNjQzNSIgdmFs
+dWU9IisxMjAyMzM5NjQzNSIgdGFyZ2V0PSJfYmxhbmsiPigyMDIpIDMzOS02NDM1PC9hPjxicj4K
+PGJyPgpfX19fX19fX19fX19fX19fX19fX19fX19fX19fX188dT48L3U+X19fX19fX19fXzxicj4K
+RnJvbTogZG0tbCBbPGE+ZG0tbC1ib3VuY2VzQHVsZXRoLmNhPC9hPl0gb24gYmVoYWxmIG9mIFN0
+b2tlcywgUGV0ZXIgWzxhPnBldGVyLnN0b2tlc0BrY2wuYWMudWs8L2E+XTxicj4KU2VudDogV2Vk
+bmVzZGF5LCBNYXkgMjEsIDIwMTQgODowNSBBTTxicj4KVG86IDxhPmRtLWxAdWxldGguY2E8L2E+
+PGJyPgpTdWJqZWN0OiBbU1BBTSAtIEhlYWRlcl0gLSBbZG0tbF0gUHJvcG9zZWQgQ2hhbmdlcyB0
+byBETSAtIEVtYWlsIGZvdW5kIGluIHN1YmplY3Q8YnI+Cjxicj4KRGVhciBhbGwsPGJyPgo8YnI+
+CkkgYXBvbG9naXNlIGZvciB0aGUgbGVuZ3RoIG9mIHRoaXMgZS1tYWlsLCBidXQgSSB3cml0ZSBy
+ZWdhcmRpbmcgYSBzZXJpZXMgb2YgZmFpcmx5IGZ1bmRhbWVudGFsIGNoYW5nZXMgdG8gdGhlIERN
+IGluZnJhc3RydWN0dXJlIHRoYXQgd2UgaGF2ZSBiZWVuIHBsYW5uaW5nIGZvciBzb21lIHRpbWUg
+bm93LiBHaXZlbiB0aGUgc2NhbGUgb2YgdGhlc2UgY2hhbmdlcywgd2Ugb24gdGhlIERNIEJvYXJk
+IHRoaW5rIGl0IGlzIGltcG9ydGFudCB0byBleHBsYWluIHRoZXNlIGluIHNvbWUgZGV0YWlsIGFu
+ZCByZXF1ZXN0IGZlZWRiYWNrIGZyb20gdGhlIENvbW11bml0eSBiZWZvcmUgd2UgZ28gYWhlYWQg
+d2l0aCB0aGVtLiBUaGV5IHdpbGwgYWxzbyByZXF1aXJlIGEgY2hhbmdlIG9mIHRoZSBCeWVsYXdz
+LCBhbmQgc28gYWdhaW4gd2UgbmVlZCBpbnB1dCBmcm9tIHRoZSBDb21tdW5pdHkgZm9yIHRoaXMu
+PGJyPgoKCgo8YnI+ClVuZm9ydHVuYXRlbHkgdGhlIGV4aXN0aW5nIGluZnJhc3RydWN0dXJlIGhh
+cyBwcm92ZW4gdW5tYW5hZ2VhYmxlLiBUaGUgd2lraSBhbmQgbWFpbGluZy1saXN0IGhhdmUgYm90
+aCBiZWVuIHN1YmplY3QgdG8gbGFyZ2Utc2NhbGUgc3BhbSBhdHRhY2tzLCBzdWNoIHRoYXQgdGhl
+IHdpa2kgbm93IGNvbnRhaW5zIG1hbnkgbWFueSB0aG91c2FuZHMgb2YgYXJ0aWNsZXMsIG9ubHkg
+NzAgb3Igc28gb2Ygd2hpY2ggYXJlIGdlbnVpbmUuIFRoZSB3aWtpIGhhcyBhbHNvIGhhZCBhbG1v
+c3Qgbm8gYWN0aXZpdHkgYmV5b25kIHRoYXQgb2YgdGhlIEJvYXJkLCBhbmQgc28gaXQgaGFzIG5v
+dCBiZWVuIGRvaW5nIHRoZSBqb2IgdGhhdCB3ZSBoYWQgaG9wZWQuIEZ1cnRoZXJtb3JlIHRoZSB3
+ZWJzaXRlIGl0c2VsZiwgd2hpY2ggd2UgaGF2ZSBiZWVuIGhvc3RpbmcgYW5kIGNvZGluZyBvdXJz
+ZWx2ZXMgKHdpdGggc3Vic3RhbnRpYWwgaGVscCBmcm9tIEphbWVzIEN1bW1pbmdzIGFuZCBEYW4g
+T+KAmURvbm5lbGwpIGlzIGFsc28gcHJvdmluZyBpbmNyZWFzaW5nbHkgZGlmZmljdWx0IHRvIG1h
+bmFnZTogaXQgZGVwZW5kcyBvbiB0aGUgZ2VuZXJvc2l0eSBvZiBKYW1lcyBhbmQgRGFuIHRvIGhv
+c3QgYW5kIGFkbWluaXN0ZXIsIGV2ZW4gYWRkaW5nIG5ldyBwYWdlcyBpcyBub3QgdHJpdmlhbCwg
+YW5kIGl0IGhhcyBuZWVkZWQgYSBkcmFtYXRpYyBvdmVyaGF1bCBmb3Igc29tZSB0aW1lIGJ1dCB0
+byBkbyB0aGlzIHJlcXVpcmVzIG11Y2ggbW9yZSB0aW1lIGFuZCBlZmZvcnQgdGhhbiB3ZSBoYXZl
+IGJlZW4gYWJsZSB0byBtYW5hZ2UuIEZvciBhbGwgb2YgdGhlc2UgcmVhc29ucywgd2UgcHJvcG9z
+ZSB0aGUgZm9sbG93aW5nOjxicj4KCgoKPGJyPgoxLiBNb3ZpbmcgdGhlIHN0YXRpYyB3ZWJzaXRl
+IGZyb20gdGhlIGV4aXN0aW5nIGluZnJhc3RydWN0dXJlIChDb2Nvb24gKyBURUkgKyBjdXN0b20g
+WFNMVCkgdG8gYSBzdGFuZGFyZCBDTVMgKGN1cnJlbnRseSBXb3JkcHJlc3MpLjxicj4KMi4gQ2xv
+c2luZyBkb3duIHRoZSB3aWtpIGVudGlyZWx5IGFuZCByZXBsYWNpbmcgaXQgd2l0aCBhIGJsb2cu
+PGJyPgozLiBGb3IgdGhlIG1vbWVudCB3ZSBhcmUgbGVhdmluZyB0aGUgSm91cm5hbCBpbiBwbGFj
+ZSwgYnV0IHdlIGFyZSB2ZXJ5IGxpa2VseSB0byBtb3ZlIGl0IHRvIGEgZGVkaWNhdGVkIG9wZW4g
+am91cm5hbCBob3N0aW5nIG9mIHNvbWUgc29ydC4gV2UgaGF2ZSBiZWVuIGRpc2N1c3NpbmcgdGhp
+cyBpbiBzb21lIGRldGFpbCB3aXRoIFJldnVlcy5vcmcgYnV0IGFyZSBub3QgeWV0IGNvbW1pdHRl
+ZCB0byB0aGlzLjxicj4KCgoKPGJyPgpBcyBtb3N0IG9mIHlvdSBoYXZlIHJlYWxpc2VkLCB3ZSBo
+YXZlIGFscmVhZHkgc2V0IHVwIGEgV29yZHByZXNzIHZlcnNpb24gb2YgdGhlIHNpdGUgYXQgJmx0
+OzxhIGhyZWY9Imh0dHA6Ly9kaWdpdGFsbWVkaWV2YWxpc3Qud29yZHByZXNzLmNvbS8iIHRhcmdl
+dD0iX2JsYW5rIj5odHRwOi8vZGlnaXRhbG1lZGlldmFsaXN0Ljx1PjwvdT53b3JkcHJlc3MuY29t
+LzwvYT4mZ3Q7LCBhbmQgdGhpcyBpcyBhbHJlYWR5IHByb3ZpbmcgdG8gb3ZlcmNvbWUgdGhlIHBy
+b2JsZW1zIGxpc3RlZCBhYm92ZS4gVGhlIHByb3Bvc2FsIGlzIHRoZXJlZm9yZSB0byBtYWtlIHRo
+aXMgdGhlIERNIHNpdGUgYW5kIGNsb3NlIGRvd24gdGhlIG9sZCBvbmUsIGV4Y2VwdCBwZXJoYXBz
+IGZvciB0aGUgSm91cm5hbC48YnI+CgoKCjxicj4KSG93ZXZlciwgdGhlIGN1cnJlbnQgQnllbGF3
+cyByZXF1aXJlIHRoYXQgRE0gbWFpbnRhaW5zIGEgd2lraSAoc2VlICZsdDs8YSBocmVmPSJodHRw
+Oi8vZGlnaXRhbG1lZGlldmFsaXN0LndvcmRwcmVzcy5jb20vYWJvdXQvYnllbGF3cy8jd2lraSIg
+dGFyZ2V0PSJfYmxhbmsiPmh0dHA6Ly9kaWdpdGFsbWVkaWV2YWxpc3QuPHU+PC91PndvcmRwcmVz
+cy5jb20vYWJvdXQvYnllbGF3cy8jPHU+PC91Pndpa2k8L2E+Jmd0OykuIFRoZSBCb2FyZCBpcyB0
+aGVyZWZvcmUgbm90IGZyZWUgdG8gY2xvc2UgdGhlIGV4aXN0aW5nIHdpa2kgd2l0aG91dCBmaXJz
+dCBjaGFuZ2luZyB0aGUgQnllbGF3cy4gRXZlbiBpZiB3ZSBjaG9zZSB0byBrZWVwIHRoZSB3aWtp
+LCBob3dldmVyLCB0aGUgQm9hcmQgZmVlbHMgdGhhdCB0aGUgQnllbGF3cyBzaG91bGQgbm90IGxv
+Y2sgdXMgaW50byB1c2luZyBhbnkgc2luZ2xlIHRlY2hub2xvZ3ksIGFuZCBzbyB0aGV5IHNob3Vs
+ZCBiZSBjaGFuZ2VkIGV2ZW4gaWYgd2Uga2VlcCB0aGUgZXhpc3RpbmcgaW5mcmFzdHJ1Y3R1cmUu
+IFRoZSBkZXRhaWxzIG9mIHRoZSBwcm9wb3NlZCBjaGFuZ2VzIHRvIHRoZSBCeWVsYXdzIHdpbGwg
+YmUgcG9zdGVkIHNob3J0bHkgYXMgYSBzZXBhcmF0ZSBlLW1haWwgYW5kIG9uIHRoZSBuZXcgd2Vi
+c2l0ZSwgYnV0IGluIGVzc2VuY2Ugd2UgcHJvcG9zZSBzaW1wbHkgdG8gcmVwbGFjZSB0aGUgdGVy
+bSAmIzM5O3dpa2kmIzM5OyB3aXRoICYjMzk7aW5mb3JtYXRpb24gcmVzb3VyY2VzJiMzOTsgYW5k
+IHRvIGFkYXB0IHRoZSBjb250YWluaW5nIHNlbnRlbmNlcyBhY2NvcmRpbmdseS48YnI+CgoKCjxi
+cj4KV2Ugd291bGQgYmUgZ3JhdGVmdWwgZm9yIGFueSBmZWVkYmFjayBhYm91dCBhbnkgYXNwZWN0
+IG9mIHRoaXMsIHByZWZlcmFibHkgYnkgZS1tYWlsIHRvIHRoZSBsaXN0IGZvciBnZW5lcmFsIGRp
+c2N1c3Npb24sIG9yIGFsdGVybmF0aXZlbHkgdG8gPGE+Ym9hcmRAZGlnaXRhbG1lZGlldmFsaXN0
+Lm9yZzwvYT4gb3IgYW55IG1lbWJlcnMgb2YgdGhlIEJvYXJkIGRpcmVjdGx5LiBUaGUgbmV4dCBC
+b2FyZCBtZWV0aW5nIGlzIDRwbSBHTVQrMSBvbiBNb25kYXkgMiBKdW5lLCBhdCB3aGljaCBwb2lu
+dCBhbnkgY29tbWVudHMgd2lsbCBiZSBkaXNjdXNzZWQsIGFuZCBhbnkgY2hhbmdlcyBpbiB0aGUg
+QnllbGF3cyB3aWxsIGJlIHByZXNlbnRlZCB0byB0aGUgbWVtYmVyc2hpcCBmb3Igdm90ZSBzaG9y
+dGx5IGFmdGVyIHRoYXQgKGFzIHNwPC9ibG9ja3F1b3RlPgoKCgotLSA8YnI+CkRyIEdhYnJpZWwg
+Qk9EQVJEPGJyPgpSZXNlYXJjaGVyIGluIERpZ2l0YWwgRXBpZ3JhcGh5PGJyPgo8YnI+CkRpZ2l0
+YWwgSHVtYW5pdGllczxicj4KS2luZyYjMzk7cyBDb2xsZWdlIExvbmRvbjxicj4KQm9yaXMgS2Fy
+bG9mZiBCdWlsZGluZzxicj4KMjYtMjkgRHJ1cnkgTGFuZTxicj4KTG9uZG9uIFdDMkIgNVJMPGJy
+Pgo8YnI+ClQ6IDxhIGhyZWY9InRlbDolMkI0NCUyMCUyODAlMjkyMCUyMDc4NDglMjAxMzg4IiB2
+YWx1ZT0iKzQ0MjA3ODQ4MTM4OCIgdGFyZ2V0PSJfYmxhbmsiPis0NCAoMCkyMCA3ODQ4IDEzODg8
+L2E+PGJyPgpFOiA8YT5nYWJyaWVsLmJvZGFyZEBrY2wuYWMudWs8L2E+PGJyPgo8YnI+CjxhIGhy
+ZWY9Imh0dHA6Ly93d3cuZGlnaXRhbGNsYXNzaWNpc3Qub3JnLyIgdGFyZ2V0PSJfYmxhbmsiPmh0
+dHA6Ly93d3cuZGlnaXRhbGNsYXNzaWNpc3QuPHU+PC91Pm9yZy88L2E+PGJyPgo8YSBocmVmPSJo
+dHRwOi8vd3d3LmN1cnJlbnRlcGlncmFwaHkub3JnLyIgdGFyZ2V0PSJfYmxhbmsiPmh0dHA6Ly93
+d3cuY3VycmVudGVwaWdyYXBoeS48dT48L3U+b3JnLzwvYT48YnI+Cjxicj4KRGlnaXRhbCBNZWRp
+ZXZhbGlzdCAtLSDCoDxhIGhyZWY9Imh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy8i
+IHRhcmdldD0iX2JsYW5rIj5odHRwOi8vd3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC48dT48L3U+b3Jn
+LzwvYT48YnI+CkpvdXJuYWw6IDxhIGhyZWY9Imh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0
+Lm9yZy9qb3VybmFsLyIgdGFyZ2V0PSJfYmxhbmsiPmh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFs
+aXN0Ljx1PjwvdT5vcmcvam91cm5hbC88L2E+PGJyPgpKb3VybmFsIEVkaXRvcnM6IGVkaXRvcnMg
+X0FUXyA8YSBocmVmPSJodHRwOi8vZGlnaXRhbG1lZGlldmFsaXN0Lm9yZyIgdGFyZ2V0PSJfYmxh
+bmsiPmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmc8L2E+PGJyPgpOZXdzOiA8YSBocmVmPSJodHRwOi8v
+d3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmcvbmV3cy8iIHRhcmdldD0iX2JsYW5rIj5odHRwOi8v
+d3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC48dT48L3U+b3JnL25ld3MvPC9hPjxicj4KV2lraTogPGEg
+aHJlZj0iaHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnL3dpa2kvIiB0YXJnZXQ9Il9i
+bGFuayI+aHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3QuPHU+PC91Pm9yZy93aWtpLzwvYT48
+YnI+ClR3aXR0ZXI6IDxhIGhyZWY9Imh0dHA6Ly90d2l0dGVyLmNvbS9kaWdpdGFsbWVkaWV2YWwi
+IHRhcmdldD0iX2JsYW5rIj5odHRwOi8vdHdpdHRlci5jb20vPHU+PC91PmRpZ2l0YWxtZWRpZXZh
+bDwvYT48YnI+CkZhY2Vib29rOiA8YSBocmVmPSJodHRwOi8vd3d3LmZhY2Vib29rLmNvbS9ncm91
+cC5waHA/Z2lkPTQ5MzIwMzEzNzYwIiB0YXJnZXQ9Il9ibGFuayI+aHR0cDovL3d3dy5mYWNlYm9v
+ay5jb20vZ3JvdXAuPHU+PC91PnBocD9naWQ9NDkzMjAzMTM3NjA8L2E+PGJyPgpEaXNjdXNzaW9u
+IGxpc3Q6IDxhPmRtLWxAdWxldGguY2E8L2E+PGJyPgpDaGFuZ2UgbGlzdCBvcHRpb25zOiA8YSBo
+cmVmPSJodHRwOi8vbGlzdHNlcnYudWxldGguY2EvbWFpbG1hbi9saXN0aW5mby9kbS1sIiB0YXJn
+ZXQ9Il9ibGFuayI+aHR0cDovL2xpc3RzZXJ2LnVsZXRoLmNhLzx1PjwvdT5tYWlsbWFuL2xpc3Rp
+bmZvL2RtLWw8L2E+PGJyPgo8L2Jsb2NrcXVvdGU+PC9kaXY+PGJyPjxicj4tLSA8YnI+PGRpdiBk
+aXI9Imx0ciI+R3JvdmVyIFppbm48ZGl2PldpbGxpYW0gSC4gRGFuZm9ydGggUHJvZmVzc29yIG9m
+IFJlbGlnaW9uLCBlbWVyaXR1czwvZGl2PjxkaXY+Zm9ybWVyIEFzc29jaWF0ZSBEZWFuIG9mIHRo
+ZSBDb2xsZWdlIG9mIEFydHMgYW5kIFNjaWVuY2VzPC9kaXY+PGRpdj5PYmVybGluIENvbGxlZ2U8
+L2Rpdj48ZGl2PgoKCk9iZXJsaW4sIE9IIDQ0MDc0PC9kaXY+PGRpdj5ncm92ZXIuemlubiAoYXQp
+IDxhIGhyZWY9Imh0dHA6Ly9vYmVybGluLmVkdSIgdGFyZ2V0PSJfYmxhbmsiPm9iZXJsaW4uZWR1
+PC9hPjwvZGl2PjwvZGl2Pjxicj4KPGJyPkRpZ2l0YWwgTWVkaWV2YWxpc3QgLS0gwqA8YSBocmVm
+PSJodHRwOi8vd3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmcvIiB0YXJnZXQ9Il9ibGFuayI+aHR0
+cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnLzwvYT48YnI+CkpvdXJuYWw6IDxhIGhyZWY9
+Imh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy9qb3VybmFsLyIgdGFyZ2V0PSJfYmxh
+bmsiPmh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy9qb3VybmFsLzwvYT48YnI+Ckpv
+dXJuYWwgRWRpdG9yczogZWRpdG9ycyBfQVRfIDxhIGhyZWY9Imh0dHA6Ly9kaWdpdGFsbWVkaWV2
+YWxpc3Qub3JnIiB0YXJnZXQ9Il9ibGFuayI+ZGlnaXRhbG1lZGlldmFsaXN0Lm9yZzwvYT48YnI+
+Ck5ld3M6IDxhIGhyZWY9Imh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy9uZXdzLyIg
+dGFyZ2V0PSJfYmxhbmsiPmh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy9uZXdzLzwv
+YT48YnI+Cldpa2k6IDxhIGhyZWY9Imh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy93
+aWtpLyIgdGFyZ2V0PSJfYmxhbmsiPmh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy93
+aWtpLzwvYT48YnI+ClR3aXR0ZXI6IDxhIGhyZWY9Imh0dHA6Ly90d2l0dGVyLmNvbS9kaWdpdGFs
+bWVkaWV2YWwiIHRhcmdldD0iX2JsYW5rIj5odHRwOi8vdHdpdHRlci5jb20vZGlnaXRhbG1lZGll
+dmFsPC9hPjxicj4KRmFjZWJvb2s6IDxhIGhyZWY9Imh0dHA6Ly93d3cuZmFjZWJvb2suY29tL2dy
+b3VwLnBocD9naWQ9NDkzMjAzMTM3NjAiIHRhcmdldD0iX2JsYW5rIj5odHRwOi8vd3d3LmZhY2Vi
+b29rLmNvbS9ncm91cC5waHA/Z2lkPTQ5MzIwMzEzNzYwPC9hPjxicj4KRGlzY3Vzc2lvbiBsaXN0
+OiA8YSBocmVmPSJtYWlsdG86ZG0tbEB1bGV0aC5jYSI+ZG0tbEB1bGV0aC5jYTwvYT48YnI+CkNo
+YW5nZSBsaXN0IG9wdGlvbnM6IDxhIGhyZWY9Imh0dHA6Ly9saXN0c2Vydi51bGV0aC5jYS9tYWls
+bWFuL2xpc3RpbmZvL2RtLWwiIHRhcmdldD0iX2JsYW5rIj5odHRwOi8vbGlzdHNlcnYudWxldGgu
+Y2EvbWFpbG1hbi9saXN0aW5mby9kbS1sPC9hPjxicj48L2Jsb2NrcXVvdGU+PC9kaXY+PGJyPjwv
+ZGl2PjwvZGl2Pgo=

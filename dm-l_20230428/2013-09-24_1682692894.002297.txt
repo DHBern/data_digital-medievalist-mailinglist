@@ -1,0 +1,31 @@
+Subject: [dm-l] Biblissima - Overview of the XML editors for TEI / EAD surveyDear all,=20As part of the Biblissima project, we conducted a survey on user requirements=
+ for XML editors, especially for people encoding in TEI and/or EAD. Please fi=
+nd the overview of the results (in French) on the Biblissima documentation si=
+te : http://doc.biblissima-condorcet.fr/resultats-du-sondage-sur-les-editeurs=
+-xml-teiead=20With our grateful thanks,=20The Biblissima team=20[apologies for cross-posting]=20----------------------------=20
+Pool Biblissima=20
+Campus Condorcet=20
+3 rue de la Croix Faron=20
+93210 Saint-Denis La Plaine=20
++33 (0)1 55 93 75 34=20
+----------------------------=20PGh0bWw+PGhlYWQ+PHN0eWxlIHR5cGU9J3RleHQvY3NzJz5wIHsgbWFyZ2luOiAwOyB9PC9zdHls
+ZT48L2hlYWQ+PGJvZHk+PGRpdiBzdHlsZT0nZm9udC1mYW1pbHk6IGFyaWFsLGhlbHZldGljYSxz
+YW5zLXNlcmlmOyBmb250LXNpemU6IDEycHQ7IGNvbG9yOiAjMDAwMDAwJz5EZWFyIGFsbCw8YnI+
+Cjxicj4KQXMgcGFydCBvZiB0aGUgQmlibGlzc2ltYSBwcm9qZWN0LCB3ZSBjb25kdWN0ZWQgYSA8
+c3BhbiBjbGFzcz0iaWwiPnN1cnZleTwvc3Bhbj4gb24gdXNlciByZXF1aXJlbWVudHMgZm9yIFhN
+TCBlZGl0b3JzLCBlc3BlY2lhbGx5IGZvciBwZW9wbGUgZW5jb2RpbmcgaW4gPHNwYW4gY2xhc3M9
+ImlsIj5URUk8L3NwYW4+CiBhbmQvb3IgRUFELiBQbGVhc2UgZmluZCB0aGUgb3ZlcnZpZXcgb2Yg
+dGhlIHJlc3VsdHMgKGluIEZyZW5jaCkgb24gdGhlIEJpYmxpc3NpbWEgZG9jdW1lbnRhdGlvbiBz
+aXRlIDogPHNwYW4gY2xhc3M9Ik9iamVjdCIgaWQ9Ik9CSl9QUkVGSVhfRFdUMTI3MjVfY29tX3pp
+bWJyYV91cmwiPjxzcGFuIGNsYXNzPSJPYmplY3QiIGlkPSJPQkpfUFJFRklYX0RXVDQ2NV9jb21f
+emltYnJhX3VybCI+PGEgdGFyZ2V0PSJfYmxhbmsiIGhyZWY9Imh0dHA6Ly9kb2MuYmlibGlzc2lt
+YS1jb25kb3JjZXQuZnIvcmVzdWx0YXRzLWR1LXNvbmRhZ2Utc3VyLWxlcy1lZGl0ZXVycy14bWwt
+dGVpZWFkIj5odHRwOi8vZG9jLmJpYmxpc3NpbWEtY29uZG9yY2V0LmZyL3Jlc3VsdGF0cy1kdS1z
+b25kYWdlLXN1ci1sZXMtZWRpdGV1cnMteG1sLXRlaWVhZDwvYT48L3NwYW4+PC9zcGFuPiA8YnI+
+PGJyPgpXaXRoIG91ciBncmF0ZWZ1bCB0aGFua3MsPGJyPgo8YnI+ClRoZSBCaWJsaXNzaW1hIHRl
+YW08YnI+PGJyPlthcG9sb2dpZXMgZm9yIGNyb3NzLXBvc3RpbmddPGJyPjxicj4tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tPGJyPlBvb2wgQmlibGlzc2ltYTxicj4KQ2FtcHVzIENvbmRvcmNl
+dDxicj4KMyBydWUgZGUgbGEgQ3JvaXggRmFyb248YnI+CjkzMjEwIFNhaW50LURlbmlzIExhIFBs
+YWluZTxicj4KPGEgaHJlZj0idGVsOiUyQjMzJTIwJTI4MCUyOTElMjA1NSUyMDkzJTIwNzUlMjAz
+NCIgdGFyZ2V0PSJfYmxhbmsiPiszMyAoMCkxIDU1IDkzIDc1IDM0PC9hPjxicj4KLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLTwvZGl2PjwvYm9keT48L2h0bWw+

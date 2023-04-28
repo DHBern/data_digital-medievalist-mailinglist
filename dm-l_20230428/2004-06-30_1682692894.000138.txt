@@ -1,0 +1,21 @@
+Subject: Re: Multiple Stylesheets (was Re: [dm-l] Hacks: an example)Il lun, 2004-06-28 alle 19:59, Daniel O'Donnell ha scritto:
+> So is the feeling that providing, say, a stylesheet that handles the 
+> most important visually impaired demands (e.g. underlining and whatnot) 
+> is a good idea? Or should that also be left up to users, who may have 
+> unusual needs and well-developed personal stylesheets?Again, I think that catering for special needs, or simply trying to
+conform to accessibility guidelines, should be the developer's task, on
+the basis of the anticipated audience. And you can also see why imposing
+choices on the users is a bad idea: while you probably should keep in
+mind accessibility everywhere, it could make sense to propose a special
+version of your site (lighter on resources, for instance, or conceived
+for PDA browsers, etc.), but if you already have to propose a version
+for "normal", standard-complying browsers, and another for IE, this
+probably is not feasible, or would result in a scarcely maintainable
+site.Ciao-- Roberto Rosselli Del Turco	roberto.rossellidelturco at unito.it
+Dipartimento di Scienze		rosselli at ling.unipi.it
+del Linguaggio			Then spoke the thunder	DA
+Universita' di Torino		Datta: what have we given?  (TSE)
+ 
+  Hige sceal the heardra,     heorte the cenre,
+  mod sceal the mare,       the ure maegen litlath.  (Maldon 312-3)
+--===============7137079783962986766==--

@@ -1,0 +1,10 @@
+Subject: Re: [dm-l] MS-Internet Explorer 6 and standards based	computingHi all,Joris van.Zundert wrote:> Although I doubt whether IE parses better, I wonder why one wouldn't 
+> just parse server side and sending HTML? For those who want the very 
+> XML, a download button, FTP, or OAI solution may be provided. HTML is 
+> implemented fairly reliable over all browsers, is it? Or do I fail to 
+> see an important point for not parsing XML server side?There are three good reasons:-You have no XSL transformation tool on the server (and no control over 
+the server so you can't install one).-You need to deliver materials on CD-ROM or other standalone media for 
+people with no access to the Internet.-Your server is struggling with its load, and you'd like to offload some 
+of the work to clients.Cheers,
+Martin
+--===============6099693376592862460==--

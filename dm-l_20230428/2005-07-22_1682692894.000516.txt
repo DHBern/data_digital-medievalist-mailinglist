@@ -1,0 +1,14 @@
+Subject: Re: [dm-l] dtd/schema generators?Daniel Paul O'Donnell wrote:
+> Hi,
+> There used to be a very good (free) dtd and schema generator at
+> http://www.hitsw.com/xml_utilites/. This site allowed you to upload an
+> xml file and produce a rough Document Type Definition (dtd) or Schema
+> file that was suitable for tweaking. I used it as recently as this past
+> April, but it doesn't seem to be there any more. Does anybody know of an
+> equivalent?
+A summary of some of the ways to generate a schema from either a 
+document instance or a DTD can be found at:http://hacks.oreilly.com/pub/h/2106
+I would suggest using James Clark's 'trang' myself.
+Just back from falling off a big hill in Scotland,
+-James
+--===============3816743674493428383==--

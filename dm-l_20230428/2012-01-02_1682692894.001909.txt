@@ -1,0 +1,31 @@
+Subject: Re: [dm-l] Automatically scan two text corpora for quotationsThis is a "sequence alignment" problem,and a lot of relevant algorithms
+are used in bioinformatics. Your best help may come from such tools as
+Philomine, the ARTFL sequence alignment program, which has been used very
+successfully to trace the sources of Diderot's Encyclopedie.The ARTFL people are very helpful. Closer to home, there is the e-aqua
+group in Leipzig. Marco Büchler, a computer scientist there, has worked a
+lot on quotation tracking in Latin texts.There isn't, to my knowledge, a user-friendly tool that lets you do this
+stuff "out of the box." But it's a pretty well-understood problem with a
+lot of solutions. MMOn 1/2/12 10:35 AM, "Christian Schwaderer"
+_redacted_(a)student.uni-tuebingen.de> wrote:>Hi all,
+>
+>I have a research problem which I think could be easily solved by an
+>appropriate software - if there is such a software.
+>
+>The problem is: I want do know whether Hincmar of Reims quotes
+>somewhere in his many texts Aulus Cornelius Celsus. The texts form
+>both authors are all digital available (dMGH, Brepolis Text Bases,
+>Patrologia Latina Database), but is there any program that could
+>search all these texts for similarities in wording and find phrases
+>containing the same words - even in different word forms, order etc.?
+>I doubt it, but I hope there is such a tool I don't know yet.
+>
+>Digital Medievalist --  http://www.digitalmedievalist.org/
+>Journal: http://www.digitalmedievalist.org/journal/
+>Journal Editors: editors _AT_ digitalmedievalist.org
+>News: http://www.digitalmedievalist.org/news/
+>Wiki: http://www.digitalmedievalist.org/wiki/
+>Twitter: http://twitter.com/digitalmedieval
+>Facebook: http://www.facebook.com/group.php?gid=49320313760
+_redacted_(a)uleth.ca
+>Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+--===============3272453320279818513==--

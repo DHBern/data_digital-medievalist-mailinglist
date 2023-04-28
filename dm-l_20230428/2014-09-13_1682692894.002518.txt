@@ -1,0 +1,25 @@
+Subject: [dm-l] Filemaker Pro/MySQL/ODBC issueHI,I am currently migrating projects to a new server and have encountered diffic=
+ulties with the Thomas L. Gravell Watermarks Archive database. As is summariz=
+ed below, we have moved everything, confirmed that we can update a MySQL data=
+base on the new server using FMP and the ODBC driver, but the Gravell databas=
+e itself is not communicating, despite updating scripts, etc. Has anyone on t=
+he list had recent experience with these issues? One problem is that it has b=
+een awhile since we have had to deal with a migration and there are some rust=
+y chops! Thanks in advance for any insights. Here's the summary from my tech =
+person:- Moved the MySQL database to the new server. Verified that the database user=
+ has all privileges to manage the database.- Verified that Port 3306 is open so the database can be managed remotely.=20- Installed the Actual Technologies ODBC Driver, created a new DSN for the My=
+SQL database, and verified that we can connect to the MySQL database using OD=
+BC.- Updated the FileMaker Pro scripts to use the new DSN we created.I can confirm that the MySQL database can be modified in FileMaker Pro via OD=
+BC (I created a new FileMaker Pro database to test this), but something in th=
+e scripts in the existing FileMaker Pro database is preventing the ODBC conne=
+ction from working.
+_____________________________
+Dan Mosser
+_redacted_(a)vt.edu
+_____________________________
+Digital index of Middle English Verse (www.dimev.net)
+Thomas L. Gravell Watermark Archive (www.gravell.org)
+A Digital Catalogue of the Pre-1500 Manuscripts and Incunables of the Canterb=
+ury Tales (http://www.mossercatalogue.net)
+CV (http://mosser.vtcath.org)
+--===============1249330600911812362==--

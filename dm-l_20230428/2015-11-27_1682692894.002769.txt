@@ -1,0 +1,36 @@
+Subject: Re: [dm-l] small and large collectionsDear Matija,One example, which might or might not be the sort of thing you are 
+looking for, is the catalogue of papyri at the University of Michigan, 
+which is accessible both as a local catalogue 
+(http://quod.lib.umich.edu/a/apis?page=index) and through the 
+Papyri.info portal (http://papyri.info/search?COLLECTION=michigan). I 
+think the data/metadata contained by the two sites is more or less the 
+same, but Michigan may also maintain some catalogue data that isn't 
+included in the APIS format that Papyri.info serve.(I picked Michigan at random, but I'm sure at least a few of the other 
+contributing APIS institutions [http://papyri.info/browse/apis/] also 
+serve their collections locally as well as through Papyri.info.)Hope this helps,Gabby
+On 27/11/2015 14:39, Matija Ogrin wrote:
+> Dear Colleagues,
+>
+> Can you please give any example of a (small) digital collection of
+> manuscript or printed primary sources which, 1) operates as an
+> independent web-portal AND also 2) their data are in some way
+> included/aggregated into some large collection or digital library?
+>
+> I am particularly interested in what happens as data pass from a "small"
+> into a "large" digital resource? What kind of data are most suitable and
+> frequent object of such aggregation in our area of digital humanities:
+> only meta-data, or also msDesc, digital images, transcriptions? How
+> "visible" is the original small collection after the aggregation? Etc.
+>
+> I hope this is not an off-topic question. Thank you for any advice,
+>
+> Matija
+>-- 
+Dr Gabriel BODARD
+Reader in Digital ClassicsInstitute of Classical Studies
+University of London
+Senate House
+Malet Street
+London WC1E 7HU_redacted_(a)sas.ac.uk
+T: +44 (0)20 78628752http://digitalclassicist.org/
+--===============1704909068728191101==--

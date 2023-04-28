@@ -1,0 +1,29 @@
+Subject: Re: [dm-l] Character reference conversions: help?Il giorno mar, 05-10-2004 alle 12:53 -0600, Daniel O'Donnell ha scritto:
+> Digital Medievalist Journal (Inaugural Issue Fall 2004). Call for papers: h=
+ttp://www.digitalmedievalist.org/cfp.htm
+> ----------------
+> Hello all,
+> 	I need some advice on converting Unicode character references.=20
+> Currently, am encoding character references in what I believe is UCS-4=20
+> format (Universal Character Set). This means they look like this in my=20
+> source files:
+>=20
+> &#x1090;
+>=20
+> I want to import xhtml documents into Open Office, which seems to need=20
+> UTF-8 encoding (I don't know what UTF stands for). Does anybody know of=20
+> a filter that might do the conversions for me? Or have advice on using=20
+> open office (Windows version) with UCS-4 encoding?Can't you just copy and paste your documents from
+Mozilla/Firefox/whatever into OOo? I know, this looks too simple to be
+true ... but I just tried[1] and it works!Ciao[1] Picked up an xhtml file, inserted random decimal entities, loaded it
+in Epiphany (based on Mozilla's engine), copied text and pasted it into
+a unicode text editor: I ended up with unicode characters.--=20
+=20
+Roberto Rosselli Del Turco      roberto.rossellidelturco at unito.it
+Dipartimento di Scienze         rosselli at ling.unipi.it
+del Linguaggio                  Then spoke the thunder  DA
+Universita' di Torino           Datta: what have we given?  (TSE)
+=20
+  Hige sceal the heardra,     heorte the cenre,
+  mod sceal the mare,       the ure maegen litlath.  (Maldon 312-3)
+--===============7354611137625165963==--

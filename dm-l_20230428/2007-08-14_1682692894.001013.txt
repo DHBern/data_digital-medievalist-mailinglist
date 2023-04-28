@@ -1,0 +1,29 @@
+Subject: Re: [dm-l] Software for doing source criticismJames Ginther wrote:
+> Does anyone know of software that will aid in the comparison of two or=20
+> more texs in order to determine specific use of sources?  Ideally, the=20
+> software would recognize a base text and then compare it to other texts=20
+> that are potential sources.=20
+> =20
+> I know of software applications like Collate that does some basic=20
+> comparative work in order to create an apparatus criticus for critical=20
+> editions, or the "authorship" testing software that Peter Miliken at=20
+> Leeds developed using stylometrics (which only outputs statistical=20
+> results and no textual output).  But I am looking for software that=20
+> would compare units of texts (such as sentence to sentence) and=20
+> one--here's the kicker--that might also work with an inflected language=20
+> like Latin (so that it would include returns that differ only in terms=20
+> of case ending).   I know that's a tall order, and I have my doubts that=20
+> something like this exists--but I thought someone on this list might=20
+> know of some code kicking around in somebody's virtual basement.Hi Jim,Although they aren't really intended to do what you want (and I'm interested =
+in=20
+other answers you might receive), have you considered some of the corpus=20
+linguistic analysis software out there?  It would involve having all the=20
+sources, of course, in the corpus but then indicating that one text uses a=20
+particular text more than another seems fairly straightforward.  However, as =with all such things having the texts with detailed descriptive markup would =
+be=20
+even more beneficial.  I can't think of anything which would do exactly what =
+you=20
+want out-of-the-box.-James--=20
+Dr James Cummings, Oxford Text Archive, University of Oxford
+James dot Cummings at oucs dot ox dot ac dot uk
+--===============3582950401549751955==--

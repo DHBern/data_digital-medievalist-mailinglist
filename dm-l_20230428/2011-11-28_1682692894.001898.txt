@@ -1,0 +1,164 @@
+Subject: [dm-l] Interedition: CFP Bootcamp #9 - Text AnalysisPlease circulate widely...**CALL FOR PARTICIPATION**
+Interedition 9th Bootcamp: 11 - 14 January 2012
+------------------------------------------------Interedition invites all interested to participate in the upcoming
+Development Bootcamp, which will take place from 11 to 14 January at the
+Katholieke Universiteit Leuven.  The bootcamps are intended for the
+development of prototypes for interoperable 'microservice' tools for text
+scholarship and digital editions.The work of previous bootcamps have focused on collation, transcription,
+and annotation of texts; the goal of this bootcamp is to encourage the
+development of prototypes for text analysis. One of the most exciting
+directions of digital text edition lies in the question of the innovative
+lines of research that might be taken when all the textual data is
+digitized, annotated, collated, and checked. Examples include:* Discourse analysis
+* Linked data
+* Stemmatology
+* Stylistics
+* ...Each of these has been incorporated into one or more existing critical
+edition, but there are at present very few tools available that might be
+shared between edition projects. There is an acute need for better
+interoperability of the tools we have, and for the development of new tools
+that are designed from the ground up with the principles of
+interoperability in mind.During this bootcamp Interedition seeks to bring together scholars and
+developers working on any sort of text analysis for digital edition, to
+discuss their lines of approach, the tools they are using, and possible
+points of interoperability and interchange of data.  The primary objective,
+as with all bootcamps, is the development of prototypes that put the
+results of our discussions to work.  Another important objective is to give
+developers and early stage researchers an opportunity to meet and share
+their own projects and experiences with tool interoperability in textual
+scholarship.BURSARIES
+COST Action IS0704 'Interedition' is offering bursaries to early stage
+researchers (< Ph.D. + 10 years) and developers that want to join the
+bootcamp. The bursaries will consist of an =E2=82=AC100 per diem allowance and
+will cover full travel expenses, subject to caps. A limited number of
+bursaries are available to participants from outside the member countries
+of Interedition. [1]HOW TO APPLY
+If you are interested in participating in the bootcamp, please send an
+email to joris.van.zundert-AT-huygensinstituut.knaw.nl<http://joris.van.zunde=
+rt-at-huygensinstituut.knaw.nl/>by
+**14 December
+2011**. You don't need an intricate motivation, but please state your
+affiliation, and add a very short (certainly not more than 200 words)
+description of your current or related development work in digital
+humanities. Attendance throughout the bootcamp is expected, but in certain
+circumstances a shorter attendance may be negotiated.PROGRAM
+Wednesday 11 January
+ - Introduction of participants and projects
+ - Introduction to existing tools for text analysis
+ - Division of Tasks/Labor
+Thursday 12 January
+ - Hacking
+ - Documentation of the day's work
+Friday 13 January
+ - Hacking
+ - Documentation of the day's work
+Saturday 14 January
+ - Unconference on participants' projects
+ - Documentation
+ - Discussion of future possibilities for further cooperationABOUT INTEREDITION
+Interedition (http://www.interedition.eu) is a COST (http://www.cost.eu)
+funded Action whose objective is to further the interoperability of tools
+in digital scholarship. Interedition is raising the awareness of the
+importance of interoperability as a major driver for sustainability for
+tools and data in the field of digital scholarship. This activity takes two
+forms: firstly, meetings in which researchers in digital scholarship can
+network their knowledge of tools and the possibilities for their
+interoperability; secondly, the development of proof-of-concept
+implementations of interoperable tools. These proof-of-concept tools are
+the focus of Interedition's periodic bootcamps, which offer the open source
+development community in the humanities opportunities to meet, network, and
+exchange knowledge.ABOUT THE ORGANIZERS
+The bootcamp and think tank are organized through the kind efforts of:
+ - Caroline Mac=C3=A9 (KU Leuven)
+ - Tara Andrews (KU Leuven)
+[1] Member countries include Belgium, Bulgaria, Denmark, Finland, F.Y.R.
+Macedonia, France, Germany, Greece, Ireland, Israel, Italy, Netherlands,
+Norway, Poland, Spain, and the United Kingdom.UGxlYXNlIGNpcmN1bGF0ZSB3aWRlbHkuLi48YnI+PGJyPioqQ0FMTCBGT1IgUEFSVElDSVBBVElP
+TioqPGJyPgpJbnRlcmVkaXRpb24gOXRoIEJvb3RjYW1wOiAxMSAtIDE0IEphbnVhcnkgMjAxMjxi
+cj4KLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tPGJyPjxk
+aXYgaWQ9Ijp5byI+Cjxicj4KSW50ZXJlZGl0aW9uIGludml0ZXMgYWxsIGludGVyZXN0ZWQgdG8g
+cGFydGljaXBhdGUgaW4gdGhlIHVwY29taW5nPGJyPgpEZXZlbG9wbWVudCBCb290Y2FtcCwgd2hp
+Y2ggd2lsbCB0YWtlIHBsYWNlIGZyb20gMTEgdG8gMTQgSmFudWFyeSBhdCB0aGU8YnI+CkthdGhv
+bGlla2UgVW5pdmVyc2l0ZWl0IExldXZlbi4goFRoZSBib290Y2FtcHMgYXJlIGludGVuZGVkIGZv
+ciB0aGU8YnI+CmRldmVsb3BtZW50IG9mIHByb3RvdHlwZXMgZm9yIGludGVyb3BlcmFibGUgJiMz
+OTttaWNyb3NlcnZpY2UmIzM5OyB0b29scyBmb3IgdGV4dDxicj4Kc2Nob2xhcnNoaXAgYW5kIGRp
+Z2l0YWwgZWRpdGlvbnMuPGJyPgo8YnI+ClRoZSB3b3JrIG9mIHByZXZpb3VzIGJvb3RjYW1wcyBo
+YXZlIGZvY3VzZWQgb24gY29sbGF0aW9uLCB0cmFuc2NyaXB0aW9uLDxicj4KYW5kIGFubm90YXRp
+b24gb2YgdGV4dHM7IHRoZSBnb2FsIG9mIHRoaXMgYm9vdGNhbXAgaXMgdG8gZW5jb3VyYWdlIHRo
+ZTxicj4KZGV2ZWxvcG1lbnQgb2YgcHJvdG90eXBlcyBmb3IgdGV4dCBhbmFseXNpcy4gT25lIG9m
+IHRoZSBtb3N0IGV4Y2l0aW5nPGJyPgpkaXJlY3Rpb25zIG9mIGRpZ2l0YWwgdGV4dCBlZGl0aW9u
+IGxpZXMgaW4gdGhlIHF1ZXN0aW9uIG9mIHRoZSBpbm5vdmF0aXZlPGJyPgpsaW5lcyBvZiByZXNl
+YXJjaCB0aGF0IG1pZ2h0IGJlIHRha2VuIHdoZW4gYWxsIHRoZSB0ZXh0dWFsIGRhdGEgaXM8YnI+
+CmRpZ2l0aXplZCwgYW5ub3RhdGVkLCBjb2xsYXRlZCwgYW5kIGNoZWNrZWQuIEV4YW1wbGVzIGlu
+Y2x1ZGU6PGJyPgo8YnI+CiogRGlzY291cnNlIGFuYWx5c2lzPGJyPgoqIExpbmtlZCBkYXRhPGJy
+PgoqIFN0ZW1tYXRvbG9neTxicj4KKiBTdHlsaXN0aWNzPGJyPgoqIC4uLjxicj4KPGJyPgpFYWNo
+IG9mIHRoZXNlIGhhcyBiZWVuIGluY29ycG9yYXRlZCBpbnRvIG9uZSBvciBtb3JlIGV4aXN0aW5n
+IGNyaXRpY2FsPGJyPgplZGl0aW9uLCBidXQgdGhlcmUgYXJlIGF0IHByZXNlbnQgdmVyeSBmZXcg
+dG9vbHMgYXZhaWxhYmxlIHRoYXQgbWlnaHQgYmU8YnI+CnNoYXJlZCBiZXR3ZWVuIGVkaXRpb24g
+cHJvamVjdHMuIFRoZXJlIGlzIGFuIGFjdXRlIG5lZWQgZm9yIGJldHRlcjxicj4KaW50ZXJvcGVy
+YWJpbGl0eSBvZiB0aGUgdG9vbHMgd2UgaGF2ZSwgYW5kIGZvciB0aGUgZGV2ZWxvcG1lbnQgb2Yg
+bmV3IHRvb2xzPGJyPgp0aGF0IGFyZSBkZXNpZ25lZCBmcm9tIHRoZSBncm91bmQgdXAgd2l0aCB0
+aGUgcHJpbmNpcGxlcyBvZjxicj4KaW50ZXJvcGVyYWJpbGl0eSBpbiBtaW5kLjxicj4KPGJyPgpE
+dXJpbmcgdGhpcyBib290Y2FtcCBJbnRlcmVkaXRpb24gc2Vla3MgdG8gYnJpbmcgdG9nZXRoZXIg
+c2Nob2xhcnMgYW5kPGJyPgpkZXZlbG9wZXJzIHdvcmtpbmcgb24gYW55IHNvcnQgb2YgdGV4dCBh
+bmFseXNpcyBmb3IgZGlnaXRhbCBlZGl0aW9uLCB0bzxicj4KZGlzY3VzcyB0aGVpciBsaW5lcyBv
+ZiBhcHByb2FjaCwgdGhlIHRvb2xzIHRoZXkgYXJlIHVzaW5nLCBhbmQgcG9zc2libGU8YnI+CnBv
+aW50cyBvZiBpbnRlcm9wZXJhYmlsaXR5IGFuZCBpbnRlcmNoYW5nZSBvZiBkYXRhLiCgVGhlIHBy
+aW1hcnkgb2JqZWN0aXZlLDxicj4KYXMgd2l0aCBhbGwgYm9vdGNhbXBzLCBpcyB0aGUgZGV2ZWxv
+cG1lbnQgb2YgcHJvdG90eXBlcyB0aGF0IHB1dCB0aGU8YnI+CnJlc3VsdHMgb2Ygb3VyIGRpc2N1
+c3Npb25zIHRvIHdvcmsuIKBBbm90aGVyIGltcG9ydGFudCBvYmplY3RpdmUgaXMgdG8gZ2l2ZTxi
+cj4KZGV2ZWxvcGVycyBhbmQgZWFybHkgc3RhZ2UgcmVzZWFyY2hlcnMgYW4gb3Bwb3J0dW5pdHkg
+dG8gbWVldCBhbmQgc2hhcmU8YnI+CnRoZWlyIG93biBwcm9qZWN0cyBhbmQgZXhwZXJpZW5jZXMg
+d2l0aCB0b29sIGludGVyb3BlcmFiaWxpdHkgaW4gdGV4dHVhbDxicj4Kc2Nob2xhcnNoaXAuPGJy
+Pgo8YnI+CkJVUlNBUklFUzxicj4KQ09TVCBBY3Rpb24gSVMwNzA0ICYjMzk7SW50ZXJlZGl0aW9u
+JiMzOTsgaXMgb2ZmZXJpbmcgYnVyc2FyaWVzIHRvIGVhcmx5IHN0YWdlPGJyPgpyZXNlYXJjaGVy
+cyAoJmx0OyBQaC5ELiArIDEwIHllYXJzKSBhbmQgZGV2ZWxvcGVycyB0aGF0IHdhbnQgdG8gam9p
+biB0aGU8YnI+CmJvb3RjYW1wLiBUaGUgYnVyc2FyaWVzIHdpbGwgY29uc2lzdCBvZiBhbiCAMTAw
+IHBlciBkaWVtIGFsbG93YW5jZSBhbmQ8YnI+CndpbGwgY292ZXIgZnVsbCB0cmF2ZWwgZXhwZW5z
+ZXMsIHN1YmplY3QgdG8gY2Fwcy4gQSBsaW1pdGVkIG51bWJlciBvZjxicj4KYnVyc2FyaWVzIGFy
+ZSBhdmFpbGFibGUgdG8gcGFydGljaXBhbnRzIGZyb20gb3V0c2lkZSB0aGUgbWVtYmVyIGNvdW50
+cmllczxicj4Kb2YgSW50ZXJlZGl0aW9uLiBbMV08YnI+Cjxicj4KSE9XIFRPIEFQUExZPGJyPgpJ
+ZiB5b3UgYXJlIGludGVyZXN0ZWQgaW4gcGFydGljaXBhdGluZyBpbiB0aGUgYm9vdGNhbXAsIHBs
+ZWFzZSBzZW5kIGFuPGJyPgplbWFpbCB0byA8YSBocmVmPSJodHRwOi8vam9yaXMudmFuLnp1bmRl
+cnQtYXQtaHV5Z2Vuc2luc3RpdHV1dC5rbmF3Lm5sLyIgdGFyZ2V0PSJfYmxhbmsiPmpvcmlzLnZh
+bi56dW5kZXJ0LUFULWh1eWdlbnNpbnN0aXR1dXQua25hdy5ubDwvYT4gYnkgKioxNCBEZWNlbWJl
+cjxicj4KMjAxMSoqLiBZb3UgZG9uJiMzOTt0IG5lZWQgYW4gaW50cmljYXRlIG1vdGl2YXRpb24s
+IGJ1dCBwbGVhc2Ugc3RhdGUgeW91cjxicj4KYWZmaWxpYXRpb24sIGFuZCBhZGQgYSB2ZXJ5IHNo
+b3J0IChjZXJ0YWlubHkgbm90IG1vcmUgdGhhbiAyMDAgd29yZHMpPGJyPgpkZXNjcmlwdGlvbiBv
+ZiB5b3VyIGN1cnJlbnQgb3IgcmVsYXRlZCBkZXZlbG9wbWVudCB3b3JrIGluIGRpZ2l0YWw8YnI+
+Cmh1bWFuaXRpZXMuIEF0dGVuZGFuY2UgdGhyb3VnaG91dCB0aGUgYm9vdGNhbXAgaXMgZXhwZWN0
+ZWQsIGJ1dCBpbiBjZXJ0YWluPGJyPgpjaXJjdW1zdGFuY2VzIGEgc2hvcnRlciBhdHRlbmRhbmNl
+IG1heSBiZSBuZWdvdGlhdGVkLjxicj4KPGJyPgpQUk9HUkFNPGJyPgpXZWRuZXNkYXkgMTEgSmFu
+dWFyeTxicj4KoC0gSW50cm9kdWN0aW9uIG9mIHBhcnRpY2lwYW50cyBhbmQgcHJvamVjdHM8YnI+
+CqAtIEludHJvZHVjdGlvbiB0byBleGlzdGluZyB0b29scyBmb3IgdGV4dCBhbmFseXNpczxicj4K
+oC0gRGl2aXNpb24gb2YgVGFza3MvTGFib3I8YnI+ClRodXJzZGF5IDEyIEphbnVhcnk8YnI+CqAt
+IEhhY2tpbmc8YnI+CqAtIERvY3VtZW50YXRpb24gb2YgdGhlIGRheSYjMzk7cyB3b3JrPGJyPgpG
+cmlkYXkgMTMgSmFudWFyeTxicj4KoC0gSGFja2luZzxicj4KoC0gRG9jdW1lbnRhdGlvbiBvZiB0
+aGUgZGF5JiMzOTtzIHdvcms8YnI+ClNhdHVyZGF5IDE0IEphbnVhcnk8YnI+CqAtIFVuY29uZmVy
+ZW5jZSBvbiBwYXJ0aWNpcGFudHMmIzM5OyBwcm9qZWN0czxicj4KoC0gRG9jdW1lbnRhdGlvbjxi
+cj4KoC0gRGlzY3Vzc2lvbiBvZiBmdXR1cmUgcG9zc2liaWxpdGllcyBmb3IgZnVydGhlciBjb29w
+ZXJhdGlvbjxicj4KPGJyPgpBQk9VVCBJTlRFUkVESVRJT048YnI+CkludGVyZWRpdGlvbiAoPGEg
+aHJlZj0iaHR0cDovL3d3dy5pbnRlcmVkaXRpb24uZXUvIiB0YXJnZXQ9Il9ibGFuayI+aHR0cDov
+L3d3dy5pbnRlcmVkaXRpb24uZXU8L2E+KSBpcyBhIENPU1QgKDxhIGhyZWY9Imh0dHA6Ly93d3cu
+Y29zdC5ldS8iIHRhcmdldD0iX2JsYW5rIj5odHRwOi8vd3d3LmNvc3QuZXU8L2E+KTxicj4KZnVu
+ZGVkIEFjdGlvbiB3aG9zZSBvYmplY3RpdmUgaXMgdG8gZnVydGhlciB0aGUgaW50ZXJvcGVyYWJp
+bGl0eSBvZiB0b29sczxicj4KaW4gZGlnaXRhbCBzY2hvbGFyc2hpcC4gSW50ZXJlZGl0aW9uIGlz
+IHJhaXNpbmcgdGhlIGF3YXJlbmVzcyBvZiB0aGU8YnI+CmltcG9ydGFuY2Ugb2YgaW50ZXJvcGVy
+YWJpbGl0eSBhcyBhIG1ham9yIGRyaXZlciBmb3Igc3VzdGFpbmFiaWxpdHkgZm9yPGJyPgp0b29s
+cyBhbmQgZGF0YSBpbiB0aGUgZmllbGQgb2YgZGlnaXRhbCBzY2hvbGFyc2hpcC4gVGhpcyBhY3Rp
+dml0eSB0YWtlcyB0d288YnI+CmZvcm1zOiBmaXJzdGx5LCBtZWV0aW5ncyBpbiB3aGljaCByZXNl
+YXJjaGVycyBpbiBkaWdpdGFsIHNjaG9sYXJzaGlwIGNhbjxicj4KbmV0d29yayB0aGVpciBrbm93
+bGVkZ2Ugb2YgdG9vbHMgYW5kIHRoZSBwb3NzaWJpbGl0aWVzIGZvciB0aGVpcjxicj4KaW50ZXJv
+cGVyYWJpbGl0eTsgc2Vjb25kbHksIHRoZSBkZXZlbG9wbWVudCBvZiBwcm9vZi1vZi1jb25jZXB0
+PGJyPgppbXBsZW1lbnRhdGlvbnMgb2YgaW50ZXJvcGVyYWJsZSB0b29scy4gVGhlc2UgcHJvb2Yt
+b2YtY29uY2VwdCB0b29scyBhcmU8YnI+CnRoZSBmb2N1cyBvZiBJbnRlcmVkaXRpb24mIzM5O3Mg
+cGVyaW9kaWMgYm9vdGNhbXBzLCB3aGljaCBvZmZlciB0aGUgb3BlbiBzb3VyY2U8YnI+CmRldmVs
+b3BtZW50IGNvbW11bml0eSBpbiB0aGUgaHVtYW5pdGllcyBvcHBvcnR1bml0aWVzIHRvIG1lZXQs
+IG5ldHdvcmssIGFuZDxicj4KZXhjaGFuZ2Uga25vd2xlZGdlLjxicj4KPGJyPgpBQk9VVCBUSEUg
+T1JHQU5JWkVSUzxicj4KVGhlIGJvb3RjYW1wIGFuZCB0aGluayB0YW5rIGFyZSBvcmdhbml6ZWQg
+dGhyb3VnaCB0aGUga2luZCBlZmZvcnRzIG9mOjxicj4KoC0gQ2Fyb2xpbmUgTWFj6SAoS1UgTGV1
+dmVuKTxicj4KoC0gVGFyYSBBbmRyZXdzIChLVSBMZXV2ZW4pPGJyPgo8YnI+Cjxicj4KWzFdIE1l
+bWJlciBjb3VudHJpZXMgaW5jbHVkZSBCZWxnaXVtLCBCdWxnYXJpYSwgRGVubWFyaywgRmlubGFu
+ZCwgRi5ZLlIuPGJyPgpNYWNlZG9uaWEsIEZyYW5jZSwgR2VybWFueSwgR3JlZWNlLCBJcmVsYW5k
+LCBJc3JhZWwsIEl0YWx5LCBOZXRoZXJsYW5kcyw8YnI+Ck5vcndheSwgUG9sYW5kLCBTcGFpbiwg
+YW5kIHRoZSBVbml0ZWQgS2luZ2RvbS48L2Rpdj48YnIgY2xlYXI9ImFsbCI+PGJyPgo=

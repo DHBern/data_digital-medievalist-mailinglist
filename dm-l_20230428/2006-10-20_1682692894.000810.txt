@@ -1,0 +1,16 @@
+Subject: Re: [dm-l] Personal Web site maintenanceBill White wrote:
+>=20
+> I haven't used it, but it may be worth investigating.  I'd never heard
+> of the strangely-named tools they're using - moodle, elgg, drupal.I know a number of people who use moodle and like it.  It is an online
+courseware CMS so has features for the overall design of sites, enrolment of
+students, etc. but also course-level modules for: assignments, chatting, voti=
+ng,
+forums, glossaries, lessons, quizzes, resource delivery, surveys, wikis,
+workshops, etc. etc.See http://docs.moodle.org/en/Features.Moreover, those of you using ubuntu or debian linux who have TEI package
+repository in your sources list (see http://tei.oucs.ox.ac.uk/teideb/ ) can j=
+ust
+'sudo apt-get install moodle' to get it installed and set up.Best,
+-James--=20
+Dr James Cummings, Oxford Text Archive, University of Oxford
+James dot Cummings at oucs dot ox dot ac dot uk
+--===============5205144392545981354==--

@@ -1,0 +1,9 @@
+Subject: [dm-l] Junicode semi-finalI can now say with a fair amount of confidence that the next version of
+Junicode, 0.6.5, is in stable condition. That is, it installs correctly
+under Windows, Linux and the latest version of OS X, and all the
+programming works, to the extent that I have been able to test it. Get
+it at this URL:http://www.engl.virginia.edu/OE/junicode/junicode.htmlClick the "Beta" link at the very bottom. I will not promote this to
+official release status until I have brought the documentation up to
+date, but the fonts themselves should not change.As has generally been the case, the Regular style is much fuller than
+the bold, italic, and bold italic. When I get urgent requests for bold
+or italic characters to match the regular ones, I do try to comply.Many thanks to Mark Stansbury for stress-testing under OS X.Peter Baker

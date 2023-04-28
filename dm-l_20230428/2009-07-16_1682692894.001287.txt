@@ -1,0 +1,55 @@
+Subject: Re: [dm-l] RDF in digital medieval studies?Dot,Fine Rolls Henry the III uses RDF-OWL for storing prosopographical 
+information (names, places, subjects): seeArianna Ciula, Paul Spence, and José Miguel Vieira
+Expressing complex associations in medieval historical documents: the 
+Henry III Fine Rolls Project
+Lit Linguist Computing, September 2008; 23: 311 - 325.Don't know if is this what you meant for metadata, though.ElenaDot Porter wrote:
+> Hello everyone,
+>
+> I'm looking for examples of projects in the digital humanities that
+> use RDF for storing metadata. Does anyone on the list have examples of
+> projects in the digital medieval studies that are using RDF?
+>
+> Many thanks,
+> Dot
+>
+>   -- 
+Dr Elena Pierazzo
+Research Associate
+Centre for Computing in the Humanities
+King's College London
+26-29 Drury Lane
+London WC2B 5RLPhone: 0207-848-1949
+Fax: 0207-848-2980
+_redacted_(a)kcl.ac.uk
+www.kcl.ac.uk
+--===============7648325196254895286==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"
+MIME-Version: 1.0PCFET0NUWVBFIGh0bWwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMDEgVHJhbnNpdGlvbmFs
+Ly9FTiI+CjxodG1sPgo8aGVhZD4KICA8bWV0YSBjb250ZW50PSJ0ZXh0L2h0bWw7Y2hhcnNldD1J
+U08tODg1OS0xIiBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiPgo8L2hlYWQ+Cjxib2R5IGJnY29s
+b3I9IiNmZmZmZmYiIHRleHQ9IiMwMDAwMDAiPgo8Zm9udCBmYWNlPSJNb25hY28iPkRvdCw8YnI+
+Cjxicj4KRmluZSBSb2xscyBIZW5yeSB0aGUgSUlJIHVzZXMgUkRGLU9XTCBmb3Igc3RvcmluZyBw
+cm9zb3BvZ3JhcGhpY2FsCmluZm9ybWF0aW9uIChuYW1lcywgcGxhY2VzLCBzdWJqZWN0cyk6IHNl
+ZTxicj4KPGJyPgpBcmlhbm5hIENpdWxhLCBQYXVsIFNwZW5jZSwgYW5kIEpvcyZlYWN1dGU7IE1p
+Z3VlbCBWaWVpcmE8YnI+CkV4cHJlc3NpbmcgY29tcGxleCBhc3NvY2lhdGlvbnMgaW4gbWVkaWV2
+YWwgaGlzdG9yaWNhbCBkb2N1bWVudHM6IHRoZQpIZW5yeSBJSUkgRmluZSBSb2xscyBQcm9qZWN0
+PGJyPgpMaXQgTGluZ3Vpc3QgQ29tcHV0aW5nLCBTZXB0ZW1iZXIgMjAwODsgMjM6IDMxMSAtIDMy
+NS4gPGJyPgo8YnI+CkRvbid0IGtub3cgaWYgaXMgdGhpcyB3aGF0IHlvdSBtZWFudCBmb3IgbWV0
+YWRhdGEsIHRob3VnaC48YnI+Cjxicj4KRWxlbmE8YnI+CjwvZm9udD48YnI+CkRvdCBQb3J0ZXIg
+d3JvdGU6CjxibG9ja3F1b3RlCiBjaXRlPSJtaWQ6OTZmM2RmNjQwOTA3MTYwMTE3amVhNGVkNTFn
+NDJhYjYzYzNmZjhlYTg2OEBtYWlsLmdtYWlsLmNvbSIKIHR5cGU9ImNpdGUiPgogIDxwcmUgd3Jh
+cD0iIj5IZWxsbyBldmVyeW9uZSwKCkknbSBsb29raW5nIGZvciBleGFtcGxlcyBvZiBwcm9qZWN0
+cyBpbiB0aGUgZGlnaXRhbCBodW1hbml0aWVzIHRoYXQKdXNlIFJERiBmb3Igc3RvcmluZyBtZXRh
+ZGF0YS4gRG9lcyBhbnlvbmUgb24gdGhlIGxpc3QgaGF2ZSBleGFtcGxlcyBvZgpwcm9qZWN0cyBp
+biB0aGUgZGlnaXRhbCBtZWRpZXZhbCBzdHVkaWVzIHRoYXQgYXJlIHVzaW5nIFJERj8KCk1hbnkg
+dGhhbmtzLApEb3QKCiAgPC9wcmU+CjwvYmxvY2txdW90ZT4KPGJyPgo8cHJlIGNsYXNzPSJtb3ot
+c2lnbmF0dXJlIiBjb2xzPSI3MiI+LS0gCkRyIEVsZW5hIFBpZXJhenpvClJlc2VhcmNoIEFzc29j
+aWF0ZQpDZW50cmUgZm9yIENvbXB1dGluZyBpbiB0aGUgSHVtYW5pdGllcwpLaW5nJ3MgQ29sbGVn
+ZSBMb25kb24KMjYtMjkgRHJ1cnkgTGFuZQpMb25kb24gV0MyQiA1UkwKClBob25lOiAwMjA3LTg0
+OC0xOTQ5CkZheDogMDIwNy04NDgtMjk4MAo8YSBjbGFzcz0ibW96LXR4dC1saW5rLWFiYnJldmlh
+dGVkIiBocmVmPSJtYWlsdG86ZWxlbmEucGllcmF6em9Aa2NsLmFjLnVrIj5lbGVuYS5waWVyYXp6
+b0BrY2wuYWMudWs8L2E+CjxhIGNsYXNzPSJtb3otdHh0LWxpbmstYWJicmV2aWF0ZWQiIGhyZWY9
+Imh0dHA6Ly93d3cua2NsLmFjLnVrIj53d3cua2NsLmFjLnVrPC9hPjwvcHJlPgo8L2JvZHk+Cjwv
+aHRtbD4K

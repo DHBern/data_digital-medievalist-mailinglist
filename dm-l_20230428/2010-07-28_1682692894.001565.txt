@@ -1,0 +1,78 @@
+Subject: Re: [dm-l] Question about preservation of digital contentStuart Lee and I wrote an article that touched on this a little in Gail=20
+Owen's book on Anglo-Saxon Manuscripts. And I had a couple of brief=20
+columns on different aspects of the problem Heroic Age a little while back.I'm not 100% sure I share your premises, BTW. I think most things from=20
+1995 would still be recoverable, if you knew the right software. I=20
+recently helped a colleague restore a whole bunch of very old=20
+WordPerfect files using Open Office. And while I've not tried a 1995=20
+.doc file in it, I'd be amazed if it couldn't read it.My rule of thumb is anything for a PC or Mac is recoverable, no matter=20
+how old, unless it is in a minor proprietary format. So most image=20
+files, most WordPerfect and Word files, I'm guessing most Wordstar files=20
+should be fine. I'd have my doubts about ChiWriter files, though that=20
+might have been a pre-PC program for the SuperPet. As a rule, you're=20
+better off in recovery with something like OpenOffice, since the stakes=20
+surrounding compatibility are much higher for them than for proprietary=20
+software like Word: people use Word whether or not it reads other=20
+formats, but nobody would use OpenOffice if it didn't read Word. In face=20
+in the case of old .doc files, Open Office was a better interpreter than=20
+Word: when I was typesetting Caedmon's Hymn, which I did in Word from=20
+SGML masters, I had some trouble where Word would get confused in=20
+displaying complex tables. Opening the files in OO and then saving them=20
+immediately as Word Files again was usually enough to solve the problem.It is useful to read Nicholas Barker on preservation anxiety, BTW. I=20
+think a lot of what he says about misplaced fears of obsolescence with=20
+regard to 19th Century paper is also true of things like CD-ROMs and=20
+file formats. You'd be amazed how much works just fine.-danOn 10-07-28 05:12 PM, Daniel Mondekar wrote:
+>
+> Dear Digital Medievalists and TEI members,
+>
+> I have a question about preservation of digital content especially=20
+> medieval manuscripts. I am writing a small article on the topic and I=20
+> have consulted a lot sources (papers, handbooks) but most of them do=20
+> not say anything about the =E2=80=9Clife span=E2=80=9D of the data in speci=
+fic=20
+> formats. To clarify this =E2=80=93 a .doc file crated in 1995. Will be most=
+=20
+> likely unreadable  in 2010.  What about other formats? Has anyone done=20
+> some research on =E2=80=9Clife span=E2=80=9D of a specific version of digit=
+al formats=20
+> and when it becomes clear that the new version and the old one are not=20
+> compatible anymore? And here I am talking about pdf, rtf, doc (and all=20
+> office files), djvu, tiff, jpg , mpg etc. (texts and images especially)
+>
+> In my work I am also making a small remark on XML as a data container=20
+> since it is, in my opinion, the best way to go and the standard will=20
+> surely be around for years. But what kind of steps do you make to=20
+> ensure the preservation of documents that have been encoded in xml
+>
+> I would also like to hear if there are opposing views on xml.
+>
+> I also have the same question about the media. I found some research=20
+> about the longevity of CDs and DVDs but I am also interested in other=20
+> media like older hard disks, zip drives and magnetic media.
+>
+> I am sorry to bother you with this, but I can use any help I can get
+>
+> Thank you in advance
+>
+> Daniel Mondekar
+>
+>
+> Digital Medievalist --  http://www.digitalmedievalist.org/
+> Journal: http://www.digitalmedievalist.org/journal/
+> Journal Editors: editors _AT_ digitalmedievalist.org
+> News: http://www.digitalmedievalist.org/news/
+> Wiki: http://www.digitalmedievalist.org/wiki/
+> Twitter: http://twitter.com/digitalmedieval
+> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+_redacted_(a)uleth.ca
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l--=20
+Daniel Paul O'Donnell
+Professor of English
+University of LethbridgeChair and CEO, Text Encoding Initiative (http://www.tei-c.org/)
+Co-Chair, Digital Initiatives Advisory Board, Medieval Academy of America
+President-elect (English), Society for Digital Humanities/Soci=C3=A9t=C3=A9 p=
+our l'=C3=A9tude des m=C3=A9dias interactifs (http://sdh-semi.org/)
+Founding Director (2003-2009), Digital Medievalist Project (http://www.digita=
+lmedievalist.org/)Vox: +1 403 329-2377
+Fax: +1 403 382-7191 (non-confidential)
+Home Page: http://people.uleth.ca/~daniel.odonnell/
+--===============1605287323323329276==--

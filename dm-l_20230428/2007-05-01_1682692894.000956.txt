@@ -1,0 +1,16 @@
+Subject: [dm-l] Junicode 0.6.13 releasedJunicode 0.6.13 is now available at http://junicode.sf.net.  Here are 
+the release notes:This release continues to add characters from the MUFI recommendation
+to benefit medievalists. Many messy outlines have been cleaned up,
+improving efficiency and reducing the likelihood of bugs. Most of the
+goodies in this release are for users of OpenType-aware programs such
+as InDesign and XeTeX: the OpenType features list has been thoroughly
+worked over and rationalized, and consistency imposed across all four
+faces (though it is still true that there are more OpenType features
+in Regular than in the other three). Use of ccmp, mark and mkmk has
+been greatly expanded, making use of combining diacritics more
+practical than before. Many MUFI glyphs have been made accessible via
+OpenType features, especially ccmp (for glyph+diacritic combination)
+and hlig (Historical Ligatures). Fractions, Roman numbers, subscripts
+and the various "Enclosed Alphanumerics" have been made accessible as
+ligatures (either liga, Standard Ligatures, or dlig, Discretionary
+Ligatures).Peter Baker

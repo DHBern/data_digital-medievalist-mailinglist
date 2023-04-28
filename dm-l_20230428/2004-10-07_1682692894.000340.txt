@@ -1,0 +1,43 @@
+Subject: Re: [dm-l] Character reference conversions: help?Daniel O'Donnell recently said:> 	I need some advice on converting Unicode character references.=20
+> Currently, am encoding character references in what I believe is UCS-4=20
+> format (Universal Character Set). This means they look like this in my=20
+> source files:
+>
+> &#x1090;
+>
+> I want to import xhtml documents into Open Office, which seems to need=20
+> UTF-8 encoding (I don't know what UTF stands for). Does anybody know of=20
+> a filter that might do the conversions for me? Or have advice on using=20
+> open office (Windows version) with UCS-4 encoding?Do you actually need to convert at all? I'm assuming you are using a PC or
+Unix to prepare your text file.Your file is in a particular character set. If you have only typed in
+unaccented characters and haven't used things like directional quotes then
+you will have only used 7-bit ASCII (which is a subset of many other
+character sets).The file is intended to be XML. That implies that certain
+sequences of typed characters have a particular meaning to an XML
+interpreter. For example < indicates the start of a tag. An XML interpreter
+needs to know the character set a file is in so that it can understand all
+the characters in it. There are many different character sets in the world
+and it is unlikely that an interpreter can understand them all. The default
+character set for XML is UTF-8 (Unicode transformation format using
+sequences of 8 bits) If you want to use a different character set you have
+to declare it in the XML header and the interpreter must support it.UTF-8 was picked as the default for XML because by design the first 128
+characters in Unicode have exactly the same byte values in UTF-8 as are used
+in 7-bit ASCII. In other words if you type in a file on most systems which
+doesn't use character codes over 127, not only is it an ASCII file, it also
+a UTF-8 file.Since not all character sets include all the characters in the UCS, XML
+provides an alternative way of representing them rather than just typing
+them in. This is the &#x1090; format you mention above. So instead of typing
+"the" I could type "&#x0074;&#x0068;&#0065;" instead, which is the same but
+more long winded. This is not UCS-4 encoding, simply a way of indicating the
+abstract numbers assigned to the characters.The byte sequence for &#x1090; in your file is 26 23 78 31 30 39 30 3B. If
+your file was stored in UCS-4 that same sequence of characters would be the
+byte sequence 00 00 00 26 00 00 00 23 00 00 00 78 00 00 00 31 00 00 00 30 00
+00 00 39 00 00 00 30 00 00 00 3B. If instead of typing in the &#x; reference
+you had just typed the character directly from your keyboard then it would
+be 00 00 10 90 in that hypothetical UCS-4 file.=20
+=20
+I am wondering if open office is simply telling you that the only character
+set supported for the file is UTF-8. If so you may not have any worries -
+just try using your file as is.Regards,   Tim--=20
+Tim Partridge. Any opinions expressed are mine only and not those of my emplo=
+yer

@@ -1,0 +1,55 @@
+Subject: Re: [dm-l] Mac helpConal Tuohy built a little checker for Windows many years ago. And you 
+can use any of the modern browsers to see if the character is on your 
+system at all. I wonder could you use rich pasting into a word-processor 
+or similar to discover the font name?E.g. create a page with the point, load it up in Firefox, if a character 
+appears, copy and paste it into a wordprocessor and hope that font 
+information has been preserved?I appreciate all the advice on utilities for SVN and the like: I don't 
+have a Mac and have never really used one, so I'm happy to have names I 
+can throw around. I find that the command line can be scary to people, 
+so when I'm introducing lots of new concepts and techniques, I'm always 
+happy if there is GUI-based software available at least initially!-danOn 11-02-06 01:29 PM, Simpson, Grant Leyton wrote:
+> Thanks for those references, John. I will have to check them out. As far
+> as determining which font contains which characters, I feel your pain. I
+> tend to install Junicode and trust that it has the characters I need.
+> (Bless you, Peter Baker!)
+>
+>
+_redacted_(a)gmail.com>  wrote:
+>
+>> Although it's certainly correct that the Character Palette built into
+>> Mac OS X is excellent (and I wish there were a Linux application that
+>> would tell me which fonts include a given character as easily as it
+>> does), a couple of similar free applications may also prove useful:
+>>
+>> http://earthlingsoft.net/UnicodeChecker/
+>> http://pixel.recoil.org/code/unicodefontinfo/index.html
+>>
+>> John
+>>
+>> ***
+>>
+>> On Sun, Feb 6, 2011 at 12:02 PM, O'Donnell, Dan
+_redacted_(a)uleth.ca>  wrote in part:
+>>
+>> ...
+>>> 2) Unicode navigator--is there a standard code point navigator for
+>>> Mac?...
+>>
+>>
+>>
+>> --
+>> John McChesney-Young ** Berkeley, California, U.S.A.
+>> JMcCYoung~at~gmail.com ** http://twitter.com/jmccyoung **
+>> http://jmccyoung.blogspot.com/
+>>
+>> Digital Medievalist --  http://www.digitalmedievalist.org/
+>> Journal: http://www.digitalmedievalist.org/journal/
+>> Journal Editors: editors _AT_ digitalmedievalist.org
+>> News: http://www.digitalmedievalist.org/news/
+>> Wiki: http://www.digitalmedievalist.org/wiki/
+>> Twitter: http://twitter.com/digitalmedieval
+>> Facebook: http://www.facebook.com/group.php?gid=49320313760
+_redacted_(a)uleth.ca
+>> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>
+--===============2579627847005095128==--

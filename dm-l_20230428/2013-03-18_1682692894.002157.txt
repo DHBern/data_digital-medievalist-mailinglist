@@ -1,0 +1,513 @@
+Subject:Just a footnote:Several aspects of scholarly digital editing are being discussed in some=20
+articles of the latest issue of Variants (vol. 10, 2013).
+Quote from the editor's preface by Wim van Mierlo (p. 9-10):[...] the more general discussions by
+Tara L. Andrews and Franz Fischer on digital tools and editorial
+rationales available to the digital editor. Andrews' desideratum ---
+that digital tools will alter the way we edit --- and Fis[c]her's --- that
+digital editions involve much more than putting texts online --- find
+their culmination in Peter Robinson's "Towards a Theory of Digital
+Editions", which is itself a rejoinder to his own "What is a Critical
+Digital Edition" that was published in the inaugural issue of Variants
+in 2002.
+[...]
+The contributions by Andrews and Fischer are based on presentations
+at a Roundtable on the topic "Digital or Critical / Digital and
+Critical", organized by the Laboratory for Critical Text Editing at the
+Lectio center of the Katholieke Universiteit Leuven, Belgium, on 21
+November 2011. The two essays explore, with reference to Greek
+and Latin texts, the apparent contradiction between the advances
+in computer technologies and their application to textual editing
+and the relative scarcity of truly critical and truly digital scholarly
+editions. Andrews addresses the issue head on by saying the scholars
+have not yet "articulated a clear idea of what a digital edition would
+look like" and that a lot of textual work on classical texts remains
+"fundamentally non-digital". Like Andrews, Fischer argues that a
+change in mentality is needed, particularly in terms of acknowledging
+what makes an edition "truly critical". The default option in the
+digital world still often seems to create archives, but "the plurality
+of equally legitimate texts" does not obviate the establishment of a
+critical text.[end of quote]--
+Tara L. Andrews: The Third Way: Philology and Critical Edition in the=20
+Digital Age. Variants 10 (2013), 61-76.Franz Fischer: All texts are equal, but... Textual Plurality and the=20
+Critical Text in Digital Scholarly Editions. Variants 10 (2013), 77-92=20
+(Online Version: http://kups.ub.uni-koeln.de/5056/).Peter Robinson: Towards a Theory of Digital Editions. Variants 10=20
+(2013), 105-132.
+--Best, FranzAm 17.03.2013 18:28, schrieb Patrick Sahle:
+>
+> Dear all,
+>
+> Scholarly Digital Editing? I've just published three volumes on this=20
+> topic:
+> http://www.i-d-e.de/schriften/s7-9-digitale-editionsformen
+>
+> rough translation of titles:
+>     Digital Scholarly Editing
+>         Part I: The legacy of typography
+>         Part II: Survey, theory and methodology
+>         Part III: Notions of text and textual encoding
+>
+> - the distinction between digitized and digital scholarly editions=20
+> (DSE) is an important aspect in the definition of scholarly digital=20
+> editions (SDE); see most recently=20
+> http://prezi.com/mdt8efbe3o3a/patrick-sahle-what-is-a-scholarly-digital-edi=
+tion/=20
+> (hope to elaborate on that in a forthcoming article); the main point=20
+> here is, that there is a fundamental paradigm shift in thinking the=20
+> scholarly edition in a typographic setting or in a digital information=20
+> environment
+>
+> - should we make a distinction between digital scholarly editions=20
+> (DSE) and scholarly digital editions (SDE) ?
+>     - yes, because it describes two different processes or at least=20
+> different accentuations
+>         - DSE emphasizes that we still follow the idea of scholarly=20
+> editing but transform it to the digital world
+>         - SDE emphasizes the relation to other forms of digital=20
+> publishing which are augmented by the dimension of scholarly criticism
+>     - no, because it should lead to the same results: editions that=20
+> are truly scholarly AND truly digital
+>
+> - is the edition its content or its presentation?
+>     - if the presentation is arbitrarily generated from underlying=20
+> data, then it has some logic to say, that the data is the edition. On=20
+> the other hand this would not fit well to the common notion of an=20
+> "edition" as some form of publication. I think, a SDE must comprise=20
+> both: the data and some form of publication of that data. What=20
+> constitutes a particular edition is the definition of its subject=20
+> together with a personal or institutional creatorship (or=20
+> responsibility). Edition of X by Y. The edition may then have=20
+> different forms of presentation (online, print, eBook, relaunched=20
+> online version after some time), which may also be "versions".
+>
+> - do we really have a problem with the acceptance of digital editions?
+>     - first, I take up, what Andrew wrote...
+>         - "Compared to a printed book, they're miserable to read,=20
+> since they tend to be designed first for technical analysis, and any=20
+> attention to typography is typically a very low priority"
+>             - I'm not sure whether I'd agree on that. I find most SDEs=20
+> quite readable. But yes, we're still in the incunabula age of digital=20
+> texts. Good digital typography still has to evolve. Anyway, I'call a=20
+> lot of the editions listed in my catalog "readable":=20
+> http://digitale-edition.de/
+>         - "There's no guarantee in many cases that citations made from=20
+> digital editions will be stable."
+>             - but this is a known problem which we discuss for at=20
+> least ten years now. And the solutions are quite clear:=20
+> PID/PURL-systems, fine granularity of adressable objects in editions,=20
+> institutional committments for the long-term support of SDE,=20
+> versioning etc etc
+>         - "It's far easier to put a good printed edition together than=20
+> a good digital edition, especially because of the lack of standard,=20
+> user-friendly tools."
+>             - true, but the underlying problem is that SDEs are far=20
+> more complex than tradional edition (as regards content, methods,=20
+> technical aspects) - and that's why generic tools are so hard to build
+>         - "There is no standard way of presenting online critical=20
+> editions (whereas most printed texts are published in series that=20
+> follow a style guide)."
+>             - important point that the community has to address; but I=20
+> see these publications series coming up; just some arbitrary examples:=20
+> http://elec.enc.sorbonne.fr/ - http://www.sd-editions.com/index.html -=20
+> http://www.hab.de/de/home/bibliothek/digitale-bibliothek-wdb/digitale-editi=
+onen.html=20
+> - http://www.rc.umd.edu/editions/
+>         - "Delving into academic politics, publishers hate them and=20
+> many universities don't count digital projects toward tenure."
+>             - traditional publishers will not solve the problems of SDEs
+>             - academic interest groups are starting to deal with the=20
+> problem of credibility of digital work (the German Historians Union=20
+> has just set up a working group on digital scholarship with a subgroup=20
+> on crediting digital work in tenure and promotion)
+>     - second: success on the reader's side can only be measured in=20
+> comparison to the success of traditional printed editions. In=20
+> comparison to the fact that those often had an extremly low=20
+> circulation, were bought nearly exclusively by libraries ....
+>     - third: success on the side of the editors. We had 6 summer=20
+> schools on scholarly digital editing in the last 5 years=20
+> (http://www.i-d-e.de/events-des-ide). All have been overbooked. I see=20
+> fewer and fewer newly starting edition projects that don't have a=20
+> digital component or basis. There is some pressure from the funding=20
+> bodies, that new projects and new editions have to be digital. But=20
+> change takes some time.
+>
+> Best, Patrick
+>
+>
+> Am 13.03.2013 21:01, schrieb Dot Porter:
+>> My article looking at how medievalists use and consider digital=20
+>> editions has just been published in Scholarly Editing: The Annual of=20
+>> the Association for Documentary Editing. It may be of some interest=20
+>> to folks on the list (and constructive criticism, directly to me to=20
+>> to the list, is most welcome!)
+>>
+>> http://www.scholarlyediting.org/2013/essays/essay.porter.html
+>>
+>> Dot
+>>
+>> --=20
+>> *~*~*~*~*~*~*~*~*~*~*
+>> Dot Porter (MA, MSLS)
+>> Digital Medievalist, Digital Librarian
+_redacted_(a)gmail.com>
+>> Personal blog: dotporterdigital.org <http://dotporterdigital.org>
+>> MESA blog: http://www.dlib.indiana.edu/projects/mesa/
+>> MESA on Facebook:=20
+>> https://www.facebook.com/MedievalElectronicScholarlyAlliance
+>> *~*~*~*~*~*~*~*~*~*~*
+>>
+>>
+>> Digital Medievalist --http://www.digitalmedievalist.org/
+>> Journal:http://www.digitalmedievalist.org/journal/
+>> Journal Editors: editors _AT_ digitalmedievalist.org
+>> News:http://www.digitalmedievalist.org/news/
+>> Wiki:http://www.digitalmedievalist.org/wiki/
+>> Twitter:http://twitter.com/digitalmedieval
+>> Facebook:http://www.facebook.com/group.php?gid=3D49320313760
+_redacted_(a)uleth.ca
+>> Change list options:http://listserv.uleth.ca/mailman/listinfo/dm-l
+>
+>
+> --=20
+> ------------------------------------------------------------------------
+> New Book(s) out now: Patrick Sahle, Digitale Editionsformen -=20
+> http://www.i-d-e.de/schriften/s7-9-digitale-editionsformen
+> A) Cologne Center for eHumanities (CCeH)=20
+> <http://www.cceh.uni-koeln.de/> (Mitarbeiter)
+> B) DARIAH-DE (Digital Research Infrastructure for the Arts and=20
+> Humanities) <http://de.dariah.eu/> (Mitarbeiter)
+> C) Humanities Computer Science, University of Cologne=20
+> <http://www.hki.uni-koeln.de/> (Mitarbeiter)
+> D) Institut f=C3=BCr Dokumentologie und Editorik <http://www.i-d-e.de>=20
+> (Mitglied)
+>
+> Post: Historisch-Kulturwissenschaftliche Informationsverarbeitung,=20
+> Universit=C3=A4t zu K=C3=B6ln, Albertus-Magnus-Platz, D-50923 K=C3=B6ln
+> B=C3=BCro: Universit=C3=A4tsstr. 22, Dachgeschoss links
+> Telefon: +49 - (0)221 - 470 1750
+> ------------------------------------------------------------------------
+> Zur Person: http://www.uni-koeln.de/~ahz26=20
+> <http://www.uni-koeln.de/%7Eahz26>
+>
+>
+> Digital Medievalist --  http://www.digitalmedievalist.org/
+> Journal: http://www.digitalmedievalist.org/journal/
+> Journal Editors: editors _AT_ digitalmedievalist.org
+> News: http://www.digitalmedievalist.org/news/
+> Wiki: http://www.digitalmedievalist.org/wiki/
+> Twitter: http://twitter.com/digitalmedieval
+> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+_redacted_(a)uleth.ca
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+--===============4846433235171318505==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"
+MIME-Version: 1.0PGh0bWw+CiAgPGhlYWQ+CiAgICA8bWV0YSBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9SVNP
+LTg4NTktMSIKICAgICAgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIj4KICA8L2hlYWQ+CiAgPGJv
+ZHkgdGV4dD0iIzAwMDAwMCIgYmdjb2xvcj0iI0ZGRkZGRiI+CiAgICA8ZGl2IGNsYXNzPSJtb3ot
+Y2l0ZS1wcmVmaXgiPkp1c3QgYSBmb290bm90ZTo8YnI+CiAgICAgIDxicj4KICAgICAgU2V2ZXJh
+bCBhc3BlY3RzIG9mIHNjaG9sYXJseSBkaWdpdGFsIGVkaXRpbmcgYXJlIGJlaW5nIGRpc2N1c3Nl
+ZAogICAgICBpbiBzb21lIGFydGljbGVzIG9mIHRoZSBsYXRlc3QgaXNzdWUgb2YgVmFyaWFudHMg
+KHZvbC4gMTAsIDIwMTMpLjxicj4KICAgICAgUXVvdGUgZnJvbSB0aGUgZWRpdG9yJ3MgcHJlZmFj
+ZSBieSBXaW0gdmFuIE1pZXJsbyAocC4gOS0xMCk6PGJyPgogICAgICA8YnI+CiAgICAgIFsuLi5d
+IHRoZSBtb3JlIGdlbmVyYWwgZGlzY3Vzc2lvbnMgYnk8YnI+CiAgICAgIFRhcmEgTC4gQW5kcmV3
+cyBhbmQgRnJhbnogRmlzY2hlciBvbiBkaWdpdGFsIHRvb2xzIGFuZCBlZGl0b3JpYWw8YnI+CiAg
+ICAgIHJhdGlvbmFsZXMgYXZhaWxhYmxlIHRvIHRoZSBkaWdpdGFsIGVkaXRvci4gQW5kcmV3cyYj
+ODIxNzsgZGVzaWRlcmF0dW0gJiM4MjEyOzxicj4KICAgICAgdGhhdCBkaWdpdGFsIHRvb2xzIHdp
+bGwgYWx0ZXIgdGhlIHdheSB3ZSBlZGl0ICYjODIxMjsgYW5kIEZpc1tjXWhlciYjODIxNztzICYj
+ODIxMjsKICAgICAgdGhhdDxicj4KICAgICAgZGlnaXRhbCBlZGl0aW9ucyBpbnZvbHZlIG11Y2gg
+bW9yZSB0aGFuIHB1dHRpbmcgdGV4dHMgb25saW5lICYjODIxMjsKICAgICAgZmluZDxicj4KICAg
+ICAgdGhlaXIgY3VsbWluYXRpb24gaW4gUGV0ZXIgUm9iaW5zb24mIzgyMTc7cyAmIzgyMjA7VG93
+YXJkcyBhIFRoZW9yeSBvZiBEaWdpdGFsPGJyPgogICAgICBFZGl0aW9ucyYjODIyMTssIHdoaWNo
+IGlzIGl0c2VsZiBhIHJlam9pbmRlciB0byBoaXMgb3duICYjODIyMDtXaGF0IGlzIGEKICAgICAg
+Q3JpdGljYWw8YnI+CiAgICAgIERpZ2l0YWwgRWRpdGlvbiYjODIyMTsgdGhhdCB3YXMgcHVibGlz
+aGVkIGluIHRoZSBpbmF1Z3VyYWwgaXNzdWUgb2YKICAgICAgVmFyaWFudHM8YnI+CiAgICAgIGlu
+IDIwMDIuPGJyPgogICAgICBbLi4uXTxicj4KICAgICAgVGhlIGNvbnRyaWJ1dGlvbnMgYnkgQW5k
+cmV3cyBhbmQgRmlzY2hlciBhcmUgYmFzZWQgb24KICAgICAgcHJlc2VudGF0aW9uczxicj4KICAg
+ICAgYXQgYSBSb3VuZHRhYmxlIG9uIHRoZSB0b3BpYyAmIzgyMjA7RGlnaXRhbCBvciBDcml0aWNh
+bCAvIERpZ2l0YWwgYW5kPGJyPgogICAgICBDcml0aWNhbCYjODIyMTssIG9yZ2FuaXplZCBieSB0
+aGUgTGFib3JhdG9yeSBmb3IgQ3JpdGljYWwgVGV4dCBFZGl0aW5nCiAgICAgIGF0IHRoZTxicj4K
+ICAgICAgTGVjdGlvIGNlbnRlciBvZiB0aGUgS2F0aG9saWVrZSBVbml2ZXJzaXRlaXQgTGV1dmVu
+LCBCZWxnaXVtLCBvbgogICAgICAyMTxicj4KICAgICAgTm92ZW1iZXIgMjAxMS4gVGhlIHR3byBl
+c3NheXMgZXhwbG9yZSwgd2l0aCByZWZlcmVuY2UgdG8gR3JlZWs8YnI+CiAgICAgIGFuZCBMYXRp
+biB0ZXh0cywgdGhlIGFwcGFyZW50IGNvbnRyYWRpY3Rpb24gYmV0d2VlbiB0aGUgYWR2YW5jZXM8
+YnI+CiAgICAgIGluIGNvbXB1dGVyIHRlY2hub2xvZ2llcyBhbmQgdGhlaXIgYXBwbGljYXRpb24g
+dG8gdGV4dHVhbCBlZGl0aW5nPGJyPgogICAgICBhbmQgdGhlIHJlbGF0aXZlIHNjYXJjaXR5IG9m
+IHRydWx5IGNyaXRpY2FsIGFuZCB0cnVseSBkaWdpdGFsCiAgICAgIHNjaG9sYXJseTxicj4KICAg
+ICAgZWRpdGlvbnMuIEFuZHJld3MgYWRkcmVzc2VzIHRoZSBpc3N1ZSBoZWFkIG9uIGJ5IHNheWlu
+ZyB0aGUKICAgICAgc2Nob2xhcnM8YnI+CiAgICAgIGhhdmUgbm90IHlldCAmIzgyMjA7YXJ0aWN1
+bGF0ZWQgYSBjbGVhciBpZGVhIG9mIHdoYXQgYSBkaWdpdGFsIGVkaXRpb24KICAgICAgd291bGQ8
+YnI+CiAgICAgIGxvb2sgbGlrZSYjODIyMTsgYW5kIHRoYXQgYSBsb3Qgb2YgdGV4dHVhbCB3b3Jr
+IG9uIGNsYXNzaWNhbCB0ZXh0cwogICAgICByZW1haW5zPGJyPgogICAgICAmIzgyMjA7ZnVuZGFt
+ZW50YWxseSBub24tZGlnaXRhbCYjODIyMTsuIExpa2UgQW5kcmV3cywgRmlzY2hlciBhcmd1ZXMg
+dGhhdCBhPGJyPgogICAgICBjaGFuZ2UgaW4gbWVudGFsaXR5IGlzIG5lZWRlZCwgcGFydGljdWxh
+cmx5IGluIHRlcm1zIG9mCiAgICAgIGFja25vd2xlZGdpbmc8YnI+CiAgICAgIHdoYXQgbWFrZXMg
+YW4gZWRpdGlvbiAmIzgyMjA7dHJ1bHkgY3JpdGljYWwmIzgyMjE7LiBUaGUgZGVmYXVsdCBvcHRp
+b24gaW4gdGhlPGJyPgogICAgICBkaWdpdGFsIHdvcmxkIHN0aWxsIG9mdGVuIHNlZW1zIHRvIGNy
+ZWF0ZSBhcmNoaXZlcywgYnV0ICYjODIyMDt0aGUKICAgICAgcGx1cmFsaXR5PGJyPgogICAgICBv
+ZiBlcXVhbGx5IGxlZ2l0aW1hdGUgdGV4dHMmIzgyMjE7IGRvZXMgbm90IG9idmlhdGUgdGhlIGVz
+dGFibGlzaG1lbnQgb2YKICAgICAgYTxicj4KICAgICAgY3JpdGljYWwgdGV4dC48YnI+CiAgICAg
+IDxicj4KICAgICAgW2VuZCBvZiBxdW90ZV08YnI+CiAgICAgIDxicj4KICAgICAgLS08YnI+CiAg
+ICAgIFRhcmEgTC4gQW5kcmV3czogVGhlIFRoaXJkIFdheTogUGhpbG9sb2d5IGFuZCBDcml0aWNh
+bCBFZGl0aW9uIGluCiAgICAgIHRoZSBEaWdpdGFsIEFnZS4gVmFyaWFudHMgMTAgKDIwMTMpLCA2
+MS03Ni48YnI+CiAgICAgIDxicj4KICAgICAgRnJhbnogRmlzY2hlcjogQWxsIHRleHRzIGFyZSBl
+cXVhbCwgYnV0Li4uIFRleHR1YWwgUGx1cmFsaXR5IGFuZAogICAgICB0aGUgQ3JpdGljYWwgVGV4
+dCBpbiBEaWdpdGFsIFNjaG9sYXJseSBFZGl0aW9ucy4gVmFyaWFudHMgMTAKICAgICAgKDIwMTMp
+LCA3Ny05MiAoT25saW5lIFZlcnNpb246IDxhIGNsYXNzPSJtb3otdHh0LWxpbmstZnJlZXRleHQi
+IGhyZWY9Imh0dHA6Ly9rdXBzLnViLnVuaS1rb2Vsbi5kZS81MDU2LyI+aHR0cDovL2t1cHMudWIu
+dW5pLWtvZWxuLmRlLzUwNTYvPC9hPikuPGJyPgogICAgICA8YnI+CiAgICAgIFBldGVyIFJvYmlu
+c29uOiBUb3dhcmRzIGEgVGhlb3J5IG9mIERpZ2l0YWwgRWRpdGlvbnMuIFZhcmlhbnRzIDEwCiAg
+ICAgICgyMDEzKSwgMTA1LTEzMi48YnI+CiAgICAgIC0tPGJyPgogICAgICA8YnI+CiAgICAgIEJl
+c3QsIEZyYW56PGJyPgogICAgICA8YnI+CiAgICAgIDxicj4KICAgICAgPGJyPgogICAgICBBbSAx
+Ny4wMy4yMDEzIDE4OjI4LCBzY2hyaWViIFBhdHJpY2sgU2FobGU6PGJyPgogICAgPC9kaXY+CiAg
+ICA8YmxvY2txdW90ZSBjaXRlPSJtaWQ6NTE0NUZEMzEuNTA0MDFAdW5pLWtvZWxuLmRlIiB0eXBl
+PSJjaXRlIj4KICAgICAgPG1ldGEgY29udGVudD0idGV4dC9odG1sOyBjaGFyc2V0PUlTTy04ODU5
+LTEiCiAgICAgICAgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIj4KICAgICAgPGRpdiBjbGFzcz0i
+bW96LWNpdGUtcHJlZml4Ij48YnI+CiAgICAgICAgRGVhciBhbGwsIDxicj4KICAgICAgICA8YnI+
+CiAgICAgICAgU2Nob2xhcmx5IERpZ2l0YWwgRWRpdGluZz8gSSd2ZSBqdXN0IHB1Ymxpc2hlZCB0
+aHJlZSB2b2x1bWVzIG9uCiAgICAgICAgdGhpcyB0b3BpYzogPGJyPgogICAgICAgICZuYnNwOyZu
+YnNwOyZuYnNwOyA8YSBtb3otZG8tbm90LXNlbmQ9InRydWUiIGNsYXNzPSJtb3otdHh0LWxpbmst
+ZnJlZXRleHQiCiAgICAgICAgICBocmVmPSJodHRwOi8vd3d3LmktZC1lLmRlL3NjaHJpZnRlbi9z
+Ny05LWRpZ2l0YWxlLWVkaXRpb25zZm9ybWVuIj5odHRwOi8vd3d3LmktZC1lLmRlL3NjaHJpZnRl
+bi9zNy05LWRpZ2l0YWxlLWVkaXRpb25zZm9ybWVuPC9hPjxicj4KICAgICAgICA8YnI+CiAgICAg
+ICAgcm91Z2ggdHJhbnNsYXRpb24gb2YgdGl0bGVzOjxicj4KICAgICAgICAmbmJzcDsmbmJzcDsm
+bmJzcDsgRGlnaXRhbCBTY2hvbGFybHkgRWRpdGluZzxicj4KICAgICAgICAmbmJzcDsmbmJzcDsm
+bmJzcDsgJm5ic3A7Jm5ic3A7Jm5ic3A7IFBhcnQgSTogVGhlIGxlZ2FjeSBvZiB0eXBvZ3JhcGh5
+PGJyPgogICAgICAgICZuYnNwOyZuYnNwOyZuYnNwOyAmbmJzcDsmbmJzcDsmbmJzcDsgUGFydCBJ
+STogU3VydmV5LCB0aGVvcnkgYW5kIG1ldGhvZG9sb2d5PGJyPgogICAgICAgICZuYnNwOyZuYnNw
+OyZuYnNwOyAmbmJzcDsmbmJzcDsmbmJzcDsgUGFydCBJSUk6IE5vdGlvbnMgb2YgdGV4dCBhbmQg
+dGV4dHVhbCBlbmNvZGluZzxicj4KICAgICAgICA8YnI+CiAgICAgICAgLSB0aGUgZGlzdGluY3Rp
+b24gYmV0d2VlbiBkaWdpdGl6ZWQgYW5kIGRpZ2l0YWwgc2Nob2xhcmx5CiAgICAgICAgZWRpdGlv
+bnMgKERTRSkgaXMgYW4gaW1wb3J0YW50IGFzcGVjdCBpbiB0aGUgZGVmaW5pdGlvbiBvZgogICAg
+ICAgIHNjaG9sYXJseSBkaWdpdGFsIGVkaXRpb25zIChTREUpOyBzZWUgbW9zdCByZWNlbnRseSA8
+YQogICAgICAgICAgbW96LWRvLW5vdC1zZW5kPSJ0cnVlIiBjbGFzcz0ibW96LXR4dC1saW5rLWZy
+ZWV0ZXh0IgpocmVmPSJodHRwOi8vcHJlemkuY29tL21kdDhlZmJlM28zYS9wYXRyaWNrLXNhaGxl
+LXdoYXQtaXMtYS1zY2hvbGFybHktZGlnaXRhbC1lZGl0aW9uLyI+aHR0cDovL3ByZXppLmNvbS9t
+ZHQ4ZWZiZTNvM2EvcGF0cmljay1zYWhsZS13aGF0LWlzLWEtc2Nob2xhcmx5LWRpZ2l0YWwtZWRp
+dGlvbi88L2E+CiAgICAgICAgKGhvcGUgdG8gZWxhYm9yYXRlIG9uIHRoYXQgaW4gYSBmb3J0aGNv
+bWluZyBhcnRpY2xlKTsgdGhlIG1haW4KICAgICAgICBwb2ludCBoZXJlIGlzLCB0aGF0IHRoZXJl
+IGlzIGEgZnVuZGFtZW50YWwgcGFyYWRpZ20gc2hpZnQgaW4KICAgICAgICB0aGlua2luZyB0aGUg
+c2Nob2xhcmx5IGVkaXRpb24gaW4gYSB0eXBvZ3JhcGhpYyBzZXR0aW5nIG9yIGluIGEKICAgICAg
+ICBkaWdpdGFsIGluZm9ybWF0aW9uIGVudmlyb25tZW50PGJyPgogICAgICAgIDxicj4KICAgICAg
+ICAtIHNob3VsZCB3ZSBtYWtlIGEgZGlzdGluY3Rpb24gYmV0d2VlbiBkaWdpdGFsIHNjaG9sYXJs
+eQogICAgICAgIGVkaXRpb25zIChEU0UpIGFuZCBzY2hvbGFybHkgZGlnaXRhbCBlZGl0aW9ucyAo
+U0RFKSA/PGJyPgogICAgICAgICZuYnNwOyZuYnNwOyZuYnNwOyAtIHllcywgYmVjYXVzZSBpdCBk
+ZXNjcmliZXMgdHdvIGRpZmZlcmVudCBwcm9jZXNzZXMgb3IgYXQKICAgICAgICBsZWFzdCBkaWZm
+ZXJlbnQgYWNjZW50dWF0aW9uczxicj4KICAgICAgICAmbmJzcDsmbmJzcDsmbmJzcDsgJm5ic3A7
+Jm5ic3A7Jm5ic3A7IC0gRFNFIGVtcGhhc2l6ZXMgdGhhdCB3ZSBzdGlsbCBmb2xsb3cgdGhlIGlk
+ZWEgb2YKICAgICAgICBzY2hvbGFybHkgZWRpdGluZyBidXQgdHJhbnNmb3JtIGl0IHRvIHRoZSBk
+aWdpdGFsIHdvcmxkPGJyPgogICAgICAgICZuYnNwOyZuYnNwOyZuYnNwOyAmbmJzcDsmbmJzcDsm
+bmJzcDsgLSBTREUgZW1waGFzaXplcyB0aGUgcmVsYXRpb24gdG8gb3RoZXIgZm9ybXMgb2YgZGln
+aXRhbAogICAgICAgIHB1Ymxpc2hpbmcgd2hpY2ggYXJlIGF1Z21lbnRlZCBieSB0aGUgZGltZW5z
+aW9uIG9mIHNjaG9sYXJseQogICAgICAgIGNyaXRpY2lzbTxicj4KICAgICAgICAmbmJzcDsmbmJz
+cDsmbmJzcDsgLSBubywgYmVjYXVzZSBpdCBzaG91bGQgbGVhZCB0byB0aGUgc2FtZSByZXN1bHRz
+OiBlZGl0aW9ucwogICAgICAgIHRoYXQgYXJlIHRydWx5IHNjaG9sYXJseSBBTkQgdHJ1bHkgZGln
+aXRhbDxicj4KICAgICAgICA8YnI+CiAgICAgICAgLSBpcyB0aGUgZWRpdGlvbiBpdHMgY29udGVu
+dCBvciBpdHMgcHJlc2VudGF0aW9uPzxicj4KICAgICAgICAmbmJzcDsmbmJzcDsmbmJzcDsgLSBp
+ZiB0aGUgcHJlc2VudGF0aW9uIGlzIGFyYml0cmFyaWx5IGdlbmVyYXRlZCBmcm9tCiAgICAgICAg
+dW5kZXJseWluZyBkYXRhLCB0aGVuIGl0IGhhcyBzb21lIGxvZ2ljIHRvIHNheSwgdGhhdCB0aGUg
+ZGF0YSBpcwogICAgICAgIHRoZSBlZGl0aW9uLiBPbiB0aGUgb3RoZXIgaGFuZCB0aGlzIHdvdWxk
+IG5vdCBmaXQgd2VsbCB0byB0aGUKICAgICAgICBjb21tb24gbm90aW9uIG9mIGFuICJlZGl0aW9u
+IiBhcyBzb21lIGZvcm0gb2YgcHVibGljYXRpb24uIEkKICAgICAgICB0aGluaywgYSBTREUgbXVz
+dCBjb21wcmlzZSBib3RoOiB0aGUgZGF0YSBhbmQgc29tZSBmb3JtIG9mCiAgICAgICAgcHVibGlj
+YXRpb24gb2YgdGhhdCBkYXRhLiBXaGF0IGNvbnN0aXR1dGVzIGEgcGFydGljdWxhciBlZGl0aW9u
+CiAgICAgICAgaXMgdGhlIGRlZmluaXRpb24gb2YgaXRzIHN1YmplY3QgdG9nZXRoZXIgd2l0aCBh
+IHBlcnNvbmFsIG9yCiAgICAgICAgaW5zdGl0dXRpb25hbCBjcmVhdG9yc2hpcCAob3IgcmVzcG9u
+c2liaWxpdHkpLiBFZGl0aW9uIG9mIFggYnkKICAgICAgICBZLiBUaGUgZWRpdGlvbiBtYXkgdGhl
+biBoYXZlIGRpZmZlcmVudCBmb3JtcyBvZiBwcmVzZW50YXRpb24KICAgICAgICAob25saW5lLCBw
+cmludCwgZUJvb2ssIHJlbGF1bmNoZWQgb25saW5lIHZlcnNpb24gYWZ0ZXIgc29tZQogICAgICAg
+IHRpbWUpLCB3aGljaCBtYXkgYWxzbyBiZSAidmVyc2lvbnMiLjxicj4KICAgICAgICA8YnI+CiAg
+ICAgICAgLSBkbyB3ZSByZWFsbHkgaGF2ZSBhIHByb2JsZW0gd2l0aCB0aGUgYWNjZXB0YW5jZSBv
+ZiBkaWdpdGFsCiAgICAgICAgZWRpdGlvbnM/PGJyPgogICAgICAgICZuYnNwOyZuYnNwOyZuYnNw
+OyAtIGZpcnN0LCBJIHRha2UgdXAsIHdoYXQgQW5kcmV3IHdyb3RlLi4uPGJyPgogICAgICAgICZu
+YnNwOyZuYnNwOyZuYnNwOyAmbmJzcDsmbmJzcDsmbmJzcDsgLSAiQ29tcGFyZWQgdG8gYSBwcmlu
+dGVkIGJvb2ssIHRoZXkncmUgbWlzZXJhYmxlIHRvCiAgICAgICAgcmVhZCwgc2luY2UgdGhleSB0
+ZW5kIHRvIGJlIGRlc2lnbmVkIGZpcnN0IGZvciB0ZWNobmljYWwKICAgICAgICBhbmFseXNpcywg
+YW5kIGFueSBhdHRlbnRpb24gdG8gdHlwb2dyYXBoeSBpcyB0eXBpY2FsbHkgYSB2ZXJ5CiAgICAg
+ICAgbG93IHByaW9yaXR5Ijxicj4KICAgICAgICAmbmJzcDsmbmJzcDsmbmJzcDsgJm5ic3A7Jm5i
+c3A7Jm5ic3A7ICZuYnNwOyZuYnNwOyZuYnNwOyAtIEknbSBub3Qgc3VyZSB3aGV0aGVyIEknZCBh
+Z3JlZSBvbiB0aGF0LiBJIGZpbmQKICAgICAgICBtb3N0IFNERXMgcXVpdGUgcmVhZGFibGUuIEJ1
+dCB5ZXMsIHdlJ3JlIHN0aWxsIGluIHRoZSBpbmN1bmFidWxhCiAgICAgICAgYWdlIG9mIGRpZ2l0
+YWwgdGV4dHMuIEdvb2QgZGlnaXRhbCB0eXBvZ3JhcGh5IHN0aWxsIGhhcyB0bwogICAgICAgIGV2
+b2x2ZS4gQW55d2F5LCBJJ2NhbGwgYSBsb3Qgb2YgdGhlIGVkaXRpb25zIGxpc3RlZCBpbiBteQog
+ICAgICAgIGNhdGFsb2cgInJlYWRhYmxlIjogPGEgbW96LWRvLW5vdC1zZW5kPSJ0cnVlIgogICAg
+ICAgICAgY2xhc3M9Im1vei10eHQtbGluay1mcmVldGV4dCIKICAgICAgICAgIGhyZWY9Imh0dHA6
+Ly9kaWdpdGFsZS1lZGl0aW9uLmRlLyI+aHR0cDovL2RpZ2l0YWxlLWVkaXRpb24uZGUvPC9hPjxi
+cj4KICAgICAgICAmbmJzcDsmbmJzcDsmbmJzcDsgJm5ic3A7Jm5ic3A7Jm5ic3A7IC0gIlRoZXJl
+J3Mgbm8gZ3VhcmFudGVlIGluIG1hbnkgY2FzZXMgdGhhdCBjaXRhdGlvbnMKICAgICAgICBtYWRl
+IGZyb20gZGlnaXRhbCBlZGl0aW9ucyB3aWxsIGJlIHN0YWJsZS4iPGJyPgogICAgICAgICZuYnNw
+OyZuYnNwOyZuYnNwOyAmbmJzcDsmbmJzcDsmbmJzcDsgJm5ic3A7Jm5ic3A7Jm5ic3A7IC0gYnV0
+IHRoaXMgaXMgYSBrbm93biBwcm9ibGVtIHdoaWNoIHdlIGRpc2N1c3MgZm9yCiAgICAgICAgYXQg
+bGVhc3QgdGVuIHllYXJzIG5vdy4gQW5kIHRoZSBzb2x1dGlvbnMgYXJlIHF1aXRlIGNsZWFyOgog
+ICAgICAgIFBJRC9QVVJMLXN5c3RlbXMsIGZpbmUgZ3JhbnVsYXJpdHkgb2YgYWRyZXNzYWJsZSBv
+YmplY3RzIGluCiAgICAgICAgZWRpdGlvbnMsIGluc3RpdHV0aW9uYWwgY29tbWl0dG1lbnRzIGZv
+ciB0aGUgbG9uZy10ZXJtIHN1cHBvcnQKICAgICAgICBvZiBTREUsIHZlcnNpb25pbmcgZXRjIGV0
+Yzxicj4KICAgICAgICAmbmJzcDsmbmJzcDsmbmJzcDsgJm5ic3A7Jm5ic3A7Jm5ic3A7IC0gIkl0
+J3MgZmFyIGVhc2llciB0byBwdXQgYSBnb29kIHByaW50ZWQgZWRpdGlvbgogICAgICAgIHRvZ2V0
+aGVyIHRoYW4gYSBnb29kIGRpZ2l0YWwgZWRpdGlvbiwgZXNwZWNpYWxseSBiZWNhdXNlIG9mIHRo
+ZQogICAgICAgIGxhY2sgb2Ygc3RhbmRhcmQsIHVzZXItZnJpZW5kbHkgdG9vbHMuIjxicj4KICAg
+ICAgICAmbmJzcDsmbmJzcDsmbmJzcDsgJm5ic3A7Jm5ic3A7Jm5ic3A7ICZuYnNwOyZuYnNwOyZu
+YnNwOyAtIHRydWUsIGJ1dCB0aGUgdW5kZXJseWluZyBwcm9ibGVtIGlzIHRoYXQgU0RFcyBhcmUK
+ICAgICAgICBmYXIgbW9yZSBjb21wbGV4IHRoYW4gdHJhZGlvbmFsIGVkaXRpb24gKGFzIHJlZ2Fy
+ZHMgY29udGVudCwKICAgICAgICBtZXRob2RzLCB0ZWNobmljYWwgYXNwZWN0cykgLSBhbmQgdGhh
+dCdzIHdoeSBnZW5lcmljIHRvb2xzIGFyZQogICAgICAgIHNvIGhhcmQgdG8gYnVpbGQ8YnI+CiAg
+ICAgICAgPGRpdj4KICAgICAgICAgIDxkaXY+Jm5ic3A7Jm5ic3A7Jm5ic3A7ICZuYnNwOyZuYnNw
+OyZuYnNwOyAtICJUaGVyZSBpcyBubyBzdGFuZGFyZCB3YXkgb2YgcHJlc2VudGluZyBvbmxpbmUK
+ICAgICAgICAgICAgY3JpdGljYWwgZWRpdGlvbnMgKHdoZXJlYXMgbW9zdCBwcmludGVkIHRleHRz
+IGFyZSBwdWJsaXNoZWQKICAgICAgICAgICAgaW4gc2VyaWVzIHRoYXQgZm9sbG93IGEgc3R5bGUg
+Z3VpZGUpLiI8YnI+CiAgICAgICAgICAgICZuYnNwOyZuYnNwOyZuYnNwOyAmbmJzcDsmbmJzcDsm
+bmJzcDsgJm5ic3A7Jm5ic3A7Jm5ic3A7IC0gaW1wb3J0YW50IHBvaW50IHRoYXQgdGhlIGNvbW11
+bml0eSBoYXMgdG8KICAgICAgICAgICAgYWRkcmVzczsgYnV0IEkgc2VlIHRoZXNlIHB1YmxpY2F0
+aW9ucyBzZXJpZXMgY29taW5nIHVwOyBqdXN0CiAgICAgICAgICAgIHNvbWUgYXJiaXRyYXJ5IGV4
+YW1wbGVzOiZuYnNwOyA8YSBtb3otZG8tbm90LXNlbmQ9InRydWUiCiAgICAgICAgICAgICAgY2xh
+c3M9Im1vei10eHQtbGluay1mcmVldGV4dCIKICAgICAgICAgICAgICBocmVmPSJodHRwOi8vZWxl
+Yy5lbmMuc29yYm9ubmUuZnIvIj5odHRwOi8vZWxlYy5lbmMuc29yYm9ubmUuZnIvPC9hPgogICAg
+ICAgICAgICAtIDxhIG1vei1kby1ub3Qtc2VuZD0idHJ1ZSIgY2xhc3M9Im1vei10eHQtbGluay1m
+cmVldGV4dCIKICAgICAgICAgICAgICBocmVmPSJodHRwOi8vd3d3LnNkLWVkaXRpb25zLmNvbS9p
+bmRleC5odG1sIj5odHRwOi8vd3d3LnNkLWVkaXRpb25zLmNvbS9pbmRleC5odG1sPC9hPgogICAg
+ICAgICAgICAtIDxhIG1vei1kby1ub3Qtc2VuZD0idHJ1ZSIgY2xhc3M9Im1vei10eHQtbGluay1m
+cmVldGV4dCIKaHJlZj0iaHR0cDovL3d3dy5oYWIuZGUvZGUvaG9tZS9iaWJsaW90aGVrL2RpZ2l0
+YWxlLWJpYmxpb3RoZWstd2RiL2RpZ2l0YWxlLWVkaXRpb25lbi5odG1sIj5odHRwOi8vd3d3Lmhh
+Yi5kZS9kZS9ob21lL2JpYmxpb3RoZWsvZGlnaXRhbGUtYmlibGlvdGhlay13ZGIvZGlnaXRhbGUt
+ZWRpdGlvbmVuLmh0bWw8L2E+CiAgICAgICAgICAgIC0gPGEgbW96LWRvLW5vdC1zZW5kPSJ0cnVl
+IiBjbGFzcz0ibW96LXR4dC1saW5rLWZyZWV0ZXh0IgogICAgICAgICAgICAgIGhyZWY9Imh0dHA6
+Ly93d3cucmMudW1kLmVkdS9lZGl0aW9ucy8iPmh0dHA6Ly93d3cucmMudW1kLmVkdS9lZGl0aW9u
+cy88L2E+PGJyPgogICAgICAgICAgICA8ZGl2PiZuYnNwOyZuYnNwOyZuYnNwOyAmbmJzcDsmbmJz
+cDsmbmJzcDsgLSAiRGVsdmluZyBpbnRvIGFjYWRlbWljIHBvbGl0aWNzLCBwdWJsaXNoZXJzCiAg
+ICAgICAgICAgICAgaGF0ZSB0aGVtIGFuZCBtYW55IHVuaXZlcnNpdGllcyBkb24ndCBjb3VudCBk
+aWdpdGFsCiAgICAgICAgICAgICAgcHJvamVjdHMgdG93YXJkIHRlbnVyZS4iPGJyPgogICAgICAg
+ICAgICAgICZuYnNwOyZuYnNwOyZuYnNwOyAmbmJzcDsmbmJzcDsmbmJzcDsgJm5ic3A7Jm5ic3A7
+Jm5ic3A7IC0gdHJhZGl0aW9uYWwgcHVibGlzaGVycyB3aWxsIG5vdCBzb2x2ZSB0aGUKICAgICAg
+ICAgICAgICBwcm9ibGVtcyBvZiBTREVzPGJyPgogICAgICAgICAgICAgICZuYnNwOyZuYnNwOyZu
+YnNwOyAmbmJzcDsmbmJzcDsmbmJzcDsgJm5ic3A7Jm5ic3A7Jm5ic3A7IC0gYWNhZGVtaWMgaW50
+ZXJlc3QgZ3JvdXBzIGFyZSBzdGFydGluZyB0bwogICAgICAgICAgICAgIGRlYWwgd2l0aCB0aGUg
+cHJvYmxlbSBvZiBjcmVkaWJpbGl0eSBvZiBkaWdpdGFsIHdvcmsgKHRoZQogICAgICAgICAgICAg
+IEdlcm1hbiBIaXN0b3JpYW5zIFVuaW9uIGhhcyBqdXN0IHNldCB1cCBhIHdvcmtpbmcgZ3JvdXAg
+b24KICAgICAgICAgICAgICBkaWdpdGFsIHNjaG9sYXJzaGlwIHdpdGggYSBzdWJncm91cCBvbiBj
+cmVkaXRpbmcgZGlnaXRhbAogICAgICAgICAgICAgIHdvcmsgaW4gdGVudXJlIGFuZCBwcm9tb3Rp
+b24pPGJyPgogICAgICAgICAgICAgICZuYnNwOyZuYnNwOyZuYnNwOyAtIHNlY29uZDogc3VjY2Vz
+cyBvbiB0aGUgcmVhZGVyJ3Mgc2lkZSBjYW4gb25seSBiZQogICAgICAgICAgICAgIG1lYXN1cmVk
+IGluIGNvbXBhcmlzb24gdG8gdGhlIHN1Y2Nlc3Mgb2YgdHJhZGl0aW9uYWwKICAgICAgICAgICAg
+ICBwcmludGVkIGVkaXRpb25zLiBJbiBjb21wYXJpc29uIHRvIHRoZSBmYWN0IHRoYXQgdGhvc2UK
+ICAgICAgICAgICAgICBvZnRlbiBoYWQgYW4gZXh0cmVtbHkgbG93IGNpcmN1bGF0aW9uLCB3ZXJl
+IGJvdWdodCBuZWFybHkKICAgICAgICAgICAgICBleGNsdXNpdmVseSBieSBsaWJyYXJpZXMgLi4u
+Ljxicj4KICAgICAgICAgICAgICAmbmJzcDsmbmJzcDsmbmJzcDsgLSB0aGlyZDogc3VjY2VzcyBv
+biB0aGUgc2lkZSBvZiB0aGUgZWRpdG9ycy4gV2UgaGFkIDYKICAgICAgICAgICAgICBzdW1tZXIg
+c2Nob29scyBvbiBzY2hvbGFybHkgZGlnaXRhbCBlZGl0aW5nIGluIHRoZSBsYXN0IDUKICAgICAg
+ICAgICAgICB5ZWFycyAoPGEgbW96LWRvLW5vdC1zZW5kPSJ0cnVlIgogICAgICAgICAgICAgICAg
+Y2xhc3M9Im1vei10eHQtbGluay1mcmVldGV4dCIKICAgICAgICAgICAgICAgIGhyZWY9Imh0dHA6
+Ly93d3cuaS1kLWUuZGUvZXZlbnRzLWRlcy1pZGUiPmh0dHA6Ly93d3cuaS1kLWUuZGUvZXZlbnRz
+LWRlcy1pZGU8L2E+KS4KICAgICAgICAgICAgICBBbGwgaGF2ZSBiZWVuIG92ZXJib29rZWQuIEkg
+c2VlIGZld2VyIGFuZCBmZXdlciBuZXdseQogICAgICAgICAgICAgIHN0YXJ0aW5nIGVkaXRpb24g
+cHJvamVjdHMgdGhhdCBkb24ndCBoYXZlIGEgZGlnaXRhbAogICAgICAgICAgICAgIGNvbXBvbmVu
+dCBvciBiYXNpcy4gVGhlcmUgaXMgc29tZSBwcmVzc3VyZSBmcm9tIHRoZQogICAgICAgICAgICAg
+IGZ1bmRpbmcgYm9kaWVzLCB0aGF0IG5ldyBwcm9qZWN0cyBhbmQgbmV3IGVkaXRpb25zIGhhdmUg
+dG8KICAgICAgICAgICAgICBiZSBkaWdpdGFsLiBCdXQgY2hhbmdlIHRha2VzIHNvbWUgdGltZS48
+YnI+CiAgICAgICAgICAgICAgPGJyPgogICAgICAgICAgICAgIEJlc3QsIFBhdHJpY2s8YnI+CiAg
+ICAgICAgICAgICAgPGJyPgogICAgICAgICAgICAgIDxicj4KICAgICAgICAgICAgICBBbSAxMy4w
+My4yMDEzIDIxOjAxLCBzY2hyaWViIERvdCBQb3J0ZXI6PGJyPgogICAgICAgICAgICA8L2Rpdj4K
+ICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgICAgPGJsb2Nr
+cXVvdGUKY2l0ZT0ibWlkOkNBSGZKSGszSlgyT0FDZ29PZ3lzM0hCMit4UjIwdWgxZWhPc0ppNnkr
+KzVreDVwVmU1d0BtYWlsLmdtYWlsLmNvbSIKICAgICAgICB0eXBlPSJjaXRlIj4KICAgICAgICA8
+ZGl2IGRpcj0ibHRyIj4KICAgICAgICAgIDxkaXY+TXkgYXJ0aWNsZSBsb29raW5nIGF0IGhvdyBt
+ZWRpZXZhbGlzdHMgdXNlIGFuZCBjb25zaWRlcgogICAgICAgICAgICBkaWdpdGFsIGVkaXRpb25z
+IGhhcyBqdXN0IGJlZW4gcHVibGlzaGVkIGluIFNjaG9sYXJseQogICAgICAgICAgICBFZGl0aW5n
+OiBUaGUgQW5udWFsIG9mIHRoZSBBc3NvY2lhdGlvbiBmb3IgRG9jdW1lbnRhcnkKICAgICAgICAg
+ICAgRWRpdGluZy4gSXQgbWF5IGJlIG9mIHNvbWUgaW50ZXJlc3QgdG8gZm9sa3Mgb24gdGhlIGxp
+c3QKICAgICAgICAgICAgKGFuZCBjb25zdHJ1Y3RpdmUgY3JpdGljaXNtLCBkaXJlY3RseSB0byBt
+ZSB0byB0byB0aGUgbGlzdCwKICAgICAgICAgICAgaXMgbW9zdCB3ZWxjb21lISk8YnI+CiAgICAg
+ICAgICAgIDxicj4KICAgICAgICAgICAgPGEgbW96LWRvLW5vdC1zZW5kPSJ0cnVlIgogICAgICAg
+ICAgICAgIGhyZWY9Imh0dHA6Ly93d3cuc2Nob2xhcmx5ZWRpdGluZy5vcmcvMjAxMy9lc3NheXMv
+ZXNzYXkucG9ydGVyLmh0bWwiPmh0dHA6Ly93d3cuc2Nob2xhcmx5ZWRpdGluZy5vcmcvMjAxMy9l
+c3NheXMvZXNzYXkucG9ydGVyLmh0bWw8L2E+PGJyPgogICAgICAgICAgICA8YnI+CiAgICAgICAg
+ICA8L2Rpdj4KICAgICAgICAgIERvdDxiciBjbGVhcj0iYWxsIj4KICAgICAgICAgIDxkaXY+CiAg
+ICAgICAgICAgIDxkaXY+PGJyPgogICAgICAgICAgICAgIC0tIDxicj4KICAgICAgICAgICAgICAq
+fip+Kn4qfip+Kn4qfip+Kn4qfio8YnI+CiAgICAgICAgICAgICAgRG90IFBvcnRlciAoTUEsIE1T
+TFMpJm5ic3A7ICZuYnNwOyAmbmJzcDsgJm5ic3A7PGJyPgogICAgICAgICAgICAgIERpZ2l0YWwg
+TWVkaWV2YWxpc3QsIERpZ2l0YWwgTGlicmFyaWFuPGJyPgogICAgICAgICAgICAgIEVtYWlsOiA8
+YSBtb3otZG8tbm90LXNlbmQ9InRydWUiCiAgICAgICAgICAgICAgICBocmVmPSJtYWlsdG86ZG90
+LnBvcnRlckBnbWFpbC5jb20iIHRhcmdldD0iX2JsYW5rIj5kb3QucG9ydGVyQGdtYWlsLmNvbTwv
+YT48YnI+CiAgICAgICAgICAgICAgUGVyc29uYWwgYmxvZzogPGEgbW96LWRvLW5vdC1zZW5kPSJ0
+cnVlIgogICAgICAgICAgICAgICAgaHJlZj0iaHR0cDovL2RvdHBvcnRlcmRpZ2l0YWwub3JnIiB0
+YXJnZXQ9Il9ibGFuayI+ZG90cG9ydGVyZGlnaXRhbC5vcmc8L2E+PGJyPgogICAgICAgICAgICAg
+IE1FU0EgYmxvZzogPGEgbW96LWRvLW5vdC1zZW5kPSJ0cnVlIgogICAgICAgICAgICAgICAgaHJl
+Zj0iaHR0cDovL3d3dy5kbGliLmluZGlhbmEuZWR1L3Byb2plY3RzL21lc2EvIgogICAgICAgICAg
+ICAgICAgdGFyZ2V0PSJfYmxhbmsiPmh0dHA6Ly93d3cuZGxpYi5pbmRpYW5hLmVkdS9wcm9qZWN0
+cy9tZXNhLzwvYT48YnI+CiAgICAgICAgICAgICAgTUVTQSBvbiBGYWNlYm9vazogPGEgbW96LWRv
+LW5vdC1zZW5kPSJ0cnVlIgogICAgICAgICAgICAgICAgaHJlZj0iaHR0cHM6Ly93d3cuZmFjZWJv
+b2suY29tL01lZGlldmFsRWxlY3Ryb25pY1NjaG9sYXJseUFsbGlhbmNlIgogICAgICAgICAgICAg
+ICAgdGFyZ2V0PSJfYmxhbmsiPmh0dHBzOi8vd3d3LmZhY2Vib29rLmNvbS9NZWRpZXZhbEVsZWN0
+cm9uaWNTY2hvbGFybHlBbGxpYW5jZTwvYT48YnI+CiAgICAgICAgICAgICAgKn4qfip+Kn4qfip+
+Kn4qfip+Kn4qIDwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICAgICAg
+PGJyPgogICAgICAgIDxmaWVsZHNldCBjbGFzcz0ibWltZUF0dGFjaG1lbnRIZWFkZXIiPjwvZmll
+bGRzZXQ+CiAgICAgICAgPGJyPgogICAgICAgIDxwcmUgd3JhcD0iIj5EaWdpdGFsIE1lZGlldmFs
+aXN0IC0tICA8YSBtb3otZG8tbm90LXNlbmQ9InRydWUiIGNsYXNzPSJtb3otdHh0LWxpbmstZnJl
+ZXRleHQiIGhyZWY9Imh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy8iPmh0dHA6Ly93
+d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy88L2E+CkpvdXJuYWw6IDxhIG1vei1kby1ub3Qtc2Vu
+ZD0idHJ1ZSIgY2xhc3M9Im1vei10eHQtbGluay1mcmVldGV4dCIgaHJlZj0iaHR0cDovL3d3dy5k
+aWdpdGFsbWVkaWV2YWxpc3Qub3JnL2pvdXJuYWwvIj5odHRwOi8vd3d3LmRpZ2l0YWxtZWRpZXZh
+bGlzdC5vcmcvam91cm5hbC88L2E+CkpvdXJuYWwgRWRpdG9yczogZWRpdG9ycyBfQVRfIGRpZ2l0
+YWxtZWRpZXZhbGlzdC5vcmcKTmV3czogPGEgbW96LWRvLW5vdC1zZW5kPSJ0cnVlIiBjbGFzcz0i
+bW96LXR4dC1saW5rLWZyZWV0ZXh0IiBocmVmPSJodHRwOi8vd3d3LmRpZ2l0YWxtZWRpZXZhbGlz
+dC5vcmcvbmV3cy8iPmh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy9uZXdzLzwvYT4K
+V2lraTogPGEgbW96LWRvLW5vdC1zZW5kPSJ0cnVlIiBjbGFzcz0ibW96LXR4dC1saW5rLWZyZWV0
+ZXh0IiBocmVmPSJodHRwOi8vd3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmcvd2lraS8iPmh0dHA6
+Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy93aWtpLzwvYT4KVHdpdHRlcjogPGEgbW96LWRv
+LW5vdC1zZW5kPSJ0cnVlIiBjbGFzcz0ibW96LXR4dC1saW5rLWZyZWV0ZXh0IiBocmVmPSJodHRw
+Oi8vdHdpdHRlci5jb20vZGlnaXRhbG1lZGlldmFsIj5odHRwOi8vdHdpdHRlci5jb20vZGlnaXRh
+bG1lZGlldmFsPC9hPgpGYWNlYm9vazogPGEgbW96LWRvLW5vdC1zZW5kPSJ0cnVlIiBjbGFzcz0i
+bW96LXR4dC1saW5rLWZyZWV0ZXh0IiBocmVmPSJodHRwOi8vd3d3LmZhY2Vib29rLmNvbS9ncm91
+cC5waHA/Z2lkPTQ5MzIwMzEzNzYwIj5odHRwOi8vd3d3LmZhY2Vib29rLmNvbS9ncm91cC5waHA/
+Z2lkPTQ5MzIwMzEzNzYwPC9hPgpEaXNjdXNzaW9uIGxpc3Q6IDxhIG1vei1kby1ub3Qtc2VuZD0i
+dHJ1ZSIgY2xhc3M9Im1vei10eHQtbGluay1hYmJyZXZpYXRlZCIgaHJlZj0ibWFpbHRvOmRtLWxA
+dWxldGguY2EiPmRtLWxAdWxldGguY2E8L2E+CkNoYW5nZSBsaXN0IG9wdGlvbnM6IDxhIG1vei1k
+by1ub3Qtc2VuZD0idHJ1ZSIgY2xhc3M9Im1vei10eHQtbGluay1mcmVldGV4dCIgaHJlZj0iaHR0
+cDovL2xpc3RzZXJ2LnVsZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0tbCI+aHR0cDovL2xpc3Rz
+ZXJ2LnVsZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0tbDwvYT48L3ByZT4KICAgICAgPC9ibG9j
+a3F1b3RlPgogICAgICA8YnI+CiAgICAgIDxicj4KICAgICAgPGRpdiBjbGFzcz0ibW96LXNpZ25h
+dHVyZSI+LS0gPGJyPgogICAgICAgIDxocj4gTmV3IEJvb2socykgb3V0IG5vdzogUGF0cmljayBT
+YWhsZSwgRGlnaXRhbGUgRWRpdGlvbnNmb3JtZW4KICAgICAgICAtIDxhIG1vei1kby1ub3Qtc2Vu
+ZD0idHJ1ZSIKICAgICAgICAgIGhyZWY9Imh0dHA6Ly93d3cuaS1kLWUuZGUvc2NocmlmdGVuL3M3
+LTktZGlnaXRhbGUtZWRpdGlvbnNmb3JtZW4iPmh0dHA6Ly93d3cuaS1kLWUuZGUvc2NocmlmdGVu
+L3M3LTktZGlnaXRhbGUtZWRpdGlvbnNmb3JtZW48L2E+CiAgICAgICAgPGJyPgogICAgICAgIEEp
+IDxhIG1vei1kby1ub3Qtc2VuZD0idHJ1ZSIKICAgICAgICAgIGhyZWY9Imh0dHA6Ly93d3cuY2Nl
+aC51bmkta29lbG4uZGUvIj5Db2xvZ25lIENlbnRlciBmb3IKICAgICAgICAgIGVIdW1hbml0aWVz
+IChDQ2VIKTwvYT4gKE1pdGFyYmVpdGVyKTxicj4KICAgICAgICBCKSA8YSBtb3otZG8tbm90LXNl
+bmQ9InRydWUiIGhyZWY9Imh0dHA6Ly9kZS5kYXJpYWguZXUvIj5EQVJJQUgtREUKICAgICAgICAg
+IChEaWdpdGFsIFJlc2VhcmNoIEluZnJhc3RydWN0dXJlIGZvciB0aGUgQXJ0cyBhbmQgSHVtYW5p
+dGllcyk8L2E+CiAgICAgICAgKE1pdGFyYmVpdGVyKTxicj4KICAgICAgICBDKSA8YSBtb3otZG8t
+bm90LXNlbmQ9InRydWUiCiAgICAgICAgICBocmVmPSJodHRwOi8vd3d3LmhraS51bmkta29lbG4u
+ZGUvIj5IdW1hbml0aWVzIENvbXB1dGVyCiAgICAgICAgICBTY2llbmNlLCBVbml2ZXJzaXR5IG9m
+IENvbG9nbmU8L2E+IChNaXRhcmJlaXRlcik8YnI+CiAgICAgICAgRCkgPGEgbW96LWRvLW5vdC1z
+ZW5kPSJ0cnVlIiBocmVmPSJodHRwOi8vd3d3LmktZC1lLmRlIj5JbnN0aXR1dAogICAgICAgICAg
+ZiZ1dW1sO3IgRG9rdW1lbnRvbG9naWUgdW5kIEVkaXRvcmlrPC9hPiAoTWl0Z2xpZWQpPGJyPgog
+ICAgICAgIDxicj4KICAgICAgICBQb3N0OiBIaXN0b3Jpc2NoLUt1bHR1cndpc3NlbnNjaGFmdGxp
+Y2hlCiAgICAgICAgSW5mb3JtYXRpb25zdmVyYXJiZWl0dW5nLCBVbml2ZXJzaXQmYXVtbDt0IHp1
+IEsmb3VtbDtsbiwKICAgICAgICBBbGJlcnR1cy1NYWdudXMtUGxhdHosIEQtNTA5MjMgSyZvdW1s
+O2xuPGJyPgogICAgICAgIEImdXVtbDtybzogVW5pdmVyc2l0JmF1bWw7dHNzdHIuIDIyLCBEYWNo
+Z2VzY2hvc3MgbGlua3M8YnI+CiAgICAgICAgVGVsZWZvbjogKzQ5IC0gKDApMjIxIC0gNDcwIDE3
+NTAKICAgICAgICA8aHI+IFp1ciBQZXJzb246IDxhIG1vei1kby1ub3Qtc2VuZD0idHJ1ZSIKICAg
+ICAgICAgIGhyZWY9Imh0dHA6Ly93d3cudW5pLWtvZWxuLmRlLyU3RWFoejI2Ij5odHRwOi8vd3d3
+LnVuaS1rb2Vsbi5kZS9+YWh6MjY8L2E+PC9kaXY+CiAgICAgIDxicj4KICAgICAgPGZpZWxkc2V0
+IGNsYXNzPSJtaW1lQXR0YWNobWVudEhlYWRlciI+PC9maWVsZHNldD4KICAgICAgPGJyPgogICAg
+ICA8cHJlIHdyYXA9IiI+RGlnaXRhbCBNZWRpZXZhbGlzdCAtLSAgPGEgY2xhc3M9Im1vei10eHQt
+bGluay1mcmVldGV4dCIgaHJlZj0iaHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnLyI+
+aHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnLzwvYT4KSm91cm5hbDogPGEgY2xhc3M9
+Im1vei10eHQtbGluay1mcmVldGV4dCIgaHJlZj0iaHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxp
+c3Qub3JnL2pvdXJuYWwvIj5odHRwOi8vd3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmcvam91cm5h
+bC88L2E+CkpvdXJuYWwgRWRpdG9yczogZWRpdG9ycyBfQVRfIGRpZ2l0YWxtZWRpZXZhbGlzdC5v
+cmcKTmV3czogPGEgY2xhc3M9Im1vei10eHQtbGluay1mcmVldGV4dCIgaHJlZj0iaHR0cDovL3d3
+dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnL25ld3MvIj5odHRwOi8vd3d3LmRpZ2l0YWxtZWRpZXZh
+bGlzdC5vcmcvbmV3cy88L2E+Cldpa2k6IDxhIGNsYXNzPSJtb3otdHh0LWxpbmstZnJlZXRleHQi
+IGhyZWY9Imh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy93aWtpLyI+aHR0cDovL3d3
+dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnL3dpa2kvPC9hPgpUd2l0dGVyOiA8YSBjbGFzcz0ibW96
+LXR4dC1saW5rLWZyZWV0ZXh0IiBocmVmPSJodHRwOi8vdHdpdHRlci5jb20vZGlnaXRhbG1lZGll
+dmFsIj5odHRwOi8vdHdpdHRlci5jb20vZGlnaXRhbG1lZGlldmFsPC9hPgpGYWNlYm9vazogPGEg
+Y2xhc3M9Im1vei10eHQtbGluay1mcmVldGV4dCIgaHJlZj0iaHR0cDovL3d3dy5mYWNlYm9vay5j
+b20vZ3JvdXAucGhwP2dpZD00OTMyMDMxMzc2MCI+aHR0cDovL3d3dy5mYWNlYm9vay5jb20vZ3Jv
+dXAucGhwP2dpZD00OTMyMDMxMzc2MDwvYT4KRGlzY3Vzc2lvbiBsaXN0OiA8YSBjbGFzcz0ibW96
+LXR4dC1saW5rLWFiYnJldmlhdGVkIiBocmVmPSJtYWlsdG86ZG0tbEB1bGV0aC5jYSI+ZG0tbEB1
+bGV0aC5jYTwvYT4KQ2hhbmdlIGxpc3Qgb3B0aW9uczogPGEgY2xhc3M9Im1vei10eHQtbGluay1m
+cmVldGV4dCIgaHJlZj0iaHR0cDovL2xpc3RzZXJ2LnVsZXRoLmNhL21haWxtYW4vbGlzdGluZm8v
+ZG0tbCI+aHR0cDovL2xpc3RzZXJ2LnVsZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0tbDwvYT48
+L3ByZT4KICAgIDwvYmxvY2txdW90ZT4KICAgIDxicj4KICA8L2JvZHk+CjwvaHRtbD4K

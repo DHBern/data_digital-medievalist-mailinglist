@@ -1,0 +1,32 @@
+Subject: Re: [dm-l] Teaching the TEI: your practice?Dear Marjorie,> I would be interested in a feedback of your practice: do you, when you
+> teach the TEI, feel the need / manage to integrate notions about other
+> tools and technologies of the XML family? And if so, how do you do that
+> (proper introduction to XSLT? use of packaged tools like the v-machine?
+> etc.).when I teach the use of TEI in course of mansucript description and/or 
+digital editions a very important notion is the one that encoding has to 
+be done with not only looking at what is there (e.g. in the source) but 
+as well what the result of this exercise would have to look like."Don't encode what you don't use for research or presentation!"Only if one knew what s/he wants to achieve "proper" encoding is 
+possible. In order to know (or at least guess) what you *can* achieve I 
+think its necessary to know a bit about the processing (e.g. XSLT) or 
+the publishing process (e.g. DB plus XQuery).But: An as strong point as the previous is to take into consideration 
+that it might be helpful to (re!)establish the division of work: One to 
+encode data and do or at least prepare research on the data and let 
+someone else take responsibility for publishing both original data and 
+research results. Although it has become common practice that 
+researchers have to publish their work on their own ("Word is doing such 
+good work"), in the field of DBs and X-technologies the gap between good 
+contents and good "publication" is even deeper than it was in the age of 
+print. (We only had forgotten that good print needs something more than 
+just Word and were left with this task!) Thus the presentation to XSLT 
+or DBs might be rather limited, more like just a glimpse to know what's 
+out there.Courses which show these aspects are:
+(information mainly in German, sorry)http://www.hab.de/bibliothek/sammlungen/hzdfg/SCRIPTO/index.htm
+http://www.i-d-e.de/spring-school-2011
+I consider all this is valid for all XML-based work not only TEI.Best, Torsten-- 
+Torsten Schassan
+Digitale Editionen
+Abteilung Handschriften und Sondersammlungen
+Herzog August Bibliothek, Postfach 1364, D-38299 Wolfenbuettel
+Tel.: +49-5331-808-130 (Fax -165), schassan {at} hab.dehttp://www.hab.de/forschung/projekte/europeana-regia.htm
+http://www.hab.de/forschung/projekte/weiss64.htm
+--===============7683644792011633555==--

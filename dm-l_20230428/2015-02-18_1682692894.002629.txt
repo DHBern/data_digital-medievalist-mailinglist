@@ -1,0 +1,54 @@
+Subject: Re: [dm-l] comparisons of different e-MS readers?Hello:
+It was the still in development Mirador 2 in the demonstration.
+Eben English has just done a presentation at Code4Lib=20video at https://www.youtube.com/watch?v=3DgCfpQgXcpTE&t=3D2h40m16s=20slides at http://slidesha.re/1DiNNucwhich addresses this question. Nowadays it may not even be a competition, as =
+it is possible to serve many of the viewers as javascript with the images and=
+ leave the end viewer to make their choice.It may also be appropriate to deploy different viewers with different materia=
+l types (such as the map viewer at oldmapsonline.org for maps or georeference=
+d material) or to try the approach of the Wellcome who have commissioned (and=
+ are making generally available) a more universal viewer that can cope with a=
+ll the formats (video and audio as well as paper-based) that their spectacula=
+r collections contain. From the perspective of those of us dishing out the on=
+es and zeros, having a single solution that copes with all formats is obvious=
+ly a bonus for reducing our workload and potential future migration issues, b=
+ut our consumers may have other priorities. Hopefully IIIF will allow us to r=
+each a compromise that keeps us both happy.
+Richard
+- - - - -
+# Richard Higgins
+# Durham University Library
+# Archives & Special Collections
+# Palace Green
+# Durham
+# DH1 3RN
+_redacted_(a)durham.ac.uk________________________________________
+_redacted_(a)uleth.ca] on behalf of Sara L. Uckelman [s.l.uckel=
+_redacted_(a)durham.ac.uk]
+Sent: 18 February 2015 13:02
+_redacted_(a)uleth.ca>
+Subject: [dm-l] comparisons of different e-MS readers?Yesterday I attended a planning meaning concerning the Durham priory
+library's manuscript collection, which is planned for digitisation
+over the next 5-10 years.  A question came up about whether there's
+been any study done on the relative *technical* merits of different
+platforms/programmes for viewing manuscripts, either online or
+downloaded locally.  (The person was specifically interested in reviews
+or comparisons done by people with the relevant computational know-
+how).I confess to not being very familiar with this terrain; I've used
+Uni-HD's reader online (see, e.g., the Manesse codex:
+http://digi.ub.uni-heidelberg.de/diglit/cpg848/0001?sid=3Dc1e158af8bb04a02441=
+c48d73cfba985)
+and the reader used by, e.g.,
+http://daten.digitale-sammlungen.de/0000/bsb00001649/images/, but I
+don't even know what the programmes behind these sites are!  The one
+that was demonstrated to us is Mirador:
+http://www.biblissima-condorcet.fr/en/news/interoperable-viewer-prototype-now=
+-online-mirador,
+http://iiif.io/, and it was really
+cool.  I'd love to know how it stacks up against the competition.Cheers,
+-Sara
+--
+Dr. Sara L. Uckelman
+Department of Philosophy
+Durham University
+https://www.dur.ac.uk/philosophy/staff/?id=3D12928
+http://dmnes.wordpress.com/
+--===============1053248309358282690==--

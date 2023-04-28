@@ -1,0 +1,20 @@
+Subject: Re: [dm-l] [Fwd: encoding  maps, graphics with text?]Hi there,Hi there,You're right -- if the page scrolls, the popup code isn't allowing for the 
+scroll offset. I'll put that on my to-do list. Many thanks!Cheers,
+MartinAt 09:25 AM 07/07/2004, you wrote:
+>I didn't get round to downloading Firefox 0.9.1, will do soon and report :-)
+>
+>In Firefox 0.7 it seems that the farther down the page you browse the 
+>higher in the browser window a yellow popup is positioned. So if I scroll 
+>down to the very bottom of a page and hover the cursor above e.g. "Laura" 
+>at the foot of a page, the yellow popup is displayed at the complete top 
+>of my browser window (so very much not near the "Laura" in question). 
+>Sometimes in such a case I can't see the the yellow popup, because it's 
+>seems to be depicted somewhere beyond the top of my browser window. A 
+>minor detail I guess, thought I'd mention it anyhow. Hope it's helpfull.Martin Holmes
+University of Victoria Humanities Computing and Media Centre
+_redacted_(a)uvic.ca
+_redacted_(a)mholmes.com
+_redacted_(a)halfbakedsoftware.com
+http://www.mholmes.com
+http://web.uvic.ca/hcmc/
+http://www.halfbakedsoftware.com

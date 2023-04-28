@@ -1,0 +1,99 @@
+Subject: Re: [dm-l] Autoinstall for fontsTravis Brown wrote:
+You won't really get an auto-execute on CD
+> insert...there will have to be an explicit command from the user ("A click
+> here to continue") sort of thing, but you can get the ball rolling.This is just what I was thinking: perhaps linking install batch files to 
+a start HTML page. E.g. "This page will install the necessary fonts for 
+this book. Click the appropriate button for your operating system.Anybody with anything like that?-dan
+> 
+> Also, you might have to consider the licensing of the font if you are
+> distributing it, unless you created it or own the license.That's a separate issue. The font I'd want loaded is Peter Baker's 
+Junicode, which I think is GNU.
+> 
+> Travis
+_redacted_(a)lacuna.ca
+> http://www.stealingfire.com/middleground
+> 
+> 
+> 
+> -----Original Message-----
+_redacted_(a)uleth.ca] On Behalf Of
+> David Badke
+> Sent: October 23, 2004 10:25 AM
+_redacted_(a)uleth.ca; Digital Medievalist Community mailing list
+> Subject: Re: [dm-l] Autoinstall for fonts
+> 
+> First, I am uneasy with the idea of installing anything automatically when 
+> a CD is loaded (I am assuming that by "loaded" you mean simply making the 
+> CD accessible - ie, just putting it in the drive). At the very least I 
+> would want to notify the user and provide the option of not doing it.
+> 
+> Second, the procedure for installing fonts is very different on the various 
+> operating systems, and so would require an installer for each target 
+> system. For example, on Windows you only need to copy the appropriate files 
+> to the Font folder (usually \windows\fonts); on Mac you (I think) use a 
+> control panel. I very much doubt that you could have a single installer 
+> that would work for all systems.
+> 
+> Third, what happens when a CD is loaded is different on each system; for 
+> example, Windows (if enabled to do so) executes a specific file on the CD 
+> (usually called AutoRun), which contains instructions on what to do next 
+> (which can be most anything - display an option menu, run an installer, 
+> load a web page, etc.). I don't know how it works on Mac and Linux, but I 
+> doubt it is the same. Once again, you would probably need a separate 
+> process for each system.
+> 
+> In short, you would probably need a way to detect the type of system the CD 
+> is being loaded on, and react accordingly to install the fonts. I don't 
+> know of any such existing facility, and I suspect it would not be easy to
+> do.
+> 
+> David
+> 
+> 
+> At 09:53 AM 23/10/2004, you wrote:
+> 
+>>Hello all,
+>>        Does anybody know of an adaptable auto-install program that would 
+>>install fonts when a CD is loaded? I'm looking for something that ideally 
+>>would be open source, work equally well in most environments (e.g. Win, 
+>>Mac, Linux). Its main function would be to install a font a project needs 
+>>and, if possible, start a web-page up in the user's default browser.
+>>-dan
+>>--
+>>Daniel Paul O'Donnell, PhD
+>>Associate Professor of English
+>>University of Lethbridge
+>>Lethbridge AB T1K 3M4
+>>Tel. (403) 329-2377
+>>Fax. (403) 382-7191
+_redacted_(a)uleth.ca>
+>>Home Page <http://people.uleth.ca/~daniel.odonnell/>
+> 
+> 
+> 
+> David Badke
+> 
+> http://badke.ca/david
+> http://bestiary.ca
+> 
+> 
+> _______________________________________________
+> Project web site: http://www.digitalmedievalist.org/
+> dm-l mailing list
+_redacted_(a)uleth.ca
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+> 
+> 
+> _______________________________________________
+> Project web site: http://www.digitalmedievalist.org/
+> dm-l mailing list
+_redacted_(a)uleth.ca
+> http://listserv.uleth.ca/mailman/listinfo/dm-l-- 
+Daniel Paul O'Donnell, PhD
+Associate Professor of English
+University of Lethbridge
+Lethbridge AB T1K 3M4
+Tel. (403) 329-2377
+Fax. (403) 382-7191
+_redacted_(a)uleth.ca>
+Home Page <http://people.uleth.ca/~daniel.odonnell/>

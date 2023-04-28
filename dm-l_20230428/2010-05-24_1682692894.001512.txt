@@ -1,0 +1,70 @@
+Subject: Re: [dm-l] JSTOR and PDF Sizes (TAN)Apologies for sending the blank.I wanted to add that I get even better compression now using v9 Pro. I've see=
+n my scans go from 16 MB to a fee hundred KB!Per Jesse's instructions, click Advanced, then PDF Optimizer. You can even cr=
+eate a batch script to automate the optimization.KeithFabricando fabri fimus.
+Sent from my iPad_redacted_(a)byu.edu> wrote:> In Adobe Acrobat Professional (I have version 8), there is a panel
+> under the "Advanced" menu called the "PDF Optimizer" which allows you
+> to figure out where the bulk is and add some compression, delete
+> croppings, etc. I've had some luck squeezing files using that.
+>=20
+> Jesse
+>=20
+> On Fri, May 21, 2010 at 4:00 PM, O'Donnell, Dan
+_redacted_(a)uleth.ca> wrote:
+>> Hi have a question somebody here may know the answer to.
+>>=20
+>> A colleague of mine is scanning back issues of journal she edits for online
+>> publication. She is using PDF with OCR to provide full-text searchability a
+>> la JSTOR. The issue is that the file sizes are really quite different. A
+>> 30pp article from a 1920s issue of Speculum, for example, seems to come in
+>> about 1.5-2.0 MB; 5-6 page article in my colleagues journals are coming in
+>> about the same size, and other files are well over 4 MB.
+>>=20
+>> I haven't seen the settings used for the scanning or OCR yet, but the JSTOR
+>> and her files appear to be about the same resolution (eyeballing the page
+>> size when things are set to 100%). They look like they are being scanned in
+>> B&W, but I haven't checked (perhaps a colour channel is adding to the
+>> bulk?). Any other suggestions for things that might be causing the files to
+>> be abnormally large?
+>>=20
+>> -dan
+>>=20
+>> --
+>> Daniel Paul O'Donnell
+>> Professor of English
+>> University of Lethbridge
+>>=20
+>> Chair and CEO, Text Encoding Initiative (http://www.tei-c.org/)
+>> Co-Chair, Digital Initiatives Advisory Board, Medieval Academy of America
+>> President-elect (English), Society for Digital Humanities/Soci=C3=A9t=C3=
+=A9 pour
+>> l'=C3=A9tude des m=C3=A9dias interactifs (http://sdh-semi.org/)
+>> Founding Director (2003-2009), Digital Medievalist Project
+>> (http://www.digitalmedievalist.org/)
+>>=20
+>> Vox: +1 403 329-2377
+>> Fax: +1 403 382-7191 (non-confidential)
+>> Home Page: http://people.uleth.ca/~daniel.odonnell/
+>>=20
+>>=20
+>>=20
+>> Digital Medievalist --  http://www.digitalmedievalist.org/
+>> Journal: http://www.digitalmedievalist.org/journal/
+>> Journal Editors: editors _AT_ digitalmedievalist.org
+>> News: http://www.digitalmedievalist.org/news/
+>> Wiki: http://www.digitalmedievalist.org/wiki/
+>> Twitter: http://twitter.com/digitalmedieval
+>> Facebook: http://www.facebook.com/group.php?gidI320313760
+_redacted_(a)uleth.ca
+>> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>>=20
+>=20
+> Digital Medievalist --  http://www.digitalmedievalist.org/
+> Journal: http://www.digitalmedievalist.org/journal/
+> Journal Editors: editors _AT_ digitalmedievalist.org
+> News: http://www.digitalmedievalist.org/news/
+> Wiki: http://www.digitalmedievalist.org/wiki/
+> Twitter: http://twitter.com/digitalmedieval
+> Facebook: http://www.facebook.com/group.php?gidI320313760
+_redacted_(a)uleth.ca
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+--===============5664678795973958101==--

@@ -1,0 +1,13 @@
+Subject: [dm-l] DM Website back up!As announced earlier the DM website, www.digitalmedievalist.org, was
+taken down today for some essential maintenance.  Only minor
+complications were encountered in what was a long overdue set of
+upgrades through 4 operating system versions, and I believe these have
+been resolved.  It is hoped that this upgrade will solve a driver
+mismatch problem that was causing occasional downtime when the virtual
+machine would fail to restart properly whenever the VM servers at
+University of Lethbridge had a problem which necessitated their own
+restart.  Simultaneous to the multiple upgrades, some other underlying
+changes (hopefully invisible) were made which will allow further
+development of our journal production workflow.If you notice any problems with the site feel free to email either
+_redacted_(a)digitalmedievalist.org.Apologies for any inconvenience,James Cummings
+--===============1222757874274862157==--

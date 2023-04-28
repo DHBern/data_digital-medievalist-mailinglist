@@ -1,0 +1,46 @@
+Subject:The University of Caen and Prof. Matthew J. Driscoll held a symposium about
+exploring and exploiting TEI encoded data (Caen, 27/01/2012)For digital medievalists:
+- papers given by *Alex Speed Kjeldsen* (Morpho-syntactic annotation of
+ancient languages: The case of Old Norse), *Matthew James Driscoll
+*(Quantitative
+codicology) and *Lou Burnard *(Linguistic annotation).- tools presented by Serge *Heiden* (open-source plateform *TXM*),
+Maud *Ingarao
+*(*BaseX*, XML database)** and Marie *Bisson* (*Juxta *– comparison of
+texts and *automated critical apparatus*).« Exploration et exploitation des sources encodées en TEI », Séminaire, *
+Calenda*, publié le lundi 02 janvier 2012,
+http://calenda.revues.org/nouvelle22190.htmlM. Dominique Stutzmann
+Chargé de recherche à l'Institut de Recherche et d'Histoire des Textes
+(CNRS, UPR 841).
+Section de paléographie
+http://www.irht.cnrs.frChargé de conférences à l'Ecole Pratique des Hautes Etudes
+http://www.ephe.sorbonne.fr
+Membre du bureau exécutif de Digital Medievalist
+http://www.digitalmedievalist.org/
+ <http://www.irht.cnrs.fr/>VGhlIFVuaXZlcnNpdHkgb2YgQ2FlbiBhbmQgUHJvZi4gTWF0dGhldyBKLiBEcmlzY29sbCBoZWxk
+IGEgc3ltcG9zaXVtIGFib3V0IGV4cGxvcmluZyBhbmQgZXhwbG9pdGluZyBURUkgZW5jb2RlZCBk
+YXRhIChDYWVuLCAyNy8wMS8yMDEyKTxicj48YnI+Rm9yIGRpZ2l0YWwgbWVkaWV2YWxpc3RzOjxi
+cj4tIHBhcGVycyBnaXZlbiBieaA8Yj5BbGV4IFNwZWVkIEtqZWxkc2VuPC9iPiAoTW9ycGhvLXN5
+bnRhY3RpYyBhbm5vdGF0aW9uIG9mIGFuY2llbnQgbGFuZ3VhZ2VzOiBUaGUgY2FzZSBvZiBPbGQg
+Tm9yc2UpLCA8Yj5NYXR0aGV3IEphbWVzIERyaXNjb2xsIDwvYj4oUXVhbnRpdGF0aXZlIGNvZGlj
+b2xvZ3kpIGFuZCA8Yj5Mb3UgQnVybmFyZCA8L2I+KExpbmd1aXN0aWMgYW5ub3RhdGlvbikuPGJy
+PgoKPGJyPgotIHRvb2xzIHByZXNlbnRlZCBieSBTZXJnZSA8Yj5IZWlkZW48L2I+IChvcGVuLXNv
+dXJjZSBwbGF0ZWZvcm0gPGI+VFhNPC9iPiksIE1hdWQgPGI+SW5nYXJhbyA8L2I+KDxiPkJhc2VY
+PC9iPiwgWE1MIGRhdGFiYXNlKTxiPjwvYj4gYW5kIE1hcmllIDxiPkJpc3NvbjwvYj4gKDxiPkp1
+eHRhIDwvYj6WIGNvbXBhcmlzb24gb2YgdGV4dHMgYW5kIDxiPmF1dG9tYXRlZCBjcml0aWNhbCBh
+cHBhcmF0dXM8L2I+KS48YnI+CgoKPGJyPqugRXhwbG9yYXRpb24gZXQgZXhwbG9pdGF0aW9uIGRl
+cyBzb3VyY2VzIGVuY29k6WVzIGVuIFRFSaC7LCBT6W1pbmFpcmUsIDxlbT5DYWxlbmRhPC9lbT4s
+IHB1Ymxp6SBsZSBsdW5kaSAwMiBqYW52aWVyIDIwMTIsIDxhIGhyZWY9Imh0dHA6Ly9jYWxlbmRh
+LnJldnVlcy5vcmcvbm91dmVsbGUyMjE5MC5odG1sIiB0YXJnZXQ9Il9ibGFuayI+aHR0cDovL2Nh
+bGVuZGEucmV2dWVzLm9yZy9ub3V2ZWxsZTIyMTkwLmh0bWw8L2E+PGJyPgoKCjxwcmU+TS4gRG9t
+aW5pcXVlIFN0dXR6bWFubjxicj5DaGFyZ+kgZGUgcmVjaGVyY2hlIOAgbCYjMzk7SW5zdGl0dXQg
+ZGUgUmVjaGVyY2hlIGV0IGQmIzM5O0hpc3RvaXJlIGRlcyBUZXh0ZXMgKENOUlMsIFVQUiA4NDEp
+LiA8YnI+U2VjdGlvbiBkZSBwYWzpb2dyYXBoaWUgPGJyPjxhIHJlbD0ibm9mb2xsb3ciIGhyZWY9
+Imh0dHA6Ly93d3cuaXJodC5jbnJzLmZyLyIgdGFyZ2V0PSJfYmxhbmsiPmh0dHA6Ly93d3cuaXJo
+dC5jbnJzLmZyPC9hPjxicj4KCkNoYXJn6SBkZSBjb25m6XJlbmNlcyDgIGwmIzM5O0Vjb2xlIFBy
+YXRpcXVlIGRlcyBIYXV0ZXMgRXR1ZGVzIDxicj48YSBocmVmPSJodHRwOi8vd3d3LmVwaGUuc29y
+Ym9ubmUuZnIiIHRhcmdldD0iX2JsYW5rIj5odHRwOi8vd3d3LmVwaGUuc29yYm9ubmUuZnI8L2E+
+PGJyPk1lbWJyZSBkdSBidXJlYXUgZXjpY3V0aWYgZGUgRGlnaXRhbCBNZWRpZXZhbGlzdCA8YnI+
+PGEgaHJlZj0iaHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnLyIgdGFyZ2V0PSJfYmxh
+bmsiPmh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy88L2E+PGJyPgoKPGJyPjxhIHJl
+bD0ibm9mb2xsb3ciIGhyZWY9Imh0dHA6Ly93d3cuaXJodC5jbnJzLmZyLyIgdGFyZ2V0PSJfYmxh
+bmsiPjxicj48L2E+PC9wcmU+PGJyPgo=

@@ -1,0 +1,302 @@
+Subject: Re: [dm-l] Re: Experience using Microsoft's XSLT?I'm afraid mr. Burnard is slightly misinterpreting a popular IT-proverb.
+It's not that there are good or bad programmers and programming
+languages, but that there are no good or bad solutions, only more and
+less adequate ones.As for programming languages: yes, there are bad programming languages
+and XSLT is a good example of a bad programming language. Which it
+actually should be, because XSLT was never meant as a programming
+language, but as a template based transformational language for
+transforming XML into XML or into representational forms like HTML and
+not for logical handling of data.It's therefore very unfortunate that the XSLT 2.0 recommendation of the
+w3c includes even more characteristics that are typical for programming
+languages (like data types and logical structures). Rather XSLT 2.0
+should have confined the main purpose of XSL to where it's good at:
+simple straightforward transformations of (chunks of) XML. Sophisticated and complex handling of data, structure and functionality
+is more efficiently and adequately done or programmed in a robust
+programming environment (like Eclipse), preferably in matured
+programming languages (like Java or Python) using agile protocols.But that's all theory off course. In the real world XSLT will probably
+become somewhat like, and as popular as hybrid languages such as PHP,
+JSP and ASP. Such 'languages' just throw the whole bunch together: data,
+data structure, logic, representation and functionality. Which seems
+nice because it looks like you can do anything, fast. But in practice
+such languages in the long run lead to unmaintainable code where the
+boundaries between data and logic are unclear and portability and
+interoperability become zero. It's all about separation of concerns and
+responsibilities.
+ 
+It strikes me as rather strange that someone who very justifiably
+promoted XML/TEI as a way to separate the concerns of meaning and form,
+fails to see that XSLT does not do a very good job at this.
+ 
+y.s.,
+Joris van Zundertmr. Joris J. van Zundert (MA)
+Researcher & Programmer, dep. of Dutch Literature and Linguistics
+NIWI (Netherlands Institute for Scientific Information services)
+ 
+[visiting address]
+Joan Muyskenweg 25
+Amsterdam 
+[postal address]
+Postbus 95110
+1090 HC  Amsterdam
+[phone]
++31 (0)20 462 86 47 
+[fax]
++31 (0)20 665 80 13
+[e-mail]
+joris.van.zundert(insert_an_at_sign_here)niwi.knaw.nl
+[internet]
+www.niwi.knaw.nl
+ 
+ _redacted_(a)computing-services.oxford.ac.uk 6/23/04 18:20:47 >>>Peter, darling, you are talking nonsense. If you want a system based onwords, mark up the words and XSLT will cope very well. (Yes, people doit: cf the BNC and many others). Likewise, if you want a system in
+which 
+physical hierarchies matter, reflect that in your markup system.There are no good or bad programming languages: just good or bad 
+programmers. And designers.Lou
+Peter Robinson wrote:> Well, let us start off with a little minor controversy.
+> 
+> In the midst of converts to and enthusiasts for XSLT and that family
+of
+> tools, here is my two pennysworth. I suggest that a serious and
+full-scale
+> electronic edition of a typical medieval work, with the (now!)
+standard
+> requirement that it integrate text transcription/edition and images,
+to a
+> standard satisfactory for a scholarly user, cannot be made by these
+tools
+> from an XML base.
+> 
+> There are two reasons for this. The first reason is that it seems to
+me the
+> fundamental requirement of such an edition is that it should present
+a
+> single page of a manuscript transciption alongside a single
+manuscript image
+> (or, in variants of this, a single column alongside the image, etc).
+Given
+> the standard XML architecture of these editions as these have
+evolved,
+> whereby textual divisions are set in the content of elements but
+pages are
+> marked with empty anchor elements (eg <pb/>) this is just what XSLT
+etc find
+> very tricky indeed. If you can do it (and I have not yet seen this
+done,
+> though I have heard lengthy explanations of how it *might* be done)
+you can
+> only do it with great difficulty with the standard tools. The problem
+here
+> is our old bugbear overlapping hierarchies, and XSLT etc just don't
+have any
+> easy answer to this -- and maybe no reliable answer at all.
+> 
+> The second reason is to do with the nature of the XSLT programming
+language
+> and the kind of things we want to do with our displays, even in
+situations
+> where the problem of overlapping hierarchies does not hit us. Take a
+single
+> word in (for example) a line of transcription of a manuscript of the
+> Miller's Tale. A reader might think: I would like to see what any or
+all
+> other manuscripts have at this word; I want to know whether there is
+an
+> editorial comment on the readings at this point; I would like to see
+how the
+> pattern of readings at this point maps against the overall pattern
+of
+> relationships among the manuscripts; I would like a lot of this
+information
+> held within the display so that just passing the mouse over the word
+will
+> pop up some of it. And I want this for every word in every
+manuscript, and
+> I want all this generated real fast for each page as I am impatient,
+and I
+> want quite a few other things too. Typically, this information is
+scattered
+> right across many different XML source files. It all has to be
+fetched,
+> amalgamated, sorted, served up for say some five hundred words on a
+typical
+> manuscript page, all in a microsecond. And also, for the programmer:
+many
+> things could go wrong in here, with all the conditional tests which
+need to
+> be made at each point and all the possible branchings the program
+might have
+> to take to cope with the messiness of manuscript life, so the
+programmer
+> needs a responsive and transparent programming environment, where it
+is easy
+> to diagnose what is going wrong, where, as the displays are built. I
+sure
+> would hate to try to do this in XSLT etc. While XML is fine for many
+things,
+> it does not look a great environment for programming to me.
+> 
+> The question is germane because it now seems that a lot of effort is
+going
+> in to persuading humanities scholars, like us, that:
+> A. we put all our data into XML, preferable the TEI variety
+> B. we use XML programming tools like XSLT to get it to the reader
+> I think the first proposition is unquestionably right: that battle
+has been
+> won. But XML's victory in the first does not mean that XML is the
+right
+> answer for the second. Indeed, I don't think it is.
+> 
+> So, over to you all. I have set people this challenge before but here
+it is
+> again: someone, try to duplicate a typical single page say of our
+Hengwrt
+> Digital Facsimile from our XML source. And good luck to you.
+> 
+> All the best
+> Peter Robinson
+_______________________________________________
+dm-l mailing list
+_redacted_(a)uleth.ca 
+http://listserv.uleth.ca/mailman/listinfo/dm-l PEhUTUw+PEhFQUQ+CjxNRVRBIGh0dHAtZXF1aXY9Q29udGVudC1UeXBlIGNvbnRlbnQ9InRleHQv
+aHRtbDsgY2hhcnNldD1pc28tODg1OS0xIj4KPE1FVEEgY29udGVudD0iTVNIVE1MIDYuMDAuMjgw
+MC4xNDAwIiBuYW1lPUdFTkVSQVRPUj48L0hFQUQ+CjxCT0RZIHN0eWxlPSJNQVJHSU46IDRweCA0
+cHggMXB4OyBGT05UOiAxMHB0IEFyaWFsOyBDT0xPUjogIzAwMDAwMCI+CjxESVY+SSdtIGFmcmFp
+ZCBtci4gQnVybmFyZCBpcyBzbGlnaHRseSBtaXNpbnRlcnByZXRpbmcgYSBwb3B1bGFyIElULXBy
+b3ZlcmIuIEl0J3Mgbm90IHRoYXQgdGhlcmUgYXJlIGdvb2Qgb3IgYmFkIHByb2dyYW1tZXJzIGFu
+ZCBwcm9ncmFtbWluZyBsYW5ndWFnZXMsIGJ1dCB0aGF0IHRoZXJlIGFyZSBubyBnb29kIG9yIGJh
+ZCBzb2x1dGlvbnMsIG9ubHkgbW9yZSBhbmQgbGVzcyBhZGVxdWF0ZSBvbmVzLjwvRElWPgo8RElW
+PjxCUj5BcyBmb3IgcHJvZ3JhbW1pbmcgbGFuZ3VhZ2VzOiB5ZXMsIHRoZXJlIGFyZSBiYWQgcHJv
+Z3JhbW1pbmcgbGFuZ3VhZ2VzIGFuZCBYU0xUIGlzIGEgZ29vZCBleGFtcGxlIG9mIGEgYmFkIHBy
+b2dyYW1taW5nIGxhbmd1YWdlLiBXaGljaCBpdCBhY3R1YWxseSBzaG91bGQgYmUsIGJlY2F1c2Ug
+WFNMVCB3YXMgbmV2ZXIgbWVhbnQgYXMgYSBwcm9ncmFtbWluZyBsYW5ndWFnZSwgYnV0IGFzIGEg
+dGVtcGxhdGUgYmFzZWQgdHJhbnNmb3JtYXRpb25hbCBsYW5ndWFnZSBmb3IgdHJhbnNmb3JtaW5n
+IFhNTCBpbnRvIFhNTCBvciBpbnRvIHJlcHJlc2VudGF0aW9uYWwgZm9ybXMgbGlrZSBIVE1MIGFu
+ZCBub3QgZm9yIGxvZ2ljYWwgaGFuZGxpbmcgb2YgZGF0YS48L0RJVj4KPERJVj48QlI+SXQncyB0
+aGVyZWZvcmUgdmVyeSB1bmZvcnR1bmF0ZSB0aGF0IHRoZSBYU0xUIDIuMCByZWNvbW1lbmRhdGlv
+biBvZiB0aGUgdzNjIGluY2x1ZGVzIGV2ZW4gbW9yZSBjaGFyYWN0ZXJpc3RpY3MgdGhhdCBhcmUg
+dHlwaWNhbCBmb3IgcHJvZ3JhbW1pbmcgbGFuZ3VhZ2VzIChsaWtlIGRhdGEgdHlwZXMgYW5kIGxv
+Z2ljYWwgc3RydWN0dXJlcykuIFJhdGhlciBYU0xUIDIuMCBzaG91bGQgaGF2ZSBjb25maW5lZCB0
+aGUgbWFpbiBwdXJwb3NlIG9mIFhTTCB0byB3aGVyZSBpdCdzIGdvb2QgYXQ6IHNpbXBsZSBzdHJh
+aWdodGZvcndhcmQgdHJhbnNmb3JtYXRpb25zIG9mIChjaHVua3Mgb2YpIFhNTC4gPC9ESVY+CjxE
+SVY+PEJSPlNvcGhpc3RpY2F0ZWQgYW5kIGNvbXBsZXggaGFuZGxpbmcgb2YgZGF0YSwgc3RydWN0
+dXJlIGFuZCBmdW5jdGlvbmFsaXR5IGlzIG1vcmUgZWZmaWNpZW50bHkgYW5kIGFkZXF1YXRlbHkg
+ZG9uZSBvciBwcm9ncmFtbWVkIGluIGEgcm9idXN0IHByb2dyYW1taW5nIGVudmlyb25tZW50IChs
+aWtlIEVjbGlwc2UpLCBwcmVmZXJhYmx5IGluIG1hdHVyZWQgcHJvZ3JhbW1pbmcgbGFuZ3VhZ2Vz
+IChsaWtlIEphdmEgb3IgUHl0aG9uKSB1c2luZyBhZ2lsZSBwcm90b2NvbHMuPC9ESVY+CjxESVY+
+PEJSPkJ1dCB0aGF0J3MgYWxsIHRoZW9yeSBvZmYgY291cnNlLiBJbiB0aGUgcmVhbCB3b3JsZCBY
+U0xUIHdpbGwgcHJvYmFibHkgYmVjb21lIHNvbWV3aGF0IGxpa2UsIGFuZCBhcyBwb3B1bGFyIGFz
+IGh5YnJpZCBsYW5ndWFnZXMgc3VjaCBhcyBQSFAsIEpTUCZuYnNwO2FuZCBBU1AuIFN1Y2ggJ2xh
+bmd1YWdlcycganVzdCB0aHJvdyB0aGUgd2hvbGUgYnVuY2ggdG9nZXRoZXI6IGRhdGEsIGRhdGEg
+c3RydWN0dXJlLCBsb2dpYywgcmVwcmVzZW50YXRpb24gYW5kIGZ1bmN0aW9uYWxpdHkuIFdoaWNo
+IHNlZW1zIG5pY2UgYmVjYXVzZSBpdCBsb29rcyBsaWtlIHlvdSBjYW4gZG8gYW55dGhpbmcsIGZh
+c3QuIEJ1dCBpbiBwcmFjdGljZSBzdWNoIGxhbmd1YWdlcyBpbiB0aGUgbG9uZyBydW4gbGVhZCB0
+byB1bm1haW50YWluYWJsZSBjb2RlIHdoZXJlIHRoZSBib3VuZGFyaWVzIGJldHdlZW4gZGF0YSBh
+bmQgbG9naWMgYXJlIHVuY2xlYXIgYW5kIHBvcnRhYmlsaXR5IGFuZCBpbnRlcm9wZXJhYmlsaXR5
+IGJlY29tZSB6ZXJvLiBJdCdzIGFsbCBhYm91dCBzZXBhcmF0aW9uIG9mIGNvbmNlcm5zIGFuZCBy
+ZXNwb25zaWJpbGl0aWVzLjwvRElWPgo8RElWPiZuYnNwOzwvRElWPgo8RElWPkl0IHN0cmlrZXMg
+bWUgYXMgcmF0aGVyIHN0cmFuZ2UgdGhhdCBzb21lb25lIHdobyB2ZXJ5IGp1c3RpZmlhYmx5IHBy
+b21vdGVkIFhNTC9URUkgYXMgYSB3YXkgdG8gc2VwYXJhdGUgdGhlIGNvbmNlcm5zIG9mIG1lYW5p
+bmcgYW5kIGZvcm0sIGZhaWxzIHRvIHNlZSB0aGF0IFhTTFQgZG9lcyBub3QgZG8gYSB2ZXJ5IGdv
+b2Qgam9iIGF0IHRoaXMuPC9ESVY+CjxESVY+Jm5ic3A7PC9ESVY+CjxESVY+eS5zLiw8L0RJVj4K
+PERJVj5Kb3JpcyB2YW4gWnVuZGVydDxCUj48L0RJVj4KPERJVj5tci4mbmJzcDtKb3JpcyBKLiB2
+YW4gWnVuZGVydCAoTUEpPEJSPlJlc2VhcmNoZXIgJmFtcDsgUHJvZ3JhbW1lciwgZGVwLiBvZiBE
+dXRjaCBMaXRlcmF0dXJlIGFuZCBMaW5ndWlzdGljczxCUj5OSVdJIChOZXRoZXJsYW5kcyBJbnN0
+aXR1dGUgZm9yIFNjaWVudGlmaWMgSW5mb3JtYXRpb24gc2VydmljZXMpPC9ESVY+CjxESVY+Jm5i
+c3A7PC9ESVY+CjxESVY+W3Zpc2l0aW5nIGFkZHJlc3NdPEJSPkpvYW4gTXV5c2tlbndlZyAyNTxC
+Uj5BbXN0ZXJkYW0gPC9ESVY+CjxESVY+W3Bvc3RhbCBhZGRyZXNzXTxCUj5Qb3N0YnVzIDk1MTEw
+PEJSPjEwOTAgSEMmbmJzcDsgQW1zdGVyZGFtPC9ESVY+CjxESVY+W3Bob25lXTxCUj4rMzEgKDAp
+MjAgNDYyIDg2IDQ3IDwvRElWPgo8RElWPltmYXhdPEJSPiszMSAoMCkyMCA2NjUgODAgMTM8L0RJ
+Vj4KPERJVj5bZS1tYWlsXTxCUj48QSBocmVmPSJtYWlsdG86am9yaXMudmFuLnp1bmRlcnRAbml3
+aS5rbmF3Lm5sIj5qb3Jpcy52YW4uenVuZGVydChpbnNlcnRfYW5fYXRfc2lnbl9oZXJlKW5pd2ku
+a25hdy5ubDwvQT48L0RJVj4KPERJVj5baW50ZXJuZXRdPEJSPjxBIGhyZWY9Imh0dHA6Ly93d3cu
+bml3aS5rbmF3Lm5sIj53d3cubml3aS5rbmF3Lm5sPC9BPjwvRElWPgo8RElWPiZuYnNwOzwvRElW
+Pgo8RElWPiZuYnNwOzwvRElWPgo8RElWPjxCUj4mZ3Q7Jmd0OyZndDsgPFU+PEEgaHJlZj0ibWFp
+bHRvOmxvdS5idXJuYXJkQGNvbXB1dGluZy1zZXJ2aWNlcy5veGZvcmQuYWMudWsiPmxvdS5idXJu
+YXJkQGNvbXB1dGluZy1zZXJ2aWNlcy5veGZvcmQuYWMudWs8L0E+PC9VPiA2LzIzLzA0IDE4OjIw
+OjQ3ICZndDsmZ3Q7Jmd0OzxCUj48QlI+UGV0ZXIsIGRhcmxpbmcsIHlvdSBhcmUgdGFsa2luZyBu
+b25zZW5zZS4gSWYgeW91IHdhbnQgYSBzeXN0ZW0gYmFzZWQgb24gPEJSPndvcmRzLCBtYXJrIHVw
+IHRoZSB3b3JkcyBhbmQgWFNMVCB3aWxsIGNvcGUgdmVyeSB3ZWxsLiAoWWVzLCBwZW9wbGUgZG8g
+PEJSPml0OiBjZiB0aGUgQk5DIGFuZCBtYW55IG90aGVycykuIExpa2V3aXNlLCBpZiB5b3Ugd2Fu
+dCBhIHN5c3RlbSBpbiB3aGljaCA8QlI+cGh5c2ljYWwgaGllcmFyY2hpZXMgbWF0dGVyLCByZWZs
+ZWN0IHRoYXQgaW4geW91ciBtYXJrdXAgc3lzdGVtLjxCUj48QlI+VGhlcmUgYXJlIG5vIGdvb2Qg
+b3IgYmFkIHByb2dyYW1taW5nIGxhbmd1YWdlczoganVzdCBnb29kIG9yIGJhZCA8QlI+cHJvZ3Jh
+bW1lcnMuIEFuZCBkZXNpZ25lcnMuPEJSPjxCUj5Mb3U8QlI+PEJSPjxCUj5QZXRlciBSb2JpbnNv
+biB3cm90ZTo8QlI+PEJSPiZndDsgV2VsbCwgbGV0IHVzIHN0YXJ0IG9mZiB3aXRoIGEgbGl0dGxl
+IG1pbm9yIGNvbnRyb3ZlcnN5LjxCUj4mZ3Q7IDxCUj4mZ3Q7IEluIHRoZSBtaWRzdCBvZiBjb252
+ZXJ0cyB0byBhbmQgZW50aHVzaWFzdHMgZm9yIFhTTFQgYW5kIHRoYXQgZmFtaWx5IG9mPEJSPiZn
+dDsgdG9vbHMsIGhlcmUgaXMgbXkgdHdvIHBlbm55c3dvcnRoLiBJIHN1Z2dlc3QgdGhhdCBhIHNl
+cmlvdXMgYW5kIGZ1bGwtc2NhbGU8QlI+Jmd0OyBlbGVjdHJvbmljIGVkaXRpb24gb2YgYSB0eXBp
+Y2FsIG1lZGlldmFsIHdvcmssIHdpdGggdGhlIChub3chKSBzdGFuZGFyZDxCUj4mZ3Q7IHJlcXVp
+cmVtZW50IHRoYXQgaXQgaW50ZWdyYXRlIHRleHQgdHJhbnNjcmlwdGlvbi9lZGl0aW9uIGFuZCBp
+bWFnZXMsIHRvIGE8QlI+Jmd0OyBzdGFuZGFyZCBzYXRpc2ZhY3RvcnkgZm9yIGEgc2Nob2xhcmx5
+IHVzZXIsIGNhbm5vdCBiZSBtYWRlIGJ5IHRoZXNlIHRvb2xzPEJSPiZndDsgZnJvbSBhbiBYTUwg
+YmFzZS48QlI+Jmd0OyA8QlI+Jmd0OyBUaGVyZSBhcmUgdHdvIHJlYXNvbnMgZm9yIHRoaXMuIFRo
+ZSBmaXJzdCByZWFzb24gaXMgdGhhdCBpdCBzZWVtcyB0byBtZSB0aGU8QlI+Jmd0OyBmdW5kYW1l
+bnRhbCByZXF1aXJlbWVudCBvZiBzdWNoIGFuIGVkaXRpb24gaXMgdGhhdCBpdCBzaG91bGQgcHJl
+c2VudCBhPEJSPiZndDsgc2luZ2xlIHBhZ2Ugb2YgYSBtYW51c2NyaXB0IHRyYW5zY2lwdGlvbiBh
+bG9uZ3NpZGUgYSBzaW5nbGUgbWFudXNjcmlwdCBpbWFnZTxCUj4mZ3Q7IChvciwgaW4gdmFyaWFu
+dHMgb2YgdGhpcywgYSBzaW5nbGUgY29sdW1uIGFsb25nc2lkZSB0aGUgaW1hZ2UsIGV0YykuIEdp
+dmVuPEJSPiZndDsgdGhlIHN0YW5kYXJkIFhNTCBhcmNoaXRlY3R1cmUgb2YgdGhlc2UgZWRpdGlv
+bnMgYXMgdGhlc2UgaGF2ZSBldm9sdmVkLDxCUj4mZ3Q7IHdoZXJlYnkgdGV4dHVhbCBkaXZpc2lv
+bnMgYXJlIHNldCBpbiB0aGUgY29udGVudCBvZiBlbGVtZW50cyBidXQgcGFnZXMgYXJlPEJSPiZn
+dDsgbWFya2VkIHdpdGggZW1wdHkgYW5jaG9yIGVsZW1lbnRzIChlZyAmbHQ7cGIvJmd0OykgdGhp
+cyBpcyBqdXN0IHdoYXQgWFNMVCBldGMgZmluZDxCUj4mZ3Q7IHZlcnkgdHJpY2t5IGluZGVlZC4g
+SWYgeW91IGNhbiBkbyBpdCAoYW5kIEkgaGF2ZSBub3QgeWV0IHNlZW4gdGhpcyBkb25lLDxCUj4m
+Z3Q7IHRob3VnaCBJIGhhdmUgaGVhcmQgbGVuZ3RoeSBleHBsYW5hdGlvbnMgb2YgaG93IGl0ICpt
+aWdodCogYmUgZG9uZSkgeW91IGNhbjxCUj4mZ3Q7IG9ubHkgZG8gaXQgd2l0aCBncmVhdCBkaWZm
+aWN1bHR5IHdpdGggdGhlIHN0YW5kYXJkIHRvb2xzLiBUaGUgcHJvYmxlbSBoZXJlPEJSPiZndDsg
+aXMgb3VyIG9sZCBidWdiZWFyIG92ZXJsYXBwaW5nIGhpZXJhcmNoaWVzLCBhbmQgWFNMVCBldGMg
+anVzdCBkb24ndCBoYXZlIGFueTxCUj4mZ3Q7IGVhc3kgYW5zd2VyIHRvIHRoaXMgLS0gYW5kIG1h
+eWJlIG5vIHJlbGlhYmxlIGFuc3dlciBhdCBhbGwuPEJSPiZndDsgPEJSPiZndDsgVGhlIHNlY29u
+ZCByZWFzb24gaXMgdG8gZG8gd2l0aCB0aGUgbmF0dXJlIG9mIHRoZSBYU0xUIHByb2dyYW1taW5n
+IGxhbmd1YWdlPEJSPiZndDsgYW5kIHRoZSBraW5kIG9mIHRoaW5ncyB3ZSB3YW50IHRvIGRvIHdp
+dGggb3VyIGRpc3BsYXlzLCBldmVuIGluIHNpdHVhdGlvbnM8QlI+Jmd0OyB3aGVyZSB0aGUgcHJv
+YmxlbSBvZiBvdmVybGFwcGluZyBoaWVyYXJjaGllcyBkb2VzIG5vdCBoaXQgdXMuIFRha2UgYSBz
+aW5nbGU8QlI+Jmd0OyB3b3JkIGluIChmb3IgZXhhbXBsZSkgYSBsaW5lIG9mIHRyYW5zY3JpcHRp
+b24gb2YgYSBtYW51c2NyaXB0IG9mIHRoZTxCUj4mZ3Q7IE1pbGxlcidzIFRhbGUuIEEgcmVhZGVy
+IG1pZ2h0IHRoaW5rOiBJIHdvdWxkIGxpa2UgdG8gc2VlIHdoYXQgYW55IG9yIGFsbDxCUj4mZ3Q7
+IG90aGVyIG1hbnVzY3JpcHRzIGhhdmUgYXQgdGhpcyB3b3JkOyBJIHdhbnQgdG8ga25vdyB3aGV0
+aGVyIHRoZXJlIGlzIGFuPEJSPiZndDsgZWRpdG9yaWFsIGNvbW1lbnQgb24gdGhlIHJlYWRpbmdz
+IGF0IHRoaXMgcG9pbnQ7IEkgd291bGQgbGlrZSB0byBzZWUgaG93IHRoZTxCUj4mZ3Q7IHBhdHRl
+cm4gb2YgcmVhZGluZ3MgYXQgdGhpcyBwb2ludCBtYXBzIGFnYWluc3QgdGhlIG92ZXJhbGwgcGF0
+dGVybiBvZjxCUj4mZ3Q7IHJlbGF0aW9uc2hpcHMgYW1vbmcgdGhlIG1hbnVzY3JpcHRzOyBJIHdv
+dWxkIGxpa2UgYSBsb3Qgb2YgdGhpcyBpbmZvcm1hdGlvbjxCUj4mZ3Q7IGhlbGQgd2l0aGluIHRo
+ZSBkaXNwbGF5IHNvIHRoYXQganVzdCBwYXNzaW5nIHRoZSBtb3VzZSBvdmVyIHRoZSB3b3JkIHdp
+bGw8QlI+Jmd0OyBwb3AgdXAgc29tZSBvZiBpdC4gQW5kIEkgd2FudCB0aGlzIGZvciBldmVyeSB3
+b3JkIGluIGV2ZXJ5IG1hbnVzY3JpcHQsIGFuZDxCUj4mZ3Q7IEkgd2FudCBhbGwgdGhpcyBnZW5l
+cmF0ZWQgcmVhbCBmYXN0IGZvciBlYWNoIHBhZ2UgYXMgSSBhbSBpbXBhdGllbnQsIGFuZCBJPEJS
+PiZndDsgd2FudCBxdWl0ZSBhIGZldyBvdGhlciB0aGluZ3MgdG9vLiBUeXBpY2FsbHksIHRoaXMg
+aW5mb3JtYXRpb24gaXMgc2NhdHRlcmVkPEJSPiZndDsgcmlnaHQgYWNyb3NzIG1hbnkgZGlmZmVy
+ZW50IFhNTCBzb3VyY2UgZmlsZXMuIEl0IGFsbCBoYXMgdG8gYmUgZmV0Y2hlZCw8QlI+Jmd0OyBh
+bWFsZ2FtYXRlZCwgc29ydGVkLCBzZXJ2ZWQgdXAgZm9yIHNheSBzb21lIGZpdmUgaHVuZHJlZCB3
+b3JkcyBvbiBhIHR5cGljYWw8QlI+Jmd0OyBtYW51c2NyaXB0IHBhZ2UsIGFsbCBpbiBhIG1pY3Jv
+c2Vjb25kLiBBbmQgYWxzbywgZm9yIHRoZSBwcm9ncmFtbWVyOiBtYW55PEJSPiZndDsgdGhpbmdz
+IGNvdWxkIGdvIHdyb25nIGluIGhlcmUsIHdpdGggYWxsIHRoZSBjb25kaXRpb25hbCB0ZXN0cyB3
+aGljaCBuZWVkIHRvPEJSPiZndDsgYmUgbWFkZSBhdCBlYWNoIHBvaW50IGFuZCBhbGwgdGhlIHBv
+c3NpYmxlIGJyYW5jaGluZ3MgdGhlIHByb2dyYW0gbWlnaHQgaGF2ZTxCUj4mZ3Q7IHRvIHRha2Ug
+dG8gY29wZSB3aXRoIHRoZSBtZXNzaW5lc3Mgb2YgbWFudXNjcmlwdCBsaWZlLCBzbyB0aGUgcHJv
+Z3JhbW1lcjxCUj4mZ3Q7IG5lZWRzIGEgcmVzcG9uc2l2ZSBhbmQgdHJhbnNwYXJlbnQgcHJvZ3Jh
+bW1pbmcgZW52aXJvbm1lbnQsIHdoZXJlIGl0IGlzIGVhc3k8QlI+Jmd0OyB0byBkaWFnbm9zZSB3
+aGF0IGlzIGdvaW5nIHdyb25nLCB3aGVyZSwgYXMgdGhlIGRpc3BsYXlzIGFyZSBidWlsdC4gSSBz
+dXJlPEJSPiZndDsgd291bGQgaGF0ZSB0byB0cnkgdG8gZG8gdGhpcyBpbiBYU0xUIGV0Yy4gV2hp
+bGUgWE1MIGlzIGZpbmUgZm9yIG1hbnkgdGhpbmdzLDxCUj4mZ3Q7IGl0IGRvZXMgbm90IGxvb2sg
+YSBncmVhdCBlbnZpcm9ubWVudCBmb3IgcHJvZ3JhbW1pbmcgdG8gbWUuPEJSPiZndDsgPEJSPiZn
+dDsgVGhlIHF1ZXN0aW9uIGlzIGdlcm1hbmUgYmVjYXVzZSBpdCBub3cgc2VlbXMgdGhhdCBhIGxv
+dCBvZiBlZmZvcnQgaXMgZ29pbmc8QlI+Jmd0OyBpbiB0byBwZXJzdWFkaW5nIGh1bWFuaXRpZXMg
+c2Nob2xhcnMsIGxpa2UgdXMsIHRoYXQ6PEJSPiZndDsgQS4gd2UgcHV0IGFsbCBvdXIgZGF0YSBp
+bnRvIFhNTCwgcHJlZmVyYWJsZSB0aGUgVEVJIHZhcmlldHk8QlI+Jmd0OyBCLiB3ZSB1c2UgWE1M
+IHByb2dyYW1taW5nIHRvb2xzIGxpa2UgWFNMVCB0byBnZXQgaXQgdG8gdGhlIHJlYWRlcjxCUj4m
+Z3Q7IEkgdGhpbmsgdGhlIGZpcnN0IHByb3Bvc2l0aW9uIGlzIHVucXVlc3Rpb25hYmx5IHJpZ2h0
+OiB0aGF0IGJhdHRsZSBoYXMgYmVlbjxCUj4mZ3Q7IHdvbi4gQnV0IFhNTCdzIHZpY3RvcnkgaW4g
+dGhlIGZpcnN0IGRvZXMgbm90IG1lYW4gdGhhdCBYTUwgaXMgdGhlIHJpZ2h0PEJSPiZndDsgYW5z
+d2VyIGZvciB0aGUgc2Vjb25kLiBJbmRlZWQsIEkgZG9uJ3QgdGhpbmsgaXQgaXMuPEJSPiZndDsg
+PEJSPiZndDsgU28sIG92ZXIgdG8geW91IGFsbC4gSSBoYXZlIHNldCBwZW9wbGUgdGhpcyBjaGFs
+bGVuZ2UgYmVmb3JlIGJ1dCBoZXJlIGl0IGlzPEJSPiZndDsgYWdhaW46IHNvbWVvbmUsIHRyeSB0
+byBkdXBsaWNhdGUgYSB0eXBpY2FsIHNpbmdsZSBwYWdlIHNheSBvZiBvdXIgSGVuZ3dydDxCUj4m
+Z3Q7IERpZ2l0YWwgRmFjc2ltaWxlIGZyb20gb3VyIFhNTCBzb3VyY2UuIEFuZCBnb29kIGx1Y2sg
+dG8geW91LjxCUj4mZ3Q7IDxCUj4mZ3Q7IEFsbCB0aGUgYmVzdDxCUj4mZ3Q7IFBldGVyIFJvYmlu
+c29uPEJSPjxCUj48QlI+X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19f
+X19fX188QlI+ZG0tbCBtYWlsaW5nIGxpc3Q8QlI+PFU+PEEgaHJlZj0ibWFpbHRvOmRtLWxAdWxl
+dGguY2EiPmRtLWxAdWxldGguY2E8L0E+PC9VPiA8QlI+PFU+PEEgaHJlZj0iaHR0cDovL2xpc3Rz
+ZXJ2LnVsZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0tbCI+aHR0cDovL2xpc3RzZXJ2LnVsZXRo
+LmNhL21haWxtYW4vbGlzdGluZm8vZG0tbDwvQT48L1U+IDxCUj48QlI+PC9ESVY+PC9CT0RZPjwv
+SFRNTD4=

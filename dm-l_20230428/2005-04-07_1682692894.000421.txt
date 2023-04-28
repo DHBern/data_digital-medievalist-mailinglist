@@ -1,0 +1,25 @@
+Subject: RE: [dm-l] what xslt can't do..?>Now Peter, I'm perfectly happy to take on this problem, but I think we
+>both know that your demand that the transform be done in one pass makes
+>it not so much "slightly more of a challenge" as "impossible." But what
+>would be the problem with doing the transform in two passes, or three,
+>or four? One could wrap them all up in some Python or Java, and the user
+>wouldn't know or care. Assuming we can get past this little issue, why
+>yes, I think it can be done, and I'll be happy to give it a try. Notice
+>another qualification in my note: "when we've all got lots of time."You know, I think that is my whole point.There are indeed circumstances where the transform solution is very
+difficult.  My document sample is one such.  Notice that the first page
+break occurs some way into the document; and there is no explicit 'end of
+page' for the last page break.  So figuring out the logic, by which you
+turn the empty page breaks into content-holding elements, is rather
+non-trivial.  The transform solution is also going to be a real problem,
+for performance reasons, when you have documents of thousands of pages and
+you need to process them dynamically (*Not* pre-filter them through
+transforms).  As for needing lots of time: if your tools let you do what
+you want directly with the document as it is, without the need for complex
+transforms, you don't need it.I give a summary on why the system-we-have-not-named can handle this kind
+of problem easily, where XSLT can not, on
+http://anastasia.sourceforge.net/comparexsl.html.  And,
+she-who-we-do-not-name can indeed do many of the things listed as XSLT
+no-nos on the http://www.dpawson.co.uk/xsl/sect2/nono.html pages (change
+variable values, create an xpath expression from a variable, move entities
+from the input to the output file, etc etc).all the best
+Peter

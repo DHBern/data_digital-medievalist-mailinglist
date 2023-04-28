@@ -1,0 +1,44 @@
+Subject: [dm-l] Developing Linguistic Corpora: a guide to good practice
+-----forwarded message-----
+The Arts and Humanities Data Service (AHDS) has published a new Guide to Good
+Practice, 'Developing  Linguistic Corpora'. It is edited by Martin Wynne from
+the Literature, Languages and Linguistics branch of the AHDS, which is hosted=
+ by
+the Oxford Text Archive.The printed book can be ordered online from Oxbow Books
+(http://www.oxbowbooks.com/) for =C2=A315 plus post and packing, and the full
+text is available for free online at http://ahds.ac.uk/linguistic-corpora/In this volume, a selection of leading experts offer advice to help the reader
+to ensure that their corpus is well-designed and fit for the
+intended purpose.As John Sinclair writes in the first chapter: "A corpus is a remarkable thing,
+not so much because it is a collection of language text, but
+because of the properties that it acquires if it is well-designed and
+carefully-constructed."The collection includes the following chapters:* 'Corpus and text: basic principles' by John Sinclair
+* 'Adding linguistic annotation' by Geoffrey Leech
+* 'Metadata for corpus work' by Lou Burnard
+* 'Character encoding in corpus construction' by Tony McEnery and
+Richard Xiao
+* 'Spoken language corpora' by Paul Thompson
+* 'Archiving, distribution and preservation' by Martin WynneJohn Sinclair sets out ten principles for corpus design, plus a new definition
+of a corpus. Geoffrey Leech offers a taxonomy of types of
+annotations as well as clear guidelines and some provisional standards for
+annotation at various linguistic levels. Lou Burnard explains the
+different types of metadata which can be provided for a corpus, and gives
+examples of how these can be implemented using the Text Encoding
+Initiative guidelines. Tony McEnery and Richard Xiao take on the tricky issue=
+ of
+encoding characters in languages other than English, giving an historical
+overview of the various solutions, leading to a discussion of how to use Unic=
+ode
+today in encoding corpus texts. Paul Thompson draws on his experience in
+developing the British Academic Spoken English (BASE) corpus to set out the
+stages involved in the development and exploitation of a corpus of speech,
+covering data collection, transcription, markup and annotation, and access. In
+chapter six, Martin
+Wynne explains how good planning and design can help to ensure the ongoing
+availability and usefulness of a corpus.This and other guides in the series are available from
+http://ahds.ac.uk/creating/guides/Alastair
+Alastair Dunning
+Arts and Humanities Data Service
+http://ahds.ac.uk/
+King's College London
+0207 848 1972
+--===============6415093693217550593==--

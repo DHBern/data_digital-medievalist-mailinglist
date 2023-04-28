@@ -1,0 +1,70 @@
+Subject: Re: [dm-l] Software for doing source criticismDear Jim,I am not at all up to date with this, but you may have a look at a 
+software I have used some years ago now for comparing string of poems 
+(it was good at the job I needed it for and it may have improved, but I 
+am afraid I don't know how much and if it is enough for what you need to 
+do): http://donnevariorum.tamu.edu/resources/down/downpage.htmlTUSTEP is also a famous tool for producing high standard collations 
+ready for publication, as you may know already, but may be too ambitious 
+for your task: http://www.zdv.uni-tuebingen.de/tustep/tustep_eng.htmlLet us know your findings,
+AriannaJames Ginther wrote:
+> Dear Sapientes:
+>  
+> Does anyone know of software that will aid in the comparison of two or 
+> more texs in order to determine specific use of sources?  Ideally, the 
+> software would recognize a base text and then compare it to other texts 
+> that are potential sources. 
+>  
+> I know of software applications like Collate that does some basic 
+> comparative work in order to create an apparatus criticus for critical 
+> editions, or the "authorship" testing software that Peter Miliken at 
+> Leeds developed using stylometrics (which only outputs statistical 
+> results and no textual output).  But I am looking for software that 
+> would compare units of texts (such as sentence to sentence) and 
+> one--here's the kicker--that might also work with an inflected language 
+> like Latin (so that it would include returns that differ only in terms 
+> of case ending).   I know that's a tall order, and I have my doubts that 
+> something like this exists--but I thought someone on this list might 
+> know of some code kicking around in somebody's virtual basement.
+>  
+> Many thanks,
+> Jim
+>  
+> 
+> -- 
+> --------------------
+> Dr James R. Ginther, PhD
+> Assoc. Professor of Medieval Theology
+> & Director of Graduate Studies
+> Dept of Theological Studies
+> St Louis University
+_redacted_(a)slu.edu>
+> ---------------------------------
+> dept: http://theology.slu.edu/
+> research: http://www.digitaltheology.org/
+> -----------
+> "Research is what I'm doing when I don't know what I'm doing."
+> -Wernher von Braun
+> 
+> 
+> ------------------------------------------------------------------------
+> 
+> _______________________________________________
+> Digital Medievalist Project
+> Homepage: http://www.digitalmedievalist.org
+> Journal (Spring 2005-): http://www.digitalmedievalist.org/journal.cfm
+> RSS (announcements) server: http://www.digitalmedievalist.org/rss/rss2.cfm
+> Wiki: http://sql.uleth.ca/dmorgwiki/index.php
+> Change membership options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+> Submit RSS announcement: http://www.digitalmedievalist.org/newitem.cfm
+_redacted_(a)uleth.ca
+> dm-l mailing list
+_redacted_(a)uleth.ca
+> http://listserv.uleth.ca/mailman/listinfo/dm-l-- 
+Dr Arianna Ciula
+Research Associate
+Centre for Computing in the Humanities
+King's College London
+Strand
+London WC2R 2LS (UK)
+Tel: +44 (0)20 78481945
+http://www.kcl.ac.uk/cch
+--===============0406652359847751594==--

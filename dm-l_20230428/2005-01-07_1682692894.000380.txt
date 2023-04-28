@@ -1,0 +1,32 @@
+Subject: [dm-l] Form-based methods of building xml?Hi all,
+	Does anybody know of a good method for form-based xml-file 
+construction? I am looking for something to use on a local (winxp) machine.
+	Like most people I have a number of files that are written either 
+through accretion (e.g. like a CV) or that consist largely of boiler 
+plate with minor customisation (e.g. class schedules, web-pages, etc.). 
+I'm in the process of converting these to xml from various formats, as I 
+hope to gain some real efficiencies.
+	My question whether anybody can suggest a good method for adding marked 
+up text to such files using a form. The CV is probably the best case: 
+I'd like to have a form that allows me to read in the existing material, 
+enter the new item, and have the expanded document as output.
+	In the past I've used javascript and HTML forms to build standard 
+webpages, and emacs form-mode to build simple form-based database entry 
+mechanisms. Since I'm basically looking for a very simple way of adding 
+markup to highly standard text, I'm trying to avoid using a spreadsheet 
+as an intermediate. In fact I'm probably looking for a combination of 
+the emacs-style forms (which import or create datafiles and allow users 
+to easily update existing data) and a java-script type solution that 
+allows me to add markup around form-field contents.
+	Any suggestions?
+-dan
+-- 
+Daniel Paul O'Donnell, PhD
+Associate Professor of English
+University of Lethbridge
+Lethbridge AB T1K 3M4
+Tel. (403) 329-2377
+Fax. (403) 382-7191
+_redacted_(a)uleth.ca>
+Home Page <http://people.uleth.ca/~daniel.odonnell/>
+The Digital Medievalist Project: <http://www.digitalmedievalist.org/>

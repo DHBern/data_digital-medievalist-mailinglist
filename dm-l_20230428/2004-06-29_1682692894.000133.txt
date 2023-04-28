@@ -1,0 +1,33 @@
+Subject: [dm-l] The time has come to make some <choice>s
+>The TEI Council would like to enlist the assistance of interested
+>parties in helping them consider the issues involved. Therefore, this
+>is a call for volunteers to write up a short working paper on the
+>issues surrounding the use of the new mechanism and of the previous
+>attribute mechanism.Is there really that much to say about it? There are two problems with the
+old practice (the not-Janus-practice) of which one has already been mentioned:1.) You cannot tag attribute values any further. So you limit your own
+possibilities of sophisticated (that is: adequate) information (re-)coding.2.) The point which hasn't been mentioned (on this list - I'm not
+subscribed to the TEI-List). The old practice is simply to supplant one
+theory (or notion) of text with another theory (or notion) of text. You had
+(for example) to decide wether to believe that text is a material object (a
+document --> <sic>) or an abstract entity (a linguistic event, a
+communication intention --> <corr>). Now - with the Janus practice -
+there's just pluralistic democracy of various theories / notions (or an
+integrative theory) of "text".Well, there could be a third area of discussion: What is the status of an
+electronic text and what does the borderline between "text" and "markup"
+really mean (for this case)? The problem here could be, that - if you
+believe in the ontological discrimination of "text" and "markup" - you seem
+to double the portion of "text" in question. But this is no question of
+practical relevance and only leads to a philosophical sophistry which maybe
+should better be left to an even more specialised debate (and my
+forthcoming PhD-thesis ;-)) ...cheers, patrick
+___________________________________________________________________
+Universität zu Köln
+Historisch-Kulturwissenschaftliche Informationsverarbeitung
+Albertus-Magnus-Platz
+50923 Koeln
+http://www.hki.uni-koeln.de/Privat: Häuschensweg 2a
+50827 Köln
+0049 - (0)221 - 2805695
+_redacted_(a)uni-koeln.de
+http://www.uni-koeln.de/~ahz26/
+--===============0952050573587723252==--

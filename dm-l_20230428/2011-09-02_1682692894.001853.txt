@@ -1,0 +1,262 @@
+Subject: [dm-l] CFP: Interedition's 8th Bootcamp =?utf-8?q?=28W=C3=BCrzburg?==== CALL FOR PARTICIPATION ===
+Interedition 8th Bootcamp: 7 October - 11 October 2011
+-----------------------------------------------------== ABOUT INTEREDITION ==
+Interedition (http://www.interedition.eu) is a COST (http://www.cost.eu)
+funded Action whose objective is to further the interoperability of tools in
+digital scholarship. Interedition is raising the awareness of the importance
+of interoperability as a major driver for sustainability for tools and data
+in the field of digital scholarship. This activity takes two forms: firstly,
+meetings in which researchers in digital scholarship can network their
+knowledge of tools and avenues towards their interoperability; secondly, the
+development of proof-of-concept implementations of interoperable tools.
+These proof-of-concept tools are the focus of Interedition's periodic
+bootcamps, which offer the open source development community in the
+humanities opportunities to meet, network, and exchange knowledge.== THE BOOTCAMP ==
+Interedition is inviting all interested to participate in the upcoming
+Development Bootcamp, which will take place from 7 October to 11 October
+2011 at the Universität Würzburg, coinciding with the start of the
+TEI-meeting (http://www.zde.uni-wuerzburg.de/tei_mm_2011/) which also takes
+place there. We hope thus to offer a good occasion for members of both
+groups to confer on the subject of interoperability. As special Think Tank
+for this is foreseen on 12 October, for which seperate bursaried may be
+acquired.The bootcamp and think tank are organized through the kind efforts of:- Fotis Jannidis (Universität Würzburg)
+- Malte Rehbein (Universität Würzburg)
+- Gregor Middell (Universität Würzburg)
+- Susan Schrebman (Trinity College Dublin)== OBJECTIVES ==
+The primary objective of the bootcamp is the development of prototypes for
+interoperable 'microservice' tools for textual scholarship and digital
+editions. Interedition's working group 3 has identified transcription and
+annotation of physical textual sources one of the pivotal scholarly tasks
+involved with creating digital editions. At the 2010 München bootcamp in
+less than 5 minutes more than 18 transcription & annotation related tool
+development projects were identified. Non of these is adhereing to any
+machine to machine protocol or format for interchange. All results of high
+quality scholarly work on transcribing and commenting within these data
+silos are therefor locked in and hadrly (re)useable for further scholarly
+processing and analysis.Interedition wants to inspire an open source development movement around
+this problem of interoperabilty and invites anyone who can make a hands on
+contribution to a prototype distributed reference implementation of an
+interoperable model for text. We aim to have the participants returning to
+their local projects with a shared idea on how to approach text resource
+exchange, and GUI and back end tools to show for it. Suggested goals for the
+bootcamp are both models and proof of concept implementations for the
+following use cases:** Use Case 1 **
+** Resource discovery & Highly granular text addressing/markup **
+A text repository hosts a set of marked-up texts, possibly organized in
+different subsets (collections). Clients access the repository via RESTful
+protocols, particularly via the AtomPub protocol in order to get notified
+about newly created or recently modified texts in the repository and/or
+about certain layers of markup applied to them. The client could filter
+those feeds based on the text collection or markup/annotation type of
+interest. The Atom feeds' content is constructed dynamically based on
+customized queries against the repositories' content and would thus augment
+established standards for resource discovery that usually operate on the
+level of curated metadata (e.g. OAI-PMH). Automatized dissemination of
+transcribed texts in a decentralized, loosely coupled network of
+repositories is thus facilitated in a manner comparable to the way in which
+the blogosphere functions.** Use Case 2 **
+** Text source exchange **
+Use case: Texts can be replicated between repository installations and/or
+other datastores. The exchange includes the textual content as well as any
+chosen set of markup/ annotation layers associated with the text. Markup is
+allowed to overlap arbitrarily in the repositories own model while lossless
+transformation of text and markup information into XML-based encodings
+provides for the integration with existing tool chains. Interoperability and
+data interchange is thus facilitated.** Use Case 3 **
+** Transcription & Annotation workflow **
+Texts can be marked-up with several independent annotation layers such that
+a collaborative transcription and annotation workflow becomes feasible. For
+example an editor could start by transcribing a text with a minimal set of
+markup applied. A tool for language recognition listens for new texts in the
+repository and as soon as the editor submit the transcript, the tool adds
+annotations to it identifying the language(s) present in the transcript.
+Then a language-specific POS tagger, listening for repository events of
+added language annotations processes the transcript further by adding
+part-of-speech tagging. Later on automatic name entity recognition might be
+applied to the tagged transcript and finally another editor is notified (via
+an Atom feed or via e-mail), that the automatically tagged transcripts is
+ready to be reviewed.FEEL CHALLENGED?
+Come and code!BURSARIES
+COST Action IS0704 'Interedition' is offering bursaries to early stage
+researchers (< Ph.D. + 10 years) and developers that want to join the
+bootcamp. The bursaries will consist of an 100 Euro per diem allowance and
+will cover travel expenses fully (limitations apply).HOW TO APPLY
+If you are interested in participating in the bootcamp, please send an
+email to joris.van.zundert-AT-huygens.knaw.nl by **25 September
+2011**. You don't need an intricate motivation, but please state your
+affiliation, and add a very short (certainly not more than 200 words)
+description of your current or related development work in digital
+humanities. If you partook in an earlier Interedition bootcamp, you may
+refer to the motiviation you provided at the time. Please note that if you
+do join the bootcamp, some formal paperwork will be necessary to get you the
+bursary - but until now all
+participants passed that test with flying colors.PROGRAM
+Friday 7 October
+ - Introduction of participants
+ - Introduction the principles of microservices
+ - Introduction to the Gothenburg and Palo Alto models for distributed
+solutions
+ - Challenge
+ - Planning Game
+Saturday 8 October
+ - Hacking
+Sunday 9 October
+ - Hacking
+ - Social event
+Monday 10 October
+  - Hacking
+Monday 11 October
+ - Hacking
+ - Presentation & discussion of results
+ - Write up
+ - DrinksADDITIONAL INFORMATION
+If you require more information --e.g. you want to join, but are wondering
+about specific requirements, different arrangements, etc. etc.-- please
+don't hesitate to use the email address provided above. Or join us on IRC at
+#interedition.--
+Joris van Zundert
+Chair COST Action IS0704 'Interedition'
+Researcher & Developer Digital and Computational Humanities
+Huygens ING - Royal Netherlands Academy of Arts and SciencesContact information at http://www.huygens.knaw.nl/en/vanzundert/Apologies for possible cross posting!PT09IENBTEwgRk9SIFBBUlRJQ0lQQVRJT04gPT09PGJyPgpJbnRlcmVkaXRpb24gOHRoIEJvb3Rj
+YW1wOiA3IE9jdG9iZXIgLSAxMSBPY3RvYmVyIDIwMTE8YnI+Ci0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tPGJyPgo8YnI+Cj09IEFCT1VUIElOVEVS
+RURJVElPTiA9PTxicj4KSW50ZXJlZGl0aW9uICg8YSBocmVmPSJodHRwOi8vd3d3LmludGVyZWRp
+dGlvbi5ldSI+aHR0cDovL3d3dy5pbnRlcmVkaXRpb24uZXU8L2E+KSBpcyBhIENPU1QgKDxhIGhy
+ZWY9Imh0dHA6Ly93d3cuY29zdC5ldSI+aHR0cDovL3d3dy5jb3N0LmV1PC9hPikKIGZ1bmRlZCBB
+Y3Rpb24gd2hvc2Ugb2JqZWN0aXZlIGlzIHRvIGZ1cnRoZXIgdGhlIGludGVyb3BlcmFiaWxpdHkg
+b2YgCnRvb2xzIGluIGRpZ2l0YWwgc2Nob2xhcnNoaXAuIEludGVyZWRpdGlvbiBpcyByYWlzaW5n
+IHRoZSBhd2FyZW5lc3Mgb2YgCnRoZSBpbXBvcnRhbmNlIG9mIGludGVyb3BlcmFiaWxpdHkgYXMg
+YSBtYWpvciBkcml2ZXIgZm9yIHN1c3RhaW5hYmlsaXR5IApmb3IgdG9vbHMgYW5kIGRhdGEgaW4g
+dGhlIGZpZWxkIG9mIGRpZ2l0YWwgc2Nob2xhcnNoaXAuIFRoaXMgYWN0aXZpdHkgCnRha2VzIHR3
+byBmb3JtczogZmlyc3RseSwgbWVldGluZ3MgaW4gd2hpY2ggcmVzZWFyY2hlcnMgaW4gZGlnaXRh
+bCAKc2Nob2xhcnNoaXAgY2FuIG5ldHdvcmsgdGhlaXIga25vd2xlZGdlIG9mIHRvb2xzIGFuZCBh
+dmVudWVzIHRvd2FyZHMgCnRoZWlyIGludGVyb3BlcmFiaWxpdHk7IHNlY29uZGx5LCB0aGUgZGV2
+ZWxvcG1lbnQgb2YgcHJvb2Ytb2YtY29uY2VwdCAKaW1wbGVtZW50YXRpb25zIG9mIGludGVyb3Bl
+cmFibGUgdG9vbHMuIFRoZXNlIHByb29mLW9mLWNvbmNlcHQgdG9vbHMgYXJlCiB0aGUgZm9jdXMg
+b2YgSW50ZXJlZGl0aW9uJiMzOTtzIHBlcmlvZGljIGJvb3RjYW1wcywgd2hpY2ggb2ZmZXIgdGhl
+IG9wZW4gCnNvdXJjZSBkZXZlbG9wbWVudCBjb21tdW5pdHkgaW4gdGhlIGh1bWFuaXRpZXMgb3Bw
+b3J0dW5pdGllcyB0byBtZWV0LCAKbmV0d29yaywgYW5kIGV4Y2hhbmdlIGtub3dsZWRnZS48YnI+
+Cjxicj4KPT0gVEhFIEJPT1RDQU1QID09PGJyPgpJbnRlcmVkaXRpb24gaXMgaW52aXRpbmcgYWxs
+IGludGVyZXN0ZWQgdG8gcGFydGljaXBhdGUgaW4gdGhlIHVwY29taW5nIApEZXZlbG9wbWVudCBC
+b290Y2FtcCwgd2hpY2ggd2lsbCB0YWtlIHBsYWNlIGZyb20gNyBPY3RvYmVyIHRvIDExIE9jdG9i
+ZXIKIDIwMTEgYXQgdGhlIFVuaXZlcnNpdOR0IFf8cnpidXJnLCBjb2luY2lkaW5nIHdpdGggdGhl
+IHN0YXJ0IG9mIHRoZSAKVEVJLW1lZXRpbmcgKDxhIGhyZWY9Imh0dHA6Ly93d3cuemRlLnVuaS13
+dWVyemJ1cmcuZGUvdGVpX21tXzIwMTEvIj5odHRwOi8vd3d3LnpkZS51bmktd3VlcnpidXJnLmRl
+L3RlaV9tbV8yMDExLzwvYT4pIHdoaWNoIGFsc28gCnRha2VzIHBsYWNlIHRoZXJlLiBXZSBob3Bl
+IHRodXMgdG8gb2ZmZXIgYSBnb29kIG9jY2FzaW9uIGZvciBtZW1iZXJzIG9mIApib3RoIGdyb3Vw
+cyB0byBjb25mZXIgb24gdGhlIHN1YmplY3Qgb2YgaW50ZXJvcGVyYWJpbGl0eS4gQXMgc3BlY2lh
+bCAKVGhpbmsgVGFuayBmb3IgdGhpcyBpcyBmb3Jlc2VlbiBvbiAxMiBPY3RvYmVyLCBmb3Igd2hp
+Y2ggc2VwZXJhdGUgCmJ1cnNhcmllZCBtYXkgYmUgYWNxdWlyZWQuPGJyPgo8YnI+ClRoZSBib290
+Y2FtcCBhbmQgdGhpbmsgdGFuayBhcmUgb3JnYW5pemVkIHRocm91Z2ggdGhlIGtpbmQgZWZmb3J0
+cyBvZjo8YnI+Cjxicj4KLSBGb3RpcyBKYW5uaWRpcyAoVW5pdmVyc2l05HQgV/xyemJ1cmcpPGJy
+PgotIE1hbHRlIFJlaGJlaW4gKFVuaXZlcnNpdOR0IFf8cnpidXJnKTxicj4KLSBHcmVnb3IgTWlk
+ZGVsbCAoVW5pdmVyc2l05HQgV/xyemJ1cmcpPGJyPgotIFN1c2FuIFNjaHJlYm1hbiAoVHJpbml0
+eSBDb2xsZWdlIER1Ymxpbik8YnI+Cjxicj4KPT0gT0JKRUNUSVZFUyA9PTxicj4KVGhlIHByaW1h
+cnkgb2JqZWN0aXZlIG9mIHRoZSBib290Y2FtcCBpcyB0aGUgZGV2ZWxvcG1lbnQgb2YgcHJvdG90
+eXBlcyAKZm9yIGludGVyb3BlcmFibGUgJiMzOTttaWNyb3NlcnZpY2UmIzM5OyB0b29scyBmb3Ig
+dGV4dHVhbCBzY2hvbGFyc2hpcCBhbmQgCmRpZ2l0YWwgZWRpdGlvbnMuIEludGVyZWRpdGlvbiYj
+Mzk7cyB3b3JraW5nIGdyb3VwIDMgaGFzIGlkZW50aWZpZWQgCnRyYW5zY3JpcHRpb24gYW5kIGFu
+bm90YXRpb24gb2YgcGh5c2ljYWwgdGV4dHVhbCBzb3VyY2VzIG9uZSBvZiB0aGUgCnBpdm90YWwg
+c2Nob2xhcmx5IHRhc2tzIGludm9sdmVkIHdpdGggY3JlYXRpbmcgZGlnaXRhbCBlZGl0aW9ucy4g
+QXQgdGhlIAoyMDEwIE38bmNoZW4gYm9vdGNhbXAgaW4gbGVzcyB0aGFuIDUgbWludXRlcyBtb3Jl
+IHRoYW4gMTggdHJhbnNjcmlwdGlvbiAKJmFtcDsgYW5ub3RhdGlvbiByZWxhdGVkIHRvb2wgZGV2
+ZWxvcG1lbnQgcHJvamVjdHMgd2VyZSBpZGVudGlmaWVkLiBOb24gCm9mIHRoZXNlIGlzIGFkaGVy
+ZWluZyB0byBhbnkgbWFjaGluZSB0byBtYWNoaW5lIHByb3RvY29sIG9yIGZvcm1hdCBmb3IgCmlu
+dGVyY2hhbmdlLiBBbGwgcmVzdWx0cyBvZiBoaWdoIHF1YWxpdHkgc2Nob2xhcmx5IHdvcmsgb24g
+dHJhbnNjcmliaW5nIAphbmQgY29tbWVudGluZyB3aXRoaW4gdGhlc2UgZGF0YSBzaWxvcyBhcmUg
+dGhlcmVmb3IgbG9ja2VkIGluIGFuZCBoYWRybHkKIChyZSl1c2VhYmxlIGZvciBmdXJ0aGVyIHNj
+aG9sYXJseSBwcm9jZXNzaW5nIGFuZCBhbmFseXNpcy48YnI+Cjxicj4KSW50ZXJlZGl0aW9uIHdh
+bnRzIHRvIGluc3BpcmUgYW4gb3BlbiBzb3VyY2UgZGV2ZWxvcG1lbnQgbW92ZW1lbnQgYXJvdW5k
+CiB0aGlzIHByb2JsZW0gb2YgaW50ZXJvcGVyYWJpbHR5IGFuZCBpbnZpdGVzIGFueW9uZSB3aG8g
+Y2FuIG1ha2UgYSBoYW5kcwogb24gY29udHJpYnV0aW9uIHRvIGEgcHJvdG90eXBlIGRpc3RyaWJ1
+dGVkIHJlZmVyZW5jZSBpbXBsZW1lbnRhdGlvbiBvZiAKYW4gaW50ZXJvcGVyYWJsZSBtb2RlbCBm
+b3IgdGV4dC4gV2UgYWltIHRvIGhhdmUgdGhlIHBhcnRpY2lwYW50cyAKcmV0dXJuaW5nIHRvIHRo
+ZWlyIGxvY2FsIHByb2plY3RzIHdpdGggYSBzaGFyZWQgaWRlYSBvbiBob3cgdG8gYXBwcm9hY2gg
+CnRleHQgcmVzb3VyY2UgZXhjaGFuZ2UsIGFuZCBHVUkgYW5kIGJhY2sgZW5kIHRvb2xzIHRvIHNo
+b3cgZm9yIGl0LiAKU3VnZ2VzdGVkIGdvYWxzIGZvciB0aGUgYm9vdGNhbXAgYXJlIGJvdGggbW9k
+ZWxzIGFuZCBwcm9vZiBvZiBjb25jZXB0IAppbXBsZW1lbnRhdGlvbnMgZm9yIHRoZSBmb2xsb3dp
+bmcgdXNlIGNhc2VzOjxicj4KPGJyPgoqKiBVc2UgQ2FzZSAxICoqPGJyPgoqKiBSZXNvdXJjZSBk
+aXNjb3ZlcnkgJmFtcDsgSGlnaGx5IGdyYW51bGFyIHRleHQgYWRkcmVzc2luZy9tYXJrdXAgKio8
+YnI+CkEgdGV4dCByZXBvc2l0b3J5IGhvc3RzIGEgc2V0IG9mIG1hcmtlZC11cCB0ZXh0cywgcG9z
+c2libHkgb3JnYW5pemVkIGluIApkaWZmZXJlbnQgc3Vic2V0cyAoY29sbGVjdGlvbnMpLiBDbGll
+bnRzIGFjY2VzcyB0aGUgcmVwb3NpdG9yeSB2aWEgClJFU1RmdWwgcHJvdG9jb2xzLCBwYXJ0aWN1
+bGFybHkgdmlhIHRoZSBBdG9tUHViIHByb3RvY29sIGluIG9yZGVyIHRvIGdldAogbm90aWZpZWQg
+YWJvdXQgbmV3bHkgY3JlYXRlZCBvciByZWNlbnRseSBtb2RpZmllZCB0ZXh0cyBpbiB0aGUgCnJl
+cG9zaXRvcnkgYW5kL29yIGFib3V0IGNlcnRhaW4gbGF5ZXJzIG9mIG1hcmt1cCBhcHBsaWVkIHRv
+IHRoZW0uIFRoZSAKY2xpZW50IGNvdWxkIGZpbHRlciB0aG9zZSBmZWVkcyBiYXNlZCBvbiB0aGUg
+dGV4dCBjb2xsZWN0aW9uIG9yIAptYXJrdXAvYW5ub3RhdGlvbiB0eXBlIG9mIGludGVyZXN0LiBU
+aGUgQXRvbSBmZWVkcyYjMzk7IGNvbnRlbnQgaXMgCmNvbnN0cnVjdGVkIGR5bmFtaWNhbGx5IGJh
+c2VkIG9uIGN1c3RvbWl6ZWQgcXVlcmllcyBhZ2FpbnN0IHRoZSAKcmVwb3NpdG9yaWVzJiMzOTsg
+Y29udGVudCBhbmQgd291bGQgdGh1cyBhdWdtZW50IGVzdGFibGlzaGVkIHN0YW5kYXJkcyBmb3Ig
+CnJlc291cmNlIGRpc2NvdmVyeSB0aGF0IHVzdWFsbHkgb3BlcmF0ZSBvbiB0aGUgbGV2ZWwgb2Yg
+Y3VyYXRlZCBtZXRhZGF0YQogKGUuZy4gT0FJLVBNSCkuIEF1dG9tYXRpemVkIGRpc3NlbWluYXRp
+b24gb2YgdHJhbnNjcmliZWQgdGV4dHMgaW4gYSAKZGVjZW50cmFsaXplZCwgbG9vc2VseSBjb3Vw
+bGVkIG5ldHdvcmsgb2YgcmVwb3NpdG9yaWVzIGlzIHRodXMgCmZhY2lsaXRhdGVkIGluIGEgbWFu
+bmVyIGNvbXBhcmFibGUgdG8gdGhlIHdheSBpbiB3aGljaCB0aGUgYmxvZ29zcGhlcmUgCmZ1bmN0
+aW9ucy48YnI+Cjxicj4KKiogVXNlIENhc2UgMiAqKjxicj4KKiogVGV4dCBzb3VyY2UgZXhjaGFu
+Z2UgKio8YnI+ClVzZSBjYXNlOiBUZXh0cyBjYW4gYmUgcmVwbGljYXRlZCBiZXR3ZWVuIHJlcG9z
+aXRvcnkgaW5zdGFsbGF0aW9ucyAKYW5kL29yIG90aGVyIGRhdGFzdG9yZXMuIFRoZSBleGNoYW5n
+ZSBpbmNsdWRlcyB0aGUgdGV4dHVhbCBjb250ZW50IGFzIAp3ZWxsIGFzIGFueSBjaG9zZW4gc2V0
+IG9mIG1hcmt1cC8gYW5ub3RhdGlvbiBsYXllcnMgYXNzb2NpYXRlZCB3aXRoIHRoZSAKdGV4dC4g
+TWFya3VwIGlzIGFsbG93ZWQgdG8gb3ZlcmxhcCBhcmJpdHJhcmlseSBpbiB0aGUgcmVwb3NpdG9y
+aWVzIG93biAKbW9kZWwgd2hpbGUgbG9zc2xlc3MgdHJhbnNmb3JtYXRpb24gb2YgdGV4dCBhbmQg
+bWFya3VwIGluZm9ybWF0aW9uIGludG8gClhNTC1iYXNlZCBlbmNvZGluZ3MgcHJvdmlkZXMgZm9y
+IHRoZSBpbnRlZ3JhdGlvbiB3aXRoIGV4aXN0aW5nIHRvb2wgCmNoYWlucy4gSW50ZXJvcGVyYWJp
+bGl0eSBhbmQgZGF0YSBpbnRlcmNoYW5nZSBpcyB0aHVzIGZhY2lsaXRhdGVkLjxicj4KPGJyPgoq
+KiBVc2UgQ2FzZSAzICoqPGJyPgoqKiBUcmFuc2NyaXB0aW9uICZhbXA7IEFubm90YXRpb24gd29y
+a2Zsb3cgKio8YnI+ClRleHRzIGNhbiBiZSBtYXJrZWQtdXAgd2l0aCBzZXZlcmFsIGluZGVwZW5k
+ZW50IGFubm90YXRpb24gbGF5ZXJzIHN1Y2ggCnRoYXQgYSBjb2xsYWJvcmF0aXZlIHRyYW5zY3Jp
+cHRpb24gYW5kIGFubm90YXRpb24gd29ya2Zsb3cgYmVjb21lcyAKZmVhc2libGUuIEZvciBleGFt
+cGxlIGFuIGVkaXRvciBjb3VsZCBzdGFydCBieSB0cmFuc2NyaWJpbmcgYSB0ZXh0IHdpdGggYQog
+bWluaW1hbCBzZXQgb2YgbWFya3VwIGFwcGxpZWQuIEEgdG9vbCBmb3IgbGFuZ3VhZ2UgcmVjb2du
+aXRpb24gbGlzdGVucyAKZm9yIG5ldyB0ZXh0cyBpbiB0aGUgcmVwb3NpdG9yeSBhbmQgYXMgc29v
+biBhcyB0aGUgZWRpdG9yIHN1Ym1pdCB0aGUgCnRyYW5zY3JpcHQsIHRoZSB0b29sIGFkZHMgYW5u
+b3RhdGlvbnMgdG8gaXQgaWRlbnRpZnlpbmcgdGhlIGxhbmd1YWdlKHMpIApwcmVzZW50IGluIHRo
+ZSB0cmFuc2NyaXB0LiBUaGVuIGEgbGFuZ3VhZ2Utc3BlY2lmaWMgUE9TIHRhZ2dlciwgCmxpc3Rl
+bmluZyBmb3IgcmVwb3NpdG9yeSBldmVudHMgb2YgYWRkZWQgbGFuZ3VhZ2UgYW5ub3RhdGlvbnMg
+cHJvY2Vzc2VzIAp0aGUgdHJhbnNjcmlwdCBmdXJ0aGVyIGJ5IGFkZGluZyBwYXJ0LW9mLXNwZWVj
+aCB0YWdnaW5nLiBMYXRlciBvbiAKYXV0b21hdGljIG5hbWUgZW50aXR5IHJlY29nbml0aW9uIG1p
+Z2h0IGJlIGFwcGxpZWQgdG8gdGhlIHRhZ2dlZCAKdHJhbnNjcmlwdCBhbmQgZmluYWxseSBhbm90
+aGVyIGVkaXRvciBpcyBub3RpZmllZCAodmlhIGFuIEF0b20gZmVlZCBvciAKdmlhIGUtbWFpbCks
+IHRoYXQgdGhlIGF1dG9tYXRpY2FsbHkgdGFnZ2VkIHRyYW5zY3JpcHRzIGlzIHJlYWR5IHRvIGJl
+IApyZXZpZXdlZC4gPGJyPgo8YnI+CkZFRUwgQ0hBTExFTkdFRD88YnI+CkNvbWUgYW5kIGNvZGUh
+PGJyPgo8YnI+CkJVUlNBUklFUzxicj4KQ09TVCBBY3Rpb24gSVMwNzA0ICYjMzk7SW50ZXJlZGl0
+aW9uJiMzOTsgaXMgb2ZmZXJpbmcgYnVyc2FyaWVzIHRvIGVhcmx5IHN0YWdlPGJyPgpyZXNlYXJj
+aGVycyAoJmx0OyBQaC5ELiArIDEwIHllYXJzKSBhbmQgZGV2ZWxvcGVycyB0aGF0IHdhbnQgdG8g
+am9pbiB0aGU8YnI+CmJvb3RjYW1wLiBUaGUgYnVyc2FyaWVzIHdpbGwgY29uc2lzdCBvZiBhbiAx
+MDAgRXVybyBwZXIgZGllbSBhbGxvd2FuY2UgYW5kPGJyPgp3aWxsIGNvdmVyIHRyYXZlbCBleHBl
+bnNlcyBmdWxseSAobGltaXRhdGlvbnMgYXBwbHkpLjxicj4KPGJyPgpIT1cgVE8gQVBQTFk8YnI+
+CklmIHlvdSBhcmUgaW50ZXJlc3RlZCBpbiBwYXJ0aWNpcGF0aW5nIGluIHRoZSBib290Y2FtcCwg
+cGxlYXNlIHNlbmQgYW48YnI+CmVtYWlsIHRvIDxhIGhyZWY9Imh0dHA6Ly9qb3Jpcy52YW4uenVu
+ZGVydC1BVC1odXlnZW5zLmtuYXcubmwiPmpvcmlzLnZhbi56dW5kZXJ0LUFULWh1eWdlbnMua25h
+dy5ubDwvYT4gYnkgKioyNSBTZXB0ZW1iZXI8YnI+CjIwMTEqKi4gWW91IGRvbiYjMzk7dCBuZWVk
+IGFuIGludHJpY2F0ZSBtb3RpdmF0aW9uLCBidXQgcGxlYXNlIHN0YXRlIHlvdXI8YnI+CmFmZmls
+aWF0aW9uLCBhbmQgYWRkIGEgdmVyeSBzaG9ydCAoY2VydGFpbmx5IG5vdCBtb3JlIHRoYW4gMjAw
+IHdvcmRzKTxicj4KZGVzY3JpcHRpb24gb2YgeW91ciBjdXJyZW50IG9yIHJlbGF0ZWQgZGV2ZWxv
+cG1lbnQgd29yayBpbiBkaWdpdGFsPGJyPgpodW1hbml0aWVzLiBJZiB5b3UgcGFydG9vayBpbiBh
+biBlYXJsaWVyIEludGVyZWRpdGlvbiBib290Y2FtcCwgeW91IG1heSAKcmVmZXIgdG8gdGhlIG1v
+dGl2aWF0aW9uIHlvdSBwcm92aWRlZCBhdCB0aGUgdGltZS4gUGxlYXNlIG5vdGUgdGhhdCBpZiAK
+eW91IGRvIGpvaW4gdGhlIGJvb3RjYW1wLCBzb21lIGZvcm1hbCBwYXBlcndvcmsgd2lsbCBiZSBu
+ZWNlc3NhcnkgdG8gZ2V0CiB5b3UgdGhlIGJ1cnNhcnkgLSBidXQgdW50aWwgbm93IGFsbDxicj4K
+cGFydGljaXBhbnRzIHBhc3NlZCB0aGF0IHRlc3Qgd2l0aCBmbHlpbmcgY29sb3JzLjxicj4KPGJy
+PgpQUk9HUkFNPGJyPgpGcmlkYXkgNyBPY3RvYmVyPGJyPgqgLSBJbnRyb2R1Y3Rpb24gb2YgcGFy
+dGljaXBhbnRzPGJyPgqgLSBJbnRyb2R1Y3Rpb24gdGhlIHByaW5jaXBsZXMgb2YgbWljcm9zZXJ2
+aWNlczxicj4KoC0gSW50cm9kdWN0aW9uIHRvIHRoZSBHb3RoZW5idXJnIGFuZCBQYWxvIEFsdG8g
+bW9kZWxzIGZvciBkaXN0cmlidXRlZCBzb2x1dGlvbnM8YnI+CqAtIENoYWxsZW5nZTxicj4KoC0g
+UGxhbm5pbmcgR2FtZTxicj4KU2F0dXJkYXkgOCBPY3RvYmVyPGJyPgqgLSBIYWNraW5nPGJyPgpT
+dW5kYXkgOSBPY3RvYmVyPGJyPgqgLSBIYWNraW5nPGJyPgqgLSBTb2NpYWwgZXZlbnQ8YnI+Ck1v
+bmRheSAxMCBPY3RvYmVyPGJyPgqgIC0gSGFja2luZzxicj4KTW9uZGF5IDExIE9jdG9iZXI8YnI+
+CqAtIEhhY2tpbmc8YnI+CqAtIFByZXNlbnRhdGlvbiAmYW1wOyBkaXNjdXNzaW9uIG9mIHJlc3Vs
+dHM8YnI+CqAtIFdyaXRlIHVwPGJyPgqgLSBEcmlua3M8YnI+Cjxicj4KQURESVRJT05BTCBJTkZP
+Uk1BVElPTjxicj4KSWYgeW91IHJlcXVpcmUgbW9yZSBpbmZvcm1hdGlvbiAtLWUuZy4geW91IHdh
+bnQgdG8gam9pbiwgYnV0IGFyZSAKd29uZGVyaW5nIGFib3V0IHNwZWNpZmljIHJlcXVpcmVtZW50
+cywgZGlmZmVyZW50IGFycmFuZ2VtZW50cywgZXRjLiAKZXRjLi0tIHBsZWFzZSBkb24mIzM5O3Qg
+aGVzaXRhdGUgdG8gdXNlIHRoZSBlbWFpbCBhZGRyZXNzIHByb3ZpZGVkIGFib3ZlLiBPcgogam9p
+biB1cyBvbiBJUkMgYXQgI2ludGVyZWRpdGlvbi48YnI+Cjxicj4KLS08YnI+CkpvcmlzIHZhbiBa
+dW5kZXJ0PGJyPgpDaGFpciBDT1NUIEFjdGlvbiBJUzA3MDQgJiMzOTtJbnRlcmVkaXRpb24mIzM5
+Ozxicj4KUmVzZWFyY2hlciAmYW1wOyBEZXZlbG9wZXIgRGlnaXRhbCBhbmQgQ29tcHV0YXRpb25h
+bCBIdW1hbml0aWVzPGJyPgpIdXlnZW5zIElORyAtIFJveWFsIE5ldGhlcmxhbmRzIEFjYWRlbXkg
+b2YgQXJ0cyBhbmQgU2NpZW5jZXM8YnI+Cjxicj4KQ29udGFjdCBpbmZvcm1hdGlvbiBhdCA8YSBo
+cmVmPSJodHRwOi8vd3d3Lmh1eWdlbnMua25hdy5ubC9lbi92YW56dW5kZXJ0LyI+aHR0cDovL3d3
+dy5odXlnZW5zLmtuYXcubmwvZW4vdmFuenVuZGVydC88L2E+PGJyPgo8YnI+CkFwb2xvZ2llcyBm
+b3IgcG9zc2libGUgY3Jvc3MgcG9zdGluZyE8YnI+PGJyPgo=

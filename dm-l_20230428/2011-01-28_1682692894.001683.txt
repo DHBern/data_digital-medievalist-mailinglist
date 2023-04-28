@@ -1,0 +1,7 @@
+Subject: RE: [dm-l] Teaching the TEI: your practice?> I wonder how to prove this? Learning a (another) procedural language=20
+> might be easier for someone who already learned a procedural language,=20
+> but I find the way XSLT work so quite straight forward that once you =20
+> understood how XML works it might be easy to understand XSLT too?!It is probably my limited knowledge of XSLT, but I find it quite difficult to=
+ do things with data in an XML structure (other than rearranging and displayi=
+ng it).I find the way variables work in XSLT just so cumbersome. I wouldn't know whe=
+re to start doing complex regex operations in XLST, to be honest.Godfried

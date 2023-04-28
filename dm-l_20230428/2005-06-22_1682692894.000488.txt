@@ -1,0 +1,88 @@
+Subject: Re: [dm-l] Are markup languages obsolete?Hi all,That mark up would go obsolete as facsimile become readily available seems 
+to me a preposterous conclusion. As mark up is in use as a means of data 
+exchange in many more domains than digital editing alone, it is in no way 
+possible to call it obsolete. Moreover, facsimile of manuscript material can 
+hardly be called machine readable. As long as OCR is not able to 
+'understand' handwriting, transcription and mark up will proof its uses for 
+the humanities domain.However, as good digital humanities scholars we should always question our 
+mark up practice as progression in information technology is made. Because 
+Peter is my colleague I know he favors handcrafted TEI mark up as a means of 
+simultaneously structuring ones thoughts about a text as well as the text 
+itself. This might be. But arguably tagging text according to TEI guidelines 
+(or any other standard for that matter) is a laborious and potentially 
+frustrating task, especially when you're a newby on the job. From experience 
+I can tell that TEI is hardly the way to win over 'digital dummies' to the 
+digital humanities side of the broader argument.I do think that numerable emerging projects (like Kevin Kiernan's 'Edition 
+Production Tool' (EPT) and Sebastian Rahtz' Open Office TEI filter) are 
+doing an increasingly good job at both abstracting away form the 
+TEI-particulars and hiding the major amount of time and work involved in 
+applying XML by hand. Which is what good software tools should be all about: 
+abstracting from technical particulars and supporting any process in such a 
+way the it becomes faster, more efficient and easier to use. Thus providing 
+the tools that answer to the scholars intuition when handling and 
+structuring text, seems a good way forward to me. That mark up recedes into 
+the background due to such abstracting developments is a good thing. Just 
+like you don't need to know the XML particulars of an OTD-XML file to write 
+a perfectly comprehensible letter in Open Office, you shouldn't need to know 
+the TEI-XML particulars when structuring a text for literary research 
+purposes. The research value is in the act of structuring, not in the 
+particular tagset used and not even in the mark up model applied.So I'd say there's indeed a paradox. Bolton is right in that TEI should 
+become obsolete in the foreground of digital scholarly edition tools. But as 
+TEI/XML recedes from the editing screen to the file, it will of course in no 
+way become obsolete as a perfectly good means of storing edition material. 
+But sadly, Bolton (as qouted by Dan at least) does not appear to have come 
+to this kind of perception. She just seems to forward XML to oblivion 
+because she now can see a scanned original.
+ 
+Yours sincerely,
+JorisCjxwIHN0eWxlPSJtYXJnaW4tYm90dG9tOiAwLjVjbTsiPkhpIGFsbCw8YnI+PGJyPlRoYXQgbWFy
+ayB1cCB3b3VsZCBnbwpvYnNvbGV0ZSBhcyBmYWNzaW1pbGUgYmVjb21lIHJlYWRpbHkgYXZhaWxh
+YmxlIHNlZW1zIHRvIG1lIGEKcHJlcG9zdGVyb3VzIGNvbmNsdXNpb24uIEFzIG1hcmsgdXAgaXMg
+aW4gdXNlIGFzIGEgbWVhbnMgb2YgZGF0YQpleGNoYW5nZSBpbiBtYW55IG1vcmUgZG9tYWlucyB0
+aGFuIGRpZ2l0YWwgZWRpdGluZyBhbG9uZSwgaXQgaXMgaW4gbm8Kd2F5IHBvc3NpYmxlIHRvIGNh
+bGwgaXQgb2Jzb2xldGUuIE1vcmVvdmVyLCBmYWNzaW1pbGUgb2YgbWFudXNjcmlwdAptYXRlcmlh
+bCBjYW4gaGFyZGx5IGJlIGNhbGxlZCBtYWNoaW5lIHJlYWRhYmxlLiBBcyBsb25nIGFzIE9DUiBp
+cyBub3QKYWJsZSB0byAndW5kZXJzdGFuZCcgaGFuZHdyaXRpbmcsIHRyYW5zY3JpcHRpb24gYW5k
+IG1hcmsgdXAgd2lsbApwcm9vZiBpdHMgdXNlcyBmb3IgdGhlIGh1bWFuaXRpZXMgZG9tYWluLjxi
+cj48YnI+SG93ZXZlciwgYXMgZ29vZApkaWdpdGFsIGh1bWFuaXRpZXMgc2Nob2xhcnMgd2Ugc2hv
+dWxkIGFsd2F5cyBxdWVzdGlvbiBvdXIgbWFyayB1cApwcmFjdGljZSBhcyBwcm9ncmVzc2lvbiBp
+biBpbmZvcm1hdGlvbiB0ZWNobm9sb2d5IGlzIG1hZGUuIEJlY2F1c2UKUGV0ZXIgaXMgbXkgY29s
+bGVhZ3VlIEkga25vdyBoZSBmYXZvcnMgaGFuZGNyYWZ0ZWQgVEVJIG1hcmsgdXAgYXMgYQptZWFu
+cyBvZiBzaW11bHRhbmVvdXNseSBzdHJ1Y3R1cmluZyBvbmVzIHRob3VnaHRzIGFib3V0IGEgdGV4
+dCBhcwp3ZWxsIGFzIHRoZSB0ZXh0IGl0c2VsZi4gVGhpcyBtaWdodCBiZS4gQnV0IGFyZ3VhYmx5
+IHRhZ2dpbmcgdGV4dAphY2NvcmRpbmcgdG8gVEVJIGd1aWRlbGluZXMgKG9yIGFueSBvdGhlciBz
+dGFuZGFyZCBmb3IgdGhhdCBtYXR0ZXIpCmlzIGEgbGFib3Jpb3VzIGFuZCBwb3RlbnRpYWxseSBm
+cnVzdHJhdGluZyB0YXNrLCBlc3BlY2lhbGx5IHdoZW4KeW91J3JlIGEgbmV3Ynkgb24gdGhlIGpv
+Yi4gRnJvbSBleHBlcmllbmNlIEkgY2FuIHRlbGwgdGhhdCBURUkgaXMKaGFyZGx5IHRoZSB3YXkg
+dG8gd2luIG92ZXIgJ2RpZ2l0YWwgZHVtbWllcycgdG8gdGhlIGRpZ2l0YWwKaHVtYW5pdGllcyBz
+aWRlIG9mIHRoZSBicm9hZGVyIGFyZ3VtZW50LjwvcD4KCgo8cCBzdHlsZT0ibWFyZ2luLWJvdHRv
+bTogMC41Y207Ij5JIGRvIHRoaW5rIHRoYXQgbnVtZXJhYmxlIGVtZXJnaW5nCnByb2plY3RzIChs
+aWtlIEtldmluIEtpZXJuYW4ncyAnRWRpdGlvbiBQcm9kdWN0aW9uIFRvb2wnIChFUFQpIGFuZApT
+ZWJhc3RpYW4gUmFodHonIE9wZW4gT2ZmaWNlIFRFSSBmaWx0ZXIpIGFyZSBkb2luZyBhbiBpbmNy
+ZWFzaW5nbHkKZ29vZCBqb2IgYXQgYm90aCBhYnN0cmFjdGluZyBhd2F5IGZvcm0gdGhlIFRFSS1w
+YXJ0aWN1bGFycyBhbmQgaGlkaW5nCnRoZSBtYWpvciBhbW91bnQgb2YgdGltZSBhbmQgd29yayBp
+bnZvbHZlZCBpbiBhcHBseWluZyBYTUwgYnkgaGFuZC4KV2hpY2ggaXMgd2hhdCBnb29kIHNvZnR3
+YXJlIHRvb2xzIHNob3VsZCBiZSBhbGwgYWJvdXQ6IGFic3RyYWN0aW5nCmZyb20gdGVjaG5pY2Fs
+IHBhcnRpY3VsYXJzIGFuZCBzdXBwb3J0aW5nIGFueSBwcm9jZXNzIGluIHN1Y2ggYSB3YXkKdGhl
+IGl0IGJlY29tZXMgZmFzdGVyLCBtb3JlIGVmZmljaWVudCBhbmQgZWFzaWVyIHRvIHVzZS4gVGh1
+cwpwcm92aWRpbmcgdGhlIHRvb2xzIHRoYXQgYW5zd2VyIHRvIHRoZSBzY2hvbGFycyBpbnR1aXRp
+b24gd2hlbgpoYW5kbGluZyBhbmQgc3RydWN0dXJpbmcgdGV4dCwgc2VlbXMgYSBnb29kIHdheSBm
+b3J3YXJkIHRvIG1lLiBUaGF0Cm1hcmsgdXAKcmVjZWRlcyBpbnRvIHRoZSBiYWNrZ3JvdW5kIGR1
+ZSB0byBzdWNoIGFic3RyYWN0aW5nIGRldmVsb3BtZW50cyBpcyBhCmdvb2QgdGhpbmcuIEp1c3Qg
+bGlrZSB5b3UgZG9uJ3QgbmVlZCB0byBrbm93IHRoZQpYTUwgcGFydGljdWxhcnMgb2YgYW4gT1RE
+LVhNTCBmaWxlIHRvIHdyaXRlIGEgcGVyZmVjdGx5CmNvbXByZWhlbnNpYmxlIGxldHRlciBpbiBP
+cGVuIE9mZmljZSwgeW91IHNob3VsZG4ndCBuZWVkIHRvIGtub3cgdGhlClRFSS1YTUwgcGFydGlj
+dWxhcnMgd2hlbiBzdHJ1Y3R1cmluZyBhIHRleHQgZm9yIGxpdGVyYXJ5IHJlc2VhcmNoCnB1cnBv
+c2VzLiBUaGUgcmVzZWFyY2ggdmFsdWUgaXMgaW4gdGhlIGFjdCBvZiBzdHJ1Y3R1cmluZywgbm90
+IGluIHRoZQpwYXJ0aWN1bGFyIHRhZ3NldCB1c2VkIGFuZCBub3QgZXZlbiBpbiB0aGUgbWFyayB1
+cCBtb2RlbCBhcHBsaWVkLjwvcD4KPHAgc3R5bGU9Im1hcmdpbi1ib3R0b206IDAuNWNtOyI+U28g
+SSdkIHNheSB0aGVyZSdzIGluZGVlZCBhIHBhcmFkb3guCkJvbHRvbiBpcyByaWdodCBpbiB0aGF0
+IFRFSSBzaG91bGQgYmVjb21lIG9ic29sZXRlIGluIHRoZSBmb3JlZ3JvdW5kIG9mCmRpZ2l0YWwg
+c2Nob2xhcmx5IGVkaXRpb24gdG9vbHMuIEJ1dCBhcyBURUkvWE1MIHJlY2VkZXMgZnJvbSB0aGUK
+ZWRpdGluZyBzY3JlZW4gdG8gdGhlIGZpbGUsIGl0IHdpbGwgb2YgY291cnNlIGluIG5vIHdheSBi
+ZWNvbWUgb2Jzb2xldGUKYXMgYSBwZXJmZWN0bHkgZ29vZCBtZWFucyBvZiBzdG9yaW5nIGVkaXRp
+b24gbWF0ZXJpYWwuIEJ1dCBzYWRseSwKQm9sdG9uIChhcyBxb3V0ZWQgYnkgRGFuIGF0IGxlYXN0
+KSBkb2VzIG5vdCBhcHBlYXIgdG8gaGF2ZSBjb21lIHRvIHRoaXMKa2luZCBvZiBwZXJjZXB0aW9u
+LiBTaGUganVzdCBzZWVtcyB0byBmb3J3YXJkIFhNTCB0byBvYmxpdmlvbiBiZWNhdXNlCnNoZSBu
+b3cgY2FuIHNlZSBhIHNjYW5uZWQgb3JpZ2luYWwuPGJyPgo8L3A+CjxwIHN0eWxlPSJtYXJnaW4t
+Ym90dG9tOiAwLjVjbTsiPllvdXJzIHNpbmNlcmVseSw8YnI+CkpvcmlzPC9wPgo=

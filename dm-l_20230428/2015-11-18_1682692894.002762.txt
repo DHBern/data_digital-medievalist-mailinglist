@@ -1,0 +1,159 @@
+Subject: [dm-l] Workshop Automated Handwritten Text Recognition TranskribusDear list members,Apologies for possible cross posting. I'd thought colleagues in the field
+might be interested in the following workshop announcement.All the best
+--Joris van Zundert
+====WORKSHOP AUTOMATED HANDWRITTEN TEXT RECOGNITION TRANSKRIBUS AND THE
+‘RESOLUTIONS OF THE DUTCH STATES-GENERAL’ (Den Haag, Netherlands, 25
+November 2015)The workshop introduces Transkribus and is organized by Huygens ING, INL
+and the tranScriptorium project. Transkribus is developed in the EU funded
+project tranScriptorium, a research infrastructure for transcribing and
+automated text recognition of historical documents.Automated recognition of handwritten documents (HTR) is no longer wishful
+thinking but a real option. Whether it concerns medieval codices or modern
+archival documents, HTR is not only able to create an automated
+transcription, it also offers significantly improved search capabilities
+through new search methods (“keyword spotting”).Until recently, intensive efforts by specialized researchers have been the
+only way to make the content of the resolutions accessible. In the new
+project, alternative ways to make the content of the resolutions accessible
+for researchers and other users are explored. Huygens-ING carries out a
+number of pilot projects to clarify to which extent advanced ICT techniques
+and tools can reduce the dependency on manual labor. Working with HTR is
+one of these pilots.The workshop  shows preliminary results of a training set of the 17th
+century resolutions of the Dutch Staten-Generaal (Estates General), of
+automated structuring of printed 18th century resolutions. Moreover, it
+also offers a hands-on Transkribus session for the participants.The transcripts of the *Resolutions of the States-General *consist of
+200.000 pages of handwritten text that not only reflect the invention and
+early development of the new Dutch State, but also are a witness of the
+daily political activities of the “Hoogmogende Heren”.*Programme*Automated Handwritten Text Recognition – Transkribus and the project
+‘Resolutions of the Dutch States-General’. Friday, 27 November 2015 The
+Hague.   - 10.30-12.15 Lectures – This session offers an insight into the
+   technology behind Handwritten Text Recognition (HTR), introduces the
+   Transkribus platform and will reveal the results of HTR applied to the
+   resolutions of the Dutch Staten-Generaal. In addition, it shows the results
+   automated structuring and interpretation of printed 18th century
+   resolutions.
+   - 10.00   Walk in, coffee and tea
+   - 10.30   Introduction by Lex Heerma van Voss, director of the Huygens
+   ING
+   - 10.40   Véronica Romero (Universitat Politècnica de València) –
+   Interactive Handwritten Text Recognition and indexing of historical
+   documents: the tranScriptorum Project
+   - 11.00   Ronald Sluijter (Huygens ING) – Introduction to the
+   Resolutions of the Staten-Generaal
+   - 11.10   Jesse de Does (Institute for Dutch Lexicology) – HTR on the
+   hand-written Resolutions of the Staten-Generaal
+   - 11.30   Walter Ravenek (Huygens ING)– Structure and interpretation of
+   the printed Resolutions of the Staten-Generaal 1725
+   - 11.50   Günter Mühlberger (University of Innsbruck)- Recognition and
+   Enrichment of Archival Documents – the READ Project. e-Infrastructure for
+   Humanities Scholars, Archives, Computer Scientists and the Public.
+   - 12.15   Lunch
+   - 13.30   Hands-on session TranskribusDuring the second part the participants get the opportunity to try out
+Transkribus on their own laptops to get a sense of the stage the technology
+is in and what it can mean for their own work.For this goal we ask participants to install Transkribus beforehand.
+Instructions for this will be send to you prior to the meeting.16.00   Drinks*Place*Huygens Institute for the History of the Netherlands, Prins
+Willem-Alexanderhof 5, The Hague (the Netherlands)*Links*   - EU FP7 Projekt tranScriptorium: http://transcriptorium.eu/
+   - TRANSKRIBUS Plattform: http://transkribus.eu/*Registration*_redacted_(a)huygens.knaw.nl. Please indicate whether you intend
+to attend just the morning program or the hands-on session as well.The workshop is aimed at scholars who are involved in the transcription and
+editing of historical documents. The number of participants is limited,
+registrations will be accepted in the order of arrival. Registration
+deadline is 20 November 2015.Please bring your own laptop to the Workshop!====PGRpdiBkaXI9Imx0ciI+PGRpdj48ZGl2PjxkaXY+RGVhciBsaXN0IG1lbWJlcnMsPGJyPjxicj48
+L2Rpdj5BcG9sb2dpZXMgZm9yIHBvc3NpYmxlIGNyb3NzIHBvc3RpbmcuIEkmIzM5O2QgdGhvdWdo
+dCBjb2xsZWFndWVzIGluIHRoZSBmaWVsZCBtaWdodCBiZSBpbnRlcmVzdGVkIGluIHRoZSBmb2xs
+b3dpbmcgd29ya3Nob3AgYW5ub3VuY2VtZW50Ljxicj48YnI+PC9kaXY+QWxsIHRoZSBiZXN0PGJy
+PjwvZGl2Pi0tSm9yaXMgdmFuIFp1bmRlcnQ8YnI+PGRpdj48ZGl2PjxkaXY+PGRpdj48YnI+PGRp
+diBjbGFzcz0iZ21haWxfcXVvdGUiPjxicj48ZGl2IGRpcj0ibHRyIj48ZGl2PjxkaXY+PGRpdj48
+ZGl2PjxkaXY+PGRpdj49PT09PGJyPjxicj48ZGl2IGNsYXNzPSJnbWFpbF9xdW90ZSI+PGRpdiBz
+dHlsZT0id29yZC13cmFwOmJyZWFrLXdvcmQiPgo8ZGl2IHN0eWxlPSJjb2xvcjpyZ2IoMCwwLDAp
+O2ZvbnQtZmFtaWx5OkNhbGlicmksc2Fucy1zZXJpZjtmb250LXNpemU6MTRweCI+CldPUktTSE9Q
+IEFVVE9NQVRFRCBIQU5EV1JJVFRFTiBURVhUIFJFQ09HTklUSU9OIFRSQU5TS1JJQlVTIEFORCBU
+SEUg4oCYUkVTT0xVVElPTlMgT0YgVEhFIERVVENIIFNUQVRFUy1HRU5FUkFM4oCZIChEZW4gSGFh
+ZywgTmV0aGVybGFuZHMsIDI1IE5vdmVtYmVyIDIwMTUpPC9kaXY+CjxkaXY+PGZvbnQgZmFjZT0i
+Q2FsaWJyaSxzYW5zLXNlcmlmIj48YnI+CjwvZm9udD48L2Rpdj4KPGRpdj48Zm9udCBmYWNlPSJD
+YWxpYnJpLHNhbnMtc2VyaWYiPgo8ZGl2PlRoZSB3b3Jrc2hvcCBpbnRyb2R1Y2VzIFRyYW5za3Jp
+YnVzIGFuZCBpcyBvcmdhbml6ZWQgYnkgSHV5Z2VucyBJTkcsIElOTCBhbmQgdGhlIHRyYW5TY3Jp
+cHRvcml1bSBwcm9qZWN0LiBUcmFuc2tyaWJ1cyBpcyBkZXZlbG9wZWQgaW4gdGhlIEVVIGZ1bmRl
+ZCBwcm9qZWN0IHRyYW5TY3JpcHRvcml1bSwgYSByZXNlYXJjaCBpbmZyYXN0cnVjdHVyZSBmb3Ig
+dHJhbnNjcmliaW5nIGFuZCBhdXRvbWF0ZWQgdGV4dCByZWNvZ25pdGlvbiBvZiBoaXN0b3JpY2Fs
+CiBkb2N1bWVudHMuPC9kaXY+CjxkaXY+PGJyPgo8L2Rpdj4KPGRpdj5BdXRvbWF0ZWQgcmVjb2du
+aXRpb24gb2YgaGFuZHdyaXR0ZW4gZG9jdW1lbnRzIChIVFIpIGlzIG5vIGxvbmdlciB3aXNoZnVs
+IHRoaW5raW5nIGJ1dCBhIHJlYWwgb3B0aW9uLiBXaGV0aGVyIGl0IGNvbmNlcm5zIG1lZGlldmFs
+IGNvZGljZXMgb3IgbW9kZXJuIGFyY2hpdmFsIGRvY3VtZW50cywgSFRSIGlzIG5vdCBvbmx5IGFi
+bGUgdG8gY3JlYXRlIGFuIGF1dG9tYXRlZCB0cmFuc2NyaXB0aW9uLCBpdCBhbHNvIG9mZmVycyBz
+aWduaWZpY2FudGx5CiBpbXByb3ZlZCBzZWFyY2ggY2FwYWJpbGl0aWVzIHRocm91Z2ggbmV3IHNl
+YXJjaCBtZXRob2RzICjigJxrZXl3b3JkIHNwb3R0aW5n4oCdKS48L2Rpdj4KPGRpdj48YnI+Cjwv
+ZGl2Pgo8ZGl2PlVudGlsIHJlY2VudGx5LCBpbnRlbnNpdmUgZWZmb3J0cyBieSBzcGVjaWFsaXpl
+ZCByZXNlYXJjaGVycyBoYXZlIGJlZW4gdGhlIG9ubHkgd2F5IHRvIG1ha2UgdGhlIGNvbnRlbnQg
+b2YgdGhlIHJlc29sdXRpb25zIGFjY2Vzc2libGUuIEluIHRoZSBuZXcgcHJvamVjdCwgYWx0ZXJu
+YXRpdmUgd2F5cyB0byBtYWtlIHRoZSBjb250ZW50IG9mIHRoZSByZXNvbHV0aW9ucyBhY2Nlc3Np
+YmxlIGZvciByZXNlYXJjaGVycyBhbmQgb3RoZXIgdXNlcnMKIGFyZSBleHBsb3JlZC4gSHV5Z2Vu
+cy1JTkcgY2FycmllcyBvdXQgYSBudW1iZXIgb2YgcGlsb3QgcHJvamVjdHMgdG8gY2xhcmlmeSB0
+byB3aGljaCBleHRlbnQgYWR2YW5jZWQgSUNUIHRlY2huaXF1ZXMgYW5kIHRvb2xzIGNhbiByZWR1
+Y2UgdGhlIGRlcGVuZGVuY3kgb24gbWFudWFsIGxhYm9yLiBXb3JraW5nIHdpdGggSFRSIGlzIG9u
+ZSBvZiB0aGVzZSBwaWxvdHMuPC9kaXY+CjxkaXY+PGJyPgo8L2Rpdj4KPGRpdj5UaGUgd29ya3No
+b3AgwqBzaG93cyBwcmVsaW1pbmFyeSByZXN1bHRzIG9mIGEgdHJhaW5pbmcgc2V0IG9mIHRoZSAx
+N3RoIGNlbnR1cnkgcmVzb2x1dGlvbnMgb2YgdGhlIER1dGNoIFN0YXRlbi1HZW5lcmFhbCAoRXN0
+YXRlcyBHZW5lcmFsKSwgb2YgYXV0b21hdGVkIHN0cnVjdHVyaW5nIG9mIHByaW50ZWQgMTh0aCBj
+ZW50dXJ5IHJlc29sdXRpb25zLiBNb3Jlb3ZlciwgaXQgYWxzbyBvZmZlcnMgYSBoYW5kcy1vbiBU
+cmFuc2tyaWJ1cyBzZXNzaW9uCiBmb3IgdGhlIHBhcnRpY2lwYW50cy48L2Rpdj4KPGRpdj48YnI+
+CjwvZGl2Pgo8ZGl2PlRoZSB0cmFuc2NyaXB0cyBvZiB0aGUgPGk+UmVzb2x1dGlvbnMgb2YgdGhl
+IFN0YXRlcy1HZW5lcmFsIDwvaT5jb25zaXN0IG9mIDIwMC4wMDAgcGFnZXMgb2YgaGFuZHdyaXR0
+ZW4gdGV4dCB0aGF0IG5vdCBvbmx5IHJlZmxlY3QgdGhlIGludmVudGlvbiBhbmQgZWFybHkgZGV2
+ZWxvcG1lbnQgb2YgdGhlIG5ldyBEdXRjaCBTdGF0ZSwgYnV0IGFsc28gYXJlIGEgd2l0bmVzcyBv
+ZiB0aGUgZGFpbHkgcG9saXRpY2FsIGFjdGl2aXRpZXMgb2YgdGhlCiDigJxIb29nbW9nZW5kZSBI
+ZXJlbuKAnS48L2Rpdj4KPGRpdj48YnI+CjwvZGl2Pgo8ZGl2PjxiPlByb2dyYW1tZTwvYj48L2Rp
+dj4KPGRpdj48YnI+CjwvZGl2Pgo8ZGl2PkF1dG9tYXRlZCBIYW5kd3JpdHRlbiBUZXh0IFJlY29n
+bml0aW9uIOKAkyBUcmFuc2tyaWJ1cyBhbmQgdGhlIHByb2plY3Qg4oCYUmVzb2x1dGlvbnMgb2Yg
+dGhlIER1dGNoIFN0YXRlcy1HZW5lcmFs4oCZLiBGcmlkYXksIDI3IE5vdmVtYmVyIDIwMTUgVGhl
+IEhhZ3VlLjwvZGl2Pgo8dWw+CjxsaT4xMC4zMC0xMi4xNSBMZWN0dXJlcyDigJMgVGhpcyBzZXNz
+aW9uIG9mZmVycyBhbiBpbnNpZ2h0IGludG8gdGhlIHRlY2hub2xvZ3kgYmVoaW5kIEhhbmR3cml0
+dGVuIFRleHQgUmVjb2duaXRpb24gKEhUUiksIGludHJvZHVjZXMgdGhlIFRyYW5za3JpYnVzIHBs
+YXRmb3JtIGFuZCB3aWxsIHJldmVhbCB0aGUgcmVzdWx0cyBvZiBIVFIgYXBwbGllZCB0byB0aGUg
+cmVzb2x1dGlvbnMgb2YgdGhlIER1dGNoIFN0YXRlbi1HZW5lcmFhbC4gSW4gYWRkaXRpb24sCiBp
+dCBzaG93cyB0aGUgcmVzdWx0cyBhdXRvbWF0ZWQgc3RydWN0dXJpbmcgYW5kIGludGVycHJldGF0
+aW9uIG9mIHByaW50ZWQgMTh0aCBjZW50dXJ5IHJlc29sdXRpb25zLjwvbGk+PGxpPjEwLjAwIMKg
+IFdhbGsgaW4sIGNvZmZlZSBhbmQgdGVhPC9saT48bGk+MTAuMzAgwqAgSW50cm9kdWN0aW9uIGJ5
+IExleCBIZWVybWEgdmFuIFZvc3MsIGRpcmVjdG9yIG9mIHRoZSBIdXlnZW5zIElORzwvbGk+PGxp
+PjEwLjQwIMKgIFbDqXJvbmljYSBSb21lcm8gKFVuaXZlcnNpdGF0IFBvbGl0w6hjbmljYSBkZSBW
+YWzDqG5jaWEpIOKAkyBJbnRlcmFjdGl2ZSBIYW5kd3JpdHRlbiBUZXh0IFJlY29nbml0aW9uIGFu
+ZCBpbmRleGluZyBvZiBoaXN0b3JpY2FsIGRvY3VtZW50czogdGhlIHRyYW5TY3JpcHRvcnVtIFBy
+b2plY3Q8L2xpPjxsaT4xMS4wMCDCoCBSb25hbGQgU2x1aWp0ZXIgKEh1eWdlbnMgSU5HKSDigJMg
+SW50cm9kdWN0aW9uIHRvIHRoZSBSZXNvbHV0aW9ucyBvZiB0aGUgU3RhdGVuLUdlbmVyYWFsPC9s
+aT48bGk+MTEuMTAgwqAgSmVzc2UgZGUgRG9lcyAoSW5zdGl0dXRlIGZvciBEdXRjaCBMZXhpY29s
+b2d5KSDigJMgSFRSIG9uIHRoZSBoYW5kLXdyaXR0ZW4gUmVzb2x1dGlvbnMgb2YgdGhlIFN0YXRl
+bi1HZW5lcmFhbDwvbGk+PGxpPjExLjMwIMKgIFdhbHRlciBSYXZlbmVrIChIdXlnZW5zIElORyni
+gJMgU3RydWN0dXJlIGFuZCBpbnRlcnByZXRhdGlvbiBvZiB0aGUgcHJpbnRlZCBSZXNvbHV0aW9u
+cyBvZiB0aGUgU3RhdGVuLUdlbmVyYWFsIDE3MjU8L2xpPjxsaT4xMS41MCDCoCBHw7xudGVyIE3D
+vGhsYmVyZ2VyIChVbml2ZXJzaXR5IG9mIElubnNicnVjayktIFJlY29nbml0aW9uIGFuZCBFbnJp
+Y2htZW50IG9mIEFyY2hpdmFsIERvY3VtZW50cyDigJMgdGhlIFJFQUQgUHJvamVjdC4gZS1JbmZy
+YXN0cnVjdHVyZSBmb3IgSHVtYW5pdGllcyBTY2hvbGFycywgQXJjaGl2ZXMsIENvbXB1dGVyIFNj
+aWVudGlzdHMgYW5kIHRoZSBQdWJsaWMuPC9saT48bGk+MTIuMTUgwqAgTHVuY2g8L2xpPjxsaT4x
+My4zMCDCoCBIYW5kcy1vbiBzZXNzaW9uIFRyYW5za3JpYnVzPC9saT48L3VsPgo8ZGl2PkR1cmlu
+ZyB0aGUgc2Vjb25kIHBhcnQgdGhlIHBhcnRpY2lwYW50cyBnZXQgdGhlIG9wcG9ydHVuaXR5IHRv
+IHRyeSBvdXQgVHJhbnNrcmlidXMgb24gdGhlaXIgb3duIGxhcHRvcHMgdG8gZ2V0IGEgc2Vuc2Ug
+b2YgdGhlIHN0YWdlIHRoZSB0ZWNobm9sb2d5IGlzIGluIGFuZCB3aGF0IGl0IGNhbiBtZWFuIGZv
+ciB0aGVpciBvd24gd29yay48L2Rpdj4KPGRpdj48YnI+CjwvZGl2Pgo8ZGl2PkZvciB0aGlzIGdv
+YWwgd2UgYXNrIHBhcnRpY2lwYW50cyB0byBpbnN0YWxsIFRyYW5za3JpYnVzIGJlZm9yZWhhbmQu
+IEluc3RydWN0aW9ucyBmb3IgdGhpcyB3aWxsIGJlIHNlbmQgdG8geW91IHByaW9yIHRvIHRoZSBt
+ZWV0aW5nLjwvZGl2Pgo8ZGl2Pjxicj4KPC9kaXY+CjxkaXY+MTYuMDAgwqAgRHJpbmtzPC9kaXY+
+CjxkaXY+PGJyPgo8L2Rpdj4KPGRpdj48Yj5QbGFjZTwvYj48L2Rpdj4KPGRpdj48YnI+CjwvZGl2
+Pgo8ZGl2Pkh1eWdlbnMgSW5zdGl0dXRlIGZvciB0aGUgSGlzdG9yeSBvZiB0aGUgTmV0aGVybGFu
+ZHMsIFByaW5zIFdpbGxlbS1BbGV4YW5kZXJob2YgNSwgVGhlIEhhZ3VlICh0aGUgTmV0aGVybGFu
+ZHMpPC9kaXY+CjxkaXY+PGI+PGJyPgo8L2I+PC9kaXY+CjxkaXY+PGI+TGlua3M8L2I+PC9kaXY+
+Cjx1bD4KPGxpPkVVIEZQNyBQcm9qZWt0IHRyYW5TY3JpcHRvcml1bTogPGEgaHJlZj0iaHR0cDov
+L3RyYW5zY3JpcHRvcml1bS5ldSIgdGFyZ2V0PSJfYmxhbmsiPmh0dHA6Ly90cmFuc2NyaXB0b3Jp
+dW0uZXU8L2E+LzwvbGk+PGxpPlRSQU5TS1JJQlVTIFBsYXR0Zm9ybTogPGEgaHJlZj0iaHR0cDov
+L3RyYW5za3JpYnVzLmV1IiB0YXJnZXQ9Il9ibGFuayI+aHR0cDovL3RyYW5za3JpYnVzLmV1PC9h
+Pi88L2xpPjwvdWw+CjxkaXY+PGI+UmVnaXN0cmF0aW9uPC9iPjwvZGl2Pgo8ZGl2Pjxicj4KPC9k
+aXY+CjxkaXY+UmVnaXN0ZXIgdmlhOiA8YSBocmVmPSJtYWlsdG86Y29uZ3Jlc0BodXlnZW5zLmtu
+YXcubmwiIHRhcmdldD0iX2JsYW5rIj5jb25ncmVzQGh1eWdlbnMua25hdy5ubDwvYT4uIFBsZWFz
+ZSBpbmRpY2F0ZSB3aGV0aGVyIHlvdSBpbnRlbmQgdG8gYXR0ZW5kIGp1c3QgdGhlIG1vcm5pbmcg
+cHJvZ3JhbSBvciB0aGUgaGFuZHMtb24gc2Vzc2lvbiBhcyB3ZWxsLjwvZGl2Pgo8ZGl2Pjxicj4K
+PC9kaXY+CjxkaXY+VGhlIHdvcmtzaG9wIGlzIGFpbWVkIGF0IHNjaG9sYXJzIHdobyBhcmUgaW52
+b2x2ZWQgaW4gdGhlIHRyYW5zY3JpcHRpb24gYW5kIGVkaXRpbmcgb2YgaGlzdG9yaWNhbCBkb2N1
+bWVudHMuIFRoZSBudW1iZXIgb2YgcGFydGljaXBhbnRzIGlzIGxpbWl0ZWQsIHJlZ2lzdHJhdGlv
+bnMgd2lsbCBiZSBhY2NlcHRlZCBpbiB0aGUgb3JkZXIgb2YgYXJyaXZhbC4gUmVnaXN0cmF0aW9u
+IGRlYWRsaW5lIGlzIDIwIE5vdmVtYmVyIDIwMTUuPC9kaXY+CjxkaXY+PGJyPgo8L2Rpdj4KPGRp
+dj5QbGVhc2UgYnJpbmcgeW91ciBvd24gbGFwdG9wIHRvIHRoZSBXb3Jrc2hvcCE8YnI+PGJyPj09
+PT08YnI+PC9kaXY+CjwvZm9udD48L2Rpdj4KPGRpdiBzdHlsZT0iY29sb3I6cmdiKDAsMCwwKTtm
+b250LWZhbWlseTpDYWxpYnJpLHNhbnMtc2VyaWY7Zm9udC1zaXplOjE0cHgiPgo8ZGl2PjwvZGl2
+Pgo8L2Rpdj4KPC9kaXY+Cgo8L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rp
+dj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj4K

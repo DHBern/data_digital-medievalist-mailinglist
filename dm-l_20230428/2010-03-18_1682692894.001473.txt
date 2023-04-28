@@ -1,0 +1,177 @@
+Subject: Re: [dm-l] Layout of medieval poetry with CSSThanks to everyone who has replied so far. Some great ideas here. So far 
+Travis's approach has worked best--with some little alterations mainly 
+for making lines wrap elegantly and for working around problems with 
+e-book readers. Here's the css:.verse-container div {margin-left: 7em; text-indent: -2em;}
+.verse-container div span {display: block; float: left; margin-left: -5em;}
+.hypermetric div {margin-left: 6em; text-indent: -2em;}
+.hypermetric div span {display: block; float: left; margin-left: -4em;}I substituted div for p because Stanza insists on its own formatting for 
+p. And I use em instead of px to scale better with the device.  The HTML 
+looks like this:<div class="verse-container">
+    <div>Oft him ānhaga     āre gebīdeð,</div>
+    <div>Metudes miltse,     þēah þe hē mōdcearig</div>
+    <div>geond lagulāde     longe sceolde</div>
+    <div>hrēran mid hondum     hrīmcealde sǣ,</div>
+    <div><span>5</span>wadan wræclāstas.      Wyrd bið ful ārǣd.</div>
+</div>Nice and clean. The only remaining problem is that the Adobe Digital 
+Editions (ADE) e-book reader doesn't move the left margin of the span as 
+far left as the CSS tells it to do, and this causes collisions between 
+line number and line in the hypermetric verses, where the left margin is 
+narrower and there's less margin for error. So I've had to make the left 
+margin wider than I had it before to compensate. It looks like a waste 
+of space on an iPod screen, but in a browser window the spaciousness is 
+rather pleasant.Grant Simpson's approach looked to be working well, but it ran afoul of 
+a bug in the Stanza reader, which for some reason makes a block 
+containing a line number disappear unless it is inside the div for the 
+line. Don't ask me why: but as I've been haunting the mobileread forums 
+for a couple of weeks I can say that the CSS processing in Stanza and 
+ADE is well known to be flaky.I expect the e-book reader in the iPad to be much better, as it will 
+presumably use the Safari layout engine.Thanks again to everyone,
+PeterTravis Brown wrote:
+> The code below is too busy. You can get by with fewer classes and 
+> something more semantically concise. Though it's arguable if this is 
+> the correct approach. Line numbers are not content – they are 
+> essentially a layout item. 
+>
+> See it here in action with a couple other 
+> options: http://flightdeckmedia.com/line-numbering/
+>
+> .verse-container p {
+> margin: 0;
+> padding: 0;
+> line-height: 17px;
+> margin-left: 20px;
+> }
+> .verse-container p span {
+> display: block;
+> float:left;
+> margin-left: -20px;
+> }
+>
+> <div class="verse-container">
+>  <p>Whan that Aprill, with his shoures soote</p>
+>  <p>The droghte of March hath perced to the roote</p>
+>  <p>And bathed every veyne in swich licour,</p>
+>  <p>Of which vertu engendred is the flour;</p>
+>  <p><span>5.</span>Whan Zephirus eek with his sweete <br />
+>    breeth</p>
+>  <p>Inspired hath in every holt and heeth</p>
+>  <p>The tendre croppes, and the yonge sonne</p>
+>  <p>Hath in the Ram his halfe cours yronne,</p>
+>  <p>And smale foweles maken melodye,</p>
+>  <p><span>10.</span>That slepen al the nyght with open eye-</p>
+>  <p>(So priketh hem Nature in hir corages);</p>
+>  <p>Thanne longen folk to goon on pilgrimages</p>
+>  <p>And palmeres for to seken straunge strondes</p>
+>  <p>To ferne halwes, kowthe in sondry londes;</p>
+>  <p><span>15.</span>And specially from every shires ende</p>
+>  <p>Of Engelond, to Caunterbury they wende,</p>
+> </div>
+>
+> Regards,
+>
+> Travis
+>
+>
+> On 2010-03-17, at 5:56 PM, Simpson, Grant Leyton wrote:
+>
+>> Dear Peter,
+>>
+>> How about the following:
+>>
+>> <div class="vl">
+>> hrēran mid hondum hrīmcealde sǣ,
+>> </div>
+>> <div class="n">5</div>
+>> <div class="vl">
+>> wadan wræclāstas. Wyrd bið ful ārǣd.
+>> </div>
+>>
+>> div.vl {margin-left:6em; text-indent: -2em;}
+>> div.n {
+>> float: left;
+>> }
+>>
+>> This way, all the verse lines have the same class and the number div 
+>> is before the line it applies to, not in it.
+>>
+>> I tried it on IE 8, FF 3.6, Chrome 5, Safari 4, and Safari on the 
+>> iPhone.  Worked with no problem.  If you'd like me to check it with 
+>> IE 7, I can tomorrow.  I wouldn't worry about IE 6.
+>>
+>> Best,
+>> Grant Simpson
+>> Senior Analyst/Programmer, Office of the Registrar
+>> Doctoral Student, Department of English
+>> Indiana University Bloomington
+>>
+>>
+>> On Mar 17, 2010, at 4:20 PM, Peter Baker wrote:
+>>
+>>> I've been struggling with the problem of laying out medieval poetry in
+>>> HTML using just CSS. The problem is with line numbers, which usually
+>>> appear to the left (sometimes to the right) of the poem; yet the left
+>>> margin of the poem should remain even, and lines should wrap nicely,
+>>> with extra space on the left after a wrap.
+>>>
+>>> Much, perhaps most of the poetry I've seen on the web is laid out with
+>>> tables, which is a bad hack, and less than ideal in several different
+>>> ways. For my online Old English anthology site I worked out a system
+>>> which is just barely okay: but it tends to fall apart under 
+>>> stress--i.e.
+>>> when a browser window is made too narrow. Since I've been trying to
+>>> format poetry so it displays well on an iPhone or other small screen,
+>>> this will not do.
+>>>
+>>> Here's my solution, with a screenshot. It still seems less than ideal,
+>>> and my question for anyone who has struggled to present medieval poetry
+>>> well on screen, is whether you have a system that is better and are
+>>> willing to share it here.
+>>>
+>>> My current solution involves enclosing each line in a div with class
+>>> "vl" (verse-line). *Numbered* lines, on the other hand, go in a div 
+>>> with
+>>> class "vln" (numbered-verse-line). The <div class="vln"> lines start
+>>> with a div containing the line number. So here:
+>>>
+>>> <div class="vl">
+>>> hrēran mid hondum hrīmcealde sǣ,
+>>> </div>
+>>> <div class="vln">
+>>> <div>5</div> wadan wræclāstas. Wyrd bið ful ārǣd.
+>>> </div>
+>>>
+>>> Now the CSS:
+>>>
+>>> div.vl {margin-left:6em; text-indent: -2em;}
+>>> div.vln {margin-left:6em; text-indent: -6em;}
+>>> div.vln div {float:left; width:4em; color:black;}
+>>>
+>>> And that gives you something like the attached: good on an iPhone or a
+>>> computer (Firefox, Safari, Opera, *probably* IE but I haven't tested
+>>> there yet). I also have a variant for Old English hypermetric lines but
+>>> won't bore you with that.
+>>>
+>>> Things I don't like: having different classes for lines with and 
+>>> without
+>>> line numbers; having the line-number div inside the line div (the
+>>> alternatives I've tried tend to break *somewhere*). It would be nice if
+>>> the line numbers somehow escaped being copied to the clipboard with the
+>>> text, but that would surely be asking too much.
+>>>
+>>> If anyone is interested in sharing solutions, I'd be very grateful!
+>>>
+>>> Peter Baker
+>>>
+>>> <iphone.jpg><ATT00001..txt>
+>>
+>> Digital Medievalist --  http://www.digitalmedievalist.org/
+>> Journal: http://www.digitalmedievalist.org/journal/
+>> Journal Editors: editors _AT_ digitalmedievalist.org 
+>> <http://digitalmedievalist.org>
+>> News: http://www.digitalmedievalist.org/news/
+>> Wiki: http://www.digitalmedievalist.org/wiki/
+>> Twitter: http://twitter.com/digitalmedieval
+>> Facebook: http://www.facebook.com/group.php?gid=49320313760
+_redacted_(a)uleth.ca>
+>> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>

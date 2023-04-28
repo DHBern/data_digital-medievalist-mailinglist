@@ -1,0 +1,42 @@
+Subject: Re: [dm-l] TAN: Unicode, XML, and LaTeX
+Daniel Paul O'Donnell wrote in part:>     I've been playing with LaTex (actually MikTex) as a TEI2PDF 
+>conversion method, and I have a question about unicode support for 
+>LaTex that members of this list might have a better handle on than 
+>the TUG group seems to.
+>     What is the best method of handling UTF-8 XML code in LaTeX2e? ... >>I was quite distressed last fall when I opened the brand-new 4th 
+edition of Kopka and Daly and found no entry in the index under 
+Unicode. The even more recent second edition of _The Latex Companion_ 
+is a little better (check the index under "UTF-8"; there's still no 
+"Unicode" entry), but the situation is still pretty sketchy from what 
+I understand. LaTeX & Unicode will in theory work with the characters 
+in [inputenc] encodings (e.g., Latin 1 and Latin 2), and there's 
+support for CKJ with the difficult-to-set-up [ucs] package, but it's 
+not as easy nor complete as it seems like it should be after all 
+these years - a constant refrain about fonts in general on the TeX 
+lists, by the way.Progress does seem to be being made, though; see e.g. the TUGboat 
+EuroTeX 2003 Proceedings Table of Contents:http://www.tug.org/TUGboat/Contents/contents24-3.htmlYou might also find parts of the 2005 Conference Preprints .pdf 
+useful (4.6 MB; linked at:)http://www.dante.de/dante/events/eurotex/I'm far from an expert, but you might want to look into (and ask on 
+the lists for) Aleph and Omega:http://www.ntg.nl/mailman/listinfo/alephhttp://tug.org/mailman/listinfo/omegaIf by chance you haven't tried it already, the newsgroup 
+news:comp.text.tex might be worth approaching, or one of the archived 
+search results at Google Groups:http://groups-beta.google.com/using the search string:unicode xml group:comp.text.texmight prove useful. The first result that comes up looks at first 
+glance particularly promising.If you're not wedded to LaTeX2e, you might consider one of its 
+cousins, the cutting-edge cross-platform implementation of TeX called 
+ConTeXt:http://www.pragma-ade.com/http://contextgarden.net/Main_PageSee for the Unicode side:http://contextgarden.net/Encodings_and_Regimesand for the XML side:http://contextgarden.net/XMLConTeXt also has a very active mailing list:http://www.ntg.nl/mailman/listinfo/ntg-context From what I've gathered from discussions on that mailing list, almost 
+anything you can do in LaTeX you can also do in ConTeXt; often if if 
+something is not currently possible, the developers will come up with 
+a solution and incorporate it in the next minor update a month or two 
+down the road. The user (and developer) base is much smaller than for 
+LaTeX and there are no (!) books and the documentation is not always 
+as helpful as one might want, but the recent founding of ConTeXt 
+Garden has helped make the implementation a good deal more 
+intelligible than it was, say, a year ago.Alternatively, if switching to Mac OS X is an option, bleeding-edge 
+(so-called by its main developer, Jonathon Kew) XeTeX:http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&item_id=xetexis platform-specific but allows you to use any fonts in the system 
+without having to generate new files, name them in special & esoteric 
+ways, and put them in the right place - the kind of thing that tends 
+to drive new users of LaTeX back to WYSIWYG. Note also the link to 
+the active XeTeX mailing list at the above page.Sorry not to be of more specific help, but I hope these will provide 
+some leads to those who can offer better assistance.John
+-- 
+*** John McChesney-Young  **  panis~at~pacbell.net  **   Berkeley, 
+California, U.S.A.  ***
+--===============3421430627247525196==--

@@ -1,0 +1,22 @@
+Subject: [dm-l] Thanks allThanks very much for prompt and helpful replies. I'm off skiing today, 
+and so can't try the various suggestions out until this evening, but 
+they look pretty right. They certainly diagnosed missing elements in my 
+sheets.To sum up:The problem I was having involved additional material being put in my 
+output (namespaces, extra lines of meta information) and the stripping 
+out of the solidus in empty elements (e.g. <br> for expected <br/>).The solutions (I'm pretty sure they will work) involved1) specifying xhtml or xml as my output, e.g.<xsl:output method="xml"
+            encoding="UTF-8"
+            doctype-public="-//W3C//DTD XHTML 1.0 Transitional//EN"
+ 
+doctype-system="http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"
+            omit-xml-declaration="yes"/>2) if necessary, using the <xsl:element> element instead of plain text 
+for entering the xhtml tagging.
+Again, thanks.-dan-- 
+Daniel Paul O'Donnell, PhD
+Associate Professor of English
+University of Lethbridge
+Lethbridge AB T1K 3M4
+Tel. (403) 329-2377
+Fax. (403) 382-7191
+_redacted_(a)uleth.ca>
+Home Page <http://people.uleth.ca/~daniel.odonnell/>
+The Digital Medievalist Project: <http://www.digitalmedievalist.org/>

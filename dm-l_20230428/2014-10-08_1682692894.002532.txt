@@ -1,0 +1,29 @@
+Subject: [dm-l] Database of the Letters of Pope Gregory VII (1073-1085)Dear Digital MedievalistsI'm glad to inform you about a database which might be of some  
+interest to those of you working on the late eleventh century, the  
+investiture conflict or papal history.Today, I've finished and published a database collecting and  
+containing information on where and in which collections/contexts the  
+letters of pope Gregory VII were transmitted.www.g7ldb.history.uni-tuebingen.deNo full text of any letter is included (yet?) but nevertheless you can  
+do rather advanced search queries. There are also a synopsis of  
+letters and collections and a visualisation of the transmission. Both  
+show ALL elements by default, but are designed to display your  
+selection of items.I appreciate any feedback, via mail or the forms at the bottom of each  
+page in the database.For those of you rather interested in the technical side, just a few  
+words: The raw data is all in XML, with some elements in TEI. Wherever  
+possible, static HTML pages are created via XSLT. Search and synopsis  
+and visualisation of user selections are also done with XSLT, but in  
+real time on the server using Saxon/C. PHP is used to manage these  
+transformations and also the user sessions. eXist or any other XML  
+database is nowhere involved.
+I guess, this solution is somehow “unorthodox”, but after all: It's  
+working! (At least, I hope so.)I hope, the database is of some use at least to some of you!Best regards
+Christian
+--Dr. Christian Schwaderer
+(Akademischer Mitarbeiter)Eberhard-Karls-Universität Tübingen
+Philosophische Fakultät
+Fachbereich Geschichtswissenschaft
+Seminar für mittelalterliche Geschichte
+Wilhelmstraße 36 (Hegelbau)· 72074 Tübingen · Germany
+Zimmer 212
+Telefon +49 7071 29-72990· Telefax +49 7071 29-5905
+_redacted_(a)uni-tuebingen.de
+--===============7403262574149599451==--

@@ -1,0 +1,313 @@
+Subject: [dm-l] Joint Call for Reviews by the German NFDI-consortium Text+ and
+In collaboration with the Institute of Documentology and Scholarly Editing (I=
+DE)<https://www.i-d-e.de/>, the Text+ consortium<https://www.text-plus.org/en=
+/home/> of the German National Research Data Infrastructure (NFDI)<https://ww=
+w.dfg.de/en/research_funding/programmes/nfdi/index.html> invites authors to s=
+ubmit reviews of digital scholarly editions for the journal RIDE<https://ride=
+.i-d-e.de>. The reviews should be based on the IDE criteria for reviewing dig=
+ital editions and focus on the application of the FAIR principles for this sp=
+ecial issue.Cooperation and goalsText+ has been active since 2021. The consortium is dedicated to the developm=
+ent of a research data infrastructure for text- and language-based materials,=
+ divided, to start with, into three data domains: lexical resources, collecti=
+ons, and scholarly editions. Scholarly editions are critical representations =
+of documents from the past that are primarily used in the study of research o=
+bjectives within the humanities.A central task of the data domain =E2=80=9Ceditions=E2=80=9D is the assessmen=
+t of methods and practices of the editorial process, as well as the developme=
+nt of recommendations for the creation, processing and publication of researc=
+h data. According to the FAIR principles<https://force11.org/info/the-fair-da=
+ta-principles/>, data from editions should be =E2=80=9EFindable, Accessible, =
+Interoperable, and Re-usable.=E2=80=9C Applying these principles to digital r=
+esources is becoming more and more important, but they are yet to be discusse=
+d in depth in the context of scholarly editions. The implementation of the FA=
+IR principles is crucial for central aspects of working with digital editions=
+; these include, for example, aspects of search, linking, licensing, and re-u=
+se. In order to gain a better understanding of what =E2=80=9CFAIR=E2=80=9D en=
+tails in the context of editions specifically and whether and how these princ=
+iples can be applied to digital scholarly editions, existing practices are be=
+st described in the form of reviews. On the basis of individual case studies,=
+ reviews allow a survey of the diverse editorial landscape and can thus contr=
+ibute to the development of new criteria. For this reason, Text+ has chosen t=
+o cooperate with the review journal RIDE which was first published in 2014 an=
+d has been, since then, leading in the review of digital scholarly editions. =
+Together, Text+ and RIDE seek to further promote the discourse on best practi=
+ces in the creation and publication of digital editions in general and in the=
+ application of the FAIR principles in particular.Modalities_redacted_(a)i-d-e.d=
+_redacted_(a)i-d-e.de> (name, affiliation, edition). The deadline=
+ for proposals is 17 May 2022, but we may remain open for inquiries afterward=
+s. Publication of the volume(s) will be by =E2=80=98rolling release=E2=80=99.The reviews are to be based on the catalog of criteria for digital editions<h=
+ttps://www.i-d-e.de/publikationen/weitereschriften/criteria-version-1-1/> dev=
+eloped by the IDE. A handout for evaluating the =E2=80=9CFAIRness=E2=80=9D of=
+ a digital edition has also been developed for Text+ editions (see below). As=
+ with all RIDE reviews, a submission consists of the review text and a factsh=
+eet, the latter based on a questionnaire to be completed by the reviewer. We =
+accept submissions in German and English.The editors of the first edition are Tessa Gengnagel (Cologne Center for eHum=
+anities), Frederike Neuber (Berlin-Brandenburg Academy of Sciences and Humani=
+ties) and Daniela Schulz (Herzog August Library Wolfenb=C3=BCttel).FAIR in digital editions =E2=80=93 criteriaReviewers should address (amongst others) the following aspects regarding the=
+ application of the FAIR-principles in digital scholarly editions:Findable. Can the edition be found via library catalogs, discovery systems, o=
+r relevant edition catalogs (e.g., the Catalogue of Digital Editions maintain=
+ed by Greta Franzini<https://dig-ed-cat.acdh.oeaw.ac.at/> or the catalog by P=
+atrick Sahle<https://www.digitale-edition.de>)? Can the data be found through=
+ disciplinary repositories or general research data repositories (including Z=
+enodo<https://zenodo.org/>, Dariah Collection Registry<https://colreg.de.dari=
+ah.eu/colreg-ui/>, Humanities Commons<https://hcommons.org/>)? Is a persisten=
+t identifier used? How efficient is a search for the edition using a search e=
+ngine?Accessible. Is the edition freely accessible for any user, or are there acces=
+s restrictions? Which parts of the edition are accessible (presentation layer=
+, data layer)? Have global aspects of accessibility been taken into account, =
+e.g. by allowing language selection? What about web accessibility and user fr=
+iendliness of the edition?Interoperable. Is the (primary) data recorded in a standardized and widely us=
+ed format (e.g. according to TEI and its subsets or specific customizations s=
+uch as the DTABf) which would allow for the integration of the data into larg=
+er corpora or the use of specific software solutions? Is the data on which th=
+e edition is based accessible via technical interfaces? Does the edition offe=
+r special APIs? Does it itself aggregate data via interfaces from other resou=
+rces (e.g. as part of IIIF)?Reusable. Is the edition data accessible, and if so, how (individual download=
+, aggregate download, repository, API)? What are the licenses for the edition=
+ data? Do they allow any subsequent use at all? Are the data sets and their c=
+reation, processing and modeling documented in such a way that third parties =
+can work with them?Suggestions for ReviewReviewers can either choose from the following list of digital editions from =
+German-speaking countries or from the general suggestion list of RIDE<https:/=
+/ride.i-d-e.de/reviewers/suggested-projects-for-review/>. Your own suggestion=
+s are also welcome!  *   Ahiqar. The Story of Ahiqar in its Syriac and Arabic Tradition (https:/=
+/ahiqar.uni-goettingen.de/website/)
+  *   ARCHITRAVE. Kunst und Architektur in Paris und Versailles im Spiegel de=
+utscher Reiseberichte des Barock (https://architrave.eu/)
+  *   Arthur Schnitzler digital (https://www.arthur-schnitzler.de/)
+  *   Averroes Edition (https://averroes.uni-koeln.de/)
+  *   Beethovens Werkstatt (https://beethovens-werkstatt.de/)
+  *   Bibliothek der Neologie (https://bdn-edition.de/index.html)
+  *   Briefedition Friedrich Fr=C3=B6bel (https://editionen.bbf.dipf.de/exist=
+/apps/briefedition-friedrich-froebel/index.html)
+  *   Briefportal Leibniz (https://leibniz-briefportal.adw-goe.de/start)
+  *   Capitularia. Edition der fr=C3=A4nkischen Herrschererlasse (https://cap=
+itularia.uni-koeln.de)
+  *   Die deutschen Inschriften (https://www.inschriften.net/)
+  *   Die Sozinianischen Briefwechsel (https://sozinianer.de/)
+  *   Digitale Edition und Kommentierung der Tageb=C3=BCcher des F=C3=BCrsten=
+ Christian II. von Anhalt-Bernburg (1599-1656) (http://diglib.hab.de/edoc/ed0=
+00228/start.htm)
+  *   Documenta Nepalica (https://nepalica.hadw-bw.de/nepal/)
+  *   Europ=C3=A4ische Religionsfrieden digital (https://eured.de/)
+  *   Forschung Daniel Sanders =E2=80=93 Digitale Gesamtedition (https://sand=
+ers.bbaw.de/)
+  *   Gottlob Frege Grunds=C3=A4tze der Arithmetik (https://korpora.zim.uni-d=
+uisburg-essen.de/Frege/)
+  *   Hannah Arendt Edition (https://hannah-arendt-edition.net/index.html)
+  *   Christian Gottlob Heyne =E2=80=93 Vorlesungen =C3=BCber die Arch=C3=A4o=
+logie (https://heyne-digital.de/)
+  *   Jean Paul =E2=80=93 S=C3=A4mtliche Briefe digital (https://www.jeanpaul=
+-edition.de)
+  *   Kleine und fragmentarische Historiker der Sp=C3=A4tantike (http://kfhis=
+t.awk.nrw.de)
+  *   Kritische Gesamtausgabe der Schriften und Briefe Andreas Bodensteins vo=
+n Karlstadt (https://karlstadt-edition.org/)
+  *   Niklas Luhmann-Archiv (https://niklas-luhmann-archiv.de/)
+  *   Opus Postumum Online Edition (Neuedition, Revision und Abschluss der We=
+rke Immanuel Kants) (http://telota.bbaw.de/kant_op/index.html)
+  *   Philipp Hainhofer: Reiseberichte & Sammlungsbeschreibungen 1594=E2=80=
+=931636. Edition und Datensammlung zur Kunst- und Kulturgeschichte der ersten=
+ H=C3=A4lfte des 17. Jahrhunderts (https://hainhofer.hab.de/)
+  *   Quellensammlung zur Geschichte der deutschen Sozialpolitik 1867 bis 191=
+4 (https://quellen-sozialpolitik-kaiserreich.de/)
+  *   Schleiermacher digital (https://schleiermacher-digital.de/index.xql)
+  *   Selbstzeugnisse der Fr=C3=BChen Neuzeit in der Herzog August Bibliothek=
+ (http://selbstzeugnisse.hab.de/)
+  *   Theodor Fontane: Notizb=C3=BCcher (https://fontane-nb.dariah.eu/index.h=
+tml)PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
+eHQvaHRtbDsgY2hhcnNldD11dGYtOCI+CjwvaGVhZD4KPGJvZHk+CjxkaXYgc3R5bGU9ImJvcmRl
+cjpzb2xpZCAjNjQ2NDY0IDEuMHB0O3BhZGRpbmc6Mi4wcHQgMi4wcHQgMi4wcHQgMi4wcHQ7YmFj
+a2dyb3VuZDojRkZFQjlDIj4KPHAgY2xhc3M9Ik1zb05vcm1hbCIgc3R5bGU9ImxpbmUtaGVpZ2h0
+OjEyLjBwdDttYXJnaW46NXB4Ij48Yj48c3BhbiBzdHlsZT0iZm9udC1zaXplOjEwLjBwdDtjb2xv
+cjojOUM2NTAwIj48L3NwYW4+PC9iPjxzcGFuIHN0eWxlPSJmb250LXNpemU6MTAuMHB0O2NvbG9y
+OmJsYWNrIj5DYXV0aW9uOiBUaGlzIGVtYWlsIHdhcyBzZW50IGZyb20gc29tZW9uZQo8Yj5vdXRz
+aWRlIG9mIHRoZSBVbml2ZXJzaXR5IG9mIExldGhicmlkZ2U8L2I+LiBEbyBub3QgY2xpY2sgb24g
+bGlua3Mgb3Igb3BlbiBhdHRhY2htZW50cyB1bmxlc3MgeW91IGtub3cgdGhleSBhcmUgc2FmZS4g
+U3VzcGljaW91cyBlbWFpbHMgc2hvdWxkIGJlIGZvcndhcmRlZCB0byBwaGlzaGluZ0B1bGV0aC5j
+YS48bzpwPjwvbzpwPjwvc3Bhbj48L3A+CjwvZGl2Pgo8YnI+CjxkaXY+CjxkaXYgZGlyPSJsdHIi
+Pgo8ZGl2IGNsYXNzPSJnbWFpbC1pbm5lci13cmFwIj4KPGRpdiBpZD0iZ21haWwtcHJpbWFyeSI+
+CjxkaXYgaWQ9ImdtYWlsLWNvbnRlbnQiIGNsYXNzPSJnbWFpbC1jbGVhcmZpeCI+CjxkaXYgY2xh
+c3M9ImVudHJ5LWNvbnRlbnQgZ21haWwtY2xlYXJmaXgiPgo8cD5JbiBjb2xsYWJvcmF0aW9uIHdp
+dGggdGhlIDxhIGhyZWY9Imh0dHBzOi8vd3d3LmktZC1lLmRlLyI+SW5zdGl0dXRlIG9mIERvY3Vt
+ZW50b2xvZ3kgYW5kIFNjaG9sYXJseSBFZGl0aW5nIChJREUpPC9hPiwgdGhlCjxhIGhyZWY9Imh0
+dHBzOi8vd3d3LnRleHQtcGx1cy5vcmcvZW4vaG9tZS8iPlRleHQrIGNvbnNvcnRpdW08L2E+IG9m
+IHRoZSBHZXJtYW4gPGEgaHJlZj0iaHR0cHM6Ly93d3cuZGZnLmRlL2VuL3Jlc2VhcmNoX2Z1bmRp
+bmcvcHJvZ3JhbW1lcy9uZmRpL2luZGV4Lmh0bWwiPgpOYXRpb25hbCBSZXNlYXJjaCBEYXRhIElu
+ZnJhc3RydWN0dXJlIChORkRJKTwvYT4gaW52aXRlcyBhdXRob3JzIHRvIHN1Ym1pdCByZXZpZXdz
+IG9mIGRpZ2l0YWwgc2Nob2xhcmx5IGVkaXRpb25zIGZvciB0aGUgam91cm5hbAo8YSBocmVmPSJo
+dHRwczovL3JpZGUuaS1kLWUuZGUiPlJJREU8L2E+LiBUaGUgcmV2aWV3cyBzaG91bGQgYmUgYmFz
+ZWQgb24gdGhlIElERSBjcml0ZXJpYSBmb3IgcmV2aWV3aW5nIGRpZ2l0YWwgZWRpdGlvbnMgYW5k
+IGZvY3VzIG9uIHRoZSBhcHBsaWNhdGlvbiBvZiB0aGUgRkFJUiBwcmluY2lwbGVzIGZvciB0aGlz
+IHNwZWNpYWwgaXNzdWUuPC9wPgo8cD4mbmJzcDs8L3A+CjxoMj5Db29wZXJhdGlvbiBhbmQgZ29h
+bHM8L2gyPgo8cD5UZXh0KyBoYXMgYmVlbiBhY3RpdmUgc2luY2UgMjAyMS4gVGhlIGNvbnNvcnRp
+dW0gaXMgZGVkaWNhdGVkIHRvIHRoZSBkZXZlbG9wbWVudCBvZiBhIHJlc2VhcmNoIGRhdGEgaW5m
+cmFzdHJ1Y3R1cmUgZm9yIHRleHQtIGFuZCBsYW5ndWFnZS1iYXNlZCBtYXRlcmlhbHMsIGRpdmlk
+ZWQsIHRvIHN0YXJ0IHdpdGgsIGludG8gdGhyZWUgZGF0YSBkb21haW5zOiBsZXhpY2FsIHJlc291
+cmNlcywgY29sbGVjdGlvbnMsIGFuZCBzY2hvbGFybHkgZWRpdGlvbnMuCiBTY2hvbGFybHkgZWRp
+dGlvbnMgYXJlIGNyaXRpY2FsIHJlcHJlc2VudGF0aW9ucyBvZiBkb2N1bWVudHMgZnJvbSB0aGUg
+cGFzdCB0aGF0IGFyZSBwcmltYXJpbHkgdXNlZCBpbiB0aGUgc3R1ZHkgb2YgcmVzZWFyY2ggb2Jq
+ZWN0aXZlcyB3aXRoaW4gdGhlIGh1bWFuaXRpZXMuPC9wPgo8cD5BIGNlbnRyYWwgdGFzayBvZiB0
+aGUgZGF0YSBkb21haW4g4oCcZWRpdGlvbnPigJ0gaXMgdGhlIGFzc2Vzc21lbnQgb2YgbWV0aG9k
+cyBhbmQgcHJhY3RpY2VzIG9mIHRoZSBlZGl0b3JpYWwgcHJvY2VzcywgYXMgd2VsbCBhcyB0aGUg
+ZGV2ZWxvcG1lbnQgb2YgcmVjb21tZW5kYXRpb25zIGZvciB0aGUgY3JlYXRpb24sIHByb2Nlc3Np
+bmcgYW5kIHB1YmxpY2F0aW9uIG9mIHJlc2VhcmNoIGRhdGEuIEFjY29yZGluZyB0byB0aGUKPGEg
+aHJlZj0iaHR0cHM6Ly9mb3JjZTExLm9yZy9pbmZvL3RoZS1mYWlyLWRhdGEtcHJpbmNpcGxlcy8i
+PkZBSVIgcHJpbmNpcGxlczwvYT4sIGRhdGEgZnJvbSBlZGl0aW9ucyBzaG91bGQgYmUg4oCePHN0
+cm9uZz5GPC9zdHJvbmc+aW5kYWJsZSwKPHN0cm9uZz5BPC9zdHJvbmc+Y2Nlc3NpYmxlLDxzdHJv
+bmc+IEk8L3N0cm9uZz5udGVyb3BlcmFibGUsIGFuZCA8c3Ryb25nPlI8L3N0cm9uZz5lLXVzYWJs
+ZS7igJwgQXBwbHlpbmcgdGhlc2UgcHJpbmNpcGxlcyB0byBkaWdpdGFsIHJlc291cmNlcyBpcyBi
+ZWNvbWluZyBtb3JlIGFuZCBtb3JlIGltcG9ydGFudCwgYnV0IHRoZXkgYXJlIHlldCB0byBiZSBk
+aXNjdXNzZWQgaW4gZGVwdGggaW4gdGhlIGNvbnRleHQgb2Ygc2Nob2xhcmx5IGVkaXRpb25zLgog
+VGhlIGltcGxlbWVudGF0aW9uIG9mIHRoZSBGQUlSIHByaW5jaXBsZXMgaXMgY3J1Y2lhbCBmb3Ig
+Y2VudHJhbCBhc3BlY3RzIG9mIHdvcmtpbmcgd2l0aCBkaWdpdGFsIGVkaXRpb25zOyB0aGVzZSBp
+bmNsdWRlLCBmb3IgZXhhbXBsZSwgYXNwZWN0cyBvZiBzZWFyY2gsIGxpbmtpbmcsIGxpY2Vuc2lu
+ZywgYW5kIHJlLXVzZS4gSW4gb3JkZXIgdG8gZ2FpbiBhIGJldHRlciB1bmRlcnN0YW5kaW5nIG9m
+IHdoYXQg4oCcRkFJUuKAnSBlbnRhaWxzIGluIHRoZQogY29udGV4dCBvZiBlZGl0aW9ucyBzcGVj
+aWZpY2FsbHkgYW5kIHdoZXRoZXIgYW5kIGhvdyB0aGVzZSBwcmluY2lwbGVzIGNhbiBiZSBhcHBs
+aWVkIHRvIGRpZ2l0YWwgc2Nob2xhcmx5IGVkaXRpb25zLCBleGlzdGluZyBwcmFjdGljZXMgYXJl
+IGJlc3QgZGVzY3JpYmVkIGluIHRoZSBmb3JtIG9mIHJldmlld3MuIE9uIHRoZSBiYXNpcyBvZiBp
+bmRpdmlkdWFsIGNhc2Ugc3R1ZGllcywgcmV2aWV3cyBhbGxvdyBhIHN1cnZleSBvZiB0aGUgZGl2
+ZXJzZQogZWRpdG9yaWFsIGxhbmRzY2FwZSBhbmQgY2FuIHRodXMgY29udHJpYnV0ZSB0byB0aGUg
+ZGV2ZWxvcG1lbnQgb2YgbmV3IGNyaXRlcmlhLiBGb3IgdGhpcyByZWFzb24sIFRleHQrIGhhcyBj
+aG9zZW4gdG8gY29vcGVyYXRlIHdpdGggdGhlIHJldmlldyBqb3VybmFsIFJJREUgd2hpY2ggd2Fz
+IGZpcnN0IHB1Ymxpc2hlZCBpbiAyMDE0IGFuZCBoYXMgYmVlbiwgc2luY2UgdGhlbiwgbGVhZGlu
+ZyBpbiB0aGUgcmV2aWV3IG9mIGRpZ2l0YWwgc2Nob2xhcmx5CiBlZGl0aW9ucy4gVG9nZXRoZXIs
+IFRleHQrIGFuZCBSSURFIHNlZWsgdG8gZnVydGhlciBwcm9tb3RlIHRoZSBkaXNjb3Vyc2Ugb24g
+YmVzdCBwcmFjdGljZXMgaW4gdGhlIGNyZWF0aW9uIGFuZCBwdWJsaWNhdGlvbiBvZiBkaWdpdGFs
+IGVkaXRpb25zIGluIGdlbmVyYWwgYW5kIGluIHRoZSBhcHBsaWNhdGlvbiBvZiB0aGUgRkFJUiBw
+cmluY2lwbGVzIGluIHBhcnRpY3VsYXIuPC9wPgo8cD4mbmJzcDs8L3A+CjxoMj5Nb2RhbGl0aWVz
+PC9oMj4KPHA+SW50ZXJlc3RlZCByZXZpZXdlcnMgY2FuIGNvbnRhY3QgdXMgd2l0aCBwcm9wb3Nh
+bHMgYXQgPHN0cm9uZz48YSBocmVmPSJtYWlsdG86cmlkZS10ZXh0cGx1c0BpLWQtZS5kZSI+cmlk
+ZS10ZXh0cGx1c0BpLWQtZS5kZTwvYT48L3N0cm9uZz4gKG5hbWUsIGFmZmlsaWF0aW9uLCBlZGl0
+aW9uKS4gVGhlIGRlYWRsaW5lIGZvciBwcm9wb3NhbHMgaXMmbmJzcDsxNyBNYXkgMjAyMiwgYnV0
+IHdlIG1heSByZW1haW4gb3BlbiBmb3IgaW5xdWlyaWVzIGFmdGVyd2FyZHMuCiBQdWJsaWNhdGlv
+biBvZiB0aGUgdm9sdW1lKHMpIHdpbGwgYmUgYnkg4oCYcm9sbGluZyByZWxlYXNl4oCZLjwvcD4K
+PHA+VGhlIHJldmlld3MgYXJlIHRvIGJlIGJhc2VkIG9uIHRoZSA8YSBocmVmPSJodHRwczovL3d3
+dy5pLWQtZS5kZS9wdWJsaWthdGlvbmVuL3dlaXRlcmVzY2hyaWZ0ZW4vY3JpdGVyaWEtdmVyc2lv
+bi0xLTEvIj4KY2F0YWxvZyBvZiBjcml0ZXJpYSBmb3IgZGlnaXRhbCBlZGl0aW9uczwvYT4gZGV2
+ZWxvcGVkIGJ5IHRoZSBJREUuIEEgaGFuZG91dCBmb3IgZXZhbHVhdGluZyB0aGUg4oCcRkFJUm5l
+c3PigJ0gb2YgYSBkaWdpdGFsIGVkaXRpb24gaGFzIGFsc28gYmVlbiBkZXZlbG9wZWQgZm9yIFRl
+eHQrIGVkaXRpb25zIChzZWUgYmVsb3cpLiBBcyB3aXRoIGFsbCBSSURFIHJldmlld3MsIGEgc3Vi
+bWlzc2lvbiBjb25zaXN0cyBvZiB0aGUgcmV2aWV3IHRleHQgYW5kIGEKIGZhY3RzaGVldCwgdGhl
+IGxhdHRlciBiYXNlZCBvbiBhIHF1ZXN0aW9ubmFpcmUgdG8gYmUgY29tcGxldGVkIGJ5IHRoZSBy
+ZXZpZXdlci4gV2UgYWNjZXB0IHN1Ym1pc3Npb25zIGluIEdlcm1hbiBhbmQgRW5nbGlzaC48L3A+
+CjxwPlRoZSBlZGl0b3JzIG9mIHRoZSBmaXJzdCBlZGl0aW9uIGFyZSBUZXNzYSBHZW5nbmFnZWwg
+KENvbG9nbmUgQ2VudGVyIGZvciBlSHVtYW5pdGllcyksIEZyZWRlcmlrZSBOZXViZXIgKEJlcmxp
+bi1CcmFuZGVuYnVyZyBBY2FkZW15IG9mIFNjaWVuY2VzIGFuZCBIdW1hbml0aWVzKSBhbmQgRGFu
+aWVsYSBTY2h1bHogKEhlcnpvZyBBdWd1c3QgTGlicmFyeSBXb2xmZW5iw7x0dGVsKS48L3A+Cjxw
+PiZuYnNwOzwvcD4KPGgyPkZBSVIgaW4gZGlnaXRhbCBlZGl0aW9ucyDigJMgY3JpdGVyaWE8L2gy
+Pgo8cD5SZXZpZXdlcnMgc2hvdWxkIGFkZHJlc3MgKGFtb25nc3Qgb3RoZXJzKSB0aGUgZm9sbG93
+aW5nIGFzcGVjdHMgcmVnYXJkaW5nIHRoZSBhcHBsaWNhdGlvbiBvZiB0aGUgRkFJUi1wcmluY2lw
+bGVzIGluIGRpZ2l0YWwgc2Nob2xhcmx5IGVkaXRpb25zOjwvcD4KPHA+PGVtPkZpbmRhYmxlLjwv
+ZW0+IENhbiB0aGUgZWRpdGlvbiBiZSBmb3VuZCB2aWEgbGlicmFyeSBjYXRhbG9ncywgZGlzY292
+ZXJ5IHN5c3RlbXMsIG9yIHJlbGV2YW50IGVkaXRpb24gY2F0YWxvZ3MgKGUuZy4sIHRoZQo8YSBo
+cmVmPSJodHRwczovL2RpZy1lZC1jYXQuYWNkaC5vZWF3LmFjLmF0LyI+Q2F0YWxvZ3VlIG9mIERp
+Z2l0YWwgRWRpdGlvbnMgbWFpbnRhaW5lZCBieSBHcmV0YSBGcmFuemluaTwvYT4gb3IgdGhlCjxh
+IGhyZWY9Imh0dHBzOi8vd3d3LmRpZ2l0YWxlLWVkaXRpb24uZGUiPmNhdGFsb2cgYnkgUGF0cmlj
+ayBTYWhsZTwvYT4pPyBDYW4gdGhlIGRhdGEgYmUgZm91bmQgdGhyb3VnaCBkaXNjaXBsaW5hcnkg
+cmVwb3NpdG9yaWVzIG9yIGdlbmVyYWwgcmVzZWFyY2ggZGF0YSByZXBvc2l0b3JpZXMgKGluY2x1
+ZGluZwo8YSBocmVmPSJodHRwczovL3plbm9kby5vcmcvIj5aZW5vZG88L2E+LCA8YSBocmVmPSJo
+dHRwczovL2NvbHJlZy5kZS5kYXJpYWguZXUvY29scmVnLXVpLyI+CkRhcmlhaCBDb2xsZWN0aW9u
+IFJlZ2lzdHJ5PC9hPiwgPGEgaHJlZj0iaHR0cHM6Ly9oY29tbW9ucy5vcmcvIj5IdW1hbml0aWVz
+IENvbW1vbnM8L2E+KT8gSXMgYSBwZXJzaXN0ZW50IGlkZW50aWZpZXIgdXNlZD8gSG93IGVmZmlj
+aWVudCBpcyBhIHNlYXJjaCBmb3IgdGhlIGVkaXRpb24gdXNpbmcgYSBzZWFyY2ggZW5naW5lPzwv
+cD4KPHA+PGVtPkFjY2Vzc2libGUuPC9lbT4gSXMgdGhlIGVkaXRpb24gZnJlZWx5IGFjY2Vzc2li
+bGUgZm9yIGFueSB1c2VyLCBvciBhcmUgdGhlcmUgYWNjZXNzIHJlc3RyaWN0aW9ucz8gV2hpY2gg
+cGFydHMgb2YgdGhlIGVkaXRpb24gYXJlIGFjY2Vzc2libGUgKHByZXNlbnRhdGlvbiBsYXllciwg
+ZGF0YSBsYXllcik/IEhhdmUgZ2xvYmFsIGFzcGVjdHMgb2YgYWNjZXNzaWJpbGl0eSBiZWVuIHRh
+a2VuIGludG8gYWNjb3VudCwgZS5nLiBieSBhbGxvd2luZwogbGFuZ3VhZ2Ugc2VsZWN0aW9uPyBX
+aGF0IGFib3V0IHdlYiBhY2Nlc3NpYmlsaXR5IGFuZCB1c2VyIGZyaWVuZGxpbmVzcyBvZiB0aGUg
+ZWRpdGlvbj88L3A+CjxwPjxlbT5JbnRlcm9wZXJhYmxlLiA8L2VtPklzIHRoZSAocHJpbWFyeSkg
+ZGF0YSByZWNvcmRlZCBpbiBhIHN0YW5kYXJkaXplZCBhbmQgd2lkZWx5IHVzZWQgZm9ybWF0IChl
+LmcuIGFjY29yZGluZyB0byBURUkgYW5kIGl0cyBzdWJzZXRzIG9yIHNwZWNpZmljIGN1c3RvbWl6
+YXRpb25zIHN1Y2ggYXMgdGhlIERUQUJmKSB3aGljaCB3b3VsZCBhbGxvdyBmb3IgdGhlIGludGVn
+cmF0aW9uIG9mIHRoZSBkYXRhIGludG8gbGFyZ2VyIGNvcnBvcmEgb3IKIHRoZSB1c2Ugb2Ygc3Bl
+Y2lmaWMgc29mdHdhcmUgc29sdXRpb25zPyBJcyB0aGUgZGF0YSBvbiB3aGljaCB0aGUgZWRpdGlv
+biBpcyBiYXNlZCBhY2Nlc3NpYmxlIHZpYSB0ZWNobmljYWwgaW50ZXJmYWNlcz8gRG9lcyB0aGUg
+ZWRpdGlvbiBvZmZlciBzcGVjaWFsIEFQSXM/IERvZXMgaXQgaXRzZWxmIGFnZ3JlZ2F0ZSBkYXRh
+IHZpYSBpbnRlcmZhY2VzIGZyb20gb3RoZXIgcmVzb3VyY2VzIChlLmcuIGFzIHBhcnQgb2YgSUlJ
+Rik/PC9wPgo8cD48ZW0+UmV1c2FibGUuIDwvZW0+SXMgdGhlIGVkaXRpb24gZGF0YSBhY2Nlc3Np
+YmxlLCBhbmQgaWYgc28sIGhvdyAoaW5kaXZpZHVhbCBkb3dubG9hZCwgYWdncmVnYXRlIGRvd25s
+b2FkLCByZXBvc2l0b3J5LCBBUEkpPyBXaGF0IGFyZSB0aGUgbGljZW5zZXMgZm9yIHRoZSBlZGl0
+aW9uIGRhdGE/IERvIHRoZXkgYWxsb3cgYW55IHN1YnNlcXVlbnQgdXNlIGF0IGFsbD8gQXJlIHRo
+ZSBkYXRhIHNldHMgYW5kIHRoZWlyIGNyZWF0aW9uLCBwcm9jZXNzaW5nCiBhbmQgbW9kZWxpbmcg
+ZG9jdW1lbnRlZCBpbiBzdWNoIGEgd2F5IHRoYXQgdGhpcmQgcGFydGllcyBjYW4gd29yayB3aXRo
+IHRoZW0/PC9wPgo8cD4mbmJzcDs8L3A+CjxoMj48c3Ryb25nPlN1Z2dlc3Rpb25zIGZvciBSZXZp
+ZXc8L3N0cm9uZz48L2gyPgo8cD5SZXZpZXdlcnMgY2FuIGVpdGhlciBjaG9vc2UgZnJvbSB0aGUg
+Zm9sbG93aW5nIGxpc3Qgb2YgZGlnaXRhbCBlZGl0aW9ucyBmcm9tIEdlcm1hbi1zcGVha2luZyBj
+b3VudHJpZXMgb3IgZnJvbSB0aGU8YSBocmVmPSJodHRwczovL3JpZGUuaS1kLWUuZGUvcmV2aWV3
+ZXJzL3N1Z2dlc3RlZC1wcm9qZWN0cy1mb3ItcmV2aWV3LyI+IGdlbmVyYWwgc3VnZ2VzdGlvbiBs
+aXN0IG9mIFJJREU8L2E+LiBZb3VyIG93biBzdWdnZXN0aW9ucyBhcmUgYWxzbwogd2VsY29tZSE8
+L3A+Cjx1bD4KPGxpPkFoaXFhci4gVGhlIFN0b3J5IG9mIEFoaXFhciBpbiBpdHMgU3lyaWFjIGFu
+ZCBBcmFiaWMgVHJhZGl0aW9uICg8YSBocmVmPSJodHRwczovL2FoaXFhci51bmktZ29ldHRpbmdl
+bi5kZS93ZWJzaXRlLyI+aHR0cHM6Ly9haGlxYXIudW5pLWdvZXR0aW5nZW4uZGUvd2Vic2l0ZS88
+L2E+KTwvbGk+PGxpPkFSQ0hJVFJBVkUuIEt1bnN0IHVuZCBBcmNoaXRla3R1ciBpbiBQYXJpcyB1
+bmQgVmVyc2FpbGxlcyBpbSBTcGllZ2VsIGRldXRzY2hlciBSZWlzZWJlcmljaHRlIGRlcyBCYXJv
+Y2sgKDxhIGhyZWY9Imh0dHBzOi8vYXJjaGl0cmF2ZS5ldS8iPmh0dHBzOi8vYXJjaGl0cmF2ZS5l
+dS88L2E+KTwvbGk+PGxpPkFydGh1ciBTY2huaXR6bGVyIGRpZ2l0YWwgKDxhIGhyZWY9Imh0dHBz
+Oi8vd3d3LmFydGh1ci1zY2huaXR6bGVyLmRlLyI+aHR0cHM6Ly93d3cuYXJ0aHVyLXNjaG5pdHps
+ZXIuZGUvPC9hPik8L2xpPjxsaT5BdmVycm9lcyBFZGl0aW9uICg8YSBocmVmPSJodHRwczovL2F2
+ZXJyb2VzLnVuaS1rb2Vsbi5kZS8iPmh0dHBzOi8vYXZlcnJvZXMudW5pLWtvZWxuLmRlLzwvYT4p
+PC9saT48bGk+QmVldGhvdmVucyBXZXJrc3RhdHQgKDxhIGhyZWY9Imh0dHBzOi8vYmVldGhvdmVu
+cy13ZXJrc3RhdHQuZGUvIj5odHRwczovL2JlZXRob3ZlbnMtd2Vya3N0YXR0LmRlLzwvYT4pPC9s
+aT48bGk+QmlibGlvdGhlayBkZXIgTmVvbG9naWUgKDxhIGhyZWY9Imh0dHBzOi8vYmRuLWVkaXRp
+b24uZGUvaW5kZXguaHRtbCI+aHR0cHM6Ly9iZG4tZWRpdGlvbi5kZS9pbmRleC5odG1sPC9hPik8
+L2xpPjxsaT5CcmllZmVkaXRpb24gRnJpZWRyaWNoIEZyw7ZiZWwgKDxhIGhyZWY9Imh0dHBzOi8v
+ZWRpdGlvbmVuLmJiZi5kaXBmLmRlL2V4aXN0L2FwcHMvYnJpZWZlZGl0aW9uLWZyaWVkcmljaC1m
+cm9lYmVsL2luZGV4Lmh0bWwiPmh0dHBzOi8vZWRpdGlvbmVuLmJiZi5kaXBmLmRlL2V4aXN0L2Fw
+cHMvYnJpZWZlZGl0aW9uLWZyaWVkcmljaC1mcm9lYmVsL2luZGV4Lmh0bWw8L2E+KTwvbGk+PGxp
+PkJyaWVmcG9ydGFsIExlaWJuaXogKDxhIGhyZWY9Imh0dHBzOi8vbGVpYm5pei1icmllZnBvcnRh
+bC5hZHctZ29lLmRlL3N0YXJ0IiBjbGFzcz0iZ21haWwtYnJva2VuX2xpbmsiPmh0dHBzOi8vbGVp
+Ym5pei1icmllZnBvcnRhbC5hZHctZ29lLmRlL3N0YXJ0PC9hPik8L2xpPjxsaT5DYXBpdHVsYXJp
+YS4gRWRpdGlvbiBkZXIgZnLDpG5raXNjaGVuIEhlcnJzY2hlcmVybGFzc2UgKDxhIGhyZWY9Imh0
+dHBzOi8vY2FwaXR1bGFyaWEudW5pLWtvZWxuLmRlIj5odHRwczovL2NhcGl0dWxhcmlhLnVuaS1r
+b2Vsbi5kZTwvYT4pPC9saT48bGk+RGllIGRldXRzY2hlbiBJbnNjaHJpZnRlbiAoPGEgaHJlZj0i
+aHR0cHM6Ly93d3cuaW5zY2hyaWZ0ZW4ubmV0LyI+aHR0cHM6Ly93d3cuaW5zY2hyaWZ0ZW4ubmV0
+LzwvYT4pPC9saT48bGk+RGllIFNvemluaWFuaXNjaGVuIEJyaWVmd2VjaHNlbCAoPGEgaHJlZj0i
+aHR0cHM6Ly9zb3ppbmlhbmVyLmRlLyI+aHR0cHM6Ly9zb3ppbmlhbmVyLmRlLzwvYT4pPC9saT48
+bGk+RGlnaXRhbGUgRWRpdGlvbiB1bmQgS29tbWVudGllcnVuZyBkZXIgVGFnZWLDvGNoZXIgZGVz
+IEbDvHJzdGVuIENocmlzdGlhbiBJSS4gdm9uIEFuaGFsdC1CZXJuYnVyZyAoMTU5OS0xNjU2KSAo
+PGEgaHJlZj0iaHR0cDovL2RpZ2xpYi5oYWIuZGUvZWRvYy9lZDAwMDIyOC9zdGFydC5odG0iPmh0
+dHA6Ly9kaWdsaWIuaGFiLmRlL2Vkb2MvZWQwMDAyMjgvc3RhcnQuaHRtPC9hPik8L2xpPjxsaT5E
+b2N1bWVudGEgTmVwYWxpY2EgKDxhIGhyZWY9Imh0dHBzOi8vbmVwYWxpY2EuaGFkdy1idy5kZS9u
+ZXBhbC8iPmh0dHBzOi8vbmVwYWxpY2EuaGFkdy1idy5kZS9uZXBhbC88L2E+KTwvbGk+PGxpPkV1
+cm9ww6Rpc2NoZSBSZWxpZ2lvbnNmcmllZGVuIGRpZ2l0YWwgKDxhIGhyZWY9Imh0dHBzOi8vZXVy
+ZWQuZGUvIj5odHRwczovL2V1cmVkLmRlLzwvYT4pPC9saT48bGk+Rm9yc2NodW5nIERhbmllbCBT
+YW5kZXJzIOKAkyBEaWdpdGFsZSBHZXNhbXRlZGl0aW9uICg8YSBocmVmPSJodHRwczovL3NhbmRl
+cnMuYmJhdy5kZS8iPmh0dHBzOi8vc2FuZGVycy5iYmF3LmRlLzwvYT4pPC9saT48bGk+R290dGxv
+YiBGcmVnZSBHcnVuZHPDpHR6ZSBkZXIgQXJpdGhtZXRpayAoPGEgaHJlZj0iaHR0cHM6Ly9rb3Jw
+b3JhLnppbS51bmktZHVpc2J1cmctZXNzZW4uZGUvRnJlZ2UvIj5odHRwczovL2tvcnBvcmEuemlt
+LnVuaS1kdWlzYnVyZy1lc3Nlbi5kZS9GcmVnZS88L2E+KTwvbGk+PGxpPkhhbm5haCBBcmVuZHQg
+RWRpdGlvbiAoPGEgaHJlZj0iaHR0cHM6Ly9oYW5uYWgtYXJlbmR0LWVkaXRpb24ubmV0L2luZGV4
+Lmh0bWwiPmh0dHBzOi8vaGFubmFoLWFyZW5kdC1lZGl0aW9uLm5ldC9pbmRleC5odG1sPC9hPik8
+L2xpPjxsaT5DaHJpc3RpYW4gR290dGxvYiBIZXluZSDigJMgVm9ybGVzdW5nZW4gw7xiZXIgZGll
+IEFyY2jDpG9sb2dpZSAoPGEgaHJlZj0iaHR0cHM6Ly9oZXluZS1kaWdpdGFsLmRlLyI+aHR0cHM6
+Ly9oZXluZS1kaWdpdGFsLmRlLzwvYT4pPC9saT48bGk+SmVhbiBQYXVsIOKAkyBTw6RtdGxpY2hl
+IEJyaWVmZSBkaWdpdGFsICg8YSBocmVmPSJodHRwczovL3d3dy5qZWFucGF1bC1lZGl0aW9uLmRl
+Ij5odHRwczovL3d3dy5qZWFucGF1bC1lZGl0aW9uLmRlPC9hPik8L2xpPjxsaT5LbGVpbmUgdW5k
+IGZyYWdtZW50YXJpc2NoZSBIaXN0b3Jpa2VyIGRlciBTcMOkdGFudGlrZSAoPGEgaHJlZj0iaHR0
+cDovL2tmaGlzdC5hd2subnJ3LmRlIj5odHRwOi8va2ZoaXN0LmF3ay5ucncuZGU8L2E+KTwvbGk+
+PGxpPktyaXRpc2NoZSBHZXNhbXRhdXNnYWJlIGRlciBTY2hyaWZ0ZW4gdW5kIEJyaWVmZSBBbmRy
+ZWFzIEJvZGVuc3RlaW5zIHZvbiBLYXJsc3RhZHQgKDxhIGhyZWY9Imh0dHBzOi8va2FybHN0YWR0
+LWVkaXRpb24ub3JnLyI+aHR0cHM6Ly9rYXJsc3RhZHQtZWRpdGlvbi5vcmcvPC9hPik8L2xpPjxs
+aT5OaWtsYXMgTHVobWFubi1BcmNoaXYgKDxhIGhyZWY9Imh0dHBzOi8vbmlrbGFzLWx1aG1hbm4t
+YXJjaGl2LmRlLyI+aHR0cHM6Ly9uaWtsYXMtbHVobWFubi1hcmNoaXYuZGUvPC9hPik8L2xpPjxs
+aT5PcHVzIFBvc3R1bXVtIE9ubGluZSBFZGl0aW9uIChOZXVlZGl0aW9uLCBSZXZpc2lvbiB1bmQg
+QWJzY2hsdXNzIGRlciBXZXJrZSBJbW1hbnVlbCBLYW50cykgKDxhIGhyZWY9Imh0dHA6Ly90ZWxv
+dGEuYmJhdy5kZS9rYW50X29wL2luZGV4Lmh0bWwiPmh0dHA6Ly90ZWxvdGEuYmJhdy5kZS9rYW50
+X29wL2luZGV4Lmh0bWw8L2E+KTwvbGk+PGxpPlBoaWxpcHAgSGFpbmhvZmVyOiBSZWlzZWJlcmlj
+aHRlICZhbXA7IFNhbW1sdW5nc2Jlc2NocmVpYnVuZ2VuIDE1OTTigJMxNjM2LiBFZGl0aW9uIHVu
+ZCBEYXRlbnNhbW1sdW5nIHp1ciBLdW5zdC0gdW5kIEt1bHR1cmdlc2NoaWNodGUgZGVyIGVyc3Rl
+biBIw6RsZnRlIGRlcyAxNy4gSmFocmh1bmRlcnRzICg8YSBocmVmPSJodHRwczovL2hhaW5ob2Zl
+ci5oYWIuZGUvIj5odHRwczovL2hhaW5ob2Zlci5oYWIuZGUvPC9hPik8L2xpPjxsaT5RdWVsbGVu
+c2FtbWx1bmcgenVyIEdlc2NoaWNodGUgZGVyIGRldXRzY2hlbiBTb3ppYWxwb2xpdGlrIDE4Njcg
+YmlzIDE5MTQgKDxhIGhyZWY9Imh0dHBzOi8vcXVlbGxlbi1zb3ppYWxwb2xpdGlrLWthaXNlcnJl
+aWNoLmRlLyI+aHR0cHM6Ly9xdWVsbGVuLXNvemlhbHBvbGl0aWsta2Fpc2VycmVpY2guZGUvPC9h
+Pik8L2xpPjxsaT5TY2hsZWllcm1hY2hlciBkaWdpdGFsICg8YSBocmVmPSJodHRwczovL3NjaGxl
+aWVybWFjaGVyLWRpZ2l0YWwuZGUvaW5kZXgueHFsIj5odHRwczovL3NjaGxlaWVybWFjaGVyLWRp
+Z2l0YWwuZGUvaW5kZXgueHFsPC9hPik8L2xpPjxsaT5TZWxic3R6ZXVnbmlzc2UgZGVyIEZyw7xo
+ZW4gTmV1emVpdCBpbiBkZXIgSGVyem9nIEF1Z3VzdCBCaWJsaW90aGVrICg8YSBocmVmPSJodHRw
+Oi8vc2VsYnN0emV1Z25pc3NlLmhhYi5kZS8iPmh0dHA6Ly9zZWxic3R6ZXVnbmlzc2UuaGFiLmRl
+LzwvYT4pPC9saT48bGk+VGhlb2RvciBGb250YW5lOiBOb3RpemLDvGNoZXIgKDxhIGhyZWY9Imh0
+dHBzOi8vZm9udGFuZS1uYi5kYXJpYWguZXUvaW5kZXguaHRtbCI+aHR0cHM6Ly9mb250YW5lLW5i
+LmRhcmlhaC5ldS9pbmRleC5odG1sPC9hPik8L2xpPjwvdWw+CjwvZGl2Pgo8L2Rpdj4KPC9kaXY+
+CjwvZGl2Pgo8L2Rpdj4KPC9kaXY+CjwvYm9keT4KPC9odG1sPgo=

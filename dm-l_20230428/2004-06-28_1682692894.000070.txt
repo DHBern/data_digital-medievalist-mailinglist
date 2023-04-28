@@ -1,0 +1,91 @@
+Subject: Re: [dm-l] MS-Internet Explorer 6 and standards based computingI suspect that my own experiences have made me a bit jaundiced about 
+client-side programming generally. I spent years making and maintaining 
+a Java applet that would work both in Netscape and IE. It was an 
+unspeakable misery: every time I got it stable Sun would change the spec 
+in response to some new security concern, or Microsoft would break some 
+new thing in their Java "implementation," and I'd have to figure out 
+what was wrong and fix it, often while my students or someone else's 
+were complaining loudly about lack of access.So now I'm in the process of migrating as much as possible to the server 
+side, and my new rules are:- never to do anything on the client side that can be done on the server.- Use only standards-compliant features of browsers (in my case CSS and 
+a bit of [mostly] ECMA-compliant JavaScript).So far this has made for a (relatively) carefree computing experience. 
+No complaints from users about how this or that won't work; no need to 
+serve different pages or programs for different browsers, etc. I won't 
+say that it's nuts to use the XSL built into Microsoft's browser, but I 
+absolutely would not do it, since I've got a perfectly good XSLT 
+processor available on the server side; and I just have to worry about 
+how that one works, as opposed to three or four different ones.PeterJeffrey Fisher wrote:>
+> On Monday, June 28, 2004, at 05:54 AM, Joris van.Zundert wrote:
+>
+>>
+>> >>perhaps the response among this group should be the converse of many
+>> >>web developers: develop standards-based texts and applications and
+>> >>require your users to use standards-based browsers.
+>> Succesfullness of a webtool/application is often decided by whether 
+>> it's well usable in the most popular browser (which too bad still is 
+>> IE). If it's not, users will blame the application, not the browser. 
+>> So I wouldn't recommend not making your application IE compatible. 
+>> One should do both: implement the standards and provide a IE 
+>> compatible version as well.
+>
+>
+> in principle, i agree entirely. cross-browser compatibility is the 
+> preferred option. i suppose my response here is partly an expression 
+> of frustration that many developers develop in such a way as to 
+> entirely shut out non-IE browsers (and this is usually tied precisely 
+> to the use of microsoft server software, IIS, and its functionality).
+>
+> I do think, however, that there are a couple of more substantive 
+> points. first, you have to consider how much extra work it is to 
+> develop a whole bunch of work-around, non-standard material in 
+> addition to your standards-compliant version. some of this could 
+> probably be mitigated by, for example, server-side parsing, but not 
+> all of it. worse, with non-standards-compliant browsers, you never 
+> know where they're going next, and what work-around might not work 
+> with the next release -- *especially* if their objective is to pull 
+> people away from standards-compliant browsers, as microsoft's seems to 
+> be.
+>
+> you also need to consider your specific audience. it may well be that 
+> you have a lot more opera/mozilla/safari users than the wider 
+> population. it may also be that with a more relatively specialist 
+> audience, you can expect them to take the small extra step of 
+> downloading a free standards-compliant browser, if they don't have one 
+> already. they may even find they like it better than IE. since the 
+> applications we're talking about are not mass market applications or 
+> web sites, you can probably afford to set the bar of entry a teeny bit 
+> higher than if you're running people off to another online bookstore 
+> or credit card company or service provider because your site doesn't 
+> work in IE.
+>
+>>
+>> >>even if IE is parsing XSL better right now, other browsers,
+>> >>particularly mozilla-based browsers, are sure to catch up.
+>>
+>> Although I doubt whether IE parses better, I wonder why one wouldn't 
+>> just parse server side and sending HTML? For those who want the very 
+>> XML, a download button, FTP, or OAI solution may be provided. HTML is 
+>> implemented fairly reliable over all browsers, is it? Or do I fail to 
+>> see an important point for not parsing XML server side?
+>
+>
+> well, i would say here that you avoid adding burden to the server as a 
+> general rule, much like cross-browser compatibility is a general rule. 
+> that doesn't mean that server-side parsing is a bad solution to every 
+> problem, just that it can't be the solution to *every* problem, 
+> particularly when you ought to be able to expect the browser to do the 
+> work. that said, when you *can* do server-side parsing, it's the kind 
+> of "work-around" that at least won't mean lots of recoding (at least 
+> compared to what we're talking about above). when browsers come up to 
+> snuff, you just migrate the parsing work to the browser. that's 
+> actually making less work down the road, rather than more. (i see 
+> martin has snuck in a nice response to this, just now.)
+>
+> cheers,
+> j
+>
+> _______________________________________________
+> dm-l mailing list
+_redacted_(a)uleth.ca
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+>
+>

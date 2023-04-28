@@ -1,0 +1,257 @@
+Subject: [dm-l] Cfp COMHUM 2018** apologies for cross posting **
+Dear members of the list,this workshop organized by colleagues at the Universit=C3=A9 de Lausanne might
+be of interest for some of you.
+Best wishes,Elena Spadini
+*Call for Proposals**Workshop on Computational Methods in the Humanities 2018 (COMHUM 2018)**Workshop date: June 4=E2=80=935, 2018 Location: University of Lausanne,*
+*Switzerland*=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=
+=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=
+=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=
+=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=
+=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=
+=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=
+=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=
+=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=
+=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95It is often said that the digital humanities are =E2=80=9Csituated at the
+intersection of computer science and the humanities,=E2=80=9D but what does t=
+his
+mean? We believe that the point of using computers in the humanities is
+not just to automatically analyze larger amounts of data or to
+accelerate research. We therefore prefer to understand digital
+humanities as (1) the study of means and methods of constructing formal
+models in the humanities and (2) as the application of these means and
+methods for the construction of concrete models in particular humanities
+disciplines. The central research questions are thus correspondingly (1)
+which computational methods are most appropriate for dealing with the
+particular challenges posed by humanities research, e.g., uncertainty,
+vagueness, incompleteness, but also with different positions (points of
+view, values, criteria, perspectives, approaches, readings, etc.)? And
+(2) how can such computational methods be applied to concrete research
+questions in the humanities?The goal of this workshop is to bring together researchers involved with
+computational approaches in the humanities with the objective of
+stimulating the research and exchange around innovative,
+methodologically explicit approaches, to encourage discussion among
+researchers and developers from different communities, and to help
+bridging the divide that still exists between the different disciplines
+involved in this field.The program will consist of invited and contributed talks on
+computational methods for and in the humanities. The official language
+of the workshop is English. Contributions can be submitted in English or
+French.The workshop is organized by the Department of Language and Information
+Sciences at the University of Lausanne, with the support of the Faculty
+of Arts. The workshop underlines the commitment of the Department of
+Language and Information Sciences to the computational dimension of the
+digital humanities, including formal and mathematical methods.
+Topics
+=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90  The topics of the workshop encompass formal and computational aspects
+  related to the development and use of computational methods in the
+  humanities (in particular the disciplines represented in the Faculty
+  of Arts of UNIL - such as literature, linguistics, history, history of
+  art, cinema studies, game studies).  Topics include, but are not limited to:  =E2=80=A2 Theoretical issues of formal modeling in the humanities
+  =E2=80=A2 Knowledge representation in the humanities
+  =E2=80=A2 Data structures addressing specific problems in the humanities
+    (including text and markup)
+  =E2=80=A2 Quantitative methods in the humanities
+  =E2=80=A2 Computer vision and image analysis in the humanities
+  =E2=80=A2 Spatial analysis in the humanities
+  =E2=80=A2 Network analysis in the humanities
+Submissions
+=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=
+=95=90=E2=95=90=E2=95=90  We invite researchers to submit abstracts of 500 to 1000 words (1=E2=80=932
+  pages, excluding references). Abstracts will be reviewed double-blind
+  by the members of the program committee, and all submissions will
+  receive several independent reviews. Abstracts submitted at review
+  stage must not contain the authors=E2=80=99 names, affiliations, or any
+  information that may disclose the authors=E2=80=99 identity.  Authors of accepted abstracts will be invited to present their
+  research at the workshop as a talk, and the abstracts will be
+  published in the book of abstracts of the workshop.  The abstracts must use the ACL 2017 format. Please strictly follow the
+  guidelines that will be published on the workshop Web site. Abstracts
+  must be submitted electronically in PDF format. For abstracts
+  submissions we use EasyChair:
+  [https://easychair.org/conferences/?conf=3Dcomhum2018]. For details
+  please consult the workshop Web site at
+  [http://www.unil.ch/llist/events/comhum2018].  Authors of accepted contributions will be invited, after the
+  conference, to submit a full paper version (6=E2=80=9316 pages), which, aft=
+er
+  peer-review, will be published in an open-access, electronic
+  conference volume endowed with persistent identifiers (to be confirmed
+  soon).
+Invited Speakers
+=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=
+=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90  =E2=80=A2 Manfred Thaller
+  =E2=80=A2 (more to be confirmed)
+Important Dates
+=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=
+=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90  Deadline for submission of abstracts
+        April 16, 2018
+  Notification of acceptance
+        April 30, 2018
+  Workshop
+        June 4=E2=80=935, 2018
+Program Committee
+=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=
+=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90  =E2=80=A2 Fran=C3=A7ois Bavaud
+  =E2=80=A2 Rapha=C3=ABl Cer=C3=A9
+  =E2=80=A2 Barbara McGillivray
+  =E2=80=A2 Cerstin Mahlow
+  =E2=80=A2 Isaac Pante
+  =E2=80=A2 Davide Picca
+  =E2=80=A2 Michael Piotrowski (chair)
+  =E2=80=A2 Yannick Rochat
+  =E2=80=A2 Elena Spadini
+  =E2=80=A2 Sabine S=C3=BCsstrunk
+  =E2=80=A2 Aris Xanthos
+Further Information
+=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=
+=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=
+=90=E2=95=90=E2=95=90_redacted_(a)unil.ch--=20
+elenaspadini.com
+PostDoc - UNIL
+Centre de recherches sur les lettres romandes <http://www.unil.ch/crlr>PGRpdiBkaXI9Imx0ciI+PGRpdj48aT4qIGFwb2xvZ2llcyBmb3IgY3Jvc3MgcG9zdGluZyAqPC9p
+PjwvZGl2PjxkaXY+PGJyPjwvZGl2PjxkaXY+PGJyPjwvZGl2PjxkaXY+RGVhciBtZW1iZXJzIG9m
+IHRoZSBsaXN0LDwvZGl2PjxkaXY+PGJyPjwvZGl2PjxkaXY+dGhpcyB3b3Jrc2hvcCBvcmdhbml6
+ZWQgYnkgY29sbGVhZ3VlcyBhdCB0aGUgVW5pdmVyc2l0w6kgZGUgTGF1c2FubmUgbWlnaHQgYmUg
+b2YgaW50ZXJlc3QgZm9yIHNvbWUgb2YgeW91LjwvZGl2PjxkaXY+PGJyPjwvZGl2PjxkaXY+PGJy
+PjwvZGl2PjxkaXY+QmVzdCB3aXNoZXMsPC9kaXY+PGRpdj48YnI+PC9kaXY+PGRpdj5FbGVuYSBT
+cGFkaW5pPC9kaXY+PGRpdj48YnI+PC9kaXY+PGRpdj48YnI+PC9kaXY+PGRpdj48YnI+PC9kaXY+
+PGRpdj48YnI+PC9kaXY+PGRpdj48Yj5DYWxsIGZvciBQcm9wb3NhbHM8L2I+PC9kaXY+PGRpdj48
+Yj48YnI+PC9iPjwvZGl2PjxkaXY+PGI+V29ya3Nob3Agb24gQ29tcHV0YXRpb25hbCBNZXRob2Rz
+IGluIHRoZSBIdW1hbml0aWVzIDIwMTggKENPTUhVTSAyMDE4KTwvYj48L2Rpdj48ZGl2PjxiPjxi
+cj48L2I+PC9kaXY+PGRpdj48Yj5Xb3Jrc2hvcCBkYXRlOiBKdW5lIDTigJM1LCAyMDE4IExvY2F0
+aW9uOiBVbml2ZXJzaXR5IG9mIExhdXNhbm5lLDwvYj48L2Rpdj48ZGl2PjxiPlN3aXR6ZXJsYW5k
+PC9iPjwvZGl2PjxkaXY+PGJyPjwvZGl2PjxkaXY+4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV
+4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV
+4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV
+4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV4oCV
+4oCV4oCV4oCV4oCV4oCV4oCVPC9kaXY+PGRpdj48YnI+PC9kaXY+PGRpdj5JdCBpcyBvZnRlbiBz
+YWlkIHRoYXQgdGhlIGRpZ2l0YWwgaHVtYW5pdGllcyBhcmUg4oCcc2l0dWF0ZWQgYXQgdGhlPC9k
+aXY+PGRpdj5pbnRlcnNlY3Rpb24gb2YgY29tcHV0ZXIgc2NpZW5jZSBhbmQgdGhlIGh1bWFuaXRp
+ZXMs4oCdIGJ1dCB3aGF0IGRvZXMgdGhpczwvZGl2PjxkaXY+bWVhbj8gV2UgYmVsaWV2ZSB0aGF0
+IHRoZSBwb2ludCBvZiB1c2luZyBjb21wdXRlcnMgaW4gdGhlIGh1bWFuaXRpZXMgaXM8L2Rpdj48
+ZGl2Pm5vdCBqdXN0IHRvIGF1dG9tYXRpY2FsbHkgYW5hbHl6ZSBsYXJnZXIgYW1vdW50cyBvZiBk
+YXRhIG9yIHRvPC9kaXY+PGRpdj5hY2NlbGVyYXRlIHJlc2VhcmNoLiBXZSB0aGVyZWZvcmUgcHJl
+ZmVyIHRvIHVuZGVyc3RhbmQgZGlnaXRhbDwvZGl2PjxkaXY+aHVtYW5pdGllcyBhcyAoMSkgdGhl
+IHN0dWR5IG9mIG1lYW5zIGFuZCBtZXRob2RzIG9mIGNvbnN0cnVjdGluZyBmb3JtYWw8L2Rpdj48
+ZGl2Pm1vZGVscyBpbiB0aGUgaHVtYW5pdGllcyBhbmQgKDIpIGFzIHRoZSBhcHBsaWNhdGlvbiBv
+ZiB0aGVzZSBtZWFucyBhbmQ8L2Rpdj48ZGl2Pm1ldGhvZHMgZm9yIHRoZSBjb25zdHJ1Y3Rpb24g
+b2YgY29uY3JldGUgbW9kZWxzIGluIHBhcnRpY3VsYXIgaHVtYW5pdGllczwvZGl2PjxkaXY+ZGlz
+Y2lwbGluZXMuIFRoZSBjZW50cmFsIHJlc2VhcmNoIHF1ZXN0aW9ucyBhcmUgdGh1cyBjb3JyZXNw
+b25kaW5nbHkgKDEpPC9kaXY+PGRpdj53aGljaCBjb21wdXRhdGlvbmFsIG1ldGhvZHMgYXJlIG1v
+c3QgYXBwcm9wcmlhdGUgZm9yIGRlYWxpbmcgd2l0aCB0aGU8L2Rpdj48ZGl2PnBhcnRpY3VsYXIg
+Y2hhbGxlbmdlcyBwb3NlZCBieSBodW1hbml0aWVzIHJlc2VhcmNoLCBlLmcuLCB1bmNlcnRhaW50
+eSw8L2Rpdj48ZGl2PnZhZ3VlbmVzcywgaW5jb21wbGV0ZW5lc3MsIGJ1dCBhbHNvIHdpdGggZGlm
+ZmVyZW50IHBvc2l0aW9ucyAocG9pbnRzIG9mPC9kaXY+PGRpdj52aWV3LCB2YWx1ZXMsIGNyaXRl
+cmlhLCBwZXJzcGVjdGl2ZXMsIGFwcHJvYWNoZXMsIHJlYWRpbmdzLCBldGMuKT8gQW5kPC9kaXY+
+PGRpdj4oMikgaG93IGNhbiBzdWNoIGNvbXB1dGF0aW9uYWwgbWV0aG9kcyBiZSBhcHBsaWVkIHRv
+IGNvbmNyZXRlIHJlc2VhcmNoPC9kaXY+PGRpdj5xdWVzdGlvbnMgaW4gdGhlIGh1bWFuaXRpZXM/
+PC9kaXY+PGRpdj48YnI+PC9kaXY+PGRpdj5UaGUgZ29hbCBvZiB0aGlzIHdvcmtzaG9wIGlzIHRv
+IGJyaW5nIHRvZ2V0aGVyIHJlc2VhcmNoZXJzIGludm9sdmVkIHdpdGg8L2Rpdj48ZGl2PmNvbXB1
+dGF0aW9uYWwgYXBwcm9hY2hlcyBpbiB0aGUgaHVtYW5pdGllcyB3aXRoIHRoZSBvYmplY3RpdmUg
+b2Y8L2Rpdj48ZGl2PnN0aW11bGF0aW5nIHRoZSByZXNlYXJjaCBhbmQgZXhjaGFuZ2UgYXJvdW5k
+IGlubm92YXRpdmUsPC9kaXY+PGRpdj5tZXRob2RvbG9naWNhbGx5IGV4cGxpY2l0IGFwcHJvYWNo
+ZXMsIHRvIGVuY291cmFnZSBkaXNjdXNzaW9uIGFtb25nPC9kaXY+PGRpdj5yZXNlYXJjaGVycyBh
+bmQgZGV2ZWxvcGVycyBmcm9tIGRpZmZlcmVudCBjb21tdW5pdGllcywgYW5kIHRvIGhlbHA8L2Rp
+dj48ZGl2PmJyaWRnaW5nIHRoZSBkaXZpZGUgdGhhdCBzdGlsbCBleGlzdHMgYmV0d2VlbiB0aGUg
+ZGlmZmVyZW50IGRpc2NpcGxpbmVzPC9kaXY+PGRpdj5pbnZvbHZlZCBpbiB0aGlzIGZpZWxkLjwv
+ZGl2PjxkaXY+PGJyPjwvZGl2PjxkaXY+VGhlIHByb2dyYW0gd2lsbCBjb25zaXN0IG9mIGludml0
+ZWQgYW5kIGNvbnRyaWJ1dGVkIHRhbGtzIG9uPC9kaXY+PGRpdj5jb21wdXRhdGlvbmFsIG1ldGhv
+ZHMgZm9yIGFuZCBpbiB0aGUgaHVtYW5pdGllcy4gVGhlIG9mZmljaWFsIGxhbmd1YWdlPC9kaXY+
+PGRpdj5vZiB0aGUgd29ya3Nob3AgaXMgRW5nbGlzaC4gQ29udHJpYnV0aW9ucyBjYW4gYmUgc3Vi
+bWl0dGVkIGluIEVuZ2xpc2ggb3I8L2Rpdj48ZGl2PkZyZW5jaC48L2Rpdj48ZGl2Pjxicj48L2Rp
+dj48ZGl2PlRoZSB3b3Jrc2hvcCBpcyBvcmdhbml6ZWQgYnkgdGhlIERlcGFydG1lbnQgb2YgTGFu
+Z3VhZ2UgYW5kIEluZm9ybWF0aW9uPC9kaXY+PGRpdj5TY2llbmNlcyBhdCB0aGUgVW5pdmVyc2l0
+eSBvZiBMYXVzYW5uZSwgd2l0aCB0aGUgc3VwcG9ydCBvZiB0aGUgRmFjdWx0eTwvZGl2PjxkaXY+
+b2YgQXJ0cy4gVGhlIHdvcmtzaG9wIHVuZGVybGluZXMgdGhlIGNvbW1pdG1lbnQgb2YgdGhlIERl
+cGFydG1lbnQgb2Y8L2Rpdj48ZGl2Pkxhbmd1YWdlIGFuZCBJbmZvcm1hdGlvbiBTY2llbmNlcyB0
+byB0aGUgY29tcHV0YXRpb25hbCBkaW1lbnNpb24gb2YgdGhlPC9kaXY+PGRpdj5kaWdpdGFsIGh1
+bWFuaXRpZXMsIGluY2x1ZGluZyBmb3JtYWwgYW5kIG1hdGhlbWF0aWNhbCBtZXRob2RzLjwvZGl2
+PjxkaXY+PGJyPjwvZGl2PjxkaXY+PGJyPjwvZGl2PjxkaXY+VG9waWNzPC9kaXY+PGRpdj7ilZDi
+lZDilZDilZDilZDilZA8L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2PsKgIFRoZSB0b3BpY3Mgb2Yg
+dGhlIHdvcmtzaG9wIGVuY29tcGFzcyBmb3JtYWwgYW5kIGNvbXB1dGF0aW9uYWwgYXNwZWN0czwv
+ZGl2PjxkaXY+wqAgcmVsYXRlZCB0byB0aGUgZGV2ZWxvcG1lbnQgYW5kIHVzZSBvZiBjb21wdXRh
+dGlvbmFsIG1ldGhvZHMgaW4gdGhlPC9kaXY+PGRpdj7CoCBodW1hbml0aWVzIChpbiBwYXJ0aWN1
+bGFyIHRoZSBkaXNjaXBsaW5lcyByZXByZXNlbnRlZCBpbiB0aGUgRmFjdWx0eTwvZGl2PjxkaXY+
+wqAgb2YgQXJ0cyBvZiBVTklMIC0gc3VjaCBhcyBsaXRlcmF0dXJlLCBsaW5ndWlzdGljcywgaGlz
+dG9yeSwgaGlzdG9yeSBvZjwvZGl2PjxkaXY+wqAgYXJ0LCBjaW5lbWEgc3R1ZGllcywgZ2FtZSBz
+dHVkaWVzKS48L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2PsKgIFRvcGljcyBpbmNsdWRlLCBidXQg
+YXJlIG5vdCBsaW1pdGVkIHRvOjwvZGl2PjxkaXY+PGJyPjwvZGl2PjxkaXY+wqAg4oCiIFRoZW9y
+ZXRpY2FsIGlzc3VlcyBvZiBmb3JtYWwgbW9kZWxpbmcgaW4gdGhlIGh1bWFuaXRpZXM8L2Rpdj48
+ZGl2PsKgIOKAoiBLbm93bGVkZ2UgcmVwcmVzZW50YXRpb24gaW4gdGhlIGh1bWFuaXRpZXM8L2Rp
+dj48ZGl2PsKgIOKAoiBEYXRhIHN0cnVjdHVyZXMgYWRkcmVzc2luZyBzcGVjaWZpYyBwcm9ibGVt
+cyBpbiB0aGUgaHVtYW5pdGllczwvZGl2PjxkaXY+wqAgwqAgKGluY2x1ZGluZyB0ZXh0IGFuZCBt
+YXJrdXApPC9kaXY+PGRpdj7CoCDigKIgUXVhbnRpdGF0aXZlIG1ldGhvZHMgaW4gdGhlIGh1bWFu
+aXRpZXM8L2Rpdj48ZGl2PsKgIOKAoiBDb21wdXRlciB2aXNpb24gYW5kIGltYWdlIGFuYWx5c2lz
+IGluIHRoZSBodW1hbml0aWVzPC9kaXY+PGRpdj7CoCDigKIgU3BhdGlhbCBhbmFseXNpcyBpbiB0
+aGUgaHVtYW5pdGllczwvZGl2PjxkaXY+wqAg4oCiIE5ldHdvcmsgYW5hbHlzaXMgaW4gdGhlIGh1
+bWFuaXRpZXM8L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2PlN1Ym1pc3Np
+b25zPC9kaXY+PGRpdj7ilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZA8L2Rpdj48ZGl2
+Pjxicj48L2Rpdj48ZGl2PsKgIFdlIGludml0ZSByZXNlYXJjaGVycyB0byBzdWJtaXQgYWJzdHJh
+Y3RzIG9mIDUwMCB0byAxMDAwIHdvcmRzICgx4oCTMjwvZGl2PjxkaXY+wqAgcGFnZXMsIGV4Y2x1
+ZGluZyByZWZlcmVuY2VzKS4gQWJzdHJhY3RzIHdpbGwgYmUgcmV2aWV3ZWQgZG91YmxlLWJsaW5k
+PC9kaXY+PGRpdj7CoCBieSB0aGUgbWVtYmVycyBvZiB0aGUgcHJvZ3JhbSBjb21taXR0ZWUsIGFu
+ZCBhbGwgc3VibWlzc2lvbnMgd2lsbDwvZGl2PjxkaXY+wqAgcmVjZWl2ZSBzZXZlcmFsIGluZGVw
+ZW5kZW50IHJldmlld3MuIEFic3RyYWN0cyBzdWJtaXR0ZWQgYXQgcmV2aWV3PC9kaXY+PGRpdj7C
+oCBzdGFnZSBtdXN0IG5vdCBjb250YWluIHRoZSBhdXRob3Jz4oCZIG5hbWVzLCBhZmZpbGlhdGlv
+bnMsIG9yIGFueTwvZGl2PjxkaXY+wqAgaW5mb3JtYXRpb24gdGhhdCBtYXkgZGlzY2xvc2UgdGhl
+IGF1dGhvcnPigJkgaWRlbnRpdHkuPC9kaXY+PGRpdj48YnI+PC9kaXY+PGRpdj7CoCBBdXRob3Jz
+IG9mIGFjY2VwdGVkIGFic3RyYWN0cyB3aWxsIGJlIGludml0ZWQgdG8gcHJlc2VudCB0aGVpcjwv
+ZGl2PjxkaXY+wqAgcmVzZWFyY2ggYXQgdGhlIHdvcmtzaG9wIGFzIGEgdGFsaywgYW5kIHRoZSBh
+YnN0cmFjdHMgd2lsbCBiZTwvZGl2PjxkaXY+wqAgcHVibGlzaGVkIGluIHRoZSBib29rIG9mIGFi
+c3RyYWN0cyBvZiB0aGUgd29ya3Nob3AuPC9kaXY+PGRpdj48YnI+PC9kaXY+PGRpdj7CoCBUaGUg
+YWJzdHJhY3RzIG11c3QgdXNlIHRoZSBBQ0wgMjAxNyBmb3JtYXQuIFBsZWFzZSBzdHJpY3RseSBm
+b2xsb3cgdGhlPC9kaXY+PGRpdj7CoCBndWlkZWxpbmVzIHRoYXQgd2lsbCBiZSBwdWJsaXNoZWQg
+b24gdGhlIHdvcmtzaG9wIFdlYiBzaXRlLiBBYnN0cmFjdHM8L2Rpdj48ZGl2PsKgIG11c3QgYmUg
+c3VibWl0dGVkIGVsZWN0cm9uaWNhbGx5IGluIFBERiBmb3JtYXQuIEZvciBhYnN0cmFjdHM8L2Rp
+dj48ZGl2PsKgIHN1Ym1pc3Npb25zIHdlIHVzZSBFYXN5Q2hhaXI6PC9kaXY+PGRpdj7CoCBbPGEg
+aHJlZj0iaHR0cHM6Ly9lYXN5Y2hhaXIub3JnL2NvbmZlcmVuY2VzLz9jb25mPWNvbWh1bTIwMTgi
+Pmh0dHBzOi8vZWFzeWNoYWlyLm9yZy9jb25mZXJlbmNlcy8/Y29uZj1jb21odW0yMDE4PC9hPl0u
+IEZvciBkZXRhaWxzPC9kaXY+PGRpdj7CoCBwbGVhc2UgY29uc3VsdCB0aGUgd29ya3Nob3AgV2Vi
+IHNpdGUgYXQ8L2Rpdj48ZGl2PsKgIFs8YSBocmVmPSJodHRwOi8vd3d3LnVuaWwuY2gvbGxpc3Qv
+ZXZlbnRzL2NvbWh1bTIwMTgiPmh0dHA6Ly93d3cudW5pbC5jaC9sbGlzdC9ldmVudHMvY29taHVt
+MjAxODwvYT5dLjwvZGl2PjxkaXY+PGJyPjwvZGl2PjxkaXY+wqAgQXV0aG9ycyBvZiBhY2NlcHRl
+ZCBjb250cmlidXRpb25zIHdpbGwgYmUgaW52aXRlZCwgYWZ0ZXIgdGhlPC9kaXY+PGRpdj7CoCBj
+b25mZXJlbmNlLCB0byBzdWJtaXQgYSBmdWxsIHBhcGVyIHZlcnNpb24gKDbigJMxNiBwYWdlcyks
+IHdoaWNoLCBhZnRlcjwvZGl2PjxkaXY+wqAgcGVlci1yZXZpZXcsIHdpbGwgYmUgcHVibGlzaGVk
+IGluIGFuIG9wZW4tYWNjZXNzLCBlbGVjdHJvbmljPC9kaXY+PGRpdj7CoCBjb25mZXJlbmNlIHZv
+bHVtZSBlbmRvd2VkIHdpdGggcGVyc2lzdGVudCBpZGVudGlmaWVycyAodG8gYmUgY29uZmlybWVk
+PC9kaXY+PGRpdj7CoCBzb29uKS48L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2Pjxicj48L2Rpdj48
+ZGl2Pkludml0ZWQgU3BlYWtlcnM8L2Rpdj48ZGl2PuKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKV
+kOKVkOKVkOKVkOKVkOKVkOKVkOKVkDwvZGl2PjxkaXY+PGJyPjwvZGl2PjxkaXY+wqAg4oCiIE1h
+bmZyZWQgVGhhbGxlcjwvZGl2PjxkaXY+wqAg4oCiIChtb3JlIHRvIGJlIGNvbmZpcm1lZCk8L2Rp
+dj48ZGl2Pjxicj48L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2PkltcG9ydGFudCBEYXRlczwvZGl2
+PjxkaXY+4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQPC9kaXY+
+PGRpdj48YnI+PC9kaXY+PGRpdj7CoCBEZWFkbGluZSBmb3Igc3VibWlzc2lvbiBvZiBhYnN0cmFj
+dHM8L2Rpdj48ZGl2PsKgIMKgIMKgIMKgIEFwcmlsIDE2LCAyMDE4PC9kaXY+PGRpdj7CoCBOb3Rp
+ZmljYXRpb24gb2YgYWNjZXB0YW5jZTwvZGl2PjxkaXY+wqAgwqAgwqAgwqAgQXByaWwgMzAsIDIw
+MTg8L2Rpdj48ZGl2PsKgIFdvcmtzaG9wPC9kaXY+PGRpdj7CoCDCoCDCoCDCoCBKdW5lIDTigJM1
+LCAyMDE4PC9kaXY+PGRpdj48YnI+PC9kaXY+PGRpdj48YnI+PC9kaXY+PGRpdj5Qcm9ncmFtIENv
+bW1pdHRlZTwvZGl2PjxkaXY+4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ
+4pWQ4pWQ4pWQ4pWQPC9kaXY+PGRpdj48YnI+PC9kaXY+PGRpdj7CoCDigKIgRnJhbsOnb2lzIEJh
+dmF1ZDwvZGl2PjxkaXY+wqAg4oCiIFJhcGhhw6tsIENlcsOpPC9kaXY+PGRpdj7CoCDigKIgQmFy
+YmFyYSBNY0dpbGxpdnJheTwvZGl2PjxkaXY+wqAg4oCiIENlcnN0aW4gTWFobG93PC9kaXY+PGRp
+dj7CoCDigKIgSXNhYWMgUGFudGU8L2Rpdj48ZGl2PsKgIOKAoiBEYXZpZGUgUGljY2E8L2Rpdj48
+ZGl2PsKgIOKAoiBNaWNoYWVsIFBpb3Ryb3dza2kgKGNoYWlyKTwvZGl2PjxkaXY+wqAg4oCiIFlh
+bm5pY2sgUm9jaGF0PC9kaXY+PGRpdj7CoCDigKIgRWxlbmEgU3BhZGluaTwvZGl2PjxkaXY+wqAg
+4oCiIFNhYmluZSBTw7xzc3RydW5rPC9kaXY+PGRpdj7CoCDigKIgQXJpcyBYYW50aG9zPC9kaXY+
+PGRpdj48YnI+PC9kaXY+PGRpdj48YnI+PC9kaXY+PGRpdj5GdXJ0aGVyIEluZm9ybWF0aW9uPC9k
+aXY+PGRpdj7ilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDi
+lZDilZDilZA8L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2PsKgIFs8YSBocmVmPSJodHRwOi8vd3d3
+LnVuaWwuY2gvbGxpc3QvZXZlbnQvY29taHVtMjAxOCI+aHR0cDovL3d3dy51bmlsLmNoL2xsaXN0
+L2V2ZW50L2NvbWh1bTIwMTg8L2E+XSA8YSBocmVmPSJtYWlsdG86bGxpc3RAdW5pbC5jaCI+bGxp
+c3RAdW5pbC5jaDwvYT48L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2Pjxi
+cj48L2Rpdj4tLSA8YnI+PGRpdiBjbGFzcz0iZ21haWxfc2lnbmF0dXJlIj48ZGl2IGRpcj0ibHRy
+Ij48ZGl2PjxkaXYgZGlyPSJsdHIiPjxkaXY+PGRpdiBkaXI9Imx0ciI+PGRpdj48ZGl2IGRpcj0i
+bHRyIj48ZGl2IGRpcj0ibHRyIj48ZGl2IGRpcj0ibHRyIj48ZGl2IGRpcj0ibHRyIj48ZGl2IGRp
+cj0ibHRyIj48ZGl2IGRpcj0ibHRyIj48ZGl2IGRpcj0ibHRyIj48ZGl2IGRpcj0ibHRyIj48ZGl2
+IGRpcj0ibHRyIj48ZGl2IGRpcj0ibHRyIj48YSBocmVmPSJodHRwOi8vZWxlbmFzcGFkaW5pLmNv
+bS8iIHN0eWxlPSJmb250LWZhbWlseTomcXVvdDtDb3VyaWVyIE5ldyZxdW90Oyxtb25vc3BhY2U7
+Zm9udC1zaXplOngtc21hbGwiIHRhcmdldD0iX2JsYW5rIj5lbGVuYXNwYWRpbmkuY29tPC9hPjxm
+b250IHNpemU9IjEiPjxmb250IGZhY2U9IiYjMzk7Q291cmllciBOZXcmIzM5Oyxtb25vc3BhY2Ui
+IHN0eWxlPSJjb2xvcjpyZ2IoMCwwLDApIj48YnI+PC9mb250PjwvZm9udD48L2Rpdj48ZGl2IGRp
+cj0ibHRyIj48Zm9udCBzaXplPSIxIj48Zm9udCBmYWNlPSJDb3VyaWVyIE5ldywgbW9ub3NwYWNl
+Ij5Qb3N0RG9jIC0gVU5JTDxiciBzdHlsZT0iY29sb3I6cmdiKDAsMCwwKSI+PC9mb250Pjxmb250
+IGZhY2U9IiYjMzk7Q291cmllciBOZXcmIzM5Oyxtb25vc3BhY2UiIHN0eWxlPSJjb2xvcjpyZ2Io
+MCwwLDApIj48YSBocmVmPSJodHRwOi8vd3d3LnVuaWwuY2gvY3JsciIgdGFyZ2V0PSJfYmxhbmsi
+PkNlbnRyZSBkZSByZWNoZXJjaGVzIHN1ciBsZXMgbGV0dHJlcyByb21hbmRlczwvYT7CoDxicj48
+L2ZvbnQ+PGJyPjwvZm9udD48L2Rpdj48ZGl2IGRpcj0ibHRyIj48ZGl2IGRpcj0ibHRyIj48ZGl2
+Pjxicj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rp
+dj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48
+L2Rpdj4KPC9kaXY+Cg==

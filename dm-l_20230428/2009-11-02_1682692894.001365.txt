@@ -1,0 +1,13 @@
+Subject: [dm-l] Website downtiimeDear DM-L,There was a problem with the Digital Medievalist website today owing
+to outgoing network problems at the University of Lethbridge, where
+the site is hosted. The newsfeed for the site is hosted elsewhere (at
+wordpress.com) and imported into the DM site as an atom feed.  The
+XInclude fallback (that says the news is temporarily unavailable) was
+not being displayed reliably in all cases, and this was have a
+derogatory effect on the rest of the site.  Now that uleth.ca is again
+seeing the outside world the problem seems to have rectified itself,
+but we will be taking steps to attempt to minimize such disruptions in
+the future.Apologies to anyone who attempted to use the site in the meantime.Sincerely,Dr James Cummings
+Director, Digital Medievalist
+www.digitalmedievalist.org
+--===============2998389841335690149==--

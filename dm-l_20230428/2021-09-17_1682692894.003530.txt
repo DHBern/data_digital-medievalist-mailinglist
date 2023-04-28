@@ -1,0 +1,31 @@
+Subject: [dm-l] Help with our high-quality historical OCR app
+Dear all,We are a small 2-person not-for-profit company called Rescribe
+working on OCR for historical printed works, such as you would find
+on Internet Archive and Google Books. So far we have primarily
+worked with academic research projects and libraries to provide
+transcriptions of collections of interest to them, but have always
+been invested in broadening our work to help individuals get high
+quality OCR results, too.In recent months we have devoted more time to community-oriented
+open source software, developing a free desktop tool to perform
+high-quality OCR on modern and historic printed text. At the moment,
+this tool can only be run from the command line, but we=E2=80=99ve been
+encouraged by anecdotal feedback and a very positive independent
+review of our tool
+<https://classicalstudies.org/scs-blog/hmcelroy/blog-review-latinocr-and-resc=
+ribe>
+to make this tool more accessible. We would like to achieve this by
+creating a simple Graphic User Interface (GUI) for Windows, Mac and
+Linux, potentially with additional functionality built in.As the focus of this work is on providing useful tools to
+individuals, rather than catering to a large project, we are
+interested in trying a crowdfunding campaign in order to finance the
+development of this GUI and get interested parties directly involved
+in the actual development process. Before starting the crowdfunding
+campaign itself, however, we would like to take a chance and gauge
+interest from potential participants. We=E2=80=99ve composed a 30-second,
+3-question survey where potential participants can register interest
+and have their say on future features of the tool, see here:
+https://forms.gle/AZcKpsbzQQajSE4j6
+Please fill it out if you have a moment, and forward it on to anyone
+you think might be interested.In the meantime, any questions, comments and suggestions are all
+_redacted_(a)rescribe.xyz!All the very best,Nick + Antonia from Rescribehttps://rescribe.xyz
+--===============7424320945976765206==--

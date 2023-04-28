@@ -1,0 +1,20 @@
+Subject: Re: [dm-l] [Fwd: [MEDIEV-L:50049] Genealogical software]Roberto Rosselli Del Turco wrote:
+> Sometimes ago I briefly played with the GRAMPS software for Linux
+> (http://gramps-project.org/) which looked quite effective to my
+> unexperienced eyes. It's actively developed and will possibly be ported
+> to Windows (don't know if and when though).I can recommend GRAMPS as well.  Its default file format is also a form of=20
+compressed XML, which means that you aren't necessarily tied into that platfo=
+rm.=20
+    The problem with most genealogy programs is that they either use or only =export to gedcom 5.5.  Few of them implement gedcom 6 (an XML formulation), b=
+ut=20
+even that has significant problems for those wanting to undertake actual=20
+genealogical  research, rather than just record basic B/M/D and lineage=20
+information.  Those interested in other standards may find the GenealogyXML=20
+mailing list on yahoo groups interesting.  (Though quite dormant at the momen=
+t.)A non-commercial package for windows called Personal Ancestral File (PAF) is =produced by the Mormons (Church of Jesus Christ of Latter-Day Saints), who=20
+(whatever their faults) also have freely available some of the best and most =extensive genealogical databases available on the web.  (www.familysearch.org=
+)=20
+I used to use PAF before switching entirely to linux.-James
+---
+Dr James Cummings, Oxford Text Archive, University of Oxford
+--===============5303190769177530438==--

@@ -1,0 +1,17 @@
+Subject: [dm-l] New version of EVT 2 releasedEVT 2 beta 1, aka "The Halloween release", is available for download=20
+with many new features: improved support for critical editions (critical=20
+apparatus also available in a dedicated text frame, apparatus fontium,=20
+support for multiple recensions), initial support for named entities,=20
+initial support for a working area, and more. As for previous versions=20
+the starting point is a TEI P5 document holding your critical or=20
+diplomatic edition, support for the latter is still incomplete since the=20
+EVT 1 features porting is currently under way.Full announcement available here:=20
+https://visualizationtechnology.wordpress.com/2017/10/31/evt-2-beta-1-availab=
+le-for-download/As usual, the latest archive can be downloaded from SourceForge:=20
+https://sourceforge.net/projects/evt-project/files/Let us know what you think of this release! please send all comments,=20
+_redacted_(a)gmail.com.R--=20Roberto Rosselli Del Turco   roberto.rossellidelturco at unito.it
+Dip. di Studi Umanistici     roberto.rossellidelturco at fileli.unipi.it
+Universita' di Torino        VBD: http://vbd.humnet.unipi.it/beta2/
+EVT: http://bit.ly/24D9kdE   VC: http://www.visionarycross.org/  Hige sceal the heardra,     heorte the cenre,
+  mod sceal the mare,       the ure maegen litlath.  (Maldon 312-3)<shamelessPlug>Holidays in Tuscany http://www.imoricci.it/</shamelessPlug>
+--===============8476574434500364622==--

@@ -1,0 +1,187 @@
+Subject: Re: [dm-l] Are markup languages obsolete?It seems astonishing that anyone would think that a facsimile--even a 
+stunningly good color digital image is anything but a starting point from 
+which work on an electronic edition could proceed (on the understanding 
+that the original will be visited at some point in the process).An image does not self-analyze any more than an original does, so delivery 
+of linked color images is only a small part of an electronic edition of a 
+manuscript.I, too, certainly become discouraged by the labor-intensive quality of some 
+forms of markup, but this is in no way to say that they are 
+obsolete.  Rather, they are in need of adaptable GUI tools that allow 
+faster pointing and clicking.  I use NoteTab Pro for this work currently 
+because it is cheap, reliable and adaptable on the fly at a very basic 
+level, but I'd love something that really was as fast, versatile and 
+convenient as Dreamweaver, with its available split-screen code+result 
+view, each of those views directly editable.Heck, I'd probably even pay good money for it.  As a user of Dreamweaver 
+for some web site projects (of the time is money sort), I haven't yet found 
+anything like it for our much more strictly ordered TEI/XML work, nor am I 
+in a position to write anything myself.Humanities computing on the part of the humanist is certainly the road less 
+travelled, and this is doubtless not only because of technophobia, but also 
+because of the vast amount of "extra" work involved.  In my program in 
+medieval English literature at the University of Virginia, I already had to 
+learn more than one "extra" language (Old English, Latin, and one other 
+medieval vernacular) in addition to the standard modern language 
+requirement in place for people working in periods later than medieval.Then I had to learn textual criticism and finally humanities computing, the 
+latter pretty much on-the-fly.Two qualities were needed for this endeavor: Stubbornness (congenital, no 
+problem) and a special hybrid of shamelessness and humility that has taken 
+me years to develop and which is still a bit of a struggle every time I 
+come into the presence of real computer scientists such as those at the 
+annual TEI Members' Meeting with my pathetic little bit of "kung fu."Will they laugh, or will they help me out?  Is my current work ultimately 
+just one big digital boner, perpetrated by a rank amateur who never had any 
+business meddling in the field anyway, or a nifty combination of textual 
+criticism and digital technology?  An Caltech Ph.D. I ain't, so I don't 
+have much of an answer to these questions most of the time.  I have to 
+arrange not to care.  Thus, the virtue of shamelessness, essential to what 
+I call the medium-tech scholar.What I do have to do, like everyone else in my position, is constantly 
+learn new technology, usually on my own from four of five books, or with a 
+few hours tutoring from a generous tech on the side (Bless them!  Bless 
+them!)--all of it while somehow maintaining my status as a literary 
+scholar, a bit of a Latinist, a codicologist...[Yes, I do find there is a constant element of flim-flam involved in 
+survival as a digital medievalist, in that you have to explain  to 
+non-techs why everything takes you longer (time to learn the technology) 
+and to the techs why you are so profoundly ignorant (time to learn the 
+humanities angle).]It seems to me that we all have to be ambassadors of technology to 
+humanists who may well have gotten into their humanism in part because of 
+math-phobia and/or a related technophobia.  Me, I wrote my first program on 
+a Commodore 64 and yes, it was in my parents' basement, as was the 
+chemistry equipment that Dad gave me for Christmas.  The telescope was kept 
+upstairs, because you couldn't get much of a shot at the sky 
+otherwise.  The oddity is that I then swerved over into what my family 
+thinks of as "professional story reading."Most potential recruits to digital humanities do not have this early 
+technophile profile.  Some may not even know what duct tape is, either 
+literally or figuratively.With such as these, we need to foreground the playful aspect of our 
+work.  It _is_ fun, but they do not see how, nor do they see how they could 
+be having fun in that particular way.  It is possible, however, to present 
+the thin end of the wedge here, and also to present more drinks and hors 
+d'oeuvres at special open house sessions at humanities conferences.  And 
+back at the home institution, it is also possible to con people into 
+collaboration, sharing your expertise with them, and getting a bit of 
+theirs as well.  Get together.  Share food and drink and an interest in 
+_their_ work, without mentioning yours much, except to brainstorm 
+occasionally about what a splendid multimedia project their work could be 
+turned into.  Have them seeing The Vision before you have them seeing the 
+angle brackets.Humanities computing could be the driving force behind interdisciplinarity, 
+and a lot of really fun collegiality if we wanted it to be.There will always be work for which our technologies are not particularly 
+useful--or at last not specially or crucially useful.  They can always be 
+applied to almost any intellectual work as an efficient display and 
+delivery tool, or add multimedia presentations that very greatly enhance a 
+more "traditional" form of humanities work that does not in itself depend 
+on digital analysis, but only some kinds of humanities work--that which is 
+at least somewhat quantifiable--can be taken to where the digitization 
+becomes the very heart of the matter.  (I bet someone will jump on that.)I'd say, any digital humanist who has not done any 100% non-digital work 
+recently should probably do so at his or her earliest convenience.  Send in 
+a proposal for a paper in an entirely non-digital literary, history or art 
+history conference.  It can be a means of re-establishing contact with 
+potential digital humanists, but it is certainly also as good a 
+mental  exercise for us as a little digitization is for the non-technical 
+humanist.I speak from experience. 8-)PRBPGh0bWw+Cjxib2R5Pgo8Zm9udCBzaXplPTM+SXQgc2VlbXMgYXN0b25pc2hpbmcgdGhhdCBhbnlv
+bmUgd291bGQgdGhpbmsgdGhhdCBhCmZhY3NpbWlsZS0tZXZlbiBhIHN0dW5uaW5nbHkgZ29vZCBj
+b2xvciBkaWdpdGFsIGltYWdlIGlzIGFueXRoaW5nIGJ1dCBhCnN0YXJ0aW5nIHBvaW50IGZyb20g
+d2hpY2ggd29yayBvbiBhbiBlbGVjdHJvbmljIGVkaXRpb24gY291bGQgcHJvY2VlZCAob24KdGhl
+IHVuZGVyc3RhbmRpbmcgdGhhdCB0aGUgb3JpZ2luYWwgd2lsbCBiZSB2aXNpdGVkIGF0IHNvbWUg
+cG9pbnQgaW4gdGhlCnByb2Nlc3MpLjxicj48YnI+CkFuIGltYWdlIGRvZXMgbm90IHNlbGYtYW5h
+bHl6ZSBhbnkgbW9yZSB0aGFuIGFuIG9yaWdpbmFsIGRvZXMsIHNvCmRlbGl2ZXJ5IG9mIGxpbmtl
+ZCBjb2xvciBpbWFnZXMgaXMgb25seSBhIHNtYWxsIHBhcnQgb2YgYW4gZWxlY3Ryb25pYwplZGl0
+aW9uIG9mIGEgbWFudXNjcmlwdC48YnI+PGJyPgpJLCB0b28sIGNlcnRhaW5seSBiZWNvbWUgZGlz
+Y291cmFnZWQgYnkgdGhlIGxhYm9yLWludGVuc2l2ZSBxdWFsaXR5IG9mCnNvbWUgZm9ybXMgb2Yg
+bWFya3VwLCBidXQgdGhpcyBpcyBpbiBubyB3YXkgdG8gc2F5IHRoYXQgdGhleSBhcmUKb2Jzb2xl
+dGUuJm5ic3A7IFJhdGhlciwgdGhleSBhcmUgaW4gbmVlZCBvZiBhZGFwdGFibGUgR1VJIHRvb2xz
+IHRoYXQKYWxsb3cgZmFzdGVyIHBvaW50aW5nIGFuZCBjbGlja2luZy4mbmJzcDsgSSB1c2UgTm90
+ZVRhYiBQcm8gZm9yIHRoaXMgd29yawpjdXJyZW50bHkgYmVjYXVzZSBpdCBpcyBjaGVhcCwgcmVs
+aWFibGUgYW5kIGFkYXB0YWJsZSBvbiB0aGUgZmx5IGF0IGEKdmVyeSBiYXNpYyBsZXZlbCwgYnV0
+IEknZCBsb3ZlIHNvbWV0aGluZyB0aGF0IHJlYWxseSB3YXMgYXMgZmFzdCwKdmVyc2F0aWxlIGFu
+ZCBjb252ZW5pZW50IGFzIERyZWFtd2VhdmVyLCB3aXRoIGl0cyBhdmFpbGFibGUgc3BsaXQtc2Ny
+ZWVuCmNvZGUrcmVzdWx0IHZpZXcsIGVhY2ggb2YgdGhvc2Ugdmlld3MgZGlyZWN0bHkgZWRpdGFi
+bGUuPGJyPjxicj4KSGVjaywgSSdkIHByb2JhYmx5IGV2ZW4gcGF5IGdvb2QgbW9uZXkgZm9yIGl0
+LiZuYnNwOyBBcyBhIHVzZXIgb2YKRHJlYW13ZWF2ZXIgZm9yIHNvbWUgd2ViIHNpdGUgcHJvamVj
+dHMgKG9mIHRoZSB0aW1lIGlzIG1vbmV5IHNvcnQpLCBJCmhhdmVuJ3QgeWV0IGZvdW5kIGFueXRo
+aW5nIGxpa2UgaXQgZm9yIG91ciBtdWNoIG1vcmUgc3RyaWN0bHkgb3JkZXJlZApURUkvWE1MIHdv
+cmssIG5vciBhbSBJIGluIGEgcG9zaXRpb24gdG8gd3JpdGUgYW55dGhpbmcgbXlzZWxmLjxicj48
+YnI+Ckh1bWFuaXRpZXMgY29tcHV0aW5nIG9uIHRoZSBwYXJ0IG9mIHRoZSBodW1hbmlzdCBpcyBj
+ZXJ0YWlubHkgdGhlIHJvYWQKbGVzcyB0cmF2ZWxsZWQsIGFuZCB0aGlzIGlzIGRvdWJ0bGVzcyBu
+b3Qgb25seSBiZWNhdXNlIG9mIHRlY2hub3Bob2JpYSwKYnV0IGFsc28gYmVjYXVzZSBvZiB0aGUg
+dmFzdCBhbW91bnQgb2YgJnF1b3Q7ZXh0cmEmcXVvdDsgd29yawppbnZvbHZlZC4mbmJzcDsgSW4g
+bXkgcHJvZ3JhbSBpbiBtZWRpZXZhbCBFbmdsaXNoIGxpdGVyYXR1cmUgYXQgdGhlClVuaXZlcnNp
+dHkgb2YgVmlyZ2luaWEsIEkgYWxyZWFkeSBoYWQgdG8gbGVhcm4gbW9yZSB0aGFuIG9uZQomcXVv
+dDtleHRyYSZxdW90OyBsYW5ndWFnZSAoT2xkIEVuZ2xpc2gsIExhdGluLCBhbmQgb25lIG90aGVy
+IG1lZGlldmFsCnZlcm5hY3VsYXIpIGluIGFkZGl0aW9uIHRvIHRoZSBzdGFuZGFyZCBtb2Rlcm4g
+bGFuZ3VhZ2UgcmVxdWlyZW1lbnQgaW4KcGxhY2UgZm9yIHBlb3BsZSB3b3JraW5nIGluIHBlcmlv
+ZHMgbGF0ZXIgdGhhbiBtZWRpZXZhbC4mbmJzcDsgPGJyPjxicj4KVGhlbiBJIGhhZCB0byBsZWFy
+biB0ZXh0dWFsIGNyaXRpY2lzbSBhbmQgZmluYWxseSBodW1hbml0aWVzIGNvbXB1dGluZywKdGhl
+IGxhdHRlciBwcmV0dHkgbXVjaCBvbi10aGUtZmx5Ljxicj48YnI+ClR3byBxdWFsaXRpZXMgd2Vy
+ZSBuZWVkZWQgZm9yIHRoaXMgZW5kZWF2b3I6IFN0dWJib3JubmVzcyAoY29uZ2VuaXRhbCwgbm8K
+cHJvYmxlbSkgYW5kIGEgc3BlY2lhbCBoeWJyaWQgb2Ygc2hhbWVsZXNzbmVzcyBhbmQgaHVtaWxp
+dHkgdGhhdCBoYXMKdGFrZW4gbWUgeWVhcnMgdG8gZGV2ZWxvcCBhbmQgd2hpY2ggaXMgc3RpbGwg
+YSBiaXQgb2YgYSBzdHJ1Z2dsZSBldmVyeQp0aW1lIEkgY29tZSBpbnRvIHRoZSBwcmVzZW5jZSBv
+ZiByZWFsIGNvbXB1dGVyIHNjaWVudGlzdHMgc3VjaCBhcyB0aG9zZQphdCB0aGUgYW5udWFsIFRF
+SSBNZW1iZXJzJyBNZWV0aW5nIHdpdGggbXkgcGF0aGV0aWMgbGl0dGxlIGJpdCBvZgomcXVvdDtr
+dW5nIGZ1LiZxdW90Ozxicj48YnI+CldpbGwgdGhleSBsYXVnaCwgb3Igd2lsbCB0aGV5IGhlbHAg
+bWUgb3V0PyZuYnNwOyBJcyBteSBjdXJyZW50IHdvcmsKdWx0aW1hdGVseSBqdXN0IG9uZSBiaWcg
+ZGlnaXRhbCBib25lciwgcGVycGV0cmF0ZWQgYnkgYSByYW5rIGFtYXRldXIgd2hvCm5ldmVyIGhh
+ZCBhbnkgYnVzaW5lc3MgbWVkZGxpbmcgaW4gdGhlIGZpZWxkIGFueXdheSwgb3IgYSBuaWZ0eQpj
+b21iaW5hdGlvbiBvZiB0ZXh0dWFsIGNyaXRpY2lzbSBhbmQgZGlnaXRhbCB0ZWNobm9sb2d5PyZu
+YnNwOyBBbiBDYWx0ZWNoClBoLkQuIEkgYWluJ3QsIHNvIEkgZG9uJ3QgaGF2ZSBtdWNoIG9mIGFu
+IGFuc3dlciB0byB0aGVzZSBxdWVzdGlvbnMgbW9zdApvZiB0aGUgdGltZS4mbmJzcDsgSSBoYXZl
+IHRvIGFycmFuZ2Ugbm90IHRvIGNhcmUuJm5ic3A7IFRodXMsIHRoZSB2aXJ0dWUKb2Ygc2hhbWVs
+ZXNzbmVzcywgZXNzZW50aWFsIHRvIHdoYXQgSSBjYWxsIHRoZSBtZWRpdW0tdGVjaApzY2hvbGFy
+Ljxicj48YnI+CldoYXQgSSBkbyBoYXZlIHRvIGRvLCBsaWtlIGV2ZXJ5b25lIGVsc2UgaW4gbXkg
+cG9zaXRpb24sIGlzIGNvbnN0YW50bHkKbGVhcm4gbmV3IHRlY2hub2xvZ3ksIHVzdWFsbHkgb24g
+bXkgb3duIGZyb20gZm91ciBvZiBmaXZlIGJvb2tzLCBvciB3aXRoCmEgZmV3IGhvdXJzIHR1dG9y
+aW5nIGZyb20gYSBnZW5lcm91cyB0ZWNoIG9uIHRoZSBzaWRlIChCbGVzcyB0aGVtISZuYnNwOwpC
+bGVzcyB0aGVtISktLWFsbCBvZiBpdCB3aGlsZSBzb21laG93IG1haW50YWluaW5nIG15IHN0YXR1
+cyBhcyBhIGxpdGVyYXJ5CnNjaG9sYXIsIGEgYml0IG9mIGEgTGF0aW5pc3QsIGEgY29kaWNvbG9n
+aXN0Li4uPGJyPjxicj4KW1llcywgSSBkbyBmaW5kIHRoZXJlIGlzIGEgY29uc3RhbnQgZWxlbWVu
+dCBvZiBmbGltLWZsYW0gaW52b2x2ZWQgaW4Kc3Vydml2YWwgYXMgYSBkaWdpdGFsIG1lZGlldmFs
+aXN0LCBpbiB0aGF0IHlvdSBoYXZlIHRvIGV4cGxhaW4mbmJzcDsgdG8Kbm9uLXRlY2hzIHdoeSBl
+dmVyeXRoaW5nIHRha2VzIHlvdSBsb25nZXIgKHRpbWUgdG8gbGVhcm4gdGhlIHRlY2hub2xvZ3kp
+CmFuZCB0byB0aGUgdGVjaHMgd2h5IHlvdSBhcmUgc28gcHJvZm91bmRseSBpZ25vcmFudCAodGlt
+ZSB0byBsZWFybiB0aGUKaHVtYW5pdGllcyBhbmdsZSkuXTxicj48YnI+Ckl0IHNlZW1zIHRvIG1l
+IHRoYXQgd2UgYWxsIGhhdmUgdG8gYmUgYW1iYXNzYWRvcnMgb2YgdGVjaG5vbG9neSB0bwpodW1h
+bmlzdHMgd2hvIG1heSB3ZWxsIGhhdmUgZ290dGVuIGludG8gdGhlaXIgaHVtYW5pc20gaW4gcGFy
+dCBiZWNhdXNlIG9mCm1hdGgtcGhvYmlhIGFuZC9vciBhIHJlbGF0ZWQgdGVjaG5vcGhvYmlhLiZu
+YnNwOyBNZSwgSSB3cm90ZSBteSBmaXJzdApwcm9ncmFtIG9uIGEgQ29tbW9kb3JlIDY0IGFuZCB5
+ZXMsIGl0IHdhcyBpbiBteSBwYXJlbnRzJyBiYXNlbWVudCwgYXMgd2FzCnRoZSBjaGVtaXN0cnkg
+ZXF1aXBtZW50IHRoYXQgRGFkIGdhdmUgbWUgZm9yIENocmlzdG1hcy4mbmJzcDsgVGhlCnRlbGVz
+Y29wZSB3YXMga2VwdCB1cHN0YWlycywgYmVjYXVzZSB5b3UgY291bGRuJ3QgZ2V0IG11Y2ggb2Yg
+YSBzaG90IGF0CnRoZSBza3kgb3RoZXJ3aXNlLiZuYnNwOyBUaGUgb2RkaXR5IGlzIHRoYXQgSSB0
+aGVuIHN3ZXJ2ZWQgb3ZlciBpbnRvIHdoYXQKbXkgZmFtaWx5IHRoaW5rcyBvZiBhcyAmcXVvdDtw
+cm9mZXNzaW9uYWwgc3RvcnkgcmVhZGluZy4mcXVvdDs8YnI+PGJyPgpNb3N0IHBvdGVudGlhbCBy
+ZWNydWl0cyB0byBkaWdpdGFsIGh1bWFuaXRpZXMgZG8gbm90IGhhdmUgdGhpcyBlYXJseQp0ZWNo
+bm9waGlsZSBwcm9maWxlLiZuYnNwOyBTb21lIG1heSBub3QgZXZlbiBrbm93IHdoYXQgZHVjdCB0
+YXBlIGlzLAplaXRoZXIgbGl0ZXJhbGx5IG9yIGZpZ3VyYXRpdmVseS48YnI+PGJyPgpXaXRoIHN1
+Y2ggYXMgdGhlc2UsIHdlIG5lZWQgdG8gZm9yZWdyb3VuZCB0aGUgcGxheWZ1bCBhc3BlY3Qgb2Yg
+b3VyCndvcmsuJm5ic3A7IEl0IF9pc18gZnVuLCBidXQgdGhleSBkbyBub3Qgc2VlIGhvdywgbm9y
+IGRvIHRoZXkgc2VlIGhvdwp0aGV5IGNvdWxkIGJlIGhhdmluZyBmdW4gaW4gdGhhdCBwYXJ0aWN1
+bGFyIHdheS4mbmJzcDsgSXQgaXMgcG9zc2libGUsCmhvd2V2ZXIsIHRvIHByZXNlbnQgdGhlIHRo
+aW4gZW5kIG9mIHRoZSB3ZWRnZSBoZXJlLCBhbmQgYWxzbyB0byBwcmVzZW50Cm1vcmUgZHJpbmtz
+IGFuZCBob3JzIGQnb2V1dnJlcyBhdCBzcGVjaWFsIG9wZW4gaG91c2Ugc2Vzc2lvbnMgYXQKaHVt
+YW5pdGllcyBjb25mZXJlbmNlcy4mbmJzcDsgQW5kIGJhY2sgYXQgdGhlIGhvbWUgaW5zdGl0dXRp
+b24sIGl0IGlzCmFsc28gcG9zc2libGUgdG8gY29uIHBlb3BsZSBpbnRvIGNvbGxhYm9yYXRpb24s
+IHNoYXJpbmcgeW91ciBleHBlcnRpc2UKd2l0aCB0aGVtLCBhbmQgZ2V0dGluZyBhIGJpdCBvZiB0
+aGVpcnMgYXMgd2VsbC4mbmJzcDsgR2V0IHRvZ2V0aGVyLiZuYnNwOwpTaGFyZSBmb29kIGFuZCBk
+cmluayBhbmQgYW4gaW50ZXJlc3QgaW4gX3RoZWlyXyB3b3JrLCB3aXRob3V0IG1lbnRpb25pbmcK
+eW91cnMgbXVjaCwgZXhjZXB0IHRvIGJyYWluc3Rvcm0gb2NjYXNpb25hbGx5IGFib3V0IHdoYXQg
+YSBzcGxlbmRpZAptdWx0aW1lZGlhIHByb2plY3QgdGhlaXIgd29yayBjb3VsZCBiZSB0dXJuZWQg
+aW50by4mbmJzcDsgSGF2ZSB0aGVtCnNlZWluZyBUaGUgVmlzaW9uIGJlZm9yZSB5b3UgaGF2ZSB0
+aGVtIHNlZWluZyB0aGUgYW5nbGUKYnJhY2tldHMuPGJyPjxicj4KSHVtYW5pdGllcyBjb21wdXRp
+bmcgY291bGQgYmUgdGhlIGRyaXZpbmcgZm9yY2UgYmVoaW5kCmludGVyZGlzY2lwbGluYXJpdHks
+IGFuZCBhIGxvdCBvZiByZWFsbHkgZnVuIGNvbGxlZ2lhbGl0eSBpZiB3ZSB3YW50ZWQgaXQKdG8g
+YmUuPGJyPjxicj4KVGhlcmUgd2lsbCBhbHdheXMgYmUgd29yayBmb3Igd2hpY2ggb3VyIHRlY2hu
+b2xvZ2llcyBhcmUgbm90IHBhcnRpY3VsYXJseQp1c2VmdWwtLW9yIGF0IGxhc3Qgbm90IHNwZWNp
+YWxseSBvciBjcnVjaWFsbHkgdXNlZnVsLiZuYnNwOyBUaGV5IGNhbgphbHdheXMgYmUgYXBwbGll
+ZCB0byBhbG1vc3QgYW55IGludGVsbGVjdHVhbCB3b3JrIGFzIGFuIGVmZmljaWVudCBkaXNwbGF5
+CmFuZCBkZWxpdmVyeSB0b29sLCBvciBhZGQgbXVsdGltZWRpYSBwcmVzZW50YXRpb25zIHRoYXQg
+dmVyeSBncmVhdGx5CmVuaGFuY2UgYSBtb3JlICZxdW90O3RyYWRpdGlvbmFsJnF1b3Q7IGZvcm0g
+b2YgaHVtYW5pdGllcyB3b3JrIHRoYXQgZG9lcwpub3QgaW4gaXRzZWxmIGRlcGVuZCBvbiBkaWdp
+dGFsIGFuYWx5c2lzLCBidXQgb25seSBzb21lIGtpbmRzIG9mCmh1bWFuaXRpZXMgd29yay0tdGhh
+dCB3aGljaCBpcyBhdCBsZWFzdCBzb21ld2hhdCBxdWFudGlmaWFibGUtLWNhbiBiZQp0YWtlbiB0
+byB3aGVyZSB0aGUgZGlnaXRpemF0aW9uIGJlY29tZXMgdGhlIHZlcnkgaGVhcnQgb2YgdGhlCm1h
+dHRlci4mbmJzcDsgKEkgYmV0IHNvbWVvbmUgd2lsbCBqdW1wIG9uIHRoYXQuKTxicj48YnI+Ckkn
+ZCBzYXksIGFueSBkaWdpdGFsIGh1bWFuaXN0IHdobyBoYXMgbm90IGRvbmUgYW55IDEwMCUgbm9u
+LWRpZ2l0YWwgd29yawpyZWNlbnRseSBzaG91bGQgcHJvYmFibHkgZG8gc28gYXQgaGlzIG9yIGhl
+ciBlYXJsaWVzdCBjb252ZW5pZW5jZS4mbmJzcDsKU2VuZCBpbiBhIHByb3Bvc2FsIGZvciBhIHBh
+cGVyIGluIGFuIGVudGlyZWx5IG5vbi1kaWdpdGFsIGxpdGVyYXJ5LApoaXN0b3J5IG9yIGFydCBo
+aXN0b3J5IGNvbmZlcmVuY2UuJm5ic3A7IEl0IGNhbiBiZSBhIG1lYW5zIG9mCnJlLWVzdGFibGlz
+aGluZyBjb250YWN0IHdpdGggcG90ZW50aWFsIGRpZ2l0YWwgaHVtYW5pc3RzLCBidXQgaXQgaXMK
+Y2VydGFpbmx5IGFsc28gYXMgZ29vZCBhIG1lbnRhbCZuYnNwOyBleGVyY2lzZSBmb3IgdXMgYXMg
+YSBsaXR0bGUKZGlnaXRpemF0aW9uIGlzIGZvciB0aGUgbm9uLXRlY2huaWNhbCBodW1hbmlzdC48
+YnI+PGJyPgpJIHNwZWFrIGZyb20gZXhwZXJpZW5jZS4gIDgtKTxicj48YnI+ClBSQjwvZm9udD48
+L2JvZHk+Cjxicj4KPC9odG1sPgo=

@@ -1,0 +1,123 @@
+Subject: Re: [dm-l] TEI/XML manuscript markup initiatives? Take a look at the work of the Piers Plowman Electronic Archive and its
+parent organization, SEENET.  Both were founded by Hoyt Duggan at UVa.
+Their websites:   http://www.iath.virginia.edu/seenet/ and
+http://jefferson.village.virginia.edu/seenet/piers/
+<http://jefferson.village.virginia.edu/seenet/piers/>
+The first contains a listing of SEENET's TEI compliant DTD developed over
+the last 14 years.  It's provision for marginalia elements is an important
+step.  The PPEA site lists the group's Transcriptional Protocols hammered
+out over the same period first for SGML and now adopted for XML markup.
+SEENET and the PPEA remain active, publishing documentary editions in CD-ROM
+format.regards,
+ Gene Lyman_redacted_(a)hermes.hood.edu> wrote:
+>
+> Dear DM's
+>
+> I looking for a bit of an update on current initiatives for encoding
+> medieval MSS with TEI or XML, and being out of the loop of such things
+> recently, I have been having trouble figuring out what is, actually,
+> still current and active.
+>
+> I've know of a few from past and recent work (TEI workgroup Medieval
+> Manuscript Description, the MARC initiative, the MASTER  program, and
+> of course, EPT), but what ones (those and others) should be considered
+> as still active and working -- leading the charge, if you will,
+> towards the markup of medieval MSS?
+>
+> Much thanks in advance,
+>
+> Martin
+>
+>
+> ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+> "Semper aut discere aut docere aut
+> scribere dulce habui"  -- Bede, HE, 5.24
+> ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+>
+> Martin K. Foys
+> Associate Professor
+> Department of English
+> Hood College
+> Frederick, MD 21701
+>
+> vox: 301~696~3740
+> fax: 301~696~3586
+_redacted_(a)hood.edu
+>
+> _______________________________________________
+> Digital Medievalist Project
+> Homepage: http://www.digitalmedievalist.org
+> Journal (Spring 2005-): http://www.digitalmedievalist.org/journal.cfm
+> RSS (announcements) server: http://www.digitalmedievalist.org/rss/rss2.cfm
+> Wiki: http://sql.uleth.ca/dmorgwiki/index.php
+> Change membership options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+> Submit RSS announcement: http://www.digitalmedievalist.org/newitem.cfm
+_redacted_(a)uleth.ca
+> dm-l mailing list
+_redacted_(a)uleth.ca
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+>PGZvbnQgY29sb3I9IiM4MDAwODAiPjwvZm9udD4KPGRpdiBzdHlsZT0iRElSRUNUSU9OOiBsdHIi
+Pgo8ZGl2PlRha2UgYSBsb29rIGF0IHRoZSB3b3JrIG9mIHRoZSZuYnNwO1BpZXJzIFBsb3dtYW4g
+RWxlY3Ryb25pYyBBcmNoaXZlIGFuZCBpdHMgcGFyZW50IG9yZ2FuaXphdGlvbiwgU0VFTkVULiZu
+YnNwOyBCb3RoIHdlcmUgZm91bmRlZCBieSBIb3l0IER1Z2dhbiBhdCBVVmEuJm5ic3A7IFRoZWly
+IHdlYnNpdGVzOiAmbmJzcDs8YSBvbmNsaWNrPSJyZXR1cm4gdG9wLmpzLk9wZW5FeHRMaW5rKHdp
+bmRvdyxldmVudCx0aGlzKSIgaHJlZj0iaHR0cDovL3d3dy5pYXRoLnZpcmdpbmlhLmVkdS9zZWVu
+ZXQvIiB0YXJnZXQ9Il9ibGFuayI+CiBodHRwOi8vd3d3LmlhdGgudmlyZ2luaWEuZWR1L3NlZW5l
+dC88L2E+Jm5ic3A7YW5kIDxhIG9uY2xpY2s9InJldHVybiB0b3AuanMuT3BlbkV4dExpbmsod2lu
+ZG93LGV2ZW50LHRoaXMpIiBocmVmPSJodHRwOi8vamVmZmVyc29uLnZpbGxhZ2UudmlyZ2luaWEu
+ZWR1L3NlZW5ldC9waWVycy8iIHRhcmdldD0iX2JsYW5rIj5odHRwOi8vamVmZmVyc29uLnZpbGxh
+Z2UudmlyZ2luaWEuZWR1L3NlZW5ldC9waWVycy8mbmJzcDsKPC9hPiZuYnNwOyBUaGUgZmlyc3Qg
+Y29udGFpbnMgYSBsaXN0aW5nIG9mJm5ic3A7U0VFTkVUJ3MgVEVJIGNvbXBsaWFudCBEVEQgZGV2
+ZWxvcGVkIG92ZXIgdGhlIGxhc3QgMTQgeWVhcnMuJm5ic3A7IEl0J3MgcHJvdmlzaW9uIGZvciBt
+YXJnaW5hbGlhIGVsZW1lbnRzIGlzIGFuIGltcG9ydGFudCBzdGVwLiZuYnNwOyBUaGUgUFBFQSBz
+aXRlIGxpc3RzIHRoZSBncm91cCdzIFRyYW5zY3JpcHRpb25hbCBQcm90b2NvbHMgaGFtbWVyZWQg
+b3V0IG92ZXIgdGhlIHNhbWUgcGVyaW9kIGZpcnN0IGZvciBTR01MIGFuZCBub3cgYWRvcHRlZCBm
+b3ImbmJzcDtYTUwgbWFya3VwLiBTRUVORVQgYW5kIHRoZSBQUEVBIHJlbWFpbiBhY3RpdmUsIHB1
+Ymxpc2hpbmcgZG9jdW1lbnRhcnkgZWRpdGlvbnMgaW4gQ0QtUk9NIGZvcm1hdC4gCjwvZGl2Pgo8
+ZGl2PiZuYnNwOzwvZGl2Pgo8ZGl2PnJlZ2FyZHMsPC9kaXY+PC9kaXY+CjxkaXYgc3R5bGU9IkRJ
+UkVDVElPTjogbHRyIj48c3BhbiBjbGFzcz0ic2ciPgo8ZGl2PkdlbmUgTHltYW48YnI+Jm5ic3A7
+PC9kaXY+PC9zcGFuPjwvZGl2Pjxicj48YnI+CjxkaXY+PHNwYW4gY2xhc3M9ImdtYWlsX3F1b3Rl
+Ij5PbiAzLzEyLzA2LCA8YiBjbGFzcz0iZ21haWxfc2VuZGVybmFtZSI+TWFydGluIEsuIEZveXM8
+L2I+ICZsdDs8YSBocmVmPSJtYWlsdG86Zm95c0BoZXJtZXMuaG9vZC5lZHUiPmZveXNAaGVybWVz
+Lmhvb2QuZWR1PC9hPiZndDsgd3JvdGU6PC9zcGFuPgo8YmxvY2txdW90ZSBjbGFzcz0iZ21haWxf
+cXVvdGUiIHN0eWxlPSJQQURESU5HLUxFRlQ6IDFleDsgTUFSR0lOOiAwcHggMHB4IDBweCAwLjhl
+eDsgQk9SREVSLUxFRlQ6ICNjY2MgMXB4IHNvbGlkIj5EZWFyIERNJ3M8YnI+PGJyPkkgbG9va2lu
+ZyBmb3IgYSBiaXQgb2YgYW4gdXBkYXRlIG9uIGN1cnJlbnQgaW5pdGlhdGl2ZXMgZm9yIGVuY29k
+aW5nPGJyPm1lZGlldmFsIE1TUyB3aXRoIFRFSSBvciBYTUwsIGFuZCBiZWluZyBvdXQgb2YgdGhl
+IGxvb3Agb2Ygc3VjaCB0aGluZ3MKPGJyPnJlY2VudGx5LCBJIGhhdmUgYmVlbiBoYXZpbmcgdHJv
+dWJsZSBmaWd1cmluZyBvdXQgd2hhdCBpcywgYWN0dWFsbHksPGJyPnN0aWxsIGN1cnJlbnQgYW5k
+IGFjdGl2ZS48YnI+PGJyPkkndmUga25vdyBvZiBhIGZldyBmcm9tIHBhc3QgYW5kIHJlY2VudCB3
+b3JrIChURUkgd29ya2dyb3VwIE1lZGlldmFsPGJyPk1hbnVzY3JpcHQgRGVzY3JpcHRpb24sIHRo
+ZSBNQVJDIGluaXRpYXRpdmUsIHRoZSBNQVNURVImbmJzcDsmbmJzcDtwcm9ncmFtLCBhbmQKPGJy
+Pm9mIGNvdXJzZSwgRVBUKSwgYnV0IHdoYXQgb25lcyAodGhvc2UgYW5kIG90aGVycykgc2hvdWxk
+IGJlIGNvbnNpZGVyZWQ8YnI+YXMgc3RpbGwgYWN0aXZlIGFuZCB3b3JraW5nIC0tIGxlYWRpbmcg
+dGhlIGNoYXJnZSwgaWYgeW91IHdpbGwsPGJyPnRvd2FyZHMgdGhlIG1hcmt1cCBvZiBtZWRpZXZh
+bCBNU1M/PGJyPjxicj5NdWNoIHRoYW5rcyBpbiBhZHZhbmNlLDxicj48YnI+TWFydGluCjxicj48
+YnI+PGJyPn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fjxicj4mcXVvdDtT
+ZW1wZXIgYXV0IGRpc2NlcmUgYXV0IGRvY2VyZSBhdXQ8YnI+c2NyaWJlcmUgZHVsY2UgaGFidWkm
+cXVvdDsmbmJzcDsmbmJzcDstLSBCZWRlLCBIRSwgNS4yNDxicj5+fn5+fn5+fn5+fn5+fn5+fn5+
+fn5+fn5+fn5+fn5+fn5+fn5+fn48YnI+PGJyPk1hcnRpbiBLLiBGb3lzPGJyPkFzc29jaWF0ZSBQ
+cm9mZXNzb3IKPGJyPkRlcGFydG1lbnQgb2YgRW5nbGlzaDxicj5Ib29kIENvbGxlZ2U8YnI+RnJl
+ZGVyaWNrLCBNRCAyMTcwMTxicj48YnI+dm94OiAzMDF+Njk2fjM3NDA8YnI+ZmF4OiAzMDF+Njk2
+fjM1ODY8YnI+ZXRoZXI6IDxhIGhyZWY9Im1haWx0bzpmb3lzQGhvb2QuZWR1Ij5mb3lzQGhvb2Qu
+ZWR1PC9hPjxicj48YnI+X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19f
+X19fX18KPGJyPkRpZ2l0YWwgTWVkaWV2YWxpc3QgUHJvamVjdDxicj5Ib21lcGFnZTogPGEgaHJl
+Zj0iaHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnIj5odHRwOi8vd3d3LmRpZ2l0YWxt
+ZWRpZXZhbGlzdC5vcmc8L2E+PGJyPkpvdXJuYWwgKFNwcmluZyAyMDA1LSk6IDxhIGhyZWY9Imh0
+dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy9qb3VybmFsLmNmbSI+aHR0cDovL3d3dy5k
+aWdpdGFsbWVkaWV2YWxpc3Qub3JnL2pvdXJuYWwuY2ZtCjwvYT48YnI+UlNTIChhbm5vdW5jZW1l
+bnRzKSBzZXJ2ZXI6IDxhIGhyZWY9Imh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy9y
+c3MvcnNzMi5jZm0iPmh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy9yc3MvcnNzMi5j
+Zm08L2E+PGJyPldpa2k6IDxhIGhyZWY9Imh0dHA6Ly9zcWwudWxldGguY2EvZG1vcmd3aWtpL2lu
+ZGV4LnBocCI+aHR0cDovL3NxbC51bGV0aC5jYS9kbW9yZ3dpa2kvaW5kZXgucGhwCjwvYT48YnI+
+Q2hhbmdlIG1lbWJlcnNoaXAgb3B0aW9uczogPGEgaHJlZj0iaHR0cDovL2xpc3RzZXJ2LnVsZXRo
+LmNhL21haWxtYW4vbGlzdGluZm8vZG0tbCI+aHR0cDovL2xpc3RzZXJ2LnVsZXRoLmNhL21haWxt
+YW4vbGlzdGluZm8vZG0tbDwvYT48YnI+U3VibWl0IFJTUyBhbm5vdW5jZW1lbnQ6IDxhIGhyZWY9
+Imh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy9uZXdpdGVtLmNmbSI+Cmh0dHA6Ly93
+d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy9uZXdpdGVtLmNmbTwvYT48YnI+Q29udGFjdCBlZGl0
+b3JpYWwgQm9hcmQ6IDxhIGhyZWY9Im1haWx0bzpkaWdpdGFsbWVkaWV2YWxpc3RAdWxldGguY2Ei
+PmRpZ2l0YWxtZWRpZXZhbGlzdEB1bGV0aC5jYTwvYT48YnI+ZG0tbCBtYWlsaW5nIGxpc3Q8YnI+
+PGEgaHJlZj0ibWFpbHRvOmRtLWxAdWxldGguY2EiPmRtLWxAdWxldGguY2EKPC9hPjxicj48YSBo
+cmVmPSJodHRwOi8vbGlzdHNlcnYudWxldGguY2EvbWFpbG1hbi9saXN0aW5mby9kbS1sIj5odHRw
+Oi8vbGlzdHNlcnYudWxldGguY2EvbWFpbG1hbi9saXN0aW5mby9kbS1sPC9hPjxicj48L2Jsb2Nr
+cXVvdGU+PC9kaXY+PGJyPgo=

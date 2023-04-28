@@ -1,0 +1,52 @@
+Subject: [dm-l] TEI by example: CALL FOR EXAMPLES, revisedAll,[=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D]
+A fruitful discussion following our initial call for examples on the=20
+TEI-L mailing list (see the thread starting with=20
+<http://listserv.brown.edu/archives/cgi-bin/wa?A2=3Dind0612&L=3Dtei-l&X=3D6FA=
+A5839D4595179D3&Y=3Dteibyexample%40kantl.be&P=3D5439>),=20informed us that the initially proposed license scheme for the tutorials=20
+was inadequate for our purposes. Therefore, we decided to adopt a more=20
+liberal Creative Commons Attribution ShareAlike license
+(<http://creativecommons.org/licenses/by-sa/2.5/>).
+In order to avoid confusion, here follows a revised call for examples:
+[=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D]The Centre for Scholarly Editing and Document Studies (CTB)=20
+<http://www.kantl.be/ctb/> of the Royal Academy of Dutch Language and=20
+Literature, the Centre for Computing in the Humanities (CCH)=20
+<http://www.kcl.ac.uk/humanities/cch/> of King's College London, and the=20
+School for Library, Archive, and Information Studies (SLAIS)=20
+<http://www.slais.ucl.ac.uk/> of University College London, are involved=20
+in the joint project "TEI by Example".Featuring freely available online tutorials walking individuals through=20
+the different stages in marking up a document in TEI (Text Encoding=20
+Initiative <http://www.tei-c.org>), these online tutorials will provide=20
+examples for users of all levels. Examples will be provided of different=20
+document types, with varying degrees in the granularity of markup, to=20
+provide a useful teaching and reference aid for those involved in the=20
+marking up of texts.Eight tutorial modules will address a wide range of issues in text=20
+encoding with TEI:
+1. Introduction to text encoding with TEI
+2. The TEI header
+3. Prose
+4. Poetry
+5. Drama
+6. Manuscript Transcription
+7. Scholarly Editing
+8. Customizing TEI, ODD, RomaTo build as much as possible on available sources of existing practice=20
+in the field and to be able to present a broad view on the wide variety=20
+of encoding practices, we warmly welcome you to contribute TEI-encoded=20
+examples (either fragments or complete texts) that are applicable to any=20
+of these subjects. Examples are preferably encoded as TEI P5 XML texts,=20
+but also texts encoded in TEI P4 XML, other XML formats, or other=20
+(documented) electronic formats are of interest. Even examples of=20
+less-ideal encoding practices are welcome, since the idea of learning by=20
+error is a valuable didactic principle. Please do provide some=20
+indication of the errors or controversies in such examples when=20
+appropriate. After selection and editing, the example fragments will be=20
+incorporated in the freely available online deliverables, which will be=20
+issued under a Creative Commons Attribution ShareAlike license
+(see <http://creativecommons.org/licenses/by-sa/2.5/>). All contributors=20
+will be credited.The examples can be sent (preferably compressed in .zip format and with=20
+an indication of applicability and credits due) to=20
+_redacted_(a)kantl.be. Please do not hesitate to contact us for any=20
+inquiries regarding copyright issues or any more general issues.Kind regards,The project team:Ron Van den Branden,
+Melissa Terras,
+Edward Vanhoutte

@@ -1,0 +1,26 @@
+Subject: Re: [dm-l] Cocoon authentication--anybody with experience?Hi Dan,I'm assuming you've looked at
+http://cocoon.apache.org/2.1/developing/webapps/authentication.html
+and the sections beneath it in the left-hand menu?  I believe one
+should be able to handle the authentication and authorization entirely
+in cocoon.  I've only set it up in the context of eXist where you are
+authenticating against the users in the eXist database.-JamesOn Wed, Aug 26, 2009 at 17:16, Daniel Paul
+_redacted_(a)gmail.com> wrote:
+> Hi Hugh,
+>
+> I'm using cocoon, because the researchers on the project (including me) need
+> different views of the underlying XML depending on what their interests are,
+> and it is easy in cocoon to create an extensible URL-based pipeline for all
+> the different possibilities.: my first choice was, as always, just a
+> straight Apache XML site, but we needed the flexibility for this.
+>
+> Cocoon has had a module that does basically what you suggest below since
+> 2.1--I spent a lot of time looking up pre-2.1 ways of doing things before
+> discovering this! The real question is whether there is an off-the-shelf
+> backend I can point it to that doesn't require me to do a lot of programming
+> or learning new systems.
+>
+> Thanks very much!
+>
+> -dan
+>
+--===============2081100542456566493==--

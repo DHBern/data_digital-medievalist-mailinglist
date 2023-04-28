@@ -1,0 +1,144 @@
+Subject: Re: [dm-l] [Fwd: The time has come to make some <choice>s]Sure. TEI P5 is the name of the forthcoming revision of the TEI standard=20
+(currently version P4). Janus tags is a neat term for something that has=20
+been discussed as an addition to the standard. Its purpose is to address=20
+the problem raised (I think here) by Dot about markup in attribute values.Here's an example. Currently in TEI (P4), you have the tags <sic> and=20
+<corr> for marking either the erroneous text (sic) or the corrected text=20
+(corr) in a document (e.g. this is <sic>an</sic> mistake; or this is=20
+<corr>a</corr> mistake). An obvious desideratum is that there be some=20
+mechanism for indicating what the 'opposite' form is (i.e. what the=20
+correct reading should be in the case of sic or what the original error=20
+was in the case of corr).One method of doing currently this is using attributes: this is <sic=20
+corr=3D"a">an</sic> mistake; or this is <corr sic=3D"an">a</corr> mistake.=20
+The problem, however, comes if the text that is supposed to go on the=20
+attribute has markup itself. E.g.this is <emph>an</emph> mistake.When we come to indicate the error in this example, we have markup on an=20
+attribute value:=20this is <sic corr=3D"<emph>a</emph>"><emph>an</emph></sic> mistake.Janus tags are a way out of this problem. They are use to indicate that=20
+two options can be entertained at a certain point in the markup, but=20
+that only one would normally be chosen at any one time. So to return to=20
+our example, we might have something like this:this is <janus><error>an</error><correct>a</correct></janus> mistake.In this system, there is no problem with markup on attribute values. The=20
+version with <emph> would be encoded like this:this is=20
+<janus><error><emph>an</emph></error><correct><emph>a</emph></correct></janus=
+>=20
+mistake.The system isn't foolproof, though that's a separate issue.
+-danBinkley, Peter wrote:>For those of us who are new to TEI (ok, just me, then), would someone care
+>to gloss this? P5? Janus tags?
+>
+>Peter
+>
+>Peter Binkley
+>Digital Initiatives Technology Librarian
+>Information Technology Services
+>4-30 Cameron Library
+>University of Alberta Libraries
+>Edmonton, Alberta
+>Canada T6G 2J8
+>Phone: (780) 492-3743
+>Fax: (780) 492-9243
+_redacted_(a)ualberta.ca
+>
+>
+>
+> =20
+>
+>>-----Original Message-----
+_redacted_(a)uleth.ca]=20
+>>Sent: Monday, June 28, 2004 06:22 PM
+>>To: Digital Medievalist list
+>>Subject: [dm-l] [Fwd: The time has come to make some <choice>s]
+>>
+>>
+>>Hello all,
+>>    I realise that many of us are on the TEI list and hence have seen=20
+>>this; it is an important question, however, and I thought I would=20
+>>distribute it here as well. If you are just beginning in computer=20
+>>applications, the issue is fairly advanced (though it has=20
+>>already come=20
+>>up), and you're not likely to write a position paper on it in=20
+>>the next=20
+>>30 days; I hope in this one instance, you'll forgive me for not=20
+>>explaining it unless asked.
+>>-dan
+>>
+>>-------- Original Message --------
+>>Subject: 	The time has come to make some s
+>>Date: 	Mon, 28 Jun 2004 19:20:35 -0400
+_redacted_(a)BROWN.EDU>
+_redacted_(a)tei-c.org
+_redacted_(a)LISTSERV.BROWN.EDU
+>>
+>>
+>>
+>>            CALL FOR VOLUNTEERS TO INFLUENCE P5!
+>>            ---- --- ---------- -- --------- ---
+>>
+>>Over the last year there has been some public discussion of=20
+>>the "replacement Janus" mechanism for P5. The quick overview=20
+>>is that, in order to avoid putting content (which might need=20
+>>markup) in attribute values (which can't have markup), it has=20
+>>been suggested that we change the so-called Janus tags from=20
+>>things like
+>>
+>>  <corr sic=3D"adnire">admire</corr>
+>>  <orig reg=3D"w">vv</orig>ith <orig reg=3D"w">vv</orig>hat charity
+>>  the <abbr expan=3D"Text Encoding Initiative Consortium">tei-c</abbr>
+>>
+>>to things like
+>>
+>>  <choice>
+>>    <sic>adnire</sic>
+>>    <corr>admire</corr>
+>>  </choice>
+>>  <choice><orig>vv</orig><reg>w</reg></choice>ith
+>>  <choice>
+>>    <reg>w</reg>
+>>    <orig>vv</orig>
+>>  </choice>hat charity the
+>>  <choice src=3D"abbr">
+>>    <abbr>tei-c</abbr>
+>>    <expan>Text Encoding Initiative Consortium</expan>
+>>  </choice>
+>>
+>>The TEI Council would like to enlist the assistance of=20
+>>interested parties in helping them consider the issues=20
+>>involved. Therefore, this is a call for volunteers to write=20
+>>up a short working paper on the issues surrounding the use of=20
+>>the new mechanism and of the previous attribute mechanism.=20
+>>(Note that some have referred to the new mechanism as the=20
+>>"choice" mechanism, but the name of the element used in the=20
+>>examples above is not carved in stone, and is one issue the=20
+>>authors of this working paper may wish to address.)
+>>
+>>Current thinking is that a first draft of the paper should be=20
+>>ready by Sat 07 Aug, and the final version should be ready on=20
+>>Thu 16 Sep.
+>>
+_redacted_(a)tei-c.org.
+>>
+>>
+>>--=20
+>>Daniel Paul O'Donnell, PhD
+>>Associate Professor of English
+>>University of Lethbridge
+>>Lethbridge AB T1K 3M4
+>>Tel. (403) 329-2377
+>>Fax. (403) 382-7191
+_redacted_(a)uleth.ca>
+>>Home Page <http://people.uleth.ca/~daniel.odonnell/>
+>>
+>>
+>>
+>>
+>>_______________________________________________
+>>dm-l mailing list
+_redacted_(a)uleth.ca
+>>http://listserv.uleth.ca/mailman/listinfo/dm-l
+>>
+>>   =20
+>>--=20
+Daniel Paul O'Donnell, PhD
+Associate Professor of English
+University of Lethbridge
+Lethbridge AB T1K 3M4
+Tel. (403) 329-2377
+Fax. (403) 382-7191
+_redacted_(a)uleth.ca>
+Home Page <http://people.uleth.ca/~daniel.odonnell/>

@@ -1,0 +1,95 @@
+Subject: Re: [dm-l] MS-Internet Explorer 6 and standards based computingAll --> On 28 Jun 2004, at 8:48 AM, Daniel O'Donnell wrote:
+>
+> This is an interesting thread in as much as it touches on best 
+> practice...
+> ...I have been thinking lately of offering users multiple stylesheets 
+> to allow them to customise pages to suit their equipement, interests, 
+> and/or disabilities. Thus users with larger screens might like to see 
+> more options on a menu; or visually impaired users might prefer their 
+> links to be underlined.This touches on a key point -- when we develop applications that are 
+open to the world, we don't know who will be using them, in what 
+context, and at what time. Web browsers extend far beyond the 
+mainstream MSIE/Mozilla/Opera world, users can be from anywhere and 
+from any background (look at me, for example), and projects may live on 
+for years after the development stops.I know this is a hard thing for a few IT people (and some major 
+corporations) to swallow, but we can't expect the world to conform to 
+what we've got on our desks anymore (I wish we could, it would make my 
+job much easier). I've had a number of faculty and students ask about 
+accessing Web-based materials and applications on mobile phones, PDAs, 
+and embedded systems in television set-top boxes, and through screen 
+readers for the visually impaired. Browsers seem to be embedded into 
+nearly everything these days, and who knows what will be next? With 
+that in mind, should we develop academic tools from a restricted 
+perspective of only one browser on one operating system? Before there 
+were robust standards, it was difficult to argue otherwise. Today, it 
+is difficult to support an argument for browser-specific development 
+when there are standards to address much of what required platform- or 
+browser-specific functionality (and I know funding agencies and 
+governments are starting to pay attention to that fact).There are trade-offs and I admit that standards, especially new ones, 
+can get in the way of functionality. The important thing to remember, 
+however, is that by converging toward standards, materials and 
+applications will stand a greater chance of reaching a broader audience 
+over a longer period of time with, hopefully, lower support costs and a 
+better chance of being supported in the future.Personally, I want to see as many scholarly projects survive over time 
+as possible. By adopting mature standards when appropriate, the initial 
+overhead in implementing them will pay dividends in the long-term. In 
+other words, someone in my role can find resources to keep them going 
+long after the funding stops and the development ends.Later,
+Chad
+--------------
+Chad J. Kainz
+_redacted_(a)uchicago.edu | 773-702-9945 | FAX 773-834-2983Senior Director, NSIT Academic Technologies, The University of Chicago
+      http://intech.uchicago.edu
+Vice-Chair, IEEE Learning Technology Standards Committee
+      http://ltsc.ieee.orgQWxsIC0tCgoKPGV4Y2VycHQ+T24gMjggSnVuIDIwMDQsIGF0IDg6NDggQU0sIERhbmllbCBPJ0Rv
+bm5lbGwgd3JvdGU6CgoKVGhpcyBpcyBhbiBpbnRlcmVzdGluZyB0aHJlYWQgaW4gYXMgbXVjaCBh
+cyBpdCB0b3VjaGVzIG9uIGJlc3QKcHJhY3RpY2UuLi4gCgouLi5JIGhhdmUgYmVlbiB0aGlua2lu
+ZyBsYXRlbHkgb2Ygb2ZmZXJpbmcgdXNlcnMgbXVsdGlwbGUgc3R5bGVzaGVldHMKdG8gYWxsb3cg
+dGhlbSB0byBjdXN0b21pc2UgcGFnZXMgdG8gc3VpdCB0aGVpciBlcXVpcGVtZW50LCBpbnRlcmVz
+dHMsCmFuZC9vciBkaXNhYmlsaXRpZXMuIFRodXMgdXNlcnMgd2l0aCBsYXJnZXIgc2NyZWVucyBt
+aWdodCBsaWtlIHRvIHNlZQptb3JlIG9wdGlvbnMgb24gYSBtZW51OyBvciB2aXN1YWxseSBpbXBh
+aXJlZCB1c2VycyBtaWdodCBwcmVmZXIgdGhlaXIKbGlua3MgdG8gYmUgdW5kZXJsaW5lZC4KCjwv
+ZXhjZXJwdD4KClRoaXMgdG91Y2hlcyBvbiBhIGtleSBwb2ludCAtLSB3aGVuIHdlIGRldmVsb3Ag
+YXBwbGljYXRpb25zIHRoYXQgYXJlCm9wZW4gdG8gdGhlIHdvcmxkLCB3ZSBkb24ndCBrbm93IHdo
+byB3aWxsIGJlIHVzaW5nIHRoZW0sIGluIHdoYXQKY29udGV4dCwgYW5kIGF0IHdoYXQgdGltZS4g
+V2ViIGJyb3dzZXJzIGV4dGVuZCBmYXIgYmV5b25kIHRoZQptYWluc3RyZWFtIE1TSUUvTW96aWxs
+YS9PcGVyYSB3b3JsZCwgdXNlcnMgY2FuIGJlIGZyb20gYW55d2hlcmUgYW5kCmZyb20gYW55IGJh
+Y2tncm91bmQgKGxvb2sgYXQgbWUsIGZvciBleGFtcGxlKSwgYW5kIHByb2plY3RzIG1heSBsaXZl
+Cm9uIGZvciB5ZWFycyBhZnRlciB0aGUgZGV2ZWxvcG1lbnQgc3RvcHMuCgoKSSBrbm93IHRoaXMg
+aXMgYSBoYXJkIHRoaW5nIGZvciBhIGZldyBJVCBwZW9wbGUgKGFuZCBzb21lIG1ham9yCmNvcnBv
+cmF0aW9ucykgdG8gc3dhbGxvdywgYnV0IHdlIGNhbid0IGV4cGVjdCB0aGUgd29ybGQgdG8gY29u
+Zm9ybSB0bwp3aGF0IHdlJ3ZlIGdvdCBvbiBvdXIgZGVza3MgYW55bW9yZSAoSSB3aXNoIHdlIGNv
+dWxkLCBpdCB3b3VsZCBtYWtlIG15CmpvYiBtdWNoIGVhc2llcikuIEkndmUgaGFkIGEgbnVtYmVy
+IG9mIGZhY3VsdHkgYW5kIHN0dWRlbnRzIGFzayBhYm91dAphY2Nlc3NpbmcgV2ViLWJhc2VkIG1h
+dGVyaWFscyBhbmQgYXBwbGljYXRpb25zIG9uIG1vYmlsZSBwaG9uZXMsIFBEQXMsCmFuZCBlbWJl
+ZGRlZCBzeXN0ZW1zIGluIHRlbGV2aXNpb24gc2V0LXRvcCBib3hlcywgYW5kIHRocm91Z2ggc2Ny
+ZWVuCnJlYWRlcnMgZm9yIHRoZSB2aXN1YWxseSBpbXBhaXJlZC4gQnJvd3NlcnMgc2VlbSB0byBi
+ZSBlbWJlZGRlZCBpbnRvCm5lYXJseSBldmVyeXRoaW5nIHRoZXNlIGRheXMsIGFuZCB3aG8ga25v
+d3Mgd2hhdCB3aWxsIGJlIG5leHQ/IFdpdGgKdGhhdCBpbiBtaW5kLCBzaG91bGQgd2UgZGV2ZWxv
+cCBhY2FkZW1pYyB0b29scyBmcm9tIGEgcmVzdHJpY3RlZApwZXJzcGVjdGl2ZSBvZiBvbmx5IG9u
+ZSBicm93c2VyIG9uIG9uZSBvcGVyYXRpbmcgc3lzdGVtPyBCZWZvcmUgdGhlcmUKd2VyZSByb2J1
+c3Qgc3RhbmRhcmRzLCBpdCB3YXMgZGlmZmljdWx0IHRvIGFyZ3VlIG90aGVyd2lzZS4gVG9kYXks
+IGl0CmlzIGRpZmZpY3VsdCB0byBzdXBwb3J0IGFuIGFyZ3VtZW50IGZvciBicm93c2VyLXNwZWNp
+ZmljIGRldmVsb3BtZW50CndoZW4gdGhlcmUgYXJlIHN0YW5kYXJkcyB0byBhZGRyZXNzIG11Y2gg
+b2Ygd2hhdCByZXF1aXJlZCBwbGF0Zm9ybS0gb3IKYnJvd3Nlci1zcGVjaWZpYyBmdW5jdGlvbmFs
+aXR5IChhbmQgSSBrbm93IGZ1bmRpbmcgYWdlbmNpZXMgYW5kCmdvdmVybm1lbnRzIGFyZSBzdGFy
+dGluZyB0byBwYXkgYXR0ZW50aW9uIHRvIHRoYXQgZmFjdCkuIAoKClRoZXJlIGFyZSB0cmFkZS1v
+ZmZzIGFuZCBJIGFkbWl0IHRoYXQgc3RhbmRhcmRzLCBlc3BlY2lhbGx5IG5ldyBvbmVzLApjYW4g
+Z2V0IGluIHRoZSB3YXkgb2YgZnVuY3Rpb25hbGl0eS4gVGhlIGltcG9ydGFudCB0aGluZyB0byBy
+ZW1lbWJlciwKaG93ZXZlciwgaXMgdGhhdCBieSBjb252ZXJnaW5nIHRvd2FyZCBzdGFuZGFyZHMs
+IG1hdGVyaWFscyBhbmQKYXBwbGljYXRpb25zIHdpbGwgc3RhbmQgYSBncmVhdGVyIGNoYW5jZSBv
+ZiByZWFjaGluZyBhIGJyb2FkZXIKYXVkaWVuY2Ugb3ZlciBhIGxvbmdlciBwZXJpb2Qgb2YgdGlt
+ZSB3aXRoLCBob3BlZnVsbHksIGxvd2VyIHN1cHBvcnQKY29zdHMgYW5kIGEgYmV0dGVyIGNoYW5j
+ZSBvZiBiZWluZyBzdXBwb3J0ZWQgaW4gdGhlIGZ1dHVyZS4KCgpQZXJzb25hbGx5LCBJIHdhbnQg
+dG8gc2VlIGFzIG1hbnkgc2Nob2xhcmx5IHByb2plY3RzIHN1cnZpdmUgb3ZlciB0aW1lCmFzIHBv
+c3NpYmxlLiBCeSBhZG9wdGluZyA8aXRhbGljPm1hdHVyZTwvaXRhbGljPiBzdGFuZGFyZHMgd2hl
+bgphcHByb3ByaWF0ZSwgdGhlIGluaXRpYWwgb3ZlcmhlYWQgaW4gaW1wbGVtZW50aW5nIHRoZW0g
+d2lsbCBwYXkKZGl2aWRlbmRzIGluIHRoZSBsb25nLXRlcm0uIEluIG90aGVyIHdvcmRzLCBzb21l
+b25lIGluIG15IHJvbGUgY2FuCmZpbmQgcmVzb3VyY2VzIHRvIGtlZXAgdGhlbSBnb2luZyBsb25n
+IGFmdGVyIHRoZSBmdW5kaW5nIHN0b3BzIGFuZCB0aGUKZGV2ZWxvcG1lbnQgZW5kcy4KCgpMYXRl
+ciwKCkNoYWQKCi0tLS0tLS0tLS0tLS0tCgpDaGFkIEouIEthaW56CgpjamthaW56QHVjaGljYWdv
+LmVkdSB8IDc3My03MDItOTk0NSB8IEZBWCA3NzMtODM0LTI5ODMKCgpTZW5pb3IgRGlyZWN0b3Is
+IE5TSVQgQWNhZGVtaWMgVGVjaG5vbG9naWVzLCBUaGUgVW5pdmVyc2l0eSBvZiBDaGljYWdvCgog
+ICAgIGh0dHA6Ly9pbnRlY2gudWNoaWNhZ28uZWR1CgpWaWNlLUNoYWlyLCBJRUVFIExlYXJuaW5n
+IFRlY2hub2xvZ3kgU3RhbmRhcmRzIENvbW1pdHRlZQoKICAgICBodHRwOi8vbHRzYy5pZWVlLm9y
+ZwoK

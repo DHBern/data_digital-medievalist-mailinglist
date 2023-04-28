@@ -1,0 +1,38 @@
+Subject: Re: [dm-l] Weird windows problem Dan,I'm no Windows expert (of course), but the first things the techs here 
+ask when I have trouble with my Win98 machine is have you run the 
+anti-virus program, and have you run the anti-spyware programs? I also 
+wonder if you've installed any system software or performed any system 
+updates lately, or installed or updated any software that might have 
+updated system files. Is it just files written by Java, or other files 
+that are causing problems (and have you updated your Java lately)? Are 
+there any symptoms beyond the one obvious one--the use of URL-encoded 
+names rather than names with spaces?PeterDaniel O'Donnell wrote:> The Digital Medievalist List (see end of message for contact 
+> information and project URLs).
+>
+> ----------------------------------
+> Hello all,
+>     I'm having a weird windows problem I wonder if anybody knows 
+> anything about: all of a sudden programs that work from the dos prompt 
+> at having difficulty with long file and folder names. I.e. when I try 
+> to write to the directory "My Documents" (actually c:\Documents and 
+> Settings\Dan\My Documents), the files actually get written to a 
+> separate directory, c:\Documents%20and%20Settings\Dan\My%20Documents 
+> which appears along side the other in the file tree. The contents of 
+> this new directory to not map onto the "My Documents" directory. They 
+> are separate.
+>     This problem has arisen in the last week or so, and it is 
+> affecting bat files that were working fine until recently.
+>     Here's an example of the syntax I've been using:
+>
+> cd\saxon6_5_3
+> java -jar saxon.jar -o "c:/documents and settings/dan/my 
+> documents/_filing cabinet/dm2/3.revised/name/name.htm" "c:/documents 
+> and settings/dan/my documents/_filing 
+> cabinet/dm2/3.revised/name/name.xml" "c:/documents and settings/dan/my 
+> documents/_filing cabinet/dm2/xslt/dm1file2.xsl"
+> cd\
+>
+>
+> I've looked for help but not seen anything relevant. Any suggestions?
+> -dan
+--===============3899992924898289218==--

@@ -1,0 +1,24 @@
+Subject: Re: [dm-l] XML Database> Abdullah Alger wrote:
+> 
+>> The Digital Medievalist List (see end of message for contact 
+>> information and project URLs).
+>>
+>> ----------------------------------
+>> I have a couple of questions about XML.  Actually, I am not sure if 
+>> XML is
+>> the right programming language to use.
+>>
+>> I have a database ready to go, but I would like to put it on the web for
+>> people to use.  I was thinking about linking the db to an xml file then
+>> creating an html page that will pull the information from the xml 
+>> file. But something tells me that this is not the simplest way to do 
+>> things.Although it isn't really what you might be looking for, since you 
+already have a database, but you may wish to look at eXist.  It is a 
+free, opensource, native XML database.  This would be a database way of
+working with XML texts that is designed for just that purpose.  One of 
+the many ways to query such databases is with XQuery (W3C XML Query), 
+which is kind of like SQL by for XML Databases.See:   http://www.exist-db.org/  for more information.-James
+-- 
+Dr James Cummings, Oxford Text Archive, University of Oxford
+James dot Cummings at oucs dot ox dot ac dot uk
+--===============8657809562004124619==--

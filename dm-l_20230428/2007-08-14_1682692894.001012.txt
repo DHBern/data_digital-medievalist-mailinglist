@@ -1,0 +1,60 @@
+Subject: [dm-l] Software for doing source criticismDear Sapientes:Does anyone know of software that will aid in the comparison of two or more
+texs in order to determine specific use of sources?  Ideally, the software
+would recognize a base text and then compare it to other texts that are
+potential sources.I know of software applications like Collate that does some basic
+comparative work in order to create an apparatus criticus for critical
+editions, or the "authorship" testing software that Peter Miliken at Leeds
+developed using stylometrics (which only outputs statistical results and no
+textual output).  But I am looking for software that would compare units of
+texts (such as sentence to sentence) and one--here's the kicker--that might
+also work with an inflected language like Latin (so that it would include
+returns that differ only in terms of case ending).   I know that's a tall
+order, and I have my doubts that something like this exists--but I thought
+someone on this list might know of some code kicking around in somebody's
+virtual basement.Many thanks,
+Jim
+-- 
+--------------------
+Dr James R. Ginther, PhD
+Assoc. Professor of Medieval Theology
+& Director of Graduate Studies
+Dept of Theological Studies
+St Louis University
+_redacted_(a)slu.edu
+---------------------------------
+dept: http://theology.slu.edu/
+research: http://www.digitaltheology.org/
+-----------
+"Research is what I'm doing when I don't know what I'm doing."
+-Wernher von BraunPGRpdj5EZWFyIFNhcGllbnRlczo8L2Rpdj4KPGRpdj4mbmJzcDs8L2Rpdj4KPGRpdj5Eb2VzIGFu
+eW9uZSBrbm93IG9mIHNvZnR3YXJlIHRoYXQgd2lsbCBhaWQgaW4gdGhlIGNvbXBhcmlzb24gb2Yg
+dHdvIG9yIG1vcmUgdGV4cyBpbiBvcmRlciB0byBkZXRlcm1pbmUgc3BlY2lmaWMgdXNlIG9mIHNv
+dXJjZXM/Jm5ic3A7IElkZWFsbHksIHRoZSBzb2Z0d2FyZSB3b3VsZCByZWNvZ25pemUgYSBiYXNl
+IHRleHQgYW5kIHRoZW4gY29tcGFyZSBpdCB0byBvdGhlciB0ZXh0cyB0aGF0IGFyZSBwb3RlbnRp
+YWwgc291cmNlcy4mbmJzcDsgCjwvZGl2Pgo8ZGl2PiZuYnNwOzwvZGl2Pgo8ZGl2Pkkga25vdyBv
+ZiBzb2Z0d2FyZSBhcHBsaWNhdGlvbnMgbGlrZSBDb2xsYXRlIHRoYXQgZG9lcyBzb21lIGJhc2lj
+IGNvbXBhcmF0aXZlIHdvcmsgaW4gb3JkZXIgdG8gY3JlYXRlIGFuIGFwcGFyYXR1cyBjcml0aWN1
+cyBmb3IgY3JpdGljYWwgZWRpdGlvbnMsIG9yIHRoZSAmcXVvdDthdXRob3JzaGlwJnF1b3Q7IHRl
+c3Rpbmcgc29mdHdhcmUgdGhhdCBQZXRlciBNaWxpa2VuIGF0IExlZWRzIGRldmVsb3BlZCB1c2lu
+ZyBzdHlsb21ldHJpY3MgKHdoaWNoIG9ubHkgb3V0cHV0cyBzdGF0aXN0aWNhbCByZXN1bHRzIGFu
+ZCBubyB0ZXh0dWFsIG91dHB1dCkuJm5ic3A7IEJ1dCBJIGFtIGxvb2tpbmcgZm9yIHNvZnR3YXJl
+IHRoYXQgd291bGQgY29tcGFyZSB1bml0cyBvZiB0ZXh0cyAoc3VjaCBhcyBzZW50ZW5jZSB0byBz
+ZW50ZW5jZSkgYW5kIG9uZS0taGVyZSYjMzk7cyB0aGUga2lja2VyLS10aGF0IG1pZ2h0IGFsc28g
+d29yayB3aXRoIGFuIGluZmxlY3RlZCBsYW5ndWFnZSBsaWtlIExhdGluIChzbyB0aGF0IGl0IHdv
+dWxkIGluY2x1ZGUgcmV0dXJucyB0aGF0IGRpZmZlciBvbmx5IGluIHRlcm1zIG9mIGNhc2UgZW5k
+aW5nKS4mbmJzcDsmbmJzcDsmbmJzcDtJIGtub3cgdGhhdCYjMzk7cyBhIHRhbGwgb3JkZXIsIGFu
+ZCBJIGhhdmUgbXkgZG91YnRzIHRoYXQgc29tZXRoaW5nIGxpa2UgdGhpcyBleGlzdHMtLWJ1dCBJ
+IHRob3VnaHQgc29tZW9uZSBvbiB0aGlzIGxpc3QgbWlnaHQga25vdyBvZiBzb21lIGNvZGUga2lj
+a2luZyBhcm91bmQgaW4gc29tZWJvZHkmIzM5O3MgdmlydHVhbCBiYXNlbWVudC4KPC9kaXY+Cjxk
+aXY+Jm5ic3A7PC9kaXY+CjxkaXY+TWFueSB0aGFua3MsPC9kaXY+CjxkaXY+SmltPC9kaXY+Cjxk
+aXY+Jm5ic3A7PC9kaXY+CjxkaXY+PGJyPi0tIDxicj4tLS0tLS0tLS0tLS0tLS0tLS0tLTxicj5E
+ciBKYW1lcyBSLiBHaW50aGVyLCBQaEQ8YnI+QXNzb2MuIFByb2Zlc3NvciBvZiBNZWRpZXZhbCBU
+aGVvbG9neTxicj4mYW1wOyBEaXJlY3RvciBvZiBHcmFkdWF0ZSBTdHVkaWVzPGJyPkRlcHQgb2Yg
+VGhlb2xvZ2ljYWwgU3R1ZGllczxicj5TdCBMb3VpcyBVbml2ZXJzaXR5PGJyPjxhIGhyZWY9Im1h
+aWx0bzpnaW50aGVqQHNsdS5lZHUiPgpnaW50aGVqQHNsdS5lZHU8L2E+PGJyPi0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLTxicj5kZXB0OiA8YSBocmVmPSJodHRwOi8vdGhlb2xvZ3ku
+c2x1LmVkdS8iPmh0dHA6Ly90aGVvbG9neS5zbHUuZWR1LzwvYT48YnI+cmVzZWFyY2g6IDxhIGhy
+ZWY9Imh0dHA6Ly93d3cuZGlnaXRhbHRoZW9sb2d5Lm9yZy8iPmh0dHA6Ly93d3cuZGlnaXRhbHRo
+ZW9sb2d5Lm9yZy88L2E+PGJyPgotLS0tLS0tLS0tLTxicj4mcXVvdDtSZXNlYXJjaCBpcyB3aGF0
+IEkmIzM5O20gZG9pbmcgd2hlbiBJIGRvbiYjMzk7dCBrbm93IHdoYXQgSSYjMzk7bSBkb2luZy4m
+cXVvdDsgPGJyPi1XZXJuaGVyIHZvbiBCcmF1biA8L2Rpdj4K

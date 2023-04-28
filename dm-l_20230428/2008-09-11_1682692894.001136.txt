@@ -1,0 +1,33 @@
+Subject: Re: [dm-l] DM Website back up!Hi James,Thanks so much for taking care of this!When I click "post news" on the front page (to add a new news item to
+the feed), I get an xml source file. This is on IE, on a public
+computer in the library, so I can't tell if this is IE specific.Thanks,
+DotOn Thu, Sep 11, 2008 at 1:20 PM, James Cummings
+_redacted_(a)digitalmedievalist.org> wrote:
+> As announced earlier the DM website, www.digitalmedievalist.org, was
+> taken down today for some essential maintenance.  Only minor
+> complications were encountered in what was a long overdue set of
+> upgrades through 4 operating system versions, and I believe these have
+> been resolved.  It is hoped that this upgrade will solve a driver
+> mismatch problem that was causing occasional downtime when the virtual
+> machine would fail to restart properly whenever the VM servers at
+> University of Lethbridge had a problem which necessitated their own
+> restart.  Simultaneous to the multiple upgrades, some other underlying
+> changes (hopefully invisible) were made which will allow further
+> development of our journal production workflow.
+>
+> If you notice any problems with the site feel free to email either
+_redacted_(a)digitalmedievalist.org.
+>
+> Apologies for any inconvenience,
+>
+> James Cummings
+>
+> Digital Medievalist --  http://www.digitalmedievalist.org/
+> Journal: http://www.digitalmedievalist.org/journal/
+> Journal Editors: editors _AT_ digitalmedievalist.org
+> News: http://www.digitalmedievalist.org/news/
+> Wiki: http://www.digitalmedievalist.org/wiki/
+_redacted_(a)uleth.ca
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>
+--===============6355615071974841667==--

@@ -1,0 +1,162 @@
+Subject: Re: [dm-l] comparisons of different e-MS readers?I would go with Mirador hands down. It is already cool and it has an active
+development community who get what MSS are about (full disclosure, my
+center is part of that community). More importantly. It is IIIF compliant
+which is a powerful standard for exposing ms images for scholarly research
+and use.Jim
+_redacted_(a)durham.ac.u=
+k>
+wrote:> Yesterday I attended a planning meaning concerning the Durham priory
+> library's manuscript collection, which is planned for digitisation
+> over the next 5-10 years.  A question came up about whether there's
+> been any study done on the relative *technical* merits of different
+> platforms/programmes for viewing manuscripts, either online or
+> downloaded locally.  (The person was specifically interested in reviews
+> or comparisons done by people with the relevant computational know-
+> how).
+>
+> I confess to not being very familiar with this terrain; I've used
+> Uni-HD's reader online (see, e.g., the Manesse codex:
+> http://digi.ub.uni-heidelberg.de/diglit/cpg848/0001?sid=3D
+> c1e158af8bb04a02441c48d73cfba985)
+> and the reader used by, e.g.,
+> http://daten.digitale-sammlungen.de/0000/bsb00001649/images/, but I
+> don't even know what the programmes behind these sites are!  The one
+> that was demonstrated to us is Mirador:
+> http://www.biblissima-condorcet.fr/en/news/interoperable-viewer-
+> prototype-now-online-mirador, http://iiif.io/, and it was really
+> cool.  I'd love to know how it stacks up against the competition.
+>
+> Cheers,
+> -Sara
+>
+>
+> --
+> Dr. Sara L. Uckelman
+> Department of Philosophy
+> Durham University
+> https://www.dur.ac.uk/philosophy/staff/?id=3D12928
+> http://dmnes.wordpress.com/
+>
+>
+> Digital Medievalist --  http://www.digitalmedievalist.org/
+> Journal: http://www.digitalmedievalist.org/journal/
+> Journal Editors: editors _AT_ digitalmedievalist.org
+> News: http://www.digitalmedievalist.org/news/
+> Wiki: http://www.digitalmedievalist.org/wiki/
+> Twitter: http://twitter.com/digitalmedieval
+> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+_redacted_(a)uleth.ca
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>
+--=20
+----------
+James R. Ginther, PhD
+Professor of Medieval Theology,
+Chair, Department of Theology
+& Director, Center for Digital Humanities
+Saint Louis University
+-------------------------
+_redacted_(a)slu.edu
+Faculty Page: Departmental Page
+<https://sites.google.com/a/slu.edu/james-ginther/>
+<https://sites.google.com/a/slu.edu/james-ginther/>Research Blog:
+http://digital-editor.blogspot.com
+Twitter: DH_editor <http://twitter.com/#!/DH_editor>
+T-PEN: www.t-pen.org/NOTE: This e-mail message may contain information that may be privileged,
+confidential, and exempt from disclosure. It is intended for use only by
+the person(s) to whom it is addressed. If you have received this message in
+error, please do not forward or use this information in any way; delete it
+immediately, and contact the sender as soon as possible by the reply option
+or by telephone at 314-977-2867.SSB3b3VsZCBnbyB3aXRoIE1pcmFkb3IgaGFuZHMgZG93bi4gSXQgaXMgYWxyZWFkeSBjb29sIGFu
+ZCBpdCBoYXMgYW7CoGFjdGl2ZSBkZXZlbG9wbWVudCBjb21tdW5pdHkgd2hvIGdldCB3aGF0IE1T
+UyBhcmUgYWJvdXQgKGZ1bGwgZGlzY2xvc3VyZSwgbXkgY2VudGVyIGlzIHBhcnQgb2YgdGhhdCBj
+b21tdW5pdHkpLiBNb3JlIGltcG9ydGFudGx5LiBJdCBpcyBJSUlGIGNvbXBsaWFudCB3aGljaCBp
+cyBhIHBvd2VyZnVsIHN0YW5kYXJkIGZvciBleHBvc2luZyBtcyBpbWFnZXMgZm9yIHNjaG9sYXJs
+eSByZXNlYXJjaCBhbmQgdXNlLsKgPGRpdj48YnI+PC9kaXY+PGRpdj5KaW08L2Rpdj48ZGl2Pjxz
+cGFuPjwvc3Bhbj48YnI+PGJyPk9uIFdlZG5lc2RheSwgRmVicnVhcnkgMTgsIDIwMTUsIFNhcmEg
+TC4gVWNrZWxtYW4gJmx0OzxhIGhyZWY9Im1haWx0bzpzLmwudWNrZWxtYW5AZHVyaGFtLmFjLnVr
+Ij5zLmwudWNrZWxtYW5AZHVyaGFtLmFjLnVrPC9hPiZndDsgd3JvdGU6PGJyPjxibG9ja3F1b3Rl
+IGNsYXNzPSJnbWFpbF9xdW90ZSIgc3R5bGU9Im1hcmdpbjowIDAgMCAuOGV4O2JvcmRlci1sZWZ0
+OjFweCAjY2NjIHNvbGlkO3BhZGRpbmctbGVmdDoxZXgiPlllc3RlcmRheSBJIGF0dGVuZGVkIGEg
+cGxhbm5pbmcgbWVhbmluZyBjb25jZXJuaW5nIHRoZSBEdXJoYW0gcHJpb3J5PGJyPgpsaWJyYXJ5
+JiMzOTtzIG1hbnVzY3JpcHQgY29sbGVjdGlvbiwgd2hpY2ggaXMgcGxhbm5lZCBmb3IgZGlnaXRp
+c2F0aW9uPGJyPgpvdmVyIHRoZSBuZXh0IDUtMTAgeWVhcnMuwqAgQSBxdWVzdGlvbiBjYW1lIHVw
+IGFib3V0IHdoZXRoZXIgdGhlcmUmIzM5O3M8YnI+CmJlZW4gYW55IHN0dWR5IGRvbmUgb24gdGhl
+IHJlbGF0aXZlICp0ZWNobmljYWwqIG1lcml0cyBvZiBkaWZmZXJlbnQ8YnI+CnBsYXRmb3Jtcy9w
+cm9ncmFtbWVzIGZvciB2aWV3aW5nIG1hbnVzY3JpcHRzLCBlaXRoZXIgb25saW5lIG9yPGJyPgpk
+b3dubG9hZGVkIGxvY2FsbHkuwqAgKFRoZSBwZXJzb24gd2FzIHNwZWNpZmljYWxseSBpbnRlcmVz
+dGVkIGluIHJldmlld3M8YnI+Cm9yIGNvbXBhcmlzb25zIGRvbmUgYnkgcGVvcGxlIHdpdGggdGhl
+IHJlbGV2YW50IGNvbXB1dGF0aW9uYWwga25vdy08YnI+CmhvdykuPGJyPgo8YnI+CkkgY29uZmVz
+cyB0byBub3QgYmVpbmcgdmVyeSBmYW1pbGlhciB3aXRoIHRoaXMgdGVycmFpbjsgSSYjMzk7dmUg
+dXNlZDxicj4KVW5pLUhEJiMzOTtzIHJlYWRlciBvbmxpbmUgKHNlZSwgZS5nLiwgdGhlIE1hbmVz
+c2UgY29kZXg6PGJyPgo8YSBocmVmPSJodHRwOi8vZGlnaS51Yi51bmktaGVpZGVsYmVyZy5kZS9k
+aWdsaXQvY3BnODQ4LzAwMDE/c2lkPWMxZTE1OGFmOGJiMDRhMDI0NDFjNDhkNzNjZmJhOTg1IiB0
+YXJnZXQ9Il9ibGFuayI+aHR0cDovL2RpZ2kudWIudW5pLWhlaWRlbGJlcmcuPHU+PC91PmRlL2Rp
+Z2xpdC9jcGc4NDgvMDAwMT9zaWQ9PHU+PC91PmMxZTE1OGFmOGJiMDRhMDI0NDFjNDhkNzNjZmJh
+OTx1PjwvdT44NTwvYT4pPGJyPgphbmQgdGhlIHJlYWRlciB1c2VkIGJ5LCBlLmcuLDxicj4KPGEg
+aHJlZj0iaHR0cDovL2RhdGVuLmRpZ2l0YWxlLXNhbW1sdW5nZW4uZGUvMDAwMC9ic2IwMDAwMTY0
+OS9pbWFnZXMvIiB0YXJnZXQ9Il9ibGFuayI+aHR0cDovL2RhdGVuLmRpZ2l0YWxlLTx1PjwvdT5z
+YW1tbHVuZ2VuLmRlLzAwMDAvPHU+PC91PmJzYjAwMDAxNjQ5L2ltYWdlcy88L2E+LCBidXQgSTxi
+cj4KZG9uJiMzOTt0IGV2ZW4ga25vdyB3aGF0IHRoZSBwcm9ncmFtbWVzIGJlaGluZCB0aGVzZSBz
+aXRlcyBhcmUhwqAgVGhlIG9uZTxicj4KdGhhdCB3YXMgZGVtb25zdHJhdGVkIHRvIHVzIGlzIE1p
+cmFkb3I6PGJyPgo8YSBocmVmPSJodHRwOi8vd3d3LmJpYmxpc3NpbWEtY29uZG9yY2V0LmZyL2Vu
+L25ld3MvaW50ZXJvcGVyYWJsZS12aWV3ZXItcHJvdG90eXBlLW5vdy1vbmxpbmUtbWlyYWRvciIg
+dGFyZ2V0PSJfYmxhbmsiPmh0dHA6Ly93d3cuYmlibGlzc2ltYS08dT48L3U+Y29uZG9yY2V0LmZy
+L2VuL25ld3MvPHU+PC91PmludGVyb3BlcmFibGUtdmlld2VyLTx1PjwvdT5wcm90b3R5cGUtbm93
+LW9ubGluZS1taXJhZG9yPC9hPiwgPGEgaHJlZj0iaHR0cDovL2lpaWYuaW8vIiB0YXJnZXQ9Il9i
+bGFuayI+aHR0cDovL2lpaWYuaW8vPC9hPiwgYW5kIGl0IHdhcyByZWFsbHk8YnI+CmNvb2wuwqAg
+SSYjMzk7ZCBsb3ZlIHRvIGtub3cgaG93IGl0IHN0YWNrcyB1cCBhZ2FpbnN0IHRoZSBjb21wZXRp
+dGlvbi48YnI+Cjxicj4KQ2hlZXJzLDxicj4KLVNhcmE8YnI+Cjxicj4KPGJyPgotLSA8YnI+CkRy
+LiBTYXJhIEwuIFVja2VsbWFuPGJyPgpEZXBhcnRtZW50IG9mIFBoaWxvc29waHk8YnI+CkR1cmhh
+bSBVbml2ZXJzaXR5PGJyPgo8YSBocmVmPSJodHRwczovL3d3dy5kdXIuYWMudWsvcGhpbG9zb3Bo
+eS9zdGFmZi8/aWQ9MTI5MjgiIHRhcmdldD0iX2JsYW5rIj5odHRwczovL3d3dy5kdXIuYWMudWsv
+PHU+PC91PnBoaWxvc29waHkvc3RhZmYvP2lkPTEyOTI4PC9hPjxicj4KPGEgaHJlZj0iaHR0cDov
+L2RtbmVzLndvcmRwcmVzcy5jb20vIiB0YXJnZXQ9Il9ibGFuayI+aHR0cDovL2RtbmVzLndvcmRw
+cmVzcy5jb20vPC9hPjxicj4KPGJyPgo8YnI+CkRpZ2l0YWwgTWVkaWV2YWxpc3QgLS3CoCA8YSBo
+cmVmPSJodHRwOi8vd3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmcvIiB0YXJnZXQ9Il9ibGFuayI+
+aHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3QuPHU+PC91Pm9yZy88L2E+PGJyPgpKb3VybmFs
+OiA8YSBocmVmPSJodHRwOi8vd3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmcvam91cm5hbC8iIHRh
+cmdldD0iX2JsYW5rIj5odHRwOi8vd3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC48dT48L3U+b3JnL2pv
+dXJuYWwvPC9hPjxicj4KSm91cm5hbCBFZGl0b3JzOiBlZGl0b3JzIF9BVF8gPGEgaHJlZj0iaHR0
+cDovL2RpZ2l0YWxtZWRpZXZhbGlzdC5vcmciIHRhcmdldD0iX2JsYW5rIj5kaWdpdGFsbWVkaWV2
+YWxpc3Qub3JnPC9hPjxicj4KTmV3czogPGEgaHJlZj0iaHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2
+YWxpc3Qub3JnL25ld3MvIiB0YXJnZXQ9Il9ibGFuayI+aHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2
+YWxpc3QuPHU+PC91Pm9yZy9uZXdzLzwvYT48YnI+Cldpa2k6IDxhIGhyZWY9Imh0dHA6Ly93d3cu
+ZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy93aWtpLyIgdGFyZ2V0PSJfYmxhbmsiPmh0dHA6Ly93d3cu
+ZGlnaXRhbG1lZGlldmFsaXN0Ljx1PjwvdT5vcmcvd2lraS88L2E+PGJyPgpUd2l0dGVyOiA8YSBo
+cmVmPSJodHRwOi8vdHdpdHRlci5jb20vZGlnaXRhbG1lZGlldmFsIiB0YXJnZXQ9Il9ibGFuayI+
+aHR0cDovL3R3aXR0ZXIuY29tLzx1PjwvdT5kaWdpdGFsbWVkaWV2YWw8L2E+PGJyPgpGYWNlYm9v
+azogPGEgaHJlZj0iaHR0cDovL3d3dy5mYWNlYm9vay5jb20vZ3JvdXAucGhwP2dpZD00OTMyMDMx
+Mzc2MCIgdGFyZ2V0PSJfYmxhbmsiPmh0dHA6Ly93d3cuZmFjZWJvb2suY29tL2dyb3VwLjx1Pjwv
+dT5waHA/Z2lkPTQ5MzIwMzEzNzYwPC9hPjxicj4KRGlzY3Vzc2lvbiBsaXN0OiA8YT5kbS1sQHVs
+ZXRoLmNhPC9hPjxicj4KQ2hhbmdlIGxpc3Qgb3B0aW9uczogPGEgaHJlZj0iaHR0cDovL2xpc3Rz
+ZXJ2LnVsZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0tbCIgdGFyZ2V0PSJfYmxhbmsiPmh0dHA6
+Ly9saXN0c2Vydi51bGV0aC5jYS88dT48L3U+bWFpbG1hbi9saXN0aW5mby9kbS1sPC9hPjxicj4K
+PC9ibG9ja3F1b3RlPjwvZGl2Pjxicj48YnI+LS0gPGJyPjxkaXYgZGlyPSJsdHIiPi0tLS0tLS0t
+LS08YnI+SmFtZXMgUi4gR2ludGhlciwgUGhEPGJyPlByb2Zlc3NvciBvZiBNZWRpZXZhbCBUaGVv
+bG9neSw8ZGl2PkNoYWlyLCBEZXBhcnRtZW50IG9mIFRoZW9sb2d5PGJyPiZhbXA7IERpcmVjdG9y
+LCBDZW50ZXIgZm9yIERpZ2l0YWwgSHVtYW5pdGllczxicj5TYWludCBMb3VpcyBVbml2ZXJzaXR5
+PGJyPi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS08YnI+PGEgaHJlZj0ibWFpbHRvOmdpbnRoZWpA
+c2x1LmVkdSIgdGFyZ2V0PSJfYmxhbmsiPmdpbnRoZWpAc2x1LmVkdTwvYT48YnI+RmFjdWx0eSBQ
+YWdlOsKgPGEgaHJlZj0iaHR0cHM6Ly9zaXRlcy5nb29nbGUuY29tL2Evc2x1LmVkdS9qYW1lcy1n
+aW50aGVyLyIgdGFyZ2V0PSJfYmxhbmsiPkRlcGFydG1lbnRhbCBQYWdlPC9hPjxkaXY+PGEgaHJl
+Zj0iaHR0cHM6Ly9zaXRlcy5nb29nbGUuY29tL2Evc2x1LmVkdS9qYW1lcy1naW50aGVyLyIgdGFy
+Z2V0PSJfYmxhbmsiPjwvYT5SZXNlYXJjaCBCbG9nOiA8YSBocmVmPSJodHRwOi8vZGlnaXRhbC1l
+ZGl0b3IuYmxvZ3Nwb3QuY29tIiB0YXJnZXQ9Il9ibGFuayI+aHR0cDovL2RpZ2l0YWwtZWRpdG9y
+LmJsb2dzcG90LmNvbTwvYT7CoDwvZGl2PjxkaXY+VHdpdHRlcjogPGEgaHJlZj0iaHR0cDovL3R3
+aXR0ZXIuY29tLyMhL0RIX2VkaXRvciIgdGFyZ2V0PSJfYmxhbmsiPkRIX2VkaXRvcjwvYT48L2Rp
+dj48ZGl2PlQtUEVOOiA8YSBocmVmPSJodHRwOi8vd3d3LnQtcGVuLm9yZy8iIHRhcmdldD0iX2Js
+YW5rIj53d3cudC1wZW4ub3JnLzwvYT48L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2PjxzcGFuIHN0
+eWxlPSJjb2xvcjpyZ2IoMzQsMzQsMzQpO2ZvbnQtZmFtaWx5OmFyaWFsLHNhbnMtc2VyaWY7Zm9u
+dC1zaXplOjEyLjcyNzI3MjAzMzY5MTQwNnB4O2JhY2tncm91bmQtY29sb3I6cmdiKDI1NSwyNTUs
+MjU1KSI+Tk9URTogVGhpcyBlLW1haWwgbWVzc2FnZSBtYXkgY29udGFpbiBpbmZvcm1hdGlvbiB0
+aGF0IG1heSBiZSBwcml2aWxlZ2VkLCBjb25maWRlbnRpYWwsIGFuZCBleGVtcHQgZnJvbSBkaXNj
+bG9zdXJlLiBJdCBpcyBpbnRlbmRlZCBmb3IgdXNlIG9ubHkgYnkgdGhlIHBlcnNvbihzKSB0byB3
+aG9tIGl0IGlzIGFkZHJlc3NlZC4gSWYgeW91IGhhdmUgcmVjZWl2ZWQgdGhpcyBtZXNzYWdlIGlu
+IGVycm9yLCBwbGVhc2UgZG8gbm90IGZvcndhcmQgb3IgdXNlIHRoaXMgaW5mb3JtYXRpb24gaW4g
+YW55IHdheTsgZGVsZXRlIGl0IGltbWVkaWF0ZWx5LCBhbmQgY29udGFjdCB0aGUgc2VuZGVyIGFz
+IHNvb24gYXMgcG9zc2libGUgYnkgdGhlIHJlcGx5IG9wdGlvbiBvciBieSB0ZWxlcGhvbmUgYXTC
+oDwvc3Bhbj4zMTQtOTc3LTI4Njc8c3BhbiBzdHlsZT0iY29sb3I6cmdiKDM0LDM0LDM0KTtmb250
+LWZhbWlseTphcmlhbCxzYW5zLXNlcmlmO2ZvbnQtc2l6ZToxMi43MjcyNzIwMzM2OTE0MDZweDti
+YWNrZ3JvdW5kLWNvbG9yOnJnYigyNTUsMjU1LDI1NSkiPi7CoDwvc3Bhbj48L2Rpdj48L2Rpdj48
+L2Rpdj48YnI+Cg==

@@ -1,0 +1,65 @@
+Subject: [dm-l] MIRABILE-A TLAS FELLOWSHIPS IN D IGITAL HUMANITIES OF THE ZENO
+MIRABILE-A TLAS FELLOWSHIPS IN D IGITAL HUMANITIES
+OF THE ZENO KARL SCHINDLER FOUNDATIONThe Zeno Karl Schindler Foundation
+[http://www.zenokarlschindler-foundation.ch] has established two
+fellowships, each of them for six to twelve months, to support the
+development of the =C2=ABMIRABILE. Digital Archive for Medieval Latin
+Culture=C2=BB [www.mirabileweb.it] project maintained by SISMEL
+(International Society for the Study of Medieval Latin, Via Montebello
+7, I-50123 Florence www.sismelfirenze.it). It is intended that the
+fellows will carry out their fellowships at the seat of the
+SISMEL following the development agenda of the MIRABILE project, with a
+monthly stipend of CHF 2,500 (Swiss francs).Applications should be submitted (with curriculum vitae and motivation
+letter) by July 1, 2022 via email to: Prof. Jean-Yves Tilliette
+_redacted_(a)unige.ch).
+The results of the evaluation procedure will be published by August 31,
+2022.
+Winners will be given the opportunity to start the fellowship from the
+beginning of October
+1st, 2022.MIRABILE-ATLAS Fellowship core objectives
+1. On-line publication, with related search functions for the search and
+visualization, of data present in MIRABILE on an atlas of medieval
+culture with related cross-searches and interactive navigation over the
+data retrieved from the database. All data will be transformed in JSON,
+which is the standard format for the management of data used by Elastic
+Search for indexing.2. Integration with information present in MIRABILE's databases (such as
+the author, the texts, the manuscripts that conserve them and the
+bibliography). The development of this new
+module will provide the ability to show those database informations on a
+map. The geographical data will be loaded by the user inserting it in a
+text field. To facilitate the user, a lemmatization algorithm will be
+used, it will analyze the text contained in the document by detecting
+the entries in it.3. A user interface that will integrate the search engine results, will
+be implemented in the new project, providing a way to view the data on
+an interactive map.
+People with the following characteristics can apply for one of the
+following profiles or for both, by indicating it explicitely1. First profile
+Ability to understand and process data from database to JSON format and
+link them to meta-textual information present in MIRABILE (with
+knowledge of cartography);
+Good knowledge of Latin
+Knowledge of JSON format and OpenStreetMap
+Basic knowledge of authors, texts and manuscripts of medieval Latinity
+Basic knowledge of the problems concerning the transmission of medieval
+texts2. Second profile
+Knowledge of software development methodologies for web-oriented
+applications, both in front-end and back-end for access to sql-type
+databases.
+Good knowledge of the http protocol
+Good written and oral English
+Knowledge of javascript, html and css
+Other desired skills
+Knowledge of linux systems
+SCM software GIT
+Angular 7+
+Node.js
+Elastic Search
+JSON formatFor further information :
+_redacted_(a)sismelfirenze.it
+http://www.sismelfirenze.itApplications should be sent to :
+_redacted_(a)unige.ch
+http://www.zenokarlschindler-foundation.chTHE FOUNDATION WILL NOT GIVE ANY INFORMATION, JUSTIFICATION NOR REASON
+FOR
+THE DECISIONS CONCERNING THE ACCEPTANCE OR NOT OF AN APPLICATION.
+Please consider that no reply will be given to such requests.
+--===============3447664868307877179==--

@@ -1,0 +1,37 @@
+Subject: RE: [dm-l] what xslt can't do..?James Cummings wrote (re Peter Robinson's remarks on dynamic extraction):> Is this necessarily the case?  Couldn't you simply output these fragments
+as 
+> individual page files - so only having to do the process once?  I agree
+with 
+> you whole-heartedly that XSLT is problematic for choosing to display from
+one 
+> arbitrary point to another arbitrary point in the XML, but your points
+aren't 
+> arbitrary.  Page breaks will be the same each time, so I don't see the
+need to 
+> do this dynamically.  Store your full versions of Hengwrt, and also store
+files 
+> created for each page, searching the former, but displaying the latter.
+Just 
+> because we *can* dynamically pull out a single page from the whole of a
+large XML 
+> file doesn't mean we *have* to.--------Maybe we don't *have" to, but we certainly should.  If we cannot handle such
+a task dynamically, then we are forced into adopting one of several clunky
+solutions.  James suggests that we introduce redundancy into the mix.  But
+in so doing, we now are faced with issues of synchronization.  What happens
+when changes are are made to the document?  Any change made to the "master"
+must be reflected in all derived versions.  So one must either edit each of
+the generated versions to include the change (which will almost guarantee
+the loss of synchronization) or re-generate the reduced, and redundant,
+versions of the document after any change.  Again, loss of synchronization
+is bound to result (as it relies on a human being to remember to do this).
+Indeed, any system that relies on the proper functioning of human beings
+will surely fail at some point.  I agree with Peter Robinson.  A dynamic approach is always best./****************************************
+ * Michael L. Norton, Ph.D.
+ * Computer Science Dept.
+ * ISAT/CS #209
+ * MSC 4103
+ * James Madison University
+ * Harrisonburg, VA 22807
+ * (540)568-2777
+_redacted_(a)jmu.edu
+ ***************************************/

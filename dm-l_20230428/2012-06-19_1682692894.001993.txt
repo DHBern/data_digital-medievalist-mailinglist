@@ -1,0 +1,80 @@
+Subject: Re: [dm-l] best practice: photographc facsimile?_redacted_(a)mimuw.edu.pl> =
+wrote:
+_redacted_(a)pitt.edu> wrote:
+>
+>> Dear Digital Medievalist,
+>>
+>> For a couple of new Internet editions of medieval manuscripts I've
+>> procured high-resolution tiff images, which I'm publishing with a
+>> "magnifying glass" overlay. This is in a "responsive" context, so
+>> the components of the page, including the images, resize to fit the
+>> window dimensions. There's a sample at:
+>>
+>> http://suprasliensis.obdurodon.org/pages/supr001r.html
+>
+> Have you considered embedding images in the DjVu format?
+>
+> I guess it would not be possible to automatically resize the image,
+> but there would be some other advantages.I'd worry about suggesting DjVu format because it requires as special
+plugin to view these files. Such helpful things as image magnification
+where possible should be built on top of a display which works
+perfectly fine without plugins, or indeed javascript, in a form of
+progressive enhancement.But that said, another option would be to implement an actual pan/zoom
+interface rather than just magnification viewer. I've used both the
+google maps api and openlayers to do that in the past, however both
+require javascript.>> The current images were prepared quickly for a demo, and are not of
+>> consistent size or resolution. I would now like to go back to get
+>> this part of the site up to production quality, and I would be
+>> grateful for advice about how to manage the images, an area where I
+>> don't have much (=3D any) knowledge of best practice. I'd like small
+>> image files that load quickly,
+>
+> Even big DjVu images should load quickly, that's what the format has
+> been designed for.That would also be a benefit of a full pan/zoom interface, in that the
+initial file that is loaded can be fairly low resolution.>> and I think I don't mind slightly
+>> lossy compression if that would reduce the file size
+>> substantially--but if that's a mistake, I'd be grateful for a
+>> warning. I think there are two questions:
+> DjVu allows both lossy and lossless compression.I don't think lossy compression like jpg or png is problematic in this
+kind of case (after all, you could provide a link to download the
+uncompressed full resolution version of the file if licensing allows).>> 1. What's an appropriate file format and resolution (size, dpi,
+>> color depth, etc.) for the base image, the one that is displayed in
+>> full to the right of the transcription, and that resizes as the user
+>> resizes the window? Currently the image files are in jpg format and
+>> vary in size from about 2M down to 250k. I can regenerate them all
+>> at a common size, resolution, color depth, etc. from the original
+>> tiffs, but I don't know whether there is any sense of best practice
+>> concerning what that size should be. If I go the lossy route, what's
+>> a reasonable value?I would go for consistency and so regenerate at your current lowest
+size and resolution, and see how bad that looks.  (Again, not a
+problem with a full pan/zoom interface).>> 2. What's an appropriate degree of magnification for the
+>> magnifying-glass inset view? Currently the magnifying glass inset
+>> always shows the image at 200% of the actual file size (not the size
+>> of the page as displayed without magnification in the browser
+>> window!). You can see the difference by comparing, say, folio 30v
+>> (about 2MB) to 284r (about 270k), where the magnification is much
+>> greater in the former than the latter. I can set the level of
+>> magnification anywhere I'd like, but is there any agreement about
+>> best practice here?
+> Using DjVu allows the user to select the size and magnification of the
+> magnifying glass.Whatever solution you use it would be best, in my opinion, if the
+magnification was consistent across the edition. Not consistent
+percentage of magnification of the actual file size, but that you saw
+a consistent amount of text in the magnification window. In comparing
+the two, I found 284r shows a bit too much and 30v shows a bit too
+little, for what its worth.  Though I'd tend towards the larger 30v if
+not giving a way to zoom in the image because the point of the
+magnification is to let a reader  see where you might have gone wrong.>> is to allow the user to see the image conveniently alongside the
+>> transcription, verifying any moments where our editorial judgment
+>> might appear surprising or questionable. The point of the magnified
+>> inset is to let the user examine details that may not be visible at
+>> lesser magnification, such as erasures, corrections, etc. My casual
+>> impression is that 30v looks pretty good and loads reasonably
+>> quickly (although quicker would be better), but I don't place great
+>> confidence in my own casual impressions.I'd generally agree with that. You want to be able to see individual
+letters/strokes if possible, but don't want it to be so slow that the
+magnification window is problematic to use.> Of course using DjVu has only some drawbacks, like the need to install
+> the DjVu viewer and browser plugin.That is a very big drawback. (For example, why I wouldn't suggest
+zoomify as a pan/zoom solutions since that would require flash.
+Javascript is at least fairly standard these days).Just my thoughts.-James
+--===============7848950763609235766==--

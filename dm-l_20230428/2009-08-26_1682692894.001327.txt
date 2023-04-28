@@ -1,0 +1,155 @@
+Subject: Re: [dm-l] Cocoon authentication--anybody with experience?Hi Hugh,I'm using cocoon, because the researchers on the project (including me)=20
+need different views of the underlying XML depending on what their=20
+interests are, and it is easy in cocoon to create an extensible=20
+URL-based pipeline for all the different possibilities.: my first choice=20
+was, as always, just a straight Apache XML site, but we needed the=20
+flexibility for this.Cocoon has had a module that does basically what you suggest below since=20
+2.1--I spent a lot of time looking up pre-2.1 ways of doing things=20
+before discovering this! The real question is whether there is an=20
+off-the-shelf backend I can point it to that doesn't require me to do a=20
+lot of programming or learning new systems.Thanks very much!-danHugh Cayless wrote:
+> Hi Dan,
+>
+> I don't think Cocoon supports anything as simple as .htaccess, but my=20
+> experience with it is a bit dated.  It isn't terribly hard to set up=20
+> an authentication system for it if you know Java--basically you create=20
+> some sort of Action that does your authentication/authorization and=20
+> then wrap the pipelines you want protected in that.
+>
+> You get a lot out of the box with frameworks like Django, but I think=20
+> you're right that there would be a lot to learn and rebuild if you've=20
+> already got a working system.
+>
+> So if your needs are simple right now, why not just use .htpasswd? =20
+> It's fairly easy to set up Apache as a front to Tomcat, using mod_jk=20
+> (see=20
+> http://tomcat.apache.org/connectors-doc/generic_howto/quick.html), and=20
+> then you can do it the way you're used to.
+>
+> Hugh
+>
+> On Aug 26, 2009, at 12:44 AM, Daniel Paul O'Donnell wrote:
+>
+>> Thanks Martin!
+>>
+>> I'm worried that might be too complicated: I've got a really basic=20
+>> system in cocoon set up so that researchers on a project can see xml=20
+>> files in HTML and people with various skill sets can make changes=20
+>> where they are comfortable. The whole thing is updated every couple=20
+>> of minutes from a central subversion repository (it is actually all=20
+>> just a clone with some teaks of the DM site, reapplied to an=20
+>> editorial project [thanks James!]).
+>>
+>> I'd be worried about the time involved in learning a new language and=20
+>> set of protocols at this early stage in the process, where all we are=20
+>> looking for is a way of protecting an otherwise perfectly functioning=20
+>> research site. As my stealing everything from DM suggests, it is at=20
+>> this moment the quickest, least learning intensive solution I'm=20
+>> looking for.
+>>
+>> But then I've never worked with Python, so maybe I'm being crazy.
+>>
+>> -dan
+>>
+>> Martin Mueller wrote:
+>>> I have been told that the Python Djano web framework is really good=20
+>>> at providing an authentication system out of the box, and I know=20
+>>> that Peter Robinson has been recasting his old Anastasia publishing=20
+>>> system as a Django application with a Berkeley xml database as its=20
+>>> back end.
+>>>
+>>> A possible solution?
+>>>
+>>> Might
+>>> On Aug 25, 2009, at 11:14 PM, Daniel Paul O'Donnell wrote:
+>>>
+>>>> Hi all,
+>>>>
+>>>> Here's a question I'm hoping somebody knows an answer to. I've=20
+>>>> experimenting with cocoon, which of course is excellent at doing=20
+>>>> things like remapping xml files so that users think they are=20
+>>>> reading a file in html, and the like. The Digital Medievalist site=20
+>>>> is in fact produced using cocoon which transforms the underlying xml.
+>>>>
+>>>> What I need to be able to do is use passwords to protect this site.=20
+>>>> I've read up on cocoon's authentication model, including the sample=20
+>>>> code. But they don't give examples with kind of authentication=20
+>>>> backend I'm most familiar with .htpasswd (or any at all, really).
+>>>>
+>>>> Does anybody have experience with cocoon's authentication,=20
+>>>> particularly using an easy-to-set-up authentication backend (and=20
+>>>> even better .htpasswd)? I appreciate any suggestions, especially=20
+>>>> since, as this project is in pre-funding mode, I'll have to learn=20
+>>>> any system proposed rather than having the money to hire somebody=20
+>>>> who knows what they are doing.
+>>>>
+>>>> -dan
+>>>>
+>>>> --=20
+>>>> Daniel Paul O'Donnell
+>>>> Associate Professor of English
+>>>> University of Lethbridge
+>>>>
+>>>> Chair and CEO, Text Encoding Initiative (http://www.tei-c.org/)
+>>>> Co-Chair, Digital Initiatives Advisory Board, Medieval Academy of=20
+>>>> America
+>>>> President-elect (English), Society for Digital Humanities/Soci=C3=A9t=C3=
+=A9=20
+>>>> pour l'=C3=A9tude des m=C3=A9dias interactifs (http://sdh-semi.org/)
+>>>> Founding Director (2003-2009), Digital Medievalist Project=20
+>>>> (http://www.digitalmedievalist.org/)
+>>>>
+>>>> Vox: +1 403 329-2377
+>>>> Fax: +1 403 382-7191 (non-confidental)
+>>>> Home Page: http://people.uleth.ca/~daniel.odonnell/
+>>>>
+>>>>
+>>>>
+>>>> Digital Medievalist --  http://www.digitalmedievalist.org/
+>>>> Journal: http://www.digitalmedievalist.org/journal/
+>>>> Journal Editors: editors _AT_ digitalmedievalist.org
+>>>> News: http://www.digitalmedievalist.org/news/
+>>>> Wiki: http://www.digitalmedievalist.org/wiki/
+_redacted_(a)uleth.ca
+>>>> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>>>
+>>
+>> --=20
+>> Daniel Paul O'Donnell
+>> Associate Professor of English
+>> University of Lethbridge
+>>
+>> Chair and CEO, Text Encoding Initiative (http://www.tei-c.org/)
+>> Co-Chair, Digital Initiatives Advisory Board, Medieval Academy of=20
+>> America
+>> President-elect (English), Society for Digital Humanities/Soci=C3=A9t=C3=
+=A9=20
+>> pour l'=C3=A9tude des m=C3=A9dias interactifs (http://sdh-semi.org/)
+>> Founding Director (2003-2009), Digital Medievalist Project=20
+>> (http://www.digitalmedievalist.org/)
+>>
+>> Vox: +1 403 329-2377
+>> Fax: +1 403 382-7191 (non-confidental)
+>> Home Page: http://people.uleth.ca/~daniel.odonnell/
+>>
+>>
+>>
+>> Digital Medievalist --  http://www.digitalmedievalist.org/
+>> Journal: http://www.digitalmedievalist.org/journal/
+>> Journal Editors: editors _AT_ digitalmedievalist.org
+>> News: http://www.digitalmedievalist.org/news/
+>> Wiki: http://www.digitalmedievalist.org/wiki/
+_redacted_(a)uleth.ca
+>> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>--=20
+Daniel Paul O'Donnell
+Associate Professor of English
+University of LethbridgeChair and CEO, Text Encoding Initiative (http://www.tei-c.org/)
+Co-Chair, Digital Initiatives Advisory Board, Medieval Academy of America
+President-elect (English), Society for Digital Humanities/Soci=C3=A9t=C3=A9 p=
+our l'=C3=A9tude des m=C3=A9dias interactifs (http://sdh-semi.org/)
+Founding Director (2003-2009), Digital Medievalist Project (http://www.digita=
+lmedievalist.org/)Vox: +1 403 329-2377
+Fax: +1 403 382-7191 (non-confidental)
+Home Page: http://people.uleth.ca/~daniel.odonnell/
+--===============7788047610131571213==--

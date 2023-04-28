@@ -1,0 +1,39 @@
+Subject: [dm-l] Fwd: Music in TEI SIGForwarded from TEI-L
+---------- Forwarded message ----------
+_redacted_(a)kcl.ac.uk>
+Date: Feb 8, 2008 10:03 AM
+Subject: Music in TEI SIG
+_redacted_(a)listserv.brown.edu Dear all, a Special Interest Group for music encoding in TEI has been created.
+ The goal of the SIG is to examine the current possibilities for
+encoding both the physical representation of music and the aural
+common elements between different notation systems, and to decide on a
+preliminary recommendation/agenda for music encoding in the TEI,
+whether directly via adoption of new elements or by importing a
+recommended namespace from an existing external schema. The discussion will deal with issues like:
+Encoding western music notation from all time periods, from ancient
+through modern.
+Encoding not only the music notation, but the aural aspects common to
+different notation systems.
+Encoding music and text together as well as music on its own. Everyone
+interested is welcome to participate to our mailing list:
+ http://listserv.brown.edu/archives/cgi-bin/wa?A0=TEI-MUSIC-SIG
+ and to our wiki:
+ http://www.tei-c.org/wiki/index.php/SIG:Music Best,
+ Raffaele Viglianti --
+Raffaele Viglianti
+Centre for Computing in the Humanities
+King's College London
+26-29 Drury Lane
+London
+WC2B 5RL-- 
+***************************************
+Dot Porter, University of Kentucky
+#####
+Program Coordinator
+Collaboratory for Research in Computing for Humanities
+http://www.rch.uky.edu
+Center for Visualization and Virtual Environments
+http://www.vis.uky.edu
+_redacted_(a)uky.edu          859-257-1257 x.82115
+***************************************
+--===============2824532653739512100==--

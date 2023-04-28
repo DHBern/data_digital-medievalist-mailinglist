@@ -1,0 +1,32 @@
+Subject: Re: [dm-l] Digital incunabulaDaniel O'Donnell wrote:
+> Does anybody know if anywhere is actively collecting/preserving this
+> kind of material? Obviously the Oxford Text Archive does collect
+> texts--but in the pre-internet and early SGML days, you also had
+> information machines where content was very closely associated with
+> software (for a discussion of one famous case see:
+> http://www.mun.ca/mst/heroicage/issues/7/ecolumn.html).
+>
+>   
+Internet Archive (proprietors of the Wayback Machine) is universally 
+interested in what is and was on the Internet, whether incunabula or 
+not, and one can upload all kinds of material--text, images, audio, 
+video. The "item creation" page is at http://www.archive.org/create/ 
+Archive has racks of terabyte boxes--that is, plenty of space. The trick 
+is to identify the material properly so that it can be located, if 
+necessary, by filename alone (the format is 
+http://www.archive.org/details/YourIdentifierName). As at most digital 
+libraries or repositories, cataloging info or metadata may be sparse 
+and, even then, not readily findable. Longterm accessibility is a big 
+problem if the material exists but can't be located.Archive suggests going to Creative Commons and using the ccPublisher 
+tool to add a license to the material. (In brief, "Creative Commons 
+defines the spectrum of possibilities between full copyright — all 
+rights reserved — and the public domain — no rights reserved. [The] 
+licenses help you keep your copyright while inviting certain uses of 
+your work — a 'some rights reserved' copyright.") 
+http://creativecommons.org/learnmoreIf you acquired some public domain text from a long-defunct computer 
+source, you can generally pass it along as such. But if, say, you have a 
+translation or transcription in a WordStar doc acquired from a colleague 
+now dead, some investigation and negotiation would be in order. All such 
+resource recovery efforts are praiseworthy!Cheers,
+Al Magary
+--===============8871872339920494314==--

@@ -1,0 +1,21 @@
+Subject: [dm-l] Machine learning for epigraphic text restoration (seminar)Digital Classicist London Seminar 2020Thea Sommerschield (Oxford), PYTHIA: a deep neural network model for the auto=
+matic restoration of ancient Greek inscriptionsFri, Jun 5, 2020, 17:30 (UK time)
+Institute of Classical Studies, University of London
+Online seminar, streamed live and archived at: https://youtu.be/nKSfzHYmLtQAncient History relies on Epigraphy, the study of ancient inscribed texts (ca=
+lled "inscriptions"), for evidence of the recorded past. However, inscription=
+s are often damaged over the centuries, and illegible parts of the text must =
+be restored by epigraphists. PYTHIA is the first ancient text restoration mod=
+el that recovers missing characters from a damaged text input using deep neur=
+al networks. Its architecture is carefully designed to handle long-term conte=
+xt information, and deal efficiently with missing or corrupted character and =
+word representations. I will present this research, give examples of PYTHIA a=
+t work, and demonstrate how to use the model for personal research.ALL WELCOME=3D=3D
+Dr Gabriel BODARD
+Reader in Digital ClassicsInstitute of Classical Studies
+University of London
+Senate House
+Malet Street
+London WC1E 7HU_redacted_(a)sas.ac.uk
+T: +44 (0)20 78628752Especially at the moment, I may email at odd hours of the day and night/days =
+of the week. I do not ever expect a reply outside of your working hours.
+--===============1230125035060705145==--

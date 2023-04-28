@@ -1,0 +1,183 @@
+Subject: Re: [dm-l] re: online bible versions
+I wonder whether the discussion maybe has lost the original intention of=20
+Franz' question.I image his scenario as being this: he has a electronic resource with=20
+quotations from the bible which he might has marked up as=20
+@cRef=3D"#VUL_GN_20" or something like that. He wants to have these things=20
+turned into links (or tool tip content harvested from links, or index=20
+entries etc) in the publication of his resource. This should be done=20
+automatically and should result in URLs that would be stable over time.=20
+What he needs in order to get that, is something we would call "canonic=20
+URLs" which is a sort of a PURL.In an ideal world addresses like this would be available:
+         http://www.bible.org/vulgata/genesis/20Franz would generate links from his given information via xslt (or=20
+another technology) in the process of publishing and would rely on the=20
+stability of such a URL because as a PURL, the institution behind=20
+bible.org would guarantee for it. Technically there would be a resolver=20
+behind what only looks like an URL but is simply a given "name" in fact.=20
+And that resolver resolves to the actual technical address ...So if we'd take this ...
+    =20
+http://www.biblija.net/biblija.cgi?Bible=3DBible&m=3DGn+20&id38=3D1&id8=3D1&p=
+os=3D0&set=3D1&l=3Den&idp0=3D39&idp1=3D9
+the automatic creation of a link would be possible from=20
+@cRef=3D"#VUL_GN_20" but will the URL be stable over time? What will=20
+happen at the next technical changeover? Probably there will be no=20
+"biblija.cgi?" anymore ...This looks better:
+     http://www.bibleserver.com/ref/1020000#/text/VUL/1.Mose20
+_redacted_@cRef=3D"#VUL_1.Mose_20" in=20
+his data, but behold!, this works too:=20
+http://www.bibleserver.com/#/text/VUL/Genesis20 - so Franz' data is=20
+alright already. And these addresses may be stable for the future since=20
+with a good resolver would resolve these addresses strings to a=20
+different technical address if necessary.
+If you use a resolver anyway, of course, this would even be nicer:=20
+http://www.bibleserver.com/VUL/1.Mose20The question for the quality and reliability of the text remains. This=20
+is connected to the trustworthiness of the institution behind=20
+bibleserver.com.
+And an address like http://www.bibleserver.com/VUL/1.Mose20 has to be=20
+understood as a "default". So even more complex systems are possible=20
+here. If there were variant editions of the Vulgata from which texts=20
+have been taken, then http://www.bibleserver.com/VUL/1.Mose20 would just=20
+result in what would be stated to be the "canonic" version of that=20
+verse. But http://www.bibleserver.com/VUL/editionX/1.Mose20 would lead=20
+to a specific edition, and =20
+http://www.bibleserver.com/VUL/editionX/1.Mose20/image would lead to a=20
+digital image of the printed page instead of the "default" presentation=20
+of the text as text ...No need to say, that we want to have these "canonic addresses" not just=20
+for the bible but for potentially everything (that we want to talk about).Best, Patrick
+Am 29.06.2011 15:59, schrieb Charles E. Jones:
+> I have assembled links to everything cited in this thread in AWOL:
+> http://ancientworldonline.blogspot.com/2011/06/online-bible-tools.html
+>
+> I'll add others as I encounter them.  Please let me know if you have sugges=
+tions.
+>
+> -Chuck Jones-
+> ISAW - NYU
+>
+------------------------------------------------------------------------
+A) Cologne Center for eHumanities (CCeH) <http://www.cceh.uni-koeln.de/>=20
+(Secretary)
+B) DARIAH-DE (Digital Research Infrastructure for the Arts and=20
+Humanities) <http://de.dariah.eu/> (Research Associate)
+C) Humanities Computer Science, University of Cologne=20
+<http://www.hki.uni-koeln.de/> (Research Associate)
+D) Karl-Franzens-Universit=C3=A4t Graz=20
+<https://online.uni-graz.at/kfu_online/visitenkarte.show_vcard?pPersonenGrupp=
+e=3D3&pPersonenId=3D4FCE58FA6DC80118>=20
+(Guest Professor)
+E) Institut f=C3=BCr Dokumentologie und Editorik <http://www.i-d-e.de> (Membe=
+r)Post: Historisch-Kulturwissenschaftliche Informationsverarbeitung,=20
+Universit=C3=A4t zu K=C3=B6ln, Albertus-Magnus-Platz, D-50923 K=C3=B6ln
+B=C3=BCro: Universit=C3=A4tsstr. 22, Dachgeschoss links
+Telefon: +49 - (0)221 - 470 1750
+------------------------------------------------------------------------
+Zur Person: http://www.uni-koeln.de/~ahz26=20
+<http://www.uni-koeln.de/%7Eahz26>PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMDEgVHJhbnNpdGlvbmFs
+Ly9FTiI+CjxodG1sPgogIDxoZWFkPgogICAgPG1ldGEgY29udGVudD0idGV4dC9odG1sOyBjaGFy
+c2V0PUlTTy04ODU5LTEiCiAgICAgIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSI+CiAgPC9oZWFk
+PgogIDxib2R5IGJnY29sb3I9IiNmZmZmZmYiIHRleHQ9IiMwMDAwMDAiPgogICAgPGJyPgogICAg
+SSB3b25kZXIgd2hldGhlciB0aGUgZGlzY3Vzc2lvbiBtYXliZSBoYXMgbG9zdCB0aGUgb3JpZ2lu
+YWwKICAgIGludGVudGlvbiBvZiBGcmFueicgcXVlc3Rpb24uPGJyPgogICAgPGJyPgogICAgSSBp
+bWFnZSBoaXMgc2NlbmFyaW8gYXMgYmVpbmcgdGhpczogaGUgaGFzIGEgZWxlY3Ryb25pYyByZXNv
+dXJjZQogICAgd2l0aCBxdW90YXRpb25zIGZyb20gdGhlIGJpYmxlIHdoaWNoIGhlIG1pZ2h0IGhh
+cyBtYXJrZWQgdXAgYXMKICAgIEBjUmVmPSIjVlVMX0dOXzIwIiBvciBzb21ldGhpbmcgbGlrZSB0
+aGF0LiBIZSB3YW50cyB0byBoYXZlIHRoZXNlCiAgICB0aGluZ3MgdHVybmVkIGludG8gbGlua3Mg
+KG9yIHRvb2wgdGlwIGNvbnRlbnQgaGFydmVzdGVkIGZyb20gbGlua3MsCiAgICBvciBpbmRleCBl
+bnRyaWVzIGV0YykgaW4gdGhlIHB1YmxpY2F0aW9uIG9mIGhpcyByZXNvdXJjZS4gVGhpcwogICAg
+c2hvdWxkIGJlIGRvbmUgYXV0b21hdGljYWxseSBhbmQgc2hvdWxkIHJlc3VsdCBpbiBVUkxzIHRo
+YXQgd291bGQgYmUKICAgIHN0YWJsZSBvdmVyIHRpbWUuIFdoYXQgaGUgbmVlZHMgaW4gb3JkZXIg
+dG8gZ2V0IHRoYXQsIGlzIHNvbWV0aGluZwogICAgd2Ugd291bGQgY2FsbCAiY2Fub25pYyBVUkxz
+IiB3aGljaCBpcyBhIHNvcnQgb2YgYSBQVVJMLjxicj4KICAgIDxicj4KICAgIEluIGFuIGlkZWFs
+IHdvcmxkIGFkZHJlc3NlcyBsaWtlIHRoaXMgd291bGQgYmUgYXZhaWxhYmxlOjxicj4KICAgICZu
+YnNwOyZuYnNwOyZuYnNwOyAmbmJzcDsmbmJzcDsmbmJzcDsgPGEgY2xhc3M9Im1vei10eHQtbGlu
+ay1mcmVldGV4dCIgaHJlZj0iaHR0cDovL3d3dy5iaWJsZS5vcmcvdnVsZ2F0YS9nZW5lc2lzLzIw
+Ij5odHRwOi8vd3d3LmJpYmxlLm9yZy92dWxnYXRhL2dlbmVzaXMvMjA8L2E+PGJyPgogICAgPGJy
+PgogICAgRnJhbnogd291bGQgZ2VuZXJhdGUgbGlua3MgZnJvbSBoaXMgZ2l2ZW4gaW5mb3JtYXRp
+b24gdmlhIHhzbHQgKG9yCiAgICBhbm90aGVyIHRlY2hub2xvZ3kpIGluIHRoZSBwcm9jZXNzIG9m
+IHB1Ymxpc2hpbmcgYW5kIHdvdWxkIHJlbHkgb24KICAgIHRoZSBzdGFiaWxpdHkgb2Ygc3VjaCBh
+IFVSTCBiZWNhdXNlIGFzIGEgUFVSTCwgdGhlIGluc3RpdHV0aW9uCiAgICBiZWhpbmQgYmlibGUu
+b3JnIHdvdWxkIGd1YXJhbnRlZSBmb3IgaXQuIFRlY2huaWNhbGx5IHRoZXJlIHdvdWxkIGJlCiAg
+ICBhIHJlc29sdmVyIGJlaGluZCB3aGF0IG9ubHkgbG9va3MgbGlrZSBhbiBVUkwgYnV0IGlzIHNp
+bXBseSBhIGdpdmVuCiAgICAibmFtZSIgaW4gZmFjdC4gQW5kIHRoYXQgcmVzb2x2ZXIgcmVzb2x2
+ZXMgdG8gdGhlIGFjdHVhbCB0ZWNobmljYWwKICAgIGFkZHJlc3MgLi4uPGJyPgogICAgPGJyPgog
+ICAgU28gaWYgd2UnZCB0YWtlIHRoaXMgLi4uPGJyPgogICAgJm5ic3A7Jm5ic3A7Jm5ic3A7Cjxh
+IGNsYXNzPSJtb3otdHh0LWxpbmstZnJlZXRleHQiIGhyZWY9Imh0dHA6Ly93d3cuYmlibGlqYS5u
+ZXQvYmlibGlqYS5jZ2k/QmlibGU9QmlibGUmYW1wO209R24rMjAmYW1wO2lkMzg9MSZhbXA7aWQ4
+PTEmYW1wO3Bvcz0wJmFtcDtzZXQ9MSZhbXA7bD1lbiZhbXA7aWRwMD0zOSZhbXA7aWRwMT05Ij5o
+dHRwOi8vd3d3LmJpYmxpamEubmV0L2JpYmxpamEuY2dpP0JpYmxlPUJpYmxlJmFtcDttPUduKzIw
+JmFtcDtpZDM4PTEmYW1wO2lkOD0xJmFtcDtwb3M9MCZhbXA7c2V0PTEmYW1wO2w9ZW4mYW1wO2lk
+cDA9MzkmYW1wO2lkcDE9OTwvYT48YnI+CiAgICB0aGUgYXV0b21hdGljIGNyZWF0aW9uIG9mIGEg
+bGluayB3b3VsZCBiZSBwb3NzaWJsZSBmcm9tCiAgICBAY1JlZj0iI1ZVTF9HTl8yMCIgYnV0IHdp
+bGwgdGhlIFVSTCBiZSBzdGFibGUgb3ZlciB0aW1lPyBXaGF0IHdpbGwKICAgIGhhcHBlbiBhdCB0
+aGUgbmV4dCB0ZWNobmljYWwgY2hhbmdlb3Zlcj8gUHJvYmFibHkgdGhlcmUgd2lsbCBiZSBubwog
+ICAgImJpYmxpamEuY2dpPyIgYW55bW9yZSAuLi48YnI+CiAgICA8YnI+CiAgICBUaGlzIGxvb2tz
+IGJldHRlcjo8YnI+CiAgICAmbmJzcDsmbmJzcDsmbmJzcDsgPGEgY2xhc3M9Im1vei10eHQtbGlu
+ay1mcmVldGV4dCIgaHJlZj0iaHR0cDovL3d3dy5iaWJsZXNlcnZlci5jb20vcmVmLzEwMjAwMDAj
+L3RleHQvVlVMLzEuTW9zZTIwIj5odHRwOi8vd3d3LmJpYmxlc2VydmVyLmNvbS9yZWYvMTAyMDAw
+MCMvdGV4dC9WVUwvMS5Nb3NlMjA8L2E+PGJyPgogICAgV2VsbCwgdXNpbmcgdGhpcywgRnJhbnog
+bWF5YmUgc2hvdWxkIGhhdmUgaGFkIEBjUmVmPSIjVlVMXzEuTW9zZV8yMCIKICAgIGluIGhpcyBk
+YXRhLCBidXQgYmVob2xkISwgdGhpcyB3b3JrcyB0b286CiAgICA8YSBjbGFzcz0ibW96LXR4dC1s
+aW5rLWZyZWV0ZXh0IiBocmVmPSJodHRwOi8vd3d3LmJpYmxlc2VydmVyLmNvbS8jL3RleHQvVlVM
+L0dlbmVzaXMyMCI+aHR0cDovL3d3dy5iaWJsZXNlcnZlci5jb20vIy90ZXh0L1ZVTC9HZW5lc2lz
+MjA8L2E+IC0gc28gRnJhbnonIGRhdGEgaXMKICAgIGFscmlnaHQgYWxyZWFkeS4gQW5kIHRoZXNl
+IGFkZHJlc3NlcyBtYXkgYmUgc3RhYmxlIGZvciB0aGUgZnV0dXJlCiAgICBzaW5jZSB3aXRoIGEg
+Z29vZCByZXNvbHZlciB3b3VsZCByZXNvbHZlIHRoZXNlIDxzdHJpa2U+YWRkcmVzc2VzPC9zdHJp
+a2U+CiAgICBzdHJpbmdzIHRvIGEgZGlmZmVyZW50IHRlY2huaWNhbCBhZGRyZXNzIGlmIG5lY2Vz
+c2FyeS48YnI+CiAgICBJZiB5b3UgdXNlIGEgcmVzb2x2ZXIgYW55d2F5LCBvZiBjb3Vyc2UsIHRo
+aXMgd291bGQgZXZlbiBiZSBuaWNlcjoKICAgIDxhIGNsYXNzPSJtb3otdHh0LWxpbmstZnJlZXRl
+eHQiIGhyZWY9Imh0dHA6Ly93d3cuYmlibGVzZXJ2ZXIuY29tL1ZVTC8xLk1vc2UyMCI+aHR0cDov
+L3d3dy5iaWJsZXNlcnZlci5jb20vVlVMLzEuTW9zZTIwPC9hPjxicj4KICAgIDxicj4KICAgIFRo
+ZSBxdWVzdGlvbiBmb3IgdGhlIHF1YWxpdHkgYW5kIHJlbGlhYmlsaXR5IG9mIHRoZSB0ZXh0IHJl
+bWFpbnMuCiAgICBUaGlzIGlzIGNvbm5lY3RlZCB0byB0aGUgdHJ1c3R3b3J0aGluZXNzIG9mIHRo
+ZSBpbnN0aXR1dGlvbiBiZWhpbmQKICAgIGJpYmxlc2VydmVyLmNvbS4gPGJyPgogICAgQW5kIGFu
+IGFkZHJlc3MgbGlrZSA8YSBjbGFzcz0ibW96LXR4dC1saW5rLWZyZWV0ZXh0IiBocmVmPSJodHRw
+Oi8vd3d3LmJpYmxlc2VydmVyLmNvbS9WVUwvMS5Nb3NlMjAiPmh0dHA6Ly93d3cuYmlibGVzZXJ2
+ZXIuY29tL1ZVTC8xLk1vc2UyMDwvYT4gaGFzIHRvCiAgICBiZSB1bmRlcnN0b29kIGFzIGEgImRl
+ZmF1bHQiLiBTbyBldmVuIG1vcmUgY29tcGxleCBzeXN0ZW1zIGFyZQogICAgcG9zc2libGUgaGVy
+ZS4gSWYgdGhlcmUgd2VyZSB2YXJpYW50IGVkaXRpb25zIG9mIHRoZSBWdWxnYXRhIGZyb20KICAg
+IHdoaWNoIHRleHRzIGhhdmUgYmVlbiB0YWtlbiwgdGhlbgogICAgPGEgY2xhc3M9Im1vei10eHQt
+bGluay1mcmVldGV4dCIgaHJlZj0iaHR0cDovL3d3dy5iaWJsZXNlcnZlci5jb20vVlVMLzEuTW9z
+ZTIwIj5odHRwOi8vd3d3LmJpYmxlc2VydmVyLmNvbS9WVUwvMS5Nb3NlMjA8L2E+IHdvdWxkIGp1
+c3QgcmVzdWx0IGluIHdoYXQKICAgIHdvdWxkIGJlIHN0YXRlZCB0byBiZSB0aGUgImNhbm9uaWMi
+IHZlcnNpb24gb2YgdGhhdCB2ZXJzZS4gQnV0CiAgICA8YSBjbGFzcz0ibW96LXR4dC1saW5rLWZy
+ZWV0ZXh0IiBocmVmPSJodHRwOi8vd3d3LmJpYmxlc2VydmVyLmNvbS9WVUwvZWRpdGlvblgvMS5N
+b3NlMjAiPmh0dHA6Ly93d3cuYmlibGVzZXJ2ZXIuY29tL1ZVTC9lZGl0aW9uWC8xLk1vc2UyMDwv
+YT4gd291bGQgbGVhZCB0byBhCiAgICBzcGVjaWZpYyBlZGl0aW9uLCBhbmQmbmJzcDsKICAgIDxh
+IGNsYXNzPSJtb3otdHh0LWxpbmstZnJlZXRleHQiIGhyZWY9Imh0dHA6Ly93d3cuYmlibGVzZXJ2
+ZXIuY29tL1ZVTC9lZGl0aW9uWC8xLk1vc2UyMC9pbWFnZSI+aHR0cDovL3d3dy5iaWJsZXNlcnZl
+ci5jb20vVlVML2VkaXRpb25YLzEuTW9zZTIwL2ltYWdlPC9hPiB3b3VsZCBsZWFkIHRvCiAgICBh
+IGRpZ2l0YWwgaW1hZ2Ugb2YgdGhlIHByaW50ZWQgcGFnZSBpbnN0ZWFkIG9mIHRoZSAiZGVmYXVs
+dCIKICAgIHByZXNlbnRhdGlvbiBvZiB0aGUgdGV4dCBhcyB0ZXh0IC4uLjxicj4KICAgIDxicj4K
+ICAgIE5vIG5lZWQgdG8gc2F5LCB0aGF0IHdlIHdhbnQgdG8gaGF2ZSB0aGVzZSAiY2Fub25pYyBh
+ZGRyZXNzZXMiIG5vdAogICAganVzdCBmb3IgdGhlIGJpYmxlIGJ1dCBmb3IgcG90ZW50aWFsbHkg
+ZXZlcnl0aGluZyAodGhhdCB3ZSB3YW50IHRvCiAgICB0YWxrIGFib3V0KS48YnI+CiAgICA8YnI+
+CiAgICBCZXN0LCBQYXRyaWNrPGJyPgogICAgPGJyPgogICAgPGJyPgogICAgQW0gMjkuMDYuMjAx
+MSAxNTo1OSwgc2NocmllYiBDaGFybGVzIEUuIEpvbmVzOgogICAgPGJsb2NrcXVvdGUgY2l0ZT0i
+bWlkOjIwMTEwNjI5MDg1OTU3LkFTRTIyODIwQG1zdG9yZTAwLnVjaGljYWdvLmVkdSIKICAgICAg
+dHlwZT0iY2l0ZSI+CiAgICAgIDxwcmUgd3JhcD0iIj5JIGhhdmUgYXNzZW1ibGVkIGxpbmtzIHRv
+IGV2ZXJ5dGhpbmcgY2l0ZWQgaW4gdGhpcyB0aHJlYWQgaW4gQVdPTDoKPGEgY2xhc3M9Im1vei10
+eHQtbGluay1mcmVldGV4dCIgaHJlZj0iaHR0cDovL2FuY2llbnR3b3JsZG9ubGluZS5ibG9nc3Bv
+dC5jb20vMjAxMS8wNi9vbmxpbmUtYmlibGUtdG9vbHMuaHRtbCI+aHR0cDovL2FuY2llbnR3b3Js
+ZG9ubGluZS5ibG9nc3BvdC5jb20vMjAxMS8wNi9vbmxpbmUtYmlibGUtdG9vbHMuaHRtbDwvYT4K
+CkknbGwgYWRkIG90aGVycyBhcyBJIGVuY291bnRlciB0aGVtLiAgUGxlYXNlIGxldCBtZSBrbm93
+IGlmIHlvdSBoYXZlIHN1Z2dlc3Rpb25zLgoKLUNodWNrIEpvbmVzLQpJU0FXIC0gTllVCgo8L3By
+ZT4KICAgIDwvYmxvY2txdW90ZT4KICAgIDxkaXYgY2xhc3M9Im1vei1zaWduYXR1cmUiPgogICAg
+ICA8aHI+CiAgICAgIEEpIDxhIGhyZWY9Imh0dHA6Ly93d3cuY2NlaC51bmkta29lbG4uZGUvIj5D
+b2xvZ25lIENlbnRlciBmb3IKICAgICAgICBlSHVtYW5pdGllcyAoQ0NlSCk8L2E+IChTZWNyZXRh
+cnkpPGJyPgogICAgICBCKSA8YSBocmVmPSJodHRwOi8vZGUuZGFyaWFoLmV1LyI+REFSSUFILURF
+IChEaWdpdGFsIFJlc2VhcmNoCiAgICAgICAgSW5mcmFzdHJ1Y3R1cmUgZm9yIHRoZSBBcnRzIGFu
+ZCBIdW1hbml0aWVzKTwvYT4gKFJlc2VhcmNoCiAgICAgIEFzc29jaWF0ZSk8YnI+CiAgICAgIEMp
+IDxhIGhyZWY9Imh0dHA6Ly93d3cuaGtpLnVuaS1rb2Vsbi5kZS8iPkh1bWFuaXRpZXMgQ29tcHV0
+ZXIKICAgICAgICBTY2llbmNlLCBVbml2ZXJzaXR5IG9mIENvbG9nbmU8L2E+IChSZXNlYXJjaCBB
+c3NvY2lhdGUpPGJyPgogICAgICBEKSA8YQpocmVmPSJodHRwczovL29ubGluZS51bmktZ3Jhei5h
+dC9rZnVfb25saW5lL3Zpc2l0ZW5rYXJ0ZS5zaG93X3ZjYXJkP3BQZXJzb25lbkdydXBwZT0zJmFt
+cDtwUGVyc29uZW5JZD00RkNFNThGQTZEQzgwMTE4Ij5LYXJsLUZyYW56ZW5zLVVuaXZlcnNpdCZh
+dW1sO3QKICAgICAgICBHcmF6PC9hPiAoR3Vlc3QgUHJvZmVzc29yKTxicj4KICAgICAgRSkgPGEg
+aHJlZj0iaHR0cDovL3d3dy5pLWQtZS5kZSI+SW5zdGl0dXQgZiZ1dW1sO3IgRG9rdW1lbnRvbG9n
+aWUgdW5kCiAgICAgICAgRWRpdG9yaWs8L2E+IChNZW1iZXIpPGJyPgogICAgICA8YnI+CiAgICAg
+IFBvc3Q6IEhpc3RvcmlzY2gtS3VsdHVyd2lzc2Vuc2NoYWZ0bGljaGUgSW5mb3JtYXRpb25zdmVy
+YXJiZWl0dW5nLAogICAgICBVbml2ZXJzaXQmYXVtbDt0IHp1IEsmb3VtbDtsbiwgQWxiZXJ0dXMt
+TWFnbnVzLVBsYXR6LCBELTUwOTIzIEsmb3VtbDtsbjxicj4KICAgICAgQiZ1dW1sO3JvOiBVbml2
+ZXJzaXQmYXVtbDt0c3N0ci4gMjIsIERhY2hnZXNjaG9zcyBsaW5rczxicj4KICAgICAgVGVsZWZv
+bjogKzQ5IC0gKDApMjIxIC0gNDcwIDE3NTAKICAgICAgPGhyPgogICAgICBadXIgUGVyc29uOiA8
+YSBocmVmPSJodHRwOi8vd3d3LnVuaS1rb2Vsbi5kZS8lN0VhaHoyNiI+aHR0cDovL3d3dy51bmkt
+a29lbG4uZGUvfmFoejI2PC9hPjwvZGl2PgogIDwvYm9keT4KPC9odG1sPgo=

@@ -1,0 +1,29 @@
+Subject: Re: [dm-l] palaeography and computingIl lun, 2004-06-28 alle 23:39, Murray McGillivray ha scritto:
+> 
+> I've been working on/with a DTD for manuscript transcription for some 
+> time that takes physical features (quires, pages, text areas etc.) as 
+> primary and that has a section (based to some extent on the TEI P3 
+> Writing System Declaration) where each glyph used in the manuscript 
+> including ligatures or junctures (sorted by hand and script) can be 
+> described, linked to a typical image or more and a transcription and 
+> transliteration, and assigned Unicode or other code points. Is that the 
+> sort of thing you're asking about? (If you want instead to annotate 
+> paleographic events or oddities in the course of running transcription, 
+> like a four-minim letter "m", the current TEI note provisions may well 
+> be adequate.) This transcription DTD of mine is not really ready for 
+> prime time, but if it seems to be the kind of thing you're looking for, 
+> I'm happy to share. (This is not the DTD on the Web site I referred to a 
+> few days ago, though that simplified one is composed of elements 
+> extracted from it.)I'm also very interested in this. Could it work as a TEI extension? (I
+hope this is no a too naive question :) Have you thought about proposing
+it to the TEI editors for P5? I see a lot of work poured into manuscript
+*description*, but very little wrt ms *transcription*, improving on the
+current "Transcription of Primary Sources" chapter. Of course feel free
+to correct me anytime, Lou :)Ciao-- Roberto Rosselli Del Turco	roberto.rossellidelturco at unito.it
+Dipartimento di Scienze		rosselli at ling.unipi.it
+del Linguaggio			Then spoke the thunder	DA
+Universita' di Torino		Datta: what have we given?  (TSE)
+ 
+  Hige sceal the heardra,     heorte the cenre,
+  mod sceal the mare,       the ure maegen litlath.  (Maldon 312-3)
+--===============5683220406795679805==--

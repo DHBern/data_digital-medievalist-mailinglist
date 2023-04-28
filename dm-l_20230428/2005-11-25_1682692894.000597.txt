@@ -1,0 +1,39 @@
+Subject: Re: [dm-l] open source XML-editor?Hi Benjamin!Il giorno ven, 25/11/2005 alle 19.01 +0100, Benjamin Burkard ha scritto:
+> Hi everybody,
+> 
+> I am looking for an open source XML-editor that hides the fact from the 
+> user that XML is actually being used. One more criterion is that it 
+> should be written in Java. Does anyone know of a tool like that?This one matches your requisites:http://vex.sourceforge.net/Unfortunately it's still in alpha state and development seems to have
+slowed down recently, but admittedly I'm not subscribed to the
+developers' mailing list.[...]> What I am trying to do is to hide the fact that XML is being used from 
+> the user to make it more comfortable to use for historians.
+> 
+> I am not quite sure yet about how I am going to do it, but so far to me 
+> the best way seems to be using icons that have the name of the tag 
+> inside and either point to the right for a start tag or to the left for 
+> an end tag (the commercial editor XMetaL uses a similar syntax in one of 
+> its views). If the mouse points to either the start or the endtag the 
+> corresponding tag should change the color so that it's easier to find. 
+> Aside from that to the right of the textfield the corresponding 
+> attributes should be shown and made editable.
+> 
+> If anyone knows better ways or existing open source solutions I would be 
+> very happy to hear about it!As Vex modify the WYSIWIG rendering on the basis of a plain CSS style
+sheet, it should be easy to customize it so that a specific visual
+rendering (background color, bold/italics, etc.) corresponds to a
+specific "semantic" tag.> As a second step of development it is planned to implement a versioning 
+> system that is able to show the differences between two XML-files - 
+> again without the user knowing that XML is being used.No idea about this one, sorry.> Again, if anyone knows existing solutions to this problem I would be 
+> glad to know! If anybody is attempting to reach a similar goal I would 
+> be happy to collaborate!I started preparing a CSS style sheet for TEI Lite some time ago, but
+put it aside because of some rendering problem in Vex' engine. The main
+developer is a very friendly guy, though, if the project is still under
+active development (and becomes stable enough, that also must be said) I
+would be interested in collaborating on this and possibly similar style
+sheets.Ciao-- 
+Roberto Rosselli Del Turco      roberto.rossellidelturco at unito.it
+Dipartimento di Scienze         rosselli at ling.unipi.it
+del Linguaggio                  Then spoke the thunder  DA
+Universita' di Torino           Datta: what have we given?  (TSE)   Hige sceal the heardra,     heorte the cenre,
+   mod sceal the mare,       the ure maegen litlath.  (Maldon 312-3)
+--===============2494604319711278243==--

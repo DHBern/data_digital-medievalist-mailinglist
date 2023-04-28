@@ -1,0 +1,39 @@
+Subject: Re: [dm-l] [Fwd: encoding  maps, graphics with text?] Problems	with From the reactions yesterday, it became apparent them many institutions 
+and systems worldwide are blocking port 8080 traffic. For the current 
+Graves project that's not a problem, because it's in early phases and not 
+really "public" yet, but it did surprise me; it's the default port for 
+Tomcat, I think. It's taught me that when we move it to a more stable 
+location, we need to set up an alias in Apache so that all Tomcat and eXist 
+sites are channeled through Apache and so appear to come from port 80.The "PHP works" page is served by Apache on port 80, so that's not a problem.Cheers,
+MartinAt 02:55 AM 08/07/2004, you wrote:
+>Content-Transfer-Encoding: 7bit
+>
+>I have tried with various browsers, but all naturally in Mac OS X, and from
+>different places, and just cannot get through.  I get 'the operation timed
+>out when trying to connect to..' or just 'cannot connect to..'
+>I am trying
+>http://lingo.dcf.uvic.ca:8080/exist/graves/index.xml
+>When I try just http://lingo.dcf.uvic.ca I get the cryptic 'PHP works'.
+>ON the face of it, it looks like something to do with port 8080.  And
+>checking, I discover..
+>   1. I do not seem able to connect to any sites with 8080
+>   2.  But can connect to: 8000, 8081, etc
+>   3.  There is nothing in the settings in this computer which appears to bar
+>access to any ports 8080.  Netstat does not show anything running on a 8080
+>So very odd indeed
+>Anyone else see this behaviour?
+>Peter
+>
+>
+>_______________________________________________
+>dm-l mailing list
+_redacted_(a)uleth.ca
+>http://listserv.uleth.ca/mailman/listinfo/dm-l______________________________________
+Martin Holmes
+University of Victoria Humanities Computing and Media Centre
+_redacted_(a)uvic.ca
+_redacted_(a)mholmes.com
+_redacted_(a)halfbakedsoftware.com
+http://www.mholmes.com
+http://web.uvic.ca/hcmc/
+http://www.halfbakedsoftware.com

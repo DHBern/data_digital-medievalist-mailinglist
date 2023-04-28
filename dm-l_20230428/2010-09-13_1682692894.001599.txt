@@ -1,0 +1,112 @@
+Subject: [dm-l] Digital Papyrology position at NYUFeel free to contact me with questions.Hugh> New York University
+> Programmer/Analyst
+> 
+> New York University's Division of the Libraries seeks a
+> Programmer/Analyst to work on the "Papyrological Navigator"
+> (http://papyri.info) and associated systems.  Papyri.info is a
+> web-based research portal that provides scholars worldwide with the
+> ability to search, browse and collaboratively edit texts,
+> transcriptions, images and metadata relating to ancient texts on
+> papyri, pottery fragments and other material.  The incumbent will work
+> closely with the Project Coordinator and with scholars involved in the
+> project at NYU's Institute for the Study of the Ancient World, Duke
+> University, the University of Kentucky and the University of
+> Heidelberg, as well as with NYU Digital Library Technology staff.
+> 
+> The incumbent's initial responsibilities will include: close
+> collaboration with project team members to enhance and extend a robust
+> production environment at NYU for the ongoing ingest and processing of
+> new and updated text transcriptions, metadata and digital images;
+> performing both analysis and programming of any required changes or
+> enhancements to current PN applications.
+> 
+> Candidates should have the following skills:
+>    * Bachelor's degree in computer or information science and 3 years
+>      of relevant experience or equivalent combination
+>    * Must include experience developing web applications using Java
+>    * Demonstrated knowledge of Java, Javascript, Tomcat, Saxon,
+>      Lucene, Apache, SQL, XML, XSLT
+>    * Experience with metadata standards (e.g. TEI, EpiDoc)
+>    * Experience working in Unix/Linux environments
+>    * Preferred: Experience with Apache Solr, RDF triple stores
+>        (e.g. Mulgara), Clojure
+>    * Preferred: Experience designing, building, and deploying
+>        distributed systems
+>    * Preferred: Experience working with non-Roman Unicode-based
+>        textual data (esp. Greek)
+>    * Excellent communication and analytical skills
+> 
+> Applicants should submit resume and cover letter, which reflects how
+> applicant's education and experience match the job requirements.
+> 
+> NYU offers a competitive salary and superior benefit package, which
+> includes tuition benefits for self and eligible family members,
+> generous vacation, medical, dental, and retirement plans. For more
+> information about working at NYU visit our website at: www.nyucareers.com.
+> 
+> To apply:
+> 
+> To apply for this position online, visit
+> http://www.nyucareers.com/applicants/Central?quickFind=52507
+> 
+> NYU is an Equal Opportunity/Affirmative Action Employer.PGh0bWw+PGhlYWQ+PC9oZWFkPjxib2R5IHN0eWxlPSJ3b3JkLXdyYXA6IGJyZWFrLXdvcmQ7IC13
+ZWJraXQtbmJzcC1tb2RlOiBzcGFjZTsgLXdlYmtpdC1saW5lLWJyZWFrOiBhZnRlci13aGl0ZS1z
+cGFjZTsgIj48ZGl2PkZlZWwgZnJlZSB0byBjb250YWN0IG1lIHdpdGggcXVlc3Rpb25zLjwvZGl2
+PjxkaXY+PGJyPjwvZGl2PjxkaXY+SHVnaDwvZGl2PjxkaXY+PGJyPjwvZGl2PjxibG9ja3F1b3Rl
+IHR5cGU9ImNpdGUiPk5ldyBZb3JrIFVuaXZlcnNpdHk8YnI+PC9ibG9ja3F1b3RlPjxibG9ja3F1
+b3RlIHR5cGU9ImNpdGUiPlByb2dyYW1tZXIvQW5hbHlzdDxicj48YnI+TmV3IFlvcmsgVW5pdmVy
+c2l0eSdzIERpdmlzaW9uIG9mIHRoZSBMaWJyYXJpZXMgc2Vla3MgYTxicj5Qcm9ncmFtbWVyL0Fu
+YWx5c3QgdG8gd29yayBvbiB0aGUgIlBhcHlyb2xvZ2ljYWwgTmF2aWdhdG9yIjxicj4oPGEgaHJl
+Zj0iaHR0cDovL3BhcHlyaS5pbmZvLyI+aHR0cDovL3BhcHlyaS5pbmZvPC9hPikgYW5kIGFzc29j
+aWF0ZWQgc3lzdGVtcy4gJm5ic3A7PGEgaHJlZj0iaHR0cDovL1BhcHlyaS5pbmZvLyI+UGFweXJp
+LmluZm88L2E+Jm5ic3A7aXMgYTxicj53ZWItYmFzZWQgcmVzZWFyY2ggcG9ydGFsIHRoYXQgcHJv
+dmlkZXMgc2Nob2xhcnMgd29ybGR3aWRlIHdpdGggdGhlPGJyPmFiaWxpdHkgdG8gc2VhcmNoLCBi
+cm93c2UgYW5kIGNvbGxhYm9yYXRpdmVseSBlZGl0IHRleHRzLDxicj50cmFuc2NyaXB0aW9ucywg
+aW1hZ2VzIGFuZCBtZXRhZGF0YSByZWxhdGluZyB0byBhbmNpZW50IHRleHRzIG9uPGJyPnBhcHly
+aSwgcG90dGVyeSBmcmFnbWVudHMgYW5kIG90aGVyIG1hdGVyaWFsLiAmbmJzcDtUaGUgaW5jdW1i
+ZW50IHdpbGwgd29yazxicj5jbG9zZWx5IHdpdGggdGhlIFByb2plY3QgQ29vcmRpbmF0b3IgYW5k
+IHdpdGggc2Nob2xhcnMgaW52b2x2ZWQgaW4gdGhlPGJyPnByb2plY3QgYXQgTllVJ3MgSW5zdGl0
+dXRlIGZvciB0aGUgU3R1ZHkgb2YgdGhlIEFuY2llbnQgV29ybGQsIER1a2U8YnI+VW5pdmVyc2l0
+eSwgdGhlIFVuaXZlcnNpdHkgb2YgS2VudHVja3kgYW5kIHRoZSBVbml2ZXJzaXR5IG9mPGJyPkhl
+aWRlbGJlcmcsIGFzIHdlbGwgYXMgd2l0aCBOWVUgRGlnaXRhbCBMaWJyYXJ5IFRlY2hub2xvZ3kg
+c3RhZmYuPGJyPjxicj5UaGUgaW5jdW1iZW50J3MgaW5pdGlhbCByZXNwb25zaWJpbGl0aWVzIHdp
+bGwgaW5jbHVkZTogY2xvc2U8YnI+Y29sbGFib3JhdGlvbiB3aXRoIHByb2plY3QgdGVhbSBtZW1i
+ZXJzIHRvIGVuaGFuY2UgYW5kIGV4dGVuZCBhIHJvYnVzdDxicj5wcm9kdWN0aW9uIGVudmlyb25t
+ZW50IGF0IE5ZVSBmb3IgdGhlIG9uZ29pbmcgaW5nZXN0IGFuZCBwcm9jZXNzaW5nIG9mPGJyPm5l
+dyBhbmQgdXBkYXRlZCB0ZXh0IHRyYW5zY3JpcHRpb25zLCBtZXRhZGF0YSBhbmQgZGlnaXRhbCBp
+bWFnZXM7PGJyPnBlcmZvcm1pbmcgYm90aCBhbmFseXNpcyBhbmQgcHJvZ3JhbW1pbmcgb2YgYW55
+IHJlcXVpcmVkIGNoYW5nZXMgb3I8YnI+ZW5oYW5jZW1lbnRzIHRvIGN1cnJlbnQgUE4gYXBwbGlj
+YXRpb25zLjxicj48YnI+Q2FuZGlkYXRlcyBzaG91bGQgaGF2ZSB0aGUgZm9sbG93aW5nIHNraWxs
+czo8YnI+Jm5ic3A7Jm5ic3A7Jm5ic3A7KiBCYWNoZWxvcidzIGRlZ3JlZSBpbiBjb21wdXRlciBv
+ciBpbmZvcm1hdGlvbiBzY2llbmNlIGFuZCAzIHllYXJzPGJyPiZuYnNwOyZuYnNwOyZuYnNwOyZu
+YnNwOyZuYnNwO29mIHJlbGV2YW50IGV4cGVyaWVuY2Ugb3IgZXF1aXZhbGVudCBjb21iaW5hdGlv
+bjxicj4mbmJzcDsmbmJzcDsmbmJzcDsqIE11c3QgaW5jbHVkZSBleHBlcmllbmNlIGRldmVsb3Bp
+bmcgd2ViIGFwcGxpY2F0aW9ucyB1c2luZyBKYXZhPGJyPiZuYnNwOyZuYnNwOyZuYnNwOyogRGVt
+b25zdHJhdGVkIGtub3dsZWRnZSBvZiBKYXZhLCBKYXZhc2NyaXB0LCBUb21jYXQsIFNheG9uLDxi
+cj4mbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDtMdWNlbmUsIEFwYWNoZSwgU1FMLCBYTUws
+IFhTTFQ8YnI+Jm5ic3A7Jm5ic3A7Jm5ic3A7KiBFeHBlcmllbmNlIHdpdGggbWV0YWRhdGEgc3Rh
+bmRhcmRzIChlLmcuIFRFSSwgRXBpRG9jKTxicj4mbmJzcDsmbmJzcDsmbmJzcDsqIEV4cGVyaWVu
+Y2Ugd29ya2luZyBpbiBVbml4L0xpbnV4IGVudmlyb25tZW50czxicj4mbmJzcDsmbmJzcDsmbmJz
+cDsqIFByZWZlcnJlZDogRXhwZXJpZW5jZSB3aXRoIEFwYWNoZSBTb2xyLCBSREYgdHJpcGxlIHN0
+b3Jlczxicj4mbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsoZS5nLiBN
+dWxnYXJhKSwgQ2xvanVyZTxicj4mbmJzcDsmbmJzcDsmbmJzcDsqIFByZWZlcnJlZDogRXhwZXJp
+ZW5jZSBkZXNpZ25pbmcsIGJ1aWxkaW5nLCBhbmQgZGVwbG95aW5nPGJyPiZuYnNwOyZuYnNwOyZu
+YnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwO2Rpc3RyaWJ1dGVkIHN5c3RlbXM8YnI+Jm5ic3A7
+Jm5ic3A7Jm5ic3A7KiBQcmVmZXJyZWQ6IEV4cGVyaWVuY2Ugd29ya2luZyB3aXRoIG5vbi1Sb21h
+biBVbmljb2RlLWJhc2VkPGJyPiZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZu
+YnNwO3RleHR1YWwgZGF0YSAoZXNwLiBHcmVlayk8YnI+Jm5ic3A7Jm5ic3A7Jm5ic3A7KiBFeGNl
+bGxlbnQgY29tbXVuaWNhdGlvbiBhbmQgYW5hbHl0aWNhbCBza2lsbHM8YnI+PGJyPkFwcGxpY2Fu
+dHMgc2hvdWxkIHN1Ym1pdCByZXN1bWUgYW5kIGNvdmVyIGxldHRlciwgd2hpY2ggcmVmbGVjdHMg
+aG93PGJyPmFwcGxpY2FudCdzIGVkdWNhdGlvbiBhbmQgZXhwZXJpZW5jZSBtYXRjaCB0aGUgam9i
+IHJlcXVpcmVtZW50cy48YnI+PGJyPk5ZVSBvZmZlcnMgYSBjb21wZXRpdGl2ZSBzYWxhcnkgYW5k
+IHN1cGVyaW9yIGJlbmVmaXQgcGFja2FnZSwgd2hpY2g8YnI+aW5jbHVkZXMgdHVpdGlvbiBiZW5l
+Zml0cyBmb3Igc2VsZiBhbmQgZWxpZ2libGUgZmFtaWx5IG1lbWJlcnMsPGJyPmdlbmVyb3VzIHZh
+Y2F0aW9uLCBtZWRpY2FsLCBkZW50YWwsIGFuZCByZXRpcmVtZW50IHBsYW5zLiBGb3IgbW9yZTxi
+cj5pbmZvcm1hdGlvbiBhYm91dCB3b3JraW5nIGF0IE5ZVSB2aXNpdCBvdXIgd2Vic2l0ZSBhdDom
+bmJzcDs8YSBocmVmPSJodHRwOi8vd3d3Lm55dWNhcmVlcnMuY29tLyI+d3d3Lm55dWNhcmVlcnMu
+Y29tPC9hPi48YnI+PGJyPlRvIGFwcGx5Ojxicj48YnI+VG8gYXBwbHkgZm9yIHRoaXMgcG9zaXRp
+b24gb25saW5lLCB2aXNpdDxicj48YSBocmVmPSJodHRwOi8vd3d3Lm55dWNhcmVlcnMuY29tL2Fw
+cGxpY2FudHMvQ2VudHJhbD9xdWlja0ZpbmQ9NTI1MDciPmh0dHA6Ly93d3cubnl1Y2FyZWVycy5j
+b20vYXBwbGljYW50cy9DZW50cmFsP3F1aWNrRmluZD01MjUwNzwvYT48YnI+PGJyPk5ZVSBpcyBh
+biBFcXVhbCBPcHBvcnR1bml0eS9BZmZpcm1hdGl2ZSBBY3Rpb24gRW1wbG95ZXIuPC9ibG9ja3F1
+b3RlPjwvYm9keT48L2h0bWw+

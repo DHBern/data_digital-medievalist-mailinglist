@@ -1,0 +1,14 @@
+Subject: [dm-l] Junicode's new homeIt's been a month and ten days since I moved Junicode, the font for 
+medievalists, to Sourceforge, the big Open Source software distribution 
+service. Today I'm celebrating the 999th download from that site by 
+releasing version 0.6.7, which fixes bugs and continues to chase after 
+the Medieval Unicode Font Initiative specification. The new URL is 
+http://junicode.sourceforge.net.If you have Junicode and have not updated your copy lately, I urge you 
+to do so, for it continues to offer new features. Recent additions, for 
+example, include characters in all styles for the transliteration of 
+medieval Arabic and characters and OpenType features to support African 
+languages. If you wish to keep up with releases (and I suggest you do, 
+since releases include bug fixes and cosmetic improvements as well as 
+new features), you can sign up at the Junicode website for the 
+junicode-announce mailing list, which I promise will emit an e-mail 
+*exclusively* when a new release is posted.Peter Baker

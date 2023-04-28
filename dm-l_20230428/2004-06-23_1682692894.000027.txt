@@ -1,0 +1,61 @@
+Subject: [dm-l] Useful free tools for finding unicode charactersThe discussion of Junicode Wynn raises an interesting question: how can 
+I find whether my system has a particular unicode character on it? For 
+those who don't know, unicode is a universal coding system to describe 
+characters (see <http://www.unicode.org/>). Before unicode, characters 
+were largely associated with letters on the keyboard (I'm simplifying a 
+bit). A predecessor of Peter Baker's Unicode font, Times Old English, 
+used to work this way, for example. When you switched to that font in a 
+wordprocessor and typed a letter (let's say "t"), some other character 
+would appear on your screen (let's say thorn). The trouble was if you 
+didn't have the right font, there was no way of recovering the missing 
+character. What you intended as "thorn" would appear to your reader as "t".Unicode solves this problem by assigning individual characters a unique 
+code point (there are millions of these code points available in the 
+system). This means in theory (and largely in practice) that you no 
+longer need to rely on a user having exactly your font in order to see 
+your character; in fact you don't even need to know which font they will 
+use: as long as they have a font that has the character in it, your 
+document will be readable.In practice it isn't quite that simple, since many characters are not 
+found in all or even many fonts. Wynn (01BF) is one of them. On my 
+Windows XP system (which has hundreds of fonts installed), Wynn is 
+present in only two: Junicode and Lucinda Sans Unicode. So while I can 
+indicate that I mean wynn in a document by using the unicode code point 
+01BF, there is a good chance my user may not be able to see an actual 
+wynn in my document unless, once again, they have the right fonts. If a 
+character is commonly font in many fonts, you don't have to worry very 
+much; if it is quite rarely included in fonts, you may have to provide a 
+link to a font containing the right character.So how does one know if a specific character is a) present on my system 
+or b) commonly or rarely found in fonts? There are several free tools 
+and techniques you can use (these are windows based tools: I'd be 
+interested in hearing about linux or mac based ones).One way of finding out if you have the character at all is to create a 
+simple HTML document with the character and load it into a Mozilla-based 
+browser (Netscape, Mozilla, K-meleon). These browsers have an algorithm 
+they use to try and discover if any font on your system has characters 
+required by your document but missing in the default font. It isn't 
+perfect, but it is pretty good. If any font on your system has the 
+character, these browsers are likely to find it.What they won't tell you is how common the character is or which fonts 
+have the character you are looking for. To find out which specific fonts 
+have your character, I recommend a tool built by Conal Tuohy, "Find 
+Glyph." This is a small, quick, and simple utility that allows you to 
+find out which fonts have the Unicode point you are looking for. I used 
+this to find out that I have two fonts with wynn, for example. Find 
+Glyph is available for free download at 
+<http://www.nzetc.org/downloads/find-glyph.zip>.Another useful utility which seems to come and go on the web is Bjondi 
+International's Character Agent. This won't tell you which fonts have a 
+given character (I should be using the correct term, which is glyph, 
+actually). But it does allow you to scroll through all the fonts on your 
+system at a given unicode point regardless of whether the font in 
+question has the character you are looking for (this is better than 
+Character Map, a Windows utility, as Character Map only shows points in 
+a font that have an actual glyph present). That was how I found out that 
+Wynn is located in the Latin Extended B subrange. Character Agent is 
+free, but I wasn't able to find a working link to it right now after a 
+very quick search (Google throws up some links, but they seem to be 
+outdated).Does anybody know of other handy tools?-dan-- 
+Daniel Paul O'Donnell, PhD
+Associate Professor of English
+University of Lethbridge
+Lethbridge AB T1K 3M4
+Tel. (403) 329-2377
+Fax. (403) 382-7191
+_redacted_(a)uleth.ca>
+Home Page <http://people.uleth.ca/~daniel.odonnell/>

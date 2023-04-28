@@ -1,0 +1,141 @@
+Subject: Re: [dm-l] Image Content in Digital Projects and MetadataDear Harriet,The degree to which images are described in TEI and the frequency varies=20
+of course as much as there are projects creating manuscript=20
+descriptions. A higher standardization and deeper structuring of the=20
+content of <decoDesc>s and <decoNote>s is desirable - but hard to=20
+achieve for the lack of a common terminology or taxonomy and not least=20
+for the lack of expertise of cataloguers.BTW, there is a selected bibliography on decoration of manuscripts by=20
+Hanna Vorholt available on the DiXiT webpage (course material of MMSDA=20
+2014):
+http://dixit.uni-koeln.de/mmsda-material.htmlBest, FranzAm 22.09.2014 14:45, schrieb Harriet Sonne de Torrens:
+> Thank you Franz. Your response is very useful. I am trying to determine how=
+ institutions are doing this, the degree to which images are described and th=
+e frequency. Thanks again,  Harriet.
+>
+> Harriet Sonne de Torrens, MA, MISt., Ph.D., L.M.S.
+> Librarian, Visual Resource Library
+> https://utoronto.academia.edu/HarrietSonnedeTorrens
+> Room 3021, CCT Building
+> University of Toronto Mississauga
+> 3359 Mississauga Road North
+> Mississauga ON  L5L 1C6
+_redacted_(a)utoronto.ca
+> Office: 905-569-4610
+>
+> -----Original Message-----
+_redacted_(a)uni-koeln.de]
+> Sent: September 17, 2014 3:48 AM
+> To: Harriet Sonne de Torrens
+> Cc: Digital Medievalist
+> Subject: Re: [dm-l] Image Content in Digital Projects and Metadata
+>
+> Dear Harriet,
+>
+> If the metadata is organised and represented in XML according to the TEI gu=
+idelines for manuscript description you should find information on images in =
+the decoration description (<decoDesc> and <decoNote> resp.).
+>
+> Best,
+> Franz
+>
+_redacted_(a)utoronto.ca>:
+>
+>> Dear Colleagues,
+>>
+>> I have a question for this esteemed group. As an art
+>> historian/medievalist and visual resource librarian, I am very
+>> interested in how institutions are addressing and including metadata
+>> for images in rare books and manuscripts which are being digitized.
+>> With the continual growth of digital projects it an important area.
+>> It is fantastic to have these wonderful collections digitized but a
+>> real frustration when image data cannot be located. I am wondering
+>> how this group is addressing this issue in their institutions? If
+>> you are addressing it, what schema for the image metadata you are
+>> using? Ideally, we would all want to be heading toward consistency
+>> and inter-collaborative schema for the sustainability of these
+>> projects in the future.
+>>
+>> If you have some time, I would be interested in hearing about this
+>> area and what some of the current challenges are. Thank you. Harriet.
+>>
+>> ------------------------------------
+>> Harriet Sonne de Torrens, MA, MISt., Ph.D., L.M.S.
+>> Librarian, Visual Resource Library
+>> https://utoronto.academia.edu/HarrietSonnedeTorrens
+>> Room 3021, CCT Building
+>> University of Toronto Mississauga
+>> 3359 Mississauga Road North
+>> Mississauga ON  L5L 1C6
+_redacted_(a)utoronto.ca
+>> Office: 905-569-4610
+>>
+>>
+>>
+>> -----Original Message-----
+_redacted_(a)uleth.ca] On Behalf Of Dan Mosser
+>> Sent: September 13, 2014 2:56 AM
+>> To: Digital Medievalist
+>> Subject: [dm-l] Filemaker Pro/MySQL/ODBC issue
+>>
+>> HI,
+>>
+>> I am currently migrating projects to a new server and have
+>> encountered difficulties with the Thomas L. Gravell Watermarks
+>> Archive database. As is summarized below, we have moved everything,
+>> confirmed that we can update a MySQL database on the new server
+>> using FMP and the ODBC driver, but the Gravell database itself is
+>> not communicating, despite updating scripts, etc. Has anyone on the
+>> list had recent experience with these issues? One problem is that it
+>> has been awhile since we have had to deal with a migration and there
+>> are some rusty chops! Thanks in advance for any insights. Here's the
+>> summary from my tech person:
+>>
+>> - Moved the MySQL database to the new server. Verified that the
+>> database user has all privileges to manage the database.
+>>
+>> - Verified that Port 3306 is open so the database can be managed remotely.
+>>
+>> - Installed the Actual Technologies ODBC Driver, created a new DSN
+>> for the MySQL database, and verified that we can connect to the
+>> MySQL database using ODBC.
+>>
+>> - Updated the FileMaker Pro scripts to use the new DSN we created.
+>>
+>> I can confirm that the MySQL database can be modified in FileMaker
+>> Pro via ODBC (I created a new FileMaker Pro database to test this),
+>> but something in the scripts in the existing FileMaker Pro database
+>> is preventing the ODBC connection from working.
+>> _____________________________
+>> Dan Mosser
+_redacted_(a)vt.edu
+>> _____________________________
+>> Digital index of Middle English Verse (www.dimev.net) Thomas L.
+>> Gravell Watermark Archive (www.gravell.org) A Digital Catalogue of
+>> the Pre-1500 Manuscripts and Incunables of the Canterbury Tales
+>> (http://www.mossercatalogue.net) CV (http://mosser.vtcath.org)
+>>
+>>
+>>
+>>
+>>
+>> Digital Medievalist --  http://www.digitalmedievalist.org/
+>> Journal: http://www.digitalmedievalist.org/journal/
+>> Journal Editors: editors _AT_ digitalmedievalist.org
+>> News: http://www.digitalmedievalist.org/news/
+>> Wiki: http://www.digitalmedievalist.org/wiki/
+>> Twitter: http://twitter.com/digitalmedieval
+>> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+_redacted_(a)uleth.ca
+>> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>>
+>> Digital Medievalist --  http://www.digitalmedievalist.org/
+>> Journal: http://www.digitalmedievalist.org/journal/
+>> Journal Editors: editors _AT_ digitalmedievalist.org
+>> News: http://www.digitalmedievalist.org/news/
+>> Wiki: http://www.digitalmedievalist.org/wiki/
+>> Twitter: http://twitter.com/digitalmedieval
+>> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+_redacted_(a)uleth.ca
+>> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>>
+>
+>

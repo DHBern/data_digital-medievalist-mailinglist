@@ -1,0 +1,216 @@
+Subject: Re: [dm-l] [Fwd: encoding  maps, graphics with text?]Yes, it's up and running. Nice site too. I'm browsing with Mozilla
+Firefox 0.7. Site seems to display itself correctly, though the
+javascript that pops up the yellow help tags has some positioning
+problems.
+ 
+y.s.,
+Joris_redacted_(a)uvic.ca 7/7/04 17:13:46 >>>At 01:34 AM 07/07/2004, you wrote:
+>Content-Transfer-Encoding: 7bit
+>
+>But alas
+>This website does not respond to meIt seems to be there this morning. It needs a modern browser (it's
+XHTML 
+with an XML declaration), but it's not particularly challenging from
+the 
+browser's point of view. Can anyone else see it?Cheers,
+Martin>Peter
+>
+>
+> > Hi there,
+> >
+> > Our Graves Diary project includes enclosures such as letters,
+telegrams
+> > etc. You can see the first few months of the markup (in TEI)
+accessible
+> > through an eXist/Cocoon interface here:
+> >
+> > <http://lingo.dcf.uvic.ca:8080/exist/graves/index.xml>
+> >
+> > Cheers,
+> > Martin
+> >
+> > At 01:21 PM 06/07/2004, you wrote:
+> >> Content-Transfer-Encoding: 7bit
+> >>
+> >> I believe somebody here was discussing this.
+> >> -dan
+> >>
+> >> -------- Original Message --------
+> >> Subject:        encoding maps, graphics with text?
+> >> Date:   Tue, 6 Jul 2004 16:15:23 -0400
+_redacted_(a)BROWN.EDU>
+_redacted_(a)BROWN.EDU>
+_redacted_(a)LISTSERV.BROWN.EDU
+> >>
+> >>
+> >>
+> >> Does anyone know of any projects which are using the TEI to
+encode
+> >> materials that have substantial graphical content as well as
+text,
+> >> e.g. maps, diagrams, that sort of thing? I'm interested in ways
+of
+> >> making explicit linkages between specific locations in a
+digitized
+> >> image and specific chunks of text in the encoded transcription.
+> >>
+> >> Many thanks! Julia
+> >>
+> >>
+> >> --
+> >> Daniel Paul O'Donnell, PhD
+> >> Associate Professor of English
+> >> University of Lethbridge
+> >> Lethbridge AB T1K 3M4
+> >> Tel. (403) 329-2377
+> >> Fax. (403) 382-7191
+_redacted_(a)uleth.ca>
+> >> Home Page <http://people.uleth.ca/~daniel.odonnell/>
+> >>
+> >>
+> >>
+> >>
+> >> _______________________________________________
+> >> dm-l mailing list
+_redacted_(a)uleth.ca
+> >> http://listserv.uleth.ca/mailman/listinfo/dm-l
+> >>
+> >
+> > ______________________________________
+> > Martin Holmes
+> > University of Victoria Humanities Computing and Media Centre
+_redacted_(a)uvic.ca
+_redacted_(a)mholmes.com
+_redacted_(a)halfbakedsoftware.com
+> > http://www.mholmes.com
+> > http://web.uvic.ca/hcmc/
+> > http://www.halfbakedsoftware.com
+> >
+> >
+> > _______________________________________________
+> > dm-l mailing list
+_redacted_(a)uleth.ca
+> > http://listserv.uleth.ca/mailman/listinfo/dm-l
+> >
+>
+>--
+>Centre for Technology and the Arts, www.cta.dmu.ac.uk
+>The Canterbury Tales Project, www.cta.dmu.ac.uk/projects/ctp
+>
+>
+>_______________________________________________
+>dm-l mailing list
+_redacted_(a)uleth.ca
+>http://listserv.uleth.ca/mailman/listinfo/dm-l______________________________________
+Martin Holmes
+University of Victoria Humanities Computing and Media Centre
+_redacted_(a)uvic.ca
+_redacted_(a)mholmes.com
+_redacted_(a)halfbakedsoftware.com
+http://www.mholmes.com
+http://web.uvic.ca/hcmc/
+http://www.halfbakedsoftware.com
+_______________________________________________
+dm-l mailing list
+_redacted_(a)uleth.ca
+http://listserv.uleth.ca/mailman/listinfo/dm-l
+--===============3567740174105719225==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"
+MIME-Version: 1.0PEhUTUw+PEhFQUQ+CjxNRVRBIGh0dHAtZXF1aXY9Q29udGVudC1UeXBlIGNvbnRlbnQ9InRleHQv
+aHRtbDsgY2hhcnNldD1pc28tODg1OS0xIj4KPE1FVEEgY29udGVudD0iTVNIVE1MIDYuMDAuMjgw
+MC4xNDAwIiBuYW1lPUdFTkVSQVRPUj48L0hFQUQ+CjxCT0RZIHN0eWxlPSJNQVJHSU46IDRweCA0
+cHggMXB4OyBGT05UOiAxMHB0IEFyaWFsOyBDT0xPUjogIzAwMDAwMCI+CjxESVY+WWVzLCBpdCdz
+IHVwIGFuZCBydW5uaW5nLiBOaWNlIHNpdGUgdG9vLiBJJ20gYnJvd3Npbmcgd2l0aCBNb3ppbGxh
+IEZpcmVmb3ggMC43LiBTaXRlIHNlZW1zIHRvIGRpc3BsYXkgaXRzZWxmIGNvcnJlY3RseSwgdGhv
+dWdoIHRoZSBqYXZhc2NyaXB0IHRoYXQgcG9wcyB1cCB0aGUgeWVsbG93IGhlbHAgdGFncyBoYXMg
+c29tZSBwb3NpdGlvbmluZyBwcm9ibGVtcy48L0RJVj4KPERJVj4mbmJzcDs8L0RJVj4KPERJVj55
+LnMuLDwvRElWPgo8RElWPkpvcmlzPC9ESVY+CjxESVY+PEJSPiZndDsmZ3Q7Jmd0OyBtaG9sbWVz
+QHV2aWMuY2EgNy83LzA0IDE3OjEzOjQ2ICZndDsmZ3Q7Jmd0OzxCUj48L0RJVj4KPERJViBzdHls
+ZT0iQ09MT1I6ICMwMDAwMDAiPkF0IDAxOjM0IEFNIDA3LzA3LzIwMDQsIHlvdSB3cm90ZTo8QlI+
+Jmd0O0NvbnRlbnQtVHJhbnNmZXItRW5jb2Rpbmc6IDdiaXQ8QlI+Jmd0OzxCUj4mZ3Q7QnV0IGFs
+YXM8QlI+Jmd0O1RoaXMgd2Vic2l0ZSBkb2VzIG5vdCByZXNwb25kIHRvIG1lPEJSPjxCUj5JdCBz
+ZWVtcyB0byBiZSB0aGVyZSB0aGlzIG1vcm5pbmcuIEl0IG5lZWRzIGEgbW9kZXJuIGJyb3dzZXIg
+KGl0J3MgWEhUTUwgPEJSPndpdGggYW4gWE1MIGRlY2xhcmF0aW9uKSwgYnV0IGl0J3Mgbm90IHBh
+cnRpY3VsYXJseSBjaGFsbGVuZ2luZyBmcm9tIHRoZSA8QlI+YnJvd3NlcidzIHBvaW50IG9mIHZp
+ZXcuIENhbiBhbnlvbmUgZWxzZSBzZWUgaXQ/PEJSPjxCUj5DaGVlcnMsPEJSPk1hcnRpbjxCUj48
+QlI+Jmd0O1BldGVyPEJSPiZndDs8QlI+Jmd0OzxCUj4mZ3Q7ICZndDsgSGkgdGhlcmUsPEJSPiZn
+dDsgJmd0OzxCUj4mZ3Q7ICZndDsgT3VyIEdyYXZlcyBEaWFyeSBwcm9qZWN0IGluY2x1ZGVzIGVu
+Y2xvc3VyZXMgc3VjaCBhcyBsZXR0ZXJzLCB0ZWxlZ3JhbXM8QlI+Jmd0OyAmZ3Q7IGV0Yy4gWW91
+IGNhbiBzZWUgdGhlIGZpcnN0IGZldyBtb250aHMgb2YgdGhlIG1hcmt1cCAoaW4gVEVJKSBhY2Nl
+c3NpYmxlPEJSPiZndDsgJmd0OyB0aHJvdWdoIGFuIGVYaXN0L0NvY29vbiBpbnRlcmZhY2UgaGVy
+ZTo8QlI+Jmd0OyAmZ3Q7PEJSPiZndDsgJmd0OyAmbHQ7PEEgaHJlZj0iaHR0cDovL2xpbmdvLmRj
+Zi51dmljLmNhOjgwODAvZXhpc3QvZ3JhdmVzL2luZGV4LnhtbCI+aHR0cDovL2xpbmdvLmRjZi51
+dmljLmNhOjgwODAvZXhpc3QvZ3JhdmVzL2luZGV4LnhtbDwvQT4mZ3Q7PEJSPiZndDsgJmd0OzxC
+Uj4mZ3Q7ICZndDsgQ2hlZXJzLDxCUj4mZ3Q7ICZndDsgTWFydGluPEJSPiZndDsgJmd0OzxCUj4m
+Z3Q7ICZndDsgQXQgMDE6MjEgUE0gMDYvMDcvMjAwNCwgeW91IHdyb3RlOjxCUj4mZ3Q7ICZndDsm
+Z3Q7IENvbnRlbnQtVHJhbnNmZXItRW5jb2Rpbmc6IDdiaXQ8QlI+Jmd0OyAmZ3Q7Jmd0OzxCUj4m
+Z3Q7ICZndDsmZ3Q7IEkgYmVsaWV2ZSBzb21lYm9keSBoZXJlIHdhcyBkaXNjdXNzaW5nIHRoaXMu
+PEJSPiZndDsgJmd0OyZndDsgLWRhbjxCUj4mZ3Q7ICZndDsmZ3Q7PEJSPiZndDsgJmd0OyZndDsg
+LS0tLS0tLS0gT3JpZ2luYWwgTWVzc2FnZSAtLS0tLS0tLTxCUj4mZ3Q7ICZndDsmZ3Q7IFN1Ympl
+Y3Q6Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7IGVuY29kaW5nIG1h
+cHMsIGdyYXBoaWNzIHdpdGggdGV4dD88QlI+Jmd0OyAmZ3Q7Jmd0OyBEYXRlOiZuYnNwOyZuYnNw
+OyBUdWUsIDYgSnVsIDIwMDQgMTY6MTU6MjMgLTA0MDA8QlI+Jmd0OyAmZ3Q7Jmd0OyBGcm9tOiZu
+YnNwOyZuYnNwOyBKdWxpYSBGbGFuZGVycyAmbHQ7SnVsaWFfRmxhbmRlcnNAQlJPV04uRURVJmd0
+OzxCUj4mZ3Q7ICZndDsmZ3Q7IFJlcGx5LVRvOiZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNw
+OyZuYnNwOyBKdWxpYSBGbGFuZGVycyAmbHQ7SnVsaWFfRmxhbmRlcnNAQlJPV04uRURVJmd0OzxC
+Uj4mZ3Q7ICZndDsmZ3Q7IFRvOiZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyBURUktTEBMSVNUU0VS
+Vi5CUk9XTi5FRFU8QlI+Jmd0OyAmZ3Q7Jmd0OzxCUj4mZ3Q7ICZndDsmZ3Q7PEJSPiZndDsgJmd0
+OyZndDs8QlI+Jmd0OyAmZ3Q7Jmd0OyBEb2VzIGFueW9uZSBrbm93IG9mIGFueSBwcm9qZWN0cyB3
+aGljaCBhcmUgdXNpbmcgdGhlIFRFSSB0byBlbmNvZGU8QlI+Jmd0OyAmZ3Q7Jmd0OyBtYXRlcmlh
+bHMgdGhhdCBoYXZlIHN1YnN0YW50aWFsIGdyYXBoaWNhbCBjb250ZW50IGFzIHdlbGwgYXMgdGV4
+dCw8QlI+Jmd0OyAmZ3Q7Jmd0OyBlLmcuIG1hcHMsIGRpYWdyYW1zLCB0aGF0IHNvcnQgb2YgdGhp
+bmc/IEknbSBpbnRlcmVzdGVkIGluIHdheXMgb2Y8QlI+Jmd0OyAmZ3Q7Jmd0OyBtYWtpbmcgZXhw
+bGljaXQgbGlua2FnZXMgYmV0d2VlbiBzcGVjaWZpYyBsb2NhdGlvbnMgaW4gYSBkaWdpdGl6ZWQ8
+QlI+Jmd0OyAmZ3Q7Jmd0OyBpbWFnZSBhbmQgc3BlY2lmaWMgY2h1bmtzIG9mIHRleHQgaW4gdGhl
+IGVuY29kZWQgdHJhbnNjcmlwdGlvbi48QlI+Jmd0OyAmZ3Q7Jmd0OzxCUj4mZ3Q7ICZndDsmZ3Q7
+IE1hbnkgdGhhbmtzISBKdWxpYTxCUj4mZ3Q7ICZndDsmZ3Q7PEJSPiZndDsgJmd0OyZndDs8QlI+
+Jmd0OyAmZ3Q7Jmd0OyAtLTxCUj4mZ3Q7ICZndDsmZ3Q7IERhbmllbCBQYXVsIE8nRG9ubmVsbCwg
+UGhEPEJSPiZndDsgJmd0OyZndDsgQXNzb2NpYXRlIFByb2Zlc3NvciBvZiBFbmdsaXNoPEJSPiZn
+dDsgJmd0OyZndDsgVW5pdmVyc2l0eSBvZiBMZXRoYnJpZGdlPEJSPiZndDsgJmd0OyZndDsgTGV0
+aGJyaWRnZSBBQiBUMUsgM000PEJSPiZndDsgJmd0OyZndDsgVGVsLiAoNDAzKSAzMjktMjM3NzxC
+Uj4mZ3Q7ICZndDsmZ3Q7IEZheC4gKDQwMykgMzgyLTcxOTE8QlI+Jmd0OyAmZ3Q7Jmd0OyBFLW1h
+aWwgJmx0O2RhbmllbC5vZG9ubmVsbEB1bGV0aC5jYSZndDs8QlI+Jmd0OyAmZ3Q7Jmd0OyBIb21l
+IFBhZ2UgJmx0OzxBIGhyZWY9Imh0dHA6Ly9wZW9wbGUudWxldGguY2EvfmRhbmllbC5vZG9ubmVs
+bC8iPmh0dHA6Ly9wZW9wbGUudWxldGguY2EvfmRhbmllbC5vZG9ubmVsbC88L0E+Jmd0OzxCUj4m
+Z3Q7ICZndDsmZ3Q7PEJSPiZndDsgJmd0OyZndDs8QlI+Jmd0OyAmZ3Q7Jmd0OzxCUj4mZ3Q7ICZn
+dDsmZ3Q7PEJSPiZndDsgJmd0OyZndDsgX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19f
+X19fX19fX19fX19fX188QlI+Jmd0OyAmZ3Q7Jmd0OyBkbS1sIG1haWxpbmcgbGlzdDxCUj4mZ3Q7
+ICZndDsmZ3Q7IGRtLWxAdWxldGguY2E8QlI+Jmd0OyAmZ3Q7Jmd0OyA8QSBocmVmPSJodHRwOi8v
+bGlzdHNlcnYudWxldGguY2EvbWFpbG1hbi9saXN0aW5mby9kbS1sIj5odHRwOi8vbGlzdHNlcnYu
+dWxldGguY2EvbWFpbG1hbi9saXN0aW5mby9kbS1sPC9BPjxCUj4mZ3Q7ICZndDsmZ3Q7PEJSPiZn
+dDsgJmd0OzxCUj4mZ3Q7ICZndDsgX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19f
+X188QlI+Jmd0OyAmZ3Q7IE1hcnRpbiBIb2xtZXM8QlI+Jmd0OyAmZ3Q7IFVuaXZlcnNpdHkgb2Yg
+VmljdG9yaWEgSHVtYW5pdGllcyBDb21wdXRpbmcgYW5kIE1lZGlhIENlbnRyZTxCUj4mZ3Q7ICZn
+dDsgbWhvbG1lc0B1dmljLmNhPEJSPiZndDsgJmd0OyBtYXJ0aW5AbWhvbG1lcy5jb208QlI+Jmd0
+OyAmZ3Q7IG1ob2xtZXNAaGFsZmJha2Vkc29mdHdhcmUuY29tPEJSPiZndDsgJmd0OyA8QSBocmVm
+PSJodHRwOi8vd3d3Lm1ob2xtZXMuY29tIj5odHRwOi8vd3d3Lm1ob2xtZXMuY29tPC9BPjxCUj4m
+Z3Q7ICZndDsgPEEgaHJlZj0iaHR0cDovL3dlYi51dmljLmNhL2hjbWMvIj5odHRwOi8vd2ViLnV2
+aWMuY2EvaGNtYy88L0E+PEJSPiZndDsgJmd0OyA8QSBocmVmPSJodHRwOi8vd3d3LmhhbGZiYWtl
+ZHNvZnR3YXJlLmNvbSI+aHR0cDovL3d3dy5oYWxmYmFrZWRzb2Z0d2FyZS5jb208L0E+PEJSPiZn
+dDsgJmd0OzxCUj4mZ3Q7ICZndDs8QlI+Jmd0OyAmZ3Q7IF9fX19fX19fX19fX19fX19fX19fX19f
+X19fX19fX19fX19fX19fX19fX19fX19fPEJSPiZndDsgJmd0OyBkbS1sIG1haWxpbmcgbGlzdDxC
+Uj4mZ3Q7ICZndDsgZG0tbEB1bGV0aC5jYTxCUj4mZ3Q7ICZndDsgPEEgaHJlZj0iaHR0cDovL2xp
+c3RzZXJ2LnVsZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0tbCI+aHR0cDovL2xpc3RzZXJ2LnVs
+ZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0tbDwvQT48QlI+Jmd0OyAmZ3Q7PEJSPiZndDs8QlI+
+Jmd0Oy0tPEJSPiZndDtDZW50cmUgZm9yIFRlY2hub2xvZ3kgYW5kIHRoZSBBcnRzLCA8QSBocmVm
+PSJodHRwOi8vd3d3LmN0YS5kbXUuYWMudWsiPnd3dy5jdGEuZG11LmFjLnVrPC9BPjxCUj4mZ3Q7
+VGhlIENhbnRlcmJ1cnkgVGFsZXMgUHJvamVjdCwgPEEgaHJlZj0iaHR0cDovL3d3dy5jdGEuZG11
+LmFjLnVrL3Byb2plY3RzL2N0cCI+d3d3LmN0YS5kbXUuYWMudWsvcHJvamVjdHMvY3RwPC9BPjxC
+Uj4mZ3Q7PEJSPiZndDs8QlI+Jmd0O19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19f
+X19fX19fX19fX19fPEJSPiZndDtkbS1sIG1haWxpbmcgbGlzdDxCUj4mZ3Q7ZG0tbEB1bGV0aC5j
+YTxCUj4mZ3Q7PEEgaHJlZj0iaHR0cDovL2xpc3RzZXJ2LnVsZXRoLmNhL21haWxtYW4vbGlzdGlu
+Zm8vZG0tbCI+aHR0cDovL2xpc3RzZXJ2LnVsZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0tbDwv
+QT48QlI+PEJSPl9fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fPEJSPk1hcnRp
+biBIb2xtZXM8QlI+VW5pdmVyc2l0eSBvZiBWaWN0b3JpYSBIdW1hbml0aWVzIENvbXB1dGluZyBh
+bmQgTWVkaWEgQ2VudHJlPEJSPm1ob2xtZXNAdXZpYy5jYTxCUj5tYXJ0aW5AbWhvbG1lcy5jb208
+QlI+bWhvbG1lc0BoYWxmYmFrZWRzb2Z0d2FyZS5jb208QlI+PEEgaHJlZj0iaHR0cDovL3d3dy5t
+aG9sbWVzLmNvbSI+aHR0cDovL3d3dy5taG9sbWVzLmNvbTwvQT48QlI+PEEgaHJlZj0iaHR0cDov
+L3dlYi51dmljLmNhL2hjbWMvIj5odHRwOi8vd2ViLnV2aWMuY2EvaGNtYy88L0E+PEJSPjxBIGhy
+ZWY9Imh0dHA6Ly93d3cuaGFsZmJha2Vkc29mdHdhcmUuY29tIj5odHRwOi8vd3d3LmhhbGZiYWtl
+ZHNvZnR3YXJlLmNvbTwvQT48QlI+PEJSPjxCUj5fX19fX19fX19fX19fX19fX19fX19fX19fX19f
+X19fX19fX19fX19fX19fX19fXzxCUj5kbS1sIG1haWxpbmcgbGlzdDxCUj5kbS1sQHVsZXRoLmNh
+PEJSPjxBIGhyZWY9Imh0dHA6Ly9saXN0c2Vydi51bGV0aC5jYS9tYWlsbWFuL2xpc3RpbmZvL2Rt
+LWwiPmh0dHA6Ly9saXN0c2Vydi51bGV0aC5jYS9tYWlsbWFuL2xpc3RpbmZvL2RtLWw8L0E+PEJS
+PjwvRElWPjwvQk9EWT48L0hUTUw+

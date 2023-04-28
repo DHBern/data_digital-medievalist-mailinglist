@@ -1,0 +1,86 @@
+Subject: Re: [dm-l] Use of wikis for transcriptionI've not heard of others doing this, but I use wikis for lots of scratch=20
+collaboration projects. So in principle, this is a reasonable way to=20
+work informally among a small group on a first pass.My main caveat about this is that this is probably only suitable for a=20
+first pass at character capture rather than any serious editorial work,=20
+and even then it might prove problematic. The main problem is that there=20
+is no way of automatically enforcing a policy on what is to be captured=20
+or how these details are to be recorded: if you have multiple people=20
+working on a project, and you have no control over what they enter, they=20
+will invariably diverge in practice: one scholar might expand=20
+abbreviations, another prefer to leave them unexpanded; one might record=20
+multiple options for reading difficult passages, another just choose the=20
+most likely, and yet others use different symbols for indicating=20
+uncertainty. Same is true of damage or codicological features: one=20
+scholar might want to record information about the damage down in lines=20
+38 or so and ff.; another might just transcribe around the cut and damage.A solution around this might be to insist that encoders use something=20
+like the Leiden system of diplomatic transcription symbols although you=20
+won't have anyway of enforcing correct use.XML and XML tools like the OxygenXML editor are designed precisely to=20
+give you this kind of control. There was a time when they could seem=20
+quite intimidating. Nowadays, however, they are becoming ever more user=20
+friendly. So one, slightly more formal way, of setting a project up so=20
+that more than one person could transcribe texts might be to ask=20
+everybody to get a copy of something like OxygenXML (although in=20
+principle, it wouldn't matter what editor they used), and then store=20
+their common transcriptions online in a version control repository like=20
+subversion. People would work on transcriptions on their home computers=20
+and then log the files back into the common repository when they were=20
+finished. Subversion logs changes and lets more than one person work on=20
+the same file at the same time. And you can show the world what you are=20
+doing by also publishing the repository (this is how Digital Medievalist=20
+works, in fact: we have a subversion repository with all the XML files.=20
+This repository is copied to a non-public website (so we can check our=20
+work) once every minute or two and then to the public site once a day.=20
+Individual editors download files to edit from the central repository).The above assumes that your plan is to have a group of previously=20
+identified editors work on the same project (negotiated collaboration).=20
+If your goal instead is crowd sourcing (i.e. just putting MS images and=20
+or transcriptions up and letting anybody transcribe or edit them, then=20
+you'll need some other solution. But planning that depends on what you=20
+see the goal of the project as: if it is really just to get the text out=20
+of the manuscript photos and into unicode characters, then a wiki might=20
+work--but I'd say ask people only to record the letters in front of=20
+them, perhaps making a policy of expanding abbreviations, and not to=20
+record any paleographic features, uncertainty, etc. Other solutions=20
+might depend on what you want to crowd source. For example, if you have=20
+an XML encoded document that you are displaying on the web, it could be=20
+possible to code the page so that people could click on a word they want=20
+to correct, and then get the content of the word (but not the tags)=20
+displayed to them in a little form window for correction. And then you=20
+could go up to much more heavily programmed solutions.Bottom line: a wiki is a good informal way of sharing work (with loss of=20
+policy control) or for crowdsourcing very simple questions (are these=20
+the right letters? what letters does this image contain?). But for=20
+really encoding expert knowledge or doing anything complicated with the=20
+text at all, you are going to want to use XML. There are very robust=20
+ways of doing that in a distributed fashion.Buckner wrote:
+> Hello,
+> =20
+> I am thinking about setting up a wiki for the purposes of transcribing=20
+> medieval manuscripts.  One such experiment is here
+> =20
+> http://www.mywikibiz.com/User:Ockham/sandbox
+> =20
+> Has anyone here heard of a similar project?  The advantages of wikis=20
+> is that many people can work on them, increasing the accuracy of the=20
+> transcription, and there is an audit trail in case changes need to be=20
+> reviewed or reversed.=20
+> =20
+> Edward Buckner
+> ------------------------------------------------------------------------
+>
+> Digital Medievalist --  http://www.digitalmedievalist.org/
+> Journal: http://www.digitalmedievalist.org/journal/
+> Journal Editors: editors _AT_ digitalmedievalist.org
+> News: http://www.digitalmedievalist.org/news/
+> Wiki: http://www.digitalmedievalist.org/wiki/
+_redacted_(a)uleth.ca
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l--=20
+Daniel Paul O'Donnell
+Associate Professor of English
+University of LethbridgeChair and CEO, Text Encoding Initiative (http://www.tei-c.org/)
+Co-Chair, Digital Initiatives Advisory Board, Medieval Academy of America
+President-elect (English), Society for Digital Humanities/Soci=C3=A9t=C3=A9 p=
+our l'=C3=A9tude des m=C3=A9dias interactifs (http://sdh-semi.org/)
+Founding Director (2003-2009), Digital Medievalist Project (http://www.digita=
+lmedievalist.org/)Vox: +1 403 329-2377
+Fax: +1 403 382-7191 (non-confidental)
+Home Page: http://people.uleth.ca/~daniel.odonnell/
+--===============0843647185227692530==--

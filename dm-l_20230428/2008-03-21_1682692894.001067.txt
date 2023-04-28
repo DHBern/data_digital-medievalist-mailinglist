@@ -1,0 +1,15 @@
+Subject: Re: [dm-l] OCR on ManuscriptsMaybe this is interesting: Handwriting Retrieval Demonstrations of the 
+(Center for Intelligent Information Retrieval, University of 
+Massachusetts Amherst): http://ciir.cs.umass.edu/irdemo/hw-demo/ Not 
+medieval however.See for another approach: 
+http://www.ai.rug.nl/alice/nwo-catch-scratch/index_english.html. From 
+that page: For one thing, the massive amount of text images of 
+handwritten pages will allow for the exploitation of modern statistical 
+techniques. Data mining techniques such as clustering will uncover 
+regularities in handwritten shapes that may act as the bridge to 
+document retrieval and text analysis. In this project we will not aim 
+for a veridical left-to-right transcription of handwritten documents: 
+this would be an unrealistic target. Alternatively, at the end of the 
+project, we will have delivered tools for keyword-based search in 
+handwritten archives, akin to existing flat-text search methods 
+("Googling").Peter

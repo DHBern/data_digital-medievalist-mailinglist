@@ -1,0 +1,145 @@
+Subject:I really enjoyed this paper as well. I think it's pretty obvious why
+digital editions are not more popular with both authors and readers, some
+of which are touched on in the article:
+- Compared to a printed book, they're miserable to read, since they tend to
+be designed first for technical analysis, and any attention to typography
+is typically a very low priority. (Granted, this is a problem with most
+e-books.)
+- There's no guarantee in many cases that citations made from digital
+editions will be stable.
+- It's far easier to put a good printed edition together than a good
+digital edition, especially because of the lack of standard, user-friendly
+tools.
+- There is no standard way of presenting online critical editions (whereas
+most printed texts are published in series that follow a style guide).
+- Delving into academic politics, publishers hate them and many
+universities don't count digital projects toward tenure.None of these problems are insurmountable, and most have been tackled
+already by someone, but I'm really looking forward to a solution that at
+least tackles the technical aspects of these problems.Andrew Dunning
+PhD Student, Collaborative Program in Editing Medieval Texts
+Centre for Medieval Studies
+University of TorontoOn Thu, Mar 14, 2013 at 6:29 AM, Roberto Rosselli Del Turco <
+_redacted_(a)ling.unipi.it> wrote:> > Dot, what a very good job!  I am only a bit surprised that we are not
+> > making steady progress towards some goal -- that's not really the wqy
+> > human beings do things -- but it is a litttle disconcerting to think that
+> > while more and more people are doing digital or difitized editions (I
+> > agree with that very ueful distinction), users of editions seem ro remain
+> > happy with print.  If I were younger (I was there at Hoyt's PP/SEENET
+> > paper). I might try to think of some kind of campaign, but perhaps it's
+> > best to let things develop as they will ?
+>
+> I took part to a workshop about digital scholarly edition organized by
+> NeDiMAH last November
+> (
+> http://www.nedimah.eu/call-for-papers/expert-meeting-digital-scholarly-edit=
+ions
+> )
+> and gave a paper titled "The battle we forgot to fight: Should we make a
+> case for digital editions?". In short, no, I think we should definitely
+> advocate creation and use of digital editions ... but also that first we
+> should define more clearly what a digital edition *is*, see Dot's
+> distinction above as a starting point (there surely are many other types
+> and sub-types). Personally I think we lack a clear perspective and need a
+> sort of "DEI" (Digital Edition Initiative) that can help interested
+> scholars with support, guidelines etc. (also help gather together,
+> conferences like ESTS and such are very useful, but we lack a "central"
+> place where to go).
+>
+> R
+>
+>
+>
+> Digital Medievalist --  http://www.digitalmedievalist.org/
+> Journal: http://www.digitalmedievalist.org/journal/
+> Journal Editors: editors _AT_ digitalmedievalist.org
+> News: http://www.digitalmedievalist.org/news/
+> Wiki: http://www.digitalmedievalist.org/wiki/
+> Twitter: http://twitter.com/digitalmedieval
+> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+_redacted_(a)uleth.ca
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>
+>
+>PGRpdiBkaXI9Imx0ciI+PGRpdiBjbGFzcz0iZ21haWxfZXh0cmEiPjxkaXY+PGRpdj48ZGl2Pjxk
+aXY+SSByZWFsbHkgZW5qb3llZCB0aGlzIHBhcGVyIGFzIHdlbGwuIEkgdGhpbmsgaXQmIzM5O3Mg
+cHJldHR5IG9idmlvdXMgd2h5IGRpZ2l0YWwgZWRpdGlvbnMgYXJlIG5vdCBtb3JlIHBvcHVsYXIg
+d2l0aCBib3RoIGF1dGhvcnMgYW5kIHJlYWRlcnMsIHNvbWUgb2Ygd2hpY2ggYXJlIHRvdWNoZWQg
+b24gaW4gdGhlIGFydGljbGU6PGJyPgo8L2Rpdj4tIENvbXBhcmVkIHRvIGEgcHJpbnRlZCBib29r
+LCB0aGV5JiMzOTtyZSBtaXNlcmFibGUgdG8gcmVhZCwgc2luY2UgdGhleSB0ZW5kIHRvIGJlIGRl
+c2lnbmVkIGZpcnN0IGZvciB0ZWNobmljYWwgYW5hbHlzaXMsIGFuZCBhbnkgYXR0ZW50aW9uIHRv
+IHR5cG9ncmFwaHkgaXMgdHlwaWNhbGx5IGEgdmVyeSBsb3cgcHJpb3JpdHkuIChHcmFudGVkLCB0
+aGlzIGlzIGEgcHJvYmxlbSB3aXRoIG1vc3QgZS1ib29rcy4pPGJyPgo8L2Rpdj48ZGl2Pi0gVGhl
+cmUmIzM5O3Mgbm8gZ3VhcmFudGVlIGluIG1hbnkgY2FzZXMgdGhhdCBjaXRhdGlvbnMgbWFkZSBm
+cm9tIGRpZ2l0YWwgZWRpdGlvbnMgd2lsbCBiZSBzdGFibGUuPGJyPjwvZGl2Pi0gSXQmIzM5O3Mg
+ZmFyIGVhc2llciB0byBwdXQgYSBnb29kIHByaW50ZWQgZWRpdGlvbiB0b2dldGhlciB0aGFuIGEg
+Z29vZCBkaWdpdGFsIGVkaXRpb24sIGVzcGVjaWFsbHkgYmVjYXVzZSBvZiB0aGUgbGFjayBvZiBz
+dGFuZGFyZCwgdXNlci1mcmllbmRseSB0b29scy48YnI+Ci0gVGhlcmUgaXMgbm8gc3RhbmRhcmQg
+d2F5IG9mIHByZXNlbnRpbmcgb25saW5lIGNyaXRpY2FsIGVkaXRpb25zICh3aGVyZWFzIG1vc3Qg
+cHJpbnRlZCB0ZXh0cyBhcmUgcHVibGlzaGVkIGluIHNlcmllcyB0aGF0IGZvbGxvdyBhIHN0eWxl
+IGd1aWRlKS48YnI+PGRpdj4tIERlbHZpbmcgaW50byBhY2FkZW1pYyBwb2xpdGljcywgcHVibGlz
+aGVycyBoYXRlIHRoZW0gYW5kIG1hbnkgdW5pdmVyc2l0aWVzIGRvbiYjMzk7dCBjb3VudCBkaWdp
+dGFsIHByb2plY3RzIHRvd2FyZCB0ZW51cmUuPC9kaXY+CjwvZGl2PjwvZGl2PjxkaXY+PGJyPjwv
+ZGl2Pk5vbmUgb2YgdGhlc2UgcHJvYmxlbXMgYXJlIGluc3VybW91bnRhYmxlLCBhbmQgbW9zdCBo
+YXZlIGJlZW4gdGFja2xlZCBhbHJlYWR5IGJ5IHNvbWVvbmUsIGJ1dCBJJiMzOTttIHJlYWxseSBs
+b29raW5nIGZvcndhcmQgdG8gYSBzb2x1dGlvbiB0aGF0IGF0IGxlYXN0IHRhY2tsZXMgdGhlIHRl
+Y2huaWNhbCBhc3BlY3RzIG9mIHRoZXNlIHByb2JsZW1zLjxicj4KPGJyPkFuZHJldyBEdW5uaW5n
+PGJyPlBoRCBTdHVkZW50LCBDb2xsYWJvcmF0aXZlIFByb2dyYW0gaW4gRWRpdGluZyBNZWRpZXZh
+bCBUZXh0czxicj5DZW50cmUgZm9yIE1lZGlldmFsIFN0dWRpZXM8YnI+VW5pdmVyc2l0eSBvZiBU
+b3JvbnRvCjxicj48YnI+PGRpdiBjbGFzcz0iZ21haWxfcXVvdGUiPk9uIFRodSwgTWFyIDE0LCAy
+MDEzIGF0IDY6MjkgQU0sIFJvYmVydG8gUm9zc2VsbGkgRGVsIFR1cmNvIDxzcGFuIGRpcj0ibHRy
+Ij4mbHQ7PGEgaHJlZj0ibWFpbHRvOnJvc3NlbGxpQGxpbmcudW5pcGkuaXQiIHRhcmdldD0iX2Js
+YW5rIj5yb3NzZWxsaUBsaW5nLnVuaXBpLml0PC9hPiZndDs8L3NwYW4+IHdyb3RlOjxicj48Ymxv
+Y2txdW90ZSBjbGFzcz0iZ21haWxfcXVvdGUiIHN0eWxlPSJtYXJnaW46MHB0IDBwdCAwcHQgMC44
+ZXg7Ym9yZGVyLWxlZnQ6MXB4IHNvbGlkIHJnYigyMDQsMjA0LDIwNCk7cGFkZGluZy1sZWZ0OjFl
+eCI+CjxkaXYgY2xhc3M9ImltIj4mZ3Q7IERvdCwgd2hhdCBhIHZlcnkgZ29vZCBqb2IhIMKgSSBh
+bSBvbmx5IGEgYml0IHN1cnByaXNlZCB0aGF0IHdlIGFyZSBub3Q8YnI+CiZndDsgbWFraW5nIHN0
+ZWFkeSBwcm9ncmVzcyB0b3dhcmRzIHNvbWUgZ29hbCAtLSB0aGF0JiMzOTtzIG5vdCByZWFsbHkg
+dGhlIHdxeTxicj4KJmd0OyBodW1hbiBiZWluZ3MgZG8gdGhpbmdzIC0tIGJ1dCBpdCBpcyBhIGxp
+dHR0bGUgZGlzY29uY2VydGluZyB0byB0aGluayB0aGF0PGJyPgomZ3Q7IHdoaWxlIG1vcmUgYW5k
+IG1vcmUgcGVvcGxlIGFyZSBkb2luZyBkaWdpdGFsIG9yIGRpZml0aXplZCBlZGl0aW9ucyAoSTxi
+cj4KJmd0OyBhZ3JlZSB3aXRoIHRoYXQgdmVyeSB1ZWZ1bCBkaXN0aW5jdGlvbiksIHVzZXJzIG9m
+IGVkaXRpb25zIHNlZW0gcm8gcmVtYWluPGJyPgomZ3Q7IGhhcHB5IHdpdGggcHJpbnQuIMKgSWYg
+SSB3ZXJlIHlvdW5nZXIgKEkgd2FzIHRoZXJlIGF0IEhveXQmIzM5O3MgUFAvU0VFTkVUPGJyPgom
+Z3Q7IHBhcGVyKS4gSSBtaWdodCB0cnkgdG8gdGhpbmsgb2Ygc29tZSBraW5kIG9mIGNhbXBhaWdu
+LCBidXQgcGVyaGFwcyBpdCYjMzk7czxicj4KJmd0OyBiZXN0IHRvIGxldCB0aGluZ3MgZGV2ZWxv
+cCBhcyB0aGV5IHdpbGwgPzxicj4KPGJyPgo8L2Rpdj5JIHRvb2sgcGFydCB0byBhIHdvcmtzaG9w
+IGFib3V0IGRpZ2l0YWwgc2Nob2xhcmx5IGVkaXRpb24gb3JnYW5pemVkIGJ5PGJyPgpOZURpTUFI
+IGxhc3QgTm92ZW1iZXI8YnI+Cig8YSBocmVmPSJodHRwOi8vd3d3Lm5lZGltYWguZXUvY2FsbC1m
+b3ItcGFwZXJzL2V4cGVydC1tZWV0aW5nLWRpZ2l0YWwtc2Nob2xhcmx5LWVkaXRpb25zIiB0YXJn
+ZXQ9Il9ibGFuayI+aHR0cDovL3d3dy5uZWRpbWFoLmV1L2NhbGwtZm9yLXBhcGVycy9leHBlcnQt
+bWVldGluZy1kaWdpdGFsLXNjaG9sYXJseS1lZGl0aW9uczwvYT4pPGJyPgphbmQgZ2F2ZSBhIHBh
+cGVyIHRpdGxlZCAmcXVvdDtUaGUgYmF0dGxlIHdlIGZvcmdvdCB0byBmaWdodDogU2hvdWxkIHdl
+IG1ha2UgYTxicj4KY2FzZSBmb3IgZGlnaXRhbCBlZGl0aW9ucz8mcXVvdDsuIEluIHNob3J0LCBu
+bywgSSB0aGluayB3ZSBzaG91bGQgZGVmaW5pdGVseTxicj4KYWR2b2NhdGUgY3JlYXRpb24gYW5k
+IHVzZSBvZiBkaWdpdGFsIGVkaXRpb25zIC4uLiBidXQgYWxzbyB0aGF0IGZpcnN0IHdlPGJyPgpz
+aG91bGQgZGVmaW5lIG1vcmUgY2xlYXJseSB3aGF0IGEgZGlnaXRhbCBlZGl0aW9uICppcyosIHNl
+ZSBEb3QmIzM5O3M8YnI+CmRpc3RpbmN0aW9uIGFib3ZlIGFzIGEgc3RhcnRpbmcgcG9pbnQgKHRo
+ZXJlIHN1cmVseSBhcmUgbWFueSBvdGhlciB0eXBlczxicj4KYW5kIHN1Yi10eXBlcykuIFBlcnNv
+bmFsbHkgSSB0aGluayB3ZSBsYWNrIGEgY2xlYXIgcGVyc3BlY3RpdmUgYW5kIG5lZWQgYTxicj4K
+c29ydCBvZiAmcXVvdDtERUkmcXVvdDsgKERpZ2l0YWwgRWRpdGlvbiBJbml0aWF0aXZlKSB0aGF0
+IGNhbiBoZWxwIGludGVyZXN0ZWQ8YnI+CnNjaG9sYXJzIHdpdGggc3VwcG9ydCwgZ3VpZGVsaW5l
+cyBldGMuIChhbHNvIGhlbHAgZ2F0aGVyIHRvZ2V0aGVyLDxicj4KY29uZmVyZW5jZXMgbGlrZSBF
+U1RTIGFuZCBzdWNoIGFyZSB2ZXJ5IHVzZWZ1bCwgYnV0IHdlIGxhY2sgYSAmcXVvdDtjZW50cmFs
+JnF1b3Q7PGJyPgpwbGFjZSB3aGVyZSB0byBnbykuPGJyPgo8ZGl2IGNsYXNzPSJpbSI+PGJyPgpS
+PGJyPgo8YnI+Cjxicj4KPGJyPgpEaWdpdGFsIE1lZGlldmFsaXN0IC0tIMKgPGEgaHJlZj0iaHR0
+cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnLyIgdGFyZ2V0PSJfYmxhbmsiPmh0dHA6Ly93
+d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy88L2E+PGJyPgpKb3VybmFsOiA8YSBocmVmPSJodHRw
+Oi8vd3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmcvam91cm5hbC8iIHRhcmdldD0iX2JsYW5rIj5o
+dHRwOi8vd3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmcvam91cm5hbC88L2E+PGJyPgpKb3VybmFs
+IEVkaXRvcnM6IGVkaXRvcnMgX0FUXyA8YSBocmVmPSJodHRwOi8vZGlnaXRhbG1lZGlldmFsaXN0
+Lm9yZyIgdGFyZ2V0PSJfYmxhbmsiPmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmc8L2E+PGJyPgpOZXdz
+OiA8YSBocmVmPSJodHRwOi8vd3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmcvbmV3cy8iIHRhcmdl
+dD0iX2JsYW5rIj5odHRwOi8vd3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmcvbmV3cy88L2E+PGJy
+PgpXaWtpOiA8YSBocmVmPSJodHRwOi8vd3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmcvd2lraS8i
+IHRhcmdldD0iX2JsYW5rIj5odHRwOi8vd3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmcvd2lraS88
+L2E+PGJyPgpUd2l0dGVyOiA8YSBocmVmPSJodHRwOi8vdHdpdHRlci5jb20vZGlnaXRhbG1lZGll
+dmFsIiB0YXJnZXQ9Il9ibGFuayI+aHR0cDovL3R3aXR0ZXIuY29tL2RpZ2l0YWxtZWRpZXZhbDwv
+YT48YnI+CjwvZGl2PkZhY2Vib29rOiA8YSBocmVmPSJodHRwOi8vd3d3LmZhY2Vib29rLmNvbS9n
+cm91cC5waHA/Z2lkPTQ5MzIwMzEzNzYwIiB0YXJnZXQ9Il9ibGFuayI+aHR0cDovL3d3dy5mYWNl
+Ym9vay5jb20vZ3JvdXAucGhwP2dpZD00OTMyMDMxMzc2MDwvYT48YnI+CjxkaXYgY2xhc3M9IiI+
+PGRpdiBjbGFzcz0iaDUiPkRpc2N1c3Npb24gbGlzdDogPGEgaHJlZj0ibWFpbHRvOmRtLWxAdWxl
+dGguY2EiPmRtLWxAdWxldGguY2E8L2E+PGJyPgpDaGFuZ2UgbGlzdCBvcHRpb25zOiA8YSBocmVm
+PSJodHRwOi8vbGlzdHNlcnYudWxldGguY2EvbWFpbG1hbi9saXN0aW5mby9kbS1sIiB0YXJnZXQ9
+Il9ibGFuayI+aHR0cDovL2xpc3RzZXJ2LnVsZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0tbDwv
+YT48YnI+Cjxicj4KPGJyPgo8L2Rpdj48L2Rpdj48L2Jsb2NrcXVvdGU+PC9kaXY+PGJyPjwvZGl2
+PjxiciBjbGVhcj0iYWxsIj48YnI+PC9kaXY+Cg==

@@ -1,0 +1,63 @@
+Subject: RE: [dm-l] Teaching the TEI: your practice?Dear Torsten,Maybe I need to learn more XSLT. I have never looked at XSLT2, but found XLST=
+1 quite cumbersome to do anything beyond mere reformatting of XML data.Godfried> -----Original Message-----
+_redacted_(a)uleth.ca] On Behalf Of
+> Torsten Schassan
+> Sent: 01 February 2011 14:43
+_redacted_(a)uleth.ca
+> Subject: Re: [dm-l] Teaching the TEI: your practice?
+>=20
+> Dear Godfried,
+>=20
+> > But even then, I would be hard-pressed to see how XSLT would be better
+> than Perl or a similar language when it comes to processing data in which
+> which are not essentially to do with formatting XML documents for display.
+>=20
+> I find it particular handy to operate on XML data in a code that is XML
+> itself. As well XPath expressions might be way shorter (and clearer?) as
+> Perl constructs? But it's a matter of taste.
+>=20
+>=20
+> > If I wanted to, say, develop a program to lemmatise text marked up in
+> paragraphs<p>, or parse Roman calendar dates marked up with<date>, is that
+> something for which you would recommend using XSLT? XSLT would easily let
+> you find that data, but I am not sure it would be easy to then process it in
+> XSLT.
+>=20
+> I would dare to say "They become more and more similar", e.g. with Perl
+> coping better with XML while XSLT starts operating on the file system?
+> As long as both are Turing-complete, it should be possible to implement
+> every operation in both languages?
+>=20
+>=20
+> > Not having associative arrays or more complex data structures in XSLT
+> makes that particularly hard, not?
+>=20
+> You aren't talking about XSLT2, are you? Because there we have e.g.
+> temporary trees that make up for complex data structures and speed up
+> the processing alot. Although processing data with a certain type of
+> loop would also make up for that?
+>=20
+> Best, Torsten
+>=20
+> --
+> Torsten Schassan
+> Digitale Editionen
+> Abteilung Handschriften und Sondersammlungen
+> Herzog August Bibliothek, Postfach 1364, D-38299 Wolfenbuettel
+> Tel.: +49-5331-808-130 (Fax -165), schassan {at} hab.de
+>=20
+> http://www.hab.de/forschung/projekte/europeana-regia.htm
+> http://www.hab.de/forschung/projekte/weiss64.htm
+>=20
+>=20
+>=20
+> Digital Medievalist --  http://www.digitalmedievalist.org/
+> Journal: http://www.digitalmedievalist.org/journal/
+> Journal Editors: editors _AT_ digitalmedievalist.org
+> News: http://www.digitalmedievalist.org/news/
+> Wiki: http://www.digitalmedievalist.org/wiki/
+> Twitter: http://twitter.com/digitalmedieval
+> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+_redacted_(a)uleth.ca
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+--===============9075304199732314620==--

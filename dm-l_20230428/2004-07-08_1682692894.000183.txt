@@ -1,0 +1,38 @@
+Subject: Re: [dm-l] [Fwd: encoding  maps, graphics with text?] Problems	withPeter Robinson wrote:>I have tried with various browsers, but all naturally in Mac OS X, and from
+>different places, and just cannot get through.  I get 'the operation timed
+>out when trying to connect to..' or just 'cannot connect to..'
+>I am trying 
+>http://lingo.dcf.uvic.ca:8080/exist/graves/index.xml
+>When I try just http://lingo.dcf.uvic.ca I get the cryptic 'PHP works'.
+>ON the face of it, it looks like something to do with port 8080.  And
+>checking, I discover..
+>  1. I do not seem able to connect to any sites with 8080
+>  2.  But can connect to: 8000, 8081, etc
+>  3.  There is nothing in the settings in this computer which appears to bar
+>access to any ports 8080.  Netstat does not show anything running on a 8080
+>So very odd indeed
+>Anyone else see this behaviour?
+>Peter
+>
+>
+>_______________________________________________
+>dm-l mailing list
+_redacted_(a)uleth.ca
+>http://listserv.uleth.ca/mailman/listinfo/dm-l
+>
+>  
+>
+I would check the firewall - proxy settings of the network
+best, notis-- 
+------------------------------------
+Notis Toufexis
+Wiss. Mitarbeiter
+Universitaet Hamburg
+SFB Mehrsprachigkeit
+Teilprojekt H4
+Max-Brauer-Allee 60
+22765 HamburgTel. +40 - 40 - 42838 6431
+Fax +40 - 40 - 42838 6116http://www.rrz.uni-hamburg.de/SFB538/
+http://www.toufexis.de
+http://www.neograeca.org_redacted_(a)multilingua.uni-hamburg.de
+--------------------------------------

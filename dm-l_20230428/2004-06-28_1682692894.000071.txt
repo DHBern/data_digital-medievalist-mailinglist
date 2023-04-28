@@ -1,0 +1,26 @@
+Subject: Re: [dm-l] MS-Internet Explorer 6 and standards based computing
+On Monday, June 28, 2004, at 08:16 AM, Peter Baker wrote:> I suspect that my own experiences have made me a bit jaundiced about 
+> client-side programming generally. I spent years making and 
+> maintaining a Java applet that would work both in Netscape and IE. It 
+> was an unspeakable misery: every time I got it stable Sun would change 
+> the spec in response to some new security concern, or Microsoft would 
+> break some new thing in their Java "implementation," and I'd have to 
+> figure out what was wrong and fix it, often while my students or 
+> someone else's were complaining loudly about lack of access.java is a particularly egregious example of incompatible 
+implementations of what was meant to be an entirely 
+platform-independent "standard". very very frustrating, in principle 
+and in practice. "java" never really meant "java".>
+> So now I'm in the process of migrating as much as possible to the 
+> server side, and my new rules are:
+>
+> - never to do anything on the client side that can be done on the 
+> server.i don't think i would disagree with this. i would only say that the key 
+word is "can". it includes the server resources to handle the load, and 
+in such a way that it doesn't affect end-user experience (ie, slow 
+loading or server overload errors). to be honest, my argument about a 
+smaller niche audience with respect to browsers may apply here, as long 
+as your institution has the server resources and bandwidth to give you.>
+> - Use only standards-compliant features of browsers (in my case CSS 
+> and a bit of [mostly] ECMA-compliant JavaScript).exactly. and so this is *still* an argument for staying with standards 
+and not relying on browser-dependent work-arounds.cheers,
+j

@@ -1,0 +1,23 @@
+Subject: [dm-l] Manuscript DescriptionsHi all,As some of you know I'm doing some work for the ENRICH project[1]
+which has created a subset of the TEI for medieval manuscript
+description[2].  At an upcoming meeting, one of the things we'd like
+to demonstrate is that potentially many more formats than we're
+planning to convert to this format could adequately be expressed in it
+should need arise.  That is, that we've got a vocabulary for a
+manuscript description which most manuscripts could be described in,
+if desired.  Or at least, we'd like to see where what we have
+*doesn't* allow for other types of (e.g. modern) manuscripts so at
+least we are aware of the limitations.If you happen to have any manuscript descriptions, in any format[3],
+of any time period[4] would you be willing to let me have a
+representative sample of them?  I promise to abide by any restrictions
+of use you impose, will openly share my results with anyone who wants,
+and such.  I'm not promising to write automatic conversions of them,
+but might want to choose a couple and do manual conversions to
+demonstrate that there is no loss of intellectual content.
+Thanks,-James[1] http://enrich.manuscriptorium.com/
+[2] http://tei.oucs.ox.ac.uk/ENRICH/
+[3] We have some MASTER and TEI P5 ones, and while more of those are
+always welcome, other bizarre formats are even more appreciated.
+[4] While the project is medieval in nature for this purpose we aren't
+limited to medieval manuscripts.
+--===============5074439590420887221==--

@@ -1,0 +1,69 @@
+Subject: Re: [dm-l] xsltproc and xslIt's the xslt processor that the libxml2 library provides (
+http://xmlsoft.org/XSLT/). It's written in C and is pretty fast. It also
+includes EXSLT and some of saxon's extensions. (Saxon may provide EXSLT too:
+it's been awhile since I've looked at its features.) I've used it with good
+results, but if I were comfortable with saxon and didn't need libxslt's
+extra features, I don't know that I'd switch.Eric_redacted_(a)uleth.ca> wrote:
+>
+> Hi all, I just discovered xsltproc in linux. Does anybody know what XSL
+> process it is? It seems quite good. Is there a reason not to prefer it
+> to Saxon?
+>
+> -dan
+>
+>
+> _______________________________________________
+> Digital Medievalist Project
+> Homepage: http://www.digitalmedievalist.org
+> Journal (Spring 2005-): http://www.digitalmedievalist.org/journal.cfm
+> RSS (announcements) server: http://www.digitalmedievalist.org/rss/rss2.cfm
+> Wiki: http://sql.uleth.ca/dmorgwiki/index.php
+> Change membership options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+> Submit RSS announcement: http://www.digitalmedievalist.org/newitem.cfm
+_redacted_(a)uleth.ca
+> dm-l mailing list
+_redacted_(a)uleth.ca
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+>--
+I have a cunning plan!
+--BaldricSXQncyB0aGUgeHNsdCBwcm9jZXNzb3IgdGhhdCB0aGUgbGlieG1sMiBsaWJyYXJ5IHByb3ZpZGVz
+Cig8YSBocmVmPSJodHRwOi8veG1sc29mdC5vcmcvWFNMVC8iPmh0dHA6Ly94bWxzb2Z0Lm9yZy9Y
+U0xULzwvYT4pLiBJdCdzIHdyaXR0ZW4gaW4gQyBhbmQgaXMgcHJldHR5IGZhc3QuIEl0CmFsc28g
+aW5jbHVkZXMgRVhTTFQgYW5kIHNvbWUgb2Ygc2F4b24ncyBleHRlbnNpb25zLiAoU2F4b24gbWF5
+IHByb3ZpZGUKRVhTTFQgdG9vOiBpdCdzIGJlZW4gYXdoaWxlIHNpbmNlIEkndmUgbG9va2VkIGF0
+IGl0cyBmZWF0dXJlcy4pJm5ic3A7CkkndmUgdXNlZCBpdCB3aXRoIGdvb2QgcmVzdWx0cywgYnV0
+IGlmIEkgd2VyZSBjb21mb3J0YWJsZSB3aXRoIHNheG9uCmFuZCBkaWRuJ3QgbmVlZCBsaWJ4c2x0
+J3MgZXh0cmEgZmVhdHVyZXMsIEkgZG9uJ3Qga25vdyB0aGF0IEknZCBzd2l0Y2guPGJyPgo8YnI+
+CkVyaWM8YnI+PGJyPjxkaXY+PHNwYW4gY2xhc3M9ImdtYWlsX3F1b3RlIj5PbiA5LzI4LzA1LCA8
+YiBjbGFzcz0iZ21haWxfc2VuZGVybmFtZSI+RGFuaWVsIFBhdWwgTydEb25uZWxsPC9iPiAmbHQ7
+PGEgaHJlZj0ibWFpbHRvOmRhbmllbC5vZG9ubmVsbEB1bGV0aC5jYSI+ZGFuaWVsLm9kb25uZWxs
+QHVsZXRoLmNhPC9hPiZndDsgd3JvdGU6PC9zcGFuPjxibG9ja3F1b3RlIGNsYXNzPSJnbWFpbF9x
+dW90ZSIgc3R5bGU9ImJvcmRlci1sZWZ0OiAxcHggc29saWQgcmdiKDIwNCwgMjA0LCAyMDQpOyBt
+YXJnaW46IDBwdCAwcHQgMHB0IDAuOGV4OyBwYWRkaW5nLWxlZnQ6IDFleDsiPgpIaSBhbGwsIEkg
+anVzdCBkaXNjb3ZlcmVkIHhzbHRwcm9jIGluIGxpbnV4LiBEb2VzIGFueWJvZHkga25vdyB3aGF0
+IFhTTDxicj5wcm9jZXNzIGl0IGlzPyBJdCBzZWVtcyBxdWl0ZSBnb29kLiBJcyB0aGVyZSBhIHJl
+YXNvbiBub3QgdG8gcHJlZmVyIGl0PGJyPnRvIFNheG9uPzxicj48YnI+LWRhbjxicj48YnI+PGJy
+Pl9fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fCjxicj5EaWdp
+dGFsIE1lZGlldmFsaXN0IFByb2plY3Q8YnI+SG9tZXBhZ2U6IDxhIGhyZWY9Imh0dHA6Ly93d3cu
+ZGlnaXRhbG1lZGlldmFsaXN0Lm9yZyI+aHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3Jn
+PC9hPjxicj5Kb3VybmFsIChTcHJpbmcgMjAwNS0pOiA8YSBocmVmPSJodHRwOi8vd3d3LmRpZ2l0
+YWxtZWRpZXZhbGlzdC5vcmcvam91cm5hbC5jZm0iPmh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFs
+aXN0Lm9yZy9qb3VybmFsLmNmbQo8L2E+PGJyPlJTUyAoYW5ub3VuY2VtZW50cykgc2VydmVyOiA8
+YSBocmVmPSJodHRwOi8vd3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmcvcnNzL3JzczIuY2ZtIj5o
+dHRwOi8vd3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmcvcnNzL3JzczIuY2ZtPC9hPjxicj5XaWtp
+OiA8YSBocmVmPSJodHRwOi8vc3FsLnVsZXRoLmNhL2Rtb3Jnd2lraS9pbmRleC5waHAiPmh0dHA6
+Ly9zcWwudWxldGguY2EvZG1vcmd3aWtpL2luZGV4LnBocAo8L2E+PGJyPkNoYW5nZSBtZW1iZXJz
+aGlwIG9wdGlvbnM6IDxhIGhyZWY9Imh0dHA6Ly9saXN0c2Vydi51bGV0aC5jYS9tYWlsbWFuL2xp
+c3RpbmZvL2RtLWwiPmh0dHA6Ly9saXN0c2Vydi51bGV0aC5jYS9tYWlsbWFuL2xpc3RpbmZvL2Rt
+LWw8L2E+PGJyPlN1Ym1pdCBSU1MgYW5ub3VuY2VtZW50OiA8YSBocmVmPSJodHRwOi8vd3d3LmRp
+Z2l0YWxtZWRpZXZhbGlzdC5vcmcvbmV3aXRlbS5jZm0iPgpodHRwOi8vd3d3LmRpZ2l0YWxtZWRp
+ZXZhbGlzdC5vcmcvbmV3aXRlbS5jZm08L2E+PGJyPkNvbnRhY3QgZWRpdG9yaWFsIEJvYXJkOiA8
+YSBocmVmPSJtYWlsdG86ZGlnaXRhbG1lZGlldmFsaXN0QHVsZXRoLmNhIj5kaWdpdGFsbWVkaWV2
+YWxpc3RAdWxldGguY2E8L2E+PGJyPmRtLWwgbWFpbGluZyBsaXN0PGJyPjxhIGhyZWY9Im1haWx0
+bzpkbS1sQHVsZXRoLmNhIj5kbS1sQHVsZXRoLmNhCjwvYT48YnI+PGEgaHJlZj0iaHR0cDovL2xp
+c3RzZXJ2LnVsZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0tbCI+aHR0cDovL2xpc3RzZXJ2LnVs
+ZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0tbDwvYT48YnI+PC9ibG9ja3F1b3RlPjwvZGl2Pjxi
+cj48YnIgY2xlYXI9ImFsbCI+PGJyPi0tIDxicj5JIGhhdmUgYSBjdW5uaW5nIHBsYW4hPGJyPiZu
+YnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNw
+OyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZu
+YnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOwotLUJhbGRyaWMK

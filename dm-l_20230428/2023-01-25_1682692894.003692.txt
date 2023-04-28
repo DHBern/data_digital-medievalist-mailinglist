@@ -1,0 +1,34 @@
+Subject: [dm-l] CfP: Workshop on Extracting Heterogeneous Reference Data
+(With apologies for cross-postings)Call for Papers: Workshop on Extracting Heterogeneous Reference Data (Frankfu=
+rt/Hybrid, 15/16 May 2023)https://mpilhlt.github.io/reference-extraction/workshop-2023/cfp/Recognition and parsing of references to literature is a long-standing proble=
+m in the processing of historical or scholarly texts in the domains of the hu=
+manities, law and the social sciences. We invite contributions to a hybrid wo=
+rkshop addressing what the current state of the art in reference extraction i=
+s and how recent technological advances like large language models may help i=
+mprove it.The workshop will be held in a hybrid format on 15/16 May 2023 at the Max Pla=
+nck Institute for Legal History and Legal Theory, Frankfurt/Main, Germany.We are calling for contributions, to the following and related topics/questio=
+ns:=C2=B7        Problem/task definition      *   What are use cases and current projects?
+      *   What precise (sub-)tasks can we identify?=C2=B7        State of the art      *   What is the performance of current approaches?
+      *   How can the newly emerging technologies be leveraged to improve upo=
+n existing solutions?=C2=B7        Pooling of tools and resources      *   What training corpora are available? Which are needed, and in what =
+format?
+      *   What workflows/toolchains do we need?=C2=B7        Future work      *   What infrastructure is required/available?
+      *   Should we establish a Shared Task? Write a whitepaper? Hold a hacka=
+thon?Please also consider contributing if you have suitable training data or if yo=
+u are working on related tasks like preparation of datasets, linking of refer=
+ences, etc._redacted_(a)lhlt.mpg.de. Deadline for submissions=
+ is Feb 28th 2023. All submitters will be notified of their status by March 1=
+3th 2023.Find more details in the full Call: https://mpilhlt.github.io/reference-extra=
+ction/workshop-2023/cfp/We are looking forward to your contributions!Christian Boulanger, mpilhlt Frankfurt
+Robin Haunschild, mpgivs-cpt Stuttgart
+Malte Vogl, mpiwg Berlin
+Andreas Wagner, mpilhlt Frankfurt
+--
+_redacted_@anwagnerdreas
+Project "The School of Salamanca"           web: http://salamanca.adwmainz.de
+Academy of Sciences and Literature, Mainz   fon: +49 (0)69/798-32774
+and Institute of Philosophy                 fax: +49 (0)69/798-32794
+Goethe University FrankfurtIGF HP 25 / R 2.455
+Norbert-Wollheim-Platz 1
+60629 Frankfurt am Main
+--===============7143834452962102950==--

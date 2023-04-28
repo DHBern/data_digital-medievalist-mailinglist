@@ -1,0 +1,42 @@
+Subject: [dm-l] VeDPH Forthcoming SeminarsDear colleagues,In this difficult time, we would like to inform you about our activities
+and upcoming events.The seminar by Daniele Fusi, "Presenting Cadmus: a general-purpose and
+modular content editing alternative for complex models" (see abstract
+below) will be held online Wednesday 25 of March at 17:00 on Google
+Meet. If you are interested in participating, please send and email to
+_redacted_(a)unive.it.The VeDPH seminars will continue in April and May. The next seminars
+will be:
+1 April 2020 at 17:00, Rodolfo Del Monte, "Poetry and computer speech -
+Analysing and Reading Elizabethan and modern poets with SPARSAR";
+8 April 2020 at 17:00, Sara Tonelli, "Building tools and datasets to
+detect online hate speech: current studies on cyberbullying and
+islamophobia".In the meantime you can see videos of past VeDPH seminars on our youtube
+channel https://www.youtube.com/channel/UCpVTd9npww6UwFQti5yu4NQ.Should you require any further information, please do not hesitate to
+write to us.Yours sincerely,
+Paolo Monella
+VeDPH - Venice Centre for Digital and Public Humanities---ABSTRACTDaniele Fusi, "Presenting Cadmus: a general-purpose and modular content
+editing alternative for complex models"In the traditional content creation process of Scholarly Digital
+Editions, a "text-centric" perspective is often responsible of the
+persistence of a "book paradigm" in its digital reincarnation. At least
+when producing content, we essentially deal with a text which flows from
+paper to a digital document with annotations (XML), to be then published
+to HTML via XSLT. Here, the tree structure laid on the text bears the
+whole data universe. This is consistent with the typical usages of TEI,
+essentially oriented to the "reconstruction of documents".
+Yet, in some cases, especially with the outgrow of data provided by new
+types of analysis (e.g. morphological, syntactical or metrical tagging),
+and/or when handling very complex documents (e.g. inscriptions or
+complex literary traditions), this may not be the most efficient
+paradigm for creating content.
+In such scenarios, a paradigm shift might be beneficial. Here, TEI might
+be the final outcome of a more articulated production flow, rather than
+its starting point. Thinking textual, meta-textual or non-textual
+content beyond the technological and mental markup constraints allows
+freeing scholars from a number of practical issues (e.g. apparatus and
+workarounds like stand-off), letting them focus on their logical rather
+than physical models. Also, when creating content we should emphasize
+the typical requirements of any modern content editing infrastructure
+(e.g. centralization, robustness, real-time validation and search,
+web-based concurrent editing, etc.), which are very difficult to be met
+when dealing with text files. For these scenarios, I'm proposing a
+simple, modular and open editing solution, codenamed Cadmus.
+--===============6327470941831831301==--

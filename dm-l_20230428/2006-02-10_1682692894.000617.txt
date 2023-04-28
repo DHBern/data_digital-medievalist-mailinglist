@@ -1,0 +1,15 @@
+Subject: [dm-l] Weird Firefox errorHi all,I have a question I'm hoping somebody here might be able to help me
+with: I run Firefox on several machines. When I load in a local xml file
+with associated style information, the browser transforms the file
+correctly on two of my three computers. On the third, however, I get the
+following error:Error loading stylesheet: (null)file:///<path_to_stylesheet>I googled the error and saw that a common source for this error is an
+error in the mime type declarations, but in my case I wonder if this
+could be true, since Firefox is accepting the same files on other
+machines. In any event, here is the beginning of the file:
+> <?xml version=3D"1.0" encoding=3D"utf-8"?>
+> <?xml-stylesheet type=3D"text/xsl" href=3D"file:/home/dan/documents/xml/xsl=
+t/dm1_2.xsl"?>
+> <TEI.2 rend=3D"article">
+>=20
+(I've also tried text/xml and application/xml and application/xsl).Any ideas where to hunt for the problem?
+--===============6551428065233842383==--

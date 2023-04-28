@@ -1,0 +1,10 @@
+Subject: [dm-l] Junicode 0.6.14 releasedThis last release in the Junicode 0.6 series contains all MUFI (Medieval 
+Unicode Font Initiative) alphabetic characters (some diacritics, 
+suspensions and other symbols will be added in 0.7). It also adds 
+OpenType features especially to support MUFI: enlarged minuscules, 
+overlines with roman numbers, underdotted (deleted) text, and an 
+alternative shape of yogh can all be produced via Style Sets. Support 
+for diacritics via ccmp, mark and mkmk has been expanded, and support 
+for MUFI ligatures via hlig (Historical Ligatures) has also been 
+expanded. See the documentation for recommendations concerning MUFI 
+characters.Junicode is available at http://junicode.sourceforge.net.Peter Baker

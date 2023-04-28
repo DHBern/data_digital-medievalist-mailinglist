@@ -1,0 +1,215 @@
+Subject: [dm-l] [Final CFP] SUMAC 4th Edition (Deadline: 4 July, 2022)[Apologies if you receive multiple copies of this CfP]Call for Papers
+SUMAC 2022
+The 4th workshop on Structuring and Understanding of Multimedia heritAge Cont=
+ents10 or 14 October 2021 (TBA)
+Lisbon, Portugal (attendance mode TBA)In conjunction with ACM Multimedia 2022
+Workshop: https://sumac-workshops.github.io/2022/
+Conference: https://2022.acmmm.orgSubmission Portal: https://easychair.org/conferences/?conf=3Dsumac2022
+Deadline: July 4, 2022 (11:59 p.m. AoE)Aims and scope
+The digitisation of large quantities of analogue data and the massive product=
+ion of born-digital documents for many years now provide us with large volume=
+s of varied multimedia data (images, maps, text, video, 3D objects, multi-sen=
+sor data, etc.), an important feature of which is that they are cross-domain.=
+ =E2=80=9CCross-domain=E2=80=9D reflects the fact that these data may have be=
+en acquired in very different conditions: different acquisition systems, time=
+s and points of view (e.g. a 1962 postcard from the Arc de Triomphe vs. a rec=
+ent street-view acquisition by mobile mapping of the same monument). These da=
+ta represent an extremely rich heritage that can be exploited in a wide varie=
+ty of fields, from Social Sciences and Humanities to land use and territorial=
+ policies, including smart city, urban planning, smart tourism and culture, c=
+reative media and entertainment. In terms of research in computer science and=
+ artificial intelligence, they address challenging problems related to the di=
+versity, specificity and volume of the media, the variety of content descript=
+ors (potentially including the time dimension), the veracity of the data, and=
+ the different user needs with respect to engaging with this rich material an=
+d the extraction of value out of the data. These challenges are reflected in =
+various research topics such as multimodal and mixed media search, automatic =
+content analysis, multimedia linking and recommendation, and big data analysi=
+s and visualisation where scientific bottlenecks may be exacerbated by the ti=
+me dimension =E2=80=93 which also provides topics of interest such as multimo=
+dal time series analysis. The objective of this workshop is to present and di=
+scuss the latest and most significant trends in the analysis, structuring and=
+ understanding of multimedia contents dedicated to the valorization of herita=
+ge, with the emphasis on enabling access to the big data of the past. We welc=
+ome research contributions for the following (but not limited to) topics:  *   Multimedia and cross-domain data search, interlinking and recommendatio=
+n=E2=80=A2 Dating and spatialization of historical data
+  *   Mixed media data access and indexing
+  *   Multi-modal deep learning
+  *   Deep learning in adverse conditions (transfer learning, learning with s=
+ide information, etc.)
+  *   Multi-modal time series analysis, evolution modelling
+  *   Multi-modal & multi-temporal data rendering
+  *   Heritage - Building Information Modelling, Art Virtualisation
+  *   HCI / Interfaces for large-scale datasets
+  *   Smart digitisation of massive quantities of data
+  *   Bench-marking, Open Data Movement
+  *   Generative modelling of cultural heritageKeynote Speakers  *   Prof. Dr.-Ing. habil. Andreas Maier
+Talk Theme: "Book CT (Computed Tomography) and Time Machine Projects (https:/=
+/www.timemachine.eu/)"
+  *   Prof. Georgios Artopoulos
+Talk Theme: "Creating a Time Machine of future pasts: data integration and in=
+teroperability for cross-disciplinary research on urban heritage clusters."Important dates  *   Paper submission: July 4, 2022 (11:59 p.m. AoE)
+  *   Author acceptance notification: July 22, 2022
+  *   Camera-Ready: August 7, 2022
+  *   Workshop date: TBA, either 10 or 14 October 2022Submission guidelines
+Submission format. All submissions must be original work not under review at =
+any other workshop, conference, or journal. The workshop will accept papers d=
+escribing completed work as well as work in progress. One submission format i=
+s accepted: full paper, which must follow
+the formatting guidelines of the main conference ACM MM 2022. Full papers sho=
+uld be from 6 to 8 pages (plus 2 additional pages for the references), encode=
+d as PDF and using the ACM Article Template. For paper guidelines, please vis=
+it https://2022.acmmm.org/call-for-papers/, and refer to the "Paper Format" u=
+nder "Submission Instructions". Peer Review and publication in ACM Digital Li=
+brary. Paper submissions must conform with the =E2=80=9Cdouble-blind=E2=80=9D=
+ review policy. All papers will be peer-reviewed by experts in the field, the=
+y will receive at least two reviews. Acceptance will be based on relevance to=
+ the workshop, scientific novelty, and technical quality. Depending on the nu=
+mber, maturity and topics of the accepted submissions, the work will be prese=
+nted via oral or poster sessions. The workshop papers will be published in th=
+e ACM Digital Library.Organizers
+Valerie Gouet-Brunet (LaSTIG Lab / IGN - Gustave Eiffel University, France)
+Ronak Kosti (Germanistik und Kunstwissenschaften Fachbereichs / Philipps-Univ=
+ersit=C3=A4t Marburg, Germany)
+Li Weng (Hangzhou Dianzi UniversityRegards,
+Ronak Kosti,
+Post Doc Researcher,
+Germanistik und Kunstwissenschaften Fachbereichs / Philipps-Universit=C3=A4t =
+Marburg, Germany
+_redacted_(a)fau.de>
+Web: https://lme.tf.fau.de/person/kostiPGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
+eHQvaHRtbDsgY2hhcnNldD11dGYtOCI+CjwvaGVhZD4KPGJvZHk+CjxkaXYgc3R5bGU9ImJvcmRl
+cjpzb2xpZCAjNjQ2NDY0IDEuMHB0O3BhZGRpbmc6Mi4wcHQgMi4wcHQgMi4wcHQgMi4wcHQ7YmFj
+a2dyb3VuZDojRkZFQjlDIj4KPHAgY2xhc3M9Ik1zb05vcm1hbCIgc3R5bGU9ImxpbmUtaGVpZ2h0
+OjEyLjBwdDttYXJnaW46NXB4Ij48Yj48c3BhbiBzdHlsZT0iZm9udC1zaXplOjEwLjBwdDtjb2xv
+cjojOUM2NTAwIj48L3NwYW4+PC9iPjxzcGFuIHN0eWxlPSJmb250LXNpemU6MTAuMHB0O2NvbG9y
+OmJsYWNrIj5DYXV0aW9uOiBUaGlzIGVtYWlsIHdhcyBzZW50IGZyb20gc29tZW9uZQo8Yj5vdXRz
+aWRlIG9mIHRoZSBVbml2ZXJzaXR5IG9mIExldGhicmlkZ2U8L2I+LiBEbyBub3QgY2xpY2sgb24g
+bGlua3Mgb3Igb3BlbiBhdHRhY2htZW50cyB1bmxlc3MgeW91IGtub3cgdGhleSBhcmUgc2FmZS4g
+U3VzcGljaW91cyBlbWFpbHMgc2hvdWxkIGJlIGZvcndhcmRlZCB0byBwaGlzaGluZ0B1bGV0aC5j
+YS48bzpwPjwvbzpwPjwvc3Bhbj48L3A+CjwvZGl2Pgo8YnI+CjxkaXY+CjxkaXYgZGlyPSJsdHIi
+Pgo8ZGl2IGlkPSJnbWFpbC06Nzl0IiBjbGFzcz0iZ21haWwtQXIgZ21haWwtQXUgZ21haWwtQW8i
+IHN0eWxlPSJkaXNwbGF5OmJsb2NrIj4KPGRpdiBpZD0iZ21haWwtOjc5cCIgY2xhc3M9ImdtYWls
+LUFtIGdtYWlsLUFsIGVkaXRhYmxlIGdtYWlsLUxXLWF2ZiBnbWFpbC10Uy10VyBnbWFpbC10Uy10
+WSIgYXJpYS1sYWJlbD0iTWVzc2FnZSBCb2R5IiByb2xlPSJ0ZXh0Ym94IiBhcmlhLW11bHRpbGlu
+ZT0idHJ1ZSIgc3R5bGU9ImRpcmVjdGlvbjpsdHI7bWluLWhlaWdodDozMjdweCIgdGFiaW5kZXg9
+IjEiPgo8ZGl2IGNsYXNzPSJnbWFpbF9xdW90ZSI+CjxkaXYgZGlyPSJsdHIiPgo8ZGl2IGNsYXNz
+PSJnbWFpbF9xdW90ZSI+CjxkaXYgZGlyPSJsdHIiPltBcG9sb2dpZXMgaWYgeW91IHJlY2VpdmUg
+bXVsdGlwbGUgY29waWVzIG9mIHRoaXMgQ2ZQXTxicj4KPGRpdj48YnI+CjwvZGl2Pgo8ZGl2IHN0
+eWxlPSJ0ZXh0LWFsaWduOmNlbnRlciI+PGI+Q2FsbCBmb3IgUGFwZXJzPC9iPjwvZGl2Pgo8ZGl2
+IHN0eWxlPSJ0ZXh0LWFsaWduOmNlbnRlciI+PGI+U1VNQUMgMjAyMjxicj4KPC9iPjwvZGl2Pgo8
+ZGl2IHN0eWxlPSJ0ZXh0LWFsaWduOmNlbnRlciI+PGI+VGhlIDR0aCB3b3Jrc2hvcCBvbiBTdHJ1
+Y3R1cmluZyBhbmQgVW5kZXJzdGFuZGluZyBvZiBNdWx0aW1lZGlhIGhlcml0QWdlIENvbnRlbnRz
+PC9iPjxicj4KPC9kaXY+CjxkaXYgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YnI+CjwvZGl2
+Pgo8ZGl2IHN0eWxlPSJ0ZXh0LWFsaWduOmNlbnRlciI+MTAgb3IgMTQgT2N0b2JlciAyMDIxIChU
+QkEpPC9kaXY+CjxkaXYgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj5MaXNib24sIFBvcnR1Z2Fs
+IChhdHRlbmRhbmNlIG1vZGUgVEJBKTxicj4KPC9kaXY+CjxkaXYgc3R5bGU9InRleHQtYWxpZ246
+Y2VudGVyIj48YnI+CjwvZGl2Pgo8ZGl2IHN0eWxlPSJ0ZXh0LWFsaWduOmNlbnRlciI+SW4gY29u
+anVuY3Rpb24gd2l0aCBBQ00gTXVsdGltZWRpYSAyMDIyPC9kaXY+CjxkaXYgc3R5bGU9InRleHQt
+YWxpZ246Y2VudGVyIj5Xb3Jrc2hvcDogPGEgaHJlZj0iaHR0cHM6Ly9zdW1hYy13b3Jrc2hvcHMu
+Z2l0aHViLmlvLzIwMjIvIiB0YXJnZXQ9Il9ibGFuayI+Cmh0dHBzOi8vc3VtYWMtd29ya3Nob3Bz
+LmdpdGh1Yi5pby8yMDIyLzwvYT48YnI+CkNvbmZlcmVuY2U6IDxhIGhyZWY9Imh0dHBzOi8vMjAy
+Mi5hY21tbS5vcmciIHRhcmdldD0iX2JsYW5rIj5odHRwczovLzIwMjIuYWNtbW0ub3JnPC9hPjxi
+cj4KPC9kaXY+CjxkaXY+PGJyPgo8L2Rpdj4KPGRpdj48Yj5TdWJtaXNzaW9uIFBvcnRhbDogPC9i
+PjxhIGhyZWY9Imh0dHBzOi8vZWFzeWNoYWlyLm9yZy9jb25mZXJlbmNlcy8/Y29uZj1zdW1hYzIw
+MjIiPmh0dHBzOi8vZWFzeWNoYWlyLm9yZy9jb25mZXJlbmNlcy8/Y29uZj1zdW1hYzIwMjI8L2E+
+PGI+Jm5ic3A7Cjxicj4KPC9iPjwvZGl2Pgo8ZGl2PjxiPkRlYWRsaW5lOiA8L2I+SnVseSA0LCAy
+MDIyICgxMTo1OSBwLm0uIEFvRSk8L2Rpdj4KPGRpdj48YnI+CjwvZGl2Pgo8ZGl2PjxiPkFpbXMg
+YW5kIHNjb3BlPC9iPjwvZGl2Pgo8ZGl2PlRoZSBkaWdpdGlzYXRpb24gb2YgbGFyZ2UgcXVhbnRp
+dGllcyBvZiBhbmFsb2d1ZSBkYXRhIGFuZCB0aGUgbWFzc2l2ZSBwcm9kdWN0aW9uIG9mIGJvcm4t
+ZGlnaXRhbCBkb2N1bWVudHMgZm9yIG1hbnkgeWVhcnMgbm93IHByb3ZpZGUgdXMgd2l0aCBsYXJn
+ZSB2b2x1bWVzIG9mIHZhcmllZCBtdWx0aW1lZGlhIGRhdGEgKGltYWdlcywgbWFwcywgdGV4dCwg
+dmlkZW8sIDNEIG9iamVjdHMsIG11bHRpLXNlbnNvciBkYXRhLCBldGMuKSwgYW4gaW1wb3J0YW50
+CiBmZWF0dXJlIG9mIHdoaWNoIGlzIHRoYXQgdGhleSBhcmUgY3Jvc3MtZG9tYWluLiDigJxDcm9z
+cy1kb21haW7igJ0gcmVmbGVjdHMgdGhlIGZhY3QgdGhhdCB0aGVzZSBkYXRhIG1heSBoYXZlIGJl
+ZW4gYWNxdWlyZWQgaW4gdmVyeSBkaWZmZXJlbnQgY29uZGl0aW9uczogZGlmZmVyZW50IGFjcXVp
+c2l0aW9uIHN5c3RlbXMsIHRpbWVzIGFuZCBwb2ludHMgb2YgdmlldyAoZS5nLiBhIDE5NjIgcG9z
+dGNhcmQgZnJvbSB0aGUgQXJjIGRlIFRyaW9tcGhlIHZzLgogYSByZWNlbnQgc3RyZWV0LXZpZXcg
+YWNxdWlzaXRpb24gYnkgbW9iaWxlIG1hcHBpbmcgb2YgdGhlIHNhbWUgbW9udW1lbnQpLiBUaGVz
+ZSBkYXRhIHJlcHJlc2VudCBhbiBleHRyZW1lbHkgcmljaCBoZXJpdGFnZSB0aGF0IGNhbiBiZSBl
+eHBsb2l0ZWQgaW4gYSB3aWRlIHZhcmlldHkgb2YgZmllbGRzLCBmcm9tIFNvY2lhbCBTY2llbmNl
+cyBhbmQgSHVtYW5pdGllcyB0byBsYW5kIHVzZSBhbmQgdGVycml0b3JpYWwgcG9saWNpZXMsIGlu
+Y2x1ZGluZwogc21hcnQgY2l0eSwgdXJiYW4gcGxhbm5pbmcsIHNtYXJ0IHRvdXJpc20gYW5kIGN1
+bHR1cmUsIGNyZWF0aXZlIG1lZGlhIGFuZCBlbnRlcnRhaW5tZW50LiBJbiB0ZXJtcyBvZiByZXNl
+YXJjaCBpbiBjb21wdXRlciBzY2llbmNlIGFuZCBhcnRpZmljaWFsIGludGVsbGlnZW5jZSwgdGhl
+eSBhZGRyZXNzIGNoYWxsZW5naW5nIHByb2JsZW1zIHJlbGF0ZWQgdG8gdGhlIGRpdmVyc2l0eSwg
+c3BlY2lmaWNpdHkgYW5kIHZvbHVtZSBvZiB0aGUgbWVkaWEsCiB0aGUgdmFyaWV0eSBvZiBjb250
+ZW50IGRlc2NyaXB0b3JzIChwb3RlbnRpYWxseSBpbmNsdWRpbmcgdGhlIHRpbWUgZGltZW5zaW9u
+KSwgdGhlIHZlcmFjaXR5IG9mIHRoZSBkYXRhLCBhbmQgdGhlIGRpZmZlcmVudCB1c2VyIG5lZWRz
+IHdpdGggcmVzcGVjdCB0byBlbmdhZ2luZyB3aXRoIHRoaXMgcmljaCBtYXRlcmlhbCBhbmQgdGhl
+IGV4dHJhY3Rpb24gb2YgdmFsdWUgb3V0IG9mIHRoZSBkYXRhLiBUaGVzZSBjaGFsbGVuZ2VzIGFy
+ZSByZWZsZWN0ZWQKIGluIHZhcmlvdXMgcmVzZWFyY2ggdG9waWNzIHN1Y2ggYXMgbXVsdGltb2Rh
+bCBhbmQgbWl4ZWQgbWVkaWEgc2VhcmNoLCBhdXRvbWF0aWMgY29udGVudCBhbmFseXNpcywgbXVs
+dGltZWRpYSBsaW5raW5nIGFuZCByZWNvbW1lbmRhdGlvbiwgYW5kIGJpZyBkYXRhIGFuYWx5c2lz
+IGFuZCB2aXN1YWxpc2F0aW9uIHdoZXJlIHNjaWVudGlmaWMgYm90dGxlbmVja3MgbWF5IGJlIGV4
+YWNlcmJhdGVkIGJ5IHRoZSB0aW1lIGRpbWVuc2lvbiDigJMgd2hpY2ggYWxzbwogcHJvdmlkZXMg
+dG9waWNzIG9mIGludGVyZXN0IHN1Y2ggYXMgbXVsdGltb2RhbCB0aW1lIHNlcmllcyBhbmFseXNp
+cy4gVGhlIG9iamVjdGl2ZSBvZiB0aGlzIHdvcmtzaG9wIGlzIHRvIHByZXNlbnQgYW5kIGRpc2N1
+c3MgdGhlIGxhdGVzdCBhbmQgbW9zdCBzaWduaWZpY2FudCB0cmVuZHMgaW4gdGhlIGFuYWx5c2lz
+LCBzdHJ1Y3R1cmluZyBhbmQgdW5kZXJzdGFuZGluZyBvZiBtdWx0aW1lZGlhIGNvbnRlbnRzIGRl
+ZGljYXRlZCB0byB0aGUgdmFsb3JpemF0aW9uCiBvZiBoZXJpdGFnZSwgd2l0aCB0aGUgZW1waGFz
+aXMgb24gZW5hYmxpbmcgYWNjZXNzIHRvIHRoZSBiaWcgZGF0YSBvZiB0aGUgcGFzdC4gV2Ugd2Vs
+Y29tZSByZXNlYXJjaCBjb250cmlidXRpb25zIGZvciB0aGUgZm9sbG93aW5nIChidXQgbm90IGxp
+bWl0ZWQgdG8pIHRvcGljczoKPGJyPgo8L2Rpdj4KPHVsPgo8bGk+TXVsdGltZWRpYSBhbmQgY3Jv
+c3MtZG9tYWluIGRhdGEgc2VhcmNoLCBpbnRlcmxpbmtpbmcgYW5kIHJlY29tbWVuZGF0aW9u4oCi
+IERhdGluZyBhbmQgc3BhdGlhbGl6YXRpb24gb2YgaGlzdG9yaWNhbCBkYXRhPC9saT48bGk+TWl4
+ZWQgbWVkaWEgZGF0YSBhY2Nlc3MgYW5kIGluZGV4aW5nPC9saT48bGk+TXVsdGktbW9kYWwgZGVl
+cCBsZWFybmluZzwvbGk+PGxpPkRlZXAgbGVhcm5pbmcgaW4gYWR2ZXJzZSBjb25kaXRpb25zICh0
+cmFuc2ZlciBsZWFybmluZywgbGVhcm5pbmcgd2l0aCBzaWRlIGluZm9ybWF0aW9uLCBldGMuKTwv
+bGk+PGxpPk11bHRpLW1vZGFsIHRpbWUgc2VyaWVzIGFuYWx5c2lzLCBldm9sdXRpb24gbW9kZWxs
+aW5nPC9saT48bGk+TXVsdGktbW9kYWwgJmFtcDsgbXVsdGktdGVtcG9yYWwgZGF0YSByZW5kZXJp
+bmc8L2xpPjxsaT5IZXJpdGFnZSAtIEJ1aWxkaW5nIEluZm9ybWF0aW9uIE1vZGVsbGluZywgQXJ0
+IFZpcnR1YWxpc2F0aW9uPC9saT48bGk+SENJIC8gSW50ZXJmYWNlcyBmb3IgbGFyZ2Utc2NhbGUg
+ZGF0YXNldHM8L2xpPjxsaT5TbWFydCBkaWdpdGlzYXRpb24gb2YgbWFzc2l2ZSBxdWFudGl0aWVz
+IG9mIGRhdGE8L2xpPjxsaT5CZW5jaC1tYXJraW5nLCBPcGVuIERhdGEgTW92ZW1lbnQ8L2xpPjxs
+aT5HZW5lcmF0aXZlIG1vZGVsbGluZyBvZiBjdWx0dXJhbCBoZXJpdGFnZTwvbGk+PC91bD4KPGRp
+dj48Yj5LZXlub3RlIFNwZWFrZXJzIDxicj4KPC9iPjwvZGl2Pgo8ZGl2Pgo8dWw+CjxsaT48Yj5Q
+cm9mLiBEci4tSW5nLiBoYWJpbC4gQW5kcmVhcyBNYWllcjwvYj48YnI+Cjx1PlRhbGsgVGhlbWU6
+PC91PiAmcXVvdDtCb29rIENUIChDb21wdXRlZCBUb21vZ3JhcGh5KSBhbmQgVGltZSBNYWNoaW5l
+IFByb2plY3RzICg8YSBocmVmPSJodHRwczovL3d3dy50aW1lbWFjaGluZS5ldS8iIHRhcmdldD0i
+X2JsYW5rIj5odHRwczovL3d3dy50aW1lbWFjaGluZS5ldS88L2E+KSZxdW90Ozxicj4KPC9saT48
+bGk+PGI+UHJvZi4gR2Vvcmdpb3MgQXJ0b3BvdWxvcyA8L2I+PGJyPgo8dT5UYWxrIFRoZW1lOjwv
+dT4gJnF1b3Q7Q3JlYXRpbmcgYSBUaW1lIE1hY2hpbmUgb2YgZnV0dXJlIHBhc3RzOiBkYXRhIGlu
+dGVncmF0aW9uIGFuZCBpbnRlcm9wZXJhYmlsaXR5IGZvciBjcm9zcy1kaXNjaXBsaW5hcnkgcmVz
+ZWFyY2ggb24gdXJiYW4gaGVyaXRhZ2UgY2x1c3RlcnMuJnF1b3Q7PGI+PGJyPgo8L2I+PC9saT48
+L3VsPgo8L2Rpdj4KPGRpdj48Yj5JbXBvcnRhbnQgZGF0ZXM8L2I+PC9kaXY+Cjx1bD4KPGxpPlBh
+cGVyIHN1Ym1pc3Npb246IEp1bHkgNCwgMjAyMiAoMTE6NTkgcC5tLiBBb0UpPC9saT48bGk+QXV0
+aG9yIGFjY2VwdGFuY2Ugbm90aWZpY2F0aW9uOiBKdWx5IDIyLCAyMDIyPC9saT48bGk+Q2FtZXJh
+LVJlYWR5OiBBdWd1c3QgNywgMjAyMjwvbGk+PGxpPldvcmtzaG9wIGRhdGU6IFRCQSwgZWl0aGVy
+IDEwIG9yIDE0IE9jdG9iZXIgMjAyMjwvbGk+PC91bD4KPGRpdj48YnI+CjwvZGl2Pgo8ZGl2Pjxi
+PlN1Ym1pc3Npb24gZ3VpZGVsaW5lczwvYj48L2Rpdj4KU3VibWlzc2lvbiBmb3JtYXQuIEFsbCBz
+dWJtaXNzaW9ucyBtdXN0IGJlIG9yaWdpbmFsIHdvcmsgbm90IHVuZGVyIHJldmlldyBhdCBhbnkg
+b3RoZXIgd29ya3Nob3AsIGNvbmZlcmVuY2UsIG9yIGpvdXJuYWwuIFRoZSB3b3Jrc2hvcCB3aWxs
+IGFjY2VwdCBwYXBlcnMgZGVzY3JpYmluZyBjb21wbGV0ZWQgd29yayBhcyB3ZWxsIGFzIHdvcmsg
+aW4gcHJvZ3Jlc3MuIE9uZSBzdWJtaXNzaW9uIGZvcm1hdCBpcyBhY2NlcHRlZDogZnVsbCBwYXBl
+ciwgd2hpY2gKIG11c3QgZm9sbG93PGJyPgp0aGUgZm9ybWF0dGluZyBndWlkZWxpbmVzIG9mIHRo
+ZSBtYWluIGNvbmZlcmVuY2UgQUNNIE1NIDIwMjIuIEZ1bGwgcGFwZXJzIHNob3VsZCBiZSBmcm9t
+IDYgdG8gOCBwYWdlcyAocGx1cyAyIGFkZGl0aW9uYWwgcGFnZXMgZm9yIHRoZSByZWZlcmVuY2Vz
+KSwgZW5jb2RlZCBhcyBQREYgYW5kIHVzaW5nIHRoZSBBQ00gQXJ0aWNsZSBUZW1wbGF0ZS4gRm9y
+IHBhcGVyIGd1aWRlbGluZXMsIHBsZWFzZSB2aXNpdAo8YSBocmVmPSJodHRwczovLzIwMjIuYWNt
+bW0ub3JnL2NhbGwtZm9yLXBhcGVycy8iIHRhcmdldD0iX2JsYW5rIj5odHRwczovLzIwMjIuYWNt
+bW0ub3JnL2NhbGwtZm9yLXBhcGVycy88L2E+LCBhbmQgcmVmZXIgdG8gdGhlICZxdW90O1BhcGVy
+IEZvcm1hdCZxdW90OyB1bmRlciAmcXVvdDtTdWJtaXNzaW9uIEluc3RydWN0aW9ucyZxdW90Oy4g
+UGVlciBSZXZpZXcgYW5kIHB1YmxpY2F0aW9uIGluIEFDTSBEaWdpdGFsIExpYnJhcnkuIFBhcGVy
+IHN1Ym1pc3Npb25zIG11c3QgY29uZm9ybQogd2l0aCB0aGUg4oCcZG91YmxlLWJsaW5k4oCdIHJl
+dmlldyBwb2xpY3kuIEFsbCBwYXBlcnMgd2lsbCBiZSBwZWVyLXJldmlld2VkIGJ5IGV4cGVydHMg
+aW4gdGhlIGZpZWxkLCB0aGV5IHdpbGwgcmVjZWl2ZSBhdCBsZWFzdCB0d28gcmV2aWV3cy4gQWNj
+ZXB0YW5jZSB3aWxsIGJlIGJhc2VkIG9uIHJlbGV2YW5jZSB0byB0aGUgd29ya3Nob3AsIHNjaWVu
+dGlmaWMgbm92ZWx0eSwgYW5kIHRlY2huaWNhbCBxdWFsaXR5LiBEZXBlbmRpbmcgb24gdGhlIG51
+bWJlciwKIG1hdHVyaXR5IGFuZCB0b3BpY3Mgb2YgdGhlIGFjY2VwdGVkIHN1Ym1pc3Npb25zLCB0
+aGUgd29yayB3aWxsIGJlIHByZXNlbnRlZCB2aWEgb3JhbCBvciBwb3N0ZXIgc2Vzc2lvbnMuIFRo
+ZSB3b3Jrc2hvcCBwYXBlcnMgd2lsbCBiZSBwdWJsaXNoZWQgaW4gdGhlIEFDTSBEaWdpdGFsIExp
+YnJhcnkuPGJyPgo8ZGl2PjxiPjxicj4KPC9iPjwvZGl2Pgo8ZGl2PjxiPk9yZ2FuaXplcnM8L2I+
+PC9kaXY+ClZhbGVyaWUgR291ZXQtQnJ1bmV0IChMYVNUSUcgTGFiIC8gSUdOIC0gR3VzdGF2ZSBF
+aWZmZWwgVW5pdmVyc2l0eSwgRnJhbmNlKTxicj4KUm9uYWsgS29zdGkgKEdlcm1hbmlzdGlrIHVu
+ZCBLdW5zdHdpc3NlbnNjaGFmdGVuIEZhY2hiZXJlaWNocyAvIFBoaWxpcHBzLVVuaXZlcnNpdMOk
+dCBNYXJidXJnLCBHZXJtYW55KTxicj4KPGRpdj5MaSBXZW5nIChIYW5nemhvdSBEaWFuemkgVW5p
+dmVyc2l0eTwvZGl2Pgo8ZGl2Pjxicj4KPC9kaXY+CjxkaXY+UmVnYXJkcywgPGJyPgpSb25hayBL
+b3N0aSwgPGJyPgpQb3N0IERvYyBSZXNlYXJjaGVyLDxicj4KR2VybWFuaXN0aWsgdW5kIEt1bnN0
+d2lzc2Vuc2NoYWZ0ZW4gRmFjaGJlcmVpY2hzIC8gUGhpbGlwcHMtVW5pdmVyc2l0w6R0IE1hcmJ1
+cmcsIEdlcm1hbnkKPGJyPgpFbWFpbDogPGEgaHJlZj0ibWFpbHRvOnJvbmFrLmtvc3RpQGZhdS5k
+ZSIgdGFyZ2V0PSJfYmxhbmsiPnJvbmFrLmtvc3RpQGZhdS5kZTwvYT48YnI+CldlYjogPGEgaHJl
+Zj0iaHR0cHM6Ly9sbWUudGYuZmF1LmRlL3BlcnNvbi9rb3N0aSIgdGFyZ2V0PSJfYmxhbmsiPmh0
+dHBzOi8vbG1lLnRmLmZhdS5kZS9wZXJzb24va29zdGk8L2E+Cjxicj4KPC9kaXY+CjwvZGl2Pgo8
+L2Rpdj4KPC9kaXY+CjwvZGl2Pgo8L2Rpdj4KPC9kaXY+CjwvZGl2Pgo8L2Rpdj4KPC9ib2R5Pgo8
+L2h0bWw+Cg==

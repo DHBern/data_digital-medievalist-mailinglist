@@ -1,0 +1,24 @@
+Subject: Re: [dm-l] Switching XSL on the web (Lazy question)On Mon, 2006-13-03 at 10:00 +0000, James Cummings wrote:
+> Daniel O'Donnell wrote:> Well, the easy way is to just have four output documents with links to swit=
+ch
+> between them. I.e. edRunic.html dipRunic.html edRoman.html dipRoman.html and
+> when you generate the files just create links to the other files.  So, enti=
+rely
+> pre-processed.That's the obvious answer, but less neat than dynamic>=20
+> If you want to do it dynamically, then you'll need something like Apache's
+> cocoon.  In the sitemap.xmap for that where you'd normally have something l=
+ike:
+>=20
+<snip>
+>=20
+> So if you did http://www.example.com/dan/foo.html you'd defaultly get the
+> edRoman transformation for foo.xml.  If you did
+> http://www.example.com/dan/foobar.html?style=3DdipRunic  you'd get the dipR=
+unic
+> one, for foobar.xml, etc.
+>=20
+> Probably not the answer you were looking for,=20I think that's a fair assessment ;)> but might be helpful since this is
+> the kind of thing that cocoon is really good at.Thanks James for putting this on the record. This isn't the solution for
+a quick informal web page like I was thinking of this time, but it is
+useful to know the answer for more complicated projects.>=20
+> -james

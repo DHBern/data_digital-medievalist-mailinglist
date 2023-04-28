@@ -1,0 +1,237 @@
+Subject: Re: [dm-l] Weird Firefox errorA few things you might look into spring to my mind:- Are all machines running on the same platform (Win32 vs Unix)?
+- Do all machines share the same platform encoding (e.g. utf-8 vs cp1285)?
+- Has access been properly configured to the XSL-file, or does trying to
+reach it by http generate a 'forbidden' message?
+- Do the FIrefox versions match?y.s.,
+Joris_redacted_(a)uleth.ca> wrote:
+>
+> Yes. All the machines have the same directory structure and the files
+> are kept in sync on all three.
+>
+> -d
+>
+_redacted_(a)lacuna.ca wrote:
+> > Is the stylesheet in the same location on each machine?
+> >
+> > -----Original Message-----
+_redacted_(a)uleth.ca] On Behalf =
+Of
+> > Daniel O'Donnell
+> > Sent: Friday, February 10, 2006 7:37 PM
+> > To: Digital Medievalist Community mailing list
+> > Subject: [dm-l] Weird Firefox error
+> >
+> > Hi all,
+> >
+> > I have a question I'm hoping somebody here might be able to help me
+> > with: I run Firefox on several machines. When I load in a local xml file
+> > with associated style information, the browser transforms the file
+> > correctly on two of my three computers. On the third, however, I get the
+> > following error:
+> >
+> > Error loading stylesheet: (null)
+> >
+> > file:///<path_to_stylesheet>
+> >
+> > I googled the error and saw that a common source for this error is an
+> > error in the mime type declarations, but in my case I wonder if this
+> > could be true, since Firefox is accepting the same files on other
+> > machines. In any event, here is the beginning of the file:
+> >
+> >
+> > > <?xml version=3D"1.0" encoding=3D"utf-8"?>
+> > > <?xml-stylesheet type=3D"text/xsl"
+> > href=3D"file:/home/dan/documents/xml/xslt/dm1_2.xsl"?>
+> > > <TEI.2 rend=3D"article">
+> > >
+> > (I've also tried text/xml and application/xml and application/xsl).
+> >
+> > Any ideas where to hunt for the problem?
+> >
+> >
+> >
+> > _______________________________________________
+> > Digital Medievalist Project
+> > Homepage: http://www.digitalmedievalist.org
+> > Journal (Spring 2005-): http://www.digitalmedievalist.org/journal.cfm
+> > RSS (announcements) server:
+> http://www.digitalmedievalist.org/rss/rss2.cfm
+> > Wiki: http://sql.uleth.ca/dmorgwiki/index.php
+> > Change membership options:
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+> > Submit RSS announcement: http://www.digitalmedievalist.org/newitem.cfm
+_redacted_(a)uleth.ca
+> > dm-l mailing list
+_redacted_(a)uleth.ca
+> > http://listserv.uleth.ca/mailman/listinfo/dm-l
+> >
+> >
+> > _______________________________________________
+> > Digital Medievalist Project
+> > Homepage: http://www.digitalmedievalist.org
+> > Journal (Spring 2005-): http://www.digitalmedievalist.org/journal.cfm
+> > RSS (announcements) server:
+> http://www.digitalmedievalist.org/rss/rss2.cfm
+> > Wiki: http://sql.uleth.ca/dmorgwiki/index.php
+> > Change membership options:
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+> > Submit RSS announcement: http://www.digitalmedievalist.org/newitem.cfm
+_redacted_(a)uleth.ca
+> > dm-l mailing list
+_redacted_(a)uleth.ca
+> > http://listserv.uleth.ca/mailman/listinfo/dm-l
+> --
+> Daniel Paul O'Donnell
+> Associate Professor and Acting Chair
+> Director, Digital Medievalist Project
+> <http://www.digitalmedievalist.org/>
+> Department of English
+> University of Lethbridge
+> Lethbridge AB T1K 3M4
+> Canada
+>
+> Vox +1 403 329-2377
+> Fax +1 403 382-7191
+>
+_redacted_@caedmon/ubuntu
+>
+>
+>
+> _______________________________________________
+> Digital Medievalist Project
+> Homepage: http://www.digitalmedievalist.org
+> Journal (Spring 2005-): http://www.digitalmedievalist.org/journal.cfm
+> RSS (announcements) server: http://www.digitalmedievalist.org/rss/rss2.cfm
+> Wiki: http://sql.uleth.ca/dmorgwiki/index.php
+> Change membership options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+> Submit RSS announcement: http://www.digitalmedievalist.org/newitem.cfm
+_redacted_(a)uleth.ca
+> dm-l mailing list
+_redacted_(a)uleth.ca
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+>--
+Mr. Joris J. van Zundert (MA)
+Huygens Institute
+Royal Academy of Arts and SciencesContact information can be found at http://www.brandaen.orgA disclaimer is applicable to this e-mail, please refer to
+http://www.brandaen.org/emaildisclaimer for more informationQSBmZXcgdGhpbmdzIHlvdSBtaWdodCBsb29rIGludG8gc3ByaW5nIHRvIG15IG1pbmQ6IDxicj4K
+PGJyPgotIEFyZSBhbGwgbWFjaGluZXMgcnVubmluZyBvbiB0aGUgc2FtZSBwbGF0Zm9ybSAoV2lu
+MzIgdnMgVW5peCk/PGJyPgotIERvIGFsbCBtYWNoaW5lcyBzaGFyZSB0aGUgc2FtZSBwbGF0Zm9y
+bSBlbmNvZGluZyAoZS5nLiB1dGYtOCB2cyBjcDEyODUpPzxicj4KLSBIYXMgYWNjZXNzIGJlZW4g
+cHJvcGVybHkgY29uZmlndXJlZCB0byB0aGUgWFNMLWZpbGUsIG9yIGRvZXMgdHJ5aW5nIHRvIHJl
+YWNoIGl0IGJ5IGh0dHAgZ2VuZXJhdGUgYSAnZm9yYmlkZGVuJyBtZXNzYWdlPzxicj4KLSBEbyB0
+aGUgRklyZWZveCB2ZXJzaW9ucyBtYXRjaD88YnI+Cjxicj4KeS5zLiw8YnI+CkpvcmlzPGJyPjxi
+cj48ZGl2PjxzcGFuIGNsYXNzPSJnbWFpbF9xdW90ZSI+T24gMi8xMS8wNiwgPGIgY2xhc3M9Imdt
+YWlsX3NlbmRlcm5hbWUiPkRhbmllbCBPJ0Rvbm5lbGw8L2I+ICZsdDs8YSBocmVmPSJtYWlsdG86
+ZGFuaWVsLm9kb25uZWxsQHVsZXRoLmNhIj5kYW5pZWwub2Rvbm5lbGxAdWxldGguY2E8L2E+Jmd0
+OyB3cm90ZTo8L3NwYW4+PGJsb2NrcXVvdGUgY2xhc3M9ImdtYWlsX3F1b3RlIiBzdHlsZT0iYm9y
+ZGVyLWxlZnQ6IDFweCBzb2xpZCByZ2IoMjA0LCAyMDQsIDIwNCk7IG1hcmdpbjogMHB0IDBwdCAw
+cHQgMC44ZXg7IHBhZGRpbmctbGVmdDogMWV4OyI+Clllcy4gQWxsIHRoZSBtYWNoaW5lcyBoYXZl
+IHRoZSBzYW1lIGRpcmVjdG9yeSBzdHJ1Y3R1cmUgYW5kIHRoZSBmaWxlczxicj5hcmUga2VwdCBp
+biBzeW5jIG9uIGFsbCB0aHJlZS48YnI+PGJyPi1kPGJyPjxicj5PbiBGcmksIDIwMDYtMTAtMDIg
+YXQgMjM6MTYgLTA4MDAsIDxhIGhyZWY9Im1haWx0bzp0cmF2aXNAbGFjdW5hLmNhIj50cmF2aXNA
+bGFjdW5hLmNhPC9hPiB3cm90ZTo8YnI+CiZndDsgSXMgdGhlIHN0eWxlc2hlZXQgaW4gdGhlIHNh
+bWUgbG9jYXRpb24gb24gZWFjaCBtYWNoaW5lPzxicj4mZ3Q7PGJyPiZndDsgLS0tLS1PcmlnaW5h
+bCBNZXNzYWdlLS0tLS08YnI+Jmd0OyBGcm9tOiA8YSBocmVmPSJtYWlsdG86ZG0tbC1ib3VuY2Vz
+QHVsZXRoLmNhIj5kbS1sLWJvdW5jZXNAdWxldGguY2E8L2E+IFttYWlsdG86PGEgaHJlZj0ibWFp
+bHRvOmRtLWwtYm91bmNlc0B1bGV0aC5jYSI+CmRtLWwtYm91bmNlc0B1bGV0aC5jYTwvYT5dIE9u
+IEJlaGFsZiBPZjxicj4mZ3Q7IERhbmllbCBPJ0Rvbm5lbGw8YnI+Jmd0OyBTZW50OiBGcmlkYXks
+IEZlYnJ1YXJ5IDEwLCAyMDA2IDc6MzcgUE08YnI+Jmd0OyBUbzogRGlnaXRhbCBNZWRpZXZhbGlz
+dCBDb21tdW5pdHkgbWFpbGluZyBsaXN0PGJyPiZndDsgU3ViamVjdDogW2RtLWxdIFdlaXJkIEZp
+cmVmb3ggZXJyb3I8YnI+Jmd0Ozxicj4KJmd0OyBIaSBhbGwsPGJyPiZndDs8YnI+Jmd0OyBJIGhh
+dmUgYSBxdWVzdGlvbiBJJ20gaG9waW5nIHNvbWVib2R5IGhlcmUgbWlnaHQgYmUgYWJsZSB0byBo
+ZWxwIG1lPGJyPiZndDsgd2l0aDogSSBydW4gRmlyZWZveCBvbiBzZXZlcmFsIG1hY2hpbmVzLiBX
+aGVuIEkgbG9hZCBpbiBhIGxvY2FsIHhtbCBmaWxlPGJyPiZndDsgd2l0aCBhc3NvY2lhdGVkIHN0
+eWxlIGluZm9ybWF0aW9uLCB0aGUgYnJvd3NlciB0cmFuc2Zvcm1zIHRoZSBmaWxlCjxicj4mZ3Q7
+IGNvcnJlY3RseSBvbiB0d28gb2YgbXkgdGhyZWUgY29tcHV0ZXJzLiBPbiB0aGUgdGhpcmQsIGhv
+d2V2ZXIsIEkgZ2V0IHRoZTxicj4mZ3Q7IGZvbGxvd2luZyBlcnJvcjo8YnI+Jmd0Ozxicj4mZ3Q7
+IEVycm9yIGxvYWRpbmcgc3R5bGVzaGVldDogKG51bGwpPGJyPiZndDs8YnI+Jmd0OyBmaWxlOi8v
+LyZsdDtwYXRoX3RvX3N0eWxlc2hlZXQmZ3Q7PGJyPiZndDs8YnI+Jmd0OyBJIGdvb2dsZWQgdGhl
+IGVycm9yIGFuZCBzYXcgdGhhdCBhIGNvbW1vbiBzb3VyY2UgZm9yIHRoaXMgZXJyb3IgaXMgYW4K
+PGJyPiZndDsgZXJyb3IgaW4gdGhlIG1pbWUgdHlwZSBkZWNsYXJhdGlvbnMsIGJ1dCBpbiBteSBj
+YXNlIEkgd29uZGVyIGlmIHRoaXM8YnI+Jmd0OyBjb3VsZCBiZSB0cnVlLCBzaW5jZSBGaXJlZm94
+IGlzIGFjY2VwdGluZyB0aGUgc2FtZSBmaWxlcyBvbiBvdGhlcjxicj4mZ3Q7IG1hY2hpbmVzLiBJ
+biBhbnkgZXZlbnQsIGhlcmUgaXMgdGhlIGJlZ2lubmluZyBvZiB0aGUgZmlsZTo8YnI+CiZndDs8
+YnI+Jmd0Ozxicj4mZ3Q7ICZndDsgJmx0Oz94bWwgdmVyc2lvbj0mcXVvdDsxLjAmcXVvdDsgZW5j
+b2Rpbmc9JnF1b3Q7dXRmLTgmcXVvdDs/Jmd0Ozxicj4mZ3Q7ICZndDsgJmx0Oz94bWwtc3R5bGVz
+aGVldCB0eXBlPSZxdW90O3RleHQveHNsJnF1b3Q7PGJyPiZndDsgaHJlZj0mcXVvdDtmaWxlOi9o
+b21lL2Rhbi9kb2N1bWVudHMveG1sL3hzbHQvZG0xXzIueHNsJnF1b3Q7PyZndDsKPGJyPiZndDsg
+Jmd0OyAmbHQ7VEVJLjIgcmVuZD0mcXVvdDthcnRpY2xlJnF1b3Q7Jmd0Ozxicj4mZ3Q7ICZndDs8
+YnI+Jmd0OyAoSSd2ZSBhbHNvIHRyaWVkIHRleHQveG1sIGFuZCBhcHBsaWNhdGlvbi94bWwgYW5k
+IGFwcGxpY2F0aW9uL3hzbCkuPGJyPiZndDs8YnI+Jmd0OyBBbnkgaWRlYXMgd2hlcmUgdG8gaHVu
+dCBmb3IgdGhlIHByb2JsZW0/PGJyPiZndDs8YnI+Jmd0Ozxicj4mZ3Q7Cjxicj4mZ3Q7IF9fX19f
+X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fPGJyPiZndDsgRGlnaXRh
+bCBNZWRpZXZhbGlzdCBQcm9qZWN0PGJyPiZndDsgSG9tZXBhZ2U6IDxhIGhyZWY9Imh0dHA6Ly93
+d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZyI+aHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qu
+b3JnPC9hPjxicj4mZ3Q7IEpvdXJuYWwgKFNwcmluZyAyMDA1LSk6IAo8YSBocmVmPSJodHRwOi8v
+d3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmcvam91cm5hbC5jZm0iPmh0dHA6Ly93d3cuZGlnaXRh
+bG1lZGlldmFsaXN0Lm9yZy9qb3VybmFsLmNmbTwvYT48YnI+Jmd0OyBSU1MgKGFubm91bmNlbWVu
+dHMpIHNlcnZlcjogPGEgaHJlZj0iaHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnL3Jz
+cy9yc3MyLmNmbSI+aHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnL3Jzcy9yc3MyLmNm
+bQo8L2E+PGJyPiZndDsgV2lraTogPGEgaHJlZj0iaHR0cDovL3NxbC51bGV0aC5jYS9kbW9yZ3dp
+a2kvaW5kZXgucGhwIj5odHRwOi8vc3FsLnVsZXRoLmNhL2Rtb3Jnd2lraS9pbmRleC5waHA8L2E+
+PGJyPiZndDsgQ2hhbmdlIG1lbWJlcnNoaXAgb3B0aW9uczogPGEgaHJlZj0iaHR0cDovL2xpc3Rz
+ZXJ2LnVsZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0tbCI+aHR0cDovL2xpc3RzZXJ2LnVsZXRo
+LmNhL21haWxtYW4vbGlzdGluZm8vZG0tbAo8L2E+PGJyPiZndDsgU3VibWl0IFJTUyBhbm5vdW5j
+ZW1lbnQ6IDxhIGhyZWY9Imh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy9uZXdpdGVt
+LmNmbSI+aHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnL25ld2l0ZW0uY2ZtPC9hPjxi
+cj4mZ3Q7IENvbnRhY3QgZWRpdG9yaWFsIEJvYXJkOiA8YSBocmVmPSJtYWlsdG86ZGlnaXRhbG1l
+ZGlldmFsaXN0QHVsZXRoLmNhIj4KZGlnaXRhbG1lZGlldmFsaXN0QHVsZXRoLmNhPC9hPjxicj4m
+Z3Q7IGRtLWwgbWFpbGluZyBsaXN0PGJyPiZndDsgPGEgaHJlZj0ibWFpbHRvOmRtLWxAdWxldGgu
+Y2EiPmRtLWxAdWxldGguY2E8L2E+PGJyPiZndDsgPGEgaHJlZj0iaHR0cDovL2xpc3RzZXJ2LnVs
+ZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0tbCI+aHR0cDovL2xpc3RzZXJ2LnVsZXRoLmNhL21h
+aWxtYW4vbGlzdGluZm8vZG0tbAo8L2E+PGJyPiZndDs8YnI+Jmd0Ozxicj4mZ3Q7IF9fX19fX19f
+X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fPGJyPiZndDsgRGlnaXRhbCBN
+ZWRpZXZhbGlzdCBQcm9qZWN0PGJyPiZndDsgSG9tZXBhZ2U6IDxhIGhyZWY9Imh0dHA6Ly93d3cu
+ZGlnaXRhbG1lZGlldmFsaXN0Lm9yZyI+aHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3Jn
+PC9hPjxicj4mZ3Q7IEpvdXJuYWwgKFNwcmluZyAyMDA1LSk6IAo8YSBocmVmPSJodHRwOi8vd3d3
+LmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmcvam91cm5hbC5jZm0iPmh0dHA6Ly93d3cuZGlnaXRhbG1l
+ZGlldmFsaXN0Lm9yZy9qb3VybmFsLmNmbTwvYT48YnI+Jmd0OyBSU1MgKGFubm91bmNlbWVudHMp
+IHNlcnZlcjogPGEgaHJlZj0iaHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnL3Jzcy9y
+c3MyLmNmbSI+aHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnL3Jzcy9yc3MyLmNmbQo8
+L2E+PGJyPiZndDsgV2lraTogPGEgaHJlZj0iaHR0cDovL3NxbC51bGV0aC5jYS9kbW9yZ3dpa2kv
+aW5kZXgucGhwIj5odHRwOi8vc3FsLnVsZXRoLmNhL2Rtb3Jnd2lraS9pbmRleC5waHA8L2E+PGJy
+PiZndDsgQ2hhbmdlIG1lbWJlcnNoaXAgb3B0aW9uczogPGEgaHJlZj0iaHR0cDovL2xpc3RzZXJ2
+LnVsZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0tbCI+aHR0cDovL2xpc3RzZXJ2LnVsZXRoLmNh
+L21haWxtYW4vbGlzdGluZm8vZG0tbAo8L2E+PGJyPiZndDsgU3VibWl0IFJTUyBhbm5vdW5jZW1l
+bnQ6IDxhIGhyZWY9Imh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy9uZXdpdGVtLmNm
+bSI+aHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnL25ld2l0ZW0uY2ZtPC9hPjxicj4m
+Z3Q7IENvbnRhY3QgZWRpdG9yaWFsIEJvYXJkOiA8YSBocmVmPSJtYWlsdG86ZGlnaXRhbG1lZGll
+dmFsaXN0QHVsZXRoLmNhIj4KZGlnaXRhbG1lZGlldmFsaXN0QHVsZXRoLmNhPC9hPjxicj4mZ3Q7
+IGRtLWwgbWFpbGluZyBsaXN0PGJyPiZndDsgPGEgaHJlZj0ibWFpbHRvOmRtLWxAdWxldGguY2Ei
+PmRtLWxAdWxldGguY2E8L2E+PGJyPiZndDsgPGEgaHJlZj0iaHR0cDovL2xpc3RzZXJ2LnVsZXRo
+LmNhL21haWxtYW4vbGlzdGluZm8vZG0tbCI+aHR0cDovL2xpc3RzZXJ2LnVsZXRoLmNhL21haWxt
+YW4vbGlzdGluZm8vZG0tbAo8L2E+PGJyPi0tPGJyPkRhbmllbCBQYXVsIE8nRG9ubmVsbDxicj5B
+c3NvY2lhdGUgUHJvZmVzc29yIGFuZCBBY3RpbmcgQ2hhaXI8YnI+RGlyZWN0b3IsIERpZ2l0YWwg
+TWVkaWV2YWxpc3QgUHJvamVjdDxicj4mbHQ7PGEgaHJlZj0iaHR0cDovL3d3dy5kaWdpdGFsbWVk
+aWV2YWxpc3Qub3JnLyI+aHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnLzwvYT4mZ3Q7
+PGJyPkRlcGFydG1lbnQgb2YgRW5nbGlzaAo8YnI+VW5pdmVyc2l0eSBvZiBMZXRoYnJpZGdlPGJy
+PkxldGhicmlkZ2UgQUIgVDFLIDNNNDxicj5DYW5hZGE8YnI+PGJyPlZveCArMSA0MDMgMzI5LTIz
+Nzc8YnI+RmF4ICsxIDQwMyAzODItNzE5MTxicj48YnI+OkBjYWVkbW9uL3VidW50dTxicj48YnI+
+PGJyPjxicj5fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fXzxi
+cj5EaWdpdGFsIE1lZGlldmFsaXN0IFByb2plY3QKPGJyPkhvbWVwYWdlOiA8YSBocmVmPSJodHRw
+Oi8vd3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmciPmh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFs
+aXN0Lm9yZzwvYT48YnI+Sm91cm5hbCAoU3ByaW5nIDIwMDUtKTogPGEgaHJlZj0iaHR0cDovL3d3
+dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnL2pvdXJuYWwuY2ZtIj5odHRwOi8vd3d3LmRpZ2l0YWxt
+ZWRpZXZhbGlzdC5vcmcvam91cm5hbC5jZm0KPC9hPjxicj5SU1MgKGFubm91bmNlbWVudHMpIHNl
+cnZlcjogPGEgaHJlZj0iaHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnL3Jzcy9yc3My
+LmNmbSI+aHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnL3Jzcy9yc3MyLmNmbTwvYT48
+YnI+V2lraTogPGEgaHJlZj0iaHR0cDovL3NxbC51bGV0aC5jYS9kbW9yZ3dpa2kvaW5kZXgucGhw
+Ij5odHRwOi8vc3FsLnVsZXRoLmNhL2Rtb3Jnd2lraS9pbmRleC5waHAKPC9hPjxicj5DaGFuZ2Ug
+bWVtYmVyc2hpcCBvcHRpb25zOiA8YSBocmVmPSJodHRwOi8vbGlzdHNlcnYudWxldGguY2EvbWFp
+bG1hbi9saXN0aW5mby9kbS1sIj5odHRwOi8vbGlzdHNlcnYudWxldGguY2EvbWFpbG1hbi9saXN0
+aW5mby9kbS1sPC9hPjxicj5TdWJtaXQgUlNTIGFubm91bmNlbWVudDogPGEgaHJlZj0iaHR0cDov
+L3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnL25ld2l0ZW0uY2ZtIj4KaHR0cDovL3d3dy5kaWdp
+dGFsbWVkaWV2YWxpc3Qub3JnL25ld2l0ZW0uY2ZtPC9hPjxicj5Db250YWN0IGVkaXRvcmlhbCBC
+b2FyZDogPGEgaHJlZj0ibWFpbHRvOmRpZ2l0YWxtZWRpZXZhbGlzdEB1bGV0aC5jYSI+ZGlnaXRh
+bG1lZGlldmFsaXN0QHVsZXRoLmNhPC9hPjxicj5kbS1sIG1haWxpbmcgbGlzdDxicj48YSBocmVm
+PSJtYWlsdG86ZG0tbEB1bGV0aC5jYSI+ZG0tbEB1bGV0aC5jYQo8L2E+PGJyPjxhIGhyZWY9Imh0
+dHA6Ly9saXN0c2Vydi51bGV0aC5jYS9tYWlsbWFuL2xpc3RpbmZvL2RtLWwiPmh0dHA6Ly9saXN0
+c2Vydi51bGV0aC5jYS9tYWlsbWFuL2xpc3RpbmZvL2RtLWw8L2E+PGJyPjwvYmxvY2txdW90ZT48
+L2Rpdj48YnI+PGJyIGNsZWFyPSJhbGwiPjxicj4tLSA8YnI+TXIuIEpvcmlzIEouIHZhbiBadW5k
+ZXJ0IChNQSk8YnI+SHV5Z2VucyBJbnN0aXR1dGU8YnI+ClJveWFsIEFjYWRlbXkgb2YgQXJ0cyBh
+bmQgU2NpZW5jZXM8YnI+PGJyPkNvbnRhY3QgaW5mb3JtYXRpb24gY2FuIGJlIGZvdW5kIGF0IDxh
+IGhyZWY9Imh0dHA6Ly93d3cuYnJhbmRhZW4ub3JnIj5odHRwOi8vd3d3LmJyYW5kYWVuLm9yZzwv
+YT48YnI+PGJyPkEgZGlzY2xhaW1lciBpcyBhcHBsaWNhYmxlIHRvIHRoaXMgZS1tYWlsLCBwbGVh
+c2UgcmVmZXIgdG8gPGEgaHJlZj0iaHR0cDovL3d3dy5icmFuZGFlbi5vcmcvZW1haWxkaXNjbGFp
+bWVyIj4KaHR0cDovL3d3dy5icmFuZGFlbi5vcmcvZW1haWxkaXNjbGFpbWVyPC9hPiBmb3IgbW9y
+ZSBpbmZvcm1hdGlvbgo=

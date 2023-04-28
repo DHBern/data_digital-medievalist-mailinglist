@@ -1,0 +1,204 @@
+Subject: [dm-l] Fwd: Call for Participation: Workshop on Computational MethodsApologies for any cross posting
+                       CALL  FOR  PARTICIPATION       Workshop on Computational Methods in the Humanities 2018
+                            (COMHUM 2018)
+         June 4–5, 2018 · University of Lausanne, Switzerland
+                https://wp.unil.ch/llist/en/programme/                 Registration Deadline: June 1, 2018
+INVITATION AND SCOPE OF THE WORKSHOP: https://wp.unil.ch/llist/en/
+event/comhum2018/You are cordially invited to attend the Workshop on Computational
+Methods in the Humanities 2018 (COMHUM 2018), listen to the talks
+(including invited talks by Bruno Cornelis, Maristella Agosti, and
+Manfred Thaller), and participate in the discussions.It is often said that the digital humanities are “situated at the
+intersection of computer science and the humanities,” but what does
+this mean?  We believe that the point of using computers in the
+humanities is not just to automatically analyze larger amounts of data
+or to accelerate research.  We therefore prefer to understand digital
+humanities as (1) the study of means and methods of constructing
+formal models in the humanities and (2) as the application of these
+means and methods for the construction of concrete models in
+particular humanities disciplines.  The central research questions are
+thus correspondingly (1) which computational methods are most
+appropriate for dealing with the particular challenges posed by
+humanities research, e.g., uncertainty, vagueness, incompleteness, but
+also with different positions (points of view, values, criteria,
+perspectives, approaches, readings, etc.)?  And (2) how can such
+computational methods be applied to concrete research questions in the
+humanities?PROGRAM: https://wp.unil.ch/llist/en/programme/Monday, June 4, 201811:00–11:30 Welcome
+11:30–12:30 Invited talk: Bruno Cornelis (Vrije Universiteit Brussel)
+12:30–14:00 Lunch
+14:00–15:00 Invited talk: Maristella Agosti (Università di Padova)
+15:00–15:30 Coffee
+15:30–17:00
+        • Mats Dahllöf: Clustering Writing Components from Medieval
+Manuscripts
+        • Elli Bleeker, Ronald Haentjens Dekker, and Bram Buitendijk:
+          Understanding Texts as Graphs: An Inclusive Approach to Text
+          Modeling
+        • Jean-Baptiste Camps and Julien Randon-Furling: A Dynamic
+          Model of Manuscript Transmission;         Elena Spadini:
+Exercises in
+          Modelling: Textual VariantsTuesday, June 5, 201809:15–10:00
+        • Christelle Cocco, Raphaël Ceré, and Pierre-Yves Brandt:
+          Quantification of Drawing Colours in Human Sciences
+        • Mattia Egloff and François Bavaud: Taking Into Account
+          Semantic Similarities in Correspondence Analysis
+10:00–10:30 Coffee
+10:30–11:30 Invited talk: Manfred Thaller (emeritus, Universität zu Köln):
+          Decoding What the Sender Did Not Want to Transmit.  Information
+          Technology and Historical Data
+11:30–13:00
+        • Barbara McGillivray, Giovanni Colavizza, and Tobias Blanke:
+          Towards a Quantitative Research Framework for Historical
+          Disciplines
+        • Franziska Diehr, Maximilian Brodhun, Sven Gronemeyer,
+          Christian Prager, Elisabeth Wagner, Katja Diederichs, and
+          Nikolai Grube: Modelling Vagueness – A Criteria-Based System
+          for the Qualitative Assessment of Reading Proposals for the
+          Deciphering of Classic Mayan Hieroglyphs
+        • Gary Munnelly and Seamus Lawless: Linking Historical Sources
+          to Established Knowledge Bases in Order to Inform Entity
+          Linkers in Cultural Heritage
+        • Cristina Vertan: Supporting Hermeneutic Interpretation of
+          Historical Documents by Computational Methods
+13:00–14:30 Lunch
+14:30–16:00
+        • Susan Leavy, Karen Wade, Gerardine Meaney, and Derek Greene:
+          Navigating Literary Text Using Word Embeddings and Semantic
+          Lexicons
+        • Jose Luis Losada: Map Visualization and Quantification of
+          Literary Places in a Spanish Corpus
+        • Thomas Schmidt and Manuel Burghardt: Toward a Tool for
+          Sentiment Analysis for German Historic Plays
+        • Kyoko Sugisaki: Modeling Thematic Structure in Holiday Postcards
+REGISTRATION (deadline June 1, 2018):Please register at https://wp.unil.ch/llist/en/registration/
+Registration standard fees: 50 CHF or 40€, payable directly on site.
+The fee covers lunch and coffee breaks on both workshop days.CONTACTQuestions and inquiries should be sent to COMHUM2018 Conference
+_redacted_(a)unil.ch> or to Prof. Michael Piotrowski,
+_redacted_(a)unil.ch>CONFERENCE WEB SITE: https://wp.unil.ch/llist/en/event/comhum2018/
+-- 
+elenaspadini.com
+PostDoc - UNIL
+Centre de recherches sur les lettres romandes <http://www.unil.ch/crlr>PGRpdiBkaXI9Imx0ciI+PGRpdiBjbGFzcz0iZ21haWxfcXVvdGUiPjxicj48L2Rpdj48ZGl2IGNs
+YXNzPSJnbWFpbF9xdW90ZSI+CkFwb2xvZ2llcyBmb3IgYW55IGNyb3NzIHBvc3Rpbmc8YnI+Cjxi
+cj4KPGJyPgrCoCDCoCDCoCDCoCDCoCDCoCDCoCDCoCDCoCDCoCDCoCDCoENBTEzCoCBGT1LCoCBQ
+QVJUSUNJUEFUSU9OPGJyPgo8YnI+CsKgIMKgIMKgIMKgV29ya3Nob3Agb24gQ29tcHV0YXRpb25h
+bCBNZXRob2RzIGluIHRoZSBIdW1hbml0aWVzIDIwMTg8YnI+CsKgIMKgIMKgIMKgIMKgIMKgIMKg
+IMKgIMKgIMKgIMKgIMKgIMKgIMKgIChDT01IVU0gMjAxOCk8YnI+CsKgIMKgIMKgIMKgIMKgSnVu
+ZSA04oCTNSwgMjAxOCDCtyBVbml2ZXJzaXR5IG9mIExhdXNhbm5lLCBTd2l0emVybGFuZDxicj4K
+wqAgwqAgwqAgwqAgwqAgwqAgwqAgwqAgPGEgaHJlZj0iaHR0cHM6Ly93cC51bmlsLmNoL2xsaXN0
+L2VuL3Byb2dyYW1tZS8iIHJlbD0ibm9yZWZlcnJlciIgdGFyZ2V0PSJfYmxhbmsiPmh0dHBzOi8v
+d3AudW5pbC5jaC9sbGlzdC9lbi88d2JyPnByb2dyYW1tZS88L2E+PGJyPgo8YnI+CsKgIMKgIMKg
+IMKgIMKgIMKgIMKgIMKgIMKgUmVnaXN0cmF0aW9uIERlYWRsaW5lOiBKdW5lIDEsIDIwMTg8YnI+
+Cjxicj4KPGJyPgpJTlZJVEFUSU9OIEFORCBTQ09QRSBPRiBUSEUgV09SS1NIT1A6IDxhIGhyZWY9
+Imh0dHBzOi8vd3AudW5pbC5jaC9sbGlzdC9lbi9ldmVudC9jb21odW0yMDE4LyIgcmVsPSJub3Jl
+ZmVycmVyIiB0YXJnZXQ9Il9ibGFuayI+aHR0cHM6Ly93cC51bmlsLmNoL2xsaXN0L2VuLzx3YnI+
+ZXZlbnQvY29taHVtMjAxOC88L2E+PGJyPgo8YnI+CllvdSBhcmUgY29yZGlhbGx5IGludml0ZWQg
+dG8gYXR0ZW5kIHRoZSBXb3Jrc2hvcCBvbiBDb21wdXRhdGlvbmFsPGJyPgpNZXRob2RzIGluIHRo
+ZSBIdW1hbml0aWVzIDIwMTggKENPTUhVTSAyMDE4KSwgbGlzdGVuIHRvIHRoZSB0YWxrczxicj4K
+KGluY2x1ZGluZyBpbnZpdGVkIHRhbGtzIGJ5IEJydW5vIENvcm5lbGlzLCBNYXJpc3RlbGxhIEFn
+b3N0aSwgYW5kPGJyPgpNYW5mcmVkIFRoYWxsZXIpLCBhbmQgcGFydGljaXBhdGUgaW4gdGhlIGRp
+c2N1c3Npb25zLjxicj4KPGJyPgpJdCBpcyBvZnRlbiBzYWlkIHRoYXQgdGhlIGRpZ2l0YWwgaHVt
+YW5pdGllcyBhcmUg4oCcc2l0dWF0ZWQgYXQgdGhlPGJyPgppbnRlcnNlY3Rpb24gb2YgY29tcHV0
+ZXIgc2NpZW5jZSBhbmQgdGhlIGh1bWFuaXRpZXMs4oCdIGJ1dCB3aGF0IGRvZXM8YnI+CnRoaXMg
+bWVhbj/CoCBXZSBiZWxpZXZlIHRoYXQgdGhlIHBvaW50IG9mIHVzaW5nIGNvbXB1dGVycyBpbiB0
+aGU8YnI+Cmh1bWFuaXRpZXMgaXMgbm90IGp1c3QgdG8gYXV0b21hdGljYWxseSBhbmFseXplIGxh
+cmdlciBhbW91bnRzIG9mIGRhdGE8YnI+Cm9yIHRvIGFjY2VsZXJhdGUgcmVzZWFyY2guwqAgV2Ug
+dGhlcmVmb3JlIHByZWZlciB0byB1bmRlcnN0YW5kIGRpZ2l0YWw8YnI+Cmh1bWFuaXRpZXMgYXMg
+KDEpIHRoZSBzdHVkeSBvZiBtZWFucyBhbmQgbWV0aG9kcyBvZiBjb25zdHJ1Y3Rpbmc8YnI+CmZv
+cm1hbCBtb2RlbHMgaW4gdGhlIGh1bWFuaXRpZXMgYW5kICgyKSBhcyB0aGUgYXBwbGljYXRpb24g
+b2YgdGhlc2U8YnI+Cm1lYW5zIGFuZCBtZXRob2RzIGZvciB0aGUgY29uc3RydWN0aW9uIG9mIGNv
+bmNyZXRlIG1vZGVscyBpbjxicj4KcGFydGljdWxhciBodW1hbml0aWVzIGRpc2NpcGxpbmVzLsKg
+IFRoZSBjZW50cmFsIHJlc2VhcmNoIHF1ZXN0aW9ucyBhcmU8YnI+CnRodXMgY29ycmVzcG9uZGlu
+Z2x5ICgxKSB3aGljaCBjb21wdXRhdGlvbmFsIG1ldGhvZHMgYXJlIG1vc3Q8YnI+CmFwcHJvcHJp
+YXRlIGZvciBkZWFsaW5nIHdpdGggdGhlIHBhcnRpY3VsYXIgY2hhbGxlbmdlcyBwb3NlZCBieTxi
+cj4KaHVtYW5pdGllcyByZXNlYXJjaCwgZS5nLiwgdW5jZXJ0YWludHksIHZhZ3VlbmVzcywgaW5j
+b21wbGV0ZW5lc3MsIGJ1dDxicj4KYWxzbyB3aXRoIGRpZmZlcmVudCBwb3NpdGlvbnMgKHBvaW50
+cyBvZiB2aWV3LCB2YWx1ZXMsIGNyaXRlcmlhLDxicj4KcGVyc3BlY3RpdmVzLCBhcHByb2FjaGVz
+LCByZWFkaW5ncywgZXRjLik/wqAgQW5kICgyKSBob3cgY2FuIHN1Y2g8YnI+CmNvbXB1dGF0aW9u
+YWwgbWV0aG9kcyBiZSBhcHBsaWVkIHRvIGNvbmNyZXRlIHJlc2VhcmNoIHF1ZXN0aW9ucyBpbiB0
+aGU8YnI+Cmh1bWFuaXRpZXM/PGJyPgo8YnI+ClBST0dSQU06IDxhIGhyZWY9Imh0dHBzOi8vd3Au
+dW5pbC5jaC9sbGlzdC9lbi9wcm9ncmFtbWUvIiByZWw9Im5vcmVmZXJyZXIiIHRhcmdldD0iX2Js
+YW5rIj5odHRwczovL3dwLnVuaWwuY2gvbGxpc3QvZW4vPHdicj5wcm9ncmFtbWUvPC9hPjxicj4K
+PGJyPgpNb25kYXksIEp1bmUgNCwgMjAxODxicj4KPGJyPgoxMTowMOKAkzExOjMwIFdlbGNvbWU8
+YnI+CjExOjMw4oCTMTI6MzAgSW52aXRlZCB0YWxrOiBCcnVubyBDb3JuZWxpcyAoVnJpamUgVW5p
+dmVyc2l0ZWl0IEJydXNzZWwpPGJyPgoxMjozMOKAkzE0OjAwIEx1bmNoPGJyPgoxNDowMOKAkzE1
+OjAwIEludml0ZWQgdGFsazogTWFyaXN0ZWxsYSBBZ29zdGkgKFVuaXZlcnNpdMOgIGRpIFBhZG92
+YSk8YnI+CjE1OjAw4oCTMTU6MzAgQ29mZmVlPGJyPgoxNTozMOKAkzE3OjAwPGJyPgrCoCDCoCDC
+oCDCoCDigKIgTWF0cyBEYWhsbMO2ZjogQ2x1c3RlcmluZyBXcml0aW5nIENvbXBvbmVudHMgZnJv
+bSBNZWRpZXZhbCBNYW51c2NyaXB0czxicj4KwqAgwqAgwqAgwqAg4oCiIEVsbGkgQmxlZWtlciwg
+Um9uYWxkIEhhZW50amVucyBEZWtrZXIsIGFuZCBCcmFtIEJ1aXRlbmRpams6PGJyPgrCoCDCoCDC
+oCDCoCDCoCBVbmRlcnN0YW5kaW5nIFRleHRzIGFzIEdyYXBoczogQW4gSW5jbHVzaXZlIEFwcHJv
+YWNoIHRvIFRleHQ8YnI+CsKgIMKgIMKgIMKgIMKgIE1vZGVsaW5nPGJyPgrCoCDCoCDCoCDCoCDi
+gKIgSmVhbi1CYXB0aXN0ZSBDYW1wcyBhbmQgSnVsaWVuIFJhbmRvbi1GdXJsaW5nOiBBIER5bmFt
+aWM8YnI+CsKgIMKgIMKgIMKgIMKgIE1vZGVsIG9mIE1hbnVzY3JpcHQgVHJhbnNtaXNzaW9uO8Kg
+IMKgIMKgIMKgIMKgRWxlbmEgU3BhZGluaTogRXhlcmNpc2VzIGluPGJyPgrCoCDCoCDCoCDCoCDC
+oCBNb2RlbGxpbmc6IFRleHR1YWwgVmFyaWFudHM8YnI+Cjxicj4KVHVlc2RheSwgSnVuZSA1LCAy
+MDE4PGJyPgo8YnI+CjA5OjE14oCTMTA6MDA8YnI+CsKgIMKgIMKgIMKgIOKAoiBDaHJpc3RlbGxl
+IENvY2NvLCBSYXBoYcOrbCBDZXLDqSwgYW5kIFBpZXJyZS1ZdmVzIEJyYW5kdDo8YnI+CsKgIMKg
+IMKgIMKgIMKgIFF1YW50aWZpY2F0aW9uIG9mIERyYXdpbmcgQ29sb3VycyBpbiBIdW1hbiBTY2ll
+bmNlczxicj4KwqAgwqAgwqAgwqAg4oCiIE1hdHRpYSBFZ2xvZmYgYW5kIEZyYW7Dp29pcyBCYXZh
+dWQ6IFRha2luZyBJbnRvIEFjY291bnQ8YnI+CsKgIMKgIMKgIMKgIMKgIFNlbWFudGljIFNpbWls
+YXJpdGllcyBpbiBDb3JyZXNwb25kZW5jZSBBbmFseXNpczxicj4KMTA6MDDigJMxMDozMCBDb2Zm
+ZWU8YnI+CjEwOjMw4oCTMTE6MzAgSW52aXRlZCB0YWxrOiBNYW5mcmVkIFRoYWxsZXIgKGVtZXJp
+dHVzLCBVbml2ZXJzaXTDpHQgenUgS8O2bG4pOjxicj4KwqAgwqAgwqAgwqAgwqAgRGVjb2Rpbmcg
+V2hhdCB0aGUgU2VuZGVyIERpZCBOb3QgV2FudCB0byBUcmFuc21pdC7CoCBJbmZvcm1hdGlvbjxi
+cj4KwqAgwqAgwqAgwqAgwqAgVGVjaG5vbG9neSBhbmQgSGlzdG9yaWNhbCBEYXRhPGJyPgoxMToz
+MOKAkzEzOjAwPGJyPgrCoCDCoCDCoCDCoCDigKIgQmFyYmFyYSBNY0dpbGxpdnJheSwgR2lvdmFu
+bmkgQ29sYXZpenphLCBhbmQgVG9iaWFzIEJsYW5rZTo8YnI+CsKgIMKgIMKgIMKgIMKgIFRvd2Fy
+ZHMgYSBRdWFudGl0YXRpdmUgUmVzZWFyY2ggRnJhbWV3b3JrIGZvciBIaXN0b3JpY2FsPGJyPgrC
+oCDCoCDCoCDCoCDCoCBEaXNjaXBsaW5lczxicj4KwqAgwqAgwqAgwqAg4oCiIEZyYW56aXNrYSBE
+aWVociwgTWF4aW1pbGlhbiBCcm9kaHVuLCBTdmVuIEdyb25lbWV5ZXIsPGJyPgrCoCDCoCDCoCDC
+oCDCoCBDaHJpc3RpYW4gUHJhZ2VyLCBFbGlzYWJldGggV2FnbmVyLCBLYXRqYSBEaWVkZXJpY2hz
+LCBhbmQ8YnI+CsKgIMKgIMKgIMKgIMKgIE5pa29sYWkgR3J1YmU6IE1vZGVsbGluZyBWYWd1ZW5l
+c3Mg4oCTIEEgQ3JpdGVyaWEtQmFzZWQgU3lzdGVtPGJyPgrCoCDCoCDCoCDCoCDCoCBmb3IgdGhl
+IFF1YWxpdGF0aXZlIEFzc2Vzc21lbnQgb2YgUmVhZGluZyBQcm9wb3NhbHMgZm9yIHRoZTxicj4K
+wqAgwqAgwqAgwqAgwqAgRGVjaXBoZXJpbmcgb2YgQ2xhc3NpYyBNYXlhbiBIaWVyb2dseXBoczxi
+cj4KwqAgwqAgwqAgwqAg4oCiIEdhcnkgTXVubmVsbHkgYW5kIFNlYW11cyBMYXdsZXNzOiBMaW5r
+aW5nIEhpc3RvcmljYWwgU291cmNlczxicj4KwqAgwqAgwqAgwqAgwqAgdG8gRXN0YWJsaXNoZWQg
+S25vd2xlZGdlIEJhc2VzIGluIE9yZGVyIHRvIEluZm9ybSBFbnRpdHk8YnI+CsKgIMKgIMKgIMKg
+IMKgIExpbmtlcnMgaW4gQ3VsdHVyYWwgSGVyaXRhZ2U8YnI+CsKgIMKgIMKgIMKgIOKAoiBDcmlz
+dGluYSBWZXJ0YW46IFN1cHBvcnRpbmcgSGVybWVuZXV0aWMgSW50ZXJwcmV0YXRpb24gb2Y8YnI+
+CsKgIMKgIMKgIMKgIMKgIEhpc3RvcmljYWwgRG9jdW1lbnRzIGJ5IENvbXB1dGF0aW9uYWwgTWV0
+aG9kczxicj4KMTM6MDDigJMxNDozMCBMdW5jaDxicj4KMTQ6MzDigJMxNjowMDxicj4KwqAgwqAg
+wqAgwqAg4oCiIFN1c2FuIExlYXZ5LCBLYXJlbiBXYWRlLCBHZXJhcmRpbmUgTWVhbmV5LCBhbmQg
+RGVyZWsgR3JlZW5lOjxicj4KwqAgwqAgwqAgwqAgwqAgTmF2aWdhdGluZyBMaXRlcmFyeSBUZXh0
+IFVzaW5nIFdvcmQgRW1iZWRkaW5ncyBhbmQgU2VtYW50aWM8YnI+CsKgIMKgIMKgIMKgIMKgIExl
+eGljb25zPGJyPgrCoCDCoCDCoCDCoCDigKIgSm9zZSBMdWlzIExvc2FkYTogTWFwIFZpc3VhbGl6
+YXRpb24gYW5kIFF1YW50aWZpY2F0aW9uIG9mPGJyPgrCoCDCoCDCoCDCoCDCoCBMaXRlcmFyeSBQ
+bGFjZXMgaW4gYSBTcGFuaXNoIENvcnB1czxicj4KwqAgwqAgwqAgwqAg4oCiIFRob21hcyBTY2ht
+aWR0IGFuZCBNYW51ZWwgQnVyZ2hhcmR0OiBUb3dhcmQgYSBUb29sIGZvcjxicj4KwqAgwqAgwqAg
+wqAgwqAgU2VudGltZW50IEFuYWx5c2lzIGZvciBHZXJtYW4gSGlzdG9yaWMgUGxheXM8YnI+CsKg
+IMKgIMKgIMKgIOKAoiBLeW9rbyBTdWdpc2FraTogTW9kZWxpbmcgVGhlbWF0aWMgU3RydWN0dXJl
+IGluIEhvbGlkYXkgUG9zdGNhcmRzPGJyPgo8YnI+Cjxicj4KUkVHSVNUUkFUSU9OIChkZWFkbGlu
+ZSBKdW5lIDEsIDIwMTgpOjxicj4KPGJyPgpQbGVhc2UgcmVnaXN0ZXIgYXQgPGEgaHJlZj0iaHR0
+cHM6Ly93cC51bmlsLmNoL2xsaXN0L2VuL3JlZ2lzdHJhdGlvbi8iIHJlbD0ibm9yZWZlcnJlciIg
+dGFyZ2V0PSJfYmxhbmsiPmh0dHBzOi8vd3AudW5pbC5jaC9sbGlzdC9lbi88d2JyPnJlZ2lzdHJh
+dGlvbi88L2E+PGJyPgpSZWdpc3RyYXRpb24gc3RhbmRhcmQgZmVlczogNTAgQ0hGIG9yIDQw4oKs
+LCBwYXlhYmxlIGRpcmVjdGx5IG9uIHNpdGUuPGJyPgpUaGUgZmVlIGNvdmVycyBsdW5jaCBhbmQg
+Y29mZmVlIGJyZWFrcyBvbiBib3RoIHdvcmtzaG9wIGRheXMuPGJyPgo8YnI+CkNPTlRBQ1Q8YnI+
+Cjxicj4KUXVlc3Rpb25zIGFuZCBpbnF1aXJpZXMgc2hvdWxkIGJlIHNlbnQgdG8gQ09NSFVNMjAx
+OCBDb25mZXJlbmNlPGJyPgpTZWNyZXRhcmlhdDogJmx0OzxhIGhyZWY9Im1haWx0bzpzZWNyZXRh
+cmlhdC1zbGlAdW5pbC5jaCI+c2VjcmV0YXJpYXQtc2xpQHVuaWwuY2g8L2E+Jmd0OyBvciB0byBQ
+cm9mLiBNaWNoYWVsIFBpb3Ryb3dza2ksPGJyPgpQcm9ncmFtIENvbW1pdHRlZSBDaGFpcjogJmx0
+OzxhIGhyZWY9Im1haWx0bzptaWNoYWVsLnBpb3Ryb3dza2lAdW5pbC5jaCI+bWljaGFlbC5waW90
+cm93c2tpQHVuaWwuY2g8L2E+Jmd0Ozxicj4KPGJyPgpDT05GRVJFTkNFIFdFQiBTSVRFOiA8YSBo
+cmVmPSJodHRwczovL3dwLnVuaWwuY2gvbGxpc3QvZW4vZXZlbnQvY29taHVtMjAxOC8iIHJlbD0i
+bm9yZWZlcnJlciIgdGFyZ2V0PSJfYmxhbmsiPmh0dHBzOi8vd3AudW5pbC5jaC9sbGlzdC9lbi88
+d2JyPmV2ZW50L2NvbWh1bTIwMTgvPC9hPjxicj4KPGJyPgo8L2Rpdj48YnI+PGJyIGNsZWFyPSJh
+bGwiPjxkaXY+PGJyPjwvZGl2Pi0tIDxicj48ZGl2IGNsYXNzPSJnbWFpbF9zaWduYXR1cmUiIGRh
+dGEtc21hcnRtYWlsPSJnbWFpbF9zaWduYXR1cmUiPjxkaXYgZGlyPSJsdHIiPjxkaXY+PGRpdiBk
+aXI9Imx0ciI+PGRpdj48ZGl2IGRpcj0ibHRyIj48ZGl2PjxkaXYgZGlyPSJsdHIiPjxkaXYgZGly
+PSJsdHIiPjxkaXYgZGlyPSJsdHIiPjxkaXYgZGlyPSJsdHIiPjxkaXYgZGlyPSJsdHIiPjxkaXYg
+ZGlyPSJsdHIiPjxkaXYgZGlyPSJsdHIiPjxkaXYgZGlyPSJsdHIiPjxkaXYgZGlyPSJsdHIiPjxk
+aXYgZGlyPSJsdHIiPjxhIGhyZWY9Imh0dHA6Ly9lbGVuYXNwYWRpbmkuY29tLyIgc3R5bGU9ImZv
+bnQtZmFtaWx5OiZxdW90O0NvdXJpZXIgTmV3JnF1b3Q7LG1vbm9zcGFjZTtmb250LXNpemU6eC1z
+bWFsbCIgdGFyZ2V0PSJfYmxhbmsiPmVsZW5hc3BhZGluaS5jb208L2E+PGZvbnQgc2l6ZT0iMSI+
+PGZvbnQgZmFjZT0iJiMzOTtDb3VyaWVyIE5ldyYjMzk7LG1vbm9zcGFjZSIgc3R5bGU9ImNvbG9y
+OnJnYigwLDAsMCkiPjxicj48L2ZvbnQ+PC9mb250PjwvZGl2PjxkaXYgZGlyPSJsdHIiPjxmb250
+IHNpemU9IjEiPjxmb250IGZhY2U9IkNvdXJpZXIgTmV3LCBtb25vc3BhY2UiPlBvc3REb2MgLSBV
+TklMPGJyIHN0eWxlPSJjb2xvcjpyZ2IoMCwwLDApIj48L2ZvbnQ+PGZvbnQgZmFjZT0iJiMzOTtD
+b3VyaWVyIE5ldyYjMzk7LG1vbm9zcGFjZSIgc3R5bGU9ImNvbG9yOnJnYigwLDAsMCkiPjxhIGhy
+ZWY9Imh0dHA6Ly93d3cudW5pbC5jaC9jcmxyIiB0YXJnZXQ9Il9ibGFuayI+Q2VudHJlIGRlIHJl
+Y2hlcmNoZXMgc3VyIGxlcyBsZXR0cmVzIHJvbWFuZGVzPC9hPsKgPGJyPjwvZm9udD48YnI+PC9m
+b250PjwvZGl2PjxkaXYgZGlyPSJsdHIiPjxkaXYgZGlyPSJsdHIiPjxkaXY+PGJyPjwvZGl2Pjwv
+ZGl2PjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2
+PjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2Pgo8L2Rpdj4K

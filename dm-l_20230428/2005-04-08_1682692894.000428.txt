@@ -1,0 +1,95 @@
+Subject: RE: [dm-l] what xslt can't do..?Peter (Binkley) has already pointed out the problems with the XSLT
+approach he took.
+ I think even the fix he suggests, of returning a stripped node fragment,
+would
+still lead to performance problems  (for instance..to pull a single page
+say out of
+the Hengwrt Chaucer you would need every time to read the WHOLE document
+to create
+the node sets for ALL pages, just so you could extract the node set for
+just one,
+every time).  There is also a problem with the last page.  Presume that we
+have,
+indeed, what we always have: a whole bunch of other text in separate divs
+in the
+document after the last page, as below.  Here is a new div containing an
+appendix:
+Peter B's approach would include that text, wrongly, in the node set for
+the last
+page.  I'm sure this could be fixed (get the node sets only for the pbs in
+the div
+holding them) but it is just yet another complication.  (Incidentally, the
+best
+solution to the 'missing last end of page' problem, and ideed to various
+other
+problems, is what Steve De Rose describes as 'trojan milestones': see
+http://www.mulberrytech.com/Extreme/Proceedings/html/2004/DeRose01/EML2004DeR=
+ose01.html).I think too there is some misconception about just how the system I use
+(Anastasia)
+would cope with this problem.  Peter B(inkley) suggests it is some kind of
+'coded
+project', apparently using Java, while Peter B(aker..this is ridiculous)
+seems to
+think I would be using raw C.  For the many who do not seem to have looked
+yet at
+Anastasia: it provides a tcl scripting environment which lets you
+manipulate XML
+easily in some ways (including ways very important to us) which XLST finds
+difficult.  Particularly -- the whole focus of this discussion -- it is
+straight-forward in Anastasia to manipulate a document according to
+alternative
+hierarchies implicit in the element relations: so you can show just one
+column or
+one page of a text otherwise structured in hierarchical divisions.Thus, the whole Anastasia code to pull out the first two pages of this
+document
+looks like this:proc begin {book me stylename} {
+ global pagecounter startEl
+ set pagecounter 0
+ set startEl [findSGElement "stag(\"pb\") with attvalue(\"1\")"]
+}proc pb {me context} {
+  global pagecounter finish
+  if {$pagecounter=3D=3D"2"} {set finish 1}
+  incr pagecounter
+}Folks, that is all there is.  The 'begin' function finds the first page by
+its
+attribute value (there are other ways one could do it, to be sure that
+this is the
+first page) and sets Anastasia to start reading the document right there.=20
+The 'pb'
+function counts every page every time it hits a pb: when the pagecounter
+reaches '2'
+it has read two full pages and setting the 'finish' variable to 1 stops
+the output.
+One could include a few more proc functions to format the headings,
+paragraphs, etc,
+or one could identify the last page by attribute value, but that is all.=20
+And it does this just as quick for a document with 100000 pages as one.I don't have a prejudice against XSLT, which seems a fine tool for doing
+most of the things one wants to do with XML.  But that does not mean it
+can do *everything* equally easily (which is how this whole thread
+started, with musings on its limits as a typesetting language).  Some
+things certainly Anastasia does much easier, and that is no surprise -- it
+was designed just for that.  She is open source.  Go look at her on
+http://anastasia.sourceforge.net
+Peter R(obinson)***revised document with an appendix after the last page...
+<div>
+<head>The whole text and all the texts</head>
+<div>
+<pb n=3D"1"/>
+<head>First text</head>
+<p n=3D"1">some text starts here and goes ita<hi rend=3D"italic">lic an<pb
+n=3D"2"/>d then</i> we get a pagebreak</p>
+<p n=3D"2">so the text finishes</p>
+<p n=3D"3"> with yet another page <pb n=3D"3"/> and another page start </p>
+</div>
+<div>
+<head>Second text</head>
+<pb n=3D"4"/>
+<p n=3D"1">here my new text on the next page etc etc</p>
+<pb n=3D"5"/>
+<p n=3D"2">here my new text on the next page etc etc</p>
+</div>
+<div>
+<p>Now here we have an appendix and some more text after that</p>
+</div>
+</div>
+--===============4047736045933979286==--

@@ -1,0 +1,106 @@
+Subject: [dm-l] Database of Byzantine Book Epigrams: NEW version online!Dear colleagues and friends,We are excited to release a new version of the Database of Byzantine Book Epi=
+grams (DBBE, hosted at Ghent University), freely accessible at https://www.db=
+be.ugent.be.Thanks to the generous support of the Special Research Fund of Ghent Universi=
+ty, DBBE has been completely redesigned over the past two years, in close col=
+laboration with the Database, Document and Content Management<https://ddcm.ug=
+ent.be/> research group of the Faculty of Engineering of Ghent University and=
+ with the Ghent Centre for Digital Humanities<https://www.ghentcdh.ugent.be/>.The corpus of Byzantine metrical paratexts collected in our Database has been=
+ consistently enlarged, through the systematic consultation of manuscripts an=
+d relevant secondary literature, and it now counts some 10700 single epigrams=
+, over 7000 of which are the result of first-hand inspection of (reproduction=
+s of) manuscripts. In comparison with the previous version of DBBE, our users=
+ are offered the possibility to navigate more easily through the different re=
+cords, which are much better linked to each other. The search function of Gre=
+ek text has been refined and provides users with more accurate results.While the distinction between Occurrences<https://www.dbbe.ugent.be/occurrenc=
+es/search> (unique epigrams as to be found in manuscripts) and Types<https://=
+www.dbbe.ugent.be/types/search> (normalised texts of similar occurrences) has=
+ been retained, a new way to group epigrams has been introduced: the Verse Va=
+riants records. These pages display a clear overview of the parallels and dev=
+iations of single verse lines. The Verse Variants are accessible by clicking =
+on single epigram verse lines.The main scope of DBBE is collecting Byzantine book epigrams and offering the=
+ir texts to the scholarly community. However, we are aiming to make available=
+ contextual data as well, and have paid major attention to the improvement of=
+ information on Manuscript<https://www.dbbe.ugent.be/manuscripts/search> and =
+Persons<https://www.dbbe.ugent.be/persons/search>. The Bibliography section h=
+as been adjusted and it now includes a search path.We gladly refer to our Help page<https://www.dbbe.ugent.be/pages/help> and Se=
+arch Tricks and Tips<https://www.dbbe.ugent.be/pages/search-tips-tricks> page=
+ for more information.We encourage users to explore the new features of DBBE and are eager to welco=
+_redacted_(a)ugent.be>.For the whole DBBE team<https://www.dbbe.ugent.be/pages/team>,Floris Bernard
+Juli=C3=A1n B=C3=A9rtola
+Julie Boeten
+Cristina Cocola
+Sien De Groot
+Kristoffel Demoen
+Pieterjan De Potter
+Ilse De Vos
+Rachele Ricceri
+Anne-Sophie Rouckhout
+--===============7399179604478560758==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"
+MIME-Version: 1.0PGh0bWw+DQo8aGVhZD4NCjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSIgY29udGVudD0i
+dGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04Ij4NCjwvaGVhZD4NCjxib2R5IHN0eWxlPSJ3b3JkLXdy
+YXA6IGJyZWFrLXdvcmQ7IC13ZWJraXQtbmJzcC1tb2RlOiBzcGFjZTsgLXdlYmtpdC1saW5lLWJy
+ZWFrOiBhZnRlci13aGl0ZS1zcGFjZTsiIGNsYXNzPSIiPg0KRGVhciBjb2xsZWFndWVzIGFuZCBm
+cmllbmRzLDxiciBjbGFzcz0iIj4NCjxiciBjbGFzcz0iIj4NCldlIGFyZSBleGNpdGVkIHRvIHJl
+bGVhc2UgYSBuZXcgdmVyc2lvbiBvZiB0aGUgRGF0YWJhc2Ugb2YgQnl6YW50aW5lIEJvb2sgRXBp
+Z3JhbXMgKERCQkUsIGhvc3RlZCBhdCBHaGVudCBVbml2ZXJzaXR5KSwgZnJlZWx5IGFjY2Vzc2li
+bGUgYXQmbmJzcDs8YSBocmVmPSJodHRwczovL3d3dy5kYmJlLnVnZW50LmJlIiBjbGFzcz0iIj5o
+dHRwczovL3d3dy5kYmJlLnVnZW50LmJlPC9hPi4mbmJzcDs8YnIgY2xhc3M9IiI+DQo8YnIgY2xh
+c3M9IiI+DQpUaGFua3MgdG8gdGhlIGdlbmVyb3VzIHN1cHBvcnQgb2YgdGhlIFNwZWNpYWwgUmVz
+ZWFyY2ggRnVuZCBvZiBHaGVudCBVbml2ZXJzaXR5LCBEQkJFIGhhcyBiZWVuIGNvbXBsZXRlbHkg
+cmVkZXNpZ25lZCBvdmVyIHRoZSBwYXN0IHR3byB5ZWFycywgaW4gY2xvc2UgY29sbGFib3JhdGlv
+biB3aXRoIHRoZSZuYnNwOzxhIGhyZWY9Imh0dHBzOi8vZGRjbS51Z2VudC5iZS8iIGNsYXNzPSIi
+PkRhdGFiYXNlLCBEb2N1bWVudCBhbmQgQ29udGVudCBNYW5hZ2VtZW50PC9hPiZuYnNwO3Jlc2Vh
+cmNoDQogZ3JvdXAgb2YgdGhlIEZhY3VsdHkgb2YgRW5naW5lZXJpbmcgb2YgR2hlbnQgVW5pdmVy
+c2l0eSBhbmQgd2l0aCB0aGUmbmJzcDs8YSBocmVmPSJodHRwczovL3d3dy5naGVudGNkaC51Z2Vu
+dC5iZS8iIGNsYXNzPSIiPkdoZW50IENlbnRyZSBmb3IgRGlnaXRhbCBIdW1hbml0aWVzPC9hPi4m
+bmJzcDs8YnIgY2xhc3M9IiI+DQo8YnIgY2xhc3M9IiI+DQpUaGUgY29ycHVzIG9mIEJ5emFudGlu
+ZSBtZXRyaWNhbCBwYXJhdGV4dHMgY29sbGVjdGVkIGluIG91ciBEYXRhYmFzZSBoYXMgYmVlbiBj
+b25zaXN0ZW50bHkgZW5sYXJnZWQsIHRocm91Z2ggdGhlIHN5c3RlbWF0aWMgY29uc3VsdGF0aW9u
+IG9mIG1hbnVzY3JpcHRzIGFuZCByZWxldmFudCBzZWNvbmRhcnkgbGl0ZXJhdHVyZSwgYW5kIGl0
+IG5vdyBjb3VudHMgc29tZSAxMDcwMCBzaW5nbGUgZXBpZ3JhbXMsIG92ZXIgNzAwMCBvZiB3aGlj
+aCBhcmUgdGhlDQogcmVzdWx0IG9mIGZpcnN0LWhhbmQgaW5zcGVjdGlvbiBvZiAocmVwcm9kdWN0
+aW9ucyBvZikgbWFudXNjcmlwdHMuIEluIGNvbXBhcmlzb24gd2l0aCB0aGUgcHJldmlvdXMgdmVy
+c2lvbiBvZiBEQkJFLCBvdXIgdXNlcnMgYXJlIG9mZmVyZWQgdGhlIHBvc3NpYmlsaXR5IHRvIG5h
+dmlnYXRlIG1vcmUgZWFzaWx5IHRocm91Z2ggdGhlIGRpZmZlcmVudCByZWNvcmRzLCB3aGljaCBh
+cmUgbXVjaCBiZXR0ZXIgbGlua2VkIHRvIGVhY2ggb3RoZXIuIFRoZQ0KIHNlYXJjaCBmdW5jdGlv
+biBvZiBHcmVlayB0ZXh0IGhhcyBiZWVuIHJlZmluZWQgYW5kIHByb3ZpZGVzIHVzZXJzIHdpdGgg
+bW9yZSBhY2N1cmF0ZSByZXN1bHRzLjxiciBjbGFzcz0iIj4NCjxiciBjbGFzcz0iIj4NCldoaWxl
+IHRoZSBkaXN0aW5jdGlvbiBiZXR3ZWVuJm5ic3A7PGEgaHJlZj0iaHR0cHM6Ly93d3cuZGJiZS51
+Z2VudC5iZS9vY2N1cnJlbmNlcy9zZWFyY2giIGNsYXNzPSIiPk9jY3VycmVuY2VzPC9hPiZuYnNw
+Oyh1bmlxdWUgZXBpZ3JhbXMgYXMgdG8gYmUgZm91bmQgaW4gbWFudXNjcmlwdHMpIGFuZCZuYnNw
+OzxhIGhyZWY9Imh0dHBzOi8vd3d3LmRiYmUudWdlbnQuYmUvdHlwZXMvc2VhcmNoIiBjbGFzcz0i
+Ij5UeXBlczwvYT4mbmJzcDsobm9ybWFsaXNlZCB0ZXh0cyBvZiBzaW1pbGFyDQogb2NjdXJyZW5j
+ZXMpIGhhcyBiZWVuIHJldGFpbmVkLCBhIG5ldyB3YXkgdG8gZ3JvdXAgZXBpZ3JhbXMgaGFzIGJl
+ZW4gaW50cm9kdWNlZDogdGhlIFZlcnNlIFZhcmlhbnRzIHJlY29yZHMuIFRoZXNlIHBhZ2VzIGRp
+c3BsYXkgYSBjbGVhciBvdmVydmlldyBvZiB0aGUgcGFyYWxsZWxzIGFuZCBkZXZpYXRpb25zIG9m
+IHNpbmdsZSB2ZXJzZSBsaW5lcy4gVGhlIFZlcnNlIFZhcmlhbnRzIGFyZSBhY2Nlc3NpYmxlIGJ5
+IGNsaWNraW5nIG9uIHNpbmdsZQ0KIGVwaWdyYW0gdmVyc2UgbGluZXMuPGJyIGNsYXNzPSIiPg0K
+PGJyIGNsYXNzPSIiPg0KVGhlIG1haW4gc2NvcGUgb2YgREJCRSBpcyBjb2xsZWN0aW5nIEJ5emFu
+dGluZSBib29rIGVwaWdyYW1zIGFuZCBvZmZlcmluZyB0aGVpciB0ZXh0cyB0byB0aGUgc2Nob2xh
+cmx5IGNvbW11bml0eS4gSG93ZXZlciwgd2UgYXJlIGFpbWluZyB0byBtYWtlIGF2YWlsYWJsZSBj
+b250ZXh0dWFsIGRhdGEgYXMgd2VsbCwgYW5kIGhhdmUgcGFpZCBtYWpvciBhdHRlbnRpb24gdG8g
+dGhlIGltcHJvdmVtZW50IG9mIGluZm9ybWF0aW9uIG9uJm5ic3A7PGEgaHJlZj0iaHR0cHM6Ly93
+d3cuZGJiZS51Z2VudC5iZS9tYW51c2NyaXB0cy9zZWFyY2giIGNsYXNzPSIiPk1hbnVzY3JpcHQ8
+L2E+Jm5ic3A7YW5kJm5ic3A7PGEgaHJlZj0iaHR0cHM6Ly93d3cuZGJiZS51Z2VudC5iZS9wZXJz
+b25zL3NlYXJjaCIgY2xhc3M9IiI+UGVyc29uczwvYT4uDQogVGhlIEJpYmxpb2dyYXBoeSBzZWN0
+aW9uIGhhcyBiZWVuIGFkanVzdGVkIGFuZCBpdCBub3cgaW5jbHVkZXMgYSBzZWFyY2ggcGF0aC48
+YnIgY2xhc3M9IiI+DQo8YnIgY2xhc3M9IiI+DQpXZSBnbGFkbHkgcmVmZXIgdG8gb3VyJm5ic3A7
+PGEgaHJlZj0iaHR0cHM6Ly93d3cuZGJiZS51Z2VudC5iZS9wYWdlcy9oZWxwIiBjbGFzcz0iIj5I
+ZWxwIHBhZ2U8L2E+Jm5ic3A7YW5kJm5ic3A7PGEgaHJlZj0iaHR0cHM6Ly93d3cuZGJiZS51Z2Vu
+dC5iZS9wYWdlcy9zZWFyY2gtdGlwcy10cmlja3MiIGNsYXNzPSIiPlNlYXJjaCBUcmlja3MgYW5k
+IFRpcHM8L2E+Jm5ic3A7cGFnZSBmb3IgbW9yZSBpbmZvcm1hdGlvbi48YnIgY2xhc3M9IiI+DQo8
+YnIgY2xhc3M9IiI+DQpXZSBlbmNvdXJhZ2UgdXNlcnMgdG8gZXhwbG9yZSB0aGUgbmV3IGZlYXR1
+cmVzIG9mIERCQkUgYW5kIGFyZSBlYWdlciB0byB3ZWxjb21lIHRoZWlyIGNvbW1lbnRzIGFuZCBm
+ZWVkYmFjayBhdCZuYnNwOzxhIGhyZWY9Im1haWx0bzpkYmJlQHVnZW50LmJlIiBjbGFzcz0iIj5k
+YmJlQHVnZW50LmJlPC9hPi4mbmJzcDs8YnIgY2xhc3M9IiI+DQo8YnIgY2xhc3M9IiI+DQpGb3Ig
+dGhlIHdob2xlIERCQkUmbmJzcDs8YSBocmVmPSJodHRwczovL3d3dy5kYmJlLnVnZW50LmJlL3Bh
+Z2VzL3RlYW0iIGNsYXNzPSIiPnRlYW08L2E+LDxiciBjbGFzcz0iIj4NCjxiciBjbGFzcz0iIj4N
+CkZsb3JpcyBCZXJuYXJkPGJyIGNsYXNzPSIiPg0KSnVsacOhbiBCw6lydG9sYTxiciBjbGFzcz0i
+Ij4NCkp1bGllIEJvZXRlbjxiciBjbGFzcz0iIj4NCkNyaXN0aW5hIENvY29sYTxiciBjbGFzcz0i
+Ij4NClNpZW4gRGUgR3Jvb3Q8YnIgY2xhc3M9IiI+DQpLcmlzdG9mZmVsIERlbW9lbjxiciBjbGFz
+cz0iIj4NClBpZXRlcmphbiBEZSBQb3R0ZXI8YnIgY2xhc3M9IiI+DQpJbHNlIERlIFZvczxiciBj
+bGFzcz0iIj4NClJhY2hlbGUgUmljY2VyaTxiciBjbGFzcz0iIj4NCkFubmUtU29waGllIFJvdWNr
+aG91dDxiciBjbGFzcz0iIj4NCjxiciBjbGFzcz0iIj4NCjwvYm9keT4NCjwvaHRtbD4NCg==

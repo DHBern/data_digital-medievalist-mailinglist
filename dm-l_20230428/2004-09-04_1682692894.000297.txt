@@ -1,0 +1,25 @@
+Subject: [dm-l] open source z39.5 compatible bibliographic database softwareHello all,
+    I use Procite (<http://www.procite.com/> to keep my bibliography, 
+mostly because it has a good Z39.5 client. Z39.50 
+<http://www.loc.gov/z3950/agency/> is an international standard used by 
+many libraries (though not the Royal Dutch Library, duizend 
+bliksembommen!)  for data interchange. In the case of procite, what this 
+means is that I can download book information, including call numbers 
+and subject fields directly from various libraries. Amongst other 
+things, it has made it quite easy to rearrange my personal library using 
+LoC call numbers (not a perfect system, of course, but since it comes 
+ready made, I can't complain).    Anyway, I want now to built an on-line catalogue of my stuff, so I 
+can check if I own something when I am in a foreign library. Originally, 
+I was just going to dumpt the procite format to a database (it is built 
+on a 45 field database) and use PHP and MySQL to built a simple front 
+end. But then I began to wonder if perhaps an open source system already 
+existed. Does anybody know of one? Basically what I need is a robust 
+bibliographic database with a Z39.50 client built in.    -dan-- 
+Daniel Paul O'Donnell, PhD
+Associate Professor of English
+University of Lethbridge
+Lethbridge AB T1K 3M4
+Tel. (403) 329-2377
+Fax. (403) 382-7191
+_redacted_(a)uleth.ca>
+Home Page <http://people.uleth.ca/~daniel.odonnell/>

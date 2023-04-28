@@ -1,0 +1,18 @@
+Subject: Re: [dm-l] TEI/XML manuscript markup initiatives?Dot, I agree with Roberto!>> As part of my presentation at Kalamazoo last year I described how (for
+>> Electronic Boethius) I modified some of the manuscript description
+>> elements for use in transcription (for example, marking rubrics in the
+>> text using the <rubric> element). This obviously wouldn't work if one
+>> wanted to both describe and transcribe a text in the same document (as
+>> most probably would?) but for EBo I think it worked okay.The only reason it wouldn't work right now is because the <rubric> 
+element is not a member of the class of elements which can appear within 
+transribed text. But absolutely no reason why it couldn't be added to an 
+existing class or a new one (model.titleLike maybe) in a P5 application, 
+or better in a set of proposals for changes to the class system...
+>>
+>> I personally would like to see an effort to bring manuscript
+>> description and transcription together more closely. I think that this
+>> would be done best not from within the TEI (and I speak as a member on
+>> the TEI council), because the interests of the TEI are quite general.I don't understand either of these assertions. The TEI has lots of very 
+specialised tagsets and aims to support very specialist usages within a 
+general framework. And changes to it have to come from within its user 
+community, of which after all DM is a major constituent.

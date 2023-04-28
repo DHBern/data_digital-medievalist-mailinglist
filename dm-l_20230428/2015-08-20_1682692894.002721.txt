@@ -1,0 +1,68 @@
+Subject: [dm-l] Job opening in Cologne: Research FellowDear medievalists,On behalf of my colleague Andreas Berger from the Thomas Institute at=20
+the Univeristy of Cologne I forward this exciting job announcement:=20
+CoffeeScript, Arabic, LAMP via CLI...Best wishes,
+Franz
+-----------------------------------------------------------------------------=
+------=20Jop opening: Research Fellow (75% TVL 13, 3 years) in Digital Humanities=20
+to enhance and develop a virtual research environment in cooperation=20
+with the Fraunhofer-Institute.The position is tied to a project and limited to a period of three=20
+years, during which the existing digital infrastructure of the Digital=20
+Averroes Research Environment (DARE) is to be enhanced with a prototype=20
+of an automated layout recognizance tool, which is to be developed in=20
+cooperation with the Fraunhofer IAIS. Furthermore, additional advanced=20
+solutions especially for the research environment`s user interface and=20
+search engine are to be created.Responsibilities/Tasks:
+The Research Fellow in Digital Humanities will be responsible for=20
+maintaining, developing and enhancing the DARE virtual research=20
+environment. Including:
+-Maintenance and new solutions for existing Front End and Back End
+-Managing the data server and the ever expanding TEI-xml based files
+-Development focus on User Interface and enhanced search algorithmsFurthermore, the Research Fellow is to cooperate with the Fraunhofer=20
+IAIS in developing automated layout recognizance options for an=20
+existing, manual annotation tool, including:
+-Providing sophisticated test case scenarios from existing database of=20
+mediaeval manuscript material
+-Integrating and testing of prototypes in the DARE infrastructureNecessary Qualifications:
+-University degree in a humanities discipline and/or in the field of=20
+information technology, and experience in historical research;
+-Expertise in working methods in the digital humanities:
+-Metadata standards, especially the TEI
+-Content management systems (Drupal 7)
+-Programming languages (PHP, JavaScript,CoffeeScript)
+-Markup languages (XML, HTML)
+-Search engines / information retrieval (Apache Solr, Lucene)
+-Linux-Administration (Debian, LAMP via CLI, git/svn)
+-Compiling (Free Pascal)
+-Experience in data modelling and data management
+-At least basic knowledge of mediaeval material philology
+-Good contacts in the networks of the Digital Humanities and the ability=20
+to develop humanities research infrastructures and research projects=20
+with partners at other institutions and in other disciplines
+-A very good command of written and spoken English or GermanDesired Qualifications:
+-Language skills in Latin (and/or Hebrew and/or Arabic)
+-Experience in preparing grant applications
+-Experience in web designAdministrative Details:
+The Thomas-Institute welcomes applications from scholars from all around=20
+the world, provided the applicants are willing to relocate to Cologne=20
+for the duration of the project. The Thomas-Institute is a=20
+family-friendly, equal opportunity employer and allows for flexible=20
+working hours and a measure of telework.
+The position is advertised for 30 hours per week (75% of standard=20
+working time) and salary according to TVL-13. The contract will cover a=20
+time frame of 36 months; a possible further employment will be depending=20
+on future successful grant applications.Contact/Deadline:
+Please submit your application (CV, list of publications and/or work=20
+samples, links to online projects, certification of degrees earned,=20
+references) as one PDF (5 MB maximum) along with a separate cover letter=20
+of one page that briefly outlines your experience and qualifications by=20
+email to:
+_redacted_(a)uni-koeln.de
+by September 20th, 2015.Should you have questions about the position, please contact Andreas=20
+Berger via E-Mail or Telephone (0049 221 470 2391).Interviews can be conducted via Skype. Should you prefer this, please=20
+indicate so in your cover letter.
+We are looking forward to your application!--=20
+Andreas Berger, M.A.Thomas-Institut
+Universit=C3=A4t zu K=C3=B6ln / University of Cologne
+Universit=C3=A4tsstra=C3=9Fe 22
+50 923 K=C3=B6ln / Cologne, GermanyTel. +49 - (0)221 - 470 2391
+--===============8303170666643717160==--

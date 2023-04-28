@@ -1,0 +1,39 @@
+Subject: Re: [dm-l] Encoding maps and other such objectsWe have used EAD at item level for most materials to be found in=20
+archival collections, which include printed material such as maps, and=20
+objects such as seals (only one sword that I can think of). While this=20
+does include all the pieces in a collection in a single catalogue, it=20
+can lead to the stretching of elements to accommodate the data structure=20
+required by different material types.In an ideal world I would use MARC21 for maps (a new revision of AACR2=20
+for cartographic materials has been published recently) and a SPECTRUM=20
+compliant museum documentation system for objects, but tying all of=20
+these back together to produce a single catalogue of the collection=20
+could prove a challenge (export all the data into XML; develop Z39.50=20
+profiles?). Often the different materials do not share a common=20
+descriptive or indexing thesaurus, which can further complicate the=20
+whole procedure.--=20
+# Richard Higgins
+# Durham University Library
+# Archives & Special Collections
+# Palace Green
+# Durham
+# DH1 3RN
+_redacted_(a)durham.ac.uk
+Peter Robinson wrote:
+> Digital Medievalist Journal (Inaugural Issue Fall 2004). Call for papers: h=
+ttp://www.digitalmedievalist.org/cfp.htm
+> ----------------
+> Dear everyone
+>=20
+> I sent this message last week but it failed to spark any discussion.  Has
+> *anyone* used TEI to encode information about 'museum-like' objects, such as
+> swordguards, armour, the like?  Or, has anyone used XML at all for this, for
+> encoding of information about the individual objects (not the collections, a
+> task for EAD)? Or, has anyone seen or heard of or ever known of an
+> initiative to develop  XML encoding in these areas? CIMI did do it a while
+> ago, but seems to have perished.
+>=20
+> Has anyone had any experience of using tei to encode information about maps
+> and various other objects? We are talking to a group who want to record
+> information about maps and sword guards, etc, in a collection otherwise
+> encoded in tei.  Most of what they need is in <bibl> but some things are
+> not.

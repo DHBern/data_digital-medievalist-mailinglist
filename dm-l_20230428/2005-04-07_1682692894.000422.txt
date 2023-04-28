@@ -1,0 +1,269 @@
+Subject: RE: [dm-l] what xslt can't do..?Unless I've misunderstood the challenge, I think this 70-line, single-pass st=
+ylesheet will fill the bill: http://www.wallandbinkley.com/robinsonchallenge/=
+paginate.xsl . Peter's XML text is available here: http://www.wallandbinkley.=
+com/robinsonchallenge/text.xml . The output looks like this:<document>
+	<head>The whole text and all the texts</head>
+	<page n=3D"1">
+		<pageheader>Text 1, para 1</pageheader>
+		<div>
+			<head>First text</head>
+			<p n=3D"1">some text starts here and goes ita<hi rend=3D"italic">lic an</h=
+i></p>
+		</div>
+	</page>
+	<page n=3D"2">
+		<pageheader>Text 1, paras 1, 2 and 3</pageheader>
+		<div>
+			<p n=3D"1"><hi rend=3D"italic">d then</hi> we get a pagebreak</p>
+			<p n=3D"2">so the text finishes</p>
+			<p n=3D"3"> with yet another page </p>
+		</div>
+	</page>
+...
+</document>The pages are presented in discrete elements, each containing only the text o=
+f that page, with all markup preserved and all tags well-formed.The basic mechanism involves using a key to index all the text nodes by their=
+ page number: =09_redacted_@n"/>It is then easy to create a node-set containing all the text nodes for a give=
+n page, like this:<xsl:variable name=3D"texts" select=3D"key('text', $thispage)"/>With that we can process the ancestors of those text nodes to create the outp=
+ut for that page, like this:<xsl:apply-templates select=3D"/div/*[.//text()[count(.|$texts) =3D count($te=
+xts)]][1]">As it stands this stylesheet is horribly inefficient, since it has to rebuild=
+ the node-set of text nodes every time it executes a template (since you can'=
+t pass a node-set as a parameter). Perhaps there's a way to move all the proc=
+essing into the main for-each loop to avoid using templates.I'm not sure I understand why the final page break is problematic. Why would =
+you want anything other than the way it is marked up in the source?(I notice that I've neglected to include the text 2 head in the page header, =
+as in the example "Second text, head", and my punctuation doesn't match that =
+example, but I'm too tired to fix it now.)Peter Binkley
+_redacted_(a)ualberta.ca
+-----Original Message-----
+_redacted_(a)uleth.ca on behalf of Peter Robinson
+Sent: Wed 4/6/2005 3:13 PM
+_redacted_(a)uleth.ca
+Subject: [dm-l] what xslt can't do..?
+=20
+The Digital Medievalist List (see end of message for contact information and =
+project URLs).----------------------------------
+Peter Baker says...
+>I must say, though, Peter, that this isn't the first time you've
+>mentioned things that XSL can't do. I'm not sure I believe that it can't
+>be done. Someday, when we've all got lots of time, we'll have to have a
+>programming shootout. You can offer up a problem that you think XSL
+>can't handle, and you code it in C (or whatever it is you use), and I'll
+>use XSLT, and we'll see who gets there first.indeed, I have become rather a bore on this subject.  And I have several
+times pointed out that XSLT has great difficulty with what is conceptually
+a simple task: just show me the text on one page.  I have several times
+set the challenge: somebody, try and do with XSLT what we do for many
+thousands of pages (in the most basic form; just reproduce what we do for
+a single page of the Hengwrt Chaucer, for example).  I have had some
+extremely lengthy explanations of how it *could* be done, and I am
+certainly prepared to believe these might actually work.  In the same way,
+I am sure that with sufficient ingenuity one could use a lawnmower to heat
+a house.  Just, one might find easier ways to do it.So, here is a simple example, then:
+<div>
+<head>The whole text and all the texts</head>
+<div>
+<pb n=3D"1"/>
+<head>First text</head>
+<p n=3D"1">some text starts here and goes ita<hi rend=3D"italic">lic an<pb
+n=3D"2"/>d then</i> we get a pagebreak</p>
+<p n=3D"2">so the text finishes</p>
+<p n=3D"3"> with yet another page <pb n=3D"3"/> and another page start </p>
+</div>
+<div>
+<head>Second text</head>
+<pb n=3D"4"/>
+<p n=3D"1">here my new text on the next page etc etc</p>
+<pb n=3D"5"/>
+<p n=3D"2">here my new text on the next page etc etc</p>
+</div>
+</div>So, Peter, here is your challenge.  Just make us an xslt file that pulls
+out just the text on each of the five pages.  It would be a nice bonus if
+each page were to have a header which told us what text there is on each
+page (for example: page 3 contains 'First text, para 3 -- Second text,
+head'; page 5 contains just 'Second text, para 5'). To make it slightly
+more of a challenge: you should do this direct from this sample, and not
+from a transform of this sample.By the way, notice the problematics about the final page break.  Should it
+be..<head>Second text</head>
+<pb n=3D"4"/>
+<p n=3D"1">here
+OR
+<head>Second text<pb n=3D"4"/></head>
+<p n=3D"1">here
+OR
+<head>Second text</head>
+<p n=3D"1"><pb n=3D"4"/>hereAnswers on the back of a postage stamp please.all the best
+Another Peter
+_______________________________________________
+Digital Medievalist Project
+Homepage: http://www.digitalmedievalist.org
+Journal (December 2004-): http://www.digitalmedievalist.org/journal.cfm
+RSS (announcements) server: http://www.digitalmedievalist.org/rss/rss2.cfm
+Wiki: http://sql.uleth.ca/dmorgwiki/index.php
+Change membership options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+Submit RSS announcement: http://www.digitalmedievalist.org/newitem.cfm
+_redacted_(a)uleth.ca
+dm-l mailing list
+_redacted_(a)uleth.ca
+http://listserv.uleth.ca/mailman/listinfo/dm-l
+--===============5601686316051917343==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"
+MIME-Version: 1.0PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDMuMi8vRU4iPgo8SFRNTD4K
+PEhFQUQ+CjxNRVRBIEhUVFAtRVFVSVY9IkNvbnRlbnQtVHlwZSIgQ09OVEVOVD0idGV4dC9odG1s
+OyBjaGFyc2V0PWlzby04ODU5LTEiPgo8TUVUQSBOQU1FPSJHZW5lcmF0b3IiIENPTlRFTlQ9Ik1T
+IEV4Y2hhbmdlIFNlcnZlciB2ZXJzaW9uIDYuNS43MjMyLjM2Ij4KPFRJVExFPlJFOiBbZG0tbF0g
+d2hhdCB4c2x0IGNhbid0IGRvLi4/PC9USVRMRT4KPC9IRUFEPgo8Qk9EWT4KPCEtLSBDb252ZXJ0
+ZWQgZnJvbSB0ZXh0L3BsYWluIGZvcm1hdCAtLT4KCjxQPjxGT05UIFNJWkU9Mj5Vbmxlc3MgSSd2
+ZSBtaXN1bmRlcnN0b29kIHRoZSBjaGFsbGVuZ2UsIEkgdGhpbmsgdGhpcyA3MC1saW5lLCBzaW5n
+bGUtcGFzcyBzdHlsZXNoZWV0IHdpbGwgZmlsbCB0aGUgYmlsbDogPEEgSFJFRj0iaHR0cDovL3d3
+dy53YWxsYW5kYmlua2xleS5jb20vcm9iaW5zb25jaGFsbGVuZ2UvcGFnaW5hdGUueHNsIj5odHRw
+Oi8vd3d3LndhbGxhbmRiaW5rbGV5LmNvbS9yb2JpbnNvbmNoYWxsZW5nZS9wYWdpbmF0ZS54c2w8
+L0E+IC4gUGV0ZXIncyBYTUwgdGV4dCBpcyBhdmFpbGFibGUgaGVyZTogPEEgSFJFRj0iaHR0cDov
+L3d3dy53YWxsYW5kYmlua2xleS5jb20vcm9iaW5zb25jaGFsbGVuZ2UvdGV4dC54bWwiPmh0dHA6
+Ly93d3cud2FsbGFuZGJpbmtsZXkuY29tL3JvYmluc29uY2hhbGxlbmdlL3RleHQueG1sPC9BPiAu
+IFRoZSBvdXRwdXQgbG9va3MgbGlrZSB0aGlzOjxCUj4KPEJSPgombHQ7ZG9jdW1lbnQmZ3Q7PEJS
+PgombmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsgJmx0O2hlYWQmZ3Q7
+VGhlIHdob2xlIHRleHQgYW5kIGFsbCB0aGUgdGV4dHMmbHQ7L2hlYWQmZ3Q7PEJSPgombmJzcDsm
+bmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsgJmx0O3BhZ2Ugbj0mcXVvdDsxJnF1
+b3Q7Jmd0OzxCUj4KJm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7ICZu
+YnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyAmbHQ7cGFnZWhlYWRlciZn
+dDtUZXh0IDEsIHBhcmEgMSZsdDsvcGFnZWhlYWRlciZndDs8QlI+CiZuYnNwOyZuYnNwOyZuYnNw
+OyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyAmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsm
+bmJzcDsmbmJzcDsgJmx0O2RpdiZndDs8QlI+CiZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNw
+OyZuYnNwOyZuYnNwOyAmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsg
+Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7ICZsdDtoZWFkJmd0O0Zp
+cnN0IHRleHQmbHQ7L2hlYWQmZ3Q7PEJSPgombmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsm
+bmJzcDsmbmJzcDsgJm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7ICZu
+YnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyAmbHQ7cCBuPSZxdW90OzEm
+cXVvdDsmZ3Q7c29tZSB0ZXh0IHN0YXJ0cyBoZXJlIGFuZCBnb2VzIGl0YSZsdDtoaSByZW5kPSZx
+dW90O2l0YWxpYyZxdW90OyZndDtsaWMgYW4mbHQ7L2hpJmd0OyZsdDsvcCZndDs8QlI+CiZuYnNw
+OyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyAmbmJzcDsmbmJzcDsmbmJzcDsm
+bmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsgJmx0Oy9kaXYmZ3Q7PEJSPgombmJzcDsmbmJzcDsmbmJz
+cDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsgJmx0Oy9wYWdlJmd0OzxCUj4KJm5ic3A7Jm5ic3A7
+Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7ICZsdDtwYWdlIG49JnF1b3Q7MiZxdW90OyZn
+dDs8QlI+CiZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyAmbmJzcDsm
+bmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsgJmx0O3BhZ2VoZWFkZXImZ3Q7VGV4
+dCAxLCBwYXJhcyAxLCAyIGFuZCAzJmx0Oy9wYWdlaGVhZGVyJmd0OzxCUj4KJm5ic3A7Jm5ic3A7
+Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7ICZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZu
+YnNwOyZuYnNwOyZuYnNwOyAmbHQ7ZGl2Jmd0OzxCUj4KJm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7
+Jm5ic3A7Jm5ic3A7Jm5ic3A7ICZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZu
+YnNwOyAmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsgJmx0O3Agbj0m
+cXVvdDsxJnF1b3Q7Jmd0OyZsdDtoaSByZW5kPSZxdW90O2l0YWxpYyZxdW90OyZndDtkIHRoZW4m
+bHQ7L2hpJmd0OyB3ZSBnZXQgYSBwYWdlYnJlYWsmbHQ7L3AmZ3Q7PEJSPgombmJzcDsmbmJzcDsm
+bmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsgJm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5i
+c3A7Jm5ic3A7Jm5ic3A7ICZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNw
+OyAmbHQ7cCBuPSZxdW90OzImcXVvdDsmZ3Q7c28gdGhlIHRleHQgZmluaXNoZXMmbHQ7L3AmZ3Q7
+PEJSPgombmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsgJm5ic3A7Jm5i
+c3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7ICZuYnNwOyZuYnNwOyZuYnNwOyZuYnNw
+OyZuYnNwOyZuYnNwOyZuYnNwOyAmbHQ7cCBuPSZxdW90OzMmcXVvdDsmZ3Q7IHdpdGggeWV0IGFu
+b3RoZXIgcGFnZSAmbHQ7L3AmZ3Q7PEJSPgombmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsm
+bmJzcDsmbmJzcDsgJm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7ICZs
+dDsvZGl2Jmd0OzxCUj4KJm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7
+ICZsdDsvcGFnZSZndDs8QlI+Ci4uLjxCUj4KJmx0Oy9kb2N1bWVudCZndDs8QlI+CjxCUj4KVGhl
+IHBhZ2VzIGFyZSBwcmVzZW50ZWQgaW4gZGlzY3JldGUgZWxlbWVudHMsIGVhY2ggY29udGFpbmlu
+ZyBvbmx5IHRoZSB0ZXh0IG9mIHRoYXQgcGFnZSwgd2l0aCBhbGwgbWFya3VwIHByZXNlcnZlZCBh
+bmQgYWxsIHRhZ3Mgd2VsbC1mb3JtZWQuPEJSPgo8QlI+ClRoZSBiYXNpYyBtZWNoYW5pc20gaW52
+b2x2ZXMgdXNpbmcgYSBrZXkgdG8gaW5kZXggYWxsIHRoZSB0ZXh0IG5vZGVzIGJ5IHRoZWlyIHBh
+Z2UgbnVtYmVyOiAmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDs8QlI+CjxCUj4KJmx0O3hzbDprZXkg
+bmFtZT0mcXVvdDt0ZXh0JnF1b3Q7IG1hdGNoPSZxdW90O3RleHQoKSZxdW90OyB1c2U9JnF1b3Q7
+cHJlY2VkaW5nOjpwYlsxXS9AbiZxdW90Oy8mZ3Q7PEJSPgo8QlI+Ckl0IGlzIHRoZW4gZWFzeSB0
+byBjcmVhdGUgYSBub2RlLXNldCBjb250YWluaW5nIGFsbCB0aGUgdGV4dCBub2RlcyBmb3IgYSBn
+aXZlbiBwYWdlLCBsaWtlIHRoaXM6PEJSPgo8QlI+CiZsdDt4c2w6dmFyaWFibGUgbmFtZT0mcXVv
+dDt0ZXh0cyZxdW90OyBzZWxlY3Q9JnF1b3Q7a2V5KCd0ZXh0JywgJHRoaXNwYWdlKSZxdW90Oy8m
+Z3Q7PEJSPgo8QlI+CldpdGggdGhhdCB3ZSBjYW4gcHJvY2VzcyB0aGUgYW5jZXN0b3JzIG9mIHRo
+b3NlIHRleHQgbm9kZXMgdG8gY3JlYXRlIHRoZSBvdXRwdXQgZm9yIHRoYXQgcGFnZSwgbGlrZSB0
+aGlzOjxCUj4KPEJSPgombHQ7eHNsOmFwcGx5LXRlbXBsYXRlcyBzZWxlY3Q9JnF1b3Q7L2Rpdi8q
+Wy4vL3RleHQoKVtjb3VudCgufCR0ZXh0cykgPSBjb3VudCgkdGV4dHMpXV1bMV0mcXVvdDsmZ3Q7
+PEJSPgo8QlI+CkFzIGl0IHN0YW5kcyB0aGlzIHN0eWxlc2hlZXQgaXMgaG9ycmlibHkgaW5lZmZp
+Y2llbnQsIHNpbmNlIGl0IGhhcyB0byByZWJ1aWxkIHRoZSBub2RlLXNldCBvZiB0ZXh0IG5vZGVz
+IGV2ZXJ5IHRpbWUgaXQgZXhlY3V0ZXMgYSB0ZW1wbGF0ZSAoc2luY2UgeW91IGNhbid0IHBhc3Mg
+YSBub2RlLXNldCBhcyBhIHBhcmFtZXRlcikuIFBlcmhhcHMgdGhlcmUncyBhIHdheSB0byBtb3Zl
+IGFsbCB0aGUgcHJvY2Vzc2luZyBpbnRvIHRoZSBtYWluIGZvci1lYWNoIGxvb3AgdG8gYXZvaWQg
+dXNpbmcgdGVtcGxhdGVzLjxCUj4KPEJSPgpJJ20gbm90IHN1cmUgSSB1bmRlcnN0YW5kIHdoeSB0
+aGUgZmluYWwgcGFnZSBicmVhayBpcyBwcm9ibGVtYXRpYy4gV2h5IHdvdWxkIHlvdSB3YW50IGFu
+eXRoaW5nIG90aGVyIHRoYW4gdGhlIHdheSBpdCBpcyBtYXJrZWQgdXAgaW4gdGhlIHNvdXJjZT88
+QlI+CjxCUj4KKEkgbm90aWNlIHRoYXQgSSd2ZSBuZWdsZWN0ZWQgdG8gaW5jbHVkZSB0aGUgdGV4
+dCAyIGhlYWQgaW4gdGhlIHBhZ2UgaGVhZGVyLCBhcyBpbiB0aGUgZXhhbXBsZSAmcXVvdDtTZWNv
+bmQgdGV4dCwgaGVhZCZxdW90OywgYW5kIG15IHB1bmN0dWF0aW9uIGRvZXNuJ3QgbWF0Y2ggdGhh
+dCBleGFtcGxlLCBidXQgSSdtIHRvbyB0aXJlZCB0byBmaXggaXQgbm93Lik8QlI+CjxCUj4KUGV0
+ZXIgQmlua2xleTxCUj4KcGV0ZXIuYmlua2xleUB1YWxiZXJ0YS5jYTxCUj4KPEJSPgo8QlI+Ci0t
+LS0tT3JpZ2luYWwgTWVzc2FnZS0tLS0tPEJSPgpGcm9tOiBkbS1sLWJvdW5jZXNAdWxldGguY2Eg
+b24gYmVoYWxmIG9mIFBldGVyIFJvYmluc29uPEJSPgpTZW50OiBXZWQgNC82LzIwMDUgMzoxMyBQ
+TTxCUj4KVG86IGRtLWxAdWxldGguY2E8QlI+ClN1YmplY3Q6IFtkbS1sXSB3aGF0IHhzbHQgY2Fu
+J3QgZG8uLj88QlI+CjxCUj4KVGhlIERpZ2l0YWwgTWVkaWV2YWxpc3QgTGlzdCAoc2VlIGVuZCBv
+ZiBtZXNzYWdlIGZvciBjb250YWN0IGluZm9ybWF0aW9uIGFuZCBwcm9qZWN0IFVSTHMpLjxCUj4K
+PEJSPgotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tPEJSPgpQZXRlciBCYWtlciBz
+YXlzLi4uPEJSPgomZ3Q7SSBtdXN0IHNheSwgdGhvdWdoLCBQZXRlciwgdGhhdCB0aGlzIGlzbid0
+IHRoZSBmaXJzdCB0aW1lIHlvdSd2ZTxCUj4KJmd0O21lbnRpb25lZCB0aGluZ3MgdGhhdCBYU0wg
+Y2FuJ3QgZG8uIEknbSBub3Qgc3VyZSBJIGJlbGlldmUgdGhhdCBpdCBjYW4ndDxCUj4KJmd0O2Jl
+IGRvbmUuIFNvbWVkYXksIHdoZW4gd2UndmUgYWxsIGdvdCBsb3RzIG9mIHRpbWUsIHdlJ2xsIGhh
+dmUgdG8gaGF2ZSBhPEJSPgomZ3Q7cHJvZ3JhbW1pbmcgc2hvb3RvdXQuIFlvdSBjYW4gb2ZmZXIg
+dXAgYSBwcm9ibGVtIHRoYXQgeW91IHRoaW5rIFhTTDxCUj4KJmd0O2Nhbid0IGhhbmRsZSwgYW5k
+IHlvdSBjb2RlIGl0IGluIEMgKG9yIHdoYXRldmVyIGl0IGlzIHlvdSB1c2UpLCBhbmQgSSdsbDxC
+Uj4KJmd0O3VzZSBYU0xULCBhbmQgd2UnbGwgc2VlIHdobyBnZXRzIHRoZXJlIGZpcnN0LjxCUj4K
+PEJSPgppbmRlZWQsIEkgaGF2ZSBiZWNvbWUgcmF0aGVyIGEgYm9yZSBvbiB0aGlzIHN1YmplY3Qu
+Jm5ic3A7IEFuZCBJIGhhdmUgc2V2ZXJhbDxCUj4KdGltZXMgcG9pbnRlZCBvdXQgdGhhdCBYU0xU
+IGhhcyBncmVhdCBkaWZmaWN1bHR5IHdpdGggd2hhdCBpcyBjb25jZXB0dWFsbHk8QlI+CmEgc2lt
+cGxlIHRhc2s6IGp1c3Qgc2hvdyBtZSB0aGUgdGV4dCBvbiBvbmUgcGFnZS4mbmJzcDsgSSBoYXZl
+IHNldmVyYWwgdGltZXM8QlI+CnNldCB0aGUgY2hhbGxlbmdlOiBzb21lYm9keSwgdHJ5IGFuZCBk
+byB3aXRoIFhTTFQgd2hhdCB3ZSBkbyBmb3IgbWFueTxCUj4KdGhvdXNhbmRzIG9mIHBhZ2VzIChp
+biB0aGUgbW9zdCBiYXNpYyBmb3JtOyBqdXN0IHJlcHJvZHVjZSB3aGF0IHdlIGRvIGZvcjxCUj4K
+YSBzaW5nbGUgcGFnZSBvZiB0aGUgSGVuZ3dydCBDaGF1Y2VyLCBmb3IgZXhhbXBsZSkuJm5ic3A7
+IEkgaGF2ZSBoYWQgc29tZTxCUj4KZXh0cmVtZWx5IGxlbmd0aHkgZXhwbGFuYXRpb25zIG9mIGhv
+dyBpdCAqY291bGQqIGJlIGRvbmUsIGFuZCBJIGFtPEJSPgpjZXJ0YWlubHkgcHJlcGFyZWQgdG8g
+YmVsaWV2ZSB0aGVzZSBtaWdodCBhY3R1YWxseSB3b3JrLiZuYnNwOyBJbiB0aGUgc2FtZSB3YXks
+PEJSPgpJIGFtIHN1cmUgdGhhdCB3aXRoIHN1ZmZpY2llbnQgaW5nZW51aXR5IG9uZSBjb3VsZCB1
+c2UgYSBsYXdubW93ZXIgdG8gaGVhdDxCUj4KYSBob3VzZS4mbmJzcDsgSnVzdCwgb25lIG1pZ2h0
+IGZpbmQgZWFzaWVyIHdheXMgdG8gZG8gaXQuPEJSPgo8QlI+ClNvLCBoZXJlIGlzIGEgc2ltcGxl
+IGV4YW1wbGUsIHRoZW46PEJSPgombHQ7ZGl2Jmd0OzxCUj4KJmx0O2hlYWQmZ3Q7VGhlIHdob2xl
+IHRleHQgYW5kIGFsbCB0aGUgdGV4dHMmbHQ7L2hlYWQmZ3Q7PEJSPgombHQ7ZGl2Jmd0OzxCUj4K
+Jmx0O3BiIG49JnF1b3Q7MSZxdW90Oy8mZ3Q7PEJSPgombHQ7aGVhZCZndDtGaXJzdCB0ZXh0Jmx0
+Oy9oZWFkJmd0OzxCUj4KJmx0O3Agbj0mcXVvdDsxJnF1b3Q7Jmd0O3NvbWUgdGV4dCBzdGFydHMg
+aGVyZSBhbmQgZ29lcyBpdGEmbHQ7aGkgcmVuZD0mcXVvdDtpdGFsaWMmcXVvdDsmZ3Q7bGljIGFu
+Jmx0O3BiPEJSPgpuPSZxdW90OzImcXVvdDsvJmd0O2QgdGhlbiZsdDsvaSZndDsgd2UgZ2V0IGEg
+cGFnZWJyZWFrJmx0Oy9wJmd0OzxCUj4KJmx0O3Agbj0mcXVvdDsyJnF1b3Q7Jmd0O3NvIHRoZSB0
+ZXh0IGZpbmlzaGVzJmx0Oy9wJmd0OzxCUj4KJmx0O3Agbj0mcXVvdDszJnF1b3Q7Jmd0OyB3aXRo
+IHlldCBhbm90aGVyIHBhZ2UgJmx0O3BiIG49JnF1b3Q7MyZxdW90Oy8mZ3Q7IGFuZCBhbm90aGVy
+IHBhZ2Ugc3RhcnQgJmx0Oy9wJmd0OzxCUj4KJmx0Oy9kaXYmZ3Q7PEJSPgombHQ7ZGl2Jmd0OzxC
+Uj4KJmx0O2hlYWQmZ3Q7U2Vjb25kIHRleHQmbHQ7L2hlYWQmZ3Q7PEJSPgombHQ7cGIgbj0mcXVv
+dDs0JnF1b3Q7LyZndDs8QlI+CiZsdDtwIG49JnF1b3Q7MSZxdW90OyZndDtoZXJlIG15IG5ldyB0
+ZXh0IG9uIHRoZSBuZXh0IHBhZ2UgZXRjIGV0YyZsdDsvcCZndDs8QlI+CiZsdDtwYiBuPSZxdW90
+OzUmcXVvdDsvJmd0OzxCUj4KJmx0O3Agbj0mcXVvdDsyJnF1b3Q7Jmd0O2hlcmUgbXkgbmV3IHRl
+eHQgb24gdGhlIG5leHQgcGFnZSBldGMgZXRjJmx0Oy9wJmd0OzxCUj4KJmx0Oy9kaXYmZ3Q7PEJS
+PgombHQ7L2RpdiZndDs8QlI+CjxCUj4KU28sIFBldGVyLCBoZXJlIGlzIHlvdXIgY2hhbGxlbmdl
+LiZuYnNwOyBKdXN0IG1ha2UgdXMgYW4geHNsdCBmaWxlIHRoYXQgcHVsbHM8QlI+Cm91dCBqdXN0
+IHRoZSB0ZXh0IG9uIGVhY2ggb2YgdGhlIGZpdmUgcGFnZXMuJm5ic3A7IEl0IHdvdWxkIGJlIGEg
+bmljZSBib251cyBpZjxCUj4KZWFjaCBwYWdlIHdlcmUgdG8gaGF2ZSBhIGhlYWRlciB3aGljaCB0
+b2xkIHVzIHdoYXQgdGV4dCB0aGVyZSBpcyBvbiBlYWNoPEJSPgpwYWdlIChmb3IgZXhhbXBsZTog
+cGFnZSAzIGNvbnRhaW5zICdGaXJzdCB0ZXh0LCBwYXJhIDMgLS0gU2Vjb25kIHRleHQsPEJSPgpo
+ZWFkJzsgcGFnZSA1IGNvbnRhaW5zIGp1c3QgJ1NlY29uZCB0ZXh0LCBwYXJhIDUnKS4gVG8gbWFr
+ZSBpdCBzbGlnaHRseTxCUj4KbW9yZSBvZiBhIGNoYWxsZW5nZTogeW91IHNob3VsZCBkbyB0aGlz
+IGRpcmVjdCBmcm9tIHRoaXMgc2FtcGxlLCBhbmQgbm90PEJSPgpmcm9tIGEgdHJhbnNmb3JtIG9m
+IHRoaXMgc2FtcGxlLjxCUj4KPEJSPgpCeSB0aGUgd2F5LCBub3RpY2UgdGhlIHByb2JsZW1hdGlj
+cyBhYm91dCB0aGUgZmluYWwgcGFnZSBicmVhay4mbmJzcDsgU2hvdWxkIGl0PEJSPgpiZS4uPEJS
+Pgo8QlI+CiZsdDtoZWFkJmd0O1NlY29uZCB0ZXh0Jmx0Oy9oZWFkJmd0OzxCUj4KJmx0O3BiIG49
+JnF1b3Q7NCZxdW90Oy8mZ3Q7PEJSPgombHQ7cCBuPSZxdW90OzEmcXVvdDsmZ3Q7aGVyZTxCUj4K
+T1I8QlI+CiZsdDtoZWFkJmd0O1NlY29uZCB0ZXh0Jmx0O3BiIG49JnF1b3Q7NCZxdW90Oy8mZ3Q7
+Jmx0Oy9oZWFkJmd0OzxCUj4KJmx0O3Agbj0mcXVvdDsxJnF1b3Q7Jmd0O2hlcmU8QlI+Ck9SPEJS
+PgombHQ7aGVhZCZndDtTZWNvbmQgdGV4dCZsdDsvaGVhZCZndDs8QlI+CiZsdDtwIG49JnF1b3Q7
+MSZxdW90OyZndDsmbHQ7cGIgbj0mcXVvdDs0JnF1b3Q7LyZndDtoZXJlPEJSPgo8QlI+CkFuc3dl
+cnMgb24gdGhlIGJhY2sgb2YgYSBwb3N0YWdlIHN0YW1wIHBsZWFzZS48QlI+CjxCUj4KYWxsIHRo
+ZSBiZXN0PEJSPgpBbm90aGVyIFBldGVyPEJSPgo8QlI+CjxCUj4KPEJSPgo8QlI+Cl9fX19fX19f
+X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fPEJSPgpEaWdpdGFsIE1lZGll
+dmFsaXN0IFByb2plY3Q8QlI+CkhvbWVwYWdlOiA8QSBIUkVGPSJodHRwOi8vd3d3LmRpZ2l0YWxt
+ZWRpZXZhbGlzdC5vcmciPmh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZzwvQT48QlI+
+CkpvdXJuYWwgKERlY2VtYmVyIDIwMDQtKTogPEEgSFJFRj0iaHR0cDovL3d3dy5kaWdpdGFsbWVk
+aWV2YWxpc3Qub3JnL2pvdXJuYWwuY2ZtIj5odHRwOi8vd3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC5v
+cmcvam91cm5hbC5jZm08L0E+PEJSPgpSU1MgKGFubm91bmNlbWVudHMpIHNlcnZlcjogPEEgSFJF
+Rj0iaHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnL3Jzcy9yc3MyLmNmbSI+aHR0cDov
+L3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnL3Jzcy9yc3MyLmNmbTwvQT48QlI+Cldpa2k6IDxB
+IEhSRUY9Imh0dHA6Ly9zcWwudWxldGguY2EvZG1vcmd3aWtpL2luZGV4LnBocCI+aHR0cDovL3Nx
+bC51bGV0aC5jYS9kbW9yZ3dpa2kvaW5kZXgucGhwPC9BPjxCUj4KQ2hhbmdlIG1lbWJlcnNoaXAg
+b3B0aW9uczogPEEgSFJFRj0iaHR0cDovL2xpc3RzZXJ2LnVsZXRoLmNhL21haWxtYW4vbGlzdGlu
+Zm8vZG0tbCI+aHR0cDovL2xpc3RzZXJ2LnVsZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0tbDwv
+QT48QlI+ClN1Ym1pdCBSU1MgYW5ub3VuY2VtZW50OiA8QSBIUkVGPSJodHRwOi8vd3d3LmRpZ2l0
+YWxtZWRpZXZhbGlzdC5vcmcvbmV3aXRlbS5jZm0iPmh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFs
+aXN0Lm9yZy9uZXdpdGVtLmNmbTwvQT48QlI+CkNvbnRhY3QgZWRpdG9yaWFsIEJvYXJkOiBkaWdp
+dGFsbWVkaWV2YWxpc3RAdWxldGguY2E8QlI+CmRtLWwgbWFpbGluZyBsaXN0PEJSPgpkbS1sQHVs
+ZXRoLmNhPEJSPgo8QSBIUkVGPSJodHRwOi8vbGlzdHNlcnYudWxldGguY2EvbWFpbG1hbi9saXN0
+aW5mby9kbS1sIj5odHRwOi8vbGlzdHNlcnYudWxldGguY2EvbWFpbG1hbi9saXN0aW5mby9kbS1s
+PC9BPjxCUj4KPEJSPgo8L0ZPTlQ+CjwvUD4KCjwvQk9EWT4KPC9IVE1MPg==

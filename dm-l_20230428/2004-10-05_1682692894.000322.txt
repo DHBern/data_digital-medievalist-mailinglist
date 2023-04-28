@@ -1,0 +1,17 @@
+Subject: [dm-l] Character reference conversions: help?Hello all,
+	I need some advice on converting Unicode character references. 
+Currently, am encoding character references in what I believe is UCS-4 
+format (Universal Character Set). This means they look like this in my 
+source files:&#x1090;I want to import xhtml documents into Open Office, which seems to need 
+UTF-8 encoding (I don't know what UTF stands for). Does anybody know of 
+a filter that might do the conversions for me? Or have advice on using 
+open office (Windows version) with UCS-4 encoding?-dan
+-- 
+Daniel Paul O'Donnell, PhD
+Associate Professor of English
+University of Lethbridge
+Lethbridge AB T1K 3M4
+Tel. (403) 329-2377
+Fax. (403) 382-7191
+_redacted_(a)uleth.ca>
+Home Page <http://people.uleth.ca/~daniel.odonnell/>

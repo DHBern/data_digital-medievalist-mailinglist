@@ -1,0 +1,91 @@
+Subject: Re: [dm-l] Help with embedded imagesDear Prof. O'Donnell,This doesn't directly address your problem, but should get you around
+it entirely: using the <video> tag, it's now possible to embed video
+in a page without using the QuickTime plug-in. There's an excellent
+discussion of this at <http://diveintohtml5.org/video.html>. There are
+also pre-made video players using this technique at
+<http://videojs.com/>, <http://mediaelementjs.com/>, and
+<http://www.jplayer.org/>. In addition to having a working video
+player, your video should be more compatible with future browsers, and
+will also work on mobile devices.Hope that helps,Andrew Dunning
+PhD Student
+Collaborative Program in Editing Medieval Texts
+Centre for Medieval Studies
+University of TorontoOn Wed, Jul 27, 2011 at 9:53 PM, O'Donnell, Dan
+_redacted_(a)uleth.ca> wrote:
+>
+> Hi all,
+>
+> I have a pretty basic HTML question, I think.
+>
+> I want to embed a couple of MP4 videos in an HTML file. Using something lik=
+e the following code, I can do this relatively easily:
+>
+> <div class=3D"figure" id=3D"d0e690">
+> =C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 <object classid=3D"clsid:02BF25D5-8C17-4B23-=
+BC80-D3488ABDDC6B" codebase=3D"http://www.apple.com/qtactivex/qtplugin.cab" h=
+eight=3D"480" width=3D"640">
+> =C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 <param name=3D"src" value=
+=3D"Pictures/Movie1.m4v"/>
+> =C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 <param name=3D"autoplay" v=
+alue=3D"true"/>
+> =C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 <embed src=3D"Pictures/Mov=
+ie1.m4v" type=3D"image/x-macpaint" pluginspage=3D"http://www.apple.com/quickt=
+ime/download" autoplay=3D"true" height=3D"480" width=3D"640">
+> =C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 </object>
+> =C2=A0=C2=A0 </div>
+>
+> The trouble is that Movie1 is 30 odd megabytes and there are other movies i=
+n the file. So I'd rather use a place holder. Googling around I discovered th=
+at the recommended way of doing this is to make a 1 frame movie saying someth=
+ing like "click on me" which you put on the src attribute, and then you add a=
+n href attribute with the name of the "real" movie. If you add target=3D"_sel=
+f" it is supposed to replace the place holder with the longer movie. This wou=
+ld be the code:
+>
+> <div class=3D"figure" id=3D"d0e690">
+> =C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 <object classid=3D"clsid:02BF25D5-8C17-4B23-=
+BC80-D3488ABDDC6B" codebase=3D"http://www.apple.com/qtactivex/qtplugin.cab" h=
+eight=3D"480" width=3D"640" href=3D"Pictures/Movie1.m4v" target=3D"_self">
+> =C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 <param name=3D"src" value=
+=3D"Pictures/Movie1poster.m4v"/>
+> =C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 <param name=3D"autoplay" v=
+alue=3D"true"/>
+> =C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 <embed src=3D"Pictures/Mov=
+ie1poster.m4v" type=3D"image/x-macpaint" pluginspage=3D"http://www.apple.com/=
+quicktime/download" autoplay=3D"true" height=3D"480" width=3D"640" href=3D"Pi=
+ctures/Movie1.m4v" target=3D"_self"/>
+> =C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 </object>
+> =C2=A0=C2=A0 </div>
+>
+> The problem is that Firefox at any rate seems to understand the src attribu=
+te as a base URL. If I click on the player and copy the URL that is produced =
+or look at it in a full screen, Firefox is looking for the href video at
+>
+> Pictures/Movie1poster.m4v/Pictures/Movie1.m4v
+>
+> instead of
+>
+> Pictures/Movie1.m4v
+>
+> I've tried everything I can think of to get around this: moved the files in=
+to the root directory of the page, added ../ to the href to try and get it to=
+ back up a directory. Nothing seems to work. Since this is a very common thin=
+g on the internet, I must be doing something stupid. Does anybody know how to=
+ do it?
+> --
+> Daniel Paul O'Donnell, PhD
+> Professor of English, University of Lethbridge
+> Co-President, Society for Digital Humanities/Soci=C3=A9t=C3=A9 pour l'=C3=
+=A9tude des m=C3=A9dias interactifs
+> Co-Editor, Digital Studies/Le champ num=C3=A9rique
+> Founding Editor, Digital Medievalist
+> Digital Medievalist -- =C2=A0http://www.digitalmedievalist.org/
+> Journal: http://www.digitalmedievalist.org/journal/
+> Journal Editors: editors _AT_ digitalmedievalist.org
+> News: http://www.digitalmedievalist.org/news/
+> Wiki: http://www.digitalmedievalist.org/wiki/
+> Twitter: http://twitter.com/digitalmedieval
+> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+_redacted_(a)uleth.ca
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+--===============5862127485786141005==--

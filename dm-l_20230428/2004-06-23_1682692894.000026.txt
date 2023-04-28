@@ -1,0 +1,14 @@
+Subject: Re: [dm-l] Junicode, Mac MS 2004Martin K. Foys wrote in part:<< I can find enter most of the usual suspects (eth, thorn, yogh -- 
+not sure where the wynn is, though) >>Wynn is in Latin Extended-B, O1BF (7th row, 4th column in the 
+Character Palette).<< For the runes, for instance, all display as straight horizontal 
+lines, though inserting one does insert the proper runic form into 
+Word. >>I haven't downloaded the "test drive" of Office 2004 [[1]] and so I 
+can't tell for certain, but might it be that you haven't specified 
+Junicode in the font menu in the Character Palette? The runes display 
+fine there when I do, but they show up as boxes if the palette is set 
+at a font that doesn't include those glyphs. I'm running Mac OS 
+10.2.8, which may or may not make a difference.They also seem to work fine in TextEdit and Mellel [[2]].What a lovely and useful font!John[[1]] http://www.microsoft.com/mac/default.aspx?pid=office2004td[[2]] http://www.redlers.com/
+-- 
+_redacted_(a)pacbell.net  **   Berkeley, 
+California, U.S.A.  ***
+--===============5103947497836895596==--

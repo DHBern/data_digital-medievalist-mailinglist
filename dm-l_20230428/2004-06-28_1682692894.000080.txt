@@ -1,0 +1,43 @@
+Subject: Re: [dm-l] palaeography and computingThere are other members of the list who know more than I do about this. 
+Roberto?
+-danArianna Ciula wrote:>Dear all,
+>
+>as a Ph.D. student working on palaeography and computing, I find this 
+>mailing list very useful and I start my contribution with a question.
+>
+>Is there any sort of DTD designed with the purpose of describing a 
+>medieval manuscript, not just in its physical features as a global 
+>object, but in its palaeographical features?
+>
+>I mean any kind of XML grill and hierarchy able to encounter 
+>description and comments on the shape of letters, of ligatures and so 
+>on, even related just to one period and one handwritten style.
+>
+>I know the TEI guidelines and the efforts of some specific projects such
+>as Digital Scriptorium, but none of them seems to me to go into the 
+>image with the granularity needed for a palaeographical analysis.
+>
+>Cheers,
+>
+>Arianna Ciula
+>
+>----------------------
+>Arianna Ciula
+_redacted_(a)kcl.ac.uk
+>
+>
+>
+>_______________________________________________
+>dm-l mailing list
+_redacted_(a)uleth.ca
+>http://listserv.uleth.ca/mailman/listinfo/dm-l
+>  
+>-- 
+Daniel Paul O'Donnell, PhD
+Associate Professor of English
+University of Lethbridge
+Lethbridge AB T1K 3M4
+Tel. (403) 329-2377
+Fax. (403) 382-7191
+_redacted_(a)uleth.ca>
+Home Page <http://people.uleth.ca/~daniel.odonnell/>

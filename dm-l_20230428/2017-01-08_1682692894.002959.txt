@@ -1,0 +1,419 @@
+Subject:MAKE _YOUR_ EDITION: MODELS AND METHODS FOR DIGITAL TEXTUAL SCHOLARSHIP
+Call for applications: Summer 2017 NEH Institute for Advanced Topics in the D=
+igital HumanitiesDEADLINES: Applications are due Tuesday, February 28, 2017. Applicants
+will be notified of acceptance by March 15, 2017.INSTITUTE DATES: July 10-29, 2017
+SynopsisThe University of Pittsburgh is pleased to invite applications to an NEH
+Advanced Institute in the Digital Humanities for summer 2017 entitled
+_Make YOUR edition: models and methods of digital textual scholarship_.
+The target audience for this workshop is digital textual scholars who
+are already comfortable editing their texts (in TEI XML or comparable
+alternatives); the goal of the Institute is to assist them in moving
+beyond textual editing to imagining, creating, and publishing
+research-driven, theoretically and methodologically innovative digital
+editions.
+RationaleDigital humanists already have access to workshops and tutorials to help
+them learn to transcribe, edit, and tag a text in preparation for
+publishing a digital edition. These training resources play a vital role
+in empowering editors to formalize and instantiate their interpretations
+as markup, so as to make them available for subsequent analysis.
+Nonetheless, sophisticated markup expertise alone is not enough to make
+an edition, and learning nothing more than tagging may leave scholars
+staring at their angle brackets and wondering what to do next. For some
+a solution like TEI Tapas provides an adequate next step, but for those
+who wish to ask new types of questions of their documents, and to
+produce new types of editions that enable new types of research, an
+understanding of how to turn a set of tagged texts into a customized
+edition that meets individualized research goals is crucial. Digital
+humanists cannot build editions that break new methodological ground
+solely on the basis of solutions prepared largely by others, and the
+focus of this Institute is on the creation of digital editions motivated
+by project-specific research questions and implemented from a
+perspective driven first by theory of edition, second by editorial
+methodology, and necessarily but less importantly by specific toolkits.
+In this respect we foreground not learning a particular programming
+language or technology or framework, but learning to think and act
+digitally about the process of creating a digital edition. Because tools
+and technologies come and go, the Institute emphasizes learning to
+translate original digital thinking about editions into implementations
+of those editions, rather than on =E2=80=9Ctooling up=E2=80=9D in the context=
+ of
+currently popular frameworks. In this respect, the Institute recognizes
+thinking digitally in ways driven by project-specific research goals as
+the most important feature of _sustainable Digital Humanities training
+and education_.
+ProgramThe Institute will introduce textual and manuscript scholars to a
+powerful and broad-reaching skill set of digital methods and
+technologies, grounded in a context that prioritizes a research-driven
+theory of edition. The course moves in a three-week succession from
+novice to experienced level, and from base textual data to full digital
+publication of scholarly editions. The Institute assumes that
+participants will have meaningful prior experience in digital editing
+(in TEI XML or a comparable framework), but it makes no other
+assumptions about prior knowledge or skills.-   An optional first-week _boot camp_ establishes basic infrastructure
+    skills (operating comfortably at the command line, handling files,
+    navigating file systems, sharing resources and code responsibly,
+    running Python programs from the command line, etc.).
+-   The second week allows participants to practice and advance their
+    basic skills when they start combining digital textual scholarship
+    theory (e.g., McGann 2004[1], Andrews 2012[2], Siemens 2012[3], Robinson
+    2013[4], Haentjens et al. 2015[5]) with standard (e.g., XML, Python,
+    Jupyter Notebooks) and advanced digital technologies (e.g.,
+    StemmaWeb, CollateX, Neo4j, Tinkerpop, eXist-db).
+-   By the end of the third week, participants will be able to
+    conceptualize from theory a perspective on digital textual
+    scholarship and digital scholarly editions. They will also know how
+    to go about planning and implementing such an edition by engaging
+    programmatically and algorithmically with digital data, handling it
+    computationally, and querying, analyzing, and transforming it into
+    visualizations that transcend the digital translation of a text as a
+    codex.The Institute will meet at the main (Oakland) campus of the University
+of Pittsburgh from Monday, July 10, 2017 through Friday, July 28, 2017
+and will draw on an international faculty of distinguished scholars,
+practitioners, and teachers of digital philology from several
+collaborating institutions. On Saturday, July 29, 2017 there will be an
+optional pedagogical review of the Institute, designed to assist
+participants in organizing and conducting their own workshops at their
+home institutions.
+Instructors-   Tara Andrews (Institute of History, University of Vienna)
+-   David J. Birnbaum (Department of Slavic Languages and Literatures,
+    University of Pittsburgh)
+-   Hugh Cayless (Duke Collaboratory for Classics Computing [DC3], Duke
+    University)
+-   Ronald Haentjens Dekker (Huygens Institute, Royal Netherlands
+    Academy of Arts and Sciences)
+-   Na-Rae Han (Department of Linguistics, University of Pittsburgh)
+-   Mike Kestemont (Department of Literature, University of Antwerp)
+-   Leif-J=C3=B6ran Olsson (Department of Swedish Language, University of
+    Gothenburg)The instructors will be assisted by Gabrielle (Gabi) Keane (Senior
+Undergraduate Institute Assistant, University of Pittsburgh).
+DetailsApplications are invited for the full three-week Institute or, in the
+case of those who are already comfortable with the types of first-week
+topics described above, for just the second and third weeks. Applicants
+should already be proficient with digital textual editing in TEI XML or
+similar technologies, and should be seeking guidance and training in how
+to move their texts into innovative digital editions that will enable
+them to explore project-specific research questions. Evidence of
+meaningful prior hands-on digital textual editing experience is
+required, but prior experience in programming for textual exploration
+and publication is not. Applicants who do not have prior experience with
+the Python programming language must agree to complete a recommended
+free online introductory Python course before the beginning of the
+Institute, for which the Institute will maintain its own support and
+discussion board. For budgetary reasons, preference will be given to
+applications from within North America.Participants accepted to the Institute will receive a travel allowance,
+complimentary accommodation in single-occupancy dormitory rooms, and a
+complimentary meal plan in the University Dining Services in lieu of per
+diem. Access to the University libraries, computer labs, and networked
+digital resources will also be provided. Participants must bring their
+own laptops (Windows 7=E2=80=9310, Mac OS, or Ubuntu/Debian Linux). We welcome
+scholars at all career levels from advanced graduate students through
+senior faculty. Applications to the Institute should include the
+following:-   A one- to two-page statement about how participation in the
+    Institute will enhance the scholarly and professional goals of the
+    applicant. This statement should describe the digital edition
+    project that the applicant plans to pursue or undertake, with
+    special attention to the research questions motivating the creation
+    of that edition. Preference will be shown to applications that
+    articulate a clear understanding of the textual research potential
+    of digital scholarly editions.
+-   A one-page description of the applicant=E2=80=99s experience with textual
+    editing. Prior experience in programming for text processing is
+    neither required nor expected, but those who have such experience
+    should describe it here.
+-   Brief CV (maximum of two pages), concentrating on textual editing
+    and Digital Humanities experience.
+-   Indicate whether you are applying for the full three weeks or only
+    for the second and third, and in the latter case please describe
+    your background in the areas related to those described above as
+    part of the =E2=80=9Cboot camp=E2=80=9D week.
+-   Indicate whether you wish to participate in the optional one-day
+    pedagogical review of the course on Saturday, July 29.
+-   Participants are required to participate full-time in the Institute
+    for the two or three weeks that they are in residence, and must
+    confirm that they will not undertake other significant commitments
+    during the Institute period.All application materials should be submitted by email as a single PDF
+_redacted_(a)pitt.edu. The deadline for applications is Tuesday,
+February 28, 2017, and applicants will be notified by March 15, 2017.
+_redacted_(a)pitt.edu.David J. Birnbaum, Institute Director
+Professor and Chair, Slavic Languages and Literatures
+Faculty Fellow, University Honors College
+_redacted_(a)pitt.edu
+_____
+References1.  McGann, Jerome, 2004. =E2=80=9CMarking texts of many dimensions.=E2=80=9D=
+ In Susan
+    Schreibman, Raymond Siemens, and John Unsworth, eds. _A companion to
+    Digital Humanities_. Oxford: Blackwell.
+2.  Andrews, Tara L., 2012. =E2=80=9CThe third way: philology and critical
+    edition in the digital age.=E2=80=9D _Variants_ 10, pp. 61=E2=80=9376.
+3.  Siemens, Raymond et al., 2012. =E2=80=9CToward modeling the social editio=
+n:
+    An approach to understanding the electronic scholarly edition in the
+    context of new and emerging social media.=E2=80=9D _Literary and linguist=
+ic
+    computing_, 27(4), pp. 445=E2=80=9361.
+4.  Robinson, Peter, 2012. =E2=80=9CTowards a theory of digital editions.=E2=
+=80=9D
+    _Variants_ 10, pp.105=E2=80=9331.
+5.  Haentjens Dekker, Ronald, Dirk van Hulle, Gregor Middell, Vincent
+    Neyt, Joris van Zundert, 2015. =E2=80=9CComputer-supported collation of
+    modern manuscripts: CollateX and the Beckett Digital Manuscript
+    Project=E2=80=9D, _Digital scholarship in the humanities_, 30(3), pp.
+    452=E2=80=9370.------------------------------------------------------------------------This announcement has been posted to Humanist (http://dhhumanist.org/),
+Digital Classicist (http://www.digitalclassicist.org/), Digital
+Medievalist (https://digitalmedievalist.wordpress.com/), TEI-L
+(http://www.tei-c.org/Support/index.xml#tei-l), WWP-Encoding
+(http://listserv.neu.edu/cgi-bin/wa?A0=3Dwwp-encoding), and DHUF Digital
+_redacted_(a)googlegroups.com). Please circulate.
+--===============6102039236945882831==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"
+MIME-Version: 1.0PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
+eHQvaHRtbDsgY2hhcnNldD1XaW5kb3dzLTEyNTIiPgo8L2hlYWQ+Cjxib2R5IHN0eWxlPSJ3b3Jk
+LXdyYXA6IGJyZWFrLXdvcmQ7IC13ZWJraXQtbmJzcC1tb2RlOiBzcGFjZTsgLXdlYmtpdC1saW5l
+LWJyZWFrOiBhZnRlci13aGl0ZS1zcGFjZTsgY29sb3I6IHJnYigwLCAwLCAwKTsgZm9udC1zaXpl
+OiAxNHB4OyBmb250LWZhbWlseTogQ2FsaWJyaSwgc2Fucy1zZXJpZjsiPgo8ZGl2Pgo8ZGl2Pk1B
+S0UgX1lPVVJfIEVESVRJT046IE1PREVMUyBBTkQgTUVUSE9EUyBGT1IgRElHSVRBTCBURVhUVUFM
+IFNDSE9MQVJTSElQPC9kaXY+CjxkaXY+PGJyPgo8L2Rpdj4KPGRpdj48YnI+CjwvZGl2Pgo8ZGl2
+PkNhbGwgZm9yIGFwcGxpY2F0aW9uczogU3VtbWVyIDIwMTcgTkVIIEluc3RpdHV0ZSBmb3IgQWR2
+YW5jZWQgVG9waWNzIGluIHRoZSBEaWdpdGFsIEh1bWFuaXRpZXM8L2Rpdj4KPGRpdj48YnI+Cjwv
+ZGl2Pgo8ZGl2PkRFQURMSU5FUzogQXBwbGljYXRpb25zIGFyZSBkdWUgVHVlc2RheSwgRmVicnVh
+cnkgMjgsIDIwMTcuIEFwcGxpY2FudHM8L2Rpdj4KPGRpdj53aWxsIGJlIG5vdGlmaWVkIG9mIGFj
+Y2VwdGFuY2UgYnkgTWFyY2ggMTUsIDIwMTcuPC9kaXY+CjxkaXY+PGJyPgo8L2Rpdj4KPGRpdj5J
+TlNUSVRVVEUgREFURVM6IEp1bHkgMTAtMjksIDIwMTc8L2Rpdj4KPGRpdj48YnI+CjwvZGl2Pgo8
+ZGl2Pjxicj4KPC9kaXY+CjxkaXY+U3lub3BzaXM8L2Rpdj4KPGRpdj48YnI+CjwvZGl2Pgo8ZGl2
+PlRoZSBVbml2ZXJzaXR5IG9mIFBpdHRzYnVyZ2ggaXMgcGxlYXNlZCB0byBpbnZpdGUgYXBwbGlj
+YXRpb25zIHRvIGFuIE5FSDwvZGl2Pgo8ZGl2PkFkdmFuY2VkIEluc3RpdHV0ZSBpbiB0aGUgRGln
+aXRhbCBIdW1hbml0aWVzIGZvciBzdW1tZXIgMjAxNyBlbnRpdGxlZDwvZGl2Pgo8ZGl2Pl9NYWtl
+IFlPVVIgZWRpdGlvbjogbW9kZWxzIGFuZCBtZXRob2RzIG9mIGRpZ2l0YWwgdGV4dHVhbCBzY2hv
+bGFyc2hpcF8uPC9kaXY+CjxkaXY+VGhlIHRhcmdldCBhdWRpZW5jZSBmb3IgdGhpcyB3b3Jrc2hv
+cCBpcyBkaWdpdGFsIHRleHR1YWwgc2Nob2xhcnMgd2hvPC9kaXY+CjxkaXY+YXJlIGFscmVhZHkg
+Y29tZm9ydGFibGUgZWRpdGluZyB0aGVpciB0ZXh0cyAoaW4gVEVJIFhNTCBvciBjb21wYXJhYmxl
+PC9kaXY+CjxkaXY+YWx0ZXJuYXRpdmVzKTsgdGhlIGdvYWwgb2YgdGhlIEluc3RpdHV0ZSBpcyB0
+byBhc3Npc3QgdGhlbSBpbiBtb3Zpbmc8L2Rpdj4KPGRpdj5iZXlvbmQgdGV4dHVhbCBlZGl0aW5n
+IHRvIGltYWdpbmluZywgY3JlYXRpbmcsIGFuZCBwdWJsaXNoaW5nPC9kaXY+CjxkaXY+cmVzZWFy
+Y2gtZHJpdmVuLCB0aGVvcmV0aWNhbGx5IGFuZCBtZXRob2RvbG9naWNhbGx5IGlubm92YXRpdmUg
+ZGlnaXRhbDwvZGl2Pgo8ZGl2PmVkaXRpb25zLjwvZGl2Pgo8ZGl2Pjxicj4KPC9kaXY+CjxkaXY+
+PGJyPgo8L2Rpdj4KPGRpdj5SYXRpb25hbGU8L2Rpdj4KPGRpdj48YnI+CjwvZGl2Pgo8ZGl2PkRp
+Z2l0YWwgaHVtYW5pc3RzIGFscmVhZHkgaGF2ZSBhY2Nlc3MgdG8gd29ya3Nob3BzIGFuZCB0dXRv
+cmlhbHMgdG8gaGVscDwvZGl2Pgo8ZGl2PnRoZW0gbGVhcm4gdG8gdHJhbnNjcmliZSwgZWRpdCwg
+YW5kIHRhZyBhIHRleHQgaW4gcHJlcGFyYXRpb24gZm9yPC9kaXY+CjxkaXY+cHVibGlzaGluZyBh
+IGRpZ2l0YWwgZWRpdGlvbi4gVGhlc2UgdHJhaW5pbmcgcmVzb3VyY2VzIHBsYXkgYSB2aXRhbCBy
+b2xlPC9kaXY+CjxkaXY+aW4gZW1wb3dlcmluZyBlZGl0b3JzIHRvIGZvcm1hbGl6ZSBhbmQgaW5z
+dGFudGlhdGUgdGhlaXIgaW50ZXJwcmV0YXRpb25zPC9kaXY+CjxkaXY+YXMgbWFya3VwLCBzbyBh
+cyB0byBtYWtlIHRoZW0gYXZhaWxhYmxlIGZvciBzdWJzZXF1ZW50IGFuYWx5c2lzLjwvZGl2Pgo8
+ZGl2Pk5vbmV0aGVsZXNzLCBzb3BoaXN0aWNhdGVkIG1hcmt1cCBleHBlcnRpc2UgYWxvbmUgaXMg
+bm90IGVub3VnaCB0byBtYWtlPC9kaXY+CjxkaXY+YW4gZWRpdGlvbiwgYW5kIGxlYXJuaW5nIG5v
+dGhpbmcgbW9yZSB0aGFuIHRhZ2dpbmcgbWF5IGxlYXZlIHNjaG9sYXJzPC9kaXY+CjxkaXY+c3Rh
+cmluZyBhdCB0aGVpciBhbmdsZSBicmFja2V0cyBhbmQgd29uZGVyaW5nIHdoYXQgdG8gZG8gbmV4
+dC4gRm9yIHNvbWU8L2Rpdj4KPGRpdj5hIHNvbHV0aW9uIGxpa2UgVEVJIFRhcGFzIHByb3ZpZGVz
+IGFuIGFkZXF1YXRlIG5leHQgc3RlcCwgYnV0IGZvciB0aG9zZTwvZGl2Pgo8ZGl2PndobyB3aXNo
+IHRvIGFzayBuZXcgdHlwZXMgb2YgcXVlc3Rpb25zIG9mIHRoZWlyIGRvY3VtZW50cywgYW5kIHRv
+PC9kaXY+CjxkaXY+cHJvZHVjZSBuZXcgdHlwZXMgb2YgZWRpdGlvbnMgdGhhdCBlbmFibGUgbmV3
+IHR5cGVzIG9mIHJlc2VhcmNoLCBhbjwvZGl2Pgo8ZGl2PnVuZGVyc3RhbmRpbmcgb2YgaG93IHRv
+IHR1cm4gYSBzZXQgb2YgdGFnZ2VkIHRleHRzIGludG8gYSBjdXN0b21pemVkPC9kaXY+CjxkaXY+
+ZWRpdGlvbiB0aGF0IG1lZXRzIGluZGl2aWR1YWxpemVkIHJlc2VhcmNoIGdvYWxzIGlzIGNydWNp
+YWwuIERpZ2l0YWw8L2Rpdj4KPGRpdj5odW1hbmlzdHMgY2Fubm90IGJ1aWxkIGVkaXRpb25zIHRo
+YXQgYnJlYWsgbmV3IG1ldGhvZG9sb2dpY2FsIGdyb3VuZDwvZGl2Pgo8ZGl2PnNvbGVseSBvbiB0
+aGUgYmFzaXMgb2Ygc29sdXRpb25zIHByZXBhcmVkIGxhcmdlbHkgYnkgb3RoZXJzLCBhbmQgdGhl
+PC9kaXY+CjxkaXY+Zm9jdXMgb2YgdGhpcyBJbnN0aXR1dGUgaXMgb24gdGhlIGNyZWF0aW9uIG9m
+IGRpZ2l0YWwgZWRpdGlvbnMgbW90aXZhdGVkPC9kaXY+CjxkaXY+YnkgcHJvamVjdC1zcGVjaWZp
+YyByZXNlYXJjaCBxdWVzdGlvbnMgYW5kIGltcGxlbWVudGVkIGZyb20gYTwvZGl2Pgo8ZGl2PnBl
+cnNwZWN0aXZlIGRyaXZlbiBmaXJzdCBieSB0aGVvcnkgb2YgZWRpdGlvbiwgc2Vjb25kIGJ5IGVk
+aXRvcmlhbDwvZGl2Pgo8ZGl2Pm1ldGhvZG9sb2d5LCBhbmQgbmVjZXNzYXJpbHkgYnV0IGxlc3Mg
+aW1wb3J0YW50bHkgYnkgc3BlY2lmaWMgdG9vbGtpdHMuPC9kaXY+CjxkaXY+SW4gdGhpcyByZXNw
+ZWN0IHdlIGZvcmVncm91bmQgbm90IGxlYXJuaW5nIGEgcGFydGljdWxhciBwcm9ncmFtbWluZzwv
+ZGl2Pgo8ZGl2Pmxhbmd1YWdlIG9yIHRlY2hub2xvZ3kgb3IgZnJhbWV3b3JrLCBidXQgbGVhcm5p
+bmcgdG8gdGhpbmsgYW5kIGFjdDwvZGl2Pgo8ZGl2PmRpZ2l0YWxseSBhYm91dCB0aGUgcHJvY2Vz
+cyBvZiBjcmVhdGluZyBhIGRpZ2l0YWwgZWRpdGlvbi4gQmVjYXVzZSB0b29sczwvZGl2Pgo8ZGl2
+PmFuZCB0ZWNobm9sb2dpZXMgY29tZSBhbmQgZ28sIHRoZSBJbnN0aXR1dGUgZW1waGFzaXplcyBs
+ZWFybmluZyB0bzwvZGl2Pgo8ZGl2PnRyYW5zbGF0ZSBvcmlnaW5hbCBkaWdpdGFsIHRoaW5raW5n
+IGFib3V0IGVkaXRpb25zIGludG8gaW1wbGVtZW50YXRpb25zPC9kaXY+CjxkaXY+b2YgdGhvc2Ug
+ZWRpdGlvbnMsIHJhdGhlciB0aGFuIG9uIJN0b29saW5nIHVwlCBpbiB0aGUgY29udGV4dCBvZjwv
+ZGl2Pgo8ZGl2PmN1cnJlbnRseSBwb3B1bGFyIGZyYW1ld29ya3MuIEluIHRoaXMgcmVzcGVjdCwg
+dGhlIEluc3RpdHV0ZSByZWNvZ25pemVzPC9kaXY+CjxkaXY+dGhpbmtpbmcgZGlnaXRhbGx5IGlu
+IHdheXMgZHJpdmVuIGJ5IHByb2plY3Qtc3BlY2lmaWMgcmVzZWFyY2ggZ29hbHMgYXM8L2Rpdj4K
+PGRpdj50aGUgbW9zdCBpbXBvcnRhbnQgZmVhdHVyZSBvZiBfc3VzdGFpbmFibGUgRGlnaXRhbCBI
+dW1hbml0aWVzIHRyYWluaW5nPC9kaXY+CjxkaXY+YW5kIGVkdWNhdGlvbl8uPC9kaXY+CjxkaXY+
+PGJyPgo8L2Rpdj4KPGRpdj48YnI+CjwvZGl2Pgo8ZGl2PlByb2dyYW08L2Rpdj4KPGRpdj48YnI+
+CjwvZGl2Pgo8ZGl2PlRoZSBJbnN0aXR1dGUgd2lsbCBpbnRyb2R1Y2UgdGV4dHVhbCBhbmQgbWFu
+dXNjcmlwdCBzY2hvbGFycyB0byBhPC9kaXY+CjxkaXY+cG93ZXJmdWwgYW5kIGJyb2FkLXJlYWNo
+aW5nIHNraWxsIHNldCBvZiBkaWdpdGFsIG1ldGhvZHMgYW5kPC9kaXY+CjxkaXY+dGVjaG5vbG9n
+aWVzLCBncm91bmRlZCBpbiBhIGNvbnRleHQgdGhhdCBwcmlvcml0aXplcyBhIHJlc2VhcmNoLWRy
+aXZlbjwvZGl2Pgo8ZGl2PnRoZW9yeSBvZiBlZGl0aW9uLiBUaGUgY291cnNlIG1vdmVzIGluIGEg
+dGhyZWUtd2VlayBzdWNjZXNzaW9uIGZyb208L2Rpdj4KPGRpdj5ub3ZpY2UgdG8gZXhwZXJpZW5j
+ZWQgbGV2ZWwsIGFuZCBmcm9tIGJhc2UgdGV4dHVhbCBkYXRhIHRvIGZ1bGwgZGlnaXRhbDwvZGl2
+Pgo8ZGl2PnB1YmxpY2F0aW9uIG9mIHNjaG9sYXJseSBlZGl0aW9ucy4gVGhlIEluc3RpdHV0ZSBh
+c3N1bWVzIHRoYXQ8L2Rpdj4KPGRpdj5wYXJ0aWNpcGFudHMgd2lsbCBoYXZlIG1lYW5pbmdmdWwg
+cHJpb3IgZXhwZXJpZW5jZSBpbiBkaWdpdGFsIGVkaXRpbmc8L2Rpdj4KPGRpdj4oaW4gVEVJIFhN
+TCBvciBhIGNvbXBhcmFibGUgZnJhbWV3b3JrKSwgYnV0IGl0IG1ha2VzIG5vIG90aGVyPC9kaXY+
+CjxkaXY+YXNzdW1wdGlvbnMgYWJvdXQgcHJpb3Iga25vd2xlZGdlIG9yIHNraWxscy48L2Rpdj4K
+PGRpdj48YnI+CjwvZGl2Pgo8ZGl2Pi0gJm5ic3A7IEFuIG9wdGlvbmFsIGZpcnN0LXdlZWsgX2Jv
+b3QgY2FtcF8gZXN0YWJsaXNoZXMgYmFzaWMgaW5mcmFzdHJ1Y3R1cmU8L2Rpdj4KPGRpdj4mbmJz
+cDsgJm5ic3A7IHNraWxscyAob3BlcmF0aW5nIGNvbWZvcnRhYmx5IGF0IHRoZSBjb21tYW5kIGxp
+bmUsIGhhbmRsaW5nIGZpbGVzLDwvZGl2Pgo8ZGl2PiZuYnNwOyAmbmJzcDsgbmF2aWdhdGluZyBm
+aWxlIHN5c3RlbXMsIHNoYXJpbmcgcmVzb3VyY2VzIGFuZCBjb2RlIHJlc3BvbnNpYmx5LDwvZGl2
+Pgo8ZGl2PiZuYnNwOyAmbmJzcDsgcnVubmluZyBQeXRob24gcHJvZ3JhbXMgZnJvbSB0aGUgY29t
+bWFuZCBsaW5lLCBldGMuKS48L2Rpdj4KPGRpdj4tICZuYnNwOyBUaGUgc2Vjb25kIHdlZWsgYWxs
+b3dzIHBhcnRpY2lwYW50cyB0byBwcmFjdGljZSBhbmQgYWR2YW5jZSB0aGVpcjwvZGl2Pgo8ZGl2
+PiZuYnNwOyAmbmJzcDsgYmFzaWMgc2tpbGxzIHdoZW4gdGhleSBzdGFydCBjb21iaW5pbmcgZGln
+aXRhbCB0ZXh0dWFsIHNjaG9sYXJzaGlwPC9kaXY+CjxkaXY+Jm5ic3A7ICZuYnNwOyB0aGVvcnkg
+KGUuZy4sIE1jR2FubiAyMDA0WzFdLCBBbmRyZXdzIDIwMTJbMl0sIFNpZW1lbnMgMjAxMlszXSwg
+Um9iaW5zb248L2Rpdj4KPGRpdj4mbmJzcDsgJm5ic3A7IDIwMTNbNF0sIEhhZW50amVucyBldCBh
+bC4gMjAxNVs1XSkgd2l0aCBzdGFuZGFyZCAoZS5nLiwgWE1MLCBQeXRob24sPC9kaXY+CjxkaXY+
+Jm5ic3A7ICZuYnNwOyBKdXB5dGVyIE5vdGVib29rcykgYW5kIGFkdmFuY2VkIGRpZ2l0YWwgdGVj
+aG5vbG9naWVzIChlLmcuLDwvZGl2Pgo8ZGl2PiZuYnNwOyAmbmJzcDsgU3RlbW1hV2ViLCBDb2xs
+YXRlWCwgTmVvNGosIFRpbmtlcnBvcCwgZVhpc3QtZGIpLjwvZGl2Pgo8ZGl2Pi0gJm5ic3A7IEJ5
+IHRoZSBlbmQgb2YgdGhlIHRoaXJkIHdlZWssIHBhcnRpY2lwYW50cyB3aWxsIGJlIGFibGUgdG88
+L2Rpdj4KPGRpdj4mbmJzcDsgJm5ic3A7IGNvbmNlcHR1YWxpemUgZnJvbSB0aGVvcnkgYSBwZXJz
+cGVjdGl2ZSBvbiBkaWdpdGFsIHRleHR1YWw8L2Rpdj4KPGRpdj4mbmJzcDsgJm5ic3A7IHNjaG9s
+YXJzaGlwIGFuZCBkaWdpdGFsIHNjaG9sYXJseSBlZGl0aW9ucy4gVGhleSB3aWxsIGFsc28ga25v
+dyBob3c8L2Rpdj4KPGRpdj4mbmJzcDsgJm5ic3A7IHRvIGdvIGFib3V0IHBsYW5uaW5nIGFuZCBp
+bXBsZW1lbnRpbmcgc3VjaCBhbiBlZGl0aW9uIGJ5IGVuZ2FnaW5nPC9kaXY+CjxkaXY+Jm5ic3A7
+ICZuYnNwOyBwcm9ncmFtbWF0aWNhbGx5IGFuZCBhbGdvcml0aG1pY2FsbHkgd2l0aCBkaWdpdGFs
+IGRhdGEsIGhhbmRsaW5nIGl0PC9kaXY+CjxkaXY+Jm5ic3A7ICZuYnNwOyBjb21wdXRhdGlvbmFs
+bHksIGFuZCBxdWVyeWluZywgYW5hbHl6aW5nLCBhbmQgdHJhbnNmb3JtaW5nIGl0IGludG88L2Rp
+dj4KPGRpdj4mbmJzcDsgJm5ic3A7IHZpc3VhbGl6YXRpb25zIHRoYXQgdHJhbnNjZW5kIHRoZSBk
+aWdpdGFsIHRyYW5zbGF0aW9uIG9mIGEgdGV4dCBhcyBhPC9kaXY+CjxkaXY+Jm5ic3A7ICZuYnNw
+OyBjb2RleC48L2Rpdj4KPGRpdj48YnI+CjwvZGl2Pgo8ZGl2PlRoZSBJbnN0aXR1dGUgd2lsbCBt
+ZWV0IGF0IHRoZSBtYWluIChPYWtsYW5kKSBjYW1wdXMgb2YgdGhlIFVuaXZlcnNpdHk8L2Rpdj4K
+PGRpdj5vZiBQaXR0c2J1cmdoIGZyb20gTW9uZGF5LCBKdWx5IDEwLCAyMDE3IHRocm91Z2ggRnJp
+ZGF5LCBKdWx5IDI4LCAyMDE3PC9kaXY+CjxkaXY+YW5kIHdpbGwgZHJhdyBvbiBhbiBpbnRlcm5h
+dGlvbmFsIGZhY3VsdHkgb2YgZGlzdGluZ3Vpc2hlZCBzY2hvbGFycyw8L2Rpdj4KPGRpdj5wcmFj
+dGl0aW9uZXJzLCBhbmQgdGVhY2hlcnMgb2YgZGlnaXRhbCBwaGlsb2xvZ3kgZnJvbSBzZXZlcmFs
+PC9kaXY+CjxkaXY+Y29sbGFib3JhdGluZyBpbnN0aXR1dGlvbnMuIE9uIFNhdHVyZGF5LCBKdWx5
+IDI5LCAyMDE3IHRoZXJlIHdpbGwgYmUgYW48L2Rpdj4KPGRpdj5vcHRpb25hbCBwZWRhZ29naWNh
+bCByZXZpZXcgb2YgdGhlIEluc3RpdHV0ZSwgZGVzaWduZWQgdG8gYXNzaXN0PC9kaXY+CjxkaXY+
+cGFydGljaXBhbnRzIGluIG9yZ2FuaXppbmcgYW5kIGNvbmR1Y3RpbmcgdGhlaXIgb3duIHdvcmtz
+aG9wcyBhdCB0aGVpcjwvZGl2Pgo8ZGl2PmhvbWUgaW5zdGl0dXRpb25zLjwvZGl2Pgo8ZGl2Pjxi
+cj4KPC9kaXY+CjxkaXY+PGJyPgo8L2Rpdj4KPGRpdj5JbnN0cnVjdG9yczwvZGl2Pgo8ZGl2Pjxi
+cj4KPC9kaXY+CjxkaXY+LSAmbmJzcDsgVGFyYSBBbmRyZXdzIChJbnN0aXR1dGUgb2YgSGlzdG9y
+eSwgVW5pdmVyc2l0eSBvZiBWaWVubmEpPC9kaXY+CjxkaXY+LSAmbmJzcDsgRGF2aWQgSi4gQmly
+bmJhdW0gKERlcGFydG1lbnQgb2YgU2xhdmljIExhbmd1YWdlcyBhbmQgTGl0ZXJhdHVyZXMsPC9k
+aXY+CjxkaXY+Jm5ic3A7ICZuYnNwOyBVbml2ZXJzaXR5IG9mIFBpdHRzYnVyZ2gpPC9kaXY+Cjxk
+aXY+LSAmbmJzcDsgSHVnaCBDYXlsZXNzIChEdWtlIENvbGxhYm9yYXRvcnkgZm9yIENsYXNzaWNz
+IENvbXB1dGluZyBbREMzXSwgRHVrZTwvZGl2Pgo8ZGl2PiZuYnNwOyAmbmJzcDsgVW5pdmVyc2l0
+eSk8L2Rpdj4KPGRpdj4tICZuYnNwOyBSb25hbGQgSGFlbnRqZW5zIERla2tlciAoSHV5Z2VucyBJ
+bnN0aXR1dGUsIFJveWFsIE5ldGhlcmxhbmRzPC9kaXY+CjxkaXY+Jm5ic3A7ICZuYnNwOyBBY2Fk
+ZW15IG9mIEFydHMgYW5kIFNjaWVuY2VzKTwvZGl2Pgo8ZGl2Pi0gJm5ic3A7IE5hLVJhZSBIYW4g
+KERlcGFydG1lbnQgb2YgTGluZ3Vpc3RpY3MsIFVuaXZlcnNpdHkgb2YgUGl0dHNidXJnaCk8L2Rp
+dj4KPGRpdj4tICZuYnNwOyBNaWtlIEtlc3RlbW9udCAoRGVwYXJ0bWVudCBvZiBMaXRlcmF0dXJl
+LCBVbml2ZXJzaXR5IG9mIEFudHdlcnApPC9kaXY+CjxkaXY+LSAmbmJzcDsgTGVpZi1K9nJhbiBP
+bHNzb24gKERlcGFydG1lbnQgb2YgU3dlZGlzaCBMYW5ndWFnZSwgVW5pdmVyc2l0eSBvZjwvZGl2
+Pgo8ZGl2PiZuYnNwOyAmbmJzcDsgR290aGVuYnVyZyk8L2Rpdj4KPGRpdj48YnI+CjwvZGl2Pgo8
+ZGl2PlRoZSBpbnN0cnVjdG9ycyB3aWxsIGJlIGFzc2lzdGVkIGJ5IEdhYnJpZWxsZSAoR2FiaSkg
+S2VhbmUgKFNlbmlvcjwvZGl2Pgo8ZGl2PlVuZGVyZ3JhZHVhdGUgSW5zdGl0dXRlIEFzc2lzdGFu
+dCwgVW5pdmVyc2l0eSBvZiBQaXR0c2J1cmdoKS48L2Rpdj4KPGRpdj48YnI+CjwvZGl2Pgo8ZGl2
+Pjxicj4KPC9kaXY+CjxkaXY+RGV0YWlsczwvZGl2Pgo8ZGl2Pjxicj4KPC9kaXY+CjxkaXY+QXBw
+bGljYXRpb25zIGFyZSBpbnZpdGVkIGZvciB0aGUgZnVsbCB0aHJlZS13ZWVrIEluc3RpdHV0ZSBv
+ciwgaW4gdGhlPC9kaXY+CjxkaXY+Y2FzZSBvZiB0aG9zZSB3aG8gYXJlIGFscmVhZHkgY29tZm9y
+dGFibGUgd2l0aCB0aGUgdHlwZXMgb2YgZmlyc3Qtd2VlazwvZGl2Pgo8ZGl2PnRvcGljcyBkZXNj
+cmliZWQgYWJvdmUsIGZvciBqdXN0IHRoZSBzZWNvbmQgYW5kIHRoaXJkIHdlZWtzLiBBcHBsaWNh
+bnRzPC9kaXY+CjxkaXY+c2hvdWxkIGFscmVhZHkgYmUgcHJvZmljaWVudCB3aXRoIGRpZ2l0YWwg
+dGV4dHVhbCBlZGl0aW5nIGluIFRFSSBYTUwgb3I8L2Rpdj4KPGRpdj5zaW1pbGFyIHRlY2hub2xv
+Z2llcywgYW5kIHNob3VsZCBiZSBzZWVraW5nIGd1aWRhbmNlIGFuZCB0cmFpbmluZyBpbiBob3c8
+L2Rpdj4KPGRpdj50byBtb3ZlIHRoZWlyIHRleHRzIGludG8gaW5ub3ZhdGl2ZSBkaWdpdGFsIGVk
+aXRpb25zIHRoYXQgd2lsbCBlbmFibGU8L2Rpdj4KPGRpdj50aGVtIHRvIGV4cGxvcmUgcHJvamVj
+dC1zcGVjaWZpYyByZXNlYXJjaCBxdWVzdGlvbnMuIEV2aWRlbmNlIG9mPC9kaXY+CjxkaXY+bWVh
+bmluZ2Z1bCBwcmlvciBoYW5kcy1vbiBkaWdpdGFsIHRleHR1YWwgZWRpdGluZyBleHBlcmllbmNl
+IGlzPC9kaXY+CjxkaXY+cmVxdWlyZWQsIGJ1dCBwcmlvciBleHBlcmllbmNlIGluIHByb2dyYW1t
+aW5nIGZvciB0ZXh0dWFsIGV4cGxvcmF0aW9uPC9kaXY+CjxkaXY+YW5kIHB1YmxpY2F0aW9uIGlz
+IG5vdC4gQXBwbGljYW50cyB3aG8gZG8gbm90IGhhdmUgcHJpb3IgZXhwZXJpZW5jZSB3aXRoPC9k
+aXY+CjxkaXY+dGhlIFB5dGhvbiBwcm9ncmFtbWluZyBsYW5ndWFnZSBtdXN0IGFncmVlIHRvIGNv
+bXBsZXRlIGEgcmVjb21tZW5kZWQ8L2Rpdj4KPGRpdj5mcmVlIG9ubGluZSBpbnRyb2R1Y3Rvcnkg
+UHl0aG9uIGNvdXJzZSBiZWZvcmUgdGhlIGJlZ2lubmluZyBvZiB0aGU8L2Rpdj4KPGRpdj5JbnN0
+aXR1dGUsIGZvciB3aGljaCB0aGUgSW5zdGl0dXRlIHdpbGwgbWFpbnRhaW4gaXRzIG93biBzdXBw
+b3J0IGFuZDwvZGl2Pgo8ZGl2PmRpc2N1c3Npb24gYm9hcmQuIEZvciBidWRnZXRhcnkgcmVhc29u
+cywgcHJlZmVyZW5jZSB3aWxsIGJlIGdpdmVuIHRvPC9kaXY+CjxkaXY+YXBwbGljYXRpb25zIGZy
+b20gd2l0aGluIE5vcnRoIEFtZXJpY2EuPC9kaXY+CjxkaXY+PGJyPgo8L2Rpdj4KPGRpdj5QYXJ0
+aWNpcGFudHMgYWNjZXB0ZWQgdG8gdGhlIEluc3RpdHV0ZSB3aWxsIHJlY2VpdmUgYSB0cmF2ZWwg
+YWxsb3dhbmNlLDwvZGl2Pgo8ZGl2PmNvbXBsaW1lbnRhcnkgYWNjb21tb2RhdGlvbiBpbiBzaW5n
+bGUtb2NjdXBhbmN5IGRvcm1pdG9yeSByb29tcywgYW5kIGE8L2Rpdj4KPGRpdj5jb21wbGltZW50
+YXJ5IG1lYWwgcGxhbiBpbiB0aGUgVW5pdmVyc2l0eSBEaW5pbmcgU2VydmljZXMgaW4gbGlldSBv
+ZiBwZXI8L2Rpdj4KPGRpdj5kaWVtLiBBY2Nlc3MgdG8gdGhlIFVuaXZlcnNpdHkgbGlicmFyaWVz
+LCBjb21wdXRlciBsYWJzLCBhbmQgbmV0d29ya2VkPC9kaXY+CjxkaXY+ZGlnaXRhbCByZXNvdXJj
+ZXMgd2lsbCBhbHNvIGJlIHByb3ZpZGVkLiBQYXJ0aWNpcGFudHMgbXVzdCBicmluZyB0aGVpcjwv
+ZGl2Pgo8ZGl2Pm93biBsYXB0b3BzIChXaW5kb3dzIDeWMTAsIE1hYyBPUywgb3IgVWJ1bnR1L0Rl
+YmlhbiBMaW51eCkuIFdlIHdlbGNvbWU8L2Rpdj4KPGRpdj5zY2hvbGFycyBhdCBhbGwgY2FyZWVy
+IGxldmVscyBmcm9tIGFkdmFuY2VkIGdyYWR1YXRlIHN0dWRlbnRzIHRocm91Z2g8L2Rpdj4KPGRp
+dj5zZW5pb3IgZmFjdWx0eS4gQXBwbGljYXRpb25zIHRvIHRoZSBJbnN0aXR1dGUgc2hvdWxkIGlu
+Y2x1ZGUgdGhlPC9kaXY+CjxkaXY+Zm9sbG93aW5nOjwvZGl2Pgo8ZGl2Pjxicj4KPC9kaXY+Cjxk
+aXY+LSAmbmJzcDsgQSBvbmUtIHRvIHR3by1wYWdlIHN0YXRlbWVudCBhYm91dCBob3cgcGFydGlj
+aXBhdGlvbiBpbiB0aGU8L2Rpdj4KPGRpdj4mbmJzcDsgJm5ic3A7IEluc3RpdHV0ZSB3aWxsIGVu
+aGFuY2UgdGhlIHNjaG9sYXJseSBhbmQgcHJvZmVzc2lvbmFsIGdvYWxzIG9mIHRoZTwvZGl2Pgo8
+ZGl2PiZuYnNwOyAmbmJzcDsgYXBwbGljYW50LiBUaGlzIHN0YXRlbWVudCBzaG91bGQgZGVzY3Jp
+YmUgdGhlIGRpZ2l0YWwgZWRpdGlvbjwvZGl2Pgo8ZGl2PiZuYnNwOyAmbmJzcDsgcHJvamVjdCB0
+aGF0IHRoZSBhcHBsaWNhbnQgcGxhbnMgdG8gcHVyc3VlIG9yIHVuZGVydGFrZSwgd2l0aDwvZGl2
+Pgo8ZGl2PiZuYnNwOyAmbmJzcDsgc3BlY2lhbCBhdHRlbnRpb24gdG8gdGhlIHJlc2VhcmNoIHF1
+ZXN0aW9ucyBtb3RpdmF0aW5nIHRoZSBjcmVhdGlvbjwvZGl2Pgo8ZGl2PiZuYnNwOyAmbmJzcDsg
+b2YgdGhhdCBlZGl0aW9uLiBQcmVmZXJlbmNlIHdpbGwgYmUgc2hvd24gdG8gYXBwbGljYXRpb25z
+IHRoYXQ8L2Rpdj4KPGRpdj4mbmJzcDsgJm5ic3A7IGFydGljdWxhdGUgYSBjbGVhciB1bmRlcnN0
+YW5kaW5nIG9mIHRoZSB0ZXh0dWFsIHJlc2VhcmNoIHBvdGVudGlhbDwvZGl2Pgo8ZGl2PiZuYnNw
+OyAmbmJzcDsgb2YgZGlnaXRhbCBzY2hvbGFybHkgZWRpdGlvbnMuPC9kaXY+CjxkaXY+LSAmbmJz
+cDsgQSBvbmUtcGFnZSBkZXNjcmlwdGlvbiBvZiB0aGUgYXBwbGljYW50knMgZXhwZXJpZW5jZSB3
+aXRoIHRleHR1YWw8L2Rpdj4KPGRpdj4mbmJzcDsgJm5ic3A7IGVkaXRpbmcuIFByaW9yIGV4cGVy
+aWVuY2UgaW4gcHJvZ3JhbW1pbmcgZm9yIHRleHQgcHJvY2Vzc2luZyBpczwvZGl2Pgo8ZGl2PiZu
+YnNwOyAmbmJzcDsgbmVpdGhlciByZXF1aXJlZCBub3IgZXhwZWN0ZWQsIGJ1dCB0aG9zZSB3aG8g
+aGF2ZSBzdWNoIGV4cGVyaWVuY2U8L2Rpdj4KPGRpdj4mbmJzcDsgJm5ic3A7IHNob3VsZCBkZXNj
+cmliZSBpdCBoZXJlLjwvZGl2Pgo8ZGl2Pi0gJm5ic3A7IEJyaWVmIENWIChtYXhpbXVtIG9mIHR3
+byBwYWdlcyksIGNvbmNlbnRyYXRpbmcgb24gdGV4dHVhbCBlZGl0aW5nPC9kaXY+CjxkaXY+Jm5i
+c3A7ICZuYnNwOyBhbmQgRGlnaXRhbCBIdW1hbml0aWVzIGV4cGVyaWVuY2UuPC9kaXY+CjxkaXY+
+LSAmbmJzcDsgSW5kaWNhdGUgd2hldGhlciB5b3UgYXJlIGFwcGx5aW5nIGZvciB0aGUgZnVsbCB0
+aHJlZSB3ZWVrcyBvciBvbmx5PC9kaXY+CjxkaXY+Jm5ic3A7ICZuYnNwOyBmb3IgdGhlIHNlY29u
+ZCBhbmQgdGhpcmQsIGFuZCBpbiB0aGUgbGF0dGVyIGNhc2UgcGxlYXNlIGRlc2NyaWJlPC9kaXY+
+CjxkaXY+Jm5ic3A7ICZuYnNwOyB5b3VyIGJhY2tncm91bmQgaW4gdGhlIGFyZWFzIHJlbGF0ZWQg
+dG8gdGhvc2UgZGVzY3JpYmVkIGFib3ZlIGFzPC9kaXY+CjxkaXY+Jm5ic3A7ICZuYnNwOyBwYXJ0
+IG9mIHRoZSCTYm9vdCBjYW1wlCB3ZWVrLjwvZGl2Pgo8ZGl2Pi0gJm5ic3A7IEluZGljYXRlIHdo
+ZXRoZXIgeW91IHdpc2ggdG8gcGFydGljaXBhdGUgaW4gdGhlIG9wdGlvbmFsIG9uZS1kYXk8L2Rp
+dj4KPGRpdj4mbmJzcDsgJm5ic3A7IHBlZGFnb2dpY2FsIHJldmlldyBvZiB0aGUgY291cnNlIG9u
+IFNhdHVyZGF5LCBKdWx5IDI5LjwvZGl2Pgo8ZGl2Pi0gJm5ic3A7IFBhcnRpY2lwYW50cyBhcmUg
+cmVxdWlyZWQgdG8gcGFydGljaXBhdGUgZnVsbC10aW1lIGluIHRoZSBJbnN0aXR1dGU8L2Rpdj4K
+PGRpdj4mbmJzcDsgJm5ic3A7IGZvciB0aGUgdHdvIG9yIHRocmVlIHdlZWtzIHRoYXQgdGhleSBh
+cmUgaW4gcmVzaWRlbmNlLCBhbmQgbXVzdDwvZGl2Pgo8ZGl2PiZuYnNwOyAmbmJzcDsgY29uZmly
+bSB0aGF0IHRoZXkgd2lsbCBub3QgdW5kZXJ0YWtlIG90aGVyIHNpZ25pZmljYW50IGNvbW1pdG1l
+bnRzPC9kaXY+CjxkaXY+Jm5ic3A7ICZuYnNwOyBkdXJpbmcgdGhlIEluc3RpdHV0ZSBwZXJpb2Qu
+PC9kaXY+CjxkaXY+PGJyPgo8L2Rpdj4KPGRpdj5BbGwgYXBwbGljYXRpb24gbWF0ZXJpYWxzIHNo
+b3VsZCBiZSBzdWJtaXR0ZWQgYnkgZW1haWwgYXMgYSBzaW5nbGUgUERGPC9kaXY+CjxkaXY+Zmls
+ZSB0byBkamJwaXR0JiM0MztuZWhAcGl0dC5lZHUuIFRoZSBkZWFkbGluZSBmb3IgYXBwbGljYXRp
+b25zIGlzIFR1ZXNkYXksPC9kaXY+CjxkaXY+RmVicnVhcnkgMjgsIDIwMTcsIGFuZCBhcHBsaWNh
+bnRzIHdpbGwgYmUgbm90aWZpZWQgYnkgTWFyY2ggMTUsIDIwMTcuPC9kaXY+CjxkaXY+UXVlc3Rp
+b25zIG1heSBiZSBkaXJlY3RlZCB0byBkamJwaXR0JiM0MztuZWhAcGl0dC5lZHUuPC9kaXY+Cjxk
+aXY+PGJyPgo8L2Rpdj4KPGRpdj5EYXZpZCBKLiBCaXJuYmF1bSwgSW5zdGl0dXRlIERpcmVjdG9y
+PC9kaXY+CjxkaXY+UHJvZmVzc29yIGFuZCBDaGFpciwgU2xhdmljIExhbmd1YWdlcyBhbmQgTGl0
+ZXJhdHVyZXM8L2Rpdj4KPGRpdj5GYWN1bHR5IEZlbGxvdywgVW5pdmVyc2l0eSBIb25vcnMgQ29s
+bGVnZTwvZGl2Pgo8ZGl2PkVtYWlsOiBkamJwaXR0JiM0MztuZWhAcGl0dC5lZHU8L2Rpdj4KPGRp
+dj5fX19fXzwvZGl2Pgo8ZGl2Pjxicj4KPC9kaXY+CjxkaXY+PGJyPgo8L2Rpdj4KPGRpdj5SZWZl
+cmVuY2VzPC9kaXY+CjxkaXY+PGJyPgo8L2Rpdj4KPGRpdj4xLiAmbmJzcDtNY0dhbm4sIEplcm9t
+ZSwgMjAwNC4gk01hcmtpbmcgdGV4dHMgb2YgbWFueSBkaW1lbnNpb25zLpQgSW4gU3VzYW48L2Rp
+dj4KPGRpdj4mbmJzcDsgJm5ic3A7IFNjaHJlaWJtYW4sIFJheW1vbmQgU2llbWVucywgYW5kIEpv
+aG4gVW5zd29ydGgsIGVkcy4gX0EgY29tcGFuaW9uIHRvPC9kaXY+CjxkaXY+Jm5ic3A7ICZuYnNw
+OyBEaWdpdGFsIEh1bWFuaXRpZXNfLiBPeGZvcmQ6IEJsYWNrd2VsbC48L2Rpdj4KPGRpdj4yLiAm
+bmJzcDtBbmRyZXdzLCBUYXJhIEwuLCAyMDEyLiCTVGhlIHRoaXJkIHdheTogcGhpbG9sb2d5IGFu
+ZCBjcml0aWNhbDwvZGl2Pgo8ZGl2PiZuYnNwOyAmbmJzcDsgZWRpdGlvbiBpbiB0aGUgZGlnaXRh
+bCBhZ2UulCBfVmFyaWFudHNfIDEwLCBwcC4gNjGWNzYuPC9kaXY+CjxkaXY+My4gJm5ic3A7U2ll
+bWVucywgUmF5bW9uZCBldCBhbC4sIDIwMTIuIJNUb3dhcmQgbW9kZWxpbmcgdGhlIHNvY2lhbCBl
+ZGl0aW9uOjwvZGl2Pgo8ZGl2PiZuYnNwOyAmbmJzcDsgQW4gYXBwcm9hY2ggdG8gdW5kZXJzdGFu
+ZGluZyB0aGUgZWxlY3Ryb25pYyBzY2hvbGFybHkgZWRpdGlvbiBpbiB0aGU8L2Rpdj4KPGRpdj4m
+bmJzcDsgJm5ic3A7IGNvbnRleHQgb2YgbmV3IGFuZCBlbWVyZ2luZyBzb2NpYWwgbWVkaWEulCBf
+TGl0ZXJhcnkgYW5kIGxpbmd1aXN0aWM8L2Rpdj4KPGRpdj4mbmJzcDsgJm5ic3A7IGNvbXB1dGlu
+Z18sIDI3KDQpLCBwcC4gNDQ1ljYxLjwvZGl2Pgo8ZGl2PjQuICZuYnNwO1JvYmluc29uLCBQZXRl
+ciwgMjAxMi4gk1Rvd2FyZHMgYSB0aGVvcnkgb2YgZGlnaXRhbCBlZGl0aW9ucy6UPC9kaXY+Cjxk
+aXY+Jm5ic3A7ICZuYnNwOyBfVmFyaWFudHNfIDEwLCBwcC4xMDWWMzEuPC9kaXY+CjxkaXY+NS4g
+Jm5ic3A7SGFlbnRqZW5zIERla2tlciwgUm9uYWxkLCBEaXJrIHZhbiBIdWxsZSwgR3JlZ29yIE1p
+ZGRlbGwsIFZpbmNlbnQ8L2Rpdj4KPGRpdj4mbmJzcDsgJm5ic3A7IE5leXQsIEpvcmlzIHZhbiBa
+dW5kZXJ0LCAyMDE1LiCTQ29tcHV0ZXItc3VwcG9ydGVkIGNvbGxhdGlvbiBvZjwvZGl2Pgo8ZGl2
+PiZuYnNwOyAmbmJzcDsgbW9kZXJuIG1hbnVzY3JpcHRzOiBDb2xsYXRlWCBhbmQgdGhlIEJlY2tl
+dHQgRGlnaXRhbCBNYW51c2NyaXB0PC9kaXY+CjxkaXY+Jm5ic3A7ICZuYnNwOyBQcm9qZWN0lCwg
+X0RpZ2l0YWwgc2Nob2xhcnNoaXAgaW4gdGhlIGh1bWFuaXRpZXNfLCAzMCgzKSwgcHAuPC9kaXY+
+CjxkaXY+Jm5ic3A7ICZuYnNwOyA0NTKWNzAuPC9kaXY+CjxkaXY+PGJyPgo8L2Rpdj4KPGRpdj4t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS08L2Rpdj4KPGRpdj48YnI+CjwvZGl2Pgo8ZGl2PlRoaXMgYW5ub3VuY2Vt
+ZW50IGhhcyBiZWVuIHBvc3RlZCB0byBIdW1hbmlzdCAoaHR0cDovL2RoaHVtYW5pc3Qub3JnLyks
+PC9kaXY+CjxkaXY+RGlnaXRhbCBDbGFzc2ljaXN0IChodHRwOi8vd3d3LmRpZ2l0YWxjbGFzc2lj
+aXN0Lm9yZy8pLCBEaWdpdGFsPC9kaXY+CjxkaXY+TWVkaWV2YWxpc3QgKGh0dHBzOi8vZGlnaXRh
+bG1lZGlldmFsaXN0LndvcmRwcmVzcy5jb20vKSwgVEVJLUw8L2Rpdj4KPGRpdj4oaHR0cDovL3d3
+dy50ZWktYy5vcmcvU3VwcG9ydC9pbmRleC54bWwjdGVpLWwpLCBXV1AtRW5jb2Rpbmc8L2Rpdj4K
+PGRpdj4oaHR0cDovL2xpc3RzZXJ2Lm5ldS5lZHUvY2dpLWJpbi93YT9BMD13d3AtZW5jb2Rpbmcp
+LCBhbmQgREhVRiBEaWdpdGFsPC9kaXY+CjxkaXY+SHVtYW5pdGllcyBGbGFuZGVycyAoZGhfZmxh
+bmRlcnNAZ29vZ2xlZ3JvdXBzLmNvbSkuIFBsZWFzZSBjaXJjdWxhdGUuPC9kaXY+CjwvZGl2Pgo8
+ZGl2Pjxicj4KPC9kaXY+CjwvYm9keT4KPC9odG1sPgo=

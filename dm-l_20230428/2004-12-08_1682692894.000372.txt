@@ -1,0 +1,49 @@
+Subject: [dm-l] [Fwd: Manuscript description]-------- Original Message --------
+Subject: Manuscript description
+Date: Mon, 6 Dec 2004 12:46:55 +0100
+_redacted_(a)hum.ku.dk>
+_redacted_(a)hum.ku.dk
+_redacted_(a)LISTSERV.BROWN.EDUThe next version of the TEI Guidelines, P5, will contain a
+major new chapter on manuscript description. Although
+developed with the needs of manuscript scholars working in
+the European tradition, it is hoped that the scheme
+presented there is general enough so that it can also be
+extended to other kinds of materials and other traditions.
+The tagset documented in the chapter is based chiefly on
+that developed by MASTER (1999-2001), an EU-funded project
+headed by Peter Robinson, and the work of the TEI Medieval
+Manuscripts Description Work Group (1998-2000), headed by
+Consuelo Dutschke and Ambrogio Piazzoni. Although the work
+of these two groups proceeded in tandem (members of each
+attending the other's meetings and so on), and despite an
+avowed intention that a single set of recommendations
+should emerge from them, there were, in the end,
+substantial discrepancies between the two. In 2002 the TEI
+Council appointed a special task-force whose job was to
+review both sets of proposals and identify and document a
+common subset of those recommendations adequate to the
+needs of the TEI community, taking into account the actual
+experience of the many projects using MASTER as well as
+complementary work done in this area by other agencies,
+notably the Repertorium of Old Bulgarian Literature and
+Letters. The result, we believe, is not simply a "common
+subset" of the two schemes, but rather represents a
+significant improvement on both, which at the same time
+lays the foundation for future work.A draft of the chapter is now available for comment on the
+TEI website:
+http://www.tei-c.org.uk/Activities/MS/Specific suggestions, corrections, enhancements (i.e.
+"feature requests") should be sent to
+http://tei.sourceforge.net/, while general comments can be
+posted to the TEI-L list or to the undersigned.We ask for volunteers interested in working on conversion
+of legacy data to the new format, and would be keen to
+receive examples which could be used in the chapter.
+Finally, although the major strength of the scheme we
+propose is that it offers the choice between loosely
+structured and highly structured data at every level, it is
+clear that there are still areas (chiefly specific aspects
+of physical bibliography) for which more richly structured
+content models need to be developed and we would therefore
+be keen to hear from people who might be interested in
+proposing such models.M. J. Driscoll
+Arnamagnaean Institute
+Copenhagen

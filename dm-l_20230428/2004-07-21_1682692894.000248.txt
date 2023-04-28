@@ -1,0 +1,239 @@
+Subject: Re: [dm-l] OTA Corpus
+> Does anybody have an XSLT solution to transforming the P1 SGML to P4 XML
+> and via XSL to xhtml? That might be an inneresting test of the durability
+> of encoding standards and the true portability of structural markup and
+> XSL.
+> You can't run XSLT on SGML files, so this is not a very sensible 
+question as phrased. However, migrating SGML to XML is very easily done 
+using a nifty utility called osx, of which we have just done a windows 
+port (sorry, but the Mac version is still a glint in someone else's 
+eye). See the TEI SGML-XML migration workgroup's pages at 
+http://www.tei-c.org/Activities/MI/ for general info on sgml to xml 
+migration. I dont know that there's much difference between P1 and P4 as 
+far as the OE Corpse is concerned.I have a very nice XML version of a small subset of the OE corpus with 
+POS codes and lemmatization which I use as a testbed for Xaira, our new 
+XML indexer. If anyone would like to have a play with that, I'd be 
+pleased to make it available.> -dan
+> 
+> 
+> 
+>>Digital Medievalist Journal (Inaugural Issue Fall 2004). Call for papers:
+>>http://www.digitalmedievalist.org/cfp.htm
+>>----------------
+>>That's what UVA's Electronic Text Center does when it can. But it can't
+>>always get permission to do so. CETEDOC, to take an example well known
+>>to this mob, must be used in situ on CD only. Back when Patrologia
+>>Latina was on CD, they gave permission to network it as long as access
+>>could be restricted to UVA users. Guess which I was most likely to use?
+>>
+>>Peter
+>>
+>>Martin K. Foys wrote:
+>>
+>>
+>>>Digital Medievalist Journal (Inaugural Issue Fall 2004). Call for
+>>>papers: http://www.digitalmedievalist.org/cfp.htm
+>>>----------------
+>>>Sure, sure. But can't you archive most of the CDs, and even run them
+>>>in network environments, once you have purchased them?
+>>>
+>>>
+>>>~ Martin Foys
+>>>
+>>>On Tue, 20 Jul 2004 10:14:30 -0600
+_redacted_(a)ualberta.ca> wrote:
+>>>
+>>>
+>>>>Digital Medievalist Journal (Inaugural Issue Fall 2004). Call for
+>>>>papers: http://www.digitalmedievalist.org/cfp.htm
+>>>>----------------
+>>>>>From the point of view of a librarian, CDs are the worst way to
+>>>>
+>>>>>distribute
+>>>>
+>>>>this kind of project. We've got lots of CDs purchased in the '90s on
+>>>>our
+>>>>shelves, that are now unusable due to deterioration of the media or
+>>>>obsoleteness of the platform. Anything that depends on current
+>>>>browsers will
+>>>>suffer the same fate before many more of us have tenure. An online
+>>>>source,
+>>>>with institutional backing that ensures it will stay online and be
+>>>>maintained as technology changes, is much to be prefered. I'd be
+>>>>willing to
+>>>>sacrifice a lot of functionality for the sake of permanence, since the
+>>>>functionality will evaporate anyway with the next generation of
+>>>>browsers.
+>>>>The ongoing institutional support has to be sufficient to re-engineer
+>>>>the
+>>>>project from time to time to keep it working with new browsers and
+>>>>other
+>>>>tools as yet unimagined, which is no small commitment. It makes sense
+>>>>therefore to avoid doing one-off development and instead develop
+>>>>standard
+>>>>tools and protocols for presenting these projects.
+>>>>Peter Binkley
+>>>>Digital Initiatives Technology Librarian
+>>>>Information Technology Services
+>>>>4-30 Cameron Library
+>>>>University of Alberta Libraries
+>>>>Edmonton, Alberta
+>>>>Canada T6G 2J8
+>>>>Phone: (780) 492-3743
+>>>>Fax: (780) 492-9243
+_redacted_(a)ualberta.ca
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>>-----Original Message-----
+_redacted_(a)virginia.edu] > Sent: Tuesday, July
+>>>>
+>>>>20, 2004 06:36 AM
+>>>>
+_redacted_(a)bodley.ox.ac.uk; Digital Medievalist >
+>>>>
+>>>>Community mailing list
+>>>>
+>>>>>Subject: Re: [dm-l] Re: Exeter Book CD: for free?
+>>>>>
+>>>>>>>Digital Medievalist Journal (Inaugural Issue Fall 2004). Call >
+>>>>
+>>>>for papers: http://www.digitalmedievalist.org/cfp.htm
+>>>>
+>>>>>----------------
+>>>>>Thanks for this clarification, Elizabeth. I was very excited > to
+>>>>
+>>>>find the > Bod's images site just as I was preparing to teach Exodus
+>>>>to my >grad. > seminar last spring. What the Bod is doing here seems
+>>>>a good > solution: > the images are available for free; you can get
+>>>>an accurate > text of the > Junius poems free too. But the CD adds
+>>>>value for those > willing and able > to pony up the (perfectly
+>>>>reasonable) £50.
+>>>>
+>>>>>>Well, it adds value for most. Not for me, since I run Linux. >
+>>>>
+>>>>Not for the > large numbers of medievalists who run Mac OS X. I think
+>>>>it a really > dreadful mistake to use MS's extensions to JavaScript,
+>>>>
+>>>>>forcing people to > use The Worst Browser Now Available. On the
+>>>>
+>>>>other hand, the > Dictionary > of Old English made the same mistake,
+>>>>so at least you're in > good company.
+>>>>
+>>>>>>Peter
+>>>>>>Elizabeth Solopova wrote:
+>>>>>>
+>>>>>>>Digital Medievalist Journal (Inaugural Issue Fall 2004). Call
+>>>>
+>>>>for > >papers: http://www.digitalmedievalist.org/cfp.htm
+>>>>
+>>>>>>----------------
+>>>>>>Dear All,
+>>>>>>
+>>>>>>The Junius 11 CD-ROM (Bodleian Digital Texts 1) was published by
+>>>>>>the Bodleian rather than OUP. The Bodleian supported the project >
+>>>>>
+>>>>>financially (the development of software), provided the images and >
+>>>>>contributed to the development of the interface. All the > technical
+>>>>
+>>>>and > >academic work was done by Burnard Muir and his team. The >
+>>>>images published > >on the CD were already available when the work on
+>>>>the > project started six > >years ago: they are still available free
+>>>>of charge for > personal use by > >researchers via Early Manuscripts
+>>>>at Oxford University > >(http://image.ox.ac.uk/). The next project in
+>>>>the series > will be MS. Auct. > >F. 2.13 (Terence's Comedies). The
+>>>>images are also available > via the Early > >Manuscripts at Oxford
+>>>>University site. The CD-ROM works only > with Internet > >Explorer
+>>>>because Microsoft's implementation of JavaScript > was used (you may
+>>>>
+>>>>>>have noticed the use of JavaScript in the extract posted by >
+>>>>
+>>>>Martin). As far > >as I know Burnard Muir's team will try to overcome
+>>>>this > limitation in the > >next CD-ROM.
+>>>>
+>>>>>>Elizabeth
+>>>>>>
+>>>>>>Dr. Elizabeth Solopova
+>>>>>>Department of Special Collections and Western Manuscripts Bodleian
+>>>>>>Library Broad Street
+>>>>>>Oxford OX1 3BG
+>>>>>>Tel.: +44 (0)1865-277073
+_redacted_(a)bodley.ox.ac.uk
+>>>>>>Internet: > >http://www.bodley.ox.ac.uk/
+>>>>>>http://www.bodley.ox.ac.uk/dept/scwmss/
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>_______________________________________________
+>>>>>>Project web site: http://www.digitalmedievalist.org/
+>>>>>>dm-l mailing list
+_redacted_(a)uleth.ca
+>>>>>>http://listserv.uleth.ca/mailman/listinfo/dm-l
+>>>>>>
+>>>>>> > >
+>>>>>>
+>>>>>>>_______________________________________________
+>>>>>
+>>>>>Project web site: http://www.digitalmedievalist.org/
+>>>>>dm-l mailing list
+_redacted_(a)uleth.ca
+>>>>>http://listserv.uleth.ca/mailman/listinfo/dm-l
+>>>>>
+>>>>
+>>>>_______________________________________________
+>>>>Project web site: http://www.digitalmedievalist.org/
+>>>>dm-l mailing list
+_redacted_(a)uleth.ca
+>>>>http://listserv.uleth.ca/mailman/listinfo/dm-l
+>>>
+>>>
+>>>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+>>>
+>>>Martin K. Foys
+>>>Assistant Professor
+>>>Department of English
+>>>Hood College
+>>>Frederick, MD 21701
+>>>
+>>>vox: 301~696~3740
+>>>fax: 301~696~3586
+_redacted_(a)hood.edu
+>>>
+>>>Bayeux Tapestry Digital Edition, Choice 2004 Outstanding Academic Title:
+>>>http://www.boydell.co.uk/choice.htm
+>>>
+>>>_______________________________________________
+>>>Project web site: http://www.digitalmedievalist.org/
+>>>dm-l mailing list
+_redacted_(a)uleth.ca
+>>>http://listserv.uleth.ca/mailman/listinfo/dm-l
+>>>
+>>>
+>>
+>>
+>>_______________________________________________
+>>Project web site: http://www.digitalmedievalist.org/
+>>dm-l mailing list
+_redacted_(a)uleth.ca
+>>http://listserv.uleth.ca/mailman/listinfo/dm-l
+>>
+> 
+> 
+> 
+> --
+> Daniel Paul O'Donnell
+> Associate Professor of English
+> University of Lethbridge
+> Lethbridge AB T1K 3M4
+> Tel. +1 (403) 329-2377
+> Fax. +1 (403) 382-7191
+> 
+> 
+> _______________________________________________
+> Project web site: http://www.digitalmedievalist.org/
+> dm-l mailing list
+_redacted_(a)uleth.ca
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+> 
+> 

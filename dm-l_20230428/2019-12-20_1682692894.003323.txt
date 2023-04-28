@@ -1,0 +1,28 @@
+Subject: [dm-l] EVT 1.3 releasedDear all,
+after a long wait, EVT version 1.3 is finally available! The full=20
+announcement for this release is available on the EVT blog:=20
+https://visualizationtechnology.wordpress.com/2019/12/20/evt-1-version-1-3-re=
+leased/.=20
+You can quickly download the archive here:=20
+https://sourceforge.net/projects/evt-project/files/evt-v1.3.zip/download=20
+(and the manual here:=20
+https://sourceforge.net/projects/evt-project/files/EVT%20Manual_v1.3.pdf/down=
+load),=20
+but you can also browse the sample editions directly on the project home=20
+page.Besides new features and bug fixes, we moved the repository to GitHub=20
+(https://github.com/evt-project/evt-builder) to make it more accessible:=20
+this is going to be the last version of the 1.* series, from now on, all=20
+development efforts will focus on EVT 2 to reach feature parity with EVT=20
+1 (with regard to diplomatic editions) and to improve / develop new=20
+features, starting from support for critical editions.In any case, EVT 1.3 is a mature, featureful product which can be used=20
+"as is" for diplomatic / single witness editions, or can be further=20
+customized by anyone who has good knowledge of XSLT 2 and HTML/CSS.So enjoy the goodies, but also have a look at EVT 2=20
+(https://github.com/evt-project/evt-viewer) because that's where all=20
+future development is going to have place!R--=20
+Roberto Rosselli Del Turco   roberto.rossellidelturco at unito.it
+Dip. di Studi Umanistici     roberto.rossellidelturco at fileli.unipi.it
+Universita' di Torino        VBD: http://vbd.humnet.unipi.it/beta2/
+EVT: http://bit.ly/24D9kdE   VC: http://www.visionarycross.org/  Hige sceal the heardra,     heorte the cenre,
+  mod sceal the mare,       the ure maegen litlath.  (Maldon 312-3)<shamelessPlug>Holidays in Tuscany=20
+http://www.imoricci.it/</shamelessPlug>
+--===============6902004456583447235==--

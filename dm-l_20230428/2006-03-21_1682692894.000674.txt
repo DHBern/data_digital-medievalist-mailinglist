@@ -1,0 +1,28 @@
+Subject: Re: [dm-l] virtual commonsBinkley, Peter wrote:
+> There is a cluster of projects around MetaScholar and the Ockham project
+> that are working on this kind of framework: http://www.metascholar.org/
+> and http://www.ockham.org/ . I haven't kept up with them recently to see
+> what's actually been deployed, though. They are producing open-source
+> tools to do this kind of work, so it would be interesting to try them
+> out in the digital medieval community.
+> 
+> Among digitization projects the most radical I'm aware of is Project
+> Runeberg in Sweden, which allows users to proofread the OCR text against
+> the page images and submit corrections. http://runeberg.org (the server
+> seems to be slow at the moment, though). Sample page:
+> http://runeberg.org/hagberg/e/0046.html . I only had a quick glance at this, but doesn't this seem almost 
+identical to the way that Distributed Proofreaders[1] work for 
+creating etexts for Project Gutenberg?  You see the scanned image and 
+text of the OCR, and make corrections.What I've been dreaming of is sort-of something which does this for 
+more than just the initial stages, but also successive layers of 
+markup, transformation, etc.  What is increasingly becoming see as a 
+virtual research environment.So not only the initial transcription, but also tools to add 
+increasingly detailed layers of markup, image annotation, with 
+revision/version control, xml validation, creation of supporting files 
+(xsl, etc.), all through a single web interface.  The idea being that 
+this would allow communal development of complex resources, as well as 
+  some form of hosted preservation for them.  Sorta like a sourceforge 
+for the communal development of electronic resources.  The major flaws 
+with this is of course the solitaire nature of much humanities 
+research, and the need for academic economics.-James
+--===============0429037768883402322==--

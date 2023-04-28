@@ -1,0 +1,48 @@
+Subject: Re: [dm-l] Re: Manuscript-transcription correlationThe task Martin wants to perform is exactly the kind of thing that XSLT 
+is good at and could do easily.I also see Peter's point, echoed here. Until we have a markup language 
+that handles overlapping hierarchies natively, all proposed solutions 
+will be annoying in some way. Still, I have a higher opinion of the 
+abilities of XSLT than Peter does (I've been using it in font 
+development, of all things, so I look at it as pretty flexible), and 
+I'll bet it could handle the XML workarounds for overlapping hierarchies 
+such as the one proposed in the paper by Alexander Czmiel linked to by 
+James Cummings.But if a thing has got to perform fast, it might be best to use the XSLT 
+to create static pages or a database, or turn data from a database into 
+pages, rather than have it dynamically create pages from a large 
+underlying text.Peter BakerMartin K. Foys wrote:>> At 08:49 AM 23/06/2004, Peter Robinson wrote:
+>> >If you can do it (and I have not yet seen this done,
+>> >though I have heard lengthy explanations of how it *might* be done) 
+>> >you can
+>> >only do it with great difficulty with the standard tools.  The 
+>> >problem here
+>> >is our old bugbear overlapping hierarchies, and XSLT etc just don't 
+>> >have any
+>> >easy answer to this -- and maybe no reliable answer at all.
+>>
+>
+> I have not worked with XSLT, so this might seem like a naive question, 
+> but is it possible to write a bridge program to copy text from a 
+> specific starting tag to an ending tag, create a new file for just 
+> that text, and then display that file next to the MS image?
+>  ~ Martin Foys
+>
+> ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+>
+> Martin K. Foys
+> Assistant Professor
+> Department of English
+> Hood College
+> Frederick, MD 21701
+>
+> vox: 301~696~3740
+> fax: 301~696~3586
+_redacted_(a)hood.edu
+>
+> Bayeux Tapestry Digital Edition: http://www.sd-editions.com
+>
+> _______________________________________________
+> dm-l mailing list
+_redacted_(a)uleth.ca
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+>
+>

@@ -1,0 +1,118 @@
+Subject: [dm-l] DM Election-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1Dear DigitalMedievalists,this is the message on the voting procedures: From tomorrow, 10th of May, 0am, GMT,
+ until Friday, 16th of May, 12pm, GMT,
+ you may cast your vote for the second elected Digital Medievalist
+ Executive Board. For more information on the Digital Medievalist and the DM Board,
+ please refer to the Bylaws: http://www.digitalmedievalist.org/bylaws.html Everyone subscribed to the Digital Medievalist Listserv is eligible to
+ vote. We have four open slots and eight names on the slate. You may vote for
+ one, two, three or four names. If you submit more than four names all
+ of your votes will be discarded, so please be careful. Write-ins are
+ acceptable but count as one of your four votes. Winners shall be determined by straight count - the four nominees with
+ the most votes will come to the Executive Board. Please send your ballots with "DM Election" in the subject line to
+_redacted_(a)digitalmedievalist.org *************************************Burghart, Marjorie.Ecole des Hautes Etudes en Sciences Sociales/ (EHESS - UMR 5648), Lyon,
+France.Burgart holds a M.A. in Medieval Studies and a M.Sc. in computer
+sciences. She prepares a PhD Thesis in Medieval studies: study and
+edition of the /Sermones ad status/ collection by the 13th century friar
+Gilbert of Tournai, OFM. Since 2000, she has worked as a computer
+scientist particularly focusing on digital humanities. In her current
+position at the /Ecole des Hautes Etudes en Sciences Sociales/ (EHESS -
+UMR 5648), Lyon, France, she coordinates the computing aspects of
+several projects involving the electronic edition of medieval documents
+in TEI format (from latin sermons to accounts corpora, not to mention
+the /Glossa ordinaria/ of the Bible), as long as databases and, to a
+certain extent, GIS. She has led or been involved in the development of
+various tools (/ScolastiX/, a collaborative XML annotation platform ;
+/BibliOpera/, a multi-user online bibliographical database manager ;
+/COL/, a latin spellchecker for MS Word and OpenOffice ; a meta-search
+engine for a libraries portal without Z3950 ; ...). She is currently
+working at a companion guide for scholars wanting to produce an
+electronic edition. She also occasionally acts as a consultant for other
+academic institutions, on computing aspects of History and Archaeology
+related projects. Her sensibility to scholarly edition has been
+developed by her role as a member, since 2002, of the editorial
+committee of the /Médiéviste et l'Ordinateur <http://lemo.irht.cnrs.fr>/
+journal. ==========Cummings, James.Research Officer, Research Technologies Service, University of Oxford.Cummings is the Senior RTS Project Officer of the Oxford University
+Computing Services. His PhD was in medieval studies, and he works on a
+number of projects such as the Text Encoding Initiative, and ENRICH (and
+EU-funded project standardising medieval manuscript metadata across
+Europe). His work for Digital Medievalist (DM) has mainly been on the
+technical side. He was responsible for redesigning the technical
+infrastructure of DM's new website (using TEI XML inside Apache's Cocoon
+with custom XSLT, and fed automatically by the DM subversion server). He
+has also moved the wiki and improved the DM mail handling systems. James
+is running again for the DM Board so that he can continue such work. ==========Murray McGillivray.Professor (formerly Head) of English, University of Calgary.McGillivray has been a digital medievalist (practitioner, theorist,
+enthusiast) for over twenty years and has been involved with DM since
+the beginning. His primary scholarly interest is the use of computer
+methods in the development and distribution of scholarly editions. His
+current digital projects include an electronic edition of the Sir Gawain
+and the Green Knight manuscript (BL Cotton Nero A.x.) and the Online
+Corpus of Old English Poetry. ==========Porter, Dorothy Carr.Program Coordinator, Collaboratory for Research in Computing for
+Humanities, University of Kentucky.Porter is Program Coordinator of the Collaboratory for Research in
+Computing for Humanities (RCH; http://www.rch.uky.edu/) and lead in the
+Computational Humanities group at the Center for Visualization
+(http://www.vis.uky.edu/), both at the University of Kentucky. She has
+served on the Digital Medievalist board since 2006 and has also served
+on the journal editorial board. Porter is the chair of the Medieval
+Academy of America's Committee on Electronic Resources
+(http://www.medievalacademy.org/) (2006-2009) and has served on the
+technical council of the Text Encoding Initiative
+(http://www.tei-c.org/) (2006 and 2007). She has worked on many digital
+projects in medieval studies and classics including the Electronic
+Boethius (http://beowulf.engl.uky.edu/~kiernan/eBoethius/inlad.htm) and
+the Homer Multitext project
+(http://chs.harvard.edu/chs/homer_multitext). Her particular research
+interests are the relationship between text and image in encoding and
+digital publication, and interdisciplinary collaboration. ==========Rehbein, Malte.Marie Curie Research Fellow at National University of Ireland, Galway
+and member of the Transfer of Expertise in Technologies of Editing
+(TEXTE) programme.Rehbein is a graduate in history and mathematics from University of
+Göttingen and gained his first experience in the Digital Humanities as
+an associate in the Duderstadt digitization project at
+Max-Planck-Insitute for History in Göttingen (1996-99). His main
+research interest is on methodology for creating digital scholarly
+edtions of historical texts. Among other projects, he is currently
+working on an edition of multi-layered late medieval town statutes. He
+also has work experience as a software developer and business consultant. ==========Rosselli Del Turco, Roberto.Associate professor, University of Torino.Rosselli Del Turco is an associate professor at the University of Torino
+and also teaches a Text Encoding course at the University of Pisa. He is
+the director of the Digital Vercelli Book project, a project aiming at
+producing a diplomatic edition of the Vercelli Book manuscript by means
+of a TEI transcription of all the texts it holds; he is also a member of
+the TEI Manuscript Transcription SIG, to improve the effectiveness of
+TEI tools and guidelines for transcription of primary sources. He is a
+founder of the Digital Medievalist Project and has served on the Board
+during the last term. His interests lie in text encoding with TEI, text-
+and image-based digital editions, usability and design of digital
+edition software. ==========Twycross, Meg.Professor Emeritus, MA, BLitt, CertEd (Oxon), FRSA.Twycross is Emeritus Professor of English Medieval Studies at Lancaster
+University, a leading expert in medieval and early Renaissance theatre
+and pageantry, and Executive Editor of the journal Medieval English
+Theatre.  She is currently using 'virtual restoration' techniques on
+high-resolution digital images of the York Ordo paginarum, a severely
+damaged document listing the pageants of the York Corpus Christi Play,
+to recover the original 1415 readings from underneath later erasures and
+rewriting. ==========Vogeler, Georg.University of Lecce.Vogeler has studied Historical Auxiliary Sciences at Freiburg and
+Munich. He wrote his PhD thesis about tax administration in the late
+medieval German territorial states. Scince 1996 he worked as lecturer
+(wissenschaftlicher Assistent) at the chair for Historical Auxiliary
+Sciences in Munich. At the moment he is travelling through Italy with a
+scholarship of the Alexander-von-Humboldt-Foundation studying the use of
+the documents of Frederich II. His interest in the use of the computer
+for historical research dates back to several seminars held by Manfred
+Thaller he attended in the 1990s. He is editor of the Virtual Library
+Historical Auxiliary Sciences (http://www.vl-ghw.lmu.de), published
+several articles on the use of the computer for diplomatic research, put
+forward the Charters Encoding Initiative (http://www.cei.lmu.de) and
+recently organized an international conference on "Digital Diplomatics"
+(February 2007). He is member of the "Institut für Dokumentologie und
+Editorik" (Institute for documentology and editorial science,
+http://www.i-d-e.de) and of the board of the monasterium-project
+(http://www.monasterium.net).
+- --
+Torsten Schassan
+Herzog August Bibliothek, Postfach 1364, D-38299 Wolfenbuettel
+Tel.: +49-5331-808-130, schassan {at} hab.de
+http://www.hab.de; http://www.hab.de/forschung/projekte/weiss64.htm
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.7 (MingW32)
+Comment: Using GnuPG with Mozilla - http://enigmail.mozdev.orgiD8DBQFIJDzNq4nZEP2KS4QRAqn6AJ4psAM6SSfeB0CgPusPU0hwI6HWsQCfbMoy
+fw67HycfU8XptVnK545svUc=
+=UeZ1
+-----END PGP SIGNATURE-----

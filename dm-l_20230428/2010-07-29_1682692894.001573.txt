@@ -1,0 +1,78 @@
+Subject: Re: [dm-l] Zotero metadata for DM Journal?> TEI biblStruct (it's what HAL -- one of the major French open access archiv=
+es -- does)?I did think about biblStruct, but I'm not aware of any widely used reference =
+managers that have it as their primary import format. It's easy enough to do =
+and can't hurt, but it does raise the question of where to stop.Peter> On 29/07/10 09:41, Peter Stokes wrote:
+>> Dear Dot,
+>>=20
+>> Many thanks for that suggestion: I think it's a good one, and something we=
+ should be able to include without too much trouble. As well as automatic add=
+ing to Zotero, I think it would also be useful to add a manual 'Download to c=
+itation manager' option, but I wonder what formats people want. Certainly Bib=
+tex, Endnote, perhaps Delicious. Procite? Reference Manager? What else are we=
+ using these days?
+>>=20
+>> Peter
+>>=20
+>> --
+>> Dr Peter Stokes
+>> Research Associate (Analyst)
+>> Centre for Computing in Humanities
+>> King's College London
+>> Room 210, 2nd Floor
+>> 26-29 Drury Lane
+>> London, WC2B 5RL
+>> Tel: +44 (0)20 7848 2813
+>> Fax: +44 (0)20 7848 2980
+>>=20
+>>=20
+>> On 29 Jul 2010, at 08:48, Dot Porter wrote:
+>>=20
+>>> A public note to the DM Editors:
+>>>=20
+>>> I am just starting to use Zotero and I'd like to include my favorite onli=
+ne sources, including the DM journal. However, I don't have the  option of au=
+tomatically adding it. I assume you need some kind of metadata in the site he=
+ader? Perhaps you all could look into adding this? Preferably for the individ=
+ual articles, as well as the full issues.
+>>>=20
+>>> Thanks!
+>>>=20
+>>> Dot
+>>>=20
+>>> --
+>>> *~*~*~*~*~*~*~*~*~*~*
+>>> Dot Porter (MA, MSLS)
+>>> Digital Medievalist, Digital Librarian
+_redacted_(a)gmail.com
+>>> *~*~*~*~*~*~*~*~*~*~*
+>>> <ATT00001.c>
+>>=20
+>> Digital Medievalist --  http://www.digitalmedievalist.org/
+>> Journal: http://www.digitalmedievalist.org/journal/
+>> Journal Editors: editors _AT_ digitalmedievalist.org
+>> News: http://www.digitalmedievalist.org/news/
+>> Wiki: http://www.digitalmedievalist.org/wiki/
+>> Twitter: http://twitter.com/digitalmedieval
+>> Facebook: http://www.facebook.com/group.php?gidI320313760
+_redacted_(a)uleth.ca
+>> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>=20
+>=20
+> Digital Medievalist --  http://www.digitalmedievalist.org/
+> Journal: http://www.digitalmedievalist.org/journal/
+> Journal Editors: editors _AT_ digitalmedievalist.org
+> News: http://www.digitalmedievalist.org/news/
+> Wiki: http://www.digitalmedievalist.org/wiki/
+> Twitter: http://twitter.com/digitalmedieval
+> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+_redacted_(a)uleth.ca
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l--
+Dr Peter Stokes
+Research Associate (Analyst)
+Centre for Computing in Humanities
+King's College London
+Room 210, 2nd Floor
+26-29 Drury Lane
+London, WC2B 5RL
+Tel: +44 (0)20 7848 2813
+Fax: +44 (0)20 7848 2980

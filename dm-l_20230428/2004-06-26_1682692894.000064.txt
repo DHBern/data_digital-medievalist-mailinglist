@@ -1,0 +1,42 @@
+Subject: Re: [dm-l] MS-Internet Explorer 6 and standards based computingOn Thursday, June 24, 2004, at 06:18 PM, Daniel O'Donnell wrote:> Somebody a little while ago mentioned that IE 6 was better than 
+> previous version of Internet Explorer in its adherence to standards. 
+> We were talking at the time about XSL.
+>
+> In my experience the browser is quite poor at implementing other 
+> standards (e.g. CSS [Cascading Style Sheets]). Has this been other 
+> users' experience? It is particularly noticeable now that most other 
+> browsers are pretty good. It seems to be an odd version of the 80:20 
+> rule, except in this case that 80 percent of users use the browser 
+> that is least standards compliant while 80% of browsers probably are.
+>
+> -dan
+>in short, yes. MSIE is the regular target of complaints from the web 
+standards community. a colleague of mine with whom i work regularly on 
+web development always complains about non-IE browsers, and 
+particularly mac versions, but he knows that the real problem is that 
+IE does its own thing.i like your twist, dan, on the 80/20 rule, and would add that many web 
+developers (like my colleague) develop for IE, which is to say that 
+they develop *specifically* for IE. i'm doing some web-work with said 
+colleague, now, and i can't properly use the pages i'm working on 
+except in IE. those developers ultimately reinforce microsoft's bad 
+standards behavior along with that of surfers who must use IE to 
+properly access those sites.it's a bad cycle: i can (or even should) design/develop for IE since 
+that's what most people use, which then drives ever more people to IE.this crew probably know most of the usual suspects on standards, but 
+see, among many possibilities:
+http://www.webstandards.org/and on IE and microsoft specifically, an essay recently posted there:
+http://www.designbyfire.com/000099.htmlperhaps the response among this group should be the converse of many 
+web developers: develop standards-based texts and applications and 
+require your users to use standards-based browsers. iirc, that's what 
+http://www.alistapart.com/ does. as dan notes, it's not like there 
+aren't plenty of those browsers out there. and as martin points out, 
+even if IE is parsing XSL better right now, other browsers, 
+particularly mozilla-based browsers, are sure to catch up. that's the 
+thing, in the end: if you develop documents to standards, you can be 
+sure that browsers developing to standards will render your documents.not to preach to the choir, or anything.j--
+jeffrey fisher
+assistant professor
+dept of religious studies and philosophy
+bethany college
+bethany, wv
+_redacted_(a)bethanywv.edu
+--===============7495703600558818107==--

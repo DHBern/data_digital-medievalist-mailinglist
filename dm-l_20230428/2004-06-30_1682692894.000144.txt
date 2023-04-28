@@ -1,0 +1,141 @@
+Subject: Re: Multiple Stylesheets (was Re: [dm-l] Hacks: an example)Hi there,You're very welcome to use any of the code you find on the 
+<http://web.uvic.ca/hrd/hulq/> pages related to the stylesheet handling and 
+the audio stuff. Neither Opera nor Safari actually allow manipulation of 
+the stylesheet array yet, so stylesheet switching doesn't work in those 
+browsers; Firefox/Moz and Opera do let you switch between stylesheets 
+manually in the browser itself, but they only let you choose one, rather 
+than allowing a cascade, so the effect isn't great because some of our 
+"presets" depend on several stylesheets being active together. Neither IE 
+nor Safari allow stylesheet selection in the browser.The head of the page contains this kind of thing:<link rel="stylesheet" title="Basic" type="text/css" href="../../style.css" />
+<link rel="stylesheet" title="Alternative" type="text/css" 
+href="../../alternative.css" />
+<link rel="stylesheet" title="NavLeft" type="text/css" 
+href="../../nav_left.css" />
+<link rel="stylesheet" title="NavRight" type="text/css" 
+href="../../nav_right.css" />
+<link rel="stylesheet" title="NavTextCaptions" type="text/css" 
+href="../../nav_text_captions.css" />
+<link rel="stylesheet" title="HideBottomNav" type="text/css" 
+href="../../hide_bottom_nav.css" />
+<link rel="stylesheet" title="HighContrast" type="text/css" 
+href="../../high_contrast.css" />
+<link rel="stylesheet" title="Print" type="text/css" href="../../print.css" />with the stylesheet switching stuff being handled here:<http://web.uvic.ca/hrd/hulq/script.js>The audio file format switching is handled here:<http://web.uvic.ca/hrd/hulq/audio.js>The Flash player for MP3s is something I wrote myself -- it's a little 
+Flash movie that you can pass an mp3 file URL to using the object tag 
+parameters. The other players are standard, and they're all inserted using 
+object tags so we get valid XHTML. You're welcome to use the Flash audio 
+player too if you like -- it's designed to be as unobtrusive as possible, 
+and has only Play and Stop, with Play turning into Pause while playing. 
+There's a tutorial on how to use it in Hot Potatoes exercises here:<http://web.uvic.ca/hrd/hotpot/howto/audio.htm>The code explained in the tutorial is straight XHTML 1.1, so it's 
+generalizable to any modern Web page, and there are download links to the 
+Flash movie and the Flash project file, in case you want to make some 
+tweaks to the way it works.Cheers,
+MartinAt 08:28 AM 30/06/2004, you wrote:
+>Content-Transfer-Encoding: 7bit
+>
+>This is neat. I was thinking of something very similar using cookies, 
+>though I hadn't thought of using a form to allow users to select several 
+>options (my plan had been to offer a selection of different sheets: large 
+>screen, small screen, accessibility). Are there generalisable scripts on 
+>this project that might usable by other members of the list?
+>-dan
+>
+>Martin Holmes wrote:
+>
+>>Hi there,
+>>
+>>At 01:40 AM 30/06/2004, you wrote:
+>>
+>>>I think that catering for special needs, or simply trying to
+>>>conform to accessibility guidelines, should be the developer's task, on
+>>>the basis of the anticipated audience. And you can also see why imposing
+>>>choices on the users is a bad idea: while you probably should keep in
+>>>mind accessibility everywhere, it could make sense to propose a special
+>>>version of your site (lighter on resources, for instance, or conceived
+>>>for PDA browsers, etc.), but if you already have to propose a version
+>>>for "normal", standard-complying browsers, and another for IE, this
+>>>probably is not feasible, or would result in a scarcely maintainable
+>>>site.
+>>
+>>
+>>I think it's good to strike a balance here. On our Introduction to 
+>>Hul'q'umi'num' site (<http://web.uvic.ca/hrd/hulq/>) we let the user 
+>>choose which audio file format and media player they prefer to use, then 
+>>store that in a cookie and use it to insert the appropriate media player 
+>>code for every audio link. We determined this would be the best way to 
+>>handle the fact that there are no real standards for media files on the 
+>>Web, and a range of players is available; it's unreasonable to require 
+>>people to install a particular player just to use one site, so we let you 
+>>choose between WMP, Real, Flash and Quicktime, and between .wma, .ra, 
+>>.mp3 and .ogg files. This pretty much ensures that anyone can use the 
+>>audio material without installing anything special (we hope!).
+>>
+>>We also allow people to decide where they'd like to put the navigation 
+>>menus on the page, and give the option of a high-contrast colour scheme, 
+>>or a print stylesheet for the pages (which is monochrome, without 
+>>navigation). All of this is done through JavaScript and cookies, and the 
+>>individual pages themselves do not need to be changed; the JavaScript 
+>>reads the cookies and makes changes to the DOM when the page is loaded or 
+>>when the user chooses an audio segment to listen to. All of this is done 
+>>client-side, so the site can be run from a CD, or a server with no 
+>>available scripting, if necessary.
+>>
+>>This kind of flexibility is fairly easy to incorporate in a site 
+>>nowadays. However, the issue of PDAs is a slightly different one; PDA 
+>>browsers are porrly-featured in terms of CSS, JavaScript and DOM support, 
+>>so unless a site is very simple indeed, any special version of it for 
+>>PDAs currently has to be created server-side. In a couple of years, 
+>>though, PDAs will be running the equivalent of the current FireFox, I 
+>>think, and most things we do now for desktop browswers will be practical 
+>>for PDAs.
+>>
+>>But then we'll have the legacy installed base of old PDAs to worry about...
+>>
+>>Cheers,
+>>Martin
+>>
+>>
+>>
+>>
+>>______________________________________
+>>Martin Holmes
+>>University of Victoria Humanities Computing and Media Centre
+_redacted_(a)uvic.ca
+_redacted_(a)mholmes.com
+_redacted_(a)halfbakedsoftware.com
+>>http://www.mholmes.com
+>>http://web.uvic.ca/hcmc/
+>>http://www.halfbakedsoftware.com
+>>
+>>
+>>_______________________________________________
+>>dm-l mailing list
+_redacted_(a)uleth.ca
+>>http://listserv.uleth.ca/mailman/listinfo/dm-l
+>
+>
+>--
+>Daniel Paul O'Donnell, PhD
+>Associate Professor of English
+>University of Lethbridge
+>Lethbridge AB T1K 3M4
+>Tel. (403) 329-2377
+>Fax. (403) 382-7191
+_redacted_(a)uleth.ca>
+>Home Page <http://people.uleth.ca/~daniel.odonnell/>
+>
+>
+>
+>
+>_______________________________________________
+>dm-l mailing list
+_redacted_(a)uleth.ca
+>http://listserv.uleth.ca/mailman/listinfo/dm-l
+>______________________________________
+Martin Holmes
+University of Victoria Humanities Computing and Media Centre
+_redacted_(a)uvic.ca
+_redacted_(a)mholmes.com
+_redacted_(a)halfbakedsoftware.com
+http://www.mholmes.com
+http://web.uvic.ca/hcmc/
+http://www.halfbakedsoftware.com

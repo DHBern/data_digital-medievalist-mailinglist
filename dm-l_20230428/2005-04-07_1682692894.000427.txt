@@ -1,0 +1,177 @@
+Subject: RE: [dm-l] what xslt can't do..?I agree with James (mind if we call you Peter, just to keep things
+clear?) that a multi-pass approach is likely to be more efficient than
+mine, just because of the overhead mine incurs in creating nodesets all
+the time. What my approach needs is a function that takes a node-set and
+returns a tree fragment containing those nodes and all their ancestors,
+with non-ancestors stripped out. Does XSLT2 provide such a function? I
+haven't got into 2 yet. If not, it probably wouldn't be too hard to
+write up a Java extension to do it.For situations requiring the kind of performance that Peter Robinson is
+talking about, XSLT will probably always have value only as a
+prototyping tool, to be replaced by coded projects like Peter's. But I
+think it has more value as a prototyping tool than Peter R. is giving it
+credit for. I think a better Java programmer than me (i.e. any Java
+programmer) would still have taken longer than I did to prototype a
+solution to Peter's challenge, and would have required more than 63
+lines of code to do it. Peter BinkleyPeter Binkley, Ph.D., MLIS
+Digital Initiatives Technology Librarian
+Information Technology Services
+4-30 Cameron Library
+University of Alberta Libraries
+Edmonton, Alberta
+Canada T6G 2J8
+Phone: (780) 492-3743
+Fax: (780) 492-9243
+_redacted_(a)ualberta.ca
+> -----Original Message-----
+_redacted_(a)uleth.ca] On 
+> Behalf Of James Cummings
+> Sent: Thursday, April 07, 2005 05:07 AM
+> To: Digital Medievalist Community mailing list
+> Subject: Re: [dm-l] what xslt can't do..?
+> 
+> The Digital Medievalist List (see end of message for contact 
+> information and project URLs).
+> 
+> ----------------------------------
+> 
+> I've always been happy to agree with Peter(Robinson) that 
+> XSLT has some major limitations.  I, like Peter(Baker) think 
+> that a solution can be found within XSLT for this problem.  
+> My approach would be, like
+> Peter(Baker) suggests, to do multiple transforms.  
+> Increasingly I'm doing this not as a set of discrete files 
+> (though the modularity of that is very attractive), but 
+> through using variables in XSLT2 which can then have further 
+> operations applied to them.  i.e. creating temporary trees 
+> since you can continue to work on so-called result tree 
+> fragments in XSLT2.  But Peter Binkley has solved the 
+> specific problem in his post.
+> 
+> However, as a general approach, I like to see the first step 
+> as a conversion of one hierarchy to another, so converting 
+> every element in the document to milestone like elements 
+> indicating start and end.  The priviledging that set of 
+> milestones that are most important to you for that transformation.
+> 
+> But the XML could have been encoded as such to begin with 
+> couldn't it? 
+> So perhaps the problem isn't that it can be difficult in XSLT 
+> to transform from one arbitrary hierarchy to another, but 
+> that the choice of hierarchy should be suited to the purpose. 
+>  If the aim is to display pages, then priviledge that 
+> hierarchy and break the other ones?
+> 
+> I've knocked up a quick XSLT1 stylesheet that takes any XML 
+> document as an input, and wraps it in a document element and 
+> creates all other elements (except <head> and <pb/> ;-) ) as 
+> milestone elements indicating their start and end.
+> 
+> So, passing the text.xml through it, I get:
+> --------------
+> <document>
+>     <div start="true"/>
+>             <head>The whole text and all the texts</head>
+>             <div start="true"/>
+>             <pb n="1"/>
+>             <head>First text</head>
+>             <p start="true" n="1"/>some text starts here and 
+> goes ita<hi start="true" rend="italic"/>lic an<pb n="2"/>d 
+> then<hi end="true" 
+> rend="italic"/> we get a pagebreak<p end="true" n="1"/>
+>             <p start="true" n="2"/>so the text finishes<p 
+> end="true" n="2"/>
+>             <p start="true" n="3"/> with yet another page <pb 
+> n="3"/> and another page start <p end="true" n="3"/>
+>             <div end="true"/>
+>             <div start="true"/>
+>             <head>Second text</head>
+>             <pb n="4"/>
+>             <p start="true" n="1"/>here my new text on the 
+> next page etc etc<p end="true" n="1"/>
+>             <pb n="5"/>
+>             <p start="true" n="2"/>here my new text on the 
+> next page etc etc<p end="true" n="2"/>
+>             <div end="true"/>
+>     <div end="true"/>
+> </document>
+> --------------
+> Then one could fairly easily use an xsl:for-each-group 
+> solution to group elements by <pb>.  For what it is worth 
+> (and it could be done in a more sophisticated and efficient 
+> manner) the XSLT for milestoning a document that I knocked up was:
+> --------------
+> <?xml version="1.0" encoding="utf-8"?>
+> <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" 
+> version="1.0">
+>     <xsl:output method="xml" indent="no" encoding="utf-8"/>
+>     <xsl:template match="/">
+>        <document>
+>           <xsl:call-template name="element-start"/>
+>           <xsl:apply-templates/>
+>           <xsl:call-template name="element-end"/>
+>        </document>
+>     </xsl:template>
+>     <xsl:template match="*" priority="-1">
+>        <xsl:call-template name="element-start"/>
+>        <xsl:apply-templates/>
+>        <xsl:call-template name="element-end"/>
+>     </xsl:template>
+>     <xsl:template match="head">
+>        <head>
+>           <xsl:apply-templates/>
+>        </head>
+>     </xsl:template>
+>     <xsl:template match="pb">
+>        <pb>
+_redacted_@*">
+>              <xsl:attribute name="{name()}">
+>                 <xsl:value-of select="."/>
+>              </xsl:attribute>
+>           </xsl:for-each>
+>        </pb>
+>     </xsl:template>
+>     <xsl:template name="element-start">
+>        <xsl:element name="{name()}">
+>           <xsl:attribute name="start">true</xsl:attribute>
+_redacted_@*">
+>              <xsl:attribute name="{name()}">
+>                 <xsl:value-of select="."/>
+>              </xsl:attribute>
+>           </xsl:for-each>
+>        </xsl:element>
+>     </xsl:template>
+>     <xsl:template name="element-end">
+>        <xsl:element name="{name()}">
+>           <xsl:attribute name="end">true</xsl:attribute>
+_redacted_@*">
+>              <xsl:attribute name="{name()}">
+>                 <xsl:value-of select="."/>
+>              </xsl:attribute>
+>           </xsl:for-each>
+>        </xsl:element>
+>     </xsl:template>
+> </xsl:stylesheet>
+> --------------
+> 
+> -James
+> -- 
+> Dr James Cummings, Oxford Text Archive, University of Oxford
+> James dot Cummings at oucs dot ox dot ac dot uk
+> 
+> _______________________________________________
+> Digital Medievalist Project
+> Homepage: http://www.digitalmedievalist.org
+> Journal (December 2004-): 
+> http://www.digitalmedievalist.org/journal.cfm
+> RSS (announcements) server: 
+> http://www.digitalmedievalist.org/rss/rss2.cfm
+> Wiki: http://sql.uleth.ca/dmorgwiki/index.php
+> Change membership options: 
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+> Submit RSS announcement: http://www.digitalmedievalist.org/newitem.cfm
+_redacted_(a)uleth.ca
+> dm-l mailing list
+_redacted_(a)uleth.ca
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+> 
+--===============8898606500585054250==--

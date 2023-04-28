@@ -1,0 +1,61 @@
+Subject: Re: [dm-l] Autoinstall for fontsDear Dan,
+         I don't know of anything for Macs, Linux, etc., but for Windows, 
+you might look at http://www.jrsoftware.org/isinfo.php. I've found that 
+easy to work with. We're using this for the forthcoming editions of 
+Bodleian Library's MS Laud 581 and BL, MS Additional 35287 in the Piers 
+Plowman Electronic Archive.Best,
+DugAt 10:53 AM 10/23/2004 -0600, you wrote:
+>Hello all,
+>         Does anybody know of an adaptable auto-install program that would 
+> install fonts when a CD is loaded? I'm looking for something that ideally 
+> would be open source, work equally well in most environments (e.g. Win, 
+> Mac, Linux). Its main function would be to install a font a project needs 
+> and, if possible, start a web-page up in the user's default browser.
+>-dan
+>--
+>Daniel Paul O'Donnell, PhD
+>Associate Professor of English
+>University of Lethbridge
+>Lethbridge AB T1K 3M4
+>Tel. (403) 329-2377
+>Fax. (403) 382-7191
+_redacted_(a)uleth.ca>
+>Home Page <http://people.uleth.ca/~daniel.odonnell/>
+>
+>
+>_______________________________________________
+>Project web site: http://www.digitalmedievalist.org/
+>dm-l mailing list
+_redacted_(a)uleth.ca
+>http://listserv.uleth.ca/mailman/listinfo/dm-lPGh0bWw+Cjxib2R5PgpEZWFyIERhbiw8YnI+Cjx4LXRhYj4mbmJzcDsmbmJzcDsmbmJzcDsmbmJz
+cDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDs8L3gtdGFiPkkgZG9uJ3QKa25vdyBvZiBhbnl0aGlu
+ZyBmb3IgTWFjcywgTGludXgsIGV0Yy4sIGJ1dCBmb3IgV2luZG93cywgeW91IG1pZ2h0IGxvb2sK
+YXQKPGEgaHJlZj0iaHR0cDovL3d3dy5qcnNvZnR3YXJlLm9yZy9pc2luZm8ucGhwIiBldWRvcmE9
+ImF1dG91cmwiPmh0dHA6Ly93d3cuanJzb2Z0d2FyZS5vcmcvaXNpbmZvLnBocDwvYT4uCkkndmUg
+Zm91bmQgdGhhdCBlYXN5IHRvIHdvcmsgd2l0aC4gV2UncmUgdXNpbmcgdGhpcyBmb3IgdGhlIGZv
+cnRoY29taW5nCmVkaXRpb25zIG9mIEJvZGxlaWFuIExpYnJhcnkncyBNUyBMYXVkIDU4MSBhbmQg
+QkwsIE1TIEFkZGl0aW9uYWwgMzUyODcgaW4KdGhlIDxpPlBpZXJzIFBsb3dtYW4gRWxlY3Ryb25p
+YyBBcmNoaXZlPC9pPi48YnI+PGJyPgpCZXN0LDxicj4KRHVnPGJyPjxicj4KPGJyPjxicj4KQXQg
+MTA6NTMgQU0gMTAvMjMvMjAwNCAtMDYwMCwgeW91IHdyb3RlOjxicj4KPGJsb2NrcXVvdGUgdHlw
+ZT1jaXRlIGNsYXNzPWNpdGUgY2l0ZT5IZWxsbyBhbGwsPGJyPgo8eC10YWI+Jm5ic3A7Jm5ic3A7
+Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7PC94LXRhYj5Eb2VzCmFueWJvZHkg
+a25vdyBvZiBhbiBhZGFwdGFibGUgYXV0by1pbnN0YWxsIHByb2dyYW0gdGhhdCB3b3VsZCBpbnN0
+YWxsCmZvbnRzIHdoZW4gYSBDRCBpcyBsb2FkZWQ/IEknbSBsb29raW5nIGZvciBzb21ldGhpbmcg
+dGhhdCBpZGVhbGx5IHdvdWxkCmJlIG9wZW4gc291cmNlLCB3b3JrIGVxdWFsbHkgd2VsbCBpbiBt
+b3N0IGVudmlyb25tZW50cyAoZS5nLiBXaW4sIE1hYywKTGludXgpLiBJdHMgbWFpbiBmdW5jdGlv
+biB3b3VsZCBiZSB0byBpbnN0YWxsIGEgZm9udCBhIHByb2plY3QgbmVlZHMgYW5kLAppZiBwb3Nz
+aWJsZSwgc3RhcnQgYSB3ZWItcGFnZSB1cCBpbiB0aGUgdXNlcidzIGRlZmF1bHQgYnJvd3Nlci48
+YnI+Ci1kYW48YnI+Ci0tIDxicj4KRGFuaWVsIFBhdWwgTydEb25uZWxsLCBQaEQ8YnI+CkFzc29j
+aWF0ZSBQcm9mZXNzb3Igb2YgRW5nbGlzaDxicj4KVW5pdmVyc2l0eSBvZiBMZXRoYnJpZGdlPGJy
+PgpMZXRoYnJpZGdlIEFCIFQxSyAzTTQ8YnI+ClRlbC4gKDQwMykgMzI5LTIzNzc8YnI+CkZheC4g
+KDQwMykgMzgyLTcxOTE8YnI+CkUtbWFpbCAmbHQ7ZGFuaWVsLm9kb25uZWxsQHVsZXRoLmNhJmd0
+Ozxicj4KSG9tZSBQYWdlCiZsdDs8YSBocmVmPSJodHRwOi8vcGVvcGxlLnVsZXRoLmNhL35kYW5p
+ZWwub2Rvbm5lbGwvIiBldWRvcmE9ImF1dG91cmwiPmh0dHA6Ly9wZW9wbGUudWxldGguY2EvfmRh
+bmllbC5vZG9ubmVsbC88L2E+Jmd0Ozxicj48YnI+Cjxicj4KX19fX19fX19fX19fX19fX19fX19f
+X19fX19fX19fX19fX19fX19fX19fX19fX188YnI+ClByb2plY3Qgd2ViIHNpdGU6CjxhIGhyZWY9
+Imh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy8iIGV1ZG9yYT0iYXV0b3VybCI+aHR0
+cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnLzwvYT48YnI+CmRtLWwgbWFpbGluZyBsaXN0
+PGJyPgpkbS1sQHVsZXRoLmNhPGJyPgo8YSBocmVmPSJodHRwOi8vbGlzdHNlcnYudWxldGguY2Ev
+bWFpbG1hbi9saXN0aW5mby9kbS1sIiBldWRvcmE9ImF1dG91cmwiPmh0dHA6Ly9saXN0c2Vydi51
+bGV0aC5jYS9tYWlsbWFuL2xpc3RpbmZvL2RtLWw8L2E+PGJyPgo8L2Jsb2NrcXVvdGU+PC9ib2R5
+Pgo8L2h0bWw+Cg==

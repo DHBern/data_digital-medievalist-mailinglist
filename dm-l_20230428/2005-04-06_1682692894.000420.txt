@@ -1,0 +1,45 @@
+Subject: Re: [dm-l] what xslt can't do..?Peter Robinson wrote:>So, Peter, here is your challenge.  Just make us an xslt file that pulls
+>out just the text on each of the five pages.  It would be a nice bonus if
+>each page were to have a header which told us what text there is on each
+>page (for example: page 3 contains 'First text, para 3 -- Second text,
+>head'; page 5 contains just 'Second text, para 5'). To make it slightly
+>more of a challenge: you should do this direct from this sample, and not
+>from a transform of this sample.
+>...
+>Answers on the back of a postage stamp please.
+>
+>  
+>
+Now Peter, I'm perfectly happy to take on this problem, but I think we 
+both know that your demand that the transform be done in one pass makes 
+it not so much "slightly more of a challenge" as "impossible." But what 
+would be the problem with doing the transform in two passes, or three, 
+or four? One could wrap them all up in some Python or Java, and the user 
+wouldn't know or care. Assuming we can get past this little issue, why 
+yes, I think it can be done, and I'll be happy to give it a try. Notice 
+another qualification in my note: "when we've all got lots of time." It 
+won't be done tomorrow (term's on, and I have obligations outstanding), 
+but I'll post the solution (or a link to it) to this list when it's ready.Peter's observation about heating one's house with a lawnmower, together 
+with the page that Abdullah links to, brings up interesting questions 
+about programming languages. I don't see Peter's analogy as quite apt: 
+XSLT is for transforming XML. It is a heater, not a lawnmower: the 
+question is whether it is up to the job. "Things XSLT can't do" 
+addresses that problem--or appears to. Some of the "no-nos" are just 
+silly ("Can I nest elements within attributes"), while others deal with 
+what appear to be real limitations (can't "Change the value of a 
+variable"). Any specialized language has limitations, of course (don't 
+try to use XSLT to crack the human genome), but many of the queries at 
+the site are from people who are still thinking in Java or C and haven't 
+quite grokked the XSLT way of doing things.I started using XSLT a couple of years ago to generate pages for my Old 
+English Aerobics anthology, and, coming from Java, I frankly found it 
+limiting and infuriating. For reasons I still don't quite understand, I 
+then started to use it to develop an XML-based high-level hinting 
+language for TrueType fonts. You've got to know a little about TrueType 
+to understand the nuttiness of the idea: it was transforming XML into 
+assembly language. On countless occasions I've thought, "XSLT can't do 
+this"; then after a few days (or weeks) of walking in the park or taking 
+the kids to the playground I've realized that, yes, it really can. The 
+latest passage was realizing that it really could parse an attribute 
+that looked likevalue="control-value(lc-vert-stem) * (minimum-distance / 1.23)"and do it elegantly and without invoking any extension functions. The 
+language has repeatedly exceeded my expectations.By the way, "Things XSLT can't do" comes in the context of an 
+XSL/XSLT/FO information site. It isn't an anti-XSLT screed.Peter

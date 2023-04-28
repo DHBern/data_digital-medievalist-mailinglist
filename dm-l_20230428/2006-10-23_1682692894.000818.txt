@@ -1,0 +1,68 @@
+Subject: [dm-l] Personal Web site maintenanceActually, there's a module called Liquid if you want to have wikis
+with Drupal: http://drupal.org/project/liquid . I haven't tried this
+particular module, but I've now been using Drupal for two months on
+the website I maintain (http://www.arlima.net) and it's exceeded all
+expectations. It seems that there's very little that you can't do with
+Drupal.Best,Laurent_redacted_(a)uleth.ca> wrote:
+> So far, textpattern looks like the closest to what I've wanted, though
+> indeed drupal looks more developed and better supported. Textpattern
+> uses textile, a wiki-style editor, that allows you to flip back and
+> forth between wiki-style markup, xhtml, and a preview. It also is a
+> complete content management system, though it is still fairly focussed
+> on blogging rather than the relatively static pages I would be using it
+> to replace.
+>
+> If only it was a mediawiki-based editor: I know the wikipedia's markup
+> quite well; textile's is another dialect.
+>
+> In my case very easy onscreen editing is what I need more than anything
+> with some CMS features--i.e. finding pages. I was finding it murder
+> making small changes in things like syllabi: a table in code is a mess,
+> and using a wordprocessor messes up one's hopefully clean html. The
+> wiki-based editor seems to get around that. Tables and lists are very
+> easy to over see and edit, and the translation back into html is very
+> clean.
+>
+> I hope to have something up in the next week or two to show.
+>
+>
+> On Mon, 2006-23-10 at 16:38 +0100, Gabriel BODARD wrote:
+> > Not so much for editing personal websites, but a useful tool for
+> > (collaboratively) editing teaching materials which could then be ported
+> > to a website or printed as a complete book, etc.:
+> >
+> > http:/www.courseforge.com
+> >
+> > (Thought this might answer a question kind of orthoganal to Dan's
+> > original request.)
+> >
+> > Cheers,
+> >
+> > G
+> >
+> --
+> Daniel Paul O'Donnell, PhD
+> Director, Digital Medievalist Project http://www.digitalmedievalist.org/
+> Associate Professor and Chair of English
+> University of Lethbridge
+> Lethbridge AB T1K 3M4
+> Vox: +1 403 329 2378
+> Fax: +1 403 382-7191
+> Homepage: http://people.uleth.ca/~daniel.odonnell/
+>
+>
+>
+> _______________________________________________
+> Digital Medievalist Project
+> Homepage: http://www.digitalmedievalist.org
+> Journal (Spring 2005-): http://www.digitalmedievalist.org/journal.cfm
+> RSS (announcements) server: http://www.digitalmedievalist.org/rss/rss2.cfm
+> Wiki: http://sql.uleth.ca/dmorgwiki/index.php
+> Change membership options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+> Submit RSS announcement: http://www.digitalmedievalist.org/newitem.cfm
+_redacted_(a)uleth.ca
+> dm-l mailing list
+_redacted_(a)uleth.ca
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+>
+--===============7432078934562114478==--

@@ -1,0 +1,118 @@
+Subject: [dm-l] 5th International Conference ALIENTO: Nancy =?utf-8?b?4oCT?=5th International Conference ALIENTO: Linguistic and intercultural 
+analysis of short sapiential statements and of their transmission 
+East/West, West/EastNancy – Paris 5 – 6 – 7 November 2013Ethical and moral concepts between the three culturesThis 5th edition, which concerns the construction of the database, will 
+focus on the way in which the three cultures in the Iberian Peninsula in 
+the Middle Ages interpret, translate and conceive such key concepts as, 
+for instance, charity, alms, equity, prudence and speech.What semantic content is transferred from one culture to another, how 
+the appropriations and the re-appropriations (i. e.: semantic calques 
+and metaphorical transfers).What ethical or moral concepts are easily or arduously translatable and 
+why.What are the complex architectures or networks that interconnect these 
+concepts within a given culture and how these architectures or networks 
+differ or not from those in the neighbouring culture (a Latin term may 
+contain senses coming from semantically close terms from the donor 
+language due to cultural affinity or language contact. We will consider 
+as well the incorporation of Arabic semes into the Spanish language of 
+the Middle Ages, the choices made by the translator from Arabic into 
+Hebrew, the translation equivalences which might have occurred at that 
+time).We will address the question of the semantic circulation by starting 
+from the semantic contents of the concepts that shape the moral and 
+ethical ideas in the sapiential texts that were exchanged in the Iberian 
+Peninsula, between the 11th and 15th centuries. These texts are the core 
+material of the research project ALIENTO.We will focus also on the dictionaries, the compilations, the 
+philosophical anthologies (contemporary or not) which give a reading of 
+the conceptual arborescence (or organisation) specific to each culture.If we address the linguistic and automatic treatment of the data, we 
+could consider the question of the ontologies as they are developed and 
+questioned today by semanticists and computer researchers.Workshops will be dedicated to problems concerning the encoding of the 
+texts and to questions related to the linguistic description of the 
+languages of the corpora, namely Arabic, Hebrew, Latin, Spanish and Catalan.Articles will be published in the journal: ALIENTO – Echanges 
+Sapientiels en MéditerranéeAbstracts should be submitted by July 15th, 2013 to:Marie-Christine Bornes Varol
+Professeur des Universités (INALCO - Paris)
+CERMOM EA 4091
+Porteur du projet ALIENTO
+www.aliento.eu
+00 33 (0) 1 40 05 98 83
+_redacted_(a)noos.frMarie-Sol Ortola
+Professeur des Universités (UdL Nancy)
+Directrice adjointe de l’équipe « LIS » EA 7305
+Porteur du projet ALIENTO
+www.aliento.eu
+00 33 (0) 3 83 73 83 01
+_redacted_(a)univ-lorraine.fr
+Description of the ALIENTO project
+(Linguistic and intercultural analysis of short sapiential statements 
+and of their transmission East/West, West/East)In the ninth century, the rich Arab tradition of the adab finds its way 
+into Spain, or rather al-Andalus, a country that played a prominent role 
+in the exchange of knowledge from the East to the West in the 11th and 
+12th centuries especially via the monasteries in the North of the 
+Iberian Peninsula. It is also in al-Andalus where the adab literature 
+meets the Jewish sapiential tradition of the Midrashic literature. New 
+collections are composed, including original works from the 10th and 
+11th centuries, and from the 12th century on, exempla and philosophers’ 
+sayings are translated into Hebrew, Latin and the Romance languages. 
+Much of this complex heritage is found in the extensive Spanish 
+paremiological literature, which is at its highest in the 16th and 17th 
+centuries, as well as in contemporary Spanish, Judeo-Spanish and 
+Maghrebian collections of proverbs.Although the main lines of these exchanges are well-known, we still lack 
+specific information on the circulation of these short sapiential 
+statements (our basic research units) as well as on the successive 
+translating choices made by the translators, their cultural 
+reinterpretations or the importance of some loanwords over others. If 
+sapiential textual filiations and translation sequences should be 
+treated cautiously, this is particularly true of the sapiential 
+statements to be found in these texts. Due to the difficulty in 
+understanding them, these volatile elements, whose categorisation varies 
+with time and cultures, have never been the subject of a comprehensive 
+textual study which could recount their sources, circulation and 
+evolution across the different spoken or written languages of the three 
+cultures living in the Iberian Peninsula in the Middle-Ages. The 
+paremiological studies have mostly produced compilations of proverbs 
+(thesauri), critical editions and erudite studies, dedicated to a single 
+work, a single language or a single culture, except for the remarkable 
+ground-breaking work on the Philosophical Quartet (1975) by D. Gutas. 
+The few existing databases are for the most part monolingual 
+contemporary corpora of paremiae or otherwise have a translation-based 
+perspective.Therefore the aim of the ALIENTO project is to work out concordances, 
+even partial, close or distant connections, in order to reassess 
+inter-textual relations by comparing a great quantity of data and by 
+interconnecting encoded texts written in different languages.This is why the project, which needs a close interdisciplinary 
+collaboration between computational researchers (ATILF), linguists and 
+specialists in literature (MSH Lorraine + INALCO and the international 
+network of collaborators), will develop a piece of software transferable 
+to other similar texts to be used with a large reference corpus made up 
+of 8 related texts 582 pages for an estimated 9,570 sapiential 
+statements, which circulated in the Iberian Peninsula (in Latin, 
+Arabic, Hebrew, Spanish and Catalan).
+The produced software will extract and connect short sapiential 
+statements through concordances generated by the specific encoding 
+system scientifically developed and explained in an encoding manual 
+XML-TEI. ATILF will create a multilingual interrogation programme (in 
+French, Spanish and English) of the matched data and will give access 
+online to the ALIENTO corpus annotated texts via the CNRTL in order to 
+ensure a permanent archiving of the texts.At the end of the project we will have: a body of texts in a multilingual corpus, digitised, tagged in XML/TEI 
+and publicly accessible, linked to a set of data about the texts and 
+their authors.
+ a set of short sapiential units with their XML/TEI annotations, 
+accessible free of charge.
+ a trilingual questioning interface that will display the concordanced 
+statements contained in these works, with information that could be used 
+to study them, irrespective of the language.
+ an encoding methodology and a piece of software for matching data that 
+could be used with other similar corpora.Considerations arising from the project:The aim of the project consists in reviewing the role of the Iberian 
+Peninsula in the transfer and exchange of the sapiential knowledge from 
+the East to the West and from the West to the East in the Middle Ages by 
+studying the brief sapiential statements they contain (maxims, 
+sentences, proverbes, aphorisms). The raised issues are:
+1) Which are the precise links between the exchanged sapiential texts 
+between different languages, different cultures and three religions in 
+the Iberian Peninsula (and Provence) in the Middle Ages?
+2) What changes were brought about by the translations, 
+re-interpretations and readings, contained in the numerous works and 
+compilations written between the 9th and 15th centuries?
+3) Starting from the ancient sapiential sources, how do we get to the 
+modern and contemporary Mediterranean collections of proverbs
+-- 
+Daniel Paul O'Donnell
+Professor of English
+University of Lethbridge
+Lethbridge AB T1K 3M4
+Canada+1 403 393-2539

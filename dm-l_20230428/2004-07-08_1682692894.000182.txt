@@ -1,0 +1,68 @@
+Subject: Re: [dm-l] [Fwd: encoding  maps, graphics with text?]	ProblemswithNow I wonder what I am doing right (or wrong?) Still works fine overhere
+on the http://lingo.dcf.uvic.ca:8080/exist/graves/index.xml URL. 
+http://lingo.dcf.uvic.ca does say 'PHP works' also to me. I usually do
+not have problems connecting to any portnumber. Very very odd indeed.
+ 
+Joris_redacted_(a)dmu.ac.uk 7/8/04 11:55:18 >>>I have tried with various browsers, but all naturally in Mac OS X, and
+from
+different places, and just cannot get through.  I get 'the operation
+timed
+out when trying to connect to..' or just 'cannot connect to..'
+I am trying 
+http://lingo.dcf.uvic.ca:8080/exist/graves/index.xml
+When I try just http://lingo.dcf.uvic.ca I get the cryptic 'PHP
+works'.
+ON the face of it, it looks like something to do with port 8080.  And
+checking, I discover..
+  1. I do not seem able to connect to any sites with 8080
+  2.  But can connect to: 8000, 8081, etc
+  3.  There is nothing in the settings in this computer which appears
+to bar
+access to any ports 8080.  Netstat does not show anything running on a
+8080
+So very odd indeed
+Anyone else see this behaviour?
+Peter
+_______________________________________________
+dm-l mailing list
+_redacted_(a)uleth.ca
+http://listserv.uleth.ca/mailman/listinfo/dm-l
+--===============5480143281344880561==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"
+MIME-Version: 1.0PEhUTUw+PEhFQUQ+CjxNRVRBIGh0dHAtZXF1aXY9Q29udGVudC1UeXBlIGNvbnRlbnQ9InRleHQv
+aHRtbDsgY2hhcnNldD1pc28tODg1OS0xIj4KPE1FVEEgY29udGVudD0iTVNIVE1MIDYuMDAuMjgw
+MC4xNDAwIiBuYW1lPUdFTkVSQVRPUj48L0hFQUQ+CjxCT0RZIHN0eWxlPSJNQVJHSU46IDRweCA0
+cHggMXB4OyBGT05UOiAxMHB0IEFyaWFsOyBDT0xPUjogIzAwMDAwMCI+CjxESVY+Tm93IEkgd29u
+ZGVyIHdoYXQgSSBhbSZuYnNwO2RvaW5nJm5ic3A7cmlnaHQgKG9yIHdyb25nPykgU3RpbGwgd29y
+a3MgZmluZSBvdmVyaGVyZSBvbiB0aGUgPEEgaHJlZj0iaHR0cDovL2xpbmdvLmRjZi51dmljLmNh
+OjgwODAvZXhpc3QvZ3JhdmVzL2luZGV4LnhtbCI+aHR0cDovL2xpbmdvLmRjZi51dmljLmNhOjgw
+ODAvZXhpc3QvZ3JhdmVzL2luZGV4LnhtbDwvQT4mbmJzcDtVUkwuJm5ic3A7IDxBIGhyZWY9Imh0
+dHA6Ly9saW5nby5kY2YudXZpYy5jYSI+aHR0cDovL2xpbmdvLmRjZi51dmljLmNhPC9BPiZuYnNw
+O2RvZXMgc2F5ICdQSFAgd29ya3MnIGFsc28gdG8gbWUuIEkgdXN1YWxseSBkbyBub3QgaGF2ZSBw
+cm9ibGVtcyBjb25uZWN0aW5nIHRvIGFueSBwb3J0bnVtYmVyLiBWZXJ5IHZlcnkgb2RkIGluZGVl
+ZC48L0RJVj4KPERJVj4mbmJzcDs8L0RJVj4KPERJVj5Kb3JpczxCUj48QlI+Jmd0OyZndDsmZ3Q7
+IHBldGVyLnJvYmluc29uQGRtdS5hYy51ayA3LzgvMDQgMTE6NTU6MTggJmd0OyZndDsmZ3Q7PEJS
+PjwvRElWPgo8RElWIHN0eWxlPSJDT0xPUjogIzAwMDAwMCI+SSBoYXZlIHRyaWVkIHdpdGggdmFy
+aW91cyBicm93c2VycywgYnV0IGFsbCBuYXR1cmFsbHkgaW4gTWFjIE9TIFgsIGFuZCBmcm9tPEJS
+PmRpZmZlcmVudCBwbGFjZXMsIGFuZCBqdXN0IGNhbm5vdCBnZXQgdGhyb3VnaC4mbmJzcDsgSSBn
+ZXQgJ3RoZSBvcGVyYXRpb24gdGltZWQ8QlI+b3V0IHdoZW4gdHJ5aW5nIHRvIGNvbm5lY3QgdG8u
+Licgb3IganVzdCAnY2Fubm90IGNvbm5lY3QgdG8uLic8QlI+SSBhbSB0cnlpbmcgPEJSPjxBIGhy
+ZWY9Imh0dHA6Ly9saW5nby5kY2YudXZpYy5jYTo4MDgwL2V4aXN0L2dyYXZlcy9pbmRleC54bWwi
+Pmh0dHA6Ly9saW5nby5kY2YudXZpYy5jYTo4MDgwL2V4aXN0L2dyYXZlcy9pbmRleC54bWw8L0E+
+PEJSPldoZW4gSSB0cnkganVzdCA8QSBocmVmPSJodHRwOi8vbGluZ28uZGNmLnV2aWMuY2EiPmh0
+dHA6Ly9saW5nby5kY2YudXZpYy5jYTwvQT4gSSBnZXQgdGhlIGNyeXB0aWMgJ1BIUCB3b3Jrcycu
+PEJSPk9OIHRoZSBmYWNlIG9mIGl0LCBpdCBsb29rcyBsaWtlIHNvbWV0aGluZyB0byBkbyB3aXRo
+IHBvcnQgODA4MC4mbmJzcDsgQW5kPEJSPmNoZWNraW5nLCBJIGRpc2NvdmVyLi48QlI+Jm5ic3A7
+IDEuIEkgZG8gbm90IHNlZW0gYWJsZSB0byBjb25uZWN0IHRvIGFueSBzaXRlcyB3aXRoIDgwODA8
+QlI+Jm5ic3A7IDIuJm5ic3A7IEJ1dCBjYW4gY29ubmVjdCB0bzogODAwMCwgODA4MSwgZXRjPEJS
+PiZuYnNwOyAzLiZuYnNwOyBUaGVyZSBpcyBub3RoaW5nIGluIHRoZSBzZXR0aW5ncyBpbiB0aGlz
+IGNvbXB1dGVyIHdoaWNoIGFwcGVhcnMgdG8gYmFyPEJSPmFjY2VzcyB0byBhbnkgcG9ydHMgODA4
+MC4mbmJzcDsgTmV0c3RhdCBkb2VzIG5vdCBzaG93IGFueXRoaW5nIHJ1bm5pbmcgb24gYSA4MDgw
+PEJSPlNvIHZlcnkgb2RkIGluZGVlZDxCUj5BbnlvbmUgZWxzZSBzZWUgdGhpcyBiZWhhdmlvdXI/
+PEJSPlBldGVyPEJSPjxCUj48QlI+X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19f
+X19fX19fX19fX188QlI+ZG0tbCBtYWlsaW5nIGxpc3Q8QlI+ZG0tbEB1bGV0aC5jYTxCUj48QSBo
+cmVmPSJodHRwOi8vbGlzdHNlcnYudWxldGguY2EvbWFpbG1hbi9saXN0aW5mby9kbS1sIj5odHRw
+Oi8vbGlzdHNlcnYudWxldGguY2EvbWFpbG1hbi9saXN0aW5mby9kbS1sPC9BPjxCUj48L0RJVj48
+L0JPRFk+PC9IVE1MPg==

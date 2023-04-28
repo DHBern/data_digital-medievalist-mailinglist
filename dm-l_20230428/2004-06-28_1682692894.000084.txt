@@ -1,0 +1,38 @@
+Subject: [dm-l] Hacks: an example.Speaking of hacks, here is an example of what I was talking about. It is=20
+from the <www.digitalmedievalist.org> website's screen css=20
+<http://www.digitalmedievalist.org/dmlscreen.css>.b) Screen Geography
+*/div {					/* controls width and location of all blocks except div.navigation =
+and children */
+		    margin-left: 20%;
+		    max-width: 35em;
+		    top: 0;
+}
+div.navigation	{
+		margin-left: 0;
+		position: absolute;		/* position: absolute is for MSIE only; the style is r=
+emoved below */
+		top: 15px;
+		left: 4px;
+		width: 18%;
+}/* MSIE workaround */			/* This instruction hides "position:fixed" from MSIE5=
+.5~6.0 */
+body>div.navigation {
+	     position: fixed;
+}
+This is a harmless enough hack, I suspect (it would be better if the=20
+second instruction referred to "body div.navigation" to keep the two=20
+instructions exactly parallel). Currently it works; if MSIE later=20
+implements the > child rule, then it won't work for MSIE anymore, and=20
+users of MSIE will end up with scrolling navigation. I am beginning to=20
+wonder if it is not better, however, to design a sheet to the standard,=20
+and then allow users of MSIE to choose a simpler sheet if some effect=20
+doesn't work well in their browser. Comments?
+-dan--=20
+Daniel Paul O'Donnell, PhD
+Associate Professor of English
+University of Lethbridge
+Lethbridge AB T1K 3M4
+Tel. (403) 329-2377
+Fax. (403) 382-7191
+_redacted_(a)uleth.ca>
+Home Page <http://people.uleth.ca/~daniel.odonnell/>

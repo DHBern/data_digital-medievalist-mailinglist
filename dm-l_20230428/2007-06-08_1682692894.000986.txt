@@ -1,0 +1,49 @@
+Subject: Re: [dm-l] Return of JunicodeWay to go Peter. This has been and will continue to be a very useful
+resource for all of us.-danOn Fri, 2007-06-08 at 11:48 -0400, Peter Baker wrote:
+> There was a problem overnight with the SourceForge server which I ran 
+> afoul of when I tried to upload a fix of a bug (which, to tell the 
+> truth, would have affected two or three nordicists and no one else).
+> 
+> The bug is fixed now, the corrected file seems to be getting propagated 
+> to the mirrors, and Junicode users who wish to upgrade can safely go and 
+> get their files at
+> 
+> http://sourceforge.net/project/showfiles.php?group_id=158636
+> 
+> This release may be useful for people who have been waiting for 
+> additional MUFI characters (the addition of MUFI characters will be 
+> complete in the next file release). But there are also goodies here for 
+> people who use OpenType-aware applications (e.g. InDesign, XeTeX, 
+> Mellel, and to a limited extent MS Word 2003 and later--if you have 
+> enabled Windows support for International scripts).
+> 
+> Users of Mac OS X "Tiger" or later should read the Mac readme.
+> 
+> Source code freaks will find the source code posted later today or tomorrow.
+> 
+> Peter
+> 
+> 
+> _______________________________________________
+> Digital Medievalist Project
+> Homepage: http://www.digitalmedievalist.org
+> Journal (Spring 2005-): http://www.digitalmedievalist.org/journal.cfm
+> RSS (announcements) server: http://www.digitalmedievalist.org/rss/rss2.cfm
+> Wiki: http://sql.uleth.ca/dmorgwiki/index.php
+> Change membership options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+> Submit RSS announcement: http://www.digitalmedievalist.org/newitem.cfm
+_redacted_(a)uleth.ca
+> dm-l mailing list
+_redacted_(a)uleth.ca
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+-- 
+Daniel Paul O'Donnell, PhD
+Department Chair and Associate Professor of English
+Director, Digital Medievalist Project http://www.digitalmedievalist.org/
+Chair, Text Encoding Initiative http://www.tei-c.org/Department of English
+University of Lethbridge
+Lethbridge AB T1K 3M4
+Vox +1 403 329-2377
+Fax +1 403 382-7191
+_redacted_(a)uleth.ca
+WWW: http://people.uleth.ca/~daniel.odonnell/

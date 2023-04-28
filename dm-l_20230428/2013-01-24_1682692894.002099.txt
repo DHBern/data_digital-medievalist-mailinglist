@@ -1,0 +1,86 @@
+Subject: Re: [dm-l] e-sequence - a multimedia editionDear Michael, some years ago Sam Barrett (Cambridge University) for the 
+digital edition of the "Corpus Rhythmorum Musicum" (partial version in 
+www.corimu.unisi.it) has invented a kind of alphanumeric transcription of 
+neumes  and neumatic melodies that is searchable by the software and by 
+every search engine. It isn't a standard, but a practical way to encode 
+neumes.(see Neume table under Tables Menu).
+Best wishes
+Francesco Stella
+Universita di Siena----- Original Message ----- 
+_redacted_(a)jmu.edu>
+_redacted_(a)hab.de>
+_redacted_(a)unifr.ch>; 
+_redacted_(a)uni-tuebingen.de>
+Sent: Thursday, January 24, 2013 7:08 PM
+Subject: Re: [dm-l] e-sequence - a multimedia edition
+Neven and others,Last I looked MEI (and MusicXML) could not be used to handle neumes, as 
+these were pitch-based rather than sign-based.The only system for encoding neumes that I know of is Louis Barton's "Neume 
+Notation Project," which is XML based  I don't know if this is ready for 
+prime time yet.  You can find info at the following URL:http://www.scribeserver.com/medieval/'Kate Helsen and others are working on a neume transcription project (neume 
+capture from digital images) as well, although I don't know how far along 
+they are on this.  I am working on a similar project that intersects these 
+two, although progress will depend on me getting release time next year to 
+focus on this.Michael/***************************************
+ * Michael L. Norton, Ph.D.
+ * Associate Professor
+ * Dept. of Computer Science
+ * School of Music
+ * MSC 4103 / ISAT-CS #209
+ * James Madison University
+ * Harrisonburg  VA  23807
+ * 540-568-2777
+_redacted_(a)jmu.edu
+ **************************************/_redacted_(a)hab.de> wrote:> Dear Neven, dear all,
+>
+> first of all, thank you for your interest but all these questions are best 
+> addressed to the editors (Cc).
+>
+> (And I haven't got a good answer to your question: What would be the 
+> "standard" encoding for neumes today? MEI?)
+>
+> Best, Torsten
+>
+>
+> Am 24.01.2013 17:33, schrieb "Neven Jovanović":
+>> Dear Torsten,
+>>
+>> thank you for directing us towards this very interesting edition.
+>>
+>> Do you know, by any chance, why haven't the neumas been transcribed?
+>>
+>> Best,
+>>
+>> Neven
+>>
+>> Neven Jovanovic
+>> Zagreb, Croatia
+>
+>
+> -- 
+> Torsten Schassan
+> Digitale Editionen
+> Abteilung Handschriften und Sondersammlungen
+> Herzog August Bibliothek, Postfach 1364, D-38299 Wolfenbuettel
+> Tel.: +49-5331-808-130 (Fax -165), schassan {at} hab.de
+>
+> Handschriftendatenbank: http://diglib.hab.de/?db=mss
+>
+>
+> Digital Medievalist --  http://www.digitalmedievalist.org/
+> Journal: http://www.digitalmedievalist.org/journal/
+> Journal Editors: editors _AT_ digitalmedievalist.org
+> News: http://www.digitalmedievalist.org/news/
+> Wiki: http://www.digitalmedievalist.org/wiki/
+> Twitter: http://twitter.com/digitalmedieval
+> Facebook: http://www.facebook.com/group.php?gid=49320313760
+_redacted_(a)uleth.ca
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+Digital Medievalist --  http://www.digitalmedievalist.org/
+Journal: http://www.digitalmedievalist.org/journal/
+Journal Editors: editors _AT_ digitalmedievalist.org
+News: http://www.digitalmedievalist.org/news/
+Wiki: http://www.digitalmedievalist.org/wiki/
+Twitter: http://twitter.com/digitalmedieval
+Facebook: http://www.facebook.com/group.php?gidI320313760
+_redacted_(a)uleth.ca
+Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l 

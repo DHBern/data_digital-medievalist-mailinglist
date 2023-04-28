@@ -1,0 +1,90 @@
+Subject: [dm-l] Re: dm-l Digest, Vol 11, Issue 6Hi there,Responding to Dieter's post below: first I'd like 
+to thank you for your XDOM libraries, which I'm 
+beginning to use for some of my Delphi projects. Great work!I agree that scholars currently have little to 
+gain from developing tools, from the point of 
+view of their academic careers. However, there's 
+another group of individuals like me, who are 
+working in the academic context as programmers 
+and in similar roles, who do this kind of work 
+for a living. John Bradley would be another good 
+example. Our work initially got going in the 
+realm of language teaching support 
+(Computer-Assisted Language Learning), giving 
+birth to quite widely-used tools such as our Hot 
+Potatoes programs; recently, we've morphed from a 
+Language Centre into a Humanities Computing and 
+Media Centre, and our work is focused more and 
+more on HC, digital documents and encoding. Our 
+experience has been that when we release tools 
+which gain approval and acceptance, the 
+university is generally pleased and appreciative; 
+they've also helped us spin off some of our work 
+commercially, to everyone's financial benefit. 
+While individual departments and tenure 
+committees may not (yet) give much weight to this 
+kind of work, other parts of the university 
+administration are more supportive.The emergence of centres such as ours, which have 
+relatively stable workforces (as opposed to the 
+ad-hoc temporary hires associated with 
+grant-supported projects) means that tools tend 
+to be rewritten and updated steadily, which gives 
+them more credibility (Hot Potatoes is now at 
+version 6, for example, and has been out since 
+1997). This model of tool development, where a 
+centre with long-term staff creates tools for the 
+use of several projects, and maintains them over 
+time, is much more likely to be successful than 
+the case where an academic working on a 
+temporarily-funded project hires in programmers 
+to write something for a specific purpose, 
+releases it, then moves on to the next piece of 
+research, leaving the code to languish like an 
+abandoned vehicle in a field (which is what 
+"open-sourcing" a project often turns out to mean).Cheers,
+Martin
+At 09:37 AM 29/06/2005, you wrote:
+>Date: Fri, 24 Jun 2005 13:14:24 +0200
+_redacted_(a)philo.de>
+>Subject: [dm-l] Tools for humanities computing (WAS: Are markup
+>         languages obsolete?)
+_redacted_(a)uleth.ca
+_redacted_(a)pop3.philo.de>
+>Content-Type: text/plain; charset="iso-8859-1"; format=flowed
+>
+>I often think that the free "tools" aspect had been underestimated in
+>humanities computing. Of course, there exist a couple of good examples like
+>the TEI XSLT style sheets or some open source archival software etc.
+>Nevertheless, the situation is not satisfactory and I wonder what are its
+>causes and by which means it could possibly be improved.  Briefly
+>summarized the main causes, I can think of, are the following:
+>
+>- Most software development in the humanities takes place in an ad hoc
+>fashion: People have specific problems and develop specific solutions.
+>- There is a lack of institutional support for developing tools for others.
+>Tools are only by-products.
+>- If there is institutional support for developing tools for others, these
+>tools need to be sold in order to re-finance the work.
+>- It is not advisable for a scholar trying to build an academic career on
+>developing tools for humanities computing.
+>- There exists no academic infrastructure *focused* on developing tools for
+>the humanities, ie. a specific society, journal and annual conference.
+>
+>Since one of my main research interests is considered with the development
+>of tools for humanities computing, I would be very interested in the
+>opinions of others on the above list of causes. Perhaps together we could
+>find ways to improve the situation.
+>
+>Dieter Köhler
+>
+>Institute of Philosophy and
+>Centre for Multimedia Studies
+>University of Karlsruhe
+>Germany______________________________________
+Martin Holmes
+University of Victoria Humanities Computing and Media Centre
+_redacted_(a)uvic.ca
+_redacted_(a)mholmes.com
+_redacted_(a)halfbakedsoftware.com
+http://www.mholmes.com
+http://web.uvic.ca/hcmc/
+http://www.halfbakedsoftware.com

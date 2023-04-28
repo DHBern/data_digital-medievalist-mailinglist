@@ -1,0 +1,23 @@
+Subject: [dm-l] Textual Communities LaunchWe are pleased to announce today the full public release of Textual Communiti=
+es. Textual Communities is an environment for the collaborative online creati=
+on of scholarly editions.There are two public versions of Textual Communities:=C2=B7      The production version, https://textualcommunities.org=C2=B7      The sandbox version, https://textualcommunitessandbox.orgYou can create your own account on the sandbox version, and experiment with i=
+t.Textual Communities has the following distinctive features:
+=C2=B7      It is not an adaptation of any other system, but is built anew fr=
+om the ground up;=C2=B7      It understands text as a collection of leaves distributed across =
+a document tree and an entity tree. Accordingly, it can both present text pag=
+e by page (or line by line), as parts of a document tree, and it can present =
+text entity by entity, as a hierarchy of acts of eommunication  (hence, line =
+1 of the General Prologue of the Canterbury Tales), as parts of an entity tre=
+e;=C2=B7      It offers powerful collation tools, CollateX and the Collation Ed=
+itor, permitting precise tailoring of the collation of any entity in muliple =
+documents;=C2=B7      It includes tools for managing collaboration: to invite, supervis=
+e and monitor multiple collaborators;=C2=B7      It includes an IIIF image server, and can create editiable docume=
+nts from IIIF manifests;=C2=B7      It provides an API giving access to all materials through URI res=
+ource descriptors.The documentation at https://wiki.usask.ca/display/TC/Textual+Communities off=
+ers a =E2=80=9CGetting Started=E2=80=9D guide, and various other documents.We are grateful for the support of the Canada Foundation for Innovation, the =
+Social Sciences and Humanities Research Council of Canada, and the University=
+ of Saskatchewan.
+_redacted_(a)usask.caADHO conference 2018,  Mexico City, 28 June 2018.
+The text of the talk presenting Textual Communities at the ADHO conference is=
+ available at https://wiki.usask.ca/display/TC/Creating+and+Implementing+an+O=
+ntology+of+Documents+and+Texts

@@ -1,0 +1,20 @@
+Subject: [dm-l] Personal Web site maintenanceHi,Does anybody have advice on how to maintain a professional academic
+homepage--I mean the page one uses for class material, information on
+research, etc.I tend to use wikis a lot now for personal notekeeping and the like, and
+I very much like the way they work: very easy to enter new material and
+edit old material, for example. But, apart from the fact that they can
+be edited easily, Wikis are obviously more like a card catalogue than a
+structured site. You can give them structure with categories, but it
+isn't natural to them.What I'd love to find is some kind of similar system for more structured
+sets of pages: something where I could easily edit, say, the index page
+by simply calling it up, and where I could get an over view of the
+relationships of all the other pages (In general, I try to keep pages
+where they are so that I can find them again when students need to know
+what was taught in 1999; that can make things unwieldy): copy previous
+syllabi and edit the new representations, etc., preferably WYSIWIG or
+with minimal tagging.Anybody have any suggestions? I don't mind experimenting with
+server-based software (I set up and break down the wikis all the time,
+after all), though an export/publish function might be required in the
+end, as my university space is pretty much for storage I believe rather
+than running software from.Linux-based solutions are better: I think our university server is
+Redhat.Thanks in advance,-dan

@@ -1,0 +1,80 @@
+Subject: [dm-l] ACM DocEng 2015 -- Call for Papers-----------------------------------------------------------------------            *** Apologies if you receive multiple copies ***                            CALL FOR PAPERS                      Join us in Lausanne for the
+         15th ACM Symposium on Document Engineering (DocEng 2015),                         September 8-11, 2015,
+       at the Ecole Polytechnique Fédérale de Lausanne, Switzerland                       http://www.doceng2015.org-----------------------------------------------------------------------The 15th ACM Symposium on Document Engineering (DocEng 2015) seeks 
+original research papers that focus on the design, implementation, 
+development, management, use and evaluation of advanced systems where 
+documents and document collections play a key role.DocEng is a leading international forum for researchers, practitioners, 
+developers and users to explore cutting-edge ideas and to exchange 
+techniques, tools and experiences.DocEng emphasizes innovative approaches to document engineering 
+technology, use of documents and document collections in real world 
+applications, novel principles, tools and processes that improve our 
+ability to create, manage, maintain, share, and productively use these.You are invited to submit original papers to the 15th ACM Symposium on 
+Document Engineering (DocEng 2015), to be held at the Ecole 
+Polytechnique Fédérale de Lausanne, Switzerland. Attendees at this 
+international forum have interests that span all aspects of document 
+engineering and applications.DocEng is sponsored by ACM by means of the ACM SIGWEB Special Interest 
+Group. Proceedings are available through the ACM Digital Library.Symposium Chair: Christine Vanoirbeek (EPFL, Switzerland)
+Program Chair:   Pierre Genevès (CNRS, France)
+Submissions
+===========Authors are invited to submit original work in one of the following forms:* Full papers describing complete works of research (up to 10 pages)
+* Short papers describing smaller complete works of research or novel
+   challenges or visions (up to 4 pages)
+* Application notes describing systems or tools of interest (up to 4 pages)
+* Workshop/tutorial proposals: tutorials are by a domain expert and
+   introduce a current topic of interest to symposium attendees while 
+workshops provide an informal setting in which to develop vision and 
+exchange ideas in a specialized field of interest.Accepted papers will be included in the DocEng proceedings and published 
+in the ACM Digital Library.Students presenting their work at DocEng 2015 will be eligible to apply 
+for SIGWEB Student Travel Awards.
+Important dates
+===============* Mar  9, 2015: Full paper abstracts due
+* Mar 16, 2015: Full paper manuscripts due
+* Mar 16, 2015: Workshop and tutorial proposals due
+* May 21, 2015: Short papers and application notes due
+Topics relevant to the symposium include (but are not limited to) 
+=================================================================Modeling and Representation:* Document models and structures (multimedia, graphs, trees, streams,
+   Adaptive and responsive documents, probabilistic documents)
+* Document representation and standards (interchange standards, markup
+   languages, style sheets, document type representation, metadata)
+* Distributed documents
+* Collaborative documents and sharing economy
+* Document internationalization, multilingual representationsGeneration, Manipulation and Presentation:* Document authoring tools and systems
+* Document presentation (typography, formatting, layout) algorithms and
+   systems
+* Automatically generated documents, automated layout and composition,
+   variable data printing
+* Documents for mobile devices
+* Document transformationWeb Document Processing and Interaction:* Rich web applications
+* Systems and algorithms for safe and efficient document processing
+* Scalable distributed document processing
+* Linked data and semantics enrichment, linking techniques and standards
+* Automatic tagging and semantic linkingCollections, Systems and Management:* Document repositories, storage, indexing, retrieval, deduplication,
+   cleansing
+* Massive collections of documents, large-scale processing
+* Enterprise content management: models and standards, scale and 
+performance
+* Digital libraries and archives, preservation systems
+* Document system components, versioning, synchronization
+* Document systems and workflowsSecurity:* Documents and privacy
+* Secure document workflows, including policy and access
+* Security printing, including document identification, tagging and 
+meta-data
+* Cyber-physical document workflows, especially electronic/print options
+* Document access, workflow and security for mobile and printing devicesUser Experience:* Navigation, search
+* Usability, accessibility, readability and aesthetics
+* Collaborative authoring and editing, curation and annotation
+* Workflows, integration and interaction between human and automated
+   processes
+* Culture-dependent layoutsApplications:We encourage submissions about document-centric applications such as:
+* Web applications and systems
+* Mobile applications
+* Social networks
+* Education
+* Digital humanities
+* Document analysis
+* eBooks and digital publishingFor more information, please visit the conference website at:
+===  http://www.doceng2015.org  ===
+--
+Tamir Hassan
+Research Scientist, HP Laboratories
+Publicity Chair, ACM DocEng 2015

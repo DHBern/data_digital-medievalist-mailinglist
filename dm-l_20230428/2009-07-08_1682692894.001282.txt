@@ -1,0 +1,64 @@
+Subject: [dm-l] Mingana onlineDear everyone
+Today we are launching the first phase of the Virtual Manuscript Room, =20
+with full sets of digital images for 71 manuscripts from the Mingana =20
+collection (some 13000 images).  You can find the site at http://www.vmr.bham=
+.ac.uk=20
+.  Among other things, the site has images of one of the oldest copies =20
+of the Qur'an in existence, Mingana Islamic Arabic 1572, recently =20
+dated as possibly 7th century.The site has some interesting features.  Firstly, it is completely =20
+integrated with the university's institutional repository: see http://epapers=
+.bham.ac.uk/=20
+  (the manuscripts are at http://epapers.bham.ac.uk/view/series/Mingana.html)=
+=20
+.  This gives them a presence in the online catalogues, which means =20
+they can be found by Google,and also provides a secure long-term =20
+maintenance strategy.  Secondly, we developed a new image viewer, =20
+using the 'Open Layers' software.  This is not finished yet, but =20
+already offers some nice developments: it does not use Flash (it is =20
+entirely javascript based); the viewer resizes horizontally as the =20
+window resizes; it has a 'carousel' which allows you to browse =20
+thumbnails of all the manuscript pages within the viewer.  Finally, =20
+following my well-known philosophy, it is low-cost: the imaging cost =20
+around 50 pence a page; the whole cost of the site was a few pounds a =20
+page.  Note that the imaging was done a few years ago and lacks some =20
+things (rulers, colour bars) which we should now include.Enjoy!
+all the best
+Peter
+--===============8734153779440030514==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"
+MIME-Version: 1.0PGh0bWw+PGJvZHkgc3R5bGU9IndvcmQtd3JhcDogYnJlYWstd29yZDsgLXdlYmtpdC1uYnNwLW1v
+ZGU6IHNwYWNlOyAtd2Via2l0LWxpbmUtYnJlYWs6IGFmdGVyLXdoaXRlLXNwYWNlOyAiPkRlYXIg
+ZXZlcnlvbmU8ZGl2PlRvZGF5IHdlIGFyZSBsYXVuY2hpbmcgdGhlIGZpcnN0IHBoYXNlIG9mIHRo
+ZSBWaXJ0dWFsIE1hbnVzY3JpcHQgUm9vbSwgd2l0aCBmdWxsIHNldHMgb2YgZGlnaXRhbCBpbWFn
+ZXMgZm9yIDcxIG1hbnVzY3JpcHRzIGZyb20gdGhlIE1pbmdhbmEgY29sbGVjdGlvbiAoc29tZSAx
+MzAwMCBpbWFnZXMpLiAmbmJzcDtZb3UgY2FuIGZpbmQgdGhlIHNpdGUgYXQmbmJzcDs8YSBocmVm
+PSJodHRwOi8vd3d3LnZtci5iaGFtLmFjLnVrLyI+aHR0cDovL3d3dy52bXIuYmhhbS5hYy51azwv
+YT4uICZuYnNwO0Ftb25nIG90aGVyIHRoaW5ncywgdGhlIHNpdGUgaGFzIGltYWdlcyBvZiBvbmUg
+b2YgdGhlIG9sZGVzdCBjb3BpZXMgb2YgdGhlIFF1cidhbiBpbiBleGlzdGVuY2UsIE1pbmdhbmEg
+SXNsYW1pYyBBcmFiaWMgMTU3MiwgcmVjZW50bHkgZGF0ZWQgYXMgcG9zc2libHkgN3RoIGNlbnR1
+cnkuPC9kaXY+PGRpdj48YnI+PC9kaXY+PGRpdj5UaGUgc2l0ZSBoYXMgc29tZSBpbnRlcmVzdGlu
+ZyBmZWF0dXJlcy4gJm5ic3A7Rmlyc3RseSwgaXQgaXMgY29tcGxldGVseSBpbnRlZ3JhdGVkIHdp
+dGggdGhlIHVuaXZlcnNpdHkncyBpbnN0aXR1dGlvbmFsIHJlcG9zaXRvcnk6IHNlZSZuYnNwOzxh
+IGhyZWY9Imh0dHA6Ly9lcGFwZXJzLmJoYW0uYWMudWsvIj5odHRwOi8vZXBhcGVycy5iaGFtLmFj
+LnVrLzwvYT4mbmJzcDsodGhlIG1hbnVzY3JpcHRzIGFyZSBhdCZuYnNwOzxhIGhyZWY9Imh0dHA6
+Ly9lcGFwZXJzLmJoYW0uYWMudWsvdmlldy9zZXJpZXMvTWluZ2FuYS5odG1sKSI+aHR0cDovL2Vw
+YXBlcnMuYmhhbS5hYy51ay92aWV3L3Nlcmllcy9NaW5nYW5hLmh0bWwpPC9hPi4gJm5ic3A7VGhp
+cyBnaXZlcyB0aGVtIGEgcHJlc2VuY2UgaW4gdGhlIG9ubGluZSBjYXRhbG9ndWVzLCB3aGljaCBt
+ZWFucyB0aGV5IGNhbiBiZSBmb3VuZCBieSBHb29nbGUsYW5kIGFsc28gcHJvdmlkZXMgYSBzZWN1
+cmUgbG9uZy10ZXJtIG1haW50ZW5hbmNlIHN0cmF0ZWd5LiAmbmJzcDtTZWNvbmRseSwgd2UgZGV2
+ZWxvcGVkIGEgbmV3IGltYWdlIHZpZXdlciwgdXNpbmcgdGhlICdPcGVuIExheWVycycgc29mdHdh
+cmUuICZuYnNwO1RoaXMgaXMgbm90IGZpbmlzaGVkIHlldCwgYnV0IGFscmVhZHkgb2ZmZXJzIHNv
+bWUgbmljZSBkZXZlbG9wbWVudHM6IGl0IGRvZXMgbm90IHVzZSBGbGFzaCAoaXQgaXMgZW50aXJl
+bHkgamF2YXNjcmlwdCBiYXNlZCk7IHRoZSB2aWV3ZXIgcmVzaXplcyBob3Jpem9udGFsbHkgYXMg
+dGhlIHdpbmRvdyByZXNpemVzOyBpdCBoYXMgYSAnY2Fyb3VzZWwnIHdoaWNoIGFsbG93cyB5b3Ug
+dG8gYnJvd3NlIHRodW1ibmFpbHMgb2YgYWxsIHRoZSBtYW51c2NyaXB0IHBhZ2VzIHdpdGhpbiB0
+aGUgdmlld2VyLiAmbmJzcDtGaW5hbGx5LCBmb2xsb3dpbmcgbXkgd2VsbC1rbm93biBwaGlsb3Nv
+cGh5LCBpdCBpcyBsb3ctY29zdDogdGhlIGltYWdpbmcgY29zdCBhcm91bmQgNTAgcGVuY2UgYSBw
+YWdlOyB0aGUgd2hvbGUgY29zdCBvZiB0aGUgc2l0ZSB3YXMgYSBmZXcgcG91bmRzIGEgcGFnZS4g
+Jm5ic3A7Tm90ZSB0aGF0IHRoZSBpbWFnaW5nIHdhcyBkb25lIGEgZmV3IHllYXJzIGFnbyBhbmQg
+bGFja3Mgc29tZSB0aGluZ3MgKHJ1bGVycywgY29sb3VyIGJhcnMpIHdoaWNoIHdlIHNob3VsZCBu
+b3cgaW5jbHVkZS48L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2PkVuam95ITwvZGl2PjxkaXY+YWxs
+IHRoZSBiZXN0PC9kaXY+PGRpdj5QZXRlcjwvZGl2PjxkaXY+PGJyPjwvZGl2PjwvYm9keT48L2h0
+bWw+

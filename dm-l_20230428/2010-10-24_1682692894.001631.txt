@@ -1,0 +1,137 @@
+Subject: [dm-l] Session at CAA2100,	Beijing: Digging with words: e-text and  With apologies for cross postings.Submissions are invited for the session, Digging with words: e-text and 
+e-archaeology, at Computer Applications and Archaeology 2011, Beijing, 
+April 12th-16th 2011. For further details, including author guidelines 
+and submission information, please go to 
+http://www.caa2011.org/#home|default 
+<http://www.caa2011.org/#home%7Cdefault>.Deadline is *15th November 2011.*Digging with words: e-text and e-archaeologyKeywords:
+text, digital libraries, text mining, grey literatureAbstract:
+There are many complex ways in which archaeology is written about. 
+Formal publications in journals, books, site reports, so-called 'grey 
+literature', field notes, excavation daybooks, diaries and, latterly, 
+websites and blogs, all contain a collective written discourse about the 
+past, and how it is discovered. Added to this may be historical sources 
+about sites and artefacts: if excavating a site of the Classical period 
+in Greece for example, it is likely that the excavator will wish to 
+consult Classical authors such as Strabo or Thucydides. Furthermore, 
+evidence from text bearing objects such as inscriptions will heavily 
+influence the interpretation of any site at which it is found. Hitherto, 
+an excavator is likely to have accessed most secondary documentary 
+evidence via institutional libraries and catalogues, or via booksellers 
+or publishers. However, the relatively recent provision on a large scale 
+of such documentary evidence digitally --- the Perseus library at Tufts, 
+and online inscriptions corpora such as the Inscriptions of Roman 
+Cyrenaica and Inscriptions of Aphrodisias are good examples --- combined 
+with increasingly sophisticated techniques for interrogating that 
+content, and extracting information automatically, prompts us to rethink 
+the very nature of the evidence with which we can form interpretations 
+about the past. Once distinctions between text and artefact, history (or 
+philology) and archaeology were clear. Now however (for example) texts 
+can be parsed for formal units of information and databases of entities 
+built, which can then be used to underpin new knowledge or enhance 
+resource discovery. On the other hand, the bases of comparanda for 
+assessing archaeological data are becoming more widely available in 
+digital form, along with digital representations of those artefacts, 
+allowing deeper comparison and (textual) annotation. This prompts 
+questions as to how the digital medium can be used in their 
+interpretation. This session will seek to explore these distinctions by 
+bringing together archaeologists with interests in textual evidence, 
+textual scholars, historians and philologists. Themes will include, but 
+are not limited to:* Theoretical considerations of the nature of textual and archaeological 
+evidence
+* The use of standards and mark-up schemas in digitized archaeology texts
+* Text mining and parsing (especially including geoparsing), and 
+automatic entity extraction
+* Linking textual evidence with archaeological evidence using linked 
+data and semantic web technologies
+* Provision for non-Latin texts in digital libraries for archaeology, 
+with an emphasis on Chinese and other Asian scripts particularly encouraged-- 
+Dr Stuart Dunn
+Research Fellow
+Centre for e-Research
+King's College Londonwww.ahessc.ac.uk/stuart-dunnTel +44 (0)207 848 2709
+Fax +44 (0)207 848 1989
+_redacted_(a)kcl.ac.ukCentre for e-Research
+26-29 Drury Lane
+London WC2B 5RL
+UKGeohash: http://geohash.org/gcpvj1zm7yp1
+--===============3509302018122925280==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"
+MIME-Version: 1.0PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMDEgVHJhbnNpdGlvbmFs
+Ly9FTiI+CjxodG1sPgogIDxoZWFkPgoKICAgIDxtZXRhIGh0dHAtZXF1aXY9ImNvbnRlbnQtdHlw
+ZSIgY29udGVudD0idGV4dC9odG1sOyBjaGFyc2V0PUlTTy04ODU5LTEiPgogIDwvaGVhZD4KICA8
+Ym9keSBiZ2NvbG9yPSIjZmZmZmZmIiB0ZXh0PSIjMDAwMDAwIj4KICAgIFdpdGggYXBvbG9naWVz
+IGZvciBjcm9zcyBwb3N0aW5ncy48YnI+CiAgICA8YnI+CiAgICBTdWJtaXNzaW9ucyBhcmUgaW52
+aXRlZCBmb3IgdGhlIHNlc3Npb24sIERpZ2dpbmcgd2l0aCB3b3JkczogZS10ZXh0CiAgICBhbmQg
+ZS1hcmNoYWVvbG9neSwgYXQgQ29tcHV0ZXIgQXBwbGljYXRpb25zIGFuZCBBcmNoYWVvbG9neSAy
+MDExLAogICAgQmVpamluZywgQXByaWwgMTJ0aC0xNnRoIDIwMTEuIEZvciBmdXJ0aGVyIGRldGFp
+bHMsIGluY2x1ZGluZyBhdXRob3IKICAgIGd1aWRlbGluZXMgYW5kIHN1Ym1pc3Npb24gaW5mb3Jt
+YXRpb24sIHBsZWFzZSBnbyB0byA8YQogICAgICBocmVmPSJodHRwOi8vd3d3LmNhYTIwMTEub3Jn
+LyNob21lJTdDZGVmYXVsdCI+aHR0cDovL3d3dy5jYWEyMDExLm9yZy8jaG9tZXxkZWZhdWx0PC9h
+Pi48YnI+CiAgICA8YnI+CiAgICBEZWFkbGluZSBpcyA8Yj4xNXRoIE5vdmVtYmVyIDIwMTEuPC9i
+Pjxicj4KICAgIDxicj4KICAgIERpZ2dpbmcgd2l0aCB3b3JkczogZS10ZXh0IGFuZCBlLWFyY2hh
+ZW9sb2d5PGJyPgogICAgPGJyPgogICAgS2V5d29yZHM6PGJyPgogICAgdGV4dCwgZGlnaXRhbCBs
+aWJyYXJpZXMsIHRleHQgbWluaW5nLCBncmV5IGxpdGVyYXR1cmU8YnI+CiAgICA8YnI+CiAgICBB
+YnN0cmFjdDo8YnI+CiAgICBUaGVyZSBhcmUgbWFueSBjb21wbGV4IHdheXMgaW4gd2hpY2ggYXJj
+aGFlb2xvZ3kgaXMgd3JpdHRlbiBhYm91dC4KICAgIEZvcm1hbCBwdWJsaWNhdGlvbnMgaW4gam91
+cm5hbHMsIGJvb2tzLCBzaXRlIHJlcG9ydHMsIHNvLWNhbGxlZAogICAgJ2dyZXkgbGl0ZXJhdHVy
+ZScsIGZpZWxkIG5vdGVzLCBleGNhdmF0aW9uIGRheWJvb2tzLCBkaWFyaWVzIGFuZCwKICAgIGxh
+dHRlcmx5LCB3ZWJzaXRlcyBhbmQgYmxvZ3MsIGFsbCBjb250YWluIGEgY29sbGVjdGl2ZSB3cml0
+dGVuCiAgICBkaXNjb3Vyc2UgYWJvdXQgdGhlIHBhc3QsIGFuZCBob3cgaXQgaXMgZGlzY292ZXJl
+ZC4gQWRkZWQgdG8gdGhpcwogICAgbWF5IGJlIGhpc3RvcmljYWwgc291cmNlcyBhYm91dCBzaXRl
+cyBhbmQgYXJ0ZWZhY3RzOiBpZiBleGNhdmF0aW5nIGEKICAgIHNpdGUgb2YgdGhlIENsYXNzaWNh
+bCBwZXJpb2QgaW4gR3JlZWNlIGZvciBleGFtcGxlLCBpdCBpcyBsaWtlbHkKICAgIHRoYXQgdGhl
+IGV4Y2F2YXRvciB3aWxsIHdpc2ggdG8gY29uc3VsdCBDbGFzc2ljYWwgYXV0aG9ycyBzdWNoIGFz
+CiAgICBTdHJhYm8gb3IgVGh1Y3lkaWRlcy4gRnVydGhlcm1vcmUsIGV2aWRlbmNlIGZyb20gdGV4
+dCBiZWFyaW5nCiAgICBvYmplY3RzIHN1Y2ggYXMgaW5zY3JpcHRpb25zIHdpbGwgaGVhdmlseSBp
+bmZsdWVuY2UgdGhlCiAgICBpbnRlcnByZXRhdGlvbiBvZiBhbnkgc2l0ZSBhdCB3aGljaCBpdCBp
+cyBmb3VuZC4gSGl0aGVydG8sIGFuCiAgICBleGNhdmF0b3IgaXMgbGlrZWx5IHRvIGhhdmUgYWNj
+ZXNzZWQgbW9zdCBzZWNvbmRhcnkgZG9jdW1lbnRhcnkKICAgIGV2aWRlbmNlIHZpYSBpbnN0aXR1
+dGlvbmFsIGxpYnJhcmllcyBhbmQgY2F0YWxvZ3Vlcywgb3IgdmlhCiAgICBib29rc2VsbGVycyBv
+ciBwdWJsaXNoZXJzLiBIb3dldmVyLCB0aGUgcmVsYXRpdmVseSByZWNlbnQgcHJvdmlzaW9uCiAg
+ICBvbiBhIGxhcmdlIHNjYWxlIG9mIHN1Y2ggZG9jdW1lbnRhcnkgZXZpZGVuY2UgZGlnaXRhbGx5
+IC0tLSB0aGUKICAgIFBlcnNldXMgbGlicmFyeSBhdCBUdWZ0cywgYW5kIG9ubGluZSBpbnNjcmlw
+dGlvbnMgY29ycG9yYSBzdWNoIGFzCiAgICB0aGUgSW5zY3JpcHRpb25zIG9mIFJvbWFuIEN5cmVu
+YWljYSBhbmQgSW5zY3JpcHRpb25zIG9mIEFwaHJvZGlzaWFzCiAgICBhcmUgZ29vZCBleGFtcGxl
+cyAtLS0gY29tYmluZWQgd2l0aCBpbmNyZWFzaW5nbHkgc29waGlzdGljYXRlZAogICAgdGVjaG5p
+cXVlcyBmb3IgaW50ZXJyb2dhdGluZyB0aGF0IGNvbnRlbnQsIGFuZCBleHRyYWN0aW5nCiAgICBp
+bmZvcm1hdGlvbiBhdXRvbWF0aWNhbGx5LCBwcm9tcHRzIHVzIHRvIHJldGhpbmsgdGhlIHZlcnkg
+bmF0dXJlIG9mCiAgICB0aGUgZXZpZGVuY2Ugd2l0aCB3aGljaCB3ZSBjYW4gZm9ybSBpbnRlcnBy
+ZXRhdGlvbnMgYWJvdXQgdGhlIHBhc3QuCiAgICBPbmNlIGRpc3RpbmN0aW9ucyBiZXR3ZWVuIHRl
+eHQgYW5kIGFydGVmYWN0LCBoaXN0b3J5IChvciBwaGlsb2xvZ3kpCiAgICBhbmQgYXJjaGFlb2xv
+Z3kgd2VyZSBjbGVhci4gTm93IGhvd2V2ZXIgKGZvciBleGFtcGxlKSB0ZXh0cyBjYW4gYmUKICAg
+IHBhcnNlZCBmb3IgZm9ybWFsIHVuaXRzIG9mIGluZm9ybWF0aW9uIGFuZCBkYXRhYmFzZXMgb2Yg
+ZW50aXRpZXMKICAgIGJ1aWx0LCB3aGljaCBjYW4gdGhlbiBiZSB1c2VkIHRvIHVuZGVycGluIG5l
+dyBrbm93bGVkZ2Ugb3IgZW5oYW5jZQogICAgcmVzb3VyY2UgZGlzY292ZXJ5LiBPbiB0aGUgb3Ro
+ZXIgaGFuZCwgdGhlIGJhc2VzIG9mIGNvbXBhcmFuZGEgZm9yCiAgICBhc3Nlc3NpbmcgYXJjaGFl
+b2xvZ2ljYWwgZGF0YSBhcmUgYmVjb21pbmcgbW9yZSB3aWRlbHkgYXZhaWxhYmxlIGluCiAgICBk
+aWdpdGFsIGZvcm0sIGFsb25nIHdpdGggZGlnaXRhbCByZXByZXNlbnRhdGlvbnMgb2YgdGhvc2Ug
+YXJ0ZWZhY3RzLAogICAgYWxsb3dpbmcgZGVlcGVyIGNvbXBhcmlzb24gYW5kICh0ZXh0dWFsKSBh
+bm5vdGF0aW9uLiBUaGlzIHByb21wdHMKICAgIHF1ZXN0aW9ucyBhcyB0byBob3cgdGhlIGRpZ2l0
+YWwgbWVkaXVtIGNhbiBiZSB1c2VkIGluIHRoZWlyCiAgICBpbnRlcnByZXRhdGlvbi4gVGhpcyBz
+ZXNzaW9uIHdpbGwgc2VlayB0byBleHBsb3JlIHRoZXNlIGRpc3RpbmN0aW9ucwogICAgYnkgYnJp
+bmdpbmcgdG9nZXRoZXIgYXJjaGFlb2xvZ2lzdHMgd2l0aCBpbnRlcmVzdHMgaW4gdGV4dHVhbAog
+ICAgZXZpZGVuY2UsIHRleHR1YWwgc2Nob2xhcnMsIGhpc3RvcmlhbnMgYW5kIHBoaWxvbG9naXN0
+cy4gVGhlbWVzIHdpbGwKICAgIGluY2x1ZGUsIGJ1dCBhcmUgbm90IGxpbWl0ZWQgdG86PGJyPgog
+ICAgPGJyPgogICAgKiBUaGVvcmV0aWNhbCBjb25zaWRlcmF0aW9ucyBvZiB0aGUgbmF0dXJlIG9m
+IHRleHR1YWwgYW5kCiAgICBhcmNoYWVvbG9naWNhbCBldmlkZW5jZTxicj4KICAgICogVGhlIHVz
+ZSBvZiBzdGFuZGFyZHMgYW5kIG1hcmstdXAgc2NoZW1hcyBpbiBkaWdpdGl6ZWQgYXJjaGFlb2xv
+Z3kKICAgIHRleHRzPGJyPgogICAgKiBUZXh0IG1pbmluZyBhbmQgcGFyc2luZyAoZXNwZWNpYWxs
+eSBpbmNsdWRpbmcgZ2VvcGFyc2luZyksIGFuZAogICAgYXV0b21hdGljIGVudGl0eSBleHRyYWN0
+aW9uPGJyPgogICAgKiBMaW5raW5nIHRleHR1YWwgZXZpZGVuY2Ugd2l0aCBhcmNoYWVvbG9naWNh
+bCBldmlkZW5jZSB1c2luZyBsaW5rZWQKICAgIGRhdGEgYW5kIHNlbWFudGljIHdlYiB0ZWNobm9s
+b2dpZXM8YnI+CiAgICAqIFByb3Zpc2lvbiBmb3Igbm9uLUxhdGluIHRleHRzIGluIGRpZ2l0YWwg
+bGlicmFyaWVzIGZvcgogICAgYXJjaGFlb2xvZ3ksIHdpdGggYW4gZW1waGFzaXMgb24gQ2hpbmVz
+ZSBhbmQgb3RoZXIgQXNpYW4gc2NyaXB0cwogICAgcGFydGljdWxhcmx5IGVuY291cmFnZWQKICAg
+IDxwcmUgY2xhc3M9Im1vei1zaWduYXR1cmUiIGNvbHM9IjcyIj4tLSAKRHIgU3R1YXJ0IER1bm4K
+UmVzZWFyY2ggRmVsbG93CkNlbnRyZSBmb3IgZS1SZXNlYXJjaApLaW5nJ3MgQ29sbGVnZSBMb25k
+b24KCjxhIGNsYXNzPSJtb3otdHh0LWxpbmstYWJicmV2aWF0ZWQiIGhyZWY9Imh0dHA6Ly93d3cu
+YWhlc3NjLmFjLnVrL3N0dWFydC1kdW5uIj53d3cuYWhlc3NjLmFjLnVrL3N0dWFydC1kdW5uPC9h
+PgoKVGVsICs0NCAoMCkyMDcgODQ4IDI3MDkKRmF4ICs0NCAoMCkyMDcgODQ4IDE5ODkKPGEgY2xh
+c3M9Im1vei10eHQtbGluay1hYmJyZXZpYXRlZCIgaHJlZj0ibWFpbHRvOnN0dWFydC5kdW5uQGtj
+bC5hYy51ayI+c3R1YXJ0LmR1bm5Aa2NsLmFjLnVrPC9hPgoKQ2VudHJlIGZvciBlLVJlc2VhcmNo
+CjI2LTI5IERydXJ5IExhbmUKTG9uZG9uIFdDMkIgNVJMClVLCgpHZW9oYXNoOiA8YSBjbGFzcz0i
+bW96LXR4dC1saW5rLWZyZWV0ZXh0IiBocmVmPSJodHRwOi8vZ2VvaGFzaC5vcmcvZ2Nwdmoxem03
+eXAxIj5odHRwOi8vZ2VvaGFzaC5vcmcvZ2Nwdmoxem03eXAxPC9hPgo8L3ByZT4KICA8L2JvZHk+
+CjwvaHRtbD4K

@@ -1,0 +1,47 @@
+Subject: [dm-l] CfP 2nd MEDEA Workshop on "Modeling semantically EnrichedSecond MEDEA WorkshopWheaton College, Norton, Massachusetts, April 6-8, 2016Account books allow scholars to explore the development of economic
+behavior on both a macro- and micro-structural level. In our first
+workshop at the University of Regensburg in October 2015, we heard from
+scholars who have begun to explore models for digitizing such sources in
+projects in Europe and the United States. Our second workshop will
+include reports on testing of models from the first workshop as well as
+presentations by scholars new to the MEDEA project.The Text Encoding Initiative (TEI) has developed useful models to encode
+texts and digital scholarly editions, and the Semantic Web offers
+opportunities to collect and compare data from multiple digital
+projects. The MEDEA project looks at these methods with the goal of
+developing broad standards for producing semantically enriched digital
+editions of accounts. It fosters discussion of benefits and deficiencies
+in existing standards by bringing together economic historians,
+scholarly editors, and technical experts to discuss and test emerging
+methods for semantic markup of account books. For this purpose we call
+for contributions of scholars with experiences in the scholarly edition
+of historical financial records and ideas about how to use digital
+methods within this context.We invite proposals for participation in our second workshop, which will
+be held at Wheaton College in Norton, Massachusetts (USA), April 6-8,
+2016. Participants will present current research projects using data
+from historical account books, describe the encoding models of their
+projects, and share ideas for a common model. The discussions and
+examples will focus on a set of questions intended to elucidate the
+features of accounts of greatest interest to scholars. Thus the
+activities will focus on the following issues:    How might we model the economic activities recorded in these
+documents? In particular: What models of bookkeeping were followed
+historically and how can they be represented formally? Are data models
+developed for modern business reporting helpful?
+    How can we model the economic reality behind the texts? Can we
+establish common resources on metrics and currencies or even the value
+of money that can be reused in other projects? Is it possible to build
+common taxonomies of commodities and services to facilitate the
+comparison of financial information recorded at different places and
+times? That is, can we develop references on the order of name
+authorities and standards for geo-referencing?
+    How might we integrate topological information of the transcription
+with its financial interpretation? Is the “table” an appropriate method?
+What possibilities are offered by the TEI Manuscripts module and use of
+the tei:zone element?
+    How can we integrate a topological/documentary approach and the
+growing linguistic interest in the texts with the interpretations that
+economic and social historians extract from the documents?_redacted_(a)ur.de by
+January 15, 2016.The program committee will notify applicants of results no later than
+January 31, 2016.We particularly encourage proposals from early-career researchers. A
+limited budget is available to support costs of travel and accommodation.Please do not hesitate to contact us for additional information.See more details on the project and abstracts/presentations from the
+first workshop in Regensburg at http://medea.hypotheses.org/.
+--===============2017244344267987822==--

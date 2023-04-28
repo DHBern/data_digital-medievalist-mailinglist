@@ -1,0 +1,74 @@
+Subject: [dm-l] New ressource: Album interactif de =?utf-8?q?pal=C3=A9ograph?=[apologies for cross-posting]Dear list members,I am very pleased to announce a new ressource for the teaching and 
+learning of palaeography in its practical aspect, i.e. the transcription 
+of mediaeval handwriting: the /Album interactif de paléographie 
+médiévale / Interactive Album of Mediaeval Palaeography/,http://ciham.ish-lyon.cnrs.fr/paleographie/index.php?l=enThis /Album/ is a collection of interactive exercises for the 
+transcription of mediaeval manuscripts, from the Early to Late Middle 
+Ages. At the time of opening, it offers a total of 27 exercises (22 in 
+Mediaeval Latin, 5 in Old French). The exercises are self-corrective 
+(you can check the user manual here: 
+http://ciham.ish-lyon.cnrs.fr/paleographie/aide_en.php). Nota: The 
+interface of the Album is available in French and English. Only the 
+introduction to each exercise is available only in its original language 
+(French).The /Album /is proposed by the transversal programme /Digital 
+Humanities/ of the UMR 5648 - /Histoire, Archéologie, Littératures des 
+Mondes Chrétiens et Musulmans Médiévaux/ (Universités Lyon 2, Lyon 3, 
+Avignon et Pays de Vaucluse; CNRS, EHESS, ENS Lyon). This project is 
+"powered by TEI" and proudly sporting the TEI badge on the exercise 
+pages :) Some technical details here: 
+http://ciham.ish-lyon.cnrs.fr/paleographie/techinfo.php?l=enYour feedback, suggestions and comments will me much appreciated, as 
+always!
+Best wishes,-- 
+Marjorie BURGHART
+EHESS (pôle de Lyon) / UMR 5648
+Histoire et Archéologie des Mondes Chrétiens et Musulmans Médiévaux
+18 quai Claude Bernard
+69007 Lyon - FRANCE
+--===============3758997280369594703==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"
+MIME-Version: 1.0PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMDEgVHJhbnNpdGlvbmFs
+Ly9FTiI+CjxodG1sPgogIDxoZWFkPgoKICAgIDxtZXRhIGh0dHAtZXF1aXY9ImNvbnRlbnQtdHlw
+ZSIgY29udGVudD0idGV4dC9odG1sOyBjaGFyc2V0PUlTTy04ODU5LTEiPgogIDwvaGVhZD4KICA8
+Ym9keSB0ZXh0PSIjMDAwMDAwIiBiZ2NvbG9yPSIjZmZmZmZmIj4KICAgIFthcG9sb2dpZXMgZm9y
+IGNyb3NzLXBvc3RpbmddPGJyPgogICAgPGJyPgogICAgRGVhciBsaXN0IG1lbWJlcnMsIDxicj4K
+ICAgIDxicj4KICAgIEkgYW0gdmVyeSBwbGVhc2VkIHRvIGFubm91bmNlIGEgbmV3IHJlc3NvdXJj
+ZSBmb3IgdGhlIHRlYWNoaW5nIGFuZAogICAgbGVhcm5pbmcgb2YgcGFsYWVvZ3JhcGh5IGluIGl0
+cyBwcmFjdGljYWwgYXNwZWN0LCBpLmUuIHRoZQogICAgdHJhbnNjcmlwdGlvbiBvZiBtZWRpYWV2
+YWwgaGFuZHdyaXRpbmc6IHRoZSA8aT5BbGJ1bSBpbnRlcmFjdGlmIGRlCiAgICAgIHBhbCZlYWN1
+dGU7b2dyYXBoaWUgbSZlYWN1dGU7ZGkmZWFjdXRlO3ZhbGUgLyBJbnRlcmFjdGl2ZSBBbGJ1bSBv
+ZiBNZWRpYWV2YWwKICAgICAgUGFsYWVvZ3JhcGh5PC9pPiwgPGJyPgogICAgPGJyPgogICAgPGEg
+Y2xhc3M9Im1vei10eHQtbGluay1mcmVldGV4dCIKICAgICAgaHJlZj0iaHR0cDovL2NpaGFtLmlz
+aC1seW9uLmNucnMuZnIvcGFsZW9ncmFwaGllL2luZGV4LnBocD9sPWVuIj5odHRwOi8vY2loYW0u
+aXNoLWx5b24uY25ycy5mci9wYWxlb2dyYXBoaWUvaW5kZXgucGhwP2w9ZW48L2E+PGJyPgogICAg
+PGJyPgogICAgVGhpcyA8aT5BbGJ1bTwvaT4gaXMgYSBjb2xsZWN0aW9uIG9mIGludGVyYWN0aXZl
+IGV4ZXJjaXNlcyBmb3IgdGhlCiAgICB0cmFuc2NyaXB0aW9uIG9mIG1lZGlhZXZhbCBtYW51c2Ny
+aXB0cywgZnJvbSB0aGUgRWFybHkgdG8gTGF0ZQogICAgTWlkZGxlIEFnZXMuIEF0IHRoZSB0aW1l
+IG9mIG9wZW5pbmcsIGl0IG9mZmVycyBhIHRvdGFsIG9mIDI3CiAgICBleGVyY2lzZXMgKDIyIGlu
+IE1lZGlhZXZhbCBMYXRpbiwgNSBpbiBPbGQgRnJlbmNoKS4gVGhlIGV4ZXJjaXNlcwogICAgYXJl
+IHNlbGYtY29ycmVjdGl2ZSAoeW91IGNhbiBjaGVjayB0aGUgdXNlciBtYW51YWwgaGVyZTogPGEK
+ICAgICAgY2xhc3M9Im1vei10eHQtbGluay1mcmVldGV4dCIKICAgICAgaHJlZj0iaHR0cDovL2Np
+aGFtLmlzaC1seW9uLmNucnMuZnIvcGFsZW9ncmFwaGllL2FpZGVfZW4ucGhwIj5odHRwOi8vY2lo
+YW0uaXNoLWx5b24uY25ycy5mci9wYWxlb2dyYXBoaWUvYWlkZV9lbi5waHA8L2E+KS4KICAgIE5v
+dGE6IFRoZSBpbnRlcmZhY2Ugb2YgdGhlIEFsYnVtIGlzIGF2YWlsYWJsZSBpbiBGcmVuY2ggYW5k
+IEVuZ2xpc2guCiAgICBPbmx5IHRoZSBpbnRyb2R1Y3Rpb24gdG8gZWFjaCBleGVyY2lzZSBpcyBh
+dmFpbGFibGUgb25seSBpbiBpdHMKICAgIG9yaWdpbmFsIGxhbmd1YWdlIChGcmVuY2gpLiA8YnI+
+CiAgICA8YnI+CiAgICBUaGUgPGk+QWxidW0gPC9pPmlzIHByb3Bvc2VkIGJ5IHRoZSB0cmFuc3Zl
+cnNhbCBwcm9ncmFtbWUgPGk+RGlnaXRhbAoKICAgICAgSHVtYW5pdGllczwvaT4gb2YgdGhlIFVN
+UiA1NjQ4IC0gPGk+SGlzdG9pcmUsIEFyY2gmZWFjdXRlO29sb2dpZSwKICAgICAgTGl0dCZlYWN1
+dGU7cmF0dXJlcyBkZXMgTW9uZGVzIENociZlYWN1dGU7dGllbnMgZXQgTXVzdWxtYW5zIE0mZWFj
+dXRlO2RpJmVhY3V0ZTt2YXV4PC9pPgogICAgKFVuaXZlcnNpdCZlYWN1dGU7cyBMeW9uIDIsIEx5
+b24gMywgQXZpZ25vbiBldCBQYXlzIGRlIFZhdWNsdXNlOyBDTlJTLAogICAgRUhFU1MsIEVOUyBM
+eW9uKS4gVGhpcyBwcm9qZWN0IGlzICJwb3dlcmVkIGJ5IFRFSSIgYW5kIHByb3VkbHkKICAgIHNw
+b3J0aW5nIHRoZSBURUkgYmFkZ2Ugb24gdGhlIGV4ZXJjaXNlIHBhZ2VzIDopIFNvbWUgdGVjaG5p
+Y2FsCiAgICBkZXRhaWxzIGhlcmU6CiAgICA8YSBjbGFzcz0ibW96LXR4dC1saW5rLWZyZWV0ZXh0
+IiBocmVmPSJodHRwOi8vY2loYW0uaXNoLWx5b24uY25ycy5mci9wYWxlb2dyYXBoaWUvdGVjaGlu
+Zm8ucGhwP2w9ZW4iPmh0dHA6Ly9jaWhhbS5pc2gtbHlvbi5jbnJzLmZyL3BhbGVvZ3JhcGhpZS90
+ZWNoaW5mby5waHA/bD1lbjwvYT48YnI+CiAgICA8YnI+CiAgICBZb3VyIGZlZWRiYWNrLCBzdWdn
+ZXN0aW9ucyBhbmQgY29tbWVudHMgd2lsbCBtZSBtdWNoIGFwcHJlY2lhdGVkLCBhcwogICAgYWx3
+YXlzISA8YnI+CiAgICBCZXN0IHdpc2hlcywKICAgIDxwcmUgY2xhc3M9Im1vei1zaWduYXR1cmUi
+IGNvbHM9IjcyIj4tLSAKTWFyam9yaWUgQlVSR0hBUlQKRUhFU1MgKHAmb2NpcmM7bGUgZGUgTHlv
+bikgLyBVTVIgNTY0OApIaXN0b2lyZSBldCBBcmNoJmVhY3V0ZTtvbG9naWUgZGVzIE1vbmRlcyBD
+aHImZWFjdXRlO3RpZW5zIGV0IE11c3VsbWFucyBNJmVhY3V0ZTtkaSZlYWN1dGU7dmF1eAoxOCBx
+dWFpIENsYXVkZSBCZXJuYXJkCjY5MDA3IEx5b24gLSBGUkFOQ0U8L3ByZT4KICA8L2JvZHk+Cjwv
+aHRtbD4K

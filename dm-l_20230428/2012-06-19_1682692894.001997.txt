@@ -1,0 +1,234 @@
+Subject: Re: [dm-l] RE: best practice: photographc facsimile?Hi all,I'll add my perspective from working in digital libraries and from working on=
+ the St Gall Monastery Virtual Library (http://www.stgallplan.org/). Pan and =
+zoom is my preferrered viewing interface. We use zoomify in our application, =
+but just because it's our best choice right now. The biggest drawback is the =
+flashviewer. Rules out ipad and iphone users from even knowing the images exi=
+st. So we're interested in going with jpeg 2000 and we will through the islan=
+dora package soon. I'm curious to hear others findings about Jpeg2000.Best,Lisa McAulay
+Librarian for Digital Collection Development
+UCLA Digital Library Program
+http://digital.library.ucla.edu/_redacted_(a)crosswire.org> wro=
+te:> I am excited to see discussion on this topic.  We host an online repository=
+ of images, transcriptions, and collation tools for scholars doing text criti=
+cism on the New Testament.  Often, holding institutions of the ~5600 manuscri=
+pt copies will not give us permission to house digital images on our own site=
+, but insist on us feeding the images to our users from their website.  This =
+makes providing a seamless experience for our users a challenging task.
+>=20
+> Our system is composed of a suite of OpenSocial gadgets and one of those ga=
+dgets is an image viewer which provides drag to pan, wheel (or 2 fingers up/d=
+own on a mac) to zoom, brightness/contrast adjust, box annotations, and persi=
+stent URLs back to an adjusted view.  It's all javascript and requires no ser=
+ver side or extra client side components beyond the web browser and can view =
+remote URLs for pretty much any image with a link on the internet.  It's all =
+freely available for your use-- easy dropin if you're working inside an opens=
+ocial container, or we have a standalone version too which is a simple popup =
+webpage.
+>=20
+> You can try the gadget out here:
+>=20
+> http://ntvmr.uni-muenster.de/manuscript-workspace?docid=3D10001
+> (click on a thumbnail and it will load the full image)
+>=20
+> and the standalone version can be seen by clicking the permalink icon ("Emb=
+eddable External Viewer Link To This Image") to generate a return link to you=
+r view of the image.
+> (The "Discuss" button doesn't really do anything if you're not logged in, s=
+o avoid that one unless you create an account)
+>=20
+> We also have a firefox plugin which will construct the appropriate link for=
+ viewing an image in the image viewer.  You simply install the plugin, browse=
+ to any internet page with an image in which you are interested in, and then =
+on the plugin, press "Annotate".  It's crude and assumes the largest image on=
+ the page is the one you'd are interested in, but mostly does what our users =
+expect.  It can read images from some sites which use custom viewers by pieci=
+ng tiles together, but mostly the images must be simple jpg, png, gif images.
+>=20
+> Hope this is helpful.  Please feel free to contact me if you have questions,
+>=20
+> Troy
+>=20
+> Virtual Manuscript Room
+> Institut f=C3=BCr Neutestamentliche Textforschung
+>=20
+>=20
+>=20
+> On 06/19/2012 11:53 AM, Tony Harris wrote:
+>> Hi David
+>>=20
+>> This is a really good question. I came into academia with an established b=
+ackground as an digital imaging scientist and as far as I can see at the mome=
+nt, there are no real standards for image digitation or reproduction in the a=
+cademic world that can be used effectively by scholars. For example TEI says =
+a lot about how you reference your images but (unsurprisingly) doesn't attemp=
+t to give any guidance on how you get them into an appropriate resolution or =
+colour depth in the first place. JISC also give some guidance here but many o=
+f their project specifications often seem to favour 4800dpi in 24bit colour. =
+Not very helpful if (for example) you are scanning First World War black and =
+white photographs which have a relatively low lines per inch resolution (sear=
+ch for lpi to dpi calculators online) or if you are using a scanner which has=
+ a maximum optical resolution of (say) 2400dpi and everything else is interpo=
+lated resolution. These things will of course differ from project t
+> o project
+>=20
+> which is why it is so difficult to lay down accurate guidelines.
+>>=20
+>> I ran a workshop at Kalamazoo which dealt with some of these issues ('Digi=
+tal Imaging for Medievalists'). Interestingly enough I scanned and printed so=
+me conventional (pre-digital) black and white and colour photographs at vario=
+us resolutions and colour depths and not one person out of the 30 people who =
+came to the session correctly identified which ones were which out of each se=
+t. In my view, what we really need are some standards and accurate guidelines=
+ and I am researching this area at the moment. For example, not many people r=
+ealise that some pre-digital transparencies are between 2,000 and 4,000 lines=
+ resolution (lpi) which puts many digital cameras in the shade.
+>>=20
+>> Moving to your question, I think the important thing to understand is that=
+ screen resolutions are still extremely low when compared with (say) printer =
+resolutions. For example a typical laptop screen at 1024x768 is between 75dpi=
+ and 100dpi depending on the physical screen size. Many modern mobile phone/s=
+mart phone dpi tends to be around 150dpi. Of course these are all generalisat=
+ions and there are many web based calculators such as http://tiporama.com/too=
+ls/pixels_inches.html which can give you a better idea of resolution capabili=
+ty on a device by device basis. Compare that with an EPSON printer at 1440dpi=
+ horizontal resolution and you will understand and appreciate the comparison.=
+ So it is important to understand that the image you display at any one time =
+on the screen can be relatively low (for performance reasons), but the underl=
+ying source image (the original scan) needs to be high and lossless to allow =
+the best level of zoom as you move closer and closer into the page.
+> As a pal
+>=20
+> aeographer, I want to be able to see 'the big picture' (i.e. the whole page=
+) at any one time but then I also want to be able to zoom into sections of th=
+e manuscript and then down to the individual characters (without pixellation)=
+  to determine if that character really is an "S" or an "A" (palaeographers w=
+ill get the joke here). The problem with most lossy compressions is that the =
+'big picture' is great but, as you zoom in, you start to see significant degr=
+adation of the image (a by-product of the way the compression is done) which =
+gets in the way of scholarly interpretation. For example take a high resoluti=
+on TIFF image, compress it at various JPG levels and then print it full page =
+on a high resolution printer. You will find that all the samples are virtuall=
+y indistinguishable from each other until you bring out a magnifying glass an=
+d then all will become depressingly clear in terms of the drop in image quali=
+ty/fidelity at the lowest file sizes.
+>>=20
+>> As other contributors have indicated, there are various solutions (e.g. ht=
+tp://djvu.org/resources/whatisdjvu.php and Virtual Vellum) which can also hel=
+p, but the resolution, compression and colour depth of the underlying image i=
+s still key. As James implies, it is also important to select a software solu=
+tion that has longevity and is not going to disappear or change once your res=
+earch project is completed. There are a number of Flash based viewers around =
+but (as James also implies), Adobe's track record at maintaining backward com=
+patibility (and even retaining technology) has not been that great in the pas=
+t. Having said that, Adobe Flash has installations that run into at least the=
+ tens of millions so it is unlikely to disappear overnight but we all know Ap=
+ple's stance on Adobe Flash!
+>>=20
+>> So in closing, I think the most important thing to ensure, for any manuscr=
+ipt project at least, is that the underlying image is at the highest resoluti=
+on possible (lossless) and the capabilities to zoom into 'snapshots' of that =
+image are flexible in terms of the zoom factors allowed. However, the image '=
+snapshot' that gets displayed at any one time on the screen can be relatively=
+ low for optimal performance but it still needs to be an accurate subset of t=
+he original image and as a result downscaling resolution from a lossy compres=
+sed original is unlikely to work very well. As I recall, this downscaling is =
+something that Virtual Vellum does well as does Photoshop of course but to id=
+entify one of the many tools and plug-in's which operate in a similar and app=
+ropriate way for your particular needs and custom website will of course need=
+ your further research.
+>>=20
+>> Hope this helps
+>>=20
+>> Best regards
+>>=20
+>> Tony Harris
+>> Kellogg College, Oxford
+>>=20
+>> -----Original Message-----
+_redacted_(a)uleth.ca] On Behalf O=
+f Birnbaum, David J
+>> Sent: 19 June 2012 01:42
+_redacted_(a)uleth.ca
+>> Subject: [dm-l] best practice: photographc facsimile?
+>>=20
+>> Dear Digital Medievalist,
+>>=20
+>> For a couple of new Internet editions of medieval manuscripts I've procure=
+d high-resolution tiff images, which I'm publishing with a "magnifying glass"=
+ overlay. This is in a "responsive" context, so the components of the page, i=
+ncluding the images, resize to fit the window dimensions. There's a sample at:
+>>=20
+>> http://suprasliensis.obdurodon.org/pages/supr001r.html
+>>=20
+>> The current images were prepared quickly for a demo, and are not of consis=
+tent size or resolution. I would now like to go back to get this part of the =
+site up to production quality, and I would be grateful for advice about how t=
+o manage the images, an area where I don't have much (=3D any) knowledge of b=
+est practice. I'd like small image files that load quickly, and I think I don=
+'t mind slightly lossy compression if that would reduce the file size substan=
+tially--but if that's a mistake, I'd be grateful for a warning. I think there=
+ are two questions:
+>>=20
+>> 1. What's an appropriate file format and resolution (size, dpi, color dept=
+h, etc.) for the base image, the one that is displayed in full to the right o=
+f the transcription, and that resizes as the user resizes the window? Current=
+ly the image files are in jpg format and vary in size from about 2M down to 2=
+50k. I can regenerate them all at a common size, resolution, color depth, etc=
+. from the original tiffs, but I don't know whether there is any sense of bes=
+t practice concerning what that size should be. If I go the lossy route, what=
+'s a reasonable value?
+>>=20
+>> 2. What's an appropriate degree of magnification for the magnifying-glass =
+inset view? Currently the magnifying glass inset always shows the image at 20=
+0% of the actual file size (not the size of the page as displayed without mag=
+nification in the browser window!). You can see the difference by comparing, =
+say, folio 30v (about 2MB) to 284r (about 270k), where the magnification is m=
+uch greater in the former than the latter. I can set the level of magnificati=
+on anywhere I'd like, but is there any agreement about best practice here?
+>>=20
+>> By way of orientation in the question: the purpose of the full image is to=
+ allow the user to see the image conveniently alongside the transcription, ve=
+rifying any moments where our editorial judgment might appear surprising or q=
+uestionable. The point of the magnified inset is to let the user examine deta=
+ils that may not be visible at lesser magnification, such as erasures, correc=
+tions, etc. My casual impression is that 30v looks pretty good and loads reas=
+onably quickly (although quicker would be better), but I don't place great co=
+nfidence in my own casual impressions.
+>>=20
+>> Thanks,
+>>=20
+>> David
+_redacted_(a)pitt.edu
+>>=20
+>>=20
+>> Digital Medievalist --  http://www.digitalmedievalist.org/
+>> Journal: http://www.digitalmedievalist.org/journal/
+>> Journal Editors: editors _AT_ digitalmedievalist.org
+>> News: http://www.digitalmedievalist.org/news/
+>> Wiki: http://www.digitalmedievalist.org/wiki/
+>> Twitter: http://twitter.com/digitalmedieval
+>> Facebook: http://www.facebook.com/group.php?gidI320313760
+_redacted_(a)uleth.ca
+>> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>>=20
+>> Digital Medievalist --  http://www.digitalmedievalist.org/
+>> Journal: http://www.digitalmedievalist.org/journal/
+>> Journal Editors: editors _AT_ digitalmedievalist.org
+>> News: http://www.digitalmedievalist.org/news/
+>> Wiki: http://www.digitalmedievalist.org/wiki/
+>> Twitter: http://twitter.com/digitalmedieval
+>> Facebook: http://www.facebook.com/group.php?gidI320313760
+_redacted_(a)uleth.ca
+>> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>=20
+>=20
+> Digital Medievalist --  http://www.digitalmedievalist.org/
+> Journal: http://www.digitalmedievalist.org/journal/
+> Journal Editors: editors _AT_ digitalmedievalist.org
+> News: http://www.digitalmedievalist.org/news/
+> Wiki: http://www.digitalmedievalist.org/wiki/
+> Twitter: http://twitter.com/digitalmedieval
+> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+_redacted_(a)uleth.ca
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+--===============2004987560520133625==--

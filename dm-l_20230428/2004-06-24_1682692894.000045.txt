@@ -1,0 +1,501 @@
+Subject: [dm-l] Re: dm-l Digest, Vol 1, Issue 3I'm thinking about working on a project a year or two from now that 
+involves a ms facsimile, edition, etc., but in the meantime I would like to 
+know what issues to think about before I get started such as what factors 
+help determine what framework to set up or what software to use. I don't 
+want to do a whole bunch of work on something and then discover that I made 
+less than favorable decisions and have to redo a bunch of tedious work.So, I am looking forward very much to learning from the primer and from 
+lurking on this list about important concerns and solutions. I suspect I 
+will have much better questions later in the process.Carol Braun Pasternack
+English Department
+University of California
+Santa Barbara, CA 93106-3170_redacted_(a)uleth.ca wrote:> Send dm-l mailing list submissions to
+_redacted_(a)uleth.ca
+>
+> To subscribe or unsubscribe via the World Wide Web, visit
+> 	http://listserv.uleth.ca/mailman/listinfo/dm-l
+> or, via email, send a message with subject or body 'help' to
+_redacted_(a)uleth.ca
+>
+> You can reach the person managing the list at
+_redacted_(a)uleth.ca
+>
+> When replying, please edit your Subject line so it is more specific
+> than "Re: Contents of dm-l digest..."
+>
+>
+> Today's Topics:
+>
+>    1. Re: Re: Experience using Microsoft's XSLT? (Peter Boot)
+>    2. Re: Re: Experience using Microsoft's XSLT? (Lou Burnard)
+>    3. Re: Re: Manuscript-transcription correlation (Peter Baker)
+>    4. [dm-l]: Overlapping Markup SIG (WAS Experience using
+>       Microsoft's	XSLT?) (Dorothy C. Porter)
+>    5. Re: Re: Experience using Microsoft's XSLT? (Martin Holmes)
+>    6. What every digital medievalist should know? (Daniel O'Donnell)
+>    7. What would people like to see in a primer and/or series of
+>       primers? (Daniel O'Donnell)
+>    8. Fonts (Patrick Conner)
+>
+>
+> ----------------------------------------------------------------------
+>
+> Message: 1
+> Date: Wed, 23 Jun 2004 19:30:42 +0200
+_redacted_(a)xs4all.nl>
+> Subject: Re: [dm-l] Re: Experience using Microsoft's XSLT?
+_redacted_(a)uleth.ca>
+_redacted_(a)xs4all.nl>
+> Content-Type: text/plain; charset=us-ascii; format=flowed
+>
+>
+>> Given
+>> the standard XML architecture of these editions as these have evolved,
+>> whereby textual divisions are set in the content of elements but pages
+>> are marked with empty anchor elements (eg <pb/>) this is just what XSLT
+>> etc find very tricky indeed.  If you can do it (and I have not yet seen
+>> this done, though I have heard lengthy explanations of how it *might* be
+>> done) you can only do it with great difficulty with the standard tools.
+>
+> At the Constantijn Huijgens Instituut we have done this (more or less).
+> Our edition of the 'Geraardsbergse handschrift' (Geraardsbergen
+> Miscellany) is based on a TEI encoded XML file where text structure is
+> used to define the hierarchy, and pages are encoded as pb-elements
+> (milestones). Nevertheless, we present our edition on a page by page
+> basis.
+>
+> The edition is available at
+> http://www.chi.knaw.nl/epub/mvn/geraardsbergen/index.html. I'm afraid
+> everything is in Dutch right now, but from the 'Inleiding'
+> (introduction) option, the xml and xslt source files are available. The
+> edition pages can be accessed from the 'editie' (edition) or 'inhoud'
+> (contents) option. On some pages (e.g.
+> http://www.chi.knaw.nl/epub/mvn/geraardsbergen/f109r.html), there's also
+> a facsimile.
+>
+> (We'll create full facsimile-cum-transcription editions in the future;
+> this one is a book based publication, converted into digital form
+> recently).
+>
+> In the present edition, performance is not an issue, as the pages
+> contain static html. If I were to write this stylesheet again, in the
+> interest of performance and clarity, I would separate the milestone
+> handling from producing the final output. I'd use an intermediate
+> stylesheet to transform the milestone elements into full page elements
+> at the highest level of the hierarchy. These page elements would contain
+> those segments of the text, div, p (etc.) elements that the associated
+> page contains. The resulting XML file, would, I'm sure, perform
+> beautifully in a dynamic environment.
+>
+> Peter
+>
+>
+> ------------------------------
+>
+> Message: 2
+> Date: Wed, 23 Jun 2004 18:55:51 +0100
+_redacted_(a)computing-services.oxford.ac.uk>
+> Subject: Re: [dm-l] Re: Experience using Microsoft's XSLT?
+_redacted_(a)uleth.ca>
+_redacted_(a)computing-services.oxford.ac.uk>
+> Content-Type: text/plain; charset=us-ascii; format=flowed
+>
+> Martin Holmes wrote:
+>
+>> I think Peter's point is a very good one, though; in XML, one must
+>> prioritize one hierarchy over another where they overlap; if the
+>> conceptual structure is prioritized, the physical must be relegated to
+>> milestones.
+>>
+>> I think there is a long-term solution to this. I think multiple markups
+>> can exist on the same text, as long as they're in "different
+>> dimensions"; it's hard to explain, but imagine the text as a string
+>> going through space, and the markups as planes radiating out from it.
+>
+> [... snip ...]
+>
+> That's right. You can have multiple annotations on the same XML
+> structure. This technique, now generally known as "stand-off"
+> annotation, is currently quite popular in the field of linguistics, to
+> handle things like prosodic vs syntactic hierarchies.  You segment your
+> text once, and then you create as many different views of it as you
+> like. Each view constitutes a single hierarchy, and is composed of
+> pointing elements which identify how the fragments of your segmented
+> texts are to be combined in that particular hierarchy. Something like it
+> is described in the chapter of the TEI Guidelines which addresses the
+> issue of non-hierarchic structures.
+>
+> Your Shakespeare is pretty neat, by the way! How does one get to see the
+> XML source though?
+>
+> Lou
+>
+>
+>
+> ------------------------------
+>
+> Message: 3
+> Date: Wed, 23 Jun 2004 13:56:58 -0400
+_redacted_(a)virginia.edu>
+> Subject: Re: [dm-l] Re: Manuscript-transcription correlation
+_redacted_(a)uleth.ca>
+_redacted_(a)virginia.edu>
+> Content-Type: text/plain; charset=UTF-8; format=flowed
+>
+> The task Martin wants to perform is exactly the kind of thing that XSLT
+> is good at and could do easily.
+>
+> I also see Peter's point, echoed here. Until we have a markup language
+> that handles overlapping hierarchies natively, all proposed solutions
+> will be annoying in some way. Still, I have a higher opinion of the
+> abilities of XSLT than Peter does (I've been using it in font
+> development, of all things, so I look at it as pretty flexible), and
+> I'll bet it could handle the XML workarounds for overlapping hierarchies
+> such as the one proposed in the paper by Alexander Czmiel linked to by
+> James Cummings.
+>
+> But if a thing has got to perform fast, it might be best to use the XSLT
+> to create static pages or a database, or turn data from a database into
+> pages, rather than have it dynamically create pages from a large
+> underlying text.
+>
+> Peter Baker
+>
+> Martin K. Foys wrote:
+>
+>>> At 08:49 AM 23/06/2004, Peter Robinson wrote:
+>>> > If you can do it (and I have not yet seen this done,
+>>> > though I have heard lengthy explanations of how it *might* be done)
+>>> > you can
+>>> > only do it with great difficulty with the standard tools.  The
+>>> > problem here
+>>> > is our old bugbear overlapping hierarchies, and XSLT etc just don't
+>>> > have any
+>>> > easy answer to this -- and maybe no reliable answer at all.
+>>>
+>>
+>> I have not worked with XSLT, so this might seem like a naive question,
+>> but is it possible to write a bridge program to copy text from a
+>> specific starting tag to an ending tag, create a new file for just
+>> that text, and then display that file next to the MS image?
+>>  ~ Martin Foys
+>>
+>> ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+>>
+>> Martin K. Foys
+>> Assistant Professor
+>> Department of English
+>> Hood College
+>> Frederick, MD 21701
+>>
+>> vox: 301~696~3740
+>> fax: 301~696~3586
+_redacted_(a)hood.edu
+>>
+>> Bayeux Tapestry Digital Edition: http://www.sd-editions.com
+>>
+>> _______________________________________________
+>> dm-l mailing list
+_redacted_(a)uleth.ca
+>> http://listserv.uleth.ca/mailman/listinfo/dm-l
+>>
+>>
+>
+>
+>
+> ------------------------------
+>
+> Message: 4
+> Date: Wed, 23 Jun 2004 15:01:30 -0400
+_redacted_(a)uky.edu>
+> Subject: [dm-l]: Overlapping Markup SIG (WAS Experience using
+> 	Microsoft's	XSLT?)
+_redacted_(a)uleth.ca
+_redacted_(a)uky.edu>
+> Content-Type: text/plain; charset="UTF-8"
+>
+> Hello All,
+>
+> At last year's Text Encoding Initiative (TEI) Member's Meeting, I (along
+> with Peter Robinson, and Patrick Durusau of the Society for Biblical
+> Literature) convened a Special Interest Group on Overlapping Markup
+> issues. We haven't done very much since then, unfortunately, but Patrick
+> and I are slowly working on a web page that will highlight various
+> different approaches to dealing with overlapping markup and conflicting
+> hierarchies. I'll post an announcement here when the page goes live -
+> it's good to see that folks are so interested in this problem!
+>
+> There is also an overlapping markup listserv, to join go to
+> http://listserv.brown.edu/tei-ol-sig.html. (Also, if you're interested in
+> reading the report from last year's meeting, you can find it here:
+> http://www.tei-c.org.uk/Activities/SIG/Overlap/olm01.txt)
+>
+> Many thanks to Daniel et. al. for putting this listserv together!
+>
+> Dot Porter
+>
+>
+> ***************************************
+> Dorothy Carr Porter, Program Coordinator
+> Collaboratory for Research in Computing for Humanities
+> University of Kentucky
+> 351 William T. Young Library
+> Lexington, KY  40506
+>
+_redacted_(a)uky.edu          859-257-9549
+> ***************************************
+>
+>
+> ------------------------------
+>
+> Message: 5
+> Date: Wed, 23 Jun 2004 12:14:03 -0700
+_redacted_(a)uvic.ca>
+> Subject: Re: [dm-l] Re: Experience using Microsoft's XSLT?
+_redacted_(a)uleth.ca>
+_redacted_(a)pop.uvic.ca>
+> Content-Type: text/plain; charset="us-ascii"; format=flowed
+>
+> Hi there,
+>
+> At 10:55 AM 23/06/2004, you wrote:
+>> Content-Transfer-Encoding: 7bit
+>>
+>> Martin Holmes wrote:
+>>
+>>> I think Peter's point is a very good one, though; in XML, one must
+>>> prioritize one hierarchy over another where they overlap; if the
+>>> conceptual structure is prioritized, the physical must be relegated to
+>>> milestones.
+>>> I think there is a long-term solution to this. I think multiple markups
+>>> can exist on the same text, as long as they're in "different
+>>> dimensions";  it's hard to explain, but imagine the text as a string
+>>> going through  space, and the markups as planes radiating out from it.
+>>
+>> [... snip ...]
+>>
+>> That's right. You can have multiple annotations on the same XML
+>> structure.  This technique, now generally known as "stand-off"
+>> annotation, is  currently quite popular in the field of linguistics, to
+>> handle things like  prosodic vs syntactic hierarchies.  You segment your
+>> text once, and then  you create as many different views of it as you
+>> like. Each view  constitutes a single hierarchy, and is composed of
+>> pointing elements which  identify how the fragments of your segmented
+>> texts are to be combined in  that particular hierarchy. Something like
+>> it is described in the chapter  of the TEI Guidelines which addresses
+>> the issue of non-hierarchic structures.
+>
+> Sounds like exactly what I was thinking of. Do you know what kind of
+> markup  tools are used to edit texts in this way?
+>
+>
+>> Your Shakespeare is pretty neat, by the way! How does one get to see the
+>> XML source though?
+>
+> If you "View Source", you'll see something like this:
+>
+> <docroot href="AWW_F_ISE.xml"></docroot>
+>
+> where the href is the actual markup document. I use the "wrapper
+> document"  as a way to avoid hard-coding the XSL stylesheet into the
+> original markup.  The markup in this case is a proprietary system created
+> by Mike Best, the  prof involved, but TEI versions of the markup have
+> subsequently been  generated from it.
+>
+> Cheers,
+> Martin
+>
+> ______________________________________
+> Martin Holmes
+> University of Victoria Humanities Computing and Media Centre
+_redacted_(a)uvic.ca
+_redacted_(a)mholmes.com
+_redacted_(a)halfbakedsoftware.com
+> http://www.mholmes.com
+> http://web.uvic.ca/hcmc/
+> http://www.halfbakedsoftware.com
+>
+>
+>
+> ------------------------------
+>
+> Message: 6
+> Date: Wed, 23 Jun 2004 13:46:52 -0600
+_redacted_(a)uleth.ca>
+> Subject: [dm-l] What every digital medievalist should know?
+_redacted_(a)uleth.ca
+_redacted_(a)uleth.ca>
+> Content-Type: text/plain; charset=us-ascii; format=flowed
+>
+> As part of our (coming) website, we are thinking of including working
+> paper, guidelines, project reports, etc. Something I'd like to see is a
+> version of Jim Marchand's What Every Medievalist Should Know (WEMSK) on
+> medtext for scholars working with digital media. Obviously "a primer for
+> working with computers" is too broad; but perhaps some kind of topic by
+> topic discussion of important issues one should know about.
+>
+> Does anybody know of a good community-focussed digital primer that might
+> serve as a model (e.g. perhaps aimed at teachers or some similar group)?
+> This idea is still in its early stages. My preference would be for
+> something developed through the community as a whole.
+>
+> -dan
+>
+> --
+> Daniel Paul O'Donnell, PhD
+> Associate Professor of English
+> University of Lethbridge
+> Lethbridge AB T1K 3M4
+> Tel. (403) 329-2377
+> Fax. (403) 382-7191
+_redacted_(a)uleth.ca>
+> Home Page <http://people.uleth.ca/~daniel.odonnell/>
+>
+>
+>
+>
+>
+> ------------------------------
+>
+> Message: 7
+> Date: Wed, 23 Jun 2004 16:14:25 -0600
+_redacted_(a)uleth.ca>
+> Subject: [dm-l] What would people like to see in a primer and/or
+> 	series of	primers?
+_redacted_(a)uleth.ca
+_redacted_(a)uleth.ca>
+> Content-Type: text/plain; charset=us-ascii; format=flowed
+>
+> I've had a couple of off line responses to my question about a primer.
+> This might be a good opportunity for participants at all levels of
+> expertise to mention the types of thing they wish they knew (had known)
+> in starting or completing various projects.
+>
+> It is important in a community like this that members not feel
+> intimidated about raising simple questions or problems as well as
+> complex or advanced. Don't be afraid to say what you think for the list
+> as a whole!
+>
+> Cheers.
+> -dan
+>
+> --
+> Daniel Paul O'Donnell, PhD
+> Associate Professor of English
+> University of Lethbridge
+> Lethbridge AB T1K 3M4
+> Tel. (403) 329-2377
+> Fax. (403) 382-7191
+_redacted_(a)uleth.ca>
+> Home Page <http://people.uleth.ca/~daniel.odonnell/>
+>
+>
+>
+>
+>
+> ------------------------------
+>
+> Message: 8
+> Date: Wed, 23 Jun 2004 21:01:57 -0400
+_redacted_(a)wvu.edu>
+> Subject: [dm-l] Fonts
+_redacted_(a)uleth.ca>
+_redacted_(a)WVUGW01.wvu.edu>
+> Content-Type: text/plain; charset=US-ASCII
+>
+>  . .  And damned fine fonts they are.
+>
+> I'm hoping that, down the line, Peter, you'll keep us up to date on
+> here regarding unicode and other font development.  Can you tell me
+> whether MS-Word in its newest Macintosh iteration can run Junicode
+> smoothly?
+>
+> --pat
+>
+> Patrick W. Conner, Director
+> West Virginia University Press
+> P.O. Box 6295, West Virginia Univ.
+> Morgantown, WV 26506-6295
+>
+> ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+>    Voice: 304.293.8400 x491
+>    Fax: 304.293.5380
+_redacted_(a)wvu.edu
+>    Web page: www.wvupress.com
+>
+_redacted_(a)virginia.edu - 6/23/04 1:56 PM >>>
+> [cut]
+>
+> Still, I have a higher opinion of the
+> abilities of XSLT than Peter does (I've been using it in font
+> development, of all things, so I look at it as pretty flexible), and
+> I'll bet it could handle the XML workarounds for overlapping
+> hierarchies
+> such as the one proposed in the paper by Alexander Czmiel linked to by
+>
+> James Cummings.
+>
+> [cut]
+>
+> Peter Baker
+>
+> Martin K. Foys wrote:
+>
+>>> At 08:49 AM 23/06/2004, Peter Robinson wrote:
+>>> > If you can do it (and I have not yet seen this done,
+>>> > though I have heard lengthy explanations of how it *might* be done)
+>
+>>> > you can
+>>> > only do it with great difficulty with the standard tools.  The
+>>> > problem here
+>>> > is our old bugbear overlapping hierarchies, and XSLT etc just don't
+>
+>>> > have any
+>>> > easy answer to this -- and maybe no reliable answer at all.
+>>>
+>>
+>> I have not worked with XSLT, so this might seem like a naive
+> question,
+>> but is it possible to write a bridge program to copy text from a
+>> specific starting tag to an ending tag, create a new file for just
+>> that text, and then display that file next to the MS image?
+>>  ~ Martin Foys
+>>
+>> ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+>>
+>> Martin K. Foys
+>> Assistant Professor
+>> Department of English
+>> Hood College
+>> Frederick, MD 21701
+>>
+>> vox: 301~696~3740
+>> fax: 301~696~3586
+_redacted_(a)hood.edu
+>>
+>> Bayeux Tapestry Digital Edition: http://www.sd-editions.com
+>>
+>> _______________________________________________
+>> dm-l mailing list
+_redacted_(a)uleth.ca
+>> http://listserv.uleth.ca/mailman/listinfo/dm-l
+>>
+>>
+>
+>
+> _______________________________________________
+> dm-l mailing list
+_redacted_(a)uleth.ca
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+>
+>
+> ------------------------------
+>
+> _______________________________________________
+> dm-l mailing list
+_redacted_(a)uleth.ca
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+>
+>
+> End of dm-l Digest, Vol 1, Issue 3
+> **********************************
+--===============2513287477949983524==--

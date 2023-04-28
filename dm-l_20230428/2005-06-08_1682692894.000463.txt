@@ -1,0 +1,24 @@
+Subject: Re: [dm-l] [Fwd: Fwd: Re: timelines]I sent this message to Medtext-l this morning, but it's of interest to this l=
+ist, too. I've never used HEML, but it looks neat:Take a look at the Historical Event Markup and Linking Project (http://www.he=
+ml.org/). The stated goal of HEML is "to define XML elements that expose and =
+outline historical events asserted in documents across the web and to parse a=
+nd display these elements in interesting and useful ways." It's a markup syst=
+em, not software, and you'd probably have to use some XML editing software to=
+ create your HEML documents, rather than any HEML-specific software, but it d=
+oes appear to enable linking to digital objects using the <Evidence> element.=
+=20HEML is designed to be combined with other markup languages, so if you alread=
+y have your information in some form of XML (a TEI list, for example) you can=
+ add HEML markup on top of that using the heml: namespace.HEML also requires XSLT and/or SVG for viewing.=20This may be more or less than what you need, but check out the example files.=
+ They're pretty cool.Dot-----Original Message-----
+_redacted_(a)uleth.ca>
+_redacted_(a)uleth.ca
+Date: Wed, 08 Jun 2005 00:06:26 -0600
+Subject: [dm-l] [Fwd: Fwd: Re: timelines]Forwarded from Medtext-l. Does anybody know an answer?
+***************************************
+Dorothy Carr Porter, Program Coordinator
+Collaboratory for Research in Computing for Humanities
+University of Kentucky
+351 William T. Young Library
+Lexington, KY  40506_redacted_(a)uky.edu          859-257-9549
+***************************************
+--===============5782300285494279187==--

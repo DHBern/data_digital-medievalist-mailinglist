@@ -1,0 +1,24 @@
+Subject: Re: [dm-l] TEI/XML manuscript markup initiatives?Roberto Rosselli Del Turco wrote:
+> Hi all,
+> while I fully agree with James about the excellent Manuscript
+> Description module (and other goodies in TEI P5), I can't but point out
+> that there currently is a deep imbalance between manuscript
+> *description* and manuscript *transcription* features in TEI P4/P5. The
+> MS transcription SIG was going to deal with lots of interesting stuff
+> (time based encoding, substitution/variation issues, revision of the
+> transcription chapter, etc.) but discussion seems to have stopped (at
+> least on the mailing list, I also wonder if there was a SIG meeting in
+> 2005 like in 2003-04).
+> 
+> I would be very keen to see a restart of the SIG activities. As quite a
+> few people mentioned their specific solutions to MS transcription
+> problems, I also think it could be interesting to collect and compare
+> this information to see what could be used/adapted/useful for
+> inspiration for TEI P5.I, of course, must in turn agree with Roberto there is certainly room for
+improvement in the areas he mentions.  Perhaps the right place to collect and
+compare this information would be on a page off the TEI wiki's MSS SIG page at
+http://www.tei-c.org.uk/wiki/index.php/SIG:MSS-James
+-- 
+Dr James Cummings, Oxford Text Archive, University of Oxford
+James dot Cummings at oucs dot ox dot ac dot uk
+--===============8131098173814375070==--

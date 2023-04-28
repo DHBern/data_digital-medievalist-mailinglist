@@ -1,0 +1,115 @@
+Subject: [dm-l] UCLDH seminar: From Busa to Word Formation. Working onA UCLDH seminar that will be of interest to many on this list.*Eleonora Litta (Università Cattolica del Sacro Cuore, Milan)**'From Busa to Word Formation. Working on language resources for Latin 
+in Milan'**
+**5:30 Wednesday 8th March**
+**Room 132, first floor, Foster Court, UCL, Malet Place, LONDON, WC1E 7JE *CIRCSE 
+<http://centridiricerca.unicatt.it/circse-home?rdeLocaleAttr=en>is a 
+pluri- and interdisciplinary research centre at the Università Cattolica 
+del Sacro Cuore <http://www.ucsc.it/>(Milan, Italy). The main research 
+interests of the centre are in the field of natural language processing 
+and information extraction from written language texts in electronic 
+form. Originally founded by padre Roberto Busa, pioneer of computational 
+linguistics on Latin textual material, the centre now hosts the Index 
+Thomisticus Treebank <http://itreebank.marginalia.it/>, and other 
+resources connected to it, and the morphological analyser and lemmatiser 
+LEMLAT <http://www.ilc.cnr.it/lemlat/lemlat/index.html>, together with 
+its brand-new spin-off, the Word Formation Latin (WFL) 
+<http://wfl.marginalia.it/> lexicon.Word Formation Latin is a derivational morphology resource for Latin 
+that has received funding from the European Union’s Horizon 2020 
+research and innovation programme, under the Marie Sklodowska-Curie 
+grant agreement No 658332-WFL. The contents of WFL are lexical items 
+(lemmas) related on the basis of word formation rules (WFRs). For 
+example, lemmas amo (‘to love) and amator (‘lover’) are connected by a 
+relationship that describes a change from a verb to a noun through the 
+addition of a suffix that in itself bears semantic information: agent 
+and instrumental suffix -tor.The seminar will give a brief tour of what goes on in Milan before 
+looking in more detail at how derivational morphology information can be 
+crucial for the enrichment of NLP resources for Latin, how the WFL 
+lexicon came to be, what it looks like, and how scholars and enthusiasts 
+of Latin can use it for their research.All welcome and there will be drinks and discussion after the talk. 
+Please note that registration 
+<https://ucldhseminarlitta.eventbrite.co.uk> is required.
+      SpeakerEleonora Litta <http://docenti.unicatt.it/ita/eleonora_maria_litta/> has 
+an MA in Medieval Studies from University College London, and a PhD in 
+Classics and Latin Philology at King's College London. Her interests lie 
+especially in historical linguistics, Classics and Germanic Philology, 
+with special emphasis on the development of digital language resources, 
+text analysis, corpus linguistics and computational linguistics. She 
+worked for seven years as a lead analyst at the Department of Digital 
+Humanities, King’s College London, before being awarded a Marie 
+Skłodowska-Curie Research fellowship to develop a new digital resource 
+for Latin, at the Università Cattolica del Sacro Cuore in Milan, Italy.
+-- 
+-------------------------------------------
+--===============5557970440761198048==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"
+MIME-Version: 1.0PGh0bWw+CiAgPGhlYWQ+CgogICAgPG1ldGEgaHR0cC1lcXVpdj0iY29udGVudC10eXBlIiBjb250
+ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9dXRmLTgiPgogIDwvaGVhZD4KICA8Ym9keSBiZ2NvbG9y
+PSIjRkZGRkZGIiB0ZXh0PSIjMDAwMDAwIj4KICAgIDxwPkEgVUNMREggc2VtaW5hciB0aGF0IHdp
+bGwgYmUgb2YgaW50ZXJlc3QgdG8gbWFueSBvbiB0aGlzIGxpc3QuPC9wPgogICAgPHA+PGI+RWxl
+b25vcmEgTGl0dGEgKFVuaXZlcnNpdMOgIENhdHRvbGljYSBkZWwgU2Fjcm8gQ3VvcmUsIE1pbGFu
+KTwvYj48L3A+CiAgICA8cD48Yj4nRnJvbSBCdXNhIHRvIFdvcmQgRm9ybWF0aW9uLiBXb3JraW5n
+IG9uIGxhbmd1YWdlIHJlc291cmNlcwogICAgICAgIGZvciBMYXRpbiBpbiBNaWxhbic8L2I+PGI+
+PGJyPgogICAgICA8L2I+PC9wPgogICAgPGI+NTozMCBXZWRuZXNkYXkgOHRoIE1hcmNoPC9iPjxi
+Pjxicj4KICAgIDwvYj48Yj5Sb29tIDEzMiwgZmlyc3QgZmxvb3IsIEZvc3RlciBDb3VydCwgVUNM
+LCBNYWxldCBQbGFjZSwKICAgICAgTE9ORE9OLCBXQzFFIDdKRSA8L2I+PGJyPgogICAgPHAgY2xh
+c3M9InAiPiA8YQogICAgICAgIGhyZWY9Imh0dHA6Ly9jZW50cmlkaXJpY2VyY2EudW5pY2F0dC5p
+dC9jaXJjc2UtaG9tZT9yZGVMb2NhbGVBdHRyPWVuIgogICAgICAgIHRhcmdldD0iX3NlbGYiPkNJ
+UkNTRSA8L2E+aXMgYSBwbHVyaS0gYW5kIGludGVyZGlzY2lwbGluYXJ5CiAgICAgIHJlc2VhcmNo
+IGNlbnRyZSBhdCB0aGUgPGEgaHJlZj0iaHR0cDovL3d3dy51Y3NjLml0LyIKICAgICAgICB0YXJn
+ZXQ9Il9ibGFuayI+VW5pdmVyc2l0w6AgQ2F0dG9saWNhIGRlbCBTYWNybyBDdW9yZSA8L2E+KE1p
+bGFuLAogICAgICBJdGFseSkuIFRoZSBtYWluIHJlc2VhcmNoIGludGVyZXN0cyBvZiB0aGUgY2Vu
+dHJlIGFyZSBpbiB0aGUgZmllbGQKICAgICAgb2YgbmF0dXJhbCBsYW5ndWFnZSBwcm9jZXNzaW5n
+IGFuZCBpbmZvcm1hdGlvbiBleHRyYWN0aW9uIGZyb20KICAgICAgd3JpdHRlbiBsYW5ndWFnZSB0
+ZXh0cyBpbiBlbGVjdHJvbmljIGZvcm0uIE9yaWdpbmFsbHkgZm91bmRlZCBieQogICAgICBwYWRy
+ZSBSb2JlcnRvIEJ1c2EsIHBpb25lZXIgb2YgY29tcHV0YXRpb25hbCBsaW5ndWlzdGljcyBvbiBM
+YXRpbgogICAgICB0ZXh0dWFsIG1hdGVyaWFsLCB0aGUgY2VudHJlIG5vdyBob3N0cyB0aGUgPGEK
+ICAgICAgICBocmVmPSJodHRwOi8vaXRyZWViYW5rLm1hcmdpbmFsaWEuaXQvIiB0YXJnZXQ9Il9i
+bGFuayI+SW5kZXgKICAgICAgICBUaG9taXN0aWN1cyBUcmVlYmFuazwvYT4sIGFuZCBvdGhlciBy
+ZXNvdXJjZXMgY29ubmVjdGVkIHRvIGl0LAogICAgICBhbmQgdGhlIG1vcnBob2xvZ2ljYWwgYW5h
+bHlzZXIgYW5kIGxlbW1hdGlzZXIgPGEKICAgICAgICBocmVmPSJodHRwOi8vd3d3LmlsYy5jbnIu
+aXQvbGVtbGF0L2xlbWxhdC9pbmRleC5odG1sIgogICAgICAgIHRhcmdldD0iX2JsYW5rIj5MRU1M
+QVQ8L2E+LCB0b2dldGhlciB3aXRoIGl0cyBicmFuZC1uZXcKICAgICAgc3Bpbi1vZmYsIHRoZSA8
+YSBocmVmPSJodHRwOi8vd2ZsLm1hcmdpbmFsaWEuaXQvIiB0YXJnZXQ9Il9ibGFuayI+V29yZAog
+ICAgICAgIEZvcm1hdGlvbiBMYXRpbiAoV0ZMKTwvYT4gbGV4aWNvbi4gPC9wPgogICAgPHAgY2xh
+c3M9InAiPldvcmQgRm9ybWF0aW9uIExhdGluIGlzIGEgZGVyaXZhdGlvbmFsIG1vcnBob2xvZ3kK
+ICAgICAgcmVzb3VyY2UgZm9yIExhdGluIHRoYXQgaGFzIHJlY2VpdmVkIGZ1bmRpbmcgZnJvbSB0
+aGUgRXVyb3BlYW4KICAgICAgVW5pb27igJlzIEhvcml6b24gMjAyMCByZXNlYXJjaCBhbmQgaW5u
+b3ZhdGlvbiBwcm9ncmFtbWUsIHVuZGVyIHRoZQogICAgICBNYXJpZSBTa2xvZG93c2thLUN1cmll
+IGdyYW50IGFncmVlbWVudCBObyA2NTgzMzItV0ZMLiBUaGUgY29udGVudHMKICAgICAgb2YgV0ZM
+IGFyZSBsZXhpY2FsIGl0ZW1zIChsZW1tYXMpIHJlbGF0ZWQgb24gdGhlIGJhc2lzIG9mIHdvcmQK
+ICAgICAgZm9ybWF0aW9uIHJ1bGVzIChXRlJzKS4gRm9yIGV4YW1wbGUsIGxlbW1hcyBhbW8gKOKA
+mHRvIGxvdmUpIGFuZAogICAgICBhbWF0b3IgKOKAmGxvdmVy4oCZKSBhcmUgY29ubmVjdGVkIGJ5
+IGEgcmVsYXRpb25zaGlwIHRoYXQgZGVzY3JpYmVzIGEKICAgICAgY2hhbmdlIGZyb20gYSB2ZXJi
+IHRvIGEgbm91biB0aHJvdWdoIHRoZSBhZGRpdGlvbiBvZiBhIHN1ZmZpeCB0aGF0CiAgICAgIGlu
+IGl0c2VsZiBiZWFycyBzZW1hbnRpYyBpbmZvcm1hdGlvbjogYWdlbnQgYW5kIGluc3RydW1lbnRh
+bAogICAgICBzdWZmaXggLXRvci48L3A+CiAgICA8cCBjbGFzcz0icCI+VGhlIHNlbWluYXIgd2ls
+bCBnaXZlIGEgYnJpZWYgdG91ciBvZiB3aGF0IGdvZXMgb24gaW4KICAgICAgTWlsYW4gYmVmb3Jl
+IGxvb2tpbmcgaW4gbW9yZSBkZXRhaWwgYXQgaG93IGRlcml2YXRpb25hbCBtb3JwaG9sb2d5CiAg
+ICAgIGluZm9ybWF0aW9uIGNhbiBiZSBjcnVjaWFsIGZvciB0aGUgZW5yaWNobWVudCBvZiBOTFAg
+cmVzb3VyY2VzIGZvcgogICAgICBMYXRpbiwgaG93IHRoZSBXRkwgbGV4aWNvbiBjYW1lIHRvIGJl
+LCB3aGF0IGl0IGxvb2tzIGxpa2UsIGFuZCBob3cKICAgICAgc2Nob2xhcnMgYW5kIGVudGh1c2lh
+c3RzIG9mIExhdGluIGNhbiB1c2UgaXQgZm9yIHRoZWlyIHJlc2VhcmNoLjwvcD4KICAgIDxwIGNs
+YXNzPSJwIj5BbGwgd2VsY29tZSBhbmQgdGhlcmUgd2lsbCBiZSBkcmlua3MgYW5kIGRpc2N1c3Np
+b24KICAgICAgYWZ0ZXIgdGhlIHRhbGsuIFBsZWFzZSBub3RlIHRoYXQgPGEKICAgICAgICBocmVm
+PSJodHRwczovL3VjbGRoc2VtaW5hcmxpdHRhLmV2ZW50YnJpdGUuY28udWsiIHRhcmdldD0iX3Nl
+bGYiPnJlZ2lzdHJhdGlvbjwvYT4KICAgICAgaXMgcmVxdWlyZWQuPGJyPgogICAgPC9wPgogICAg
+PGgzIGNsYXNzPSJoZWFkaW5nIj5TcGVha2VyPC9oMz4KICAgIDxwIGNsYXNzPSJwIj48YQogICAg
+ICAgIGhyZWY9Imh0dHA6Ly9kb2NlbnRpLnVuaWNhdHQuaXQvaXRhL2VsZW9ub3JhX21hcmlhX2xp
+dHRhLyIKICAgICAgICB0YXJnZXQ9Il9ibGFuayI+RWxlb25vcmEgTGl0dGE8L2E+IGhhcyBhbiBN
+QSBpbiBNZWRpZXZhbCBTdHVkaWVzCiAgICAgIGZyb20gVW5pdmVyc2l0eSBDb2xsZWdlIExvbmRv
+biwgYW5kIGEgUGhEIGluIENsYXNzaWNzIGFuZCBMYXRpbgogICAgICBQaGlsb2xvZ3kgYXQgS2lu
+ZydzIENvbGxlZ2UgTG9uZG9uLiBIZXIgaW50ZXJlc3RzIGxpZSBlc3BlY2lhbGx5CiAgICAgIGlu
+IGhpc3RvcmljYWwgbGluZ3Vpc3RpY3MsIENsYXNzaWNzIGFuZCBHZXJtYW5pYyBQaGlsb2xvZ3ks
+IHdpdGgKICAgICAgc3BlY2lhbCBlbXBoYXNpcyBvbiB0aGUgZGV2ZWxvcG1lbnQgb2YgZGlnaXRh
+bCBsYW5ndWFnZSByZXNvdXJjZXMsCiAgICAgIHRleHQgYW5hbHlzaXMsIGNvcnB1cyBsaW5ndWlz
+dGljcyBhbmQgY29tcHV0YXRpb25hbCBsaW5ndWlzdGljcy4KICAgICAgU2hlIHdvcmtlZCBmb3Ig
+c2V2ZW4geWVhcnMgYXMgYSBsZWFkIGFuYWx5c3QgYXQgdGhlIERlcGFydG1lbnQgb2YKICAgICAg
+RGlnaXRhbCBIdW1hbml0aWVzLCBLaW5n4oCZcyBDb2xsZWdlIExvbmRvbiwgYmVmb3JlIGJlaW5n
+IGF3YXJkZWQgYQogICAgICBNYXJpZSBTa8WCb2Rvd3NrYS1DdXJpZSBSZXNlYXJjaCBmZWxsb3dz
+aGlwIHRvIGRldmVsb3AgYSBuZXcKICAgICAgZGlnaXRhbCByZXNvdXJjZSBmb3IgTGF0aW4sIGF0
+IHRoZSBVbml2ZXJzaXTDoCBDYXR0b2xpY2EgZGVsIFNhY3JvCiAgICAgIEN1b3JlIGluIE1pbGFu
+LCBJdGFseS48L3A+CiAgICA8YnI+CiAgICA8cHJlIGNsYXNzPSJtb3otc2lnbmF0dXJlIiBjb2xz
+PSI3MiI+LS0gCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCjwv
+cHJlPgogIDwvYm9keT4KPC9odG1sPgo=

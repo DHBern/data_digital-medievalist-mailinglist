@@ -1,0 +1,47 @@
+Subject: Re: [dm-l] Mac helpOn (1), I use command-line SVN so I have no advice on that (though AFAIR ther=
+e's nothing Tortoise-like for OS X). The things I found with a Google search =
+are the same things you will have found and I have no experience with them.But on (2), the happy news is that this Unicode navigator is built into the O=
+S and is one of my favorite ways to browse Unicode. In System Preferences->La=
+nguage & Text->Input Sources, simply check two boxes: "Keyboard & Character V=
+iewer" at the top of the input method list on the left, and "Show Input menu =
+in menu bar" at the bottom right. Then whenever you need a Unicode character,=
+ select "Show Character Viewer" from the input menubar. By default it browses=
+ by human-readable script/glyph categories that do not exactly correspond to =
+the Unicode code tables, but changing the "View:" mode to "Code Tables" you c=
+an see the familiar ranges like "20D0 Combining Mark for Symbols; 2100 Letter=
+like Symbols" etc. You can also search by a string match against the long Uni=
+code name, or by similar shapes.O.On Feb 6, 2011, at 3:02 PM, O'Donnell, Dan wrote:
+>=20
+> 2) Unicode navigator--is there a standard code point navigator for Mac? Alm=
+ost right away we're going to have her putting in some greek and mathematical=
+ symbols in an article: is there a utility for browsing and search code point=
+s?PGh0bWw+PGhlYWQ+PC9oZWFkPjxib2R5IHN0eWxlPSJ3b3JkLXdyYXA6IGJyZWFrLXdvcmQ7IC13
+ZWJraXQtbmJzcC1tb2RlOiBzcGFjZTsgLXdlYmtpdC1saW5lLWJyZWFrOiBhZnRlci13aGl0ZS1z
+cGFjZTsgIj5PbiAoMSksIEkgdXNlIGNvbW1hbmQtbGluZSBTVk4gc28gSSBoYXZlIG5vIGFkdmlj
+ZSBvbiB0aGF0ICh0aG91Z2ggQUZBSVIgdGhlcmUncyBub3RoaW5nIFRvcnRvaXNlLWxpa2UgZm9y
+IE9TIFgpLiBUaGUgdGhpbmdzIEkgZm91bmQgd2l0aCBhIEdvb2dsZSBzZWFyY2ggYXJlIHRoZSBz
+YW1lIHRoaW5ncyB5b3Ugd2lsbCBoYXZlIGZvdW5kIGFuZCBJIGhhdmUgbm8gZXhwZXJpZW5jZSB3
+aXRoIHRoZW0uPGRpdj48YnI+PC9kaXY+PGRpdj5CdXQgb24gKDIpLCB0aGUgaGFwcHkgbmV3cyBp
+cyB0aGF0IHRoaXMgVW5pY29kZSBuYXZpZ2F0b3IgaXMgYnVpbHQgaW50byB0aGUgT1MgYW5kIGlz
+IG9uZSBvZiBteSBmYXZvcml0ZSB3YXlzIHRvIGJyb3dzZSBVbmljb2RlLiBJbiBTeXN0ZW0gUHJl
+ZmVyZW5jZXMtJmd0O0xhbmd1YWdlICZhbXA7IFRleHQtJmd0O0lucHV0IFNvdXJjZXMsIHNpbXBs
+eSBjaGVjayB0d28gYm94ZXM6ICJLZXlib2FyZCAmYW1wOyBDaGFyYWN0ZXIgVmlld2VyIiBhdCB0
+aGUgdG9wIG9mIHRoZSBpbnB1dCBtZXRob2QgbGlzdCBvbiB0aGUgbGVmdCwgYW5kICJTaG93IElu
+cHV0IG1lbnUgaW4gbWVudSBiYXIiIGF0IHRoZSBib3R0b20gcmlnaHQuIFRoZW4gd2hlbmV2ZXIg
+eW91IG5lZWQgYSBVbmljb2RlIGNoYXJhY3Rlciwgc2VsZWN0ICJTaG93IENoYXJhY3RlciBWaWV3
+ZXIiIGZyb20gdGhlIGlucHV0IG1lbnViYXIuIEJ5IGRlZmF1bHQgaXQgYnJvd3NlcyBieSBodW1h
+bi1yZWFkYWJsZSBzY3JpcHQvZ2x5cGggY2F0ZWdvcmllcyB0aGF0IGRvIG5vdCBleGFjdGx5IGNv
+cnJlc3BvbmQgdG8gdGhlIFVuaWNvZGUgY29kZSB0YWJsZXMsIGJ1dCBjaGFuZ2luZyB0aGUgIlZp
+ZXc6IiBtb2RlIHRvICJDb2RlIFRhYmxlcyIgeW91IGNhbiBzZWUgdGhlIGZhbWlsaWFyIHJhbmdl
+cyBsaWtlICIyMEQwIENvbWJpbmluZyBNYXJrIGZvciBTeW1ib2xzOyAyMTAwIExldHRlcmxpa2Ug
+U3ltYm9scyIgZXRjLiBZb3UgY2FuIGFsc28gc2VhcmNoIGJ5IGEgc3RyaW5nIG1hdGNoIGFnYWlu
+c3QgdGhlIGxvbmcgVW5pY29kZSBuYW1lLCBvciBieSBzaW1pbGFyIHNoYXBlcy48L2Rpdj48ZGl2
+Pjxicj48L2Rpdj48ZGl2Pk8uPC9kaXY+PGRpdj48YnI+PGRpdj48ZGl2Pk9uIEZlYiA2LCAyMDEx
+LCBhdCAzOjAyIFBNLCBPJ0Rvbm5lbGwsIERhbiB3cm90ZTo8L2Rpdj48YmxvY2txdW90ZSB0eXBl
+PSJjaXRlIj48ZGl2Pjxmb250IGNsYXNzPSJBcHBsZS1zdHlsZS1zcGFuIiBjb2xvcj0iIzAwMDAw
+MCI+PGJyPjwvZm9udD4yKSBVbmljb2RlIG5hdmlnYXRvci0taXMgdGhlcmUgYSBzdGFuZGFyZCBj
+b2RlIHBvaW50IG5hdmlnYXRvciBmb3IgTWFjPyBBbG1vc3QgcmlnaHQgYXdheSB3ZSdyZSBnb2lu
+ZyB0byBoYXZlIGhlciBwdXR0aW5nIGluIHNvbWUgZ3JlZWsgYW5kIG1hdGhlbWF0aWNhbCBzeW1i
+b2xzIGluIGFuIGFydGljbGU6IGlzIHRoZXJlIGEgdXRpbGl0eSBmb3IgYnJvd3NpbmcgYW5kIHNl
+YXJjaCBjb2RlIHBvaW50cz88L2Rpdj48L2Jsb2NrcXVvdGU+PC9kaXY+PC9kaXY+PC9ib2R5Pjwv
+aHRtbD4=

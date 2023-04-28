@@ -1,0 +1,19 @@
+Subject: Re: [dm-l] Text Editor for Tagging Arabic Texts_redacted_(a)umich.edu> wrote:> 1.  (*) text/plain          ( ) text/html          =20
+>
+> Dear all,
+>
+> I wonder if anyone can help me with the following problem. I am tagging
+> Arabic texts (classical Arabic sources, mostly biographical dictionaries and
+> chronicles) to be converted into XML format for the following analysis.
+> Currently I am doing that in MS Word 2007, which, despite all improvements,
+> does not handle long text files well and crashes from time to time. I was
+> desperately trying to find a good alternative, but did not succeed so far. =
+If you switch to Linux, than you can definitely do almost everything
+with Emacs 24:    http://www.m17n.org/emacs-bidi/I don't know the status of the MS Windows ports of Emacs.Best regardsJSB--=20
+                           ,  =20
+Prof. dr hab. Janusz S. Bien -  Uniwersytet Warszawski (Katedra Lingwistyki F=
+ormalnej)
+Prof. Janusz S. Bien - University of Warsaw (Formal Linguistics Department)
+_redacted_(a)mimuw.edu.pl, http://fleksem.klf.uw.edu.pl/~jsbi=
+en/
+--===============4906005672692322559==--

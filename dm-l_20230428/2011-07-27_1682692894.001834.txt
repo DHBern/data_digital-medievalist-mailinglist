@@ -1,0 +1,253 @@
+Subject: RE: [dm-l] Help with embedded imagesI maybe should have put a time-line filter on my googling: I thought somethin=
+g was up when the code all came back uppercase and without quotation marks on=
+ the attributes ;) It really felt like 1993.I'll try this out tomorrow. The idea of complete URLs actually does work: the=
+ trouble is that it has to go through many local machines for proofing before=
+ there will be an absolute URL, and I don't like the idea of switching URLs o=
+n approved proofs.Daniel Paul O'Donnell, PhD
+Professor of English
+University of Lethbridge
+Lethbridge AB T1K 3M4
+Canada-----Original Message-----
+_redacted_(a)uleth.ca on behalf of Andrew Dunning
+Sent: Wed 2011-07-27 21:57
+To: dm-l, MailList
+Subject: Re: [dm-l] Help with embedded images
+=20
+Dear Prof. O'Donnell,This doesn't directly address your problem, but should get you around
+it entirely: using the <video> tag, it's now possible to embed video
+in a page without using the QuickTime plug-in. There's an excellent
+discussion of this at <http://diveintohtml5.org/video.html>. There are
+also pre-made video players using this technique at
+<http://videojs.com/>, <http://mediaelementjs.com/>, and
+<http://www.jplayer.org/>. In addition to having a working video
+player, your video should be more compatible with future browsers, and
+will also work on mobile devices.Hope that helps,Andrew Dunning
+PhD Student
+Collaborative Program in Editing Medieval Texts
+Centre for Medieval Studies
+University of TorontoOn Wed, Jul 27, 2011 at 9:53 PM, O'Donnell, Dan
+_redacted_(a)uleth.ca> wrote:
+>
+> Hi all,
+>
+> I have a pretty basic HTML question, I think.
+>
+> I want to embed a couple of MP4 videos in an HTML file. Using something lik=
+e the following code, I can do this relatively easily:
+>
+> <div class=3D"figure" id=3D"d0e690">
+> =C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 <object classid=3D"clsid:02BF25D5-8C17-4B23-=
+BC80-D3488ABDDC6B" codebase=3D"http://www.apple.com/qtactivex/qtplugin.cab" h=
+eight=3D"480" width=3D"640">
+> =C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 <param name=3D"src" value=
+=3D"Pictures/Movie1.m4v"/>
+> =C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 <param name=3D"autoplay" v=
+alue=3D"true"/>
+> =C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 <embed src=3D"Pictures/Mov=
+ie1.m4v" type=3D"image/x-macpaint" pluginspage=3D"http://www.apple.com/quickt=
+ime/download" autoplay=3D"true" height=3D"480" width=3D"640">
+> =C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 </object>
+> =C2=A0=C2=A0 </div>
+>
+> The trouble is that Movie1 is 30 odd megabytes and there are other movies i=
+n the file. So I'd rather use a place holder. Googling around I discovered th=
+at the recommended way of doing this is to make a 1 frame movie saying someth=
+ing like "click on me" which you put on the src attribute, and then you add a=
+n href attribute with the name of the "real" movie. If you add target=3D"_sel=
+f" it is supposed to replace the place holder with the longer movie. This wou=
+ld be the code:
+>
+> <div class=3D"figure" id=3D"d0e690">
+> =C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 <object classid=3D"clsid:02BF25D5-8C17-4B23-=
+BC80-D3488ABDDC6B" codebase=3D"http://www.apple.com/qtactivex/qtplugin.cab" h=
+eight=3D"480" width=3D"640" href=3D"Pictures/Movie1.m4v" target=3D"_self">
+> =C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 <param name=3D"src" value=
+=3D"Pictures/Movie1poster.m4v"/>
+> =C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 <param name=3D"autoplay" v=
+alue=3D"true"/>
+> =C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 <embed src=3D"Pictures/Mov=
+ie1poster.m4v" type=3D"image/x-macpaint" pluginspage=3D"http://www.apple.com/=
+quicktime/download" autoplay=3D"true" height=3D"480" width=3D"640" href=3D"Pi=
+ctures/Movie1.m4v" target=3D"_self"/>
+> =C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 </object>
+> =C2=A0=C2=A0 </div>
+>
+> The problem is that Firefox at any rate seems to understand the src attribu=
+te as a base URL. If I click on the player and copy the URL that is produced =
+or look at it in a full screen, Firefox is looking for the href video at
+>
+> Pictures/Movie1poster.m4v/Pictures/Movie1.m4v
+>
+> instead of
+>
+> Pictures/Movie1.m4v
+>
+> I've tried everything I can think of to get around this: moved the files in=
+to the root directory of the page, added ../ to the href to try and get it to=
+ back up a directory. Nothing seems to work. Since this is a very common thin=
+g on the internet, I must be doing something stupid. Does anybody know how to=
+ do it?
+> --
+> Daniel Paul O'Donnell, PhD
+> Professor of English, University of Lethbridge
+> Co-President, Society for Digital Humanities/Soci=C3=A9t=C3=A9 pour l'=C3=
+=A9tude des m=C3=A9dias interactifs
+> Co-Editor, Digital Studies/Le champ num=C3=A9rique
+> Founding Editor, Digital Medievalist
+> Digital Medievalist -- =C2=A0http://www.digitalmedievalist.org/
+> Journal: http://www.digitalmedievalist.org/journal/
+> Journal Editors: editors _AT_ digitalmedievalist.org
+> News: http://www.digitalmedievalist.org/news/
+> Wiki: http://www.digitalmedievalist.org/wiki/
+> Twitter: http://twitter.com/digitalmedieval
+> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+_redacted_(a)uleth.ca
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-lDigital Medievalist --  http://www.digitalmedievalist.org/
+Journal: http://www.digitalmedievalist.org/journal/
+Journal Editors: editors _AT_ digitalmedievalist.org
+News: http://www.digitalmedievalist.org/news/
+Wiki: http://www.digitalmedievalist.org/wiki/
+Twitter: http://twitter.com/digitalmedieval
+Facebook: http://www.facebook.com/group.php?gidI320313760
+_redacted_(a)uleth.ca
+Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+--===============2886499667023786575==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"
+MIME-Version: 1.0PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDMuMi8vRU4iPgo8SFRNTD4K
+PEhFQUQ+CjxNRVRBIEhUVFAtRVFVSVY9IkNvbnRlbnQtVHlwZSIgQ09OVEVOVD0idGV4dC9odG1s
+OyBjaGFyc2V0PWlzby04ODU5LTEiPgo8TUVUQSBOQU1FPSJHZW5lcmF0b3IiIENPTlRFTlQ9Ik1T
+IEV4Y2hhbmdlIFNlcnZlciB2ZXJzaW9uIDYuNS43NjU0LjEyIj4KPFRJVExFPlJFOiBbZG0tbF0g
+SGVscCB3aXRoIGVtYmVkZGVkIGltYWdlczwvVElUTEU+CjwvSEVBRD4KPEJPRFk+CjwhLS0gQ29u
+dmVydGVkIGZyb20gdGV4dC9wbGFpbiBmb3JtYXQgLS0+Cgo8UD48Rk9OVCBTSVpFPTI+SSBtYXli
+ZSBzaG91bGQgaGF2ZSBwdXQgYSB0aW1lLWxpbmUgZmlsdGVyIG9uIG15IGdvb2dsaW5nOiBJIHRo
+b3VnaHQgc29tZXRoaW5nIHdhcyB1cCB3aGVuIHRoZSBjb2RlIGFsbCBjYW1lIGJhY2sgdXBwZXJj
+YXNlIGFuZCB3aXRob3V0IHF1b3RhdGlvbiBtYXJrcyBvbiB0aGUgYXR0cmlidXRlcyA7KSBJdCBy
+ZWFsbHkgZmVsdCBsaWtlIDE5OTMuPEJSPgo8QlI+CkknbGwgdHJ5IHRoaXMgb3V0IHRvbW9ycm93
+LiBUaGUgaWRlYSBvZiBjb21wbGV0ZSBVUkxzIGFjdHVhbGx5IGRvZXMgd29yazogdGhlIHRyb3Vi
+bGUgaXMgdGhhdCBpdCBoYXMgdG8gZ28gdGhyb3VnaCBtYW55IGxvY2FsIG1hY2hpbmVzIGZvciBw
+cm9vZmluZyBiZWZvcmUgdGhlcmUgd2lsbCBiZSBhbiBhYnNvbHV0ZSBVUkwsIGFuZCBJIGRvbid0
+IGxpa2UgdGhlIGlkZWEgb2Ygc3dpdGNoaW5nIFVSTHMgb24gYXBwcm92ZWQgcHJvb2ZzLjxCUj4K
+PEJSPgpEYW5pZWwgUGF1bCBPJ0Rvbm5lbGwsIFBoRDxCUj4KUHJvZmVzc29yIG9mIEVuZ2xpc2g8
+QlI+ClVuaXZlcnNpdHkgb2YgTGV0aGJyaWRnZTxCUj4KTGV0aGJyaWRnZSBBQiBUMUsgM000PEJS
+PgpDYW5hZGE8QlI+CjxCUj4KPEJSPgo8QlI+Ci0tLS0tT3JpZ2luYWwgTWVzc2FnZS0tLS0tPEJS
+PgpGcm9tOiBkbS1sLWJvdW5jZXNAdWxldGguY2Egb24gYmVoYWxmIG9mIEFuZHJldyBEdW5uaW5n
+PEJSPgpTZW50OiBXZWQgMjAxMS0wNy0yNyAyMTo1NzxCUj4KVG86IGRtLWwsIE1haWxMaXN0PEJS
+PgpTdWJqZWN0OiBSZTogW2RtLWxdIEhlbHAgd2l0aCBlbWJlZGRlZCBpbWFnZXM8QlI+CjxCUj4K
+RGVhciBQcm9mLiBPJ0Rvbm5lbGwsPEJSPgo8QlI+ClRoaXMgZG9lc24ndCBkaXJlY3RseSBhZGRy
+ZXNzIHlvdXIgcHJvYmxlbSwgYnV0IHNob3VsZCBnZXQgeW91IGFyb3VuZDxCUj4KaXQgZW50aXJl
+bHk6IHVzaW5nIHRoZSAmbHQ7dmlkZW8mZ3Q7IHRhZywgaXQncyBub3cgcG9zc2libGUgdG8gZW1i
+ZWQgdmlkZW88QlI+CmluIGEgcGFnZSB3aXRob3V0IHVzaW5nIHRoZSBRdWlja1RpbWUgcGx1Zy1p
+bi4gVGhlcmUncyBhbiBleGNlbGxlbnQ8QlI+CmRpc2N1c3Npb24gb2YgdGhpcyBhdCAmbHQ7PEEg
+SFJFRj0iaHR0cDovL2RpdmVpbnRvaHRtbDUub3JnL3ZpZGVvLmh0bWwiPmh0dHA6Ly9kaXZlaW50
+b2h0bWw1Lm9yZy92aWRlby5odG1sPC9BPiZndDsuIFRoZXJlIGFyZTxCUj4KYWxzbyBwcmUtbWFk
+ZSB2aWRlbyBwbGF5ZXJzIHVzaW5nIHRoaXMgdGVjaG5pcXVlIGF0PEJSPgombHQ7PEEgSFJFRj0i
+aHR0cDovL3ZpZGVvanMuY29tLyI+aHR0cDovL3ZpZGVvanMuY29tLzwvQT4mZ3Q7LCAmbHQ7PEEg
+SFJFRj0iaHR0cDovL21lZGlhZWxlbWVudGpzLmNvbS8iPmh0dHA6Ly9tZWRpYWVsZW1lbnRqcy5j
+b20vPC9BPiZndDssIGFuZDxCUj4KJmx0OzxBIEhSRUY9Imh0dHA6Ly93d3cuanBsYXllci5vcmcv
+Ij5odHRwOi8vd3d3LmpwbGF5ZXIub3JnLzwvQT4mZ3Q7LiBJbiBhZGRpdGlvbiB0byBoYXZpbmcg
+YSB3b3JraW5nIHZpZGVvPEJSPgpwbGF5ZXIsIHlvdXIgdmlkZW8gc2hvdWxkIGJlIG1vcmUgY29t
+cGF0aWJsZSB3aXRoIGZ1dHVyZSBicm93c2VycywgYW5kPEJSPgp3aWxsIGFsc28gd29yayBvbiBt
+b2JpbGUgZGV2aWNlcy48QlI+CjxCUj4KSG9wZSB0aGF0IGhlbHBzLDxCUj4KPEJSPgpBbmRyZXcg
+RHVubmluZzxCUj4KUGhEIFN0dWRlbnQ8QlI+CkNvbGxhYm9yYXRpdmUgUHJvZ3JhbSBpbiBFZGl0
+aW5nIE1lZGlldmFsIFRleHRzPEJSPgpDZW50cmUgZm9yIE1lZGlldmFsIFN0dWRpZXM8QlI+ClVu
+aXZlcnNpdHkgb2YgVG9yb250bzxCUj4KPEJSPgpPbiBXZWQsIEp1bCAyNywgMjAxMSBhdCA5OjUz
+IFBNLCBPJ0Rvbm5lbGwsIERhbjxCUj4KJmx0O2RhbmllbC5vZG9ubmVsbEB1bGV0aC5jYSZndDsg
+d3JvdGU6PEJSPgomZ3Q7PEJSPgomZ3Q7IEhpIGFsbCw8QlI+CiZndDs8QlI+CiZndDsgSSBoYXZl
+IGEgcHJldHR5IGJhc2ljIEhUTUwgcXVlc3Rpb24sIEkgdGhpbmsuPEJSPgomZ3Q7PEJSPgomZ3Q7
+IEkgd2FudCB0byBlbWJlZCBhIGNvdXBsZSBvZiBNUDQgdmlkZW9zIGluIGFuIEhUTUwgZmlsZS4g
+VXNpbmcgc29tZXRoaW5nIGxpa2UgdGhlIGZvbGxvd2luZyBjb2RlLCBJIGNhbiBkbyB0aGlzIHJl
+bGF0aXZlbHkgZWFzaWx5OjxCUj4KJmd0OzxCUj4KJmd0OyAmbHQ7ZGl2IGNsYXNzPSZxdW90O2Zp
+Z3VyZSZxdW90OyBpZD0mcXVvdDtkMGU2OTAmcXVvdDsmZ3Q7PEJSPgomZ3Q7IKCgoKCgICZsdDtv
+YmplY3QgY2xhc3NpZD0mcXVvdDtjbHNpZDowMkJGMjVENS04QzE3LTRCMjMtQkM4MC1EMzQ4OEFC
+RERDNkImcXVvdDsgY29kZWJhc2U9JnF1b3Q7PEEgSFJFRj0iaHR0cDovL3d3dy5hcHBsZS5jb20v
+cXRhY3RpdmV4L3F0cGx1Z2luLmNhYiI+aHR0cDovL3d3dy5hcHBsZS5jb20vcXRhY3RpdmV4L3F0
+cGx1Z2luLmNhYjwvQT4mcXVvdDsgaGVpZ2h0PSZxdW90OzQ4MCZxdW90OyB3aWR0aD0mcXVvdDs2
+NDAmcXVvdDsmZ3Q7PEJSPgomZ3Q7IKCgoKCgoKCgICZsdDtwYXJhbSBuYW1lPSZxdW90O3NyYyZx
+dW90OyB2YWx1ZT0mcXVvdDtQaWN0dXJlcy9Nb3ZpZTEubTR2JnF1b3Q7LyZndDs8QlI+CiZndDsg
+oKCgoKCgoKAgJmx0O3BhcmFtIG5hbWU9JnF1b3Q7YXV0b3BsYXkmcXVvdDsgdmFsdWU9JnF1b3Q7
+dHJ1ZSZxdW90Oy8mZ3Q7PEJSPgomZ3Q7IKCgoKCgoKCgICZsdDtlbWJlZCBzcmM9JnF1b3Q7UGlj
+dHVyZXMvTW92aWUxLm00diZxdW90OyB0eXBlPSZxdW90O2ltYWdlL3gtbWFjcGFpbnQmcXVvdDsg
+cGx1Z2luc3BhZ2U9JnF1b3Q7PEEgSFJFRj0iaHR0cDovL3d3dy5hcHBsZS5jb20vcXVpY2t0aW1l
+L2Rvd25sb2FkIj5odHRwOi8vd3d3LmFwcGxlLmNvbS9xdWlja3RpbWUvZG93bmxvYWQ8L0E+JnF1
+b3Q7IGF1dG9wbGF5PSZxdW90O3RydWUmcXVvdDsgaGVpZ2h0PSZxdW90OzQ4MCZxdW90OyB3aWR0
+aD0mcXVvdDs2NDAmcXVvdDsmZ3Q7PEJSPgomZ3Q7IKCgoKCgICZsdDsvb2JqZWN0Jmd0OzxCUj4K
+Jmd0OyCgoCAmbHQ7L2RpdiZndDs8QlI+CiZndDs8QlI+CiZndDsgVGhlIHRyb3VibGUgaXMgdGhh
+dCBNb3ZpZTEgaXMgMzAgb2RkIG1lZ2FieXRlcyBhbmQgdGhlcmUgYXJlIG90aGVyIG1vdmllcyBp
+biB0aGUgZmlsZS4gU28gSSdkIHJhdGhlciB1c2UgYSBwbGFjZSBob2xkZXIuIEdvb2dsaW5nIGFy
+b3VuZCBJIGRpc2NvdmVyZWQgdGhhdCB0aGUgcmVjb21tZW5kZWQgd2F5IG9mIGRvaW5nIHRoaXMg
+aXMgdG8gbWFrZSBhIDEgZnJhbWUgbW92aWUgc2F5aW5nIHNvbWV0aGluZyBsaWtlICZxdW90O2Ns
+aWNrIG9uIG1lJnF1b3Q7IHdoaWNoIHlvdSBwdXQgb24gdGhlIHNyYyBhdHRyaWJ1dGUsIGFuZCB0
+aGVuIHlvdSBhZGQgYW4gaHJlZiBhdHRyaWJ1dGUgd2l0aCB0aGUgbmFtZSBvZiB0aGUgJnF1b3Q7
+cmVhbCZxdW90OyBtb3ZpZS4gSWYgeW91IGFkZCB0YXJnZXQ9JnF1b3Q7X3NlbGYmcXVvdDsgaXQg
+aXMgc3VwcG9zZWQgdG8gcmVwbGFjZSB0aGUgcGxhY2UgaG9sZGVyIHdpdGggdGhlIGxvbmdlciBt
+b3ZpZS4gVGhpcyB3b3VsZCBiZSB0aGUgY29kZTo8QlI+CiZndDs8QlI+CiZndDsgJmx0O2RpdiBj
+bGFzcz0mcXVvdDtmaWd1cmUmcXVvdDsgaWQ9JnF1b3Q7ZDBlNjkwJnF1b3Q7Jmd0OzxCUj4KJmd0
+OyCgoKCgoCAmbHQ7b2JqZWN0IGNsYXNzaWQ9JnF1b3Q7Y2xzaWQ6MDJCRjI1RDUtOEMxNy00QjIz
+LUJDODAtRDM0ODhBQkREQzZCJnF1b3Q7IGNvZGViYXNlPSZxdW90OzxBIEhSRUY9Imh0dHA6Ly93
+d3cuYXBwbGUuY29tL3F0YWN0aXZleC9xdHBsdWdpbi5jYWIiPmh0dHA6Ly93d3cuYXBwbGUuY29t
+L3F0YWN0aXZleC9xdHBsdWdpbi5jYWI8L0E+JnF1b3Q7IGhlaWdodD0mcXVvdDs0ODAmcXVvdDsg
+d2lkdGg9JnF1b3Q7NjQwJnF1b3Q7IGhyZWY9JnF1b3Q7UGljdHVyZXMvTW92aWUxLm00diZxdW90
+OyB0YXJnZXQ9JnF1b3Q7X3NlbGYmcXVvdDsmZ3Q7PEJSPgomZ3Q7IKCgoKCgoKCgICZsdDtwYXJh
+bSBuYW1lPSZxdW90O3NyYyZxdW90OyB2YWx1ZT0mcXVvdDtQaWN0dXJlcy9Nb3ZpZTFwb3N0ZXIu
+bTR2JnF1b3Q7LyZndDs8QlI+CiZndDsgoKCgoKCgoKAgJmx0O3BhcmFtIG5hbWU9JnF1b3Q7YXV0
+b3BsYXkmcXVvdDsgdmFsdWU9JnF1b3Q7dHJ1ZSZxdW90Oy8mZ3Q7PEJSPgomZ3Q7IKCgoKCgoKCg
+ICZsdDtlbWJlZCBzcmM9JnF1b3Q7UGljdHVyZXMvTW92aWUxcG9zdGVyLm00diZxdW90OyB0eXBl
+PSZxdW90O2ltYWdlL3gtbWFjcGFpbnQmcXVvdDsgcGx1Z2luc3BhZ2U9JnF1b3Q7PEEgSFJFRj0i
+aHR0cDovL3d3dy5hcHBsZS5jb20vcXVpY2t0aW1lL2Rvd25sb2FkIj5odHRwOi8vd3d3LmFwcGxl
+LmNvbS9xdWlja3RpbWUvZG93bmxvYWQ8L0E+JnF1b3Q7IGF1dG9wbGF5PSZxdW90O3RydWUmcXVv
+dDsgaGVpZ2h0PSZxdW90OzQ4MCZxdW90OyB3aWR0aD0mcXVvdDs2NDAmcXVvdDsgaHJlZj0mcXVv
+dDtQaWN0dXJlcy9Nb3ZpZTEubTR2JnF1b3Q7IHRhcmdldD0mcXVvdDtfc2VsZiZxdW90Oy8mZ3Q7
+PEJSPgomZ3Q7IKCgoKCgICZsdDsvb2JqZWN0Jmd0OzxCUj4KJmd0OyCgoCAmbHQ7L2RpdiZndDs8
+QlI+CiZndDs8QlI+CiZndDsgVGhlIHByb2JsZW0gaXMgdGhhdCBGaXJlZm94IGF0IGFueSByYXRl
+IHNlZW1zIHRvIHVuZGVyc3RhbmQgdGhlIHNyYyBhdHRyaWJ1dGUgYXMgYSBiYXNlIFVSTC4gSWYg
+SSBjbGljayBvbiB0aGUgcGxheWVyIGFuZCBjb3B5IHRoZSBVUkwgdGhhdCBpcyBwcm9kdWNlZCBv
+ciBsb29rIGF0IGl0IGluIGEgZnVsbCBzY3JlZW4sIEZpcmVmb3ggaXMgbG9va2luZyBmb3IgdGhl
+IGhyZWYgdmlkZW8gYXQ8QlI+CiZndDs8QlI+CiZndDsgUGljdHVyZXMvTW92aWUxcG9zdGVyLm00
+di9QaWN0dXJlcy9Nb3ZpZTEubTR2PEJSPgomZ3Q7PEJSPgomZ3Q7IGluc3RlYWQgb2Y8QlI+CiZn
+dDs8QlI+CiZndDsgUGljdHVyZXMvTW92aWUxLm00djxCUj4KJmd0OzxCUj4KJmd0OyBJJ3ZlIHRy
+aWVkIGV2ZXJ5dGhpbmcgSSBjYW4gdGhpbmsgb2YgdG8gZ2V0IGFyb3VuZCB0aGlzOiBtb3ZlZCB0
+aGUgZmlsZXMgaW50byB0aGUgcm9vdCBkaXJlY3Rvcnkgb2YgdGhlIHBhZ2UsIGFkZGVkIC4uLyB0
+byB0aGUgaHJlZiB0byB0cnkgYW5kIGdldCBpdCB0byBiYWNrIHVwIGEgZGlyZWN0b3J5LiBOb3Ro
+aW5nIHNlZW1zIHRvIHdvcmsuIFNpbmNlIHRoaXMgaXMgYSB2ZXJ5IGNvbW1vbiB0aGluZyBvbiB0
+aGUgaW50ZXJuZXQsIEkgbXVzdCBiZSBkb2luZyBzb21ldGhpbmcgc3R1cGlkLiBEb2VzIGFueWJv
+ZHkga25vdyBob3cgdG8gZG8gaXQ/PEJSPgomZ3Q7IC0tPEJSPgomZ3Q7IERhbmllbCBQYXVsIE8n
+RG9ubmVsbCwgUGhEPEJSPgomZ3Q7IFByb2Zlc3NvciBvZiBFbmdsaXNoLCBVbml2ZXJzaXR5IG9m
+IExldGhicmlkZ2U8QlI+CiZndDsgQ28tUHJlc2lkZW50LCBTb2NpZXR5IGZvciBEaWdpdGFsIEh1
+bWFuaXRpZXMvU29jael06SBwb3VyIGwn6XR1ZGUgZGVzIG3pZGlhcyBpbnRlcmFjdGlmczxCUj4K
+Jmd0OyBDby1FZGl0b3IsIERpZ2l0YWwgU3R1ZGllcy9MZSBjaGFtcCBudW3pcmlxdWU8QlI+CiZn
+dDsgRm91bmRpbmcgRWRpdG9yLCBEaWdpdGFsIE1lZGlldmFsaXN0PEJSPgomZ3Q7IERpZ2l0YWwg
+TWVkaWV2YWxpc3QgLS0goDxBIEhSRUY9Imh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9y
+Zy8iPmh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy88L0E+PEJSPgomZ3Q7IEpvdXJu
+YWw6IDxBIEhSRUY9Imh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy9qb3VybmFsLyI+
+aHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnL2pvdXJuYWwvPC9BPjxCUj4KJmd0OyBK
+b3VybmFsIEVkaXRvcnM6IGVkaXRvcnMgX0FUXyBkaWdpdGFsbWVkaWV2YWxpc3Qub3JnPEJSPgom
+Z3Q7IE5ld3M6IDxBIEhSRUY9Imh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy9uZXdz
+LyI+aHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnL25ld3MvPC9BPjxCUj4KJmd0OyBX
+aWtpOiA8QSBIUkVGPSJodHRwOi8vd3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmcvd2lraS8iPmh0
+dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy93aWtpLzwvQT48QlI+CiZndDsgVHdpdHRl
+cjogPEEgSFJFRj0iaHR0cDovL3R3aXR0ZXIuY29tL2RpZ2l0YWxtZWRpZXZhbCI+aHR0cDovL3R3
+aXR0ZXIuY29tL2RpZ2l0YWxtZWRpZXZhbDwvQT48QlI+CiZndDsgRmFjZWJvb2s6IDxBIEhSRUY9
+Imh0dHA6Ly93d3cuZmFjZWJvb2suY29tL2dyb3VwLnBocD9naWQ9NDkzMjAzMTM3NjAiPmh0dHA6
+Ly93d3cuZmFjZWJvb2suY29tL2dyb3VwLnBocD9naWQ9NDkzMjAzMTM3NjA8L0E+PEJSPgomZ3Q7
+IERpc2N1c3Npb24gbGlzdDogZG0tbEB1bGV0aC5jYTxCUj4KJmd0OyBDaGFuZ2UgbGlzdCBvcHRp
+b25zOiA8QSBIUkVGPSJodHRwOi8vbGlzdHNlcnYudWxldGguY2EvbWFpbG1hbi9saXN0aW5mby9k
+bS1sIj5odHRwOi8vbGlzdHNlcnYudWxldGguY2EvbWFpbG1hbi9saXN0aW5mby9kbS1sPC9BPjxC
+Uj4KPEJSPgpEaWdpdGFsIE1lZGlldmFsaXN0IC0tJm5ic3A7IDxBIEhSRUY9Imh0dHA6Ly93d3cu
+ZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy8iPmh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9y
+Zy88L0E+PEJSPgpKb3VybmFsOiA8QSBIUkVGPSJodHRwOi8vd3d3LmRpZ2l0YWxtZWRpZXZhbGlz
+dC5vcmcvam91cm5hbC8iPmh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy9qb3VybmFs
+LzwvQT48QlI+CkpvdXJuYWwgRWRpdG9yczogZWRpdG9ycyBfQVRfIGRpZ2l0YWxtZWRpZXZhbGlz
+dC5vcmc8QlI+Ck5ld3M6IDxBIEhSRUY9Imh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9y
+Zy9uZXdzLyI+aHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnL25ld3MvPC9BPjxCUj4K
+V2lraTogPEEgSFJFRj0iaHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnL3dpa2kvIj5o
+dHRwOi8vd3d3LmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmcvd2lraS88L0E+PEJSPgpUd2l0dGVyOiA8
+QSBIUkVGPSJodHRwOi8vdHdpdHRlci5jb20vZGlnaXRhbG1lZGlldmFsIj5odHRwOi8vdHdpdHRl
+ci5jb20vZGlnaXRhbG1lZGlldmFsPC9BPjxCUj4KRmFjZWJvb2s6IDxBIEhSRUY9Imh0dHA6Ly93
+d3cuZmFjZWJvb2suY29tL2dyb3VwLnBocD9naWRJMzIwMzEzNzYwIj5odHRwOi8vd3d3LmZhY2Vi
+b29rLmNvbS9ncm91cC5waHA/Z2lkSTMyMDMxMzc2MDwvQT48QlI+CkRpc2N1c3Npb24gbGlzdDog
+ZG0tbEB1bGV0aC5jYTxCUj4KQ2hhbmdlIGxpc3Qgb3B0aW9uczogPEEgSFJFRj0iaHR0cDovL2xp
+c3RzZXJ2LnVsZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0tbCI+aHR0cDovL2xpc3RzZXJ2LnVs
+ZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0tbDwvQT48QlI+CjxCUj4KPC9GT05UPgo8L1A+Cgo8
+L0JPRFk+CjwvSFRNTD4=

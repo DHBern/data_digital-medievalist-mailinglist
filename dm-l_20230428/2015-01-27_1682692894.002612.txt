@@ -1,0 +1,152 @@
+Subject: [dm-l] Symposium on Cultural Heritage MarkupDear all,I'm going to be chairing the symposium announced below and would love it if
+we could turn it into a really good, deep discussion of what we've done
+right, what we're doing wrong, and how cultural heritage markup (or its
+equivalents) can be made better in the future. Heretics and True Believers
+welcome! --Hugh
+Cultural Heritage Markup:
+Using Markup to preserve, understand, and disseminate cultural heritage
+materials
+a Balisage pre-conference symposiumMonday August 10, 2015
+Bethesda North Marriott Hotel & Conference Center, Bethesda, MD, USAMarkup and markup technologies are used in a wide variety of cultural
+heritage projects by linguists, students of literature, librarians,
+historians, curators, and others. Markup is used behind the scenes in
+archives, libraries, and museums to create and store metadata and the
+textual content of a wide variety of materials both textual and
+artefactual. We want to know how you or your project are using markup to
+preserve, analyze, disseminate, or curate materials of long-term value to
+society.Balisage is an excellent venue to discuss both theoretical and practical
+questions. Is cultural heritage markup essentially different from
+industrial markup? Is it inherently more heterogeneous, more complex? Are
+=E2=80=9Cindustrial=E2=80=9D tools like XML and HTML really appropriate for c=
+ultural
+heritage materials? How well will standards like TEI and EAD serve us as
+technology progresses? We dedicate this day to discussion of the challenges
+and possibilities of markup technologies used in the preservation of our
+cultural heritage and its transmission to future generations.
+We welcome proposals to present at the Symposium. Topics may include, but
+are not limited to:        =E2=80=A2 Representing heterogeneous materials
+        =E2=80=A2 Data modeling to support scholarly research
+        =E2=80=A2 Building for the long term, even after the money has run out
+        =E2=80=A2 Using/repurposing tools that weren=E2=80=99t designed for t=
+he kind of
+thing you=E2=80=99re doing
+        =E2=80=A2 Is XML really appropriate for representing texts of scholar=
+ly
+interest?
+        =E2=80=A2 Is XML really appropriate for representing metatdata about
+non-textual artefacts?
+        =E2=80=A2 What does it mean for cultural heritage texts to be
+interoperable? Is it desirable? Is it possible?
+        =E2=80=A2 Shared tag sets. Do shared markup vocabularies (e.g., TEI, =
+EAD,
+LIDO, CDWA) do more harm than good?Full papers should be submitted by 17 April 2015. All papers are
+peer-reviewed =E2=80=94 we pride ourselves that you will seldom get a more
+thorough, skeptical, or helpful review than the one provided by Balisage
+reviewers.
+Key dates:
+- 27 March 2015 =E2=80=94 Peer review applications due
+- 17 April 2015 =E2=80=94 Paper submissions due
+- 17 April 2015 =E2=80=94 Applications for student support awards due
+- 22 May 2015 =E2=80=94 Speakers notified
+- 17 July 2015 =E2=80=94 Final papers due
+- 10 August 2015 =E2=80=94 Symposium on Cultural Heritage Markup
+- 11=E2=80=9314 August 2015 =E2=80=94 Balisage: The Markup Conference_redacted_(a)balisage.net or +1 301 315 9631          Balisage: The Markup Conference
+     There is Nothing As Practical As A Good Theory=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+_redacted_(a)balisage.net
+August 5-8, 2014                               http://www.balisage.net
+Preconference Symposium: August 4, 2014                +1 301 315 9631
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+--~----------------------------------------------------------------
+_redacted_(a)gmail.com
+EasyUnsubscribe or manage your settingshttp://lists.mulberrytech.com/do/unsub/markupconference-announce/471805/1gxvt=
+07wwd/100/1
+or EasyUnsubscribe by email_redacted_(a)lists.mulberr=
+ytech.com
+--~--PGRpdiBkaXI9Imx0ciI+RGVhciBhbGwswqA8ZGl2Pjxicj48L2Rpdj48ZGl2PkkmIzM5O20gZ29p
+bmcgdG8gYmUgY2hhaXJpbmcgdGhlIHN5bXBvc2l1bSBhbm5vdW5jZWQgYmVsb3cgYW5kIHdvdWxk
+IGxvdmUgaXQgaWYgd2UgY291bGQgdHVybiBpdCBpbnRvIGEgcmVhbGx5IGdvb2QsIGRlZXAgZGlz
+Y3Vzc2lvbiBvZiB3aGF0IHdlJiMzOTt2ZSBkb25lIHJpZ2h0LCB3aGF0IHdlJiMzOTtyZSBkb2lu
+ZyB3cm9uZywgYW5kIGhvdyBjdWx0dXJhbCBoZXJpdGFnZSBtYXJrdXAgKG9yIGl0cyBlcXVpdmFs
+ZW50cykgY2FuIGJlIG1hZGUgYmV0dGVyIGluIHRoZSBmdXR1cmUuIEhlcmV0aWNzIGFuZCBUcnVl
+IEJlbGlldmVycyB3ZWxjb21lISAtLUh1Z2g8YnI+PGRpdiBjbGFzcz0iZ21haWxfcXVvdGUiPjxi
+cj48YnI+Q3VsdHVyYWwgSGVyaXRhZ2UgTWFya3VwOjxicj4KVXNpbmcgTWFya3VwIHRvIHByZXNl
+cnZlLCB1bmRlcnN0YW5kLCBhbmQgZGlzc2VtaW5hdGUgY3VsdHVyYWwgaGVyaXRhZ2UgbWF0ZXJp
+YWxzPGJyPgphIEJhbGlzYWdlIHByZS1jb25mZXJlbmNlIHN5bXBvc2l1bTxicj4KPGJyPgpNb25k
+YXkgQXVndXN0IDEwLCAyMDE1PGJyPgpCZXRoZXNkYSBOb3J0aCBNYXJyaW90dCBIb3RlbCAmYW1w
+OyBDb25mZXJlbmNlIENlbnRlciwgQmV0aGVzZGEsIE1ELCBVU0E8YnI+Cjxicj4KTWFya3VwIGFu
+ZCBtYXJrdXAgdGVjaG5vbG9naWVzIGFyZSB1c2VkIGluIGEgd2lkZSB2YXJpZXR5IG9mIGN1bHR1
+cmFsIGhlcml0YWdlIHByb2plY3RzIGJ5IGxpbmd1aXN0cywgc3R1ZGVudHMgb2YgbGl0ZXJhdHVy
+ZSwgbGlicmFyaWFucywgaGlzdG9yaWFucywgY3VyYXRvcnMsIGFuZCBvdGhlcnMuIE1hcmt1cCBp
+cyB1c2VkIGJlaGluZCB0aGUgc2NlbmVzIGluIGFyY2hpdmVzLCBsaWJyYXJpZXMsIGFuZCBtdXNl
+dW1zIHRvIGNyZWF0ZSBhbmQgc3RvcmUgbWV0YWRhdGEgYW5kIHRoZSB0ZXh0dWFsIGNvbnRlbnQg
+b2YgYSB3aWRlIHZhcmlldHkgb2YgbWF0ZXJpYWxzIGJvdGggdGV4dHVhbCBhbmQgYXJ0ZWZhY3R1
+YWwuIFdlIHdhbnQgdG8ga25vdyBob3cgeW91IG9yIHlvdXIgcHJvamVjdCBhcmUgdXNpbmcgbWFy
+a3VwIHRvIHByZXNlcnZlLCBhbmFseXplLCBkaXNzZW1pbmF0ZSwgb3IgY3VyYXRlIG1hdGVyaWFs
+cyBvZiBsb25nLXRlcm0gdmFsdWUgdG8gc29jaWV0eS48YnI+Cjxicj4KQmFsaXNhZ2UgaXMgYW4g
+ZXhjZWxsZW50IHZlbnVlIHRvIGRpc2N1c3MgYm90aCB0aGVvcmV0aWNhbCBhbmQgcHJhY3RpY2Fs
+IHF1ZXN0aW9ucy4gSXMgY3VsdHVyYWwgaGVyaXRhZ2UgbWFya3VwIGVzc2VudGlhbGx5IGRpZmZl
+cmVudCBmcm9tIGluZHVzdHJpYWwgbWFya3VwPyBJcyBpdCBpbmhlcmVudGx5IG1vcmUgaGV0ZXJv
+Z2VuZW91cywgbW9yZSBjb21wbGV4PyBBcmUg4oCcaW5kdXN0cmlhbOKAnSB0b29scyBsaWtlIFhN
+TCBhbmQgSFRNTCByZWFsbHkgYXBwcm9wcmlhdGUgZm9yIGN1bHR1cmFsIGhlcml0YWdlIG1hdGVy
+aWFscz8gSG93IHdlbGwgd2lsbCBzdGFuZGFyZHMgbGlrZSBURUkgYW5kIEVBRCBzZXJ2ZSB1cyBh
+cyB0ZWNobm9sb2d5IHByb2dyZXNzZXM/IFdlIGRlZGljYXRlIHRoaXMgZGF5IHRvIGRpc2N1c3Np
+b24gb2YgdGhlIGNoYWxsZW5nZXMgYW5kIHBvc3NpYmlsaXRpZXMgb2YgbWFya3VwIHRlY2hub2xv
+Z2llcyB1c2VkIGluIHRoZSBwcmVzZXJ2YXRpb24gb2Ygb3VyIGN1bHR1cmFsIGhlcml0YWdlIGFu
+ZCBpdHMgdHJhbnNtaXNzaW9uIHRvIGZ1dHVyZSBnZW5lcmF0aW9ucy48YnI+Cjxicj4KPGJyPgpX
+ZSB3ZWxjb21lIHByb3Bvc2FscyB0byBwcmVzZW50IGF0IHRoZSBTeW1wb3NpdW0uIFRvcGljcyBt
+YXkgaW5jbHVkZSwgYnV0IGFyZSBub3QgbGltaXRlZCB0bzo8YnI+Cjxicj4KwqAgwqAgwqAgwqAg
+4oCiIFJlcHJlc2VudGluZyBoZXRlcm9nZW5lb3VzIG1hdGVyaWFsczxicj4KwqAgwqAgwqAgwqAg
+4oCiIERhdGEgbW9kZWxpbmcgdG8gc3VwcG9ydCBzY2hvbGFybHkgcmVzZWFyY2g8YnI+CsKgIMKg
+IMKgIMKgIOKAoiBCdWlsZGluZyBmb3IgdGhlIGxvbmcgdGVybSwgZXZlbiBhZnRlciB0aGUgbW9u
+ZXkgaGFzIHJ1biBvdXQ8YnI+CsKgIMKgIMKgIMKgIOKAoiBVc2luZy9yZXB1cnBvc2luZyB0b29s
+cyB0aGF0IHdlcmVu4oCZdCBkZXNpZ25lZCBmb3IgdGhlIGtpbmQgb2YgdGhpbmcgeW914oCZcmUg
+ZG9pbmc8YnI+CsKgIMKgIMKgIMKgIOKAoiBJcyBYTUwgcmVhbGx5IGFwcHJvcHJpYXRlIGZvciBy
+ZXByZXNlbnRpbmcgdGV4dHMgb2Ygc2Nob2xhcmx5IGludGVyZXN0Pzxicj4KwqAgwqAgwqAgwqAg
+4oCiIElzIFhNTCByZWFsbHkgYXBwcm9wcmlhdGUgZm9yIHJlcHJlc2VudGluZyBtZXRhdGRhdGEg
+YWJvdXQgbm9uLXRleHR1YWwgYXJ0ZWZhY3RzPzxicj4KwqAgwqAgwqAgwqAg4oCiIFdoYXQgZG9l
+cyBpdCBtZWFuIGZvciBjdWx0dXJhbCBoZXJpdGFnZSB0ZXh0cyB0byBiZSBpbnRlcm9wZXJhYmxl
+PyBJcyBpdCBkZXNpcmFibGU/IElzIGl0IHBvc3NpYmxlPzxicj4KwqAgwqAgwqAgwqAg4oCiIFNo
+YXJlZCB0YWcgc2V0cy4gRG8gc2hhcmVkIG1hcmt1cCB2b2NhYnVsYXJpZXMgKGUuZy4sIFRFSSwg
+RUFELCBMSURPLCBDRFdBKSBkbyBtb3JlIGhhcm0gdGhhbiBnb29kPzxicj4KPGJyPgpGdWxsIHBh
+cGVycyBzaG91bGQgYmUgc3VibWl0dGVkIGJ5IDE3IEFwcmlsIDIwMTUuIEFsbCBwYXBlcnMgYXJl
+IHBlZXItcmV2aWV3ZWQg4oCUIHdlIHByaWRlIG91cnNlbHZlcyB0aGF0IHlvdSB3aWxsIHNlbGRv
+bSBnZXQgYSBtb3JlIHRob3JvdWdoLCBza2VwdGljYWwsIG9yIGhlbHBmdWwgcmV2aWV3IHRoYW4g
+dGhlIG9uZSBwcm92aWRlZCBieSBCYWxpc2FnZSByZXZpZXdlcnMuPGJyPgo8YnI+Cjxicj4KS2V5
+IGRhdGVzOjxicj4KLSAyNyBNYXJjaCAyMDE1IOKAlCBQZWVyIHJldmlldyBhcHBsaWNhdGlvbnMg
+ZHVlPGJyPgotIDE3IEFwcmlsIDIwMTUg4oCUIFBhcGVyIHN1Ym1pc3Npb25zIGR1ZTxicj4KLSAx
+NyBBcHJpbCAyMDE1IOKAlCBBcHBsaWNhdGlvbnMgZm9yIHN0dWRlbnQgc3VwcG9ydCBhd2FyZHMg
+ZHVlPGJyPgotIDIyIE1heSAyMDE1IOKAlCBTcGVha2VycyBub3RpZmllZDxicj4KLSAxNyBKdWx5
+IDIwMTUg4oCUIEZpbmFsIHBhcGVycyBkdWU8YnI+Ci0gMTAgQXVndXN0IDIwMTUg4oCUIFN5bXBv
+c2l1bSBvbiBDdWx0dXJhbCBIZXJpdGFnZSBNYXJrdXA8YnI+Ci0gMTHigJMxNCBBdWd1c3QgMjAx
+NSDigJQgQmFsaXNhZ2U6IFRoZSBNYXJrdXAgQ29uZmVyZW5jZTxicj4KPGJyPgpGb3IgbW9yZSBp
+bmZvcm1hdGlvbjogPGEgaHJlZj0ibWFpbHRvOmluZm9AYmFsaXNhZ2UubmV0Ij5pbmZvQGJhbGlz
+YWdlLm5ldDwvYT4gb3IgPGEgaHJlZj0idGVsOiUyQjElMjAzMDElMjAzMTUlMjA5NjMxIiB2YWx1
+ZT0iKzEzMDEzMTU5NjMxIj4rMSAzMDEgMzE1IDk2MzE8L2E+PGJyPgo8YnI+CsKgIMKgIMKgIMKg
+IMKgIEJhbGlzYWdlOiBUaGUgTWFya3VwIENvbmZlcmVuY2U8YnI+CsKgIMKgIMKgVGhlcmUgaXMg
+Tm90aGluZyBBcyBQcmFjdGljYWwgQXMgQSBHb29kIFRoZW9yeTxicj4KPGJyPgo9PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PGJyPgpCYWxpc2FnZTogVGhlIE1hcmt1cCBDb25mZXJlbmNlIDIwMTTCoCDCoCDCoCDCoCDC
+oCBtYWlsdG86PGEgaHJlZj0ibWFpbHRvOmluZm9AYmFsaXNhZ2UubmV0Ij5pbmZvQGJhbGlzYWdl
+Lm5ldDwvYT48YnI+CkF1Z3VzdCA1LTgsIDIwMTTCoCDCoCDCoCDCoCDCoCDCoCDCoCDCoCDCoCDC
+oCDCoCDCoCDCoCDCoCDCoCDCoDxhIGhyZWY9Imh0dHA6Ly93d3cuYmFsaXNhZ2UubmV0IiB0YXJn
+ZXQ9Il9ibGFuayI+aHR0cDovL3d3dy5iYWxpc2FnZS5uZXQ8L2E+PGJyPgpQcmVjb25mZXJlbmNl
+IFN5bXBvc2l1bTogQXVndXN0IDQsIDIwMTTCoCDCoCDCoCDCoCDCoCDCoCDCoCDCoCA8YSBocmVm
+PSJ0ZWw6JTJCMSUyMDMwMSUyMDMxNSUyMDk2MzEiIHZhbHVlPSIrMTMwMTMxNTk2MzEiPisxIDMw
+MSAzMTUgOTYzMTwvYT48YnI+Cj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT08YnI+Ci0tfi0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS08YnI+CllvdSBh
+cmUgc3Vic2NyaWJlZCBhcyA8YSBocmVmPSJtYWlsdG86cGhpbG9tb3Vzb3NAZ21haWwuY29tIj5w
+aGlsb21vdXNvc0BnbWFpbC5jb208L2E+PGJyPgpFYXN5VW5zdWJzY3JpYmUgb3IgbWFuYWdlIHlv
+dXIgc2V0dGluZ3M8YnI+CsKgIDxhIGhyZWY9Imh0dHA6Ly9saXN0cy5tdWxiZXJyeXRlY2guY29t
+L2RvL3Vuc3ViL21hcmt1cGNvbmZlcmVuY2UtYW5ub3VuY2UvNDcxODA1LzFneHZ0MDd3d2QvMTAw
+LzEiIHRhcmdldD0iX2JsYW5rIj5odHRwOi8vbGlzdHMubXVsYmVycnl0ZWNoLmNvbS9kby91bnN1
+Yi9tYXJrdXBjb25mZXJlbmNlLWFubm91bmNlLzQ3MTgwNS8xZ3h2dDA3d3dkLzEwMC8xPC9hPjxi
+cj4Kb3IgRWFzeVVuc3Vic2NyaWJlIGJ5IGVtYWlsPGJyPgrCoCA8YSBocmVmPSJtYWlsdG86bWFy
+a3VwY29uZmVyZW5jZS1hbm5vdW5jZS1jdW5zdWItMWd4dnQwN3d3ZC00NzE4MDUtMTAwLWJsMjM1
+MUBsaXN0cy5tdWxiZXJyeXRlY2guY29tIj5tYXJrdXBjb25mZXJlbmNlLWFubm91bmNlLWN1bnN1
+Yi0xZ3h2dDA3d3dkLTQ3MTgwNS0xMDAtYmwyMzUxQGxpc3RzLm11bGJlcnJ5dGVjaC5jb208L2E+
+PGJyPgotLX4tLTxicj4KPC9kaXY+PGJyPjwvZGl2PjwvZGl2Pgo=

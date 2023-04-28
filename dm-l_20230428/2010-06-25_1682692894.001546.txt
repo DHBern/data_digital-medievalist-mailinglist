@@ -1,0 +1,17 @@
+Subject:Dear list,
+I have recently discovered this tool, by a Spanish team, named GIDOC or 
+"Gimp-based Interactive transcription of old text DOCuments": it is 
+defined as a "computer-assisted transcription prototype for handwritten 
+text in old documents", and is, interestingly, built as a GIMP plugin. 
+It can be downloaded here, together with some demonstration material, a 
+demo video etc:
+http://prhlt.iti.es/projects/multimodal/idoc/content.php?page=gidoc.phpMuch remains to be done in terms of OCR and automatic / assisted 
+transcription of ancient documents, and this tool certainly isn't the 
+definitive solution to all our problems, but I find the approach 
+interesting (open source, plugged in another tool like GIMP, etc.)Any thoughts / experiences?Best, Marjorie-- 
+Marjorie BURGHART
+EHESS (pôle de Lyon) / UMR 5648
+Histoire et Archéologie des Mondes Chrétiens et Musulmans Médiévaux
+18 quai Claude Bernard
+69007 Lyon - FRANCE
+--===============0370882400682741039==--

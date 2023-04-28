@@ -1,0 +1,97 @@
+Subject: Re: [dm-l] Proposed Changes to DMDear all,
+a brief answer: I surely agree with 1 (moving the main site to the=20
+Wordpress CMS) and have no big problems with 3 (eventually moving the=20
+Journal to an open journal system), but I'm a little perplexed by 2,=20
+i.e. closing the wiki altogether to replace it with a blog. Basically,=20
+if we didn't manage to gather enough attention to make it a shared and=20
+contributed-to resource, things wouldn't change much moving it to a=20
+different technical platform; while on the purely technical side a=20
+Wordpress site can end up as spam-infested as a wiki one.Merging the DM wiki with the Digital Classicist one make sense to me, or=20
+making its editing login-based and try to revive it, otherwise perhaps=20
+we should consider about shutting it down IMHO.All best,RIl 21/05/2014 14:05, Stokes, Peter ha scritto:
+> Dear all,
+>
+> I apologise for the length of this e-mail, but I write regarding a series o=
+f fairly fundamental changes to the DM infrastructure that we have been plann=
+ing for some time now. Given the scale of these changes, we on the DM Board t=
+hink it is important to explain these in some detail and request feedback fro=
+m the Community before we go ahead with them. They will also require a change=
+ of the Byelaws, and so again we need input from the Community for this.
+>
+> Unfortunately the existing infrastructure has proven unmanageable. The wiki=
+ and mailing-list have both been subject to large-scale spam attacks, such th=
+at the wiki now contains many many thousands of articles, only 70 or so of wh=
+ich are genuine. The wiki has also had almost no activity beyond that of the =
+Board, and so it has not been doing the job that we had hoped. Furthermore th=
+e website itself, which we have been hosting and coding ourselves (with subst=
+antial help from James Cummings and Dan O=E2=80=99Donnell) is also proving in=
+creasingly difficult to manage: it depends on the generosity of James and Dan=
+ to host and administer, even adding new pages is not trivial, and it has nee=
+ded a dramatic overhaul for some time but to do this requires much more time =
+and effort than we have been able to manage. For all of these reasons, we pro=
+pose the following:
+>
+> 1. Moving the static website from the existing infrastructure (Cocoon + TEI=
+ + custom XSLT) to a standard CMS (currently Wordpress).
+> 2. Closing down the wiki entirely and replacing it with a blog.
+> 3. For the moment we are leaving the Journal in place, but we are very like=
+ly to move it to a dedicated open journal hosting of some sort. We have been =
+discussing this in some detail with Revues.org but are not yet committed to t=
+his.
+>
+> As most of you have realised, we have already set up a Wordpress version of=
+ the site at <http://digitalmedievalist.wordpress.com/>, and this is already =
+proving to overcome the problems listed above. The proposal is therefore to m=
+ake this the DM site and close down the old one, except perhaps for the Journ=
+al.
+>
+> However, the current Byelaws require that DM maintains a wiki (see <http://=
+digitalmedievalist.wordpress.com/about/byelaws/#wiki>). The Board is therefor=
+e not free to close the existing wiki without first changing the Byelaws. Eve=
+n if we chose to keep the wiki, however, the Board feels that the Byelaws sho=
+uld not lock us into using any single technology, and so they should be chang=
+ed even if we keep the existing infrastructure. The details of the proposed c=
+hanges to the Byelaws will be posted shortly as a separate e-mail and on the =
+new website, but in essence we propose simply to replace the term 'wiki' with=
+ 'information resources' and to adapt the containing sentences accordingly.
+>
+> We would be grateful for any feedback about any aspect of this, preferably =
+_redacted_(a)dig=
+italmedievalist.org or any members of the Board directly. The next Board meet=
+ing is 4pm GMT+1 on Monday 2 June, at which point any comments will be discus=
+sed, and any changes in the Byelaws will be presented to the membership for v=
+ote shortly after that (as specified in =C2=A79 of the Byelaws: <http://digit=
+almedievalist.wordpress.com/about/byelaws/#amendments>).
+>
+> Thank you, and we look forward to receiving your comments.
+>
+> Peter Stokes (on behalf of the Executive Board)
+>
+> --
+> Dr Peter Stokes
+> Senior Lecturer
+> Department of Digital Humanities
+> King's College London
+> Room 218, 2nd Floor
+> 26-29 Drury Lane
+> London, WC2B 5RL
+> Tel: +44 (0)20 7848 2813
+_redacted_(a)kcl.ac.uk
+>
+>
+> Digital Medievalist --  http://www.digitalmedievalist.org/
+> Journal: http://www.digitalmedievalist.org/journal/
+> Journal Editors: editors _AT_ digitalmedievalist.org
+> News: http://www.digitalmedievalist.org/news/
+> Wiki: http://www.digitalmedievalist.org/wiki/
+> Twitter: http://twitter.com/digitalmedieval
+> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+_redacted_(a)uleth.ca
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>
+--=20Roberto Rosselli Del Turco      roberto.rossellidelturco at unito.it
+Dipartimento di Studi           rosselli at ling.unipi.it
+Umanistici                      Then spoke the thunder  DA
+Universita' di Torino           Datta: what have we given?  (TSE)  Hige sceal the heardra,     heorte the cenre,
+  mod sceal the mare,       the ure maegen litlath.  (Maldon 312-3)
+--===============8142802401615959045==--

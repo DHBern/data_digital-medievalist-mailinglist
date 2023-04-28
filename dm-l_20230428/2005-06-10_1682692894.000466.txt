@@ -1,0 +1,27 @@
+Subject: Re: [dm-l] Letter database: languages, character sets, names etcDaniel Paul O'Donnell wrote:
+> I'm not sure if members of this list would find this type of e-mail
+> useful (please let me know if you do... or don't), but here goes:I find it useful.
+>=20
+> A common problem in text encoding is locating the correct codes for
+> "unusual letters". There are various utilities for doing this in
+> windows, mac, and Linux. But here is a useful web-based utility.You can
+> use it to look up character names and find their code point (though you
+> do have to be fairly precise), and it will produce the correct number in
+> hex and decimal formats. It will also tell you everything you ever
+> wanted to know about characters required for encoding Estonian.
+>=20
+> http://www.eki.ee/letter/Well, ok, I actually I knew about this particular site.  I've used that and
+of course there is the unicode site itself, especially the charts page.  Also=
+,=20
+most linux distributions contain a graphical character-map utitilty that is=20
+searchable.On of the things out of unicode recently is their report:http://www.unicode.org/reports/tr22/on CharMapML =3D Character Mapping Markup Language.Readers might also be interested in drafts of:
+TEI P5 Draft Chapter 4: Language and Character Sets:
+http://www.tei-c.org/P5/Guidelines/CH.html
+and
+TEI P5 Draft Chapter 25: Representation of non-standard characters and glyphs
+http://www.tei-c.org/P5/Guidelines/WD.htmlJust thought I'd add that in to Dan's comment.
+-James
+--=20
+Dr James Cummings, Oxford Text Archive, University of Oxford
+James dot Cummings at oucs dot ox dot ac dot uk
+--===============5108783421349357776==--

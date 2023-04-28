@@ -1,0 +1,23 @@
+Subject: Re: [dm-l] palaeography and computingArianna Ciula wrote:>Is there any sort of DTD designed with the purpose of describing a 
+>medieval manuscript, not just in its physical features as a global 
+>object, but in its palaeographical features?
+>
+>I mean any kind of XML grill and hierarchy able to encounter 
+>description and comments on the shape of letters, of ligatures and so 
+>on, even related just to one period and one handwritten style.
+>
+I've been working on/with a DTD for manuscript transcription for some 
+time that takes physical features (quires, pages, text areas etc.) as 
+primary and that has a section (based to some extent on the TEI P3 
+Writing System Declaration) where each glyph used in the manuscript 
+including ligatures or junctures (sorted by hand and script) can be 
+described, linked to a typical image or more and a transcription and 
+transliteration, and assigned Unicode or other code points. Is that the 
+sort of thing you're asking about? (If you want instead to annotate 
+paleographic events or oddities in the course of running transcription, 
+like a four-minim letter "m", the current TEI note provisions may well 
+be adequate.) This transcription DTD of mine is not really ready for 
+prime time, but if it seems to be the kind of thing you're looking for, 
+I'm happy to share. (This is not the DTD on the Web site I referred to a 
+few days ago, though that simplified one is composed of elements 
+extracted from it.)Murray McGillivray

@@ -1,0 +1,11 @@
+Subject: [dm-l] New digital font for medievalistsI've been fascinated for a long time with the problem of reproducing 
+medieval scribal hands in digital fonts. My latest effort is a font 
+called "Eadui," based on the hand of Eadui Basan, the head scribe at 
+Christ Church, Canterbury, in the early eleventh century. It exploits 
+OpenType features so as to avoid, so far as possible, the machined look 
+of most "medieval" fonts. The better an application's support for 
+advanced typography, the better this font will look. (Best: XeTeX or 
+InDesign; good: iWork or Mellel; poor: OpenOffice.)The current version of Eadui is a beta. I will give a free copy of the 
+final font, when it's ready, to anyone who downloads this and sends bug 
+reports, feature requests or impressions. Get it here:http://faculty.virginia.edu/OldEnglish/junicode/eadui.htmlBest wishes to all,
+Peter Baker

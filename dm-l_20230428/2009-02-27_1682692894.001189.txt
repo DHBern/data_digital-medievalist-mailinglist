@@ -1,0 +1,43 @@
+Subject: [dm-l] Ideal informatics training [TAN, maybe]Hi all,As many of you know, I've been wondering for quite some time about the 
+basic information studies literacy we should be teaching across 
+programmes at the university (i.e. not just humanities computing, but 
+more broadly what should university graduates know as basic information 
+literacy).We're looking into establishing a campus wide certification in 
+informatics here which we have the luxury of building more or less ex 
+nihilo--i.e. lots of willing people and departments, very few existing 
+institutional silos and/or jealousies that need to be worked in or 
+around. The goal is to build this as a companion programme--something 
+like a big minor, a certification, or an emphasis--that would in theory 
+be open to combination any domain baccalaureate. In the end you could 
+graduate with "English and informatics", or "Biology and informatics," 
+etc. The informatics certification would not be intended to cover all 
+possible informatics angles (so somebody doing bio-informatics or 
+advanced humanities computing would have to do additional work). But the 
+goal would be to produce students with domain competency and a core set 
+of informatics skills and knowledge.I am looking at some existing programmes--e.g. Melbourne, Syracuse, 
+etc.  But I'm also asking people helping put the programme together to 
+think on the basis of a blank page: what skills, knowledge, experience 
+should an undergraduate have when they finish such a programme. Here are 
+some of mine. What do others think?* Knowledge of basic internet infrastructure and protocols: what a 
+server is, how pages are served out, what packets are, how domain-names 
+are registered and looked up, all the various transfer protocols
+* Knowledge of basic languages and standards like xml, html, unicode
+* Experience in setting up a multipage interactive website at an 
+arbitrary domain name (i.e. buy a domain name, point it at an IP 
+address, set up the server, write the pages
+* Knowledge of the major genres and applications and an ability to 
+analyse existing sites in terms of their use of these (e.g. know what a 
+wiki is, newserver, version control, other things)
+* Have some sense of constraints that affect the use of cyberspace: 
+gender, economic, legal issues, etc.
+* Have a knowledge of various social organisations and processes on the 
+web: communities of practice, crowd sourcing
+* Be able to analyse information flows and other aspects of a problem 
+and design technological solutions to it
+* some experience with data design, analysis, and retrievalThese seem to me to be too much of a mishmash of different types of 
+scope, categories, and the like. And also too much focussed on the type 
+of thing I do. Any suggestions for the skills, knowledge, and experience 
+a typical undergraduate ought to have if they were to be certified as 
+being basically competent in contemporary web technologies alongside 
+their core domain?-dan
+--===============2920428153035573722==--

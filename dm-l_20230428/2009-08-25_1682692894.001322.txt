@@ -1,0 +1,23 @@
+Subject: [dm-l] Cocoon authentication--anybody with experience?Hi all,Here's a question I'm hoping somebody knows an answer to. I've=20
+experimenting with cocoon, which of course is excellent at doing things=20
+like remapping xml files so that users think they are reading a file in=20
+html, and the like. The Digital Medievalist site is in fact produced=20
+using cocoon which transforms the underlying xml.What I need to be able to do is use passwords to protect this site. I've=20
+read up on cocoon's authentication model, including the sample code. But=20
+they don't give examples with kind of authentication backend I'm most=20
+familiar with .htpasswd (or any at all, really).Does anybody have experience with cocoon's authentication, particularly=20
+using an easy-to-set-up authentication backend (and even better=20
+.htpasswd)? I appreciate any suggestions, especially since, as this=20
+project is in pre-funding mode, I'll have to learn any system proposed=20
+rather than having the money to hire somebody who knows what they are doing.-dan--=20
+Daniel Paul O'Donnell
+Associate Professor of English
+University of LethbridgeChair and CEO, Text Encoding Initiative (http://www.tei-c.org/)
+Co-Chair, Digital Initiatives Advisory Board, Medieval Academy of America
+President-elect (English), Society for Digital Humanities/Soci=C3=A9t=C3=A9 p=
+our l'=C3=A9tude des m=C3=A9dias interactifs (http://sdh-semi.org/)
+Founding Director (2003-2009), Digital Medievalist Project (http://www.digita=
+lmedievalist.org/)Vox: +1 403 329-2377
+Fax: +1 403 382-7191 (non-confidental)
+Home Page: http://people.uleth.ca/~daniel.odonnell/
+--===============6904999310225189563==--

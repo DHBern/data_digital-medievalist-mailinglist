@@ -1,0 +1,29 @@
+Subject: [dm-l] early music notationHi list,This is a message I sent as a reply to James Cummings on TEI-L, but I think i=
+t may be of interest to folks on this list as well (some of whom, I expect, w=
+ill know more than me - I haven't studied medieval music since college). His =
+original query concerned including the Medieval Encoding Initiative (MEI, htt=
+p://dl.lib.virginia.edu/bin/dtd/mei/) as a module in the TEI.
+********************
+James (and list),There are at least two other prospective XML schemas for encoding music - Mus=
+ic Markup Language (http://www.musicmarkup.info/) and MusicXML (http://www.mu=
+sicxml.org/xml.html). I can't speak to the technical pros and cons of includi=
+ng music markup as a part of TEI. I do think that it is something to consider=
+, especially for, as you say, liturgical manuscripts (or other early manuscri=
+pts that include musical notation).Having looked briefly at all three of these markup schemas, though, it appear=
+s that all are designed specifically for modern Western musical notation - no=
+tes of determined length on a standard staff. This would be fine for encoding=
+ something like a 18th century hymnal, but less useful for 13th or 14th centu=
+ry notation (which might be on a staff, but rhythm is not always clear), and =
+not useful at all for the earliest notation (basically squiggles written over=
+ the lyrics). It would be great to be able to describe these sorts of early n=
+otation beyond simply noting that they're there, but it doesn't appear that t=
+hese schemas are designed with early notation in mind (at least not publicall=
+y, yet).Does anyone on the list know more? Is anyone interested in pursuing some sort=
+ of notation extension/module to TEI?Dot***************************************
+Dorothy Carr Porter, Program Coordinator
+Collaboratory for Research in Computing for Humanities
+University of Kentucky
+351 William T. Young Library
+Lexington, KY  40506_redacted_(a)uky.edu          859-257-9549
+***************************************
+--===============8838829622432967431==--

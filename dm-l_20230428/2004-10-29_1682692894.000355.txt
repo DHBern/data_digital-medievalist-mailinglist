@@ -1,0 +1,26 @@
+Subject:The Ecole des chartes is happy to introduce you to the new chapter of
+the online Cartulaire blanc of the French abbey of Saint-Denis
+(http://elec.enc.sorbonne.fr/cartulaireblanc/) : Rueil-Malmaison
+(http://elec.enc.sorbonne.fr/cartulaireblanc/rueil/). The Web site has
+been technically and graphically upgraded.
+The Cartulaire blanc of Saint-Denis is the most important cartulary of
+the abbey of Saint-Denis. It contains about 2600 transcriptions of
+charters, compiled between 1270 and 1300. The electronic edition grant
+easy access to this large collection of sources, published online
+chapter after chapter as the work is done by the Ecole des chartes'
+students under the direction of Olivier Guyotjeannin, professor of
+diplomatic.
+Each page of the site is dynamically generated from XML files using the
+TEI DTD (eg. : 
+http://elec.enc.sorbonne.fr/cartulaireblanc/xml/cartulaire.xml). The
+navigation has been improved to allow a faster access to contents. The
+interface has been adapted to fit to the graphic charter of the Ecole
+des chartes' Websites and has been optimized to ease reading and
+exploitation of informations. For further informations, see Technical
+Principles
+(http://elec.enc.sorbonne.fr/cartulaireblanc/introgenerale3/#partie4)
+and Encoding Guidelines
+(http://elec.enc.sorbonne.fr/cartulaireblanc/guidebalisage/) (only
+french versions available).
+For any request, please contact us.Gautier Poupeau,
+Electronic publisher in Ecole des chartes, http://www.enc.sorbonne.fr

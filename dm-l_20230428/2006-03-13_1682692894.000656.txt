@@ -1,0 +1,76 @@
+Subject: Re: [dm-l] TEI/XML manuscript markup initiatives?As part of my presentation at Kalamazoo last year I described how (for
+Electronic Boethius) I modified some of the manuscript description
+elements for use in transcription (for example, marking rubrics in the
+text using the <rubric> element). This obviously wouldn't work if one
+wanted to both describe and transcribe a text in the same document (as
+most probably would?) but for EBo I think it worked okay.I personally would like to see an effort to bring manuscript
+description and transcription together more closely. I think that this
+would be done best not from within the TEI (and I speak as a member on
+the TEI council), because the interests of the TEI are quite general.
+But if the DM were to support an effort - a "Manuscript Encoding
+Initiative" - incorporating manuscript description and transcription
+(including codicology)...Dot_redacted_(a)ling.unipi.it> wrote:
+> James Cummings ha scritto:
+> >
+> > Hi Martin,
+> >
+> > I would of course recommend using TEI P5 and its Manuscript Description
+> > module.[1]  This is really the outcome of the most recent work, based on
+> > the work of the groups you note and provides some very good ways to
+> > record all the metadata one might about a manuscript.[2]  That module,
+> > combined with the other innovations in others (like <choice> and <g>)
+> > which are a boon to the transcription of primary sources, means that if
+> > one was starting an edition of a manuscript, then this is what I'd
+> > choose.  (In fact, what I have chosen for one I'm currently working on.)
+>
+> Hi all,
+> while I fully agree with James about the excellent Manuscript
+> Description module (and other goodies in TEI P5), I can't but point out
+> that there currently is a deep imbalance between manuscript
+> *description* and manuscript *transcription* features in TEI P4/P5. The
+> MS transcription SIG was going to deal with lots of interesting stuff
+> (time based encoding, substitution/variation issues, revision of the
+> transcription chapter, etc.) but discussion seems to have stopped (at
+> least on the mailing list, I also wonder if there was a SIG meeting in
+> 2005 like in 2003-04).
+>
+> I would be very keen to see a restart of the SIG activities. As quite a
+> few people mentioned their specific solutions to MS transcription
+> problems, I also think it could be interesting to collect and compare
+> this information to see what could be used/adapted/useful for
+> inspiration for TEI P5.
+>
+> Ciao
+>
+> --
+> Roberto Rosselli Del Turco      roberto.rossellidelturco at unito.it
+> Dipartimento di Scienze         rosselli at ling.unipi.it
+> del Linguaggio                  Then spoke the thunder  DA
+> Universita' di Torino           Datta: what have we given?  (TSE)
+>
+>     Hige sceal the heardra,     heorte the cenre,
+>     mod sceal the mare,       the ure maegen litlath.  (Maldon 312-3)
+>
+>
+> _______________________________________________
+> Digital Medievalist Project
+> Homepage: http://www.digitalmedievalist.org
+> Journal (Spring 2005-): http://www.digitalmedievalist.org/journal.cfm
+> RSS (announcements) server: http://www.digitalmedievalist.org/rss/rss2.cfm
+> Wiki: http://sql.uleth.ca/dmorgwiki/index.php
+> Change membership options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+> Submit RSS announcement: http://www.digitalmedievalist.org/newitem.cfm
+_redacted_(a)uleth.ca
+> dm-l mailing list
+_redacted_(a)uleth.ca
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+>
+--
+***************************************
+Dot Porter, Program Coordinator
+Collaboratory for Research in Computing for Humanities
+University of Kentucky
+351 William T. Young Library
+Lexington, KY  40506_redacted_(a)uky.edu          859-257-9549
+***************************************
+--===============6896460854209700204==--

@@ -1,0 +1,99 @@
+Subject: Re: [dm-l] Access or ExcelHi Abdullah,I thought I'd pass on something that came up on TEI-L regarding a
+similarish problem. The goal there is to mark up classical texts to
+allow=20
+> the comparision of the interrelated
+> artefacts at te levels of words, phrases, clauses and text
+> hierarchical
+> structures, so that it is possible e.g. to sort and analyse all
+> corresponding phrase and clause patterns in two texts in different
+> languages.The specific problem this person is looking at solving involves dealing
+with multiple hierarchies in this analysis, but he discussed databases
+that allow handling annotated text, which seems quite close to what you
+are doing.He cited an open source database program he was planning to use that is
+designed for this type of work: http://emdros.org/index.htmlDon't know if it is for you, but it is an idea.-danOn Mon, 2006-06-11 at 00:23 +0000, Abdullah Alger wrote:
+> I also thought about XML, because of its flexibility, but if I decided to u=
+se
+> XML then wouldn't I have to write all the code for it?  It would take a lot=
+ of
+> time, unless there was a way that I could do it through excel.
+>=20
+>=20
+>=20
+>=20
+>=20
+>=20
+>=20
+_redacted_(a)uleth.ca>:
+>=20
+> > On Sat, 2006-11-04 at 09:36 +0000, Abdullah Alger wrote:
+> >
+> >> To tell you the truth, what I am doing is calculating the number of=20
+> >> formulaic
+> >> patterns and the number of punctuation marks in the Exeter Book.  It=20
+> >> is quite
+> >> simple to look at all the information in Excel, but I cannot really comp=
+are
+> >> results from the formulaic patterns with the punctuation practises,=20
+> >> since the
+> >> data is quite large and multidimensional. I think that Minitab would=20
+> >> work well
+> >> from what I have been told, but I have no experience with this tool.
+> >
+> > I don't know minitab, but I'm wondering if XML and XQuery might be a
+> > useful way of getting at this data--of course I don't know exactly where
+> > you are with it or what you are doing. There would be issues with
+> > multiple hierarchies, but they wouldn't be unsolvable. In my new
+> > function, of course, I'd strongly recommend TEI for it as well ;)
+> >
+> > -dan
+> > --
+> > Daniel Paul O'Donnell, PhD
+> > Chair, Text Encoding Initiative (http://www.tei-c.org/)
+> > Director, Digital Medievalist Project http://www.digitalmedievalist.org/
+> > Associate Professor and Chair, Department of English
+> > University of Lethbridge
+> > Lethbridge AB T1K 3M4
+> > Canada
+> > Vox: +1 403 329-2378
+> > Fax: +1 403 382-7191
+> >
+> >
+> > _______________________________________________
+> > Digital Medievalist Project
+> > Homepage: http://www.digitalmedievalist.org
+> > Journal (Spring 2005-): http://www.digitalmedievalist.org/journal.cfm
+> > RSS (announcements) server: http://www.digitalmedievalist.org/rss/rss2.cfm
+> > Wiki: http://sql.uleth.ca/dmorgwiki/index.php
+> > Change membership options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+> > Submit RSS announcement: http://www.digitalmedievalist.org/newitem.cfm
+_redacted_(a)uleth.ca
+> > dm-l mailing list
+_redacted_(a)uleth.ca
+> > http://listserv.uleth.ca/mailman/listinfo/dm-l
+> >
+>=20
+>=20
+>=20
+>=20
+> _______________________________________________
+> Digital Medievalist Project
+> Homepage: http://www.digitalmedievalist.org
+> Journal (Spring 2005-): http://www.digitalmedievalist.org/journal.cfm
+> RSS (announcements) server: http://www.digitalmedievalist.org/rss/rss2.cfm
+> Wiki: http://sql.uleth.ca/dmorgwiki/index.php
+> Change membership options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+> Submit RSS announcement: http://www.digitalmedievalist.org/newitem.cfm
+_redacted_(a)uleth.ca
+> dm-l mailing list
+_redacted_(a)uleth.ca
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+--=20
+Daniel Paul O'Donnell
+Associate Professor and Chair of English
+Chair, Text Encoding Initiative <http://www.tei-c.org/>
+Director, Digital Medievalist Project
+<http://www.digitalmedievalist.org/>
+University of Lethbridge
+Lethbridge AB T1K 3M4
+CanadaVox +1 403 329-2377
+Fax +1 403 382-7191_redacted_@caedmon/ubuntu
