@@ -1,41 +1,36 @@
-Subject:This is most impressive! It works fine on Firefox 3.5.6 (MacOs X
+Subject:
+
+This is most impressive! It works fine on Firefox 3.5.6 (MacOs X
 10.6). In "1345 : prologue d'un compte" scrolling back and forth from
 the image to the transcription box is a little bit difficult but
-that's no big deal.Best wishes
-Notis_redacted_(a)ehess.fr>
+that's no big deal.
+
+Best wishes
+Notis
+
+_redacted_(a)ehess.fr>
 >
 > Dear list,
-> I'm pleased to announce that Castellanie.net, a website publishing images a=
-nd soon transcriptions of the XIIIth century account rolls of the House of Sa=
-voy, now proposes self-corrective online paleography exercices to help studen=
-ts and beginners to learn how to read those accounts. Four exercices are avai=
-lable now, with more to come. They can be accessed from the main website (www=
-.castellanie.net) or directly at this URL:
+> I'm pleased to announce that Castellanie.net, a website publishing images and soon transcriptions of the XIIIth century account rolls of the House of Savoy, now proposes self-corrective online paleography exercices to help students and beginners to learn how to read those accounts. Four exercices are available now, with more to come. They can be accessed from the main website (www.castellanie.net) or directly at this URL:
 > http://paleographie.castellanie.net
 >
-> What may also be of interest to some of you is that those exercices are gen=
-erated directly from Image Markup Tool, thanks to a customized XSL, CSS and J=
-avascript, making it very easy to create new exercices, including for scholar=
-s with zero web design skills.
-> I plan to make the XSL / CSS / Javascript available online very soon, after=
- just a little bit of polishing.
-> Besides, as we plan to extend the collection of exercices, any feedback abo=
-ut the interface, functionalities, etc. will be most welcome :)
+> What may also be of interest to some of you is that those exercices are generated directly from Image Markup Tool, thanks to a customized XSL, CSS and Javascript, making it very easy to create new exercices, including for scholars with zero web design skills.
+> I plan to make the XSL / CSS / Javascript available online very soon, after just a little bit of polishing.
+> Besides, as we plan to extend the collection of exercices, any feedback about the interface, functionalities, etc. will be most welcome :)
 >
 > Best regards, an Happy New Year!
 > Marjorie
 >
 > --
 > Marjorie BURGHART
-> EHESS (p=C3=B4le de Lyon) / UMR 5648
-> Histoire et Arch=C3=A9ologie des Mondes Chr=C3=A9tiens et Musulmans M=C3=A9=
-di=C3=A9vaux
+> EHESS (pôle de Lyon) / UMR 5648
+> Histoire et Archéologie des Mondes Chrétiens et Musulmans Médiévaux
 > 18 quai Claude Bernard
 > 69007 Lyon - FRANCE
 >
 >
 >
-> Digital Medievalist -- =C2=A0http://www.digitalmedievalist.org/
+> Digital Medievalist --  http://www.digitalmedievalist.org/
 > Journal: http://www.digitalmedievalist.org/journal/
 > Journal Editors: editors _AT_ digitalmedievalist.org
 > News: http://www.digitalmedievalist.org/news/
@@ -43,8 +38,14 @@ di=C3=A9vaux
 > Twitter: http://twitter.com/digitalmedieval
 > Facebook: http://www.facebook.com/group.php?gidI320313760
 _redacted_(a)uleth.ca
-> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l--
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+
+
+--
 Dr. Notis Toufexis
 http://www.toufexis.info
-http://www.early-modern-greek.org
---===============8182315167653791527==--
+http://www.early-modern-greek.org
+
+--8182315167653791527-
+

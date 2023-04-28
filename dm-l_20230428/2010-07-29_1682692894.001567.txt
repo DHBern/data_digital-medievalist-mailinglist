@@ -1,4 +1,8 @@
-Subject: Re: [dm-l] Question about preservation of digital contentDear Daniel,The issue of long-term preservation of digital content coming from medieval
+Subject: Re: [dm-l] Question about preservation of digital content
+
+Dear Daniel,
+
+The issue of long-term preservation of digital content coming from medieval
 manuscripts as the source is, as far as I can tell, exactly the same as it
 is for any other digital data anywhere, and vast amounts of ink (real and
 virtual) has been used discussing the issue. Although it's a few years old
@@ -11,18 +15,22 @@ true TDRs even now, it's a fine ideal to start with. Although Dan O'Donnell
 is correct that many older file formats are still able to be read far past
 the time we might expect it, the issue of "digital preservation" is much
 more extensive than simply "can I still have access to the data on this
-file" (at least, if you ask a librarian about it  :-)  ).Dot_redacted_(a)hrstud.hr> wrote:>  Dear Digital Medievalists and TEI members,
+file" (at least, if you ask a librarian about it  :-)  ).
+
+Dot
+
+_redacted_(a)hrstud.hr> wrote:
+
+>  Dear Digital Medievalists and TEI members,
 >
 >
 >
 > I have a question about preservation of digital content especially medieval
 > manuscripts. I am writing a small article on the topic and I have consulted
 > a lot sources (papers, handbooks) but most of them do not say anything about
-> the =E2=80=9Clife span=E2=80=9D of the data in specific formats. To clarify=
- this =E2=80=93 a .doc
+> the “life span” of the data in specific formats. To clarify this – a .doc
 > file crated in 1995. Will be most likely unreadable  in 2010.  What about
-> other formats? Has anyone done some research on =E2=80=9Clife span=E2=80=9D=
- of a specific
+> other formats? Has anyone done some research on “life span” of a specific
 > version of digital formats and when it becomes clear that the new version
 > and the old one are not compatible anymore? And here I am talking about pdf,
 > rtf, doc (and all office files), djvu, tiff, jpg , mpg etc. (texts and
@@ -55,15 +63,23 @@ file" (at least, if you ask a librarian about it  :-)  ).Dot_redacted_(a)hrs
 > News: http://www.digitalmedievalist.org/news/
 > Wiki: http://www.digitalmedievalist.org/wiki/
 > Twitter: http://twitter.com/digitalmedieval
-> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+> Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca
 > Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
->--=20
+>
+
+
+
+-- 
 *~*~*~*~*~*~*~*~*~*~*
 Dot Porter (MA, MSLS)
 Digital Medievalist, Digital Librarian
 _redacted_(a)gmail.com
-*~*~*~*~*~*~*~*~*~*~*PGRpdj5EZWFyIERhbmllbCw8L2Rpdj48ZGl2Pjxicj48L2Rpdj5UaGUgaXNzdWUgb2YgbG9uZy10
+*~*~*~*~*~*~*~*~*~*~*
+
+
+
+PGRpdj5EZWFyIERhbmllbCw8L2Rpdj48ZGl2Pjxicj48L2Rpdj5UaGUgaXNzdWUgb2YgbG9uZy10
 ZXJtIHByZXNlcnZhdGlvbiBvZiBkaWdpdGFsIGNvbnRlbnQgY29taW5nIGZyb20gbWVkaWV2YWwg
 bWFudXNjcmlwdHMgYXMgdGhlIHNvdXJjZSBpcywgYXMgZmFyIGFzIEkgY2FuIHRlbGwsIGV4YWN0
 bHkgdGhlIHNhbWUgYXMgaXQgaXMgZm9yIGFueSBvdGhlciBkaWdpdGFsIGRhdGEgYW55d2hlcmUs
@@ -148,4 +164,4 @@ dGU+PC9kaXY+PGJyPjxiciBjbGVhcj0iYWxsIj48YnI+LS0gPGJyPip+Kn4qfip+Kn4qfip+Kn4q
 fip+Kjxicj4KCkRvdCBQb3J0ZXIgKE1BLCBNU0xTKaAgoCCgIKAgPGJyPkRpZ2l0YWwgTWVkaWV2
 YWxpc3QsIERpZ2l0YWwgTGlicmFyaWFuPGJyPkVtYWlsOiA8YSBocmVmPSJtYWlsdG86ZG90LnBv
 cnRlckBnbWFpbC5jb20iPmRvdC5wb3J0ZXJAZ21haWwuY29tPC9hPjxicj4qfip+Kn4qfip+Kn4q
-fip+Kn4qfio8YnI+CjwvZGl2Pgo=
+fip+Kn4qfio8YnI+CjwvZGl2Pgo

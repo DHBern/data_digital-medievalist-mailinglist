@@ -1,4 +1,8 @@
-Subject: Re: [dm-l] Re: Experience using Microsoft's XSLT? and Is there a	goodOn Tue, 22 Jun 2004, Daniel O'Donnell wrote:> Does anybody have experience using the recent releases of MSXML? I'm
+Subject: Re: [dm-l] Re: Experience using Microsoft's XSLT? and Is there a	good
+
+On Tue, 22 Jun 2004, Daniel O'Donnell wrote:
+
+> Does anybody have experience using the recent releases of MSXML? I'm
 > wondering in particular if their xslt is standards compliant. I
 > understand from the XML bible
 > <http://www.ibiblio.org/xml/books/bible2/chapters/ch17.html> that it
@@ -7,24 +11,47 @@ Subject: Re: [dm-l] Re: Experience using Microsoft's XSLT? and Is there a	good
 > versions
 > might be
 >
-<http://msdn.microsoft.com/library/default.asp?url=3D/library/en-us/xmlsdk/ht=
-ml/xmmscXMLOverview.asp>,
-> but it can be difficult to trust them sometimes.The standard MSXML XSLT FAQ given by people is:
-http://www.netcrucible.com/xslt/msxml-faq.htmHowever, that is not very up to date.> I ask because a neat tool (Textpipe
+<http://msdn.microsoft.com/library/default.asp?url=/library/en-us/xmlsdk/html/xmmscXMLOverview.asp>,
+> but it can be difficult to trust them sometimes.
+
+The standard MSXML XSLT FAQ given by people is:
+http://www.netcrucible.com/xslt/msxml-faq.htm
+
+However, that is not very up to date.
+
+> I ask because a neat tool (Textpipe
 > <http://www.crystalsoftware.com.au/textpipe.html>) I use has now
-> built-in XSLT, but depends on MSXML.Any interesting product. For that price I'd have expected a way
+> built-in XSLT, but depends on MSXML.
+
+Any interesting product. For that price I'd have expected a way
 to choose what parser it uses, but I'm assuming it is a .NET program
 which makes that more difficult.  There is no reason to not use
 that for the types of conversions it uses and a sensible parser
-like saxon ( http://saxon.sf.net ) for real transformations.> For those who don't know what I am talking about: XSLT (eXtensible
+like saxon ( http://saxon.sf.net ) for real transformations.
+
+> For those who don't know what I am talking about: XSLT (eXtensible
 > Stylesheet Language-Tranformations) is a stylesheet language used
 > (amongst other things) for converting documents written in XML
 > (eXtensible Markup Language) such as used by the TEI (Text Encoding
-> Initiative) into HTML for display on the web.Or into other XML structures, or plain text. :-)> Once the web site is up, we should put all these acronyms into a FAQ
+> Initiative) into HTML for display on the web.
+
+Or into other XML structures, or plain text. :-)
+
+> Once the web site is up, we should put all these acronyms into a FAQ
 > (Frequently Asked Questions) file. Does anybody know of a good
 > existing
-> list of acronyms for beginners?http://www.acronymfinder.com/  as already mentioned is good in that it
+> list of acronyms for beginners?
+
+http://www.acronymfinder.com/  as already mentioned is good in that it
 has lots, but
-doesn't give much explanation.http://www.dictionary.com/ has less acronyms (though all the ones
-you mentioned) but usually links to better definitions.Thanks for setting up the list,-James
---===============0997893179960601990==--
+doesn't give much explanation.
+
+http://www.dictionary.com/ has less acronyms (though all the ones
+you mentioned) but usually links to better definitions.
+
+Thanks for setting up the list,
+
+-James
+
+--0997893179960601990-
+

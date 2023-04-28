@@ -1,25 +1,39 @@
-Subject: [dm-l] TEI and concurrent hierarchiesDear DMs,Maybe this should be better posted on the TEI list, but I hope some of you co=
-uld
-have interesting experience in the field !I'm encoding an ongoing project in TEI XML, and I'm encountering problems to
+Subject: [dm-l] TEI and concurrent hierarchies
+
+Dear DMs,
+
+Maybe this should be better posted on the TEI list, but I hope some of you could
+have interesting experience in the field !
+
+I'm encoding an ongoing project in TEI XML, and I'm encountering problems to
 represent concurrent hierarchies.
 I'd like to markup some rhetorical elements, that can either be contained in
 paragraphes (<p> tags), or contain <p> tags, depending on their length and
 importance. Therefore, I can't use <seg>, for instance.
-From a "logical" point of view, it seems to me that <div> tags would be perf=
-ect
-(with a convenient type), but in this case I would have a problem of concurre=
-nt
-hierarchies (possible overlapping of <div> and <p> elements).The solutions proposed in the current TEI Guidelines for the handling of
+From a "logical" point of view, it seems to me that <div> tags would be perfect
+(with a convenient type), but in this case I would have a problem of concurrent
+hierarchies (possible overlapping of <div> and <p> elements).
+
+The solutions proposed in the current TEI Guidelines for the handling of
 multiple hierarchies would work, BUT I'm afraid they would fairly complicate
-the processing of the encoded texts with standard XML tools.I thought about customizing the DTD to make <p> tags empty, which would be
+the processing of the encoded texts with standard XML tools.
+
+I thought about customizing the DTD to make <p> tags empty, which would be
 convenient for my purpose, but the markup wouldn't be TEI compliant any more
 (as CDATA is not allowed as child of div or body)...
 In a way, it seems to be the problem too for, eg, the quite seducing HORSE
 approach recently discussed by S. Bauman reguarding TEI
-(http://www.mulberrytech.com/Extreme/Proceedings/html/2005/Bauman01/EML2005Ba=
-uman01.html)
-?Thanks in advance for your help and experience (especially concerning the
-efficiency of processing the marked texts) !Marjorie--=20
+(http://www.mulberrytech.com/Extreme/Proceedings/html/2005/Bauman01/EML2005Bauman01.html)
+?
+
+Thanks in advance for your help and experience (especially concerning the
+efficiency of processing the marked texts) !
+
+Marjorie
+
+-- 
 Marjorie Burghart
-Universit=C3=A9 Lyon II
---===============7657955696982464991==--
+Université Lyon II
+
+--7657955696982464991-
+

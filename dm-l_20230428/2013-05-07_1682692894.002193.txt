@@ -1,18 +1,32 @@
-Subject: [dm-l] Request for Comments: Interoperability between	StemmatologicalDear colleagues,Thanks to a Project Support Grant awarded by the ALLC this year, we have
+Subject: [dm-l] Request for Comments: Interoperability between	Stemmatological
+
+Dear colleagues,
+
+Thanks to a Project Support Grant awarded by the ALLC this year, we have
 the opportunity to connect two related web services for stemmatological
 analysis of texts: Stemweb (https://github.com/Stemweb/Stemweb) provided by
 researchers at the University of Helsinki, and Stemmaweb (
 http://byzantini.st/stemmaweb/) provided by the Tree of Texts project at KU
-Leuven in collaboration with the Huygens Institute.After a meeting in Helsinki we have produced a white paper on our plans for
+Leuven in collaboration with the Huygens Institute.
+
+After a meeting in Helsinki we have produced a white paper on our plans for
 interoperability, and we warmly invite comments or suggestions from any
 interested scholar, researcher, and/or developer. We intend to begin work
 in June, so comments received by the end of May would be particularly
-helpful.The white paper is available here: http://treeoftexts.arts.kuleuven.be/?p=58
+helpful.
+
+The white paper is available here: http://treeoftexts.arts.kuleuven.be/?pX
 Comments may be mailed directly to the authors, or preferably added
-directly to the blog post for open discussion.Best wishes,
+directly to the blog post for open discussion.
+
+Best wishes,
 _redacted_(a)arts.kuleuven.be)
 _redacted_(a)cs.helsinki.fi)
-_redacted_(a)huygens.knaw.nl)PGRpdiBkaXI9Imx0ciI+RGVhciBjb2xsZWFndWVzLDxkaXY+PGJyPjwvZGl2PjxkaXYgc3R5bGU+
+_redacted_(a)huygens.knaw.nl)
+
+
+
+PGRpdiBkaXI9Imx0ciI+RGVhciBjb2xsZWFndWVzLDxkaXY+PGJyPjwvZGl2PjxkaXYgc3R5bGU+
 VGhhbmtzIHRvIGEgUHJvamVjdCBTdXBwb3J0IEdyYW50IGF3YXJkZWQgYnkgdGhlIEFMTEMgdGhp
 cyB5ZWFyLCB3ZSBoYXZlIHRoZSBvcHBvcnR1bml0eSB0byBjb25uZWN0IHR3byByZWxhdGVkIHdl
 YiBzZXJ2aWNlcyBmb3Igc3RlbW1hdG9sb2dpY2FsIGFuYWx5c2lzIG9mIHRleHRzOiBTdGVtd2Vi
@@ -40,4 +54,5 @@ ZGl2IHN0eWxlPlRlZW11IFJvb3MgKDxhIGhyZWY9Im1haWx0bzp0ZWVtdS5yb29zQGNzLmhlbHNp
 bmtpLmZpIj50ZWVtdS5yb29zQGNzLmhlbHNpbmtpLmZpPC9hPik8L2Rpdj4KPGRpdiBzdHlsZT5K
 b3JpcyB2YW4gWnVuZGVydCAoPGEgaHJlZj0ibWFpbHRvOmpvcmlzLnZhbi56dW5kZXJ0QGh1eWdl
 bnMua25hdy5ubCI+am9yaXMudmFuLnp1bmRlcnRAaHV5Z2Vucy5rbmF3Lm5sPC9hPik8L2Rpdj48
-L2Rpdj4K
+L2Rpdj4K
+

@@ -1,15 +1,23 @@
-Subject: Re: [dm-l] TEI/XML manuscript markup initiatives?As part of my presentation at Kalamazoo last year I described how (for
+Subject: Re: [dm-l] TEI/XML manuscript markup initiatives?
+
+As part of my presentation at Kalamazoo last year I described how (for
 Electronic Boethius) I modified some of the manuscript description
 elements for use in transcription (for example, marking rubrics in the
 text using the <rubric> element). This obviously wouldn't work if one
 wanted to both describe and transcribe a text in the same document (as
-most probably would?) but for EBo I think it worked okay.I personally would like to see an effort to bring manuscript
+most probably would?) but for EBo I think it worked okay.
+
+I personally would like to see an effort to bring manuscript
 description and transcription together more closely. I think that this
 would be done best not from within the TEI (and I speak as a member on
 the TEI council), because the interests of the TEI are quite general.
 But if the DM were to support an effort - a "Manuscript Encoding
 Initiative" - incorporating manuscript description and transcription
-(including codicology)...Dot_redacted_(a)ling.unipi.it> wrote:
+(including codicology)...
+
+Dot
+
+_redacted_(a)ling.unipi.it> wrote:
 > James Cummings ha scritto:
 > >
 > > Hi Martin,
@@ -64,13 +72,18 @@ _redacted_(a)uleth.ca
 > dm-l mailing list
 _redacted_(a)uleth.ca
 > http://listserv.uleth.ca/mailman/listinfo/dm-l
->
+>
+
 --
 ***************************************
 Dot Porter, Program Coordinator
 Collaboratory for Research in Computing for Humanities
 University of Kentucky
 351 William T. Young Library
-Lexington, KY  40506_redacted_(a)uky.edu          859-257-9549
-***************************************
---===============6896460854209700204==--
+Lexington, KY  40506
+
+_redacted_(a)uky.edu          859-257-9549
+***************************************
+
+--6896460854209700204-
+

@@ -1,81 +1,110 @@
-Subject: Re: [dm-l] Use of wikis for transcriptionI think in the end that the answer to all these questions depends on how impo=
-rtant and what type of result you are looking for.James's answer to the question of OCR is bang on, so I'vw nothing to add ther=
-e. And as those who've worked with me know, I'm a huge believer in wikis and =
-use them all the time for various, sometimes unorthodox things. Crowd sourcin=
-g proof reasing of flat texts a la Gutenberg is a pretty good example of what=
- they might be good at. Though I'd be worried in the case of unnegotiated cro=
-ws sourcing about incremental version control--i.e. Not that you couldn't see=
- what changes had been made and reverse damage, but that the workflow would b=
-e so cumbersome if people started indoing each others corrections that you'd =
-lose any possible efficiencies.I find the belief in the power of agreed upon conventions quite touching  if =
-somewhat other worldly. My experience, as an author, editor, journal editor, =
-and scholar is that consistency of application in the absence of validation i=
-s impossible. Even in single author works you tend to forget exactly the form=
-at you used earlier for, for example, bibliographic format and I've seen too =
-much minor variation among authors who were trying to follow say the chicago =
-style to think that any conventions not subject to validation will be impleme=
-nted consistently.However this is only important of you plan to do something other than print y=
-our texts to the screen. And it is also possible to retrofit markup over proo=
-f-read flat text.One last observation is that you can get double keyed text to a guaranteed ac=
-curacy of 99.5 or higher for probably about $2-3 a page if you have sufficien=
-t volume (99.995% and about $1.50/page for modern print). I'd now consider th=
-at route before constructing any particular transcription scheme (there is so=
-me hope that the TEI will be offering keying at these prices for smaller jobs=
- later as a membership benefit later this fall, so I've been paying attention=
- to prices lately).=20-----------
+Subject: Re: [dm-l] Use of wikis for transcription
+
+I think in the end that the answer to all these questions depends on how important and what type of result you are looking for.
+
+James's answer to the question of OCR is bang on, so I'vw nothing to add there. And as those who've worked with me know, I'm a huge believer in wikis and use them all the time for various, sometimes unorthodox things. Crowd sourcing proof reasing of flat texts a la Gutenberg is a pretty good example of what they might be good at. Though I'd be worried in the case of unnegotiated crows sourcing about incremental version control--i.e. Not that you couldn't see what changes had been made and reverse damage, but that the workflow would be so cumbersome if people started indoing each others corrections that you'd lose any possible efficiencies.
+
+I find the belief in the power of agreed upon conventions quite touching  if somewhat other worldly. My experience, as an author, editor, journal editor, and scholar is that consistency of application in the absence of validation is impossible. Even in single author works you tend to forget exactly the format you used earlier for, for example, bibliographic format and I've seen too much minor variation among authors who were trying to follow say the chicago style to think that any conventions not subject to validation will be implemented consistently.
+
+However this is only important of you plan to do something other than print your texts to the screen. And it is also possible to retrofit markup over proof-read flat text.
+
+One last observation is that you can get double keyed text to a guaranteed accuracy of 99.5 or higher for probably about $2-3 a page if you have sufficient volume (99.995% and about $1.50/page for modern print). I'd now consider that route before constructing any particular transcription scheme (there is some hope that the TEI will be offering keying at these prices for smaller jobs later as a membership benefit later this fall, so I've been paying attention to prices lately). 
+
+-----------
 Daniel O'Donnell
 University of Lethbridge
-(From my mobile telephone)--- original message ---
+(From my mobile telephone)
+
+--- original message ---
 _redacted_(a)btinternet.com>
 Subject: Re: [dm-l] Use of wikis for transcription
 Date: July 28, 2009
-Time: 5:4:51=20Thanks for these replies.  From work on other wikis, in particular=20
-Wikipedia, I think1. Crowdsourcing very poor at anything involving summarisation, synthesis=20
-and so on.  Hence Wikipedia is good at biographies (which have a set format, =and usually follow the progress of someone's life in the obvious order).=20
-Very poor at high level subjects like 'History', 'Philosophy', 'Roman=20
-Empire' and that sort of thing, where 95% of the work is sourcing the=20
-relevant and important facts and so on.2.  There is no problem with conventions - co-editors generally quick to=20
-absorb relevant policy, house style and so on (over much, in my view).3.  For these reasons, wikis well suited to translation work (which has=20
-absolutely no demands on organisation or synthesis).4.  For similar reasons, transcription would also be well suited for wiki=20
-work.5.  What originally drew me to the idea was finding an important medieval=20
-work (a critical edition from the 1960's) in a London library where the=20
-basement had clearly flooded at some time.  The volumes were out of order,=20
-there were missing leaves, one volume was even missing.  Many important=20
-works are not critical editions and are simply transcriptions made by=20
-dedicated enthusiasts.  These are published in obscure journals like CIMAGL, =in courier font, generally not checked by others (in my view - it is easy to =locate mistakes), and generally not accessible to the outside world.6. Thus, publication on a wiki would ensure much better access to important=20
-works, and also the opportunity for others to check.7.  Some here have commented on the use of character recognition, which I=20
-find bizarre.  I studied optical pattern recognition in the 1980's and it=20
-was accepted then, and it is still true I think, that machines cannot=20
-understand human speech or writing unless they also grasp the semantics.  I=20
-can work through a text without concentrating on the meaning and I can get=20
-probably a 90% success rate.  Then I go through again, this time translating =as I go along and get a 98% success rate.  Finally I go one level higher (it =is philosophy I usually translate) and try to understand not just what the=20
-writer is literally saying in their language, but what they actually mean,=20
-the argument they are making.  This gets me to 99% but I am still learning.=20
-It is very difficult to transcribe medieval texts without a deep=20
-understanding of the *kind* of thing the writer is trying to say.  That is=20
-because the writer was communicating with his or her (usually his) audience=20
-knowing the assumptions they would make and which would not need to be=20
-clarified.8.  To give an example, some years ago I hired a Cambridge PhD to help me=20
-brush up my Latin.  We worked through some medieval texts and we got stuck=20
-at 'Minor patet'.  He thought this meant 'it is less clear'.  In fact, as I=20
-soon found out, 'Minor' in this context means 'the minor proposition' (of a=20
-syllogism).9.  I did try out my OCR on a manuscript, but it was completely hopeless.=20
-Only humans will ever be able to read these things.10.  Thanks for the tips about XML.  I do work with XML and indeed I have=20
-made many experiments with trying to present images of manuscripts together=20
-with the Latin transcript and then an English translation.  Another reason=20
-for presenting the material like this is that we should no longer be hostage =to the person making a transcription, who is often interpreting the Latin in =a way that suits their interpretation of grammar and meaning.  It was not=20
-until I started reading manuscripts that I realised how much of the printed=20
-material we read is simply a typographer's invention.  For example medieval=20
-texts do not generally use the honorific capital.  They write 'aristotle'=20
-and even 'god', rather than 'Aristotle' or 'God'.  Actually they don't even=20
-write the full word.  There are standard abbreviations for all the commonly=20
-used words, such as Aristotle, Priscianus and so on.  The only way to=20
-present this material is to give the original, a transcript in the original=20
-language, and a translation into a modern language.EdwardDigital Medievalist --  http://www.digitalmedievalist.org/
+Time: 5:4:51 
+
+Thanks for these replies.  From work on other wikis, in particular 
+Wikipedia, I think
+
+1. Crowdsourcing very poor at anything involving summarisation, synthesis 
+and so on.  Hence Wikipedia is good at biographies (which have a set format, 
+and usually follow the progress of someone's life in the obvious order). 
+Very poor at high level subjects like 'History', 'Philosophy', 'Roman 
+Empire' and that sort of thing, where 95% of the work is sourcing the 
+relevant and important facts and so on.
+
+2.  There is no problem with conventions - co-editors generally quick to 
+absorb relevant policy, house style and so on (over much, in my view).
+
+3.  For these reasons, wikis well suited to translation work (which has 
+absolutely no demands on organisation or synthesis).
+
+4.  For similar reasons, transcription would also be well suited for wiki 
+work.
+
+5.  What originally drew me to the idea was finding an important medieval 
+work (a critical edition from the 1960's) in a London library where the 
+basement had clearly flooded at some time.  The volumes were out of order, 
+there were missing leaves, one volume was even missing.  Many important 
+works are not critical editions and are simply transcriptions made by 
+dedicated enthusiasts.  These are published in obscure journals like CIMAGL, 
+in courier font, generally not checked by others (in my view - it is easy to 
+locate mistakes), and generally not accessible to the outside world.
+
+6. Thus, publication on a wiki would ensure much better access to important 
+works, and also the opportunity for others to check.
+
+7.  Some here have commented on the use of character recognition, which I 
+find bizarre.  I studied optical pattern recognition in the 1980's and it 
+was accepted then, and it is still true I think, that machines cannot 
+understand human speech or writing unless they also grasp the semantics.  I 
+can work through a text without concentrating on the meaning and I can get 
+probably a 90% success rate.  Then I go through again, this time translating 
+as I go along and get a 98% success rate.  Finally I go one level higher (it 
+is philosophy I usually translate) and try to understand not just what the 
+writer is literally saying in their language, but what they actually mean, 
+the argument they are making.  This gets me to 99% but I am still learning. 
+It is very difficult to transcribe medieval texts without a deep 
+understanding of the *kind* of thing the writer is trying to say.  That is 
+because the writer was communicating with his or her (usually his) audience 
+knowing the assumptions they would make and which would not need to be 
+clarified.
+
+8.  To give an example, some years ago I hired a Cambridge PhD to help me 
+brush up my Latin.  We worked through some medieval texts and we got stuck 
+at 'Minor patet'.  He thought this meant 'it is less clear'.  In fact, as I 
+soon found out, 'Minor' in this context means 'the minor proposition' (of a 
+syllogism).
+
+9.  I did try out my OCR on a manuscript, but it was completely hopeless. 
+Only humans will ever be able to read these things.
+
+10.  Thanks for the tips about XML.  I do work with XML and indeed I have 
+made many experiments with trying to present images of manuscripts together 
+with the Latin transcript and then an English translation.  Another reason 
+for presenting the material like this is that we should no longer be hostage 
+to the person making a transcription, who is often interpreting the Latin in 
+a way that suits their interpretation of grammar and meaning.  It was not 
+until I started reading manuscripts that I realised how much of the printed 
+material we read is simply a typographer's invention.  For example medieval 
+texts do not generally use the honorific capital.  They write 'aristotle' 
+and even 'god', rather than 'Aristotle' or 'God'.  Actually they don't even 
+write the full word.  There are standard abbreviations for all the commonly 
+used words, such as Aristotle, Priscianus and so on.  The only way to 
+present this material is to give the original, a transcript in the original 
+language, and a translation into a modern language.
+
+Edward
+
+
+
+
+
+Digital Medievalist --  http://www.digitalmedievalist.org/
 Journal: http://www.digitalmedievalist.org/journal/
 Journal Editors: editors _AT_ digitalmedievalist.org
 News: http://www.digitalmedievalist.org/news/
 Wiki: http://www.digitalmedievalist.org/wiki/
 _redacted_(a)uleth.ca
-Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
---===============4630525300583161398==--
+Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+--4630525300583161398-
+

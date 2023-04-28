@@ -1,70 +1,89 @@
-Subject:Dear Digital Medievalists,the Centre for Information Modelling in Graz is
-organizing an event in the Marie Sk=C5=82odowska-Curie programm "DiXiT" and=20
-our fellow digital medievalis Dot Porter will give of the key notes:Call for papers:
-*Digital Scholarly Editions as Interfaces*International symposium, 23.-24.9.2016, Graz (Austria)Scholarly editions intermediate between the texts and their readers,
+Subject:
+
+Dear Digital Medievalists,
+
+the Centre for Information Modelling in Graz is
+organizing an event in the Marie Skłodowska-Curie programm "DiXiT" and 
+our fellow digital medievalis Dot Porter will give of the key notes:
+
+Call for papers:
+*Digital Scholarly Editions as Interfaces*
+
+International symposium, 23.-24.9.2016, Graz (Austria)
+
+Scholarly editions intermediate between the texts and their readers,
 which does not change with their transfer to digital media. Over the
-past two decades, research on digital scholarly editions (DSE) was=20
-deeply engaged with the impacts of the digital medium on the critical=20
-representation of texts and the changing conditions for the editor.=20
-However, less research has been done on the roles of the readers, or -=20
-as they are called in the digital environment - the users. A critical=20
-examination of the topic has already been demanded by Jerome McGann in=20
-2001, it was repeated by Hans Walter Gabler in 2010, and was taken up=20
-more recently by Patrick Sahle (2013) and Elena Pierazzo (2015). User=20
-studies are rare, and systematic considerations of principles of Human=20
-Computer Interaction are still marginal in theory and practice of DSE.=20
-In addition, the conceptualization of the DSEs as interfaces between=20
-machines could be intensified. However, the discourse on DSEs benefits=20
-from considering paradigms of interface design, from reflecting on the=20
-cultural and historical context of the visual appearance of scholarly=20
-editions and their affordances, as well as from examining the=20
+past two decades, research on digital scholarly editions (DSE) was 
+deeply engaged with the impacts of the digital medium on the critical 
+representation of texts and the changing conditions for the editor. 
+However, less research has been done on the roles of the readers, or - 
+as they are called in the digital environment - the users. A critical 
+examination of the topic has already been demanded by Jerome McGann in 
+2001, it was repeated by Hans Walter Gabler in 2010, and was taken up 
+more recently by Patrick Sahle (2013) and Elena Pierazzo (2015). User 
+studies are rare, and systematic considerations of principles of Human 
+Computer Interaction are still marginal in theory and practice of DSE. 
+In addition, the conceptualization of the DSEs as interfaces between 
+machines could be intensified. However, the discourse on DSEs benefits 
+from considering paradigms of interface design, from reflecting on the 
+cultural and historical context of the visual appearance of scholarly 
+editions and their affordances, as well as from examining the 
 interactions between user and resource.
 The symposium will discuss the relationship between digital scholarly
-editing and interfaces by bringing together experts of DSEs and=20
-Interface Design, editors and users of editions, web designers and=20
-developers. It will include the discussion of (graphical/user)=20
-interfaces of DSEs as much as conceptualizing the digital edition itself=20
-as an interface. In this context, we are interested in contributions to=20
-the following questions and beyond:- How can DSEs take full advantage of their digital environment without=20
-losing the traditional affordances that makes an edition "=C2=80=C2=98scholar=
-ly"?=20
-What is the role of skeuomorphic tropes and metaphors like footnotes,=20
-page turn and index in the design of DSEs and concerning the user=20
+editing and interfaces by bringing together experts of DSEs and 
+Interface Design, editors and users of editions, web designers and 
+developers. It will include the discussion of (graphical/user) 
+interfaces of DSEs as much as conceptualizing the digital edition itself 
+as an interface. In this context, we are interested in contributions to 
+the following questions and beyond:
+
+- How can DSEs take full advantage of their digital environment without 
+losing the traditional affordances that makes an edition "scholarly"? 
+What is the role of skeuomorphic tropes and metaphors like footnotes, 
+page turn and index in the design of DSEs and concerning the user 
 interaction?
 - Do interfaces of DSEs succeed in transferring the complexity of the
 underlying data models?
 - Plurality in representation is a core feature of DSE. How do
-interfaces realize this plurality? Do we need different interfaces for=20
-different target audiences (i.e. scholars, digital humanists, students,=20
+interfaces realize this plurality? Do we need different interfaces for 
+different target audiences (i.e. scholars, digital humanists, students, 
 public)?
-- How can user interfaces of DSEs succeed in transmitting Human Computer=20
-Interaction design principles like =C3=A2=C2=80=C2=98aesthetics=C3=A2=C2=80=
-=C2=99, =C3=A2=C2=80=C2=98trust=C3=A2=C2=80=C2=99, and
-"=C2=80=C2=98satisfaction"?
+- How can user interfaces of DSEs succeed in transmitting Human Computer 
+Interaction design principles like âaestheticsâ, âtrustâ, and
+"satisfaction"?
 - Citability and reliability are core requirements of scholarly work.
-Which user interface elements support them? How can we encourage the=20
+Which user interface elements support them? How can we encourage the 
 user to critically engage with the DSE?
-- What are the users of a DSE actually doing: are they reading the text=20
+- What are the users of a DSE actually doing: are they reading the text 
 or searching and analyzing the data?
-- Can we conceptualize machines as users? How can we include application=20
+- Can we conceptualize machines as users? How can we include application 
 programming interfaces (APIs) in the discussion on DSEs as interfaces?
 - Does the development of user interfaces for DSEs keep up with the
-rising distribution of small handheld devices? Will interfaces on=20
-tablets greatly differ from those on computer screens and perhaps=20
-encourage a larger readership?Please submit your proposal for a talk at the symposium until April 17,
+rising distribution of small handheld devices? Will interfaces on 
+tablets greatly differ from those on computer screens and perhaps 
+encourage a larger readership?
+
+Please submit your proposal for a talk at the symposium until April 17,
 _redacted_(a)uni-graz.at. The proposal should not exceed 700 words.
 There are funds to reimburse travel and accommodation costs. Please
-indicate with your submission if you need financial support.For further information see:
-http://informationsmodellierung.uni-graz.at/de/aktuelles/digital-scholarly-ed=
-itions-as-interfaces/--=20
+indicate with your submission if you need financial support.
+
+For further information see:
+http://informationsmodellierung.uni-graz.at/de/aktuelles/digital-scholarly-editions-as-interfaces/
+
+-- 
 -------------------------------------
 Professor Dr. Georg Vogeler
-Zentrum f=C3=BCr Informationsmodellierung -
+Zentrum für Informationsmodellierung -
 Austrian Centre for Digital Humanities
-Universit=C3=A4t Graz
-A-8010 Graz | Elisabethstra=C3=9Fe 59/III
+Universität Graz
+A-8010 Graz | Elisabethstraße 59/III
 Tel. +43 316 380 8033
-<http://informationsmodellierung.uni-graz.at> - <http://gams.uni-graz.at>Institut f=C3=BCr Dokumentologie und Editorik e.V. <http://www.i-d-e.de>
+<http://informationsmodellierung.uni-graz.at> - <http://gams.uni-graz.at>
+
+Institut für Dokumentologie und Editorik e.V. <http://www.i-d-e.de>
 International Center for Archival Research ICARus <http://www.icar-us.eu>
-Digital Medievalist <http://digitalmedievalist.org>
---===============4057942174705587470==--
+Digital Medievalist <http://digitalmedievalist.org>
+
+--4057942174705587470-
+

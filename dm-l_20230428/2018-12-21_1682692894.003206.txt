@@ -1,90 +1,96 @@
-Subject: [dm-l] CFP "Computer-Assisted Text Analysis for Resource-ScarceDear all,=20I am writing to invite you to propose abstracts for our symposium "Computer-A=
-ssisted Text Analysis for Resource-Scarce Literatures=E2=80=9D organized by a=
-nd to be held at the University of Miami (FL) on April 24-25 2019. The deadli=
-ne for submissions is January 15.=20Best wishes,=20=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3DComputer-Assisted Text Analysis for Resource-Scarce Literatures=20
-24-25 April 2019=20
-University of Miami, FLCall for Papers=20
-This two-day symposium aims to bring together scholars and researchers workin=
-g with computational approaches to texts. The event targets a broad audience =
-interested in the application of digital text analysis technology, as text mi=
-ning, topic modeling, authorship detection, writing style analysis, text reus=
-e, or more generally tasks performed through Natural Language Processing (NLP=
-). These techniques have significant potential not only for the study of lite=
-rature but also for the study of texts and language in general. The symposium=
- aims to create an open forum for showcasing these techniques.The event is also grounded in the idea that computational text analysis shoul=
-d be integrated not only in the academic research by faculty and their PhD st=
-udents, but also in a pedagogical environment. The use of computational analy=
-sis opens up new questions in literary studies, and exposes students to many =
-different ways of thinking about literature today.Computer-aided literary studies still thus tend to be focused on literatures =
-written in modern languages. NLP tools are quite developed for modern languag=
-es, especially for the modern English language. For medieval and premodern la=
-nguages, due to their instability of orthographic forms, attempts to conduct =
-computer-aided (thus, to a degree, systematic) research face many challenges =
-to normalize and standardize their linguistic forms. Therefore, the symposium=
- also aims to explore the use and challenge of using NLP tools for studying l=
-iteratures written in underrepresented and historical languages, such as the =
-medieval and premodern variants and precursors of Spanish, French, Latin, and=
- Dutch. Therefore, a special focus will be on the preprocessing  routines ava=
-ilable for these texts, such as lemmatization, by which we collect inflected =
-forms under a single item or lemma, as well as challenges faced normalizing o=
-rthographic variation of historical texts and other languages with unstable o=
-rthographies. Among the international and national speakers we will have seve=
-ral experts on the topic.Our envisioned program for the symposium is as follows: On the first day, the=
-re will be several workshops, including one devoted to integrating computer-a=
-ssisted analysis in the classroom, which will offer an introduction to stylom=
-etry, visualization, and text-reuse. On the second day, there will be talks (=
-30 min) that present ongoing research projects, methodologies, and challenges=
-. The subject languages are preferably, but not limited to underrepresented a=
-nd historical languages.
-							=09
-We are specifically interested in receiving proposals for contributions on on=
-e or more of the following topics:=20Stylometry for authorship studies
+Subject: [dm-l] CFP "Computer-Assisted Text Analysis for Resource-Scarce
+
+Dear all, 
+
+I am writing to invite you to propose abstracts for our symposium "Computer-Assisted Text Analysis for Resource-Scarce Literatures” organized by and to be held at the University of Miami (FL) on April 24-25 2019. The deadline for submissions is January 15. 
+
+Best wishes, 
+
+=========================
+
+Computer-Assisted Text Analysis for Resource-Scarce Literatures 
+24-25 April 2019 
+University of Miami, FL
+
+Call for Papers 
+This two-day symposium aims to bring together scholars and researchers working with computational approaches to texts. The event targets a broad audience interested in the application of digital text analysis technology, as text mining, topic modeling, authorship detection, writing style analysis, text reuse, or more generally tasks performed through Natural Language Processing (NLP). These techniques have significant potential not only for the study of literature but also for the study of texts and language in general. The symposium aims to create an open forum for showcasing these techniques.
+
+The event is also grounded in the idea that computational text analysis should be integrated not only in the academic research by faculty and their PhD students, but also in a pedagogical environment. The use of computational analysis opens up new questions in literary studies, and exposes students to many different ways of thinking about literature today.
+
+Computer-aided literary studies still thus tend to be focused on literatures written in modern languages. NLP tools are quite developed for modern languages, especially for the modern English language. For medieval and premodern languages, due to their instability of orthographic forms, attempts to conduct computer-aided (thus, to a degree, systematic) research face many challenges to normalize and standardize their linguistic forms. Therefore, the symposium also aims to explore the use and challenge of using NLP tools for studying literatures written in underrepresented and historical languages, such as the medieval and premodern variants and precursors of Spanish, French, Latin, and Dutch. Therefore, a special focus will be on the preprocessing  routines available for these texts, such as lemmatization, by which we collect inflected forms under a single item or lemma, as well as challenges faced normalizing orthographic variation of historical texts and other languages with unstable orthographies. Among the international and national speakers we will have several experts on the topic.
+
+Our envisioned program for the symposium is as follows: On the first day, there will be several workshops, including one devoted to integrating computer-assisted analysis in the classroom, which will offer an introduction to stylometry, visualization, and text-reuse. On the second day, there will be talks (30 min) that present ongoing research projects, methodologies, and challenges. The subject languages are preferably, but not limited to underrepresented and historical languages.
+								
+We are specifically interested in receiving proposals for contributions on one or more of the following topics: 
+
+Stylometry for authorship studies
 Stylometry as an approach to literary study
 Natural Language Processing and linguistic annotation
-Lemmatizers for underrepresented modern languages and old languages=20
+Lemmatizers for underrepresented modern languages and old languages 
 Text reuse detection
 Normalization
 Distributional semantics
 Network analysis
-Text visualization=20We especially welcome contributions from those working with any type of textu=
-al corpora, preferably those conceived for a specific research and/ from a di=
-achronic perspective. We conceive this symposium as an opportunity to share (=
-best)-practices and broaden conversation, thus proposals can be on ongoing an=
-d experimental methodologies.=20Confirmed Speakers:=20
-Greta Franzini (Universit=C3=A0 Cattolica del Sacro Cuore)
+Text visualization 
+
+We especially welcome contributions from those working with any type of textual corpora, preferably those conceived for a specific research and/ from a diachronic perspective. We conceive this symposium as an opportunity to share (best)-practices and broaden conversation, thus proposals can be on ongoing and experimental methodologies. 
+
+Confirmed Speakers: 
+Greta Franzini (Università Cattolica del Sacro Cuore)
 Francisco Gago Jover (College of the Holly Cross)
 Mike Kestemont (University of Antwerp)
 Enrique Manjavacas  (University of Antwerp)
-Marco Passarotti (Universit=C3=A0 Cattolica del Sacro Cuore)
-Dennis Tenen (Columbia University)Organization committee=20
-Susanna All=C3=A9s Torrent=20
-Lindsay Thomas=20Scientific committee=20
-Susanna All=C3=A9s Torrent=20
-Alberto Cairo=20
-Mitsunori Ogihara=20
-Allison Schifani=20Important dates=20
-15 January 2018. Deadline for the submission of abstracts=20
+Marco Passarotti (Università Cattolica del Sacro Cuore)
+Dennis Tenen (Columbia University)
+
+Organization committee 
+Susanna Allés Torrent 
+Lindsay Thomas 
+
+Scientific committee 
+Susanna Allés Torrent 
+Alberto Cairo 
+Mitsunori Ogihara 
+Allison Schifani 
+
+Important dates 
+15 January 2018. Deadline for the submission of abstracts 
 30 January 2019. Notification of acceptance
-24-25 April. Symposium Abstract submissions and format
-We invite researchers to submit 500-word proposals (including footnotes but e=
-xcluding the bibliography) in one single page related to any of the topics me=
-ntioned above. The format of the contributions will be 20 mins presentations =
-followed by 10 min Q&A. Title, name(s) and affiliation should appear and the =
-prefered formats are .txt, .docx, .odt and pdf.=20_redacted_(a)miami.edu <mailto:susanna_alles(a=
-)miami.edu> and they will be reviewed by the scientific committee.=20Languages=20
-The official language of the symposium is English, but it is possible to subm=
-it a proposal also in Spanish, French, or Italian.The symposium will be held with support from:=20
+24-25 April. Symposium
+
+ Abstract submissions and format
+We invite researchers to submit 500-word proposals (including footnotes but excluding the bibliography) in one single page related to any of the topics mentioned above. The format of the contributions will be 20 mins presentations followed by 10 min Q&A. Title, name(s) and affiliation should appear and the prefered formats are .txt, .docx, .odt and pdf. 
+
+_redacted_(a)miami.edu <mailto:susanna_alles(a)miami.edu> and they will be reviewed by the scientific committee. 
+
+Languages 
+The official language of the symposium is English, but it is possible to submit a proposal also in Spanish, French, or Italian.
+
+The symposium will be held with support from: 
 Department of Modern Languages and Literatures, University of Miami
-College of Arts and Sciences=20
-SEED You Choose Program=20
-Center for the HumanitiesIn collaboration with:=20
+College of Arts and Sciences 
+SEED You Choose Program 
+Center for the Humanities
+
+In collaboration with: 
 University of Antwerp
-The Digital Humanities Flanders (DHuF) research community, sponsored by the F=
-WO=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3DSusanna All=C3=A9s Torrent
+The Digital Humanities Flanders (DHuF) research community, sponsored by the FWO
+
+
+
+=========================
+
+Susanna Allés Torrent
 Assistant Professor
 University of Miami
 http://susannalles.com
-_redacted_(a)miami.eduPGh0bWw+PGhlYWQ+PG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0
+_redacted_(a)miami.edu
+
+
+
+
+
+PGh0bWw+PGhlYWQ+PG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0
 L2h0bWw7IGNoYXJzZXQ9dXRmLTgiPjwvaGVhZD48Ym9keSBzdHlsZT0id29yZC13cmFwOiBicmVh
 ay13b3JkOyAtd2Via2l0LW5ic3AtbW9kZTogc3BhY2U7IGxpbmUtYnJlYWs6IGFmdGVyLXdoaXRl
 LXNwYWNlOyIgY2xhc3M9IiI+PGRpdiBjbGFzcz0iIj48ZGl2IGNsYXNzPSIiPkRlYXIgYWxsLCZu
@@ -655,4 +661,4 @@ bnQ8YnIgY2xhc3M9IiI+QXNzaXN0YW50IFByb2Zlc3NvcjxiciBjbGFzcz0iIj5Vbml2ZXJzaXR5
 IG9mIE1pYW1pPGJyIGNsYXNzPSIiPjxhIGhyZWY9Imh0dHA6Ly9zdXNhbm5hbGxlcy5jb20iIGNs
 YXNzPSIiPmh0dHA6Ly9zdXNhbm5hbGxlcy5jb208L2E+PGJyIGNsYXNzPSIiPnN1c2FubmFfYWxs
 ZXNAbWlhbWkuZWR1PGJyIGNsYXNzPSIiPjxiciBjbGFzcz0iIj48L2Rpdj4KPC9kaXY+CjxiciBj
-bGFzcz0iIj48L2JvZHk+PC9odG1sPg==
+bGFzcz0iIj48L2JvZHk+PC9odG1sPg

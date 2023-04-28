@@ -1,9 +1,12 @@
-Subject: Re: [dm-l] Palaeography exercises: the sources are now availableThanks for your feedback, Daniel!
+Subject: Re: [dm-l] Palaeography exercises: the sources are now available
+
+Thanks for your feedback, Daniel!
 Yes, Image Markup Tool is a very helpful tool; I use it too in another 
 unrelated project, to prepare interactive archtectural plans of 
 romasnesque churches associates with a photo gallery, and it works like 
 a charm. Since the source annotation file is in TEI XML format, IMT is 
-very flexible, and with a good XSL one can make pretty much anything of it.
+very flexible, and with a good XSL one can make pretty much anything of it.
+
 Daniel Mondekar a écrit :
 > Thanks! This is a great exercise
 >
@@ -34,11 +37,16 @@ Daniel Mondekar a écrit :
 > _______________________
 > Daniel Mondekar, prof.
 >
->   
+>   
+
 -- 
 Marjorie BURGHART
 EHESS (pôle de Lyon) / UMR 5648
 Histoire et Archéologie des Mondes Chrétiens et Musulmans Médiévaux
 18 quai Claude Bernard
-69007 Lyon - FRANCE
---===============3694126033994484454==--
+69007 Lyon - FRANCE
+
+
+
+--3694126033994484454-
+

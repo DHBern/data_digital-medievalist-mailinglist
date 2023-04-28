@@ -1,20 +1,31 @@
-Subject: [dm-l] Experience using Microsoft's XSLT? and Is there a good acronymDoes anybody have experience using the recent releases of MSXML? I'm=20
-wondering in particular if their xslt is standards compliant. I=20
-understand from the XML bible=20
-<http://www.ibiblio.org/xml/books/bible2/chapters/ch17.html> that it is=20
-or was not. Microsoft's own pages make it sound like the latest versions=20
-might be=20
-<http://msdn.microsoft.com/library/default.asp?url=3D/library/en-us/xmlsdk/ht=
-ml/xmmscXMLOverview.asp>,=20
-but it can be difficult to trust them sometimes.I ask because a neat tool (Textpipe=20
-<http://www.crystalsoftware.com.au/textpipe.html>) I use has now=20
-built-in XSLT, but depends on MSXML.For those who don't know what I am talking about: XSLT (eXtensible=20
-Stylesheet Language-Tranformations) is a stylesheet language used=20
-(amongst other things) for converting documents written in XML=20
-(eXtensible Markup Language) such as used by the TEI (Text Encoding=20
-Initiative) into HTML for display on the web.Once the web site is up, we should put all these acronyms into a FAQ=20
-(Frequently Asked Questions) file. Does anybody know of a good existing=20
-list of acronyms for beginners?-dan--=20
+Subject: [dm-l] Experience using Microsoft's XSLT? and Is there a good acronym
+
+Does anybody have experience using the recent releases of MSXML? I'm 
+wondering in particular if their xslt is standards compliant. I 
+understand from the XML bible 
+<http://www.ibiblio.org/xml/books/bible2/chapters/ch17.html> that it is 
+or was not. Microsoft's own pages make it sound like the latest versions 
+might be 
+<http://msdn.microsoft.com/library/default.asp?url=/library/en-us/xmlsdk/html/xmmscXMLOverview.asp>, 
+but it can be difficult to trust them sometimes.
+
+I ask because a neat tool (Textpipe 
+<http://www.crystalsoftware.com.au/textpipe.html>) I use has now 
+built-in XSLT, but depends on MSXML.
+
+For those who don't know what I am talking about: XSLT (eXtensible 
+Stylesheet Language-Tranformations) is a stylesheet language used 
+(amongst other things) for converting documents written in XML 
+(eXtensible Markup Language) such as used by the TEI (Text Encoding 
+Initiative) into HTML for display on the web.
+
+Once the web site is up, we should put all these acronyms into a FAQ 
+(Frequently Asked Questions) file. Does anybody know of a good existing 
+list of acronyms for beginners?
+
+-dan
+
+-- 
 Daniel Paul O'Donnell, PhD
 Associate Professor of English
 University of Lethbridge
@@ -22,4 +33,9 @@ Lethbridge AB T1K 3M4
 Tel. (403) 329-2377
 Fax. (403) 382-7191
 _redacted_(a)uleth.ca>
-Home Page <http://people.uleth.ca/~daniel.odonnell/>
+Home Page <http://people.uleth.ca/~daniel.odonnell/>
+
+
+
+
+

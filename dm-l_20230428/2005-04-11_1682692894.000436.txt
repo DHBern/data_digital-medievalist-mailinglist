@@ -1,42 +1,69 @@
-Subject: RE: [dm-l] paleographical encodingDear Dot,Please find replies below.Best,Arianna-----Original Message-----
-_redacted_(a)uleth.ca] On Behalf Of D=
-ot
+Subject: RE: [dm-l] paleographical encoding
+
+Dear Dot,
+
+Please find replies below.
+
+Best,
+
+Arianna
+
+-----Original Message-----
+_redacted_(a)uleth.ca] On Behalf Of Dot
 Porter
 Sent: 31 March 2005 15:38
 To: 'Digital Medievalist Community mailing list'
-Subject: [dm-l] paleographical encodingThe Digital Medievalist List (see end of message for contact information and
-project URLs).----------------------------------
-Hi everyone:I have a few questions that I would like to ask those of you have, are, or
+Subject: [dm-l] paleographical encoding
+
+The Digital Medievalist List (see end of message for contact information and
+project URLs).
+
+----------------------------------
+Hi everyone:
+
+I have a few questions that I would like to ask those of you have, are, or
 are considering electronic editing of medieval manuscripts, and recording
 paleographical information about the manuscript(s). I'm working on a project
 that has a focus on paleographical description, and I'm very interested in
 seeing what other projects are doing on this front. Is there a standard? Is
 a standard approach to paleographical description possible, given differing
-concerns, uses, etc.?1. First, a brief description of your project.
+concerns, uses, etc.?
+
+1. First, a brief description of your project.
 My project is actually my Ph.D. research, so it is not an institutional
 project. It is focused on the experimentation of the System for
 Palaeographic Inspections (SPI) software suite developed at the University
 of Pisa to assist palaeographers in their attempts to classify and identify
 medieval scripts. The corpus I work on consists of a group of Tuscan
 manuscripts from the tenth- through twelfth-century now owned by the
-Biblioteca Comunale degli Intronati in Siena.2. What paleographical information are you interested in? Letter forms,
-abbreviations, ligatures, other?=20
+Biblioteca Comunale degli Intronati in Siena.
+
+2. What paleographical information are you interested in? Letter forms,
+abbreviations, ligatures, other? 
 Models of letter forms (not necessarily of single letters, but even of
-connections of letters in the case of ligatures)3. What is your purpose for recording these differences? Searching, display,
+connections of letters in the case of ligatures)
+
+3. What is your purpose for recording these differences? Searching, display,
 counting?
 Characterise the calligraphic ideal for each script in a given manuscript,
 compare letterforms in different scribes' work, and define relationships
-among individual scripts and manuscripts.4. How are you recording this paleographical information? Markup (TEI or
+among individual scripts and manuscripts.
+
+4. How are you recording this paleographical information? Markup (TEI or
 other), entities, Unicode characters, other?
 Using SPI, as above, that is to say applying the computation of tangent
 distance to models of letter forms in bitmap format. I would like to
 incorporate TEI for the description of the manuscripts at a more general
-level.You can reply directly to me, or to the list. I will synchronize all results
+level.
+
+You can reply directly to me, or to the list. I will synchronize all results
 of this little questionnaire and report back to the list. I think this would
 also be a good way to start populating the "Fonts, Characters, and Glyphs"
-section of the DM Wiki.Thanks!
+section of the DM Wiki.
+
+Thanks!
 Dot
-=20
+ 
 **********************************
 Dorothy Carr Porter
 Program Coordinator, Research in Computing for Humanities
@@ -44,7 +71,8 @@ Program Coordinator, Research in Computing for Humanities
 University of Kentucky
 Lexington, KY  40391
 859-257-9549                      http://www.rch.uky.edu
-**********************************
+**********************************
+
 _______________________________________________
 Digital Medievalist Project
 Homepage: http://www.digitalmedievalist.org
@@ -56,4 +84,7 @@ Submit RSS announcement: http://www.digitalmedievalist.org/newitem.cfm
 _redacted_(a)uleth.ca
 dm-l mailing list
 _redacted_(a)uleth.ca
-http://listserv.uleth.ca/mailman/listinfo/dm-l
+http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+
+

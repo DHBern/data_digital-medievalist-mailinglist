@@ -1,31 +1,59 @@
-Subject: RE: [dm-l] RefworksIt's true, Citation Manager is software for institutions to provide
+Subject: RE: [dm-l] Refworks
+
+It's true, Citation Manager is software for institutions to provide
 citation-management services to their members, rather than a package for
 personal citation management. Managing circulation is another problem;
 you might want to look into LibraryThing (an online commercial personal
 library management system) or, if you're a Mac user, try Delicious
-Library. http://www.librarything.com/http://www.delicious-monster.com/I haven't gone into these in detail, but my sense is that what you gain
+Library. 
+
+http://www.librarything.com/
+
+http://www.delicious-monster.com/
+
+I haven't gone into these in detail, but my sense is that what you gain
 in collection management, you lose in full-featured academic citation
-formatting. There's some interesting work going in the OpenOffice group on
+formatting. 
+
+There's some interesting work going in the OpenOffice group on
 developing the citation management system to handle citations the way
 academics need to, in a solid standards-based way that allows
 interoperability with other bibliographic systems. There's lots of
-information on their wiki:http://wiki.services.openoffice.org/wiki/Bibliographic_Software_and_Stan
-dards_InformationPeter-----Original Message-----
+information on their wiki:
+
+http://wiki.services.openoffice.org/wiki/Bibliographic_Software_and_Stan
+dards_Information
+
+Peter
+
+-----Original Message-----
 _redacted_(a)uleth.ca] 
 Sent: Monday, February 27, 2006 9:21 AM
 To: Binkley, Peter
 Cc: Digital Medievalist Community mailing list
-Subject: RE: [dm-l] RefworksPeter,This is primarily library software... though it looks VERY good from the
+Subject: RE: [dm-l] Refworks
+
+Peter,
+
+This is primarily library software... though it looks VERY good from the
 screenshots and in my case, I've been using my citation manager also as
 a circulation manager (it's a long story, but... I was getting tired of
 swearing I wouldn't lend books, doing it anyway, and then losing them,
 so I dicided instead to LoC them, but card pockets in the back and make
-people "sign them out"--works like a charm).Do you know/does anybody here use this as a personal citation manager?-dOn Fri, 2006-24-02 at 11:22 -0700, Binkley, Peter wrote:
+people "sign them out"--works like a charm).
+
+Do you know/does anybody here use this as a personal citation manager?
+
+-d
+
+On Fri, 2006-24-02 at 11:22 -0700, Binkley, Peter wrote:
 > An open-source alternative to RefWorks is Citation Manager, part of
 the
 > reSearcher suite:  
 > 
 > http://researcher.sfu.ca/index.php/cm
 > 
-> It doesn't have all of RefWorks' features but it is quite good.
---===============4678895268782856917==--
+> It doesn't have all of RefWorks' features but it is quite good.
+
+--4678895268782856917-
+

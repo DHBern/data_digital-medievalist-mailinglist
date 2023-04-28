@@ -1,47 +1,71 @@
-Subject: Re: [dm-l] Character reference conversions: help?
->Are you saying that the entity "&#937", which is the Greek upper-case=20
->Omega abstract character in Unicode, is not the Greek upper-case Omega=20
->abstract character in UCS-4? In other words, that the 937 code point=20
->refers to different abstract characters in Unicode vs. UCS, that the two=20
->standards map the same code point to different characters? If so, it=20
->appears (to me, at least) to be a very bad design choice; conversion would=20
->certainly be needed in this case. If not, then UCS &#937 is exactly the=20
->same as Unicode &#937, and no conversion of the entity coding is needed.UCS-4 describes one way how to serialize Unicode scalar values into a=20
-stream of bits to be written to a file, send over the Internet, passed to=20
-another application, etc.  It says that each Unicode scalar value must be=20
-encoded in 32 bit, i.e. 4 byte =C3=A1 8 bit (the reason for the '4' in the=20
-name). Different ways to order these bytes are allowed.For example the decimal number 937 is 1110101001 in binary=20
-notation.  "UCS-4 Big Endian" prefixes this with zeros to reach the=20
-required 32 bit.  Thus, serializing Greek upper-case Omega in UCS-4 Big=20
-Endian results in 00000000000000000000001110101001 written to a data=20
-stream.  Other versions modify the order of the bytes (groups of 8 bit) to=20
-be serialized, e.g. Greek upper-case Omega in UCS-4 Little Endian is=20
-10101001000000110000000000000000."&#937;" serialized in UCS-4 Big Endian is just a concatenation of the=20
-individual characters '&' , '#' , '9', '3', '7', ';' (binary 100110,=20
-100011, 111001, 110011, 110111, 111011):00000000000000000000000000100110000000000000000000000000001000110000000000000=
-00000000000001110010000000000000000000000000011001100000000000000000000000000=
-11011100000000000000000000000000111011That this represents Greek upper-case Omega is opaque to UCS-4.  UCS-4=20
-treats it just as the sequence of individual characters that constitute the=20
-character reference.  It is a matter of a higher level protocol to=20
-interpret this as Greek upper-case Omega, for XML this is outlined in the=20
-XML 1.0 specification sec. 4.1=20
-("http://www.w3.org/TR/2004/REC-xml-20040204/#sec-references"):>CharRef   ::=3D   '&#' [0-9]+ ';' | '&#x' [0-9a-fA-F]+ ';'
+Subject: Re: [dm-l] Character reference conversions: help?
+
+>Are you saying that the entity "&#937", which is the Greek upper-case 
+>Omega abstract character in Unicode, is not the Greek upper-case Omega 
+>abstract character in UCS-4? In other words, that the 937 code point 
+>refers to different abstract characters in Unicode vs. UCS, that the two 
+>standards map the same code point to different characters? If so, it 
+>appears (to me, at least) to be a very bad design choice; conversion would 
+>certainly be needed in this case. If not, then UCS &#937 is exactly the 
+>same as Unicode &#937, and no conversion of the entity coding is needed.
+
+UCS-4 describes one way how to serialize Unicode scalar values into a 
+stream of bits to be written to a file, send over the Internet, passed to 
+another application, etc.  It says that each Unicode scalar value must be 
+encoded in 32 bit, i.e. 4 byte á 8 bit (the reason for the '4' in the 
+name). Different ways to order these bytes are allowed.
+
+For example the decimal number 937 is 1110101001 in binary 
+notation.  "UCS-4 Big Endian" prefixes this with zeros to reach the 
+required 32 bit.  Thus, serializing Greek upper-case Omega in UCS-4 Big 
+Endian results in 00000000000000000000001110101001 written to a data 
+stream.  Other versions modify the order of the bytes (groups of 8 bit) to 
+be serialized, e.g. Greek upper-case Omega in UCS-4 Little Endian is 
+10101001000000110000000000000000.
+
+"&#937;" serialized in UCS-4 Big Endian is just a concatenation of the 
+individual characters '&' , '#' , '9', '3', '7', ';' (binary 100110, 
+100011, 111001, 110011, 110111, 111011):
+
+000000000000000000000000001001100000000000000000000000000010001100000000000000000000000000111001000000000000000000000000001100110000000000000000000000000011011100000000000000000000000000111011
+
+That this represents Greek upper-case Omega is opaque to UCS-4.  UCS-4 
+treats it just as the sequence of individual characters that constitute the 
+character reference.  It is a matter of a higher level protocol to 
+interpret this as Greek upper-case Omega, for XML this is outlined in the 
+XML 1.0 specification sec. 4.1 
+("http://www.w3.org/TR/2004/REC-xml-20040204/#sec-references"):
+
+>CharRef   ::=   '&#' [0-9]+ ';' | '&#x' [0-9a-fA-F]+ ';'
 >
 >[...]
 >
->If the character reference begins with "&#x", the digits and letters up to=20
->the terminating ; provide a hexadecimal representation of the character's=20
->code point in ISO/IEC 10646. If it begins just with "&#", the digits up to=20
->the terminating ; provide a decimal representation of the character's code=20
->point.(The first line in this quotation is a formal description how to generate a=20
-character reference.  For more information see=20
-"http://www.w3.org/TR/2004/REC-xml-20040204/#sec-notation".)In practice, XML character references had been superfluous, if only UCS-4,=20
-UTF-16 or UTF-8 would be used for serializing XML documents.  The purpose=20
-of character references is to represent Unicode characters in an XML=20
-document serialized with a character encoding scheme, say US-ASCII, that=20
-does not include all Unicode characters.  One of larger of the many design=20
-flaws of XML is, in my opinion, that it provides such a mechanism only for=20
-the character data of an XML document, but not for element and attribute=20
-names.  For example, an XML document may use Greek upper-case Omega for the=20
-name of an element, but it is impossible to serialize this document using=20
-US-ASCII.Dieter K=C3=B6hler
+>If the character reference begins with "&#x", the digits and letters up to 
+>the terminating ; provide a hexadecimal representation of the character's 
+>code point in ISO/IEC 10646. If it begins just with "&#", the digits up to 
+>the terminating ; provide a decimal representation of the character's code 
+>point.
+
+(The first line in this quotation is a formal description how to generate a 
+character reference.  For more information see 
+"http://www.w3.org/TR/2004/REC-xml-20040204/#sec-notation".)
+
+In practice, XML character references had been superfluous, if only UCS-4, 
+UTF-16 or UTF-8 would be used for serializing XML documents.  The purpose 
+of character references is to represent Unicode characters in an XML 
+document serialized with a character encoding scheme, say US-ASCII, that 
+does not include all Unicode characters.  One of larger of the many design 
+flaws of XML is, in my opinion, that it provides such a mechanism only for 
+the character data of an XML document, but not for element and attribute 
+names.  For example, an XML document may use Greek upper-case Omega for the 
+name of an element, but it is impossible to serialize this document using 
+US-ASCII.
+
+Dieter Köhler
+
+
+
+
+
+
+

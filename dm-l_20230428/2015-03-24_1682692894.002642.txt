@@ -1,57 +1,69 @@
-Subject: [dm-l] Reminder: Symposium on Cultural Heritage Markup CFPDear all,I=E2=80=99d like to remind you of the approaching deadline for submitting pap=
-ers for the Balisage Cultural Heritage Markup Symposium (see below). You stil=
-l have plenty of time to finish your paper, but it=E2=80=99s time to start wr=
-iting if you haven=E2=80=99t already! I hope you can join me. It=E2=80=99s go=
-ing to be fun!All the best,
-Hugh/**
+Subject: [dm-l] Reminder: Symposium on Cultural Heritage Markup CFP
+
+Dear all,
+
+I’d like to remind you of the approaching deadline for submitting papers for the Balisage Cultural Heritage Markup Symposium (see below). You still have plenty of time to finish your paper, but it’s time to start writing if you haven’t already! I hope you can join me. It’s going to be fun!
+
+All the best,
+Hugh
+
+/**
  *  Hugh A. Cayless, Ph.D
 _redacted_(a)duke.edu
  *  Duke Collaboratory for Classics Computing (DC3)
  *  http://blogs.library.duke.edu/dcthree/
-**/Cultural Heritage Markup:
-Using Markup to preserve, understand, and disseminate cultural heritage mater=
-ials
-a Balisage pre-conference symposiumMonday August 10, 2015
-Bethesda North Marriott Hotel & Conference Center, Bethesda, MD, USAMarkup and markup technologies are used in a wide variety of cultural heritag=
-e projects by linguists, students of literature, librarians, historians, cura=
-tors, and others. Markup is used behind the scenes in archives, libraries, an=
-d museums to create and store metadata and the textual content of a wide vari=
-ety of materials both textual and artefactual. We want to know how you or you=
-r project are using markup to preserve, analyze, disseminate, or curate mater=
-ials of long-term value to society.Balisage is an excellent venue to discuss both theoretical and practical ques=
-tions. Is cultural heritage markup essentially different from industrial mark=
-up? Is it inherently more heterogeneous, more complex? Are =E2=80=9Cindustria=
-l=E2=80=9D tools like XML and HTML really appropriate for cultural heritage m=
-aterials? How well will standards like TEI and EAD serve us as technology pro=
-gresses? We dedicate this day to discussion of the challenges and possibiliti=
-es of markup technologies used in the preservation of our cultural heritage a=
-nd its transmission to future generations.We welcome proposals to present at the Symposium. Topics may include, but are=
- not limited to:=E2=80=A2 Representing heterogeneous materials
-=E2=80=A2 Data modeling to support scholarly research
-=E2=80=A2 Building for the long term, even after the money has run out
-=E2=80=A2 Using/repurposing tools that weren=E2=80=99t designed for the kind =
-of thing you=E2=80=99re doing
-=E2=80=A2 What are the benefits and challenges of using XML for representing =
-texts of scholarly interest? What about non-textual artifacts?
-=E2=80=A2 What does it mean for cultural heritage texts to be interoperable?
-=E2=80=A2 Shared tag sets. Are shared markup vocabularies (e.g., TEI, EAD, LI=
-DO, CDWA) sufficient? How can we improve them?Full papers should be submitted by 17 April 2015. All papers are peer-reviewe=
-d =E2=80=94 we pride ourselves that you will seldom get a more thorough, skep=
-tical, or helpful review than the one provided by Balisage reviewers.Key dates:
-- 27 March 2015 =E2=80=94 Peer review applications due
-- 17 April 2015 =E2=80=94 Paper submissions due
-- 17 April 2015 =E2=80=94 Applications for student support awards due
-- 22 May 2015 =E2=80=94 Speakers notified
-- 17 July 2015 =E2=80=94 Final papers due
-- 10 August 2015 =E2=80=94 Symposium on Cultural Heritage Markup
-- 11=E2=80=9314 August 2015 =E2=80=94 Balisage: The Markup Conference_redacted_(a)balisage.net or +1 301 315 9631          Balisage: The Markup Conference
-     There is Nothing As Practical As A Good Theory=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
-=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
-=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+**/
+
+Cultural Heritage Markup:
+Using Markup to preserve, understand, and disseminate cultural heritage materials
+a Balisage pre-conference symposium
+
+Monday August 10, 2015
+Bethesda North Marriott Hotel & Conference Center, Bethesda, MD, USA
+
+Markup and markup technologies are used in a wide variety of cultural heritage projects by linguists, students of literature, librarians, historians, curators, and others. Markup is used behind the scenes in archives, libraries, and museums to create and store metadata and the textual content of a wide variety of materials both textual and artefactual. We want to know how you or your project are using markup to preserve, analyze, disseminate, or curate materials of long-term value to society.
+
+Balisage is an excellent venue to discuss both theoretical and practical questions. Is cultural heritage markup essentially different from industrial markup? Is it inherently more heterogeneous, more complex? Are “industrial” tools like XML and HTML really appropriate for cultural heritage materials? How well will standards like TEI and EAD serve us as technology progresses? We dedicate this day to discussion of the challenges and possibilities of markup technologies used in the preservation of our cultural heritage and its transmission to future generations.
+
+We welcome proposals to present at the Symposium. Topics may include, but are not limited to:
+
+• Representing heterogeneous materials
+• Data modeling to support scholarly research
+• Building for the long term, even after the money has run out
+• Using/repurposing tools that weren’t designed for the kind of thing you’re doing
+• What are the benefits and challenges of using XML for representing texts of scholarly interest? What about non-textual artifacts?
+• What does it mean for cultural heritage texts to be interoperable?
+• Shared tag sets. Are shared markup vocabularies (e.g., TEI, EAD, LIDO, CDWA) sufficient? How can we improve them?
+
+Full papers should be submitted by 17 April 2015. All papers are peer-reviewed — we pride ourselves that you will seldom get a more thorough, skeptical, or helpful review than the one provided by Balisage reviewers.
+
+Key dates:
+- 27 March 2015 — Peer review applications due
+- 17 April 2015 — Paper submissions due
+- 17 April 2015 — Applications for student support awards due
+- 22 May 2015 — Speakers notified
+- 17 July 2015 — Final papers due
+- 10 August 2015 — Symposium on Cultural Heritage Markup
+- 11–14 August 2015 — Balisage: The Markup Conference
+
+_redacted_(a)balisage.net or +1 301 315 9631
+
+          Balisage: The Markup Conference
+     There is Nothing As Practical As A Good Theory
+
+======================================================================
 _redacted_(a)balisage.net
 August 5-8, 2014                               http://www.balisage.net
 Preconference Symposium: August 4, 2014                +1 301 315 9631
-=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
-=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
-=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D>=20
---===============1186041810602126093==--
+======================================================================
+
+> 
+
+
+
+
+
+
+
+--1186041810602126093-
+

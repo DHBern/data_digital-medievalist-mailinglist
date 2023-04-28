@@ -1,16 +1,32 @@
-Subject: [dm-l] Has anyone used MIML?Hi all,Hope the Fall is starting out with minimal stress for everyone on the 
-list! I have a query that I hope won't be too taxing.A couple of years ago I came across the Manuscript Images Markup 
+Subject: [dm-l] Has anyone used MIML?
+
+Hi all,
+
+Hope the Fall is starting out with minimal stress for everyone on the 
+list! I have a query that I hope won't be too taxing.
+
+A couple of years ago I came across the Manuscript Images Markup 
 Language (MIML; http://raqoon.com/miml/index.html). It uses XML and SVG 
 to annotate sections of digital images. I've never done anything with 
 this, and I'm not aware of other project that have, either. Is anyone on 
-the list familiar with MIML?The page hasn't been updated since 2002; is this schema still worth 
-considering?Thanks,
-Dot-- 
+the list familiar with MIML?
+
+The page hasn't been updated since 2002; is this schema still worth 
+considering?
+
+Thanks,
+Dot
+
+-- 
 ***************************************
 Dorothy Carr Porter, Program Coordinator
 Collaboratory for Research in Computing for Humanities
 University of Kentucky
 351 William T. Young Library
-Lexington, KY  40506_redacted_(a)uky.edu          859-257-9549
-***************************************
---===============0456012896610758824==--
+Lexington, KY  40506
+
+_redacted_(a)uky.edu          859-257-9549
+***************************************
+
+--0456012896610758824-
+

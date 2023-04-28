@@ -1,4 +1,6 @@
-Subject: Re: [dm-l] Bibliographical software for medievalistsThanks for all the replies. After I read Laurent's post yesterday I 
+Subject: Re: [dm-l] Bibliographical software for medievalists
+
+Thanks for all the replies. After I read Laurent's post yesterday I 
 looked at the Bookends format manager and was impressed by the 
 flexibility--not enough, to be sure, but a start. But this morning 
 Bookends decided it could not hook up my reference "Cunningham, 1966" to 
@@ -12,9 +14,15 @@ reference looks like "( 85)." I'm sure there's a workaround for this
 too, but I have no idea what it is, and I'm of the school that holds 
 that software should Just Work without a lot of kerfuffle. BibTeX, 
 though inadequate in several ways (I'll spare everyone the rant), Just 
-Worked. I won't go on with a tool that puts me through that kind of thing.I'll have a look at zotero, jabref and refdb next--but I might end up 
+Worked. I won't go on with a tool that puts me through that kind of thing.
+
+I'll have a look at zotero, jabref and refdb next--but I might end up 
 with biblatex in the end. Certainly for anyone committed to the TeX 
-family of tools it looks terrific.PeterO'Donnell, Dan wrote:
+family of tools it looks terrific.
+
+Peter
+
+O'Donnell, Dan wrote:
 >
 > I'm a developer on refdb (http://refdb.sourceforge.net/), which is not 
 > aimed at medievalists, per se, but is powerful and outputs in a 
@@ -116,4 +124,7 @@ _redacted_(a)uleth.ca
 > dm-l mailing list
 _redacted_(a)uleth.ca
 > http://listserv.uleth.ca/mailman/listinfo/dm-l
->   
+>   
+
+
+

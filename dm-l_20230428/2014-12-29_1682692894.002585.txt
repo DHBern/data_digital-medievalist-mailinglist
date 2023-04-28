@@ -1,4 +1,8 @@
-Subject: Re: [dm-l] [Technical]: Suggestions for a replacement for	Subversion?Dan:It sounds like Dropbox will work just fine for your purposes, provided all
+Subject: Re: [dm-l] [Technical]: Suggestions for a replacement for	Subversion?
+
+Dan:
+
+It sounds like Dropbox will work just fine for your purposes, provided all
 that you are looking for is recovery from the save points of the entire
 file and not specific nodes.  In my view, if users can cock up Github then
 the problem is with Github and not the users (an application should conform
@@ -9,10 +13,17 @@ expect regular turnover).  And, you can expand your cloud size by
 recommending all your staff for a dropbox account.  I've done that on a
 regular basis and right now I have over 52GB of space more than enough for
 document handling. Or you can go for a commerical account as they have a
-pretty affordable sliding scale of cost.I've used Projectlocker as an SVN, since it has a good user interface, but
-again it might be more than what you need.Jim
+pretty affordable sliding scale of cost.
+
+I've used Projectlocker as an SVN, since it has a good user interface, but
+again it might be more than what you need.
+
+Jim
+
 _redacted_(a)uleth.ca
-> wrote:>  Maybe I should reask it. Is there a reason for not just using dropbox or
+> wrote:
+
+>  Maybe I should reask it. Is there a reason for not just using dropbox or
 > drive?
 >
 > I ask this not to disparage the advice for github, but because when I
@@ -123,7 +134,7 @@ _redacted_(a)uleth.ca>
 >>> News: http://www.digitalmedievalist.org/news/
 >>> Wiki: http://www.digitalmedievalist.org/wiki/
 >>> Twitter: http://twitter.com/digitalmedieval
->>> Facebook: http://www.facebook.com/group.php?gid=49320313760
+>>> Facebook: http://www.facebook.com/group.php?gidI320313760
 _redacted_(a)uleth.ca
 >>> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
 >>>
@@ -152,7 +163,7 @@ _redacted_(a)uleth.ca
 > News: http://www.digitalmedievalist.org/news/
 > Wiki: http://www.digitalmedievalist.org/wiki/
 > Twitter: http://twitter.com/digitalmedieval
-> Facebook: http://www.facebook.com/group.php?gid=49320313760
+> Facebook: http://www.facebook.com/group.php?gidI320313760
 _redacted_(a)uleth.ca
 > Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
 >
@@ -174,10 +185,14 @@ _redacted_(a)uleth.ca
 > News: http://www.digitalmedievalist.org/news/
 > Wiki: http://www.digitalmedievalist.org/wiki/
 > Twitter: http://twitter.com/digitalmedieval
-> Facebook: http://www.facebook.com/group.php?gid=49320313760
+> Facebook: http://www.facebook.com/group.php?gidI320313760
 _redacted_(a)uleth.ca
 > Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
->-- 
+>
+
+
+
+-- 
 ----------
 James R. Ginther, PhD
 Professor of Medieval Theology,
@@ -191,12 +206,18 @@ Faculty Page: Departmental Page
 <https://sites.google.com/a/slu.edu/james-ginther/>Research Blog:
 http://digital-editor.blogspot.com
 Twitter: DH_editor <http://twitter.com/#!/DH_editor>
-T-PEN: www.t-pen.org/NOTE: This e-mail message may contain information that may be privileged,
+T-PEN: www.t-pen.org/
+
+NOTE: This e-mail message may contain information that may be privileged,
 confidential, and exempt from disclosure. It is intended for use only by
 the person(s) to whom it is addressed. If you have received this message in
 error, please do not forward or use this information in any way; delete it
 immediately, and contact the sender as soon as possible by the reply option
-or by telephone at 314-977-2867.PGRpdiBkaXI9Imx0ciI+RGFuOjxkaXY+PGJyPjwvZGl2PjxkaXY+SXQgc291bmRzIGxpa2UgRHJv
+or by telephone at 314-977-2867.
+
+
+
+PGRpdiBkaXI9Imx0ciI+RGFuOjxkaXY+PGJyPjwvZGl2PjxkaXY+SXQgc291bmRzIGxpa2UgRHJv
 cGJveCB3aWxsIHdvcmsganVzdCBmaW5lIGZvciB5b3VyIHB1cnBvc2VzLCBwcm92aWRlZCBhbGwg
 dGhhdCB5b3UgYXJlIGxvb2tpbmcgZm9yIGlzIHJlY292ZXJ5IGZyb20gdGhlIHNhdmUgcG9pbnRz
 IG9mIHRoZSBlbnRpcmUgZmlsZSBhbmQgbm90IHNwZWNpZmljIG5vZGVzLsKgIEluIG15IHZpZXcs
@@ -460,4 +481,4 @@ cG9zc2libGUgYnkgdGhlIHJlcGx5IG9wdGlvbiBvciBieSB0ZWxlcGhvbmUgYXTCoDwvc3Bhbj4z
 MTQtOTc3LTI4Njc8c3BhbiBzdHlsZT0iY29sb3I6cmdiKDM0LDM0LDM0KTtmb250LWZhbWlseTph
 cmlhbCxzYW5zLXNlcmlmO2ZvbnQtc2l6ZToxMi43MjcyNzIwMzM2OTE0MDZweDtiYWNrZ3JvdW5k
 LWNvbG9yOnJnYigyNTUsMjU1LDI1NSkiPi7CoDwvc3Bhbj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rp
-dj4KPC9kaXY+Cg==
+dj4KPC9kaXY+Cg

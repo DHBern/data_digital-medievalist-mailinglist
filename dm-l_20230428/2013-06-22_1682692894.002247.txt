@@ -1,4 +1,6 @@
-Subject:Hi Dan!
+Subject:
+
+Hi Dan!
 Maybe this is a bit side-tracked, but I would argue with the definition of
 data and resource that you give (data most of all). To me data is raw,
 primary material, and I am not comfortable considering articles,
@@ -20,7 +22,9 @@ It seems to me that there are more projects aiming at producing resources
 rather than data, which can explain why they are so difficult to maintain.
 The coherence would be lost if the material was just poured and melted into
 a large data repository, or the data would lose most of its interest if
-separated from the specific tools created by a project to process it.Maybe this distinction can shed some different light on the issue: curation
+separated from the specific tools created by a project to process it.
+
+Maybe this distinction can shed some different light on the issue: curation
 of secondary material is a long-established tradition, through libraries,
 but curation of data is a different kettle of fish. There are not powerful
 pre-existing traditions and models as for secondary material, and the
@@ -28,8 +32,13 @@ digital lore has to invent them quickly. As for resources (according to my
 definition), their inherent coherence and the often very strong link
 between data/material and the interface created to use it means that
 maintaining the interface is a often central issue, and one that is
-particularly difficult to solve in the long term.Best, Marjorie
-_redacted_(a)uleth.ca> wrote:>  Personally, I think you need to make two or maybe three distinctions:
+particularly difficult to solve in the long term.
+
+Best, Marjorie
+
+_redacted_(a)uleth.ca> wrote:
+
+>  Personally, I think you need to make two or maybe three distinctions:
 > between data, resources (maybe), and projects.
 >
 > * Projects create and/or analyse data. They have a definite beginning and
@@ -274,7 +283,7 @@ _redacted_(a)uleth.ca>
 > News: http://www.digitalmedievalist.org/news/
 > Wiki: http://www.digitalmedievalist.org/wiki/
 > Twitter: http://twitter.com/digitalmedieval
-> Facebook: http://www.facebook.com/group.php?gid=49320313760
+> Facebook: http://www.facebook.com/group.php?gidI320313760
 _redacted_(a)uleth.ca
 > Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
 >
@@ -311,10 +320,14 @@ _redacted_(a)uleth.ca
 > News: http://www.digitalmedievalist.org/news/
 > Wiki: http://www.digitalmedievalist.org/wiki/
 > Twitter: http://twitter.com/digitalmedieval
-> Facebook: http://www.facebook.com/group.php?gid=49320313760
+> Facebook: http://www.facebook.com/group.php?gidI320313760
 _redacted_(a)uleth.ca
 > Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
->PGRpdiBkaXI9Imx0ciI+SGkgRGFuIaA8ZGl2IHN0eWxlPk1heWJlIHRoaXMgaXMgYSBiaXQgc2lk
+>
+
+
+
+PGRpdiBkaXI9Imx0ciI+SGkgRGFuIaA8ZGl2IHN0eWxlPk1heWJlIHRoaXMgaXMgYSBiaXQgc2lk
 ZS10cmFja2VkLCBidXQgSSB3b3VsZCBhcmd1ZSB3aXRoIHRoZSBkZWZpbml0aW9uIG9mIGRhdGEg
 YW5kIHJlc291cmNlIHRoYXQgeW91IGdpdmUgKGRhdGEgbW9zdCBvZiBhbGwpLiBUbyBtZSBkYXRh
 IGlzIHJhdywgcHJpbWFyeSBtYXRlcmlhbCwgYW5kIEkgYW0gbm90IGNvbWZvcnRhYmxlIGNvbnNp
@@ -802,4 +815,4 @@ dXNzaW9uIGxpc3Q6IDxhIGhyZWY9Im1haWx0bzpkbS1sQHVsZXRoLmNhIj5kbS1sQHVsZXRoLmNh
 PC9hPjxicj4KQ2hhbmdlIGxpc3Qgb3B0aW9uczogPGEgaHJlZj0iaHR0cDovL2xpc3RzZXJ2LnVs
 ZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0tbCIgdGFyZ2V0PSJfYmxhbmsiPmh0dHA6Ly9saXN0
 c2Vydi51bGV0aC5jYS9tYWlsbWFuL2xpc3RpbmZvL2RtLWw8L2E+PGJyPjwvYmxvY2txdW90ZT48
-L2Rpdj48YnI+PC9kaXY+PC9kaXY+Cg==
+L2Rpdj48YnI+PC9kaXY+PC9kaXY+Cg

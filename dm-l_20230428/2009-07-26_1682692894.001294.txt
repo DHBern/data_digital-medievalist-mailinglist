@@ -1,10 +1,16 @@
-Subject: Re: [dm-l] Use of wikis for transcription_redacted_(a)gmail.com>
+Subject: Re: [dm-l] Use of wikis for transcription
+
+_redacted_(a)gmail.com>
 My main caveat about this is that this is probably only suitable for a
 first pass at character capture rather than any serious editorial work,
-and even then it might prove problematic.Surely not.  These texts were designed to be read. Most of the stuff is 
+and even then it might prove problematic.
+
+Surely not.  These texts were designed to be read. Most of the stuff is 
 pretty obvious, the biggest problem is the use of shorthand terms, which 
 requires some knowledge of the technical terms.  This is where 'knowledge of 
-the crowd' can be useful.>> The main problem is that there  is no way of automatically enforcing a 
+the crowd' can be useful.
+
+>> The main problem is that there  is no way of automatically enforcing a 
 >> policy on what is to be captured
 or how these details are to be recorded: if you have multiple people
 working on a project, and you have no control over what they enter, they
@@ -12,11 +18,23 @@ will invariably diverge in practice: one scholar might expand
 abbreviations, another prefer to leave them unexpanded; one might record
 multiple options for reading difficult passages, another just choose the
 most likely, and yet others use different symbols for indicating
-uncertainty.Why?  This is an issue about conventions.>>Same is true of damage or codicological features: one
+uncertainty.
+
+Why?  This is an issue about conventions.
+
+>>Same is true of damage or codicological features: one
 scholar might want to record information about the damage down in lines
-38 or so and ff.; another might just transcribe around the cut and damage.Conventions again. Most of the texts I look at don't have any damage.>>XML and XML tools like the OxygenXML editor are designed precisely to
+38 or so and ff.; another might just transcribe around the cut and damage.
+
+Conventions again. Most of the texts I look at don't have any damage.
+
+>>XML and XML tools like the OxygenXML editor are designed precisely to
 give you this kind of control. There was a time when they could seem
-quite intimidating.I find software pretty intimidating.  How does this work?>> Nowadays, however, they are becoming ever more user
+quite intimidating.
+
+I find software pretty intimidating.  How does this work?
+
+>> Nowadays, however, they are becoming ever more user
 friendly. So one, slightly more formal way, of setting a project up so
 that more than one person could transcribe texts might be to ask
 everybody to get a copy of something like OxygenXML (although in
@@ -30,15 +48,32 @@ doing by also publishing the repository (this is how Digital Medievalist
 works, in fact: we have a subversion repository with all the XML files.
 This repository is copied to a non-public website (so we can check our
 work) once every minute or two and then to the public site once a day.
-Individual editors download files to edit from the central repository).OK>>The above assumes that your plan is to have a group of previously
-identified editors work on the same project (negotiated collaboration).Yes.>>If your goal instead is crowd sourcing (i.e. just putting MS images and
+Individual editors download files to edit from the central repository).
+
+OK
+
+>>The above assumes that your plan is to have a group of previously
+identified editors work on the same project (negotiated collaboration).
+
+Yes.
+
+>>If your goal instead is crowd sourcing (i.e. just putting MS images and
 or transcriptions up and letting anybody transcribe or edit them, then
-you'll need some other solution.Also interesting.  My experience is that those who can read these 
-manuscripts are limited to less than a crowd.>> Bottom line: a wiki is a good informal way of sharing work (with loss of
+you'll need some other solution.
+
+Also interesting.  My experience is that those who can read these 
+manuscripts are limited to less than a crowd.
+
+>> Bottom line: a wiki is a good informal way of sharing work (with loss of
 policy control) or for crowdsourcing very simple questions (are these
 the right letters? what letters does this image contain?). But for
 really encoding expert knowledge or doing anything complicated with the
 text at all, you are going to want to use XML. There are very robust
-ways of doing that in a distributed fashion.I suspect that crowdsourcing may work for stuff like translation and 
+ways of doing that in a distributed fashion.
+
+I suspect that crowdsourcing may work for stuff like translation and 
 particularly for image recognition.  As mentioned above, reading the 
-manuscripts is very easy with a limited amount of practice. 
+manuscripts is very easy with a limited amount of practice. 
+
+
+

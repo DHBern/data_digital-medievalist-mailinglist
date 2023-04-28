@@ -1,38 +1,45 @@
-Subject: Re: [dm-l] Microfilm Digitization Inquiry: File format and resolutionThe answer is that 'it depends'. As you will see from (early English books on=
-line) EEBO, conversion from microfilm to digital is not always terrifically s=
-uccessful. Film is an analogue process and resolution is therefore measured i=
-n lines per inch (lpi). Digital resolution is measured in  dots per inch (dpi=
-). There is a conversion factor of  roughly 2.2 x lpi =3D dpi which can be us=
-ed but this is a very crude conversion. Also, microfilm can be at a variety o=
-f physical lpi resolutions and even colour. It all depends on the speed of th=
-e film, the grain size and the origination. So the best thing would be either=
- to use a dedicated microfilm scanner such as a Zeutschel which works things =
-out automatically by sampling or to try digitising a single microfilm frame a=
-t various resolutions and see which gives you the best result at (say) 75dpi,=
- 150dpi, 300dpi, 360dpi or 400dp when you zoom in under (say) Photoshop. Then=
- use that reference value for the rest of the scans of that microfilm roll.You are correct that to scan a microfilm frame at a resolution higher than th=
-e film grain would be a pointless exercise because scanning at too high a res=
-olution would just be scanning noise as you can only scan the film grains tha=
-t are present in the film gelatin suspension.RegardsTony HarrisSent from my iPhone._redacted_(a)Vande=
-_redacted_(a)Vanderbilt.Edu>> wrote:Dear Colleagues,I was recently asked by a colleague about standards for digitizing microfilm =
-of medieval MSS. Does anyone on this list have a recommendation as to what th=
-e optimal file format and resolution would be for digitizing black and white =
-microfilm? (I am, perhaps naively, assuming that because the source image is =
-a b/w microfilm that there is a certain resolution limit after which point hi=
-gher resolution would be of no value since the original image is limited).Any advice?Thank you,
-DM
-David A. MichelsonAssistant Professor of the History of Christianity, Divinity School
-Affiliate Assistant Professor of Classics, College of Arts & SciencesVanderbilt University
+Subject: Re: [dm-l] Microfilm Digitization Inquiry: File format and resolution
+
+The answer is that 'it depends'. As you will see from (early English books online) EEBO, conversion from microfilm to digital is not always terrifically successful. Film is an analogue process and resolution is therefore measured in lines per inch (lpi). Digital resolution is measured in  dots per inch (dpi). There is a conversion factor of  roughly 2.2 x lpi = dpi which can be used but this is a very crude conversion. Also, microfilm can be at a variety of physical lpi resolutions and even colour. It all depends on the speed of the film, the grain size and the origination. So the best thing would be either to use a dedicated microfilm scanner such as a Zeutschel which works things out automatically by sampling or to try digitising a single microfilm frame at various resolutions and see which gives you the best result at (say) 75dpi, 150dpi, 300dpi, 360dpi or 400dp when you zoom in under (say) Photoshop. Then use that reference value for the rest of the scans of that microfilm roll.
+
+You are correct that to scan a microfilm frame at a resolution higher than the film grain would be a pointless exercise because scanning at too high a resolution would just be scanning noise as you can only scan the film grains that are present in the film gelatin suspension.
+
+Regards
+
+Tony Harris
+
+Sent from my iPhone.
+
+_redacted_(a)Vande_redacted_(a)Vanderbilt.Edu>> wrote:
+
+Dear Colleagues,
+
+I was recently asked by a colleague about standards for digitizing microfilm of medieval MSS. Does anyone on this list have a recommendation as to what the optimal file format and resolution would be for digitizing black and white microfilm? (I am, perhaps naively, assuming that because the source image is a b/w microfilm that there is a certain resolution limit after which point higher resolution would be of no value since the original image is limited).
+
+Any advice?
+
+Thank you,
+DM
+
+David A. Michelson
+
+Assistant Professor of the History of Christianity, Divinity School
+Affiliate Assistant Professor of Classics, College of Arts & Sciences
+
+Vanderbilt University
 Digital Medievalist --  http://www.digitalmedievalist.org/
 Journal: http://www.digitalmedievalist.org/journal/
-Journal Editors: editors _AT_ digitalmedievalist.org<http://digitalmedievalis=
-t.org>
+Journal Editors: editors _AT_ digitalmedievalist.org<http://digitalmedievalist.org>
 News: http://www.digitalmedievalist.org/news/
 Wiki: http://www.digitalmedievalist.org/wiki/
 Twitter: http://twitter.com/digitalmedieval
-Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca>
-Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-lPGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
+Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+
+
+PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
 eHQvaHRtbDsgY2hhcnNldD11cy1hc2NpaSI+CjwvaGVhZD4KPGJvZHkgZGlyPSJhdXRvIj4KPGRp
 dj5UaGUgYW5zd2VyIGlzIHRoYXQgJ2l0IGRlcGVuZHMnLiBBcyB5b3Ugd2lsbCBzZWUgZnJvbSAo
 ZWFybHkgRW5nbGlzaCBib29rcyBvbmxpbmUpIEVFQk8sIGNvbnZlcnNpb24gZnJvbSBtaWNyb2Zp
@@ -106,4 +113,4 @@ PC9hPjwvc3Bhbj48YnI+CjxzcGFuPkRpc2N1c3Npb24gbGlzdDogPGEgaHJlZj0ibWFpbHRvOmRt
 LWxAdWxldGguY2EiPmRtLWxAdWxldGguY2E8L2E+PC9zcGFuPjxicj4KPHNwYW4+Q2hhbmdlIGxp
 c3Qgb3B0aW9uczogPGEgaHJlZj0iaHR0cDovL2xpc3RzZXJ2LnVsZXRoLmNhL21haWxtYW4vbGlz
 dGluZm8vZG0tbCI+Cmh0dHA6Ly9saXN0c2Vydi51bGV0aC5jYS9tYWlsbWFuL2xpc3RpbmZvL2Rt
-LWw8L2E+PC9zcGFuPjwvZGl2Pgo8L2Jsb2NrcXVvdGU+CjwvYm9keT4KPC9odG1sPgo=
+LWw8L2E+PC9zcGFuPjwvZGl2Pgo8L2Jsb2NrcXVvdGU+CjwvYm9keT4KPC9odG1sPgo

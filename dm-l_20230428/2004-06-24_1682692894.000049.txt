@@ -1,37 +1,61 @@
-Subject:Dan wrote:
+Subject:
+
+Dan wrote:
 > I've had a couple of off line responses to my question about a
 primer.
 > This might be a good opportunity for participants at all
 levels of
 > expertise to mention the types of thing they wish they knew
 (had known)
-> in starting or completing various projects.I'm showing up at this fancy dress ball in bib overalls, chewing
+> in starting or completing various projects.
+
+I'm showing up at this fancy dress ball in bib overalls, chewing
 on a piece of hay, with anecdotes about having a whole heap o'
-___ back on the farm...I've just finished a conservative diplomatic transcription of
+___ back on the farm...
+
+I've just finished a conservative diplomatic transcription of
 Hall's Chronicle based on the facsimiles of the 1550 ed. online
 at Penn.  700,000 words of Hall, about half now annotated and
 most of the vocab glossed; it prints out at 1,600 pp.  Yes,
 there are things I wish I had done, and now must do
 retroactively, without the speed and flexibility allowed during
-keyboarding.I designed a nice page-table in Word and did the transcription
+keyboarding.
+
+I designed a nice page-table in Word and did the transcription
 line by line (this will make proofreading, crossreferencing,
-etc. easy).  A second column has notes.Now, just to sample my wish list:
+etc. easy).  A second column has notes.
+
+Now, just to sample my wish list:
 --I wish I had marked suspected typos as I might correct these
 and put a list in an annex.  (It's not easy to spot a typo when
 there are a dozen different spellings used for various words,
 but after a while you can say with some certainty, Hall never
-spelled it *that* way.)--I wish I had marked text in Latin, proverbs and biblical
-quotes, and mentions of the stuff of everyday life, like games.OK, I guess I would have coded a Latin phrase something like
-        <lq>quid pro quo</lq>What I find mystifying is what happens *then*?  In other words,
+spelled it *that* way.)
+
+--I wish I had marked text in Latin, proverbs and biblical
+quotes, and mentions of the stuff of everyday life, like games.
+
+OK, I guess I would have coded a Latin phrase something like
+        <lq>quid pro quo</lq>
+
+What I find mystifying is what happens *then*?  In other words,
 what's the use of that?  Suppose I wanted to pull out all the
 Latin quotes to give to a starving Latin student to translate.
 Who or what even locates all the <lq> coded text, much less does
 anything with it?  If a user approached my etext and asked
 himself, "I wonder how much Latin is in Hall," how would the
 coding help?  How do I as the author tell a user, "I put a lot
-of fancy coding into Hall, so just press _____ and bingo!"TEI-L subscribers may know I've had this conceptual block for
+of fancy coding into Hall, so just press _____ and bingo!"
+
+TEI-L subscribers may know I've had this conceptual block for
 some time.  Maybe it's psychological, not wanting to learn a new
 foreign language.  Or maybe I just don't relate TEI theory to my
-practice.Cheers,
-Al Magary
---===============7320465143299344332==--
+practice.
+
+Cheers,
+Al Magary
+
+
+
+--7320465143299344332-
+

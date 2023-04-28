@@ -1,4 +1,6 @@
-Subject: Re: [dm-l] Layout of medieval poetry with CSSFolks
+Subject: Re: [dm-l] Layout of medieval poetry with CSS
+
+Folks
 to see probably the most incredibly complex display of a manuscript on  
 the web yet realized: have a look at the display of Sinaiticus display  
 at www.codexsinaiticus.org.  This has up to four columns, verse  
@@ -8,14 +10,18 @@ where you also have complex indentation, different colours, complex
 graphs in between text columns, stuff in top and bottom and side  
 margins, and lots and lots else. And of course linkage between every  
 word and its place in the image and back -- click on the  to make this  
-work.All this is actually done with floating divs and spans, etc, just as  
+work.
+
+All this is actually done with floating divs and spans, etc, just as  
 some people have suggested.  To give full credit, the basics of the  
 display was thought up by Andrew West, who used to work on various  
 nice projects at ITSEE before he went off to program games (alas); the  
 full implementation was done by a German commercial software house.
 all the best
 Peter
-On 18 Mar 2010, at 05:14, Peter Baker wrote:> Thanks to everyone who has replied so far. Some great ideas here. So  
+On 18 Mar 2010, at 05:14, Peter Baker wrote:
+
+> Thanks to everyone who has replied so far. Some great ideas here. So  
 > far
 > Travis's approach has worked best--with some little alterations mainly
 > for making lines wrap elegantly and for working around problems with
@@ -34,7 +40,7 @@ On 18 Mar 2010, at 05:14, Peter Baker wrote:> Thanks to everyone who has repli
 > HTML
 > looks like this:
 >
-> <div class="verse-container">
+> <div classerse-container">
 >    <div>Oft him ānhaga     āre gebīdeð,</div>
 >    <div>Metudes miltse,     þēah þe hē mōdcearig</div>
 >    <div>geond lagulāde     longe sceolde</div>
@@ -92,7 +98,7 @@ On 18 Mar 2010, at 05:14, Peter Baker wrote:> Thanks to everyone who has repli
 >> margin-left: -20px;
 >> }
 >>
->> <div class="verse-container">
+>> <div classerse-container">
 >> <p>Whan that Aprill, with his shoures soote</p>
 >> <p>The droghte of March hath perced to the roote</p>
 >> <p>And bathed every veyne in swich licour,</p>
@@ -123,11 +129,11 @@ On 18 Mar 2010, at 05:14, Peter Baker wrote:> Thanks to everyone who has repli
 >>>
 >>> How about the following:
 >>>
->>> <div class="vl">
+>>> <div classl">
 >>> hrēran mid hondum hrīmcealde sǣ,
 >>> </div>
->>> <div class="n">5</div>
->>> <div class="vl">
+>>> <div class">5</div>
+>>> <div classl">
 >>> wadan wræclāstas. Wyrd bið ful ārǣd.
 >>> </div>
 >>>
@@ -186,14 +192,14 @@ On 18 Mar 2010, at 05:14, Peter Baker wrote:> Thanks to everyone who has repli
 >>>> class
 >>>> "vl" (verse-line). *Numbered* lines, on the other hand, go in a div
 >>>> with
->>>> class "vln" (numbered-verse-line). The <div class="vln"> lines  
+>>>> class "vln" (numbered-verse-line). The <div classln"> lines  
 >>>> start
 >>>> with a div containing the line number. So here:
 >>>>
->>>> <div class="vl">
+>>>> <div classl">
 >>>> hrēran mid hondum hrīmcealde sǣ,
 >>>> </div>
->>>> <div class="vln">
+>>>> <div classln">
 >>>> <div>5</div> wadan wræclāstas. Wyrd bið ful ārǣd.
 >>>> </div>
 >>>>
@@ -233,7 +239,7 @@ On 18 Mar 2010, at 05:14, Peter Baker wrote:> Thanks to everyone who has repli
 >>> News: http://www.digitalmedievalist.org/news/
 >>> Wiki: http://www.digitalmedievalist.org/wiki/
 >>> Twitter: http://twitter.com/digitalmedieval
->>> Facebook: http://www.facebook.com/group.php?gid=49320313760
+>>> Facebook: http://www.facebook.com/group.php?gidI320313760
 _redacted_(a)uleth.ca>
 >>> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
 >>
@@ -247,19 +253,27 @@ _redacted_(a)uleth.ca>
 > Twitter: http://twitter.com/digitalmedieval
 > Facebook: http://www.facebook.com/group.php?gidI320313760
 _redacted_(a)uleth.ca
-> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-lPeter Robinson
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+Peter Robinson
 Institute for Textual Scholarship and Electronic Editing
 Elmfield House, Selly Oak  Campus
 University of Birmingham
 Edgbaston B29 6LG
 _redacted_(a)bham.ac.uk
 p. +44 (0)121 4158441, f. +44 (0) 121 415 8376
-www.itsee.bham.ac.uk
---===============9084543179027433959==
-Content-Type: text/html
+www.itsee.bham.ac.uk
+
+
+
+
+
+--9084543179027433959Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWw+PGJvZHkgc3R5bGU9IndvcmQtd3JhcDogYnJlYWstd29yZDsgLXdlYmtpdC1uYnNwLW1v
+Content-Disposition: attachment; filename�ttachment.html"
+MIME-Version: 1.0
+
+PGh0bWw+PGJvZHkgc3R5bGU9IndvcmQtd3JhcDogYnJlYWstd29yZDsgLXdlYmtpdC1uYnNwLW1v
 ZGU6IHNwYWNlOyAtd2Via2l0LWxpbmUtYnJlYWs6IGFmdGVyLXdoaXRlLXNwYWNlOyAiPkZvbGtz
 PGRpdj50byBzZWUgcHJvYmFibHkgdGhlIG1vc3QgaW5jcmVkaWJseSBjb21wbGV4IGRpc3BsYXkg
 b2YgYSBtYW51c2NyaXB0IG9uIHRoZSB3ZWIgeWV0IHJlYWxpemVkOiBoYXZlIGEgbG9vayBhdCB0
@@ -667,7 +681,8 @@ bGUtc3R5bGUtc3BhbiIgc3R5bGU9ImZvbnQtc2l6ZTogMTFweDsgIj4rNDQgKDApIDEyMSA0MTUg
 ODM3Njwvc3Bhbj48L2ZvbnQ+PC9kaXY+PGRpdj48YSBocmVmPSJodHRwOi8vd3d3Lml0c2VlLmJo
 YW0uYWMudWsiPnd3dy5pdHNlZS5iaGFtLmFjLnVrPC9hPjwvZGl2PjwvZGl2PjxkaXY+PGJyPjwv
 ZGl2PjwvZGl2Pjwvc3Bhbj48YnIgY2xhc3M9IkFwcGxlLWludGVyY2hhbmdlLW5ld2xpbmUiPiA8
-L2Rpdj48YnI+PC9kaXY+PC9ib2R5PjwvaHRtbD4=iVBORw0KGgoAAAANSUhEUgAAABAAAAARCAIAAABbzbuTAAAPUGlDQ1BJQ0MgUHJvZmlsZQAAeAGt
+L2Rpdj48YnI+PC9kaXY+PC9ib2R5PjwvaHRtbD4
+iVBORw0KGgoAAAANSUhEUgAAABAAAAARCAIAAABbzbuTAAAPUGlDQ1BJQ0MgUHJvZmlsZQAAeAGt
 WHk8VF//P3dmGPu+70uW7PuafUska0T2sW9jBskSkRSRSCSF1JeEJEm0iBCyJUvRWLITiSzZnjvU
 9/tbXs/r+ec5r9fc8z7v89nu+dw5n3suAPRcrlisPwIAEBAYgrM00uWzO2XPh/4MEIAWUAIIAFd3
 PFbH3NwUFvk3ba2fKAdAryTR1lB2Y+ma+E7CRV/yyzI35g3/jdIfmgYHOwQAkoAJJq8DrE3EbgfY
@@ -744,4 +759,5 @@ TLlc28hthsrFRuofhaJWwRPmu3VTD22zx0ETbxFRN9o2QwQFM8ceRFOuuO/C8zZewB/RA3noEZyG
 3WPrkyKNQonEq554or8ZMPyyKPeAU3Cj7/JeuZIegugeV7u4z6azrWKrNu2KHF4Bg4w/VxM3onA8
 1Yta78KqQOEgn5xvxPKKwhEPZYzCfDkvtibFvJRXn4wuLh0BKBJ02HKWyo9PQzd8LFfTNtBZrNBu
 krAkfHMYQQokRio3ozOtPA3k0RTiGtegxz9jpZqpgRmbwROnMoOmWxzD4J4YsXpxhr1+fL4X6D/j
-N7f/1dUKAcG8AAAAAElFTkSuQmCC
+N7f/1dUKAcG8AAAAAElFTkSuQmCC
+

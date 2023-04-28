@@ -1,55 +1,60 @@
-Subject: [dm-l] Job opening: NLP / computational linguistics in an ERC project
-Dear list members,
-With apologies for cross-posting:Perhaps some of you or your contacts might be interested in the following job=
- opening in the ERC Consolidator Grant-funded Dissident Networks Project (DIS=
-SINET, https://dissinet.cz), where we use computational methods to shed new l=
-ight on medieval religious dissidence and inquisition. I am now searching for=
- a computational linguist or NLP specialist to join the adventure - please se=
-e below.
-All the best,David Zb=C3=ADralNumber of open positions: 1Expected start: 1 September 2021 (negotiable)Duration: 31 August 2022 (first contract), 31 August 2026 (very probable exte=
-nsion based on performance review)Deadline for applications: 30 April 2021 23:59 CEST (UTC+2)Full call and submission: https://www.muni.cz/en/about-us/careers/vacancies/6=
-0994
-The Dissident Networks Project (DISSINET, https://dissinet.cz/) - an ERC Cons=
-olidator Grant-funded research initiative based at Masaryk University (Brno, =
-Czech Republic) - offers a full-time postdoctoral or senior research fellowsh=
-ip in computational text analysis. The research of the successful applicant w=
-ill focus on discursive patterns in medieval inquisitorial records, with the =
-aim of shining a new light on the textual practices of inquisition notaries, =
-the interaction at trial, the discourse of inquisition texts, and religious d=
-issidence.
-We are searching for a research fellow with one of the following types of pro=
-file:(a) computational linguist, NLP specialist or text mining specialist, with a =
-strong interest in history and ancient languages;(b) digital humanist, with a strong competence in Latin and experienced in hi=
-storical research, programming, and the analysis of textual corpora; or(c) another kind of mixed/interdisciplinary profile, with some of the previou=
-sly mentioned competencies and strong interest in working on a historical res=
-earch project.
-The successful candidate will develop their own research direction in consult=
-ation with the Principal Investigator (Dr David Zb=C3=ADral), focusing on the=
- computational text processing and analysis of medieval inquisitorial records=
-, e.g. building and maintaining NLP pipeline, stylometric and semantic analys=
-is (word frequency and word co-occurrence, word embeddings, lexical dispersio=
-n, measures of lexical richness, measures of distance of texts, text reuse an=
-alysis, semantic distribution models) etc. DISSINET at large also works exten=
-sively on the manual coding of inquisitorial material, offering a close-readi=
-ng layer to be compared and contrasted with the distant-reading analysis of t=
-he textual corpus provided by NLP techniques.
-DISSINET focuses on various computational approaches to Christian dissent and=
- inquisition, also including social network analysis, geographic information =
-science, and other techniques: the successful candidate will have the opportu=
-nity to produce mixed-methodology work in this collaborative context. The ERC=
--funded position thus represents a unique opportunity for building a truly cu=
-tting-edge research profile.
-The position is residential (although with reasonable flexibility for the dur=
-ation of the pandemic). We are open to applications from those who have alrea=
-dy completed their doctorates, and those who have submitted their thesis and =
-are only awaiting the award of their degree. The candidate=E2=80=99s Ph.D. de=
-gree does not need to be recent for this position. Applications from female c=
-andidates are particularly encouraged.
-Please see https://www.muni.cz/en/about-us/careers/vacancies/60994 for more i=
-nformation.
-Dr David Zb=C3=ADralPrincipal Investigator of the ERC-funded Dissident Networks Project (https://=
-dissinet.cz)Associate ProfessorMasaryk University, Faculty of ArtsDepartment for the Study of Religions, Centre for the Digital Research of Rel=
-igion_redacted_(a)mail.muni.cz>PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
+Subject: [dm-l] Job opening: NLP / computational linguistics in an ERC project
+
+Dear list members,
+
+With apologies for cross-posting:
+
+Perhaps some of you or your contacts might be interested in the following job opening in the ERC Consolidator Grant-funded Dissident Networks Project (DISSINET, https://dissinet.cz), where we use computational methods to shed new light on medieval religious dissidence and inquisition. I am now searching for a computational linguist or NLP specialist to join the adventure - please see below.
+
+All the best,
+
+David Zbíral
+
+
+
+Number of open positions: 1
+
+Expected start: 1 September 2021 (negotiable)
+
+Duration: 31 August 2022 (first contract), 31 August 2026 (very probable extension based on performance review)
+
+Deadline for applications: 30 April 2021 23:59 CEST (UTC+2)
+
+Full call and submission: https://www.muni.cz/en/about-us/careers/vacancies/60994
+
+The Dissident Networks Project (DISSINET, https://dissinet.cz/) - an ERC Consolidator Grant-funded research initiative based at Masaryk University (Brno, Czech Republic) - offers a full-time postdoctoral or senior research fellowship in computational text analysis. The research of the successful applicant will focus on discursive patterns in medieval inquisitorial records, with the aim of shining a new light on the textual practices of inquisition notaries, the interaction at trial, the discourse of inquisition texts, and religious dissidence.
+
+We are searching for a research fellow with one of the following types of profile:
+
+(a) computational linguist, NLP specialist or text mining specialist, with a strong interest in history and ancient languages;
+
+(b) digital humanist, with a strong competence in Latin and experienced in historical research, programming, and the analysis of textual corpora; or
+
+(c) another kind of mixed/interdisciplinary profile, with some of the previously mentioned competencies and strong interest in working on a historical research project.
+
+The successful candidate will develop their own research direction in consultation with the Principal Investigator (Dr David Zbíral), focusing on the computational text processing and analysis of medieval inquisitorial records, e.g. building and maintaining NLP pipeline, stylometric and semantic analysis (word frequency and word co-occurrence, word embeddings, lexical dispersion, measures of lexical richness, measures of distance of texts, text reuse analysis, semantic distribution models) etc. DISSINET at large also works extensively on the manual coding of inquisitorial material, offering a close-reading layer to be compared and contrasted with the distant-reading analysis of the textual corpus provided by NLP techniques.
+
+DISSINET focuses on various computational approaches to Christian dissent and inquisition, also including social network analysis, geographic information science, and other techniques: the successful candidate will have the opportunity to produce mixed-methodology work in this collaborative context. The ERC-funded position thus represents a unique opportunity for building a truly cutting-edge research profile.
+
+The position is residential (although with reasonable flexibility for the duration of the pandemic). We are open to applications from those who have already completed their doctorates, and those who have submitted their thesis and are only awaiting the award of their degree. The candidate’s Ph.D. degree does not need to be recent for this position. Applications from female candidates are particularly encouraged.
+
+Please see https://www.muni.cz/en/about-us/careers/vacancies/60994 for more information.
+
+Dr David Zbíral
+
+Principal Investigator of the ERC-funded Dissident Networks Project (https://dissinet.cz)
+
+Associate Professor
+
+Masaryk University, Faculty of Arts
+
+Department for the Study of Religions, Centre for the Digital Research of Religion
+
+_redacted_(a)mail.muni.cz>
+
+
+
+PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
 eHQvaHRtbDsgY2hhcnNldD11dGYtOCI+CjwvaGVhZD4KPGJvZHk+CjxkaXYgc3R5bGU9ImJvcmRl
 cjpzb2xpZCAjNjQ2NDY0IDEuMHB0O3BhZGRpbmc6Mi4wcHQgMi4wcHQgMi4wcHQgMi4wcHQ7YmFj
 a2dyb3VuZDojRkZFQjlDIj4KPHAgY2xhc3M9Ik1zb05vcm1hbCIgc3R5bGU9ImxpbmUtaGVpZ2h0
@@ -448,4 +453,5 @@ IzExNTVjYztiYWNrZ3JvdW5kLWNvbG9yOnRyYW5zcGFyZW50O2ZvbnQtd2VpZ2h0OjQwMDtmb250
 LXN0eWxlOm5vcm1hbDtmb250LXZhcmlhbnQ6bm9ybWFsO3RleHQtZGVjb3JhdGlvbjp1bmRlcmxp
 bmU7dGV4dC1kZWNvcmF0aW9uLXNraXAtaW5rOm5vbmU7dmVydGljYWwtYWxpZ246YmFzZWxpbmU7
 d2hpdGUtc3BhY2U6cHJlO3doaXRlLXNwYWNlOnByZS13cmFwIj5kYXZpZC56YmlyYWxAbWFpbC5t
-dW5pLmN6PC9zcGFuPjwvYT48L3A+CjwvZGl2Pgo8L2JvZHk+CjwvaHRtbD4K
+dW5pLmN6PC9zcGFuPjwvYT48L3A+CjwvZGl2Pgo8L2JvZHk+CjwvaHRtbD4K
+

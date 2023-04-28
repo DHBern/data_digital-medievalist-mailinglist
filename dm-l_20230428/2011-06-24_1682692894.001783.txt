@@ -1,24 +1,38 @@
-Subject: [dm-l] Re: SDH 2011 Supporting Digital Humanities (Peter Damian)Dear Peter (or Edward)You said in your 6th point:There is absolutely no reason why a critical edition, or a translation,
+Subject: [dm-l] Re: SDH 2011 Supporting Digital Humanities (Peter Damian)
+
+Dear Peter (or Edward)
+
+You said in your 6th point:
+
+There is absolutely no reason why a critical edition, or a translation,
 > could not be produced entirely online, by a collaborative effort of a small
 > group, working in different parts of the world.  I would welcome ideas on
 > this, from anyone working on editions, or translations.  There has to be a
 > better way than would we have now, and perhaps this could be achieved by
-> appropriate use of technology
+> appropriate use of technology
+
 I thought I would just offer my site which attempts to be an "entirely" on
 line version of a critical edition - which provides access to manuscript
 images, transcription, and translation through the click of the button. I
 don't use a wiki format, but I have a comment feature for each paragraph to
 allow collaboration. While it is still very much a work in progress, I'd
-love to know what you (or anyone else thinks).Sincerely,
-Jeffrey--=20
+love to know what you (or anyone else thinks).
+
+Sincerely,
+Jeffrey
+
+-- 
 Jeffrey C. Witt
 Philosophy Department
 Boston College
 Campanella Way
 140 Commonwealth Ave
 Chestnut Hill, MA 02134
-www.jeffreycwitt.com
-_redacted_(a)uleth.ca> wrote:> Send dm-l mailing list submissions to
+www.jeffreycwitt.com
+
+_redacted_(a)uleth.ca> wrote:
+
+> Send dm-l mailing list submissions to
 _redacted_(a)uleth.ca
 >
 > To subscribe or unsubscribe via the World Wide Web, visit
@@ -89,9 +103,7 @@ _redacted_(a)uleth.ca>
 > engine to look for Latin expressions in a targeted way.  This means I can
 > search for hundreds of examples in the original Latin, in many cases
 > matching the Latin to an English translation, e.g. like this
-> http://www.google.com/search?hl=3Den&q=3D"quod%20quid%20est"+site%3Ahttp%3A=
-%2F%2Fwww.logicmuseum.com&meta<http://www.google.com/search?hl=3Den&q=3D%22qu=
-od%20quid%20est%22+site%3Ahttp%3A%2F%2Fwww.logicmuseum.com&meta>=3D
+> http://www.google.com/search?hl=en&q="quod%20quid%20est"+site%3Ahttp%3A%2F%2Fwww.logicmuseum.com&meta<http://www.google.com/search?hl=en&q=%22quod%20quid%20est%22+site%3Ahttp%3A%2F%2Fwww.logicmuseum.com&meta>=
 > .  This is in principle no different to the way that a dictionary or
 > wordbook gives you an example of how a phrase is used by the classical
 > authors. The difference is merely the scale.  A dictionary will give you a
@@ -113,8 +125,7 @@ od%20quid%20est%22+site%3Ahttp%3A%2F%2Fwww.logicmuseum.com&meta>=3D
 > 5.  I have used the (fairly basic) MediaWiki implementation of tables to
 > make parallel Latin English translations - thus fulfillling the ambition of
 > bringing these wonderful works to a wider audience. E.g. here
-> http://www.logicmuseum.com/wiki/Authors/Ockham/Summa_Logicae/Book_I/Chapter=
-_11 .
+> http://www.logicmuseum.com/wiki/Authors/Ockham/Summa_Logicae/Book_I/Chapter_11 .
 > This is an area where pure IT could actually help, as the Java
 > based CKeditor is awful, full of bugs and difficult to use.  But it is
 > usable. Note the green tick marks on the page which tell me that the page
@@ -141,8 +152,7 @@ _11 .
 > ("Disciplinary impact and technological obsolescence in digital
 > medieval studies" online here
 >
-> http://people.uleth.ca/~daniel.odonnell/Research/disciplinary-impact-and-te=
-chnological-obsolescence-in-digital-medieval-studies)
+> http://people.uleth.ca/~daniel.odonnell/Research/disciplinary-impact-and-technological-obsolescence-in-digital-medieval-studies)
 >
 > makes some very good points on this.  The technology of wikis is proven,
 > yet academic specialists do not use them.  He says (correctly) that this is
@@ -150,14 +160,11 @@ chnological-obsolescence-in-digital-medieval-studies)
 > contributions of the individual are subordinate to the interests of the
 > group.  But "in my experience, most professional scholars initially are
 > extremely impressed by the possibilities offered by collaborative software
-> like wikis and other forms of annotation engines=E2=80=94before almost imme=
-diately
+> like wikis and other forms of annotation engines—before almost immediately
 > bumping up against the problems of prestige and quality control that
 > currently make them infeasible as channels of high level scholarly
-> communication ... Professional scholars traditionally achieve success=E2=80=
-=94both
-> institutionally and in terms of reputation=E2=80=94by the quality and amoun=
-t of
+> communication ... Professional scholars traditionally achieve success—both
+> institutionally and in terms of reputation—by the quality and amount of
 > their research publications. Community-based collaborative projects do not
 > easily fit into this model. "
 > I believe these problems could be resolved by better use of categorisation
@@ -174,7 +181,11 @@ t of
 >
 >
 >
->RGVhciBQZXRlciAob3IgRWR3YXJkKTxkaXY+PGJyPjwvZGl2PjxkaXY+WW91IHNhaWQgaW4geW91
+>
+
+
+
+RGVhciBQZXRlciAob3IgRWR3YXJkKTxkaXY+PGJyPjwvZGl2PjxkaXY+WW91IHNhaWQgaW4geW91
 ciA2dGggcG9pbnQ6PC9kaXY+PGRpdj48YnI+PC9kaXY+PGRpdj48YmxvY2txdW90ZSBjbGFzcz0i
 Z21haWxfcXVvdGUiIHN0eWxlPSJtYXJnaW4tdG9wOiAwcHg7IG1hcmdpbi1yaWdodDogMHB4OyBt
 YXJnaW4tYm90dG9tOiAwcHg7IG1hcmdpbi1sZWZ0OiAwLjhleDsgYm9yZGVyLWxlZnQtd2lkdGg6
@@ -401,4 +412,4 @@ PSIyIj5FZHdhcmQ8L2ZvbnQ+PC9kaXY+CjxkaXY+PGZvbnQgZmFjZT0iQXJpYWwiIHNpemU9IjIi
 PjwvZm9udD6gPC9kaXY+CjxkaXY+PGZvbnQgZmFjZT0iQXJpYWwiIHNpemU9IjIiPjwvZm9udD6g
 PC9kaXY+PC9kaXY+CjxkaXY+PGZvbnQgZmFjZT0iQXJpYWwiIHNpemU9IjIiPjwvZm9udD6gPC9k
 aXY+CjxkaXY+PGZvbnQgZmFjZT0iQXJpYWwiIHNpemU9IjIiPjwvZm9udD6gPC9kaXY+PC9ibG9j
-a3F1b3RlPjwvZGl2Pjxicj4KPC9kaXY+Cg==
+a3F1b3RlPjwvZGl2Pjxicj4KPC9kaXY+Cg

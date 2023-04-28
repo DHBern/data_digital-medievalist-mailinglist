@@ -1,4 +1,6 @@
-Subject: RE: [dm-l] what xslt can't do..?I confess I haven't tried Anastasia yet, through lack of time and not of
+Subject: RE: [dm-l] what xslt can't do..?
+
+I confess I haven't tried Anastasia yet, through lack of time and not of
 interest. Glancing at the documentation, I see that Anastasia appears to
 do lookups in a book file, which has (previously?) been compiled from
 the TEI. ("This must be an Anastasia book compiled from the XML using
@@ -7,7 +9,9 @@ real-time access to any part of the underlying XML.") Anastasia's speed
 is attributed to the fact that it is "interrogating not the source XML
 but a set of binary files (an "AnaGrove") which are optimized to permit
 the fastest access to information about every aspect of the source XML."
-GroveMaker is written in C.It would appear, then, that Anastasia would have the same syncronization
+GroveMaker is written in C.
+
+It would appear, then, that Anastasia would have the same syncronization
 requirements as the kind of pre-transformed XSL-based solution that
 James is talking about: if you change the TEI, you've got to remember to
 recompile the AnaGrove. If I've understood this correctly, then it seems
@@ -17,27 +21,40 @@ TEI file, but rather, say, a Cocoon pipeline using XSL to present
 arbitrary XML page files which have been pre-extracted from the TEI file
 and optimized for presentation by an XSL process along the lines of the
 one I hacked. The TCL scripts that Peter R. sent would be the equivalent
-of the matcher and generator in the Cocoon pipeline:<map:match pattern="*/*.html">
-	<map:generate src="path-to-texts/{1}/{2}.xml"/>
+of the matcher and generator in the Cocoon pipeline:
+
+<map:match pattern/*.html">
+	<map:generate srcath-to-texts/{1}/{2}.xml"/>
 	...
-</map:match>(where a url like "hengwrt/23.html" would be mapped to an extracted page
+</map:match>
+
+(where a url like "hengwrt/23.html" would be mapped to an extracted page
 file "path-to-texts/hengwrt/23.xml"). The output of this generator, as
 of the TCL scripts, is the marked-up text of a given page, ready to be
-styled and presented to the reader.Anastasia may well still win on speed, of course, if not in the
+styled and presented to the reader.
+
+Anastasia may well still win on speed, of course, if not in the
 presentation then in the preprocessing. An XSL-based extraction process
 will have a hard time keeping up with a custom-written C indexer. But it
 will be a lot easier to maintain, I submit (with apologies if I've
-misunderstood what Anastasia is doing).Has anyone looked at teiPublisher yet, by the way?
+misunderstood what Anastasia is doing).
+
+Has anyone looked at teiPublisher yet, by the way?
 (http://teipublisher.sourceforge.net/docs/index.php) Judging from the
 texts in the "Documenting the American South" project, they seem to have
 sidestepped the whole problem of presenting arbitrary pages, by only
 offering the complete text in a single HTML file. I haven't looked into
-it to see if there are other options, though.Final note regarding the sample text: again, I don't understand what the
+it to see if there are other options, though.
+
+Final note regarding the sample text: again, I don't understand what the
 problem is with the last page, even with the appendix. How can any
 process know that that last div is an appendix and not a new section of
 the main text, beginning and ending on page 5? Whatever marker
 GroveMaker uses to make this distinction would also be available to XSL,
-presumably. (Perhaps my ignorance of TEI is showing...)Peter Binkley
+presumably. (Perhaps my ignorance of TEI is showing...)
+
+Peter Binkley
+
 > -----Original Message-----
 _redacted_(a)uleth.ca] On 
 > Behalf Of Peter Robinson
@@ -98,7 +115,7 @@ _redacted_(a)uleth.ca
 > 
 > proc pb {me context} {
 >   global pagecounter finish
->   if {$pagecounter=="2"} {set finish 1}
+>   if {$pagecounter2"} {set finish 1}
 >   incr pagecounter
 > }
 > 
@@ -129,13 +146,13 @@ _redacted_(a)uleth.ca
 > ***revised document with an appendix after the last page...
 > <div>
 > <head>The whole text and all the texts</head> <div> <pb 
-> n="1"/> <head>First text</head> <p n="1">some text starts 
-> here and goes ita<hi rend="italic">lic an<pb n="2"/>d 
-> then</i> we get a pagebreak</p> <p n="2">so the text 
-> finishes</p> <p n="3"> with yet another page <pb n="3"/> and 
+> nñ"/> <head>First text</head> <p nñ">some text starts 
+> here and goes ita<hi rendtalic">lic an<pb nò"/>d 
+> then</i> we get a pagebreak</p> <p nò">so the text 
+> finishes</p> <p nó"> with yet another page <pb nó"/> and 
 > another page start </p> </div> <div> <head>Second text</head> 
-> <pb n="4"/> <p n="1">here my new text on the next page etc 
-> etc</p> <pb n="5"/> <p n="2">here my new text on the next 
+> <pb nô"/> <p nñ">here my new text on the next page etc 
+> etc</p> <pb nõ"/> <p nò">here my new text on the next 
 > page etc etc</p> </div> <div> <p>Now here we have an appendix 
 > and some more text after that</p> </div> </div>
 > 
@@ -154,5 +171,7 @@ _redacted_(a)uleth.ca
 _redacted_(a)uleth.ca dm-l 
 _redacted_(a)uleth.ca 
 > http://listserv.uleth.ca/mailman/listinfo/dm-l
-> 
---===============3228129018399530391==--
+> 
+
+--3228129018399530391-
+

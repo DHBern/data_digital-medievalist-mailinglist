@@ -1,32 +1,50 @@
-Subject: Re: [dm-l] Layout of medieval poetry with CSSThanks to everyone who has replied so far. Some great ideas here. So far 
+Subject: Re: [dm-l] Layout of medieval poetry with CSS
+
+Thanks to everyone who has replied so far. Some great ideas here. So far 
 Travis's approach has worked best--with some little alterations mainly 
 for making lines wrap elegantly and for working around problems with 
-e-book readers. Here's the css:.verse-container div {margin-left: 7em; text-indent: -2em;}
+e-book readers. Here's the css:
+
+.verse-container div {margin-left: 7em; text-indent: -2em;}
 .verse-container div span {display: block; float: left; margin-left: -5em;}
 .hypermetric div {margin-left: 6em; text-indent: -2em;}
-.hypermetric div span {display: block; float: left; margin-left: -4em;}I substituted div for p because Stanza insists on its own formatting for 
+.hypermetric div span {display: block; float: left; margin-left: -4em;}
+
+I substituted div for p because Stanza insists on its own formatting for 
 p. And I use em instead of px to scale better with the device.  The HTML 
-looks like this:<div class="verse-container">
+looks like this:
+
+<div classerse-container">
     <div>Oft him ānhaga     āre gebīdeð,</div>
     <div>Metudes miltse,     þēah þe hē mōdcearig</div>
     <div>geond lagulāde     longe sceolde</div>
     <div>hrēran mid hondum     hrīmcealde sǣ,</div>
     <div><span>5</span>wadan wræclāstas.      Wyrd bið ful ārǣd.</div>
-</div>Nice and clean. The only remaining problem is that the Adobe Digital 
+</div>
+
+Nice and clean. The only remaining problem is that the Adobe Digital 
 Editions (ADE) e-book reader doesn't move the left margin of the span as 
 far left as the CSS tells it to do, and this causes collisions between 
 line number and line in the hypermetric verses, where the left margin is 
 narrower and there's less margin for error. So I've had to make the left 
 margin wider than I had it before to compensate. It looks like a waste 
 of space on an iPod screen, but in a browser window the spaciousness is 
-rather pleasant.Grant Simpson's approach looked to be working well, but it ran afoul of 
+rather pleasant.
+
+Grant Simpson's approach looked to be working well, but it ran afoul of 
 a bug in the Stanza reader, which for some reason makes a block 
 containing a line number disappear unless it is inside the div for the 
 line. Don't ask me why: but as I've been haunting the mobileread forums 
 for a couple of weeks I can say that the CSS processing in Stanza and 
-ADE is well known to be flaky.I expect the e-book reader in the iPad to be much better, as it will 
-presumably use the Safari layout engine.Thanks again to everyone,
-PeterTravis Brown wrote:
+ADE is well known to be flaky.
+
+I expect the e-book reader in the iPad to be much better, as it will 
+presumably use the Safari layout engine.
+
+Thanks again to everyone,
+Peter
+
+Travis Brown wrote:
 > The code below is too busy. You can get by with fewer classes and 
 > something more semantically concise. Though it's arguable if this is 
 > the correct approach. Line numbers are not content – they are 
@@ -47,7 +65,7 @@ PeterTravis Brown wrote:
 > margin-left: -20px;
 > }
 >
-> <div class="verse-container">
+> <div classerse-container">
 >  <p>Whan that Aprill, with his shoures soote</p>
 >  <p>The droghte of March hath perced to the roote</p>
 >  <p>And bathed every veyne in swich licour,</p>
@@ -78,11 +96,11 @@ PeterTravis Brown wrote:
 >>
 >> How about the following:
 >>
->> <div class="vl">
+>> <div classl">
 >> hrēran mid hondum hrīmcealde sǣ,
 >> </div>
->> <div class="n">5</div>
->> <div class="vl">
+>> <div class">5</div>
+>> <div classl">
 >> wadan wræclāstas. Wyrd bið ful ārǣd.
 >> </div>
 >>
@@ -130,13 +148,13 @@ PeterTravis Brown wrote:
 >>> My current solution involves enclosing each line in a div with class
 >>> "vl" (verse-line). *Numbered* lines, on the other hand, go in a div 
 >>> with
->>> class "vln" (numbered-verse-line). The <div class="vln"> lines start
+>>> class "vln" (numbered-verse-line). The <div classln"> lines start
 >>> with a div containing the line number. So here:
 >>>
->>> <div class="vl">
+>>> <div classl">
 >>> hrēran mid hondum hrīmcealde sǣ,
 >>> </div>
->>> <div class="vln">
+>>> <div classln">
 >>> <div>5</div> wadan wræclāstas. Wyrd bið ful ārǣd.
 >>> </div>
 >>>
@@ -171,7 +189,10 @@ PeterTravis Brown wrote:
 >> News: http://www.digitalmedievalist.org/news/
 >> Wiki: http://www.digitalmedievalist.org/wiki/
 >> Twitter: http://twitter.com/digitalmedieval
->> Facebook: http://www.facebook.com/group.php?gid=49320313760
+>> Facebook: http://www.facebook.com/group.php?gidI320313760
 _redacted_(a)uleth.ca>
 >> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
->
+>
+
+
+

@@ -1,4 +1,6 @@
-Subject: [dm-l] Form-based methods of building xml?Hi all,
+Subject: [dm-l] Form-based methods of building xml?
+
+Hi all,
 	Does anybody know of a good method for form-based xml-file 
 construction? I am looking for something to use on a local (winxp) machine.
 	Like most people I have a number of files that are written either 
@@ -29,4 +31,7 @@ Tel. (403) 329-2377
 Fax. (403) 382-7191
 _redacted_(a)uleth.ca>
 Home Page <http://people.uleth.ca/~daniel.odonnell/>
-The Digital Medievalist Project: <http://www.digitalmedievalist.org/>
+The Digital Medievalist Project: <http://www.digitalmedievalist.org/>
+
+
+

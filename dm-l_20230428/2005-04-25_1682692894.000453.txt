@@ -1,10 +1,16 @@
-Subject: [dm-l] Help in customizing the TEI DTDHi all,
+Subject: [dm-l] Help in customizing the TEI DTD
+
+Hi all,
 after much dealying I finally accepted the idea that I will need to use
 a customized version of the TEI DTD for my project(s): I read the
 guidelines, but would surely appreciate any further help, can anybody
 point me to tutorials, examples etc. on the web? Has anybody had any
 luck in using Roma? I couldn't save my modifications as a DTD, is it
-going to remain a schema-only tool?Thanks in advance.Ciao
+going to remain a schema-only tool?
+
+Thanks in advance.
+
+Ciao
   
 -- 
  
@@ -14,5 +20,9 @@ del Linguaggio                  Then spoke the thunder  DA
 Universita' di Torino           Datta: what have we given?  (TSE)
  
   Hige sceal the heardra,     heorte the cenre,
-  mod sceal the mare,       the ure maegen litlath.  (Maldon 312-3)
---===============0248838892426860541==--
+  mod sceal the mare,       the ure maegen litlath.  (Maldon 312-3)
+
+
+
+--0248838892426860541-
+

@@ -1,19 +1,30 @@
-Subject: Re: [dm-l] OTA Corpus
+Subject: Re: [dm-l] OTA Corpus
+
 > Does anybody have an XSLT solution to transforming the P1 SGML to P4 XML
 > and via XSL to xhtml? That might be an inneresting test of the durability
 > of encoding standards and the true portability of structural markup and
 > XSL.
-> You can't run XSLT on SGML files, so this is not a very sensible 
+> 
+
+You can't run XSLT on SGML files, so this is not a very sensible 
 question as phrased. However, migrating SGML to XML is very easily done 
 using a nifty utility called osx, of which we have just done a windows 
 port (sorry, but the Mac version is still a glint in someone else's 
 eye). See the TEI SGML-XML migration workgroup's pages at 
 http://www.tei-c.org/Activities/MI/ for general info on sgml to xml 
 migration. I dont know that there's much difference between P1 and P4 as 
-far as the OE Corpse is concerned.I have a very nice XML version of a small subset of the OE corpus with 
+far as the OE Corpse is concerned.
+
+I have a very nice XML version of a small subset of the OE corpus with 
 POS codes and lemmatization which I use as a testbed for Xaira, our new 
 XML indexer. If anyone would like to have a play with that, I'd be 
-pleased to make it available.> -dan
+pleased to make it available.
+
+
+
+
+
+> -dan
 > 
 > 
 > 
@@ -236,4 +247,7 @@ _redacted_(a)uleth.ca
 _redacted_(a)uleth.ca
 > http://listserv.uleth.ca/mailman/listinfo/dm-l
 > 
-> 
+> 
+
+
+

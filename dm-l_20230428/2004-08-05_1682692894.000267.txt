@@ -1,13 +1,21 @@
-Subject: RE: [dm-l] early music notationDorothy Parker asked about music markup languages.  She is correct in noting
+Subject: RE: [dm-l] early music notation
+
+Dorothy Parker asked about music markup languages.  She is correct in noting
 the deficiencies of MusicXML, et al.  These, along with the proposals for
 embedding musical notation in the new MPEG standard, are designed for modern
-(i.e., post-17th century notation).The NEUMES project, begun at Harvard several years ago, is making headway in
+(i.e., post-17th century notation).
+
+The NEUMES project, begun at Harvard several years ago, is making headway in
 this area, at least for medieval chant.  See:
 http://www.scribeserver.com/NEUMES/.  I've just recently discovered this,
 and I will be examining this in some depth to see to what extent I can use
-this in my liturgical drama project.  Assuming the NEUMES folks achieve their objectives, though, a problem still
+this in my liturgical drama project.  
+
+Assuming the NEUMES folks achieve their objectives, though, a problem still
 remains with the notational schemes between chant and Bach (and even Bach
-can be troublesome). /**************************************************************
+can be troublesome). 
+
+/**************************************************************
  * Michael L. Norton, Ph.D. (Musicology)
  * Computer Science Dept.
  * MSC 4103
@@ -15,26 +23,36 @@ can be troublesome). /********************************************************
  * Harrisonburg, VA 22807
  * (540) 568-2777
 _redacted_(a)jmu.edu
- **************************************************************/-----Original Message-----
+ **************************************************************/
+
+-----Original Message-----
 _redacted_(a)uleth.ca] On Behalf Of
 Dorothy C. Porter
 Sent: Thursday, August 05, 2004 8:20 AM
 _redacted_(a)uleth.ca
-Subject: [dm-l] early music notationDigital Medievalist Journal (Inaugural Issue Fall 2004). Call for papers:
+Subject: [dm-l] early music notation
+
+Digital Medievalist Journal (Inaugural Issue Fall 2004). Call for papers:
 http://www.digitalmedievalist.org/cfp.htm
 ----------------
-Hi list,This is a message I sent as a reply to James Cummings on TEI-L, but I think
+Hi list,
+
+This is a message I sent as a reply to James Cummings on TEI-L, but I think
 it may be of interest to folks on this list as well (some of whom, I expect,
 will know more than me - I haven't studied medieval music since college).
 His original query concerned including the Medieval Encoding Initiative
 (MEI, http://dl.lib.virginia.edu/bin/dtd/mei/) as a module in the TEI.
 ********************
-James (and list),There are at least two other prospective XML schemas for encoding music -
+James (and list),
+
+There are at least two other prospective XML schemas for encoding music -
 Music Markup Language (http://www.musicmarkup.info/) and MusicXML
 (http://www.musicxml.org/xml.html). I can't speak to the technical pros and
 cons of including music markup as a part of TEI. I do think that it is
 something to consider, especially for, as you say, liturgical manuscripts
-(or other early manuscripts that include musical notation).Having looked briefly at all three of these markup schemas, though, it
+(or other early manuscripts that include musical notation).
+
+Having looked briefly at all three of these markup schemas, though, it
 appears that all are designed specifically for modern Western musical
 notation - notes of determined length on a standard staff. This would be
 fine for encoding something like a 18th century hymnal, but less useful for
@@ -43,14 +61,27 @@ always clear), and not useful at all for the earliest notation (basically
 squiggles written over the lyrics). It would be great to be able to describe
 these sorts of early notation beyond simply noting that they're there, but
 it doesn't appear that these schemas are designed with early notation in
-mind (at least not publically, yet).Does anyone on the list know more? Is anyone interested in pursuing some
-sort of notation extension/module to TEI?Dot***************************************
+mind (at least not publically, yet).
+
+Does anyone on the list know more? Is anyone interested in pursuing some
+sort of notation extension/module to TEI?
+
+Dot
+
+***************************************
 Dorothy Carr Porter, Program Coordinator Collaboratory for Research in
 Computing for Humanities University of Kentucky
 351 William T. Young Library
-Lexington, KY  40506_redacted_(a)uky.edu          859-257-9549
-***************************************_______________________________________________
+Lexington, KY  40506
+
+_redacted_(a)uky.edu          859-257-9549
+***************************************
+
+_______________________________________________
 Project web site: http://www.digitalmedievalist.org/
 dm-l mailing list
 _redacted_(a)uleth.ca
-http://listserv.uleth.ca/mailman/listinfo/dm-l
+http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+
+

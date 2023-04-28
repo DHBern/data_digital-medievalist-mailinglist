@@ -1,4 +1,8 @@
-Subject: Re: [dm-l] palaeography and computingArianna Ciula wrote:>Is there any sort of DTD designed with the purpose of describing a 
+Subject: Re: [dm-l] palaeography and computing
+
+Arianna Ciula wrote:
+
+>Is there any sort of DTD designed with the purpose of describing a 
 >medieval manuscript, not just in its physical features as a global 
 >object, but in its palaeographical features?
 >
@@ -20,4 +24,9 @@ be adequate.) This transcription DTD of mine is not really ready for
 prime time, but if it seems to be the kind of thing you're looking for, 
 I'm happy to share. (This is not the DTD on the Web site I referred to a 
 few days ago, though that simplified one is composed of elements 
-extracted from it.)Murray McGillivray
+extracted from it.)
+
+Murray McGillivray
+
+
+

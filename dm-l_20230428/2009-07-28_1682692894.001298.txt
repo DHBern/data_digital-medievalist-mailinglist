@@ -1,16 +1,26 @@
-Subject: Re: [dm-l] Use of wikis for transcriptionHi All,I agree with Dot that any collaborative transcription (which is
+Subject: Re: [dm-l] Use of wikis for transcription
+
+Hi All,
+
+I agree with Dot that any collaborative transcription (which is
 slightly different from collaborative editing) is all about adhering
-to mutually agreed conventions of collaborative transcription.A good model for this is the Distributed Proofreaders that
+to mutually agreed conventions of collaborative transcription.
+
+A good model for this is the Distributed Proofreaders that
 crowdsources correction of dirty OCR for project gutenberg. If I'm not
 mistaken there is per volume a responsible person who checks things
 and is responsible for any specialised guidelines, anyone is allowed
 to go and proofread a few pages depending on the perceived level of
 difficulty of the volume.  As you proofread more you graduate to being
 allowed to do volumes with a higher level of perceived difficulty, and
-presumably eventually oversee volumes.I feel that kind of graduated  responsibility in crowdsourcing
+presumably eventually oversee volumes.
+
+I feel that kind of graduated  responsibility in crowdsourcing
 techniques is probably a good idea.  But it all comes down to the
 guidelines for the average user being clear and easy to understand, or
-them being able to flag potential problems easily.With collaborative editing, then there are lots of models with
+them being able to flag potential problems easily.
+
+With collaborative editing, then there are lots of models with
 slightly different methodologies and technologies.  I, of course,
 agree with Dot and Dan that XML as a preservation format is pretty
 much a requirement these days.  And with Dot that medievalists can
@@ -18,7 +28,11 @@ learn (and in my experience quite frequently are learning) TEI XML
 quite quickly.  After all as medievalists we do things like learn
 skills like palaeography and languages like medieval Latin, nevermind
 all the other things, so by comparison to learn a human-readable
-markup format is really a lot easier than most of the things we do.-James_redacted_(a)gmail.com> wrote:
+markup format is really a lot easier than most of the things we do.
+
+-James
+
+_redacted_(a)gmail.com> wrote:
 > Hi Edward (and Dan, and all). Just a few thoughts on what Dan's
 > already written...
 >
@@ -169,5 +183,7 @@ _redacted_(a)gmail.com
 > Wiki: http://www.digitalmedievalist.org/wiki/
 _redacted_(a)uleth.ca
 > Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
->
---===============7888396120575260259==--
+>
+
+--7888396120575260259-
+

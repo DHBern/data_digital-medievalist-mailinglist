@@ -1,4 +1,6 @@
-Subject: [dm-l] TAN: Unicode, XML, and LaTeXHi all,
+Subject: [dm-l] TAN: Unicode, XML, and LaTeX
+
+Hi all,
      I've been playing with LaTex (actually MikTex) as a TEI2PDF 
 conversion method, and I have a question about unicode support for LaTex 
 that members of this list might have a better handle on than the TUG 
@@ -9,7 +11,9 @@ at TUG seem to suggest this is something that is difficult to do and
 won't really be resolved until LaTeX 3. I'm sure members here have some 
 practical experience.
      Thanks.
--danP.S. I'm cross posting this in tei-l; apologies for the double messages.
+-dan
+
+P.S. I'm cross posting this in tei-l; apologies for the double messages.
 -- 
 Daniel Paul O'Donnell, PhD
 Associate Professor of English
@@ -19,4 +23,7 @@ Tel. (403) 329-2377
 Fax. (403) 382-7191
 _redacted_(a)uleth.ca>
 Home Page <http://people.uleth.ca/~daniel.odonnell/>
-The Digital Medievalist Project: <http://www.digitalmedievalist.org/>
+The Digital Medievalist Project: <http://www.digitalmedievalist.org/>
+
+
+

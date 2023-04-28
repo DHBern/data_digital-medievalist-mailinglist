@@ -1,103 +1,37 @@
-Subject: Re: [dm-l] SDH 2011 Supporting Digital HumanitiesThanks for the many helpful comments and apologies for the negative tone of m=
-y original message.  On a positive note I would like to enumerate a number of=
- ways in which I have found computers to be helpful.  In the majority of case=
-s, however, it has been me as an individual using technology (mostly quite cr=
-ude, MS office style technology) to do things. I.e. a domain expert who also =
-uses IT as best I can.  The idea of non-domain specialists who are proficient=
- in IT of itself is in my view an 'old world' view of technology that takes u=
-s back to mainframes and specialist programmers building big systems and data=
-bases. But the world we live in, since the PC arrived in the 1980s, is increa=
-singly end-user computing.1.  Spell checking. I have written one program to do this, which involves com=
-puting all possible Latin inflections in one fell swoop.  The MS Word checker=
-, as you probably know, does not understand inflection.  This does not matter=
- with English, which is comparatively uninflected.  The problem is that there=
- are a few million possible words required, which is simply too big for MS wo=
-rd, which collapses.  The right way would be to construct a proper parser whi=
-ch understood Latin grammar, but this is beyond my skill.  (Well, possibly no=
-t, as my MSc was in natural language processing and machine translation, but =
-my knowledge of that tells me the job would take more time and effort than I =
-have).2.  More successful was a simple correction function using the VBA 'textrepla=
-ce' function.  The reason I need this is to convert printed versions of Latin=
- text into digitised versions.  OCR is still pretty hopeless at character rec=
-ognition, as we all know, so the corrector function looks for impossible lett=
-er combinations.  For example, OCR generally confused 'e' and 'c', so renders=
- the Latin 'essent' as 'esscnt' or 'csscnt' or something like that.  So I sea=
-rch and replace 'cnt' into 'ent', knowing that 'cnt' is not possible.  There =
-are hundreds of other examples.  I also check for known mistakes on common wo=
-rds, e.g. 'vcl' should be 'vcl' and stuff like that.=20There still remains the bulk of the work, which is formatting the material co=
-rrectly.  OCR is not very good at understanding footnotes, Greek words, other=
- parts of the critical apparatus, and getting this right requires simple hard=
- work.  I have a little image of a medieval scribe on my screen, who was doin=
-g exactly the same thing, really.=203.  I have a Latin site searcher on my website http://www.logicmuseum.com/lat=
-insearcher.htm which uses the Google search engine to look for Latin expressi=
-ons in a targeted way.  This means I can search for hundreds of examples in t=
-he original Latin, in many cases matching the Latin to an English translation=
-, e.g. like this http://www.google.com/search?hl=3Den&q=3D"quod%20quid%20est"=
-+site%3Ahttp%3A%2F%2Fwww.logicmuseum.com&meta=3D .  This is in principle no d=
-ifferent to the way that a dictionary or wordbook gives you an example of how=
- a phrase is used by the classical authors. The difference is merely the scal=
-e.  A dictionary will give you a handful of results, the search linked to abo=
-ve gives you 53.  Again, this is not sophisticated technology - a few lines o=
-f Java plus the already existing Google.4.  I have just implemented a wiki on the same site http://www.logicmuseum.co=
-m/wiki/Main_Page .  This was fairly simple and used existing technology (Medi=
-awiki and Semantic mediawiki).  The ambition is to provide access to all the =
-key (Latin) texts of the medieval period - the principles are outlined here h=
-ttp://www.logicmuseum.com/wiki/The_Logic_Museum:What_is_the_Logic_Museum .  A=
-gain, the main principles are no different to the old way of doing things. Fo=
-r example, I used 'anchoring' to index Aristotelian texts to their 'Bekker nu=
-mber' (a pre-computer way of locating any Aristotelian text by page, column a=
-nd line number of the 19C Bekker edition).  =205.  I have used the (fairly basic) MediaWiki implementation of tables to make=
- parallel Latin English translations - thus fulfillling the ambition of bring=
-ing these wonderful works to a wider audience. E.g. here http://www.logicmuse=
-um.com/wiki/Authors/Ockham/Summa_Logicae/Book_I/Chapter_11 .  This is an area=
- where pure IT could actually help, as the Java based CKeditor is awful, full=
- of bugs and difficult to use.  But it is usable. Note the green tick marks o=
-n the page which tell me that the page has been checked once (but not peer re=
-viewed). This is the technology version of a system that translators have use=
-d for centuries.=20On the general subject of bringing to a wider audience I was inspired some ye=
-ars ago by the site of a critical edition in a specialist library.  It was fi=
-fty years old, in tatters, with pages missing.  To locate these texts you had=
- to use a card index. When you took the book out, you had to fill a form in a=
-nd place it on the shelf.  Then you would place the book on a trolley for it =
-to be filed by some clerk.  The building itself dates from the 1930s and has =
-not received a lick of paint since then.  There has to be a better way than t=
-his. Add to that the fact that, even though I have the run of the finest Lond=
-on libraries, there are many important texts that they do not have (e.g. the =
-Alluntis edition of Scotus' Quodlibetal questions - not in any London library=
-).  Why do people spend a lot of time and effort preparing these editions, to=
- have some press squirt ink onto paper, publish them at hugely inflated price=
-s, even though the main work of doing them (preparation and peer review) was =
-unpaid labour?  There has to be a better system - although the problem here i=
-s economic, not IT related.6.  Which naturally brings me to wikis.  Daniel Paul O'Donnell ("Disciplinary=
- impact and technological obsolescence in digital medieval studies" online he=
-re=20
-http://people.uleth.ca/~daniel.odonnell/Research/disciplinary-impact-and-tech=
-nological-obsolescence-in-digital-medieval-studies) makes some very good poin=
-ts on this.  The technology of wikis is proven, yet academic specialists do n=
-ot use them.  He says (correctly) that this is an economic problem.  Wikis de=
-pend on collaborative effort, where the contributions of the individual are s=
-ubordinate to the interests of the group.  But "in my experience, most profes=
-sional scholars initially are extremely impressed by the possibilities offere=
-d by collaborative software like wikis and other forms of annotation engines=
-=E2=80=94before almost immediately bumping up against the problems of prestig=
-e and quality control that currently make them infeasible as channels of high=
- level scholarly communication ... Professional scholars traditionally achiev=
-e success=E2=80=94both institutionally and in terms of reputation=E2=80=94by =
-the quality and amount of their research publications. Community-based collab=
-orative projects do not easily fit into this model. "
-I believe these problems could be resolved by better use of categorisation an=
-d markup (to address the quality control issue), and by allowing 'ownership' =
-of designated pages on the wiki. There is absolutely no reason why a critical=
- edition, or a translation, could not be produced entirely online, by a colla=
-borative effort of a small group, working in different parts of the world.  I=
- would welcome ideas on this, from anyone working on editions, or translation=
-s.  There has to be a better way than would we have now, and perhaps this cou=
-ld be achieved by appropriate use of technology.Edward
---===============5559019074244403537==
-Content-Type: text/html
+Subject: Re: [dm-l] SDH 2011 Supporting Digital Humanities
+
+Thanks for the many helpful comments and apologies for the negative tone of my original message.  On a positive note I would like to enumerate a number of ways in which I have found computers to be helpful.  In the majority of cases, however, it has been me as an individual using technology (mostly quite crude, MS office style technology) to do things. I.e. a domain expert who also uses IT as best I can.  The idea of non-domain specialists who are proficient in IT of itself is in my view an 'old world' view of technology that takes us back to mainframes and specialist programmers building big systems and databases. But the world we live in, since the PC arrived in the 1980s, is increasingly end-user computing.
+
+1.  Spell checking. I have written one program to do this, which involves computing all possible Latin inflections in one fell swoop.  The MS Word checker, as you probably know, does not understand inflection.  This does not matter with English, which is comparatively uninflected.  The problem is that there are a few million possible words required, which is simply too big for MS word, which collapses.  The right way would be to construct a proper parser which understood Latin grammar, but this is beyond my skill.  (Well, possibly not, as my MSc was in natural language processing and machine translation, but my knowledge of that tells me the job would take more time and effort than I have).
+
+2.  More successful was a simple correction function using the VBA 'textreplace' function.  The reason I need this is to convert printed versions of Latin text into digitised versions.  OCR is still pretty hopeless at character recognition, as we all know, so the corrector function looks for impossible letter combinations.  For example, OCR generally confused 'e' and 'c', so renders the Latin 'essent' as 'esscnt' or 'csscnt' or something like that.  So I search and replace 'cnt' into 'ent', knowing that 'cnt' is not possible.  There are hundreds of other examples.  I also check for known mistakes on common words, e.g. 'vcl' should be 'vcl' and stuff like that. 
+
+There still remains the bulk of the work, which is formatting the material correctly.  OCR is not very good at understanding footnotes, Greek words, other parts of the critical apparatus, and getting this right requires simple hard work.  I have a little image of a medieval scribe on my screen, who was doing exactly the same thing, really. 
+
+3.  I have a Latin site searcher on my website http://www.logicmuseum.com/latinsearcher.htm which uses the Google search engine to look for Latin expressions in a targeted way.  This means I can search for hundreds of examples in the original Latin, in many cases matching the Latin to an English translation, e.g. like this http://www.google.com/search?hl=en&q="quod%20quid%20est"+site%3Ahttp%3A%2F%2Fwww.logicmuseum.com&meta= .  This is in principle no different to the way that a dictionary or wordbook gives you an example of how a phrase is used by the classical authors. The difference is merely the scale.  A dictionary will give you a handful of results, the search linked to above gives you 53.  Again, this is not sophisticated technology - a few lines of Java plus the already existing Google.
+
+4.  I have just implemented a wiki on the same site http://www.logicmuseum.com/wiki/Main_Page .  This was fairly simple and used existing technology (Mediawiki and Semantic mediawiki).  The ambition is to provide access to all the key (Latin) texts of the medieval period - the principles are outlined here http://www.logicmuseum.com/wiki/The_Logic_Museum:What_is_the_Logic_Museum .  Again, the main principles are no different to the old way of doing things. For example, I used 'anchoring' to index Aristotelian texts to their 'Bekker number' (a pre-computer way of locating any Aristotelian text by page, column and line number of the 19C Bekker edition).   
+
+5.  I have used the (fairly basic) MediaWiki implementation of tables to make parallel Latin English translations - thus fulfillling the ambition of bringing these wonderful works to a wider audience. E.g. here http://www.logicmuseum.com/wiki/Authors/Ockham/Summa_Logicae/Book_I/Chapter_11 .  This is an area where pure IT could actually help, as the Java based CKeditor is awful, full of bugs and difficult to use.  But it is usable. Note the green tick marks on the page which tell me that the page has been checked once (but not peer reviewed). This is the technology version of a system that translators have used for centuries. 
+
+On the general subject of bringing to a wider audience I was inspired some years ago by the site of a critical edition in a specialist library.  It was fifty years old, in tatters, with pages missing.  To locate these texts you had to use a card index. When you took the book out, you had to fill a form in and place it on the shelf.  Then you would place the book on a trolley for it to be filed by some clerk.  The building itself dates from the 1930s and has not received a lick of paint since then.  There has to be a better way than this. Add to that the fact that, even though I have the run of the finest London libraries, there are many important texts that they do not have (e.g. the Alluntis edition of Scotus' Quodlibetal questions - not in any London library).  Why do people spend a lot of time and effort preparing these editions, to have some press squirt ink onto paper, publish them at hugely inflated prices, even though the main work of doing them (preparation and peer review) was unpaid labour?  There has to be a better system - although the problem here is economic, not IT related.
+
+6.  Which naturally brings me to wikis.  Daniel Paul O'Donnell ("Disciplinary impact and technological obsolescence in digital medieval studies" online here 
+http://people.uleth.ca/~daniel.odonnell/Research/disciplinary-impact-and-technological-obsolescence-in-digital-medieval-studies) makes some very good points on this.  The technology of wikis is proven, yet academic specialists do not use them.  He says (correctly) that this is an economic problem.  Wikis depend on collaborative effort, where the contributions of the individual are subordinate to the interests of the group.  But "in my experience, most professional scholars initially are extremely impressed by the possibilities offered by collaborative software like wikis and other forms of annotation engines—before almost immediately bumping up against the problems of prestige and quality control that currently make them infeasible as channels of high level scholarly communication ... Professional scholars traditionally achieve success—both institutionally and in terms of reputation—by the quality and amount of their research publications. Community-based collaborative projects do not easily fit into this model. "
+I believe these problems could be resolved by better use of categorisation and markup (to address the quality control issue), and by allowing 'ownership' of designated pages on the wiki. There is absolutely no reason why a critical edition, or a translation, could not be produced entirely online, by a collaborative effort of a small group, working in different parts of the world.  I would welcome ideas on this, from anyone working on editions, or translations.  There has to be a better way than would we have now, and perhaps this could be achieved by appropriate use of technology.
+
+Edward
+
+
+
+
+
+--5559019074244403537Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMCBUcmFuc2l0aW9uYWwv
+Content-Disposition: attachment; filename�ttachment.html"
+MIME-Version: 1.0
+
+PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMCBUcmFuc2l0aW9uYWwv
 L0VOIj4KPEhUTUw+PEhFQUQ+CjxNRVRBIGh0dHAtZXF1aXY9Q29udGVudC1UeXBlIGNvbnRlbnQ9
 InRleHQvaHRtbDsgY2hhcnNldD13aW5kb3dzLTEyNTIiPgo8TUVUQSBjb250ZW50PSJNU0hUTUwg
 Ni4wMC42MDAwLjE3MDM3IiBuYW1lPUdFTkVSQVRPUj4KPFNUWUxFPjwvU1RZTEU+CjwvSEVBRD4K
@@ -270,4 +204,5 @@ c2l6ZT0yPkVkd2FyZDwvRk9OVD48L0RJVj4KPERJVj48Rk9OVCBmYWNlPUFyaWFsIHNpemU9Mj48
 L0ZPTlQ+Jm5ic3A7PC9ESVY+CjxESVY+PEZPTlQgZmFjZT1BcmlhbCBzaXplPTI+PC9GT05UPiZu
 YnNwOzwvRElWPjwvRElWPgo8RElWPjxGT05UIGZhY2U9QXJpYWwgc2l6ZT0yPjwvRk9OVD4mbmJz
 cDs8L0RJVj4KPERJVj48Rk9OVCBmYWNlPUFyaWFsIHNpemU9Mj48L0ZPTlQ+Jm5ic3A7PC9ESVY+
-PC9CT0RZPjwvSFRNTD4K
+PC9CT0RZPjwvSFRNTD4K
+

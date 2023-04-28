@@ -1,4 +1,6 @@
-Subject: [dm-l] OTA CorpusJames will know better than I, but I believe the OTA Corpus is the 1993
+Subject: [dm-l] OTA Corpus
+
+James will know better than I, but I believe the OTA Corpus is the 1993
 TEI P1 text. The one for sale by the DOE has been through a couple of
 iterations and has a user friendly search function. It is also, given its
 complexity and the amount of scholarship, time, and need for funding
@@ -8,12 +10,19 @@ relatively cheap for employed scholars to purchase even as individuals.
 professional life, that scholarly work produced on public funds should at
 worst be published on a cost recovery basis, and at best for free on the
 web; but the DOE is an ongoing charity and gave me my first academic job,
-so I have a soft spot for them).If anybody gets a licenced version of the P1 text (assuming I'm correct)
+so I have a soft spot for them).
+
+If anybody gets a licenced version of the P1 text (assuming I'm correct)
 and needs info on P4-ing it, or converting it to HTML, I can help. I don't
-have an XSL sheet that does either task though.Does anybody have an XSLT solution to transforming the P1 SGML to P4 XML
+have an XSL sheet that does either task though.
+
+Does anybody have an XSLT solution to transforming the P1 SGML to P4 XML
 and via XSL to xhtml? That might be an inneresting test of the durability
 of encoding standards and the true portability of structural markup and
-XSL.-dan
+XSL.
+
+-dan
+
 > Digital Medievalist Journal (Inaugural Issue Fall 2004). Call for papers:
 > http://www.digitalmedievalist.org/cfp.htm
 > ----------------
@@ -187,11 +196,15 @@ _redacted_(a)uleth.ca
 > dm-l mailing list
 _redacted_(a)uleth.ca
 > http://listserv.uleth.ca/mailman/listinfo/dm-l
->
+>
+
 --
 Daniel Paul O'Donnell
 Associate Professor of English
 University of Lethbridge
 Lethbridge AB T1K 3M4
 Tel. +1 (403) 329-2377
-Fax. +1 (403) 382-7191
+Fax. +1 (403) 382-7191
+
+
+

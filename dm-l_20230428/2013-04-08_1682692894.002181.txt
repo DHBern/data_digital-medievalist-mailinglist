@@ -1,21 +1,27 @@
-Subject: [dm-l] Fwd: Collaboration needed: Creating "cheatsheets" to defineDear Digital Medievalists,
+Subject: [dm-l] Fwd: Collaboration needed: Creating "cheatsheets" to define
+
+Dear Digital Medievalists,
 I would like to share with you this message I just sent to the TEI list.
 This projects needs collaboration from a wide range of scholars, even those
 who are not familiar with the TEI but would like to help listing the
 various individual tasks and phenomena involved in scholarly works like
 critical editions.
 Best regards,
-Marjorie---------- Forwarded message ----------
+Marjorie
+
+---------- Forwarded message ----------
 _redacted_(a)ehess.fr>
 Date: 8 April 2013 22:34
 Subject: Collaboration needed: Creating "cheatsheets" to define best
 practice for frequent tasks
-_redacted_(a)listserv.brown.edu
+_redacted_(a)listserv.brown.edu
+
 Dear TEI users,
 I would like to invite you to participate in a project that is very dear to
-my heart.Two years ago, I created a Critical Apparatus
-Cheatsheet<http://marjorie.burghart.online.fr/?q=3Den/content/tei-critical-ap=
-paratus-cheatsheet>
+my heart.
+
+Two years ago, I created a Critical Apparatus
+Cheatsheet<http://marjorie.burghart.online.fr/?q=en/content/tei-critical-apparatus-cheatsheet>
 giving
 in a nutshell the "translation" (if I may say so) in TEI of phenomena
 familiar to scholars making critical editions.
@@ -29,11 +35,21 @@ categories of people at least
 - provide tool developpers with a clear list of tasks for several
 operations (i.e. encoding a critical edition, for instance) and the
 recommended way(s) to encode them, which would greatly facilitate interface
-building.I have summarized my thought on this TEI Wiki page:
+building.
+
+I have summarized my thought on this TEI Wiki page:
 http://wiki.tei-c.org/index.php/TEI_Cheatsheets
 and suggested some Cheatsheets we could start creating collaboratively on
-the Wiki.Please give it some thought, and suggest some tasks, phenomena, and their
-best encoding(s) in TEI!Best regards,PGRpdiBkaXI9Imx0ciI+RGVhciBEaWdpdGFsIE1lZGlldmFsaXN0cyygPGRpdj5JIHdvdWxkIGxp
+the Wiki.
+
+Please give it some thought, and suggest some tasks, phenomena, and their
+best encoding(s) in TEI!
+
+Best regards,
+
+
+
+PGRpdiBkaXI9Imx0ciI+RGVhciBEaWdpdGFsIE1lZGlldmFsaXN0cyygPGRpdj5JIHdvdWxkIGxp
 a2UgdG8gc2hhcmUgd2l0aCB5b3UgdGhpcyBtZXNzYWdlIEkganVzdCBzZW50IHRvIHRoZSBURUkg
 bGlzdC4gVGhpcyBwcm9qZWN0cyBuZWVkcyBjb2xsYWJvcmF0aW9uIGZyb20gYSB3aWRlIHJhbmdl
 IG9mIHNjaG9sYXJzLCBldmVuIHRob3NlIHdobyBhcmUgbm90IGZhbWlsaWFyIHdpdGggdGhlIFRF
@@ -96,4 +112,4 @@ Z2h0LCBhbmQgc3VnZ2VzdCBzb21lIHRhc2tzLCBwaGVub21lbmEsIGFuZCB0aGVpciBiZXN0IGVu
 Y29kaW5nKHMpIGluIFRFSSGgPC9kaXY+Cgo8ZGl2IHN0eWxlPSJmb250LWZhbWlseTphcmlhbCxz
 YW5zLXNlcmlmO2ZvbnQtc2l6ZToxM3B4Ij48YnI+PC9kaXY+PGRpdiBzdHlsZT0iZm9udC1mYW1p
 bHk6YXJpYWwsc2Fucy1zZXJpZjtmb250LXNpemU6MTNweCI+QmVzdCByZWdhcmRzLKA8L2Rpdj48
-L2Rpdj4KPC9kaXY+PGJyPjwvZGl2PjwvZGl2Pgo=
+L2Rpdj4KPC9kaXY+PGJyPjwvZGl2PjwvZGl2Pgo

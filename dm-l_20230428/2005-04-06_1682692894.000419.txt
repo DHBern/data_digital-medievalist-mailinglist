@@ -1,7 +1,16 @@
-Subject: Re: [dm-l] what xslt can't do..?For the sake of this conversation, I thought that it would be interesting
+Subject: Re: [dm-l] what xslt can't do..?
+
+For the sake of this conversation, I thought that it would be interesting
 to look at http://www.dpawson.co.uk/xsl/sect2/nono.html .  This page is
-titled Things XSLT can't do'.Abdullah Alger
-_redacted_(a)dmu.ac.uk>:> The Digital Medievalist List (see end of message for contact 
+titled Things XSLT can't do'.
+
+Abdullah Alger
+
+
+
+_redacted_(a)dmu.ac.uk>:
+
+> The Digital Medievalist List (see end of message for contact 
 > information and project URLs).
 >
 > ----------------------------------
@@ -28,19 +37,19 @@ _redacted_(a)dmu.ac.uk>:> The Digital Medievalist List (see end of message for
 > <div>
 > <head>The whole text and all the texts</head>
 > <div>
-> <pb n="1"/>
+> <pb nñ"/>
 > <head>First text</head>
-> <p n="1">some text starts here and goes ita<hi rend="italic">lic an<pb
-> n="2"/>d then</i> we get a pagebreak</p>
-> <p n="2">so the text finishes</p>
-> <p n="3"> with yet another page <pb n="3"/> and another page start </p>
+> <p nñ">some text starts here and goes ita<hi rendtalic">lic an<pb
+> nò"/>d then</i> we get a pagebreak</p>
+> <p nò">so the text finishes</p>
+> <p nó"> with yet another page <pb nó"/> and another page start </p>
 > </div>
 > <div>
 > <head>Second text</head>
-> <pb n="4"/>
-> <p n="1">here my new text on the next page etc etc</p>
-> <pb n="5"/>
-> <p n="2">here my new text on the next page etc etc</p>
+> <pb nô"/>
+> <p nñ">here my new text on the next page etc etc</p>
+> <pb nõ"/>
+> <p nò">here my new text on the next page etc etc</p>
 > </div>
 > </div>
 >
@@ -56,14 +65,14 @@ _redacted_(a)dmu.ac.uk>:> The Digital Medievalist List (see end of message for
 > be..
 >
 > <head>Second text</head>
-> <pb n="4"/>
-> <p n="1">here
+> <pb nô"/>
+> <p nñ">here
 > OR
-> <head>Second text<pb n="4"/></head>
-> <p n="1">here
+> <head>Second text<pb nô"/></head>
+> <p nñ">here
 > OR
 > <head>Second text</head>
-> <p n="1"><pb n="4"/>here
+> <p nñ"><pb nô"/>here
 >
 > Answers on the back of a postage stamp please.
 >
@@ -85,5 +94,9 @@ _redacted_(a)uleth.ca
 > dm-l mailing list
 _redacted_(a)uleth.ca
 > http://listserv.uleth.ca/mailman/listinfo/dm-l
->
---===============7234827507444733037==--
+>
+
+
+
+--7234827507444733037-
+

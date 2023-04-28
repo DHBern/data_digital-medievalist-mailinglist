@@ -1,16 +1,28 @@
-Subject: Re: [dm-l] [Technical]: Suggestions for a replacement for Subversion?_redacted_(a)durham.ac.uk> (Tue 30 =20
-Dec 2014 09:52:11 PM CET):> Learning how
+Subject: Re: [dm-l] [Technical]: Suggestions for a replacement for Subversion?
+
+_redacted_(a)durham.ac.uk> (Tue 30  
+Dec 2014 09:52:11 PM CET):
+
+> Learning how
 > to use git should be considered a requirement of someone who intends to
 > work in digital humanities, just as learning LaTeX is one for anyone
-> working in math or logic.Why just git? I'm quite happy with mercurial (and BitBucket.org, cf. =20
-e.g. https://bitbucket.org/jsbien/ndt/wiki/wyniki). This was not my =20
-own decision, but practically all my collaborators preferred mercurial =20
-over other version control systems, so I joined them. There is at =20
-least one multiplatform GUI (TortoiseHg).Best regards and Happy New YearJanusz--=20
-Prof. dr hab. Janusz S. Bie=C5=84 -  Uniwersytet Warszawski (Katedra =20
+> working in math or logic.
+
+Why just git? I'm quite happy with mercurial (and BitBucket.org, cf.  
+e.g. https://bitbucket.org/jsbien/ndt/wiki/wyniki). This was not my  
+own decision, but practically all my collaborators preferred mercurial  
+over other version control systems, so I joined them. There is at  
+least one multiplatform GUI (TortoiseHg).
+
+Best regards and Happy New Year
+
+Janusz
+
+-- 
+Prof. dr hab. Janusz S. Bień -  Uniwersytet Warszawski (Katedra  
 Lingwistyki Formalnej)
-Prof. Janusz S. Bie=C5=84 - University of Warsaw (Formal Linguistics Departme=
-nt)
-_redacted_(a)mimuw.edu.pl, http://fleksem.klf.uw.edu.pl/~jsbi=
-en/
---===============3012605273253831957==--
+Prof. Janusz S. Bień - University of Warsaw (Formal Linguistics Department)
+_redacted_(a)mimuw.edu.pl, http://fleksem.klf.uw.edu.pl/~jsbien/
+
+--3012605273253831957-
+

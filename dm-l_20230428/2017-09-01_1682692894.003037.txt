@@ -1,72 +1,112 @@
-Subject: [dm-l] Coding dates, a questionGentili colleghi / Dear colleguesAvrei un quesito che riguarda la codifica del Codice Pelavicino Edizione Digi=
-tale che sto curando http://pelavicino.labcd.unipi.it/ <http://pelavicino.lab=
-cd.unipi.it/> e che credo possa suscitare il vostro interesse. Per chi non lo=
- sapesse il Codice Pelavicino =C3=A8 il liber iurium del vescovo di Luni, com=
-posto nel tardo XIII, contiene copia di documenti dal X (pochi) in poi fino o=
-vviamente alla fine del XIII.I would have a question about the coding of the Pelavicino Code  Digital Edit=
-ion that I am doing <http://pelavicino.labcd.unipi.it/ <http://pelavicino.lab=
-cd.unipi.it/>> that I believe may be of interest to you.
-The Pelavicino Code is the liber iurium of the bishop of Luni, composed in th=
-e late XIII century, it contains copies of documents from the Xth  onwards un=
-til at the end of the XIII.=20Nel fare l=E2=80=99edizione on line abbiamo, ovviamente, codificato la data d=
-i ogni documento.=20<docDate xml:id=3D=E2=80=9DNumerazioneOriginale_docDate=E2=80=9D>
-<date when=3D=E2=80=9Danno-mese-giorno=E2=80=9D> =E2=80=A6 </date>
-<placeName> =E2=80=A6 </placeName>
-</docDate>=20In doing the online edition we have encoded the date of each single document,=
- in this way=20<DocDate xml: id =3D "NumberOriginal_docDate">
-<Date when =3D "year-month-day"> ... </ date>
+Subject: [dm-l] Coding dates, a question
+
+Gentili colleghi / Dear collegues
+
+Avrei un quesito che riguarda la codifica del Codice Pelavicino Edizione Digitale che sto curando http://pelavicino.labcd.unipi.it/ <http://pelavicino.labcd.unipi.it/> e che credo possa suscitare il vostro interesse. Per chi non lo sapesse il Codice Pelavicino è il liber iurium del vescovo di Luni, composto nel tardo XIII, contiene copia di documenti dal X (pochi) in poi fino ovviamente alla fine del XIII.
+
+
+
+I would have a question about the coding of the Pelavicino Code  Digital Edition that I am doing <http://pelavicino.labcd.unipi.it/ <http://pelavicino.labcd.unipi.it/>> that I believe may be of interest to you.
+The Pelavicino Code is the liber iurium of the bishop of Luni, composed in the late XIII century, it contains copies of documents from the Xth  onwards until at the end of the XIII.
+
+ 
+
+Nel fare l’edizione on line abbiamo, ovviamente, codificato la data di ogni documento. 
+
+<docDate xml:id=”NumerazioneOriginale_docDate”>
+<date when=”anno-mese-giorno”> … </date>
+<placeName> … </placeName>
+</docDate>
+
+ 
+
+In doing the online edition we have encoded the date of each single document, in this way 
+
+<DocDate xml: id = "NumberOriginal_docDate">
+<Date when = "year-month-day"> ... </ date>
 <PlaceName> ... </ placeName>
-</ DocDate>Ci stiamo ora concetrando sui modi di creare l=E2=80=99indice cronologico din=
-amico e il sistema, per la data di redazione dei singoli documenti, non crea =
-particolari problemi. Stiamo infatti pensando fare una lista eventi <listEven=
-t>  e di utilizzare il tag <event> con all=E2=80=99interno l=E2=80=99attribut=
-o <desc> in cui riporteremo una sorta di regesto ridotto. Il risultato dovreb=
-be essere una lista ordinata cronologicamente con accanto un breve riassunto =
-del contenuto dell=E2=80=99atto.=20Il problema su cui vi disturbo sono le date interne, ossia quando troviamo de=
-ntro il documento riferimenti ad atti passati con tanto di data espressaCasi tipici:
-autentica datata in maniera esplicitaautentica datata con elementi indirettiriferimento ad atto notarile precedenteriferimento a missiva precedente=20We are now focusing on how to create a dynamic chronological index. Tha main =
-content does not create any particular problems for the date of each document
-We are actually thinking to do an event list <listEvent> and use the <event> =
-tag with the <desc> attribute where we will put a sort of summary (short rege=
-sto).
-The outcome should be a chronologically list next to a brief summary of the a=
-ct.The problem we are concerned now is aboiut the internal dates, that is when w=
-e find in the document references to past actsTypical cases:
+</ DocDate>
+
+
+
+Ci stiamo ora concetrando sui modi di creare l’indice cronologico dinamico e il sistema, per la data di redazione dei singoli documenti, non crea particolari problemi. Stiamo infatti pensando fare una lista eventi <listEvent>  e di utilizzare il tag <event> con all’interno l’attributo <desc> in cui riporteremo una sorta di regesto ridotto. Il risultato dovrebbe essere una lista ordinata cronologicamente con accanto un breve riassunto del contenuto dell’atto. 
+
+Il problema su cui vi disturbo sono le date interne, ossia quando troviamo dentro il documento riferimenti ad atti passati con tanto di data espressa
+
+Casi tipici:
+
+autentica datata in maniera esplicita
+
+autentica datata con elementi indiretti
+
+riferimento ad atto notarile precedente
+
+riferimento a missiva precedente
+
+ 
+
+We are now focusing on how to create a dynamic chronological index. Tha main content does not create any particular problems for the date of each document
+We are actually thinking to do an event list <listEvent> and use the <event> tag with the <desc> attribute where we will put a sort of summary (short regesto).
+The outcome should be a chronologically list next to a brief summary of the act.
+
+The problem we are concerned now is aboiut the internal dates, that is when we find in the document references to past acts
+
+Typical cases:
 Authentication, with the date explicited
 Authentication, with the date reconstructed
 Reference to a previous notarial act
-Reference to previous missive (letter)In questo caso pensiamo che la soluzione possa essere quella di un thesaurus =
-/ ontologia di atti. Quelli che per ora abbiamo evidenziato sono- conferma- giuramento- convenzione- autentica
-Mi chiedevo se a vostro avviso creare un=E2=80=99ontologia in italiano/ingles=
-e che risulti pi=C3=B9 leggibile all=E2=80=99utente (tipo la lista qui sopra)=
- oppure utilizzare l=E2=80=99ontologia delle tipologie documentarie che si us=
-ava un tempo nell=E2=80=99edizione di carte (breve, cartula offersionis, cart=
-ula donationis, ecc.) sapendo tuttavia che in molti casi l=E2=80=99estrapolaz=
-ione di questo dato risulter=C3=A0 una forzatura rispetto a quello che =C3=A8=
- effettivamente scritto nel testo.In this case we think that the solution can be creating  a thesaurus / ontolo=
-gy of acts. What we have highlighted for now are
+Reference to previous missive (letter)
+
+In questo caso pensiamo che la soluzione possa essere quella di un thesaurus / ontologia di atti. Quelli che per ora abbiamo evidenziato sono
+
+- conferma
+
+- giuramento
+
+- convenzione
+
+- autentica
+
+Mi chiedevo se a vostro avviso creare un’ontologia in italiano/inglese che risulti più leggibile all’utente (tipo la lista qui sopra) oppure utilizzare l’ontologia delle tipologie documentarie che si usava un tempo nell’edizione di carte (breve, cartula offersionis, cartula donationis, ecc.) sapendo tuttavia che in molti casi l’estrapolazione di questo dato risulterà una forzatura rispetto a quello che è effettivamente scritto nel testo.
+
+In this case we think that the solution can be creating  a thesaurus / ontology of acts. What we have highlighted for now are
 - confirmation
 - oath
 - convention
-- authenticationWe wonder if in your opinion we have to create an ontology in Italian / Engli=
-sh more readable to the user (such as the list above) or use the ontology of =
-the documents used in past times in latin (breve, cartula offersionis, cartul=
-a donationis, etc.), however, knowing that in many cases the extrapolation of=
- this issue its done by forcing the content.
-Ogni suggestione di lettura o suggerimento operativo sar=C3=A0 gradito.Any suggestion will be appreciated.=20=20Enrica Salvatori
-Dipartimento di Civilt=C3=A0 e Forme del Sapere
+- authentication
+
+We wonder if in your opinion we have to create an ontology in Italian / English more readable to the user (such as the list above) or use the ontology of the documents used in past times in latin (breve, cartula offersionis, cartula donationis, etc.), however, knowing that in many cases the extrapolation of this issue its done by forcing the content.
+
+Ogni suggestione di lettura o suggerimento operativo sarà gradito.
+
+Any suggestion will be appreciated.
+
+ 
+
+ 
+
+Enrica Salvatori
+Dipartimento di Civiltà e Forme del Sapere
 Via P. Paoli 15, Pisa
 Professore Associato di Storia Medievale
 Responsabile scientifico del Polo 4 del SID
 Direttore del Laboratorio di Cultura Digitale
 +39 050 2215464
 +39 340 4013978
-http://www.labcd.unipi.it <http://www.labcd.unipi.it/>
---===============7463270029960120011==
-Content-Type: text/html
+http://www.labcd.unipi.it <http://www.labcd.unipi.it/>
+
+
+
+
+
+
+
+--7463270029960120011Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWw+PGhlYWQ+PG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0
+Content-Disposition: attachment; filename�ttachment.html"
+MIME-Version: 1.0
+
+PGh0bWw+PGhlYWQ+PG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0
 L2h0bWwgY2hhcnNldD11dGYtOCI+PC9oZWFkPjxib2R5IHN0eWxlPSJ3b3JkLXdyYXA6IGJyZWFr
 LXdvcmQ7IC13ZWJraXQtbmJzcC1tb2RlOiBzcGFjZTsgLXdlYmtpdC1saW5lLWJyZWFrOiBhZnRl
 ci13aGl0ZS1zcGFjZTsiIGNsYXNzPSIiPjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSIg
@@ -551,4 +591,4 @@ bDsgd29yZC1zcGFjaW5nOiAwcHg7IC13ZWJraXQtdGV4dC1zdHJva2Utd2lkdGg6IDBweDsiIGNs
 YXNzPSIiPjxiciBjbGFzcz0iIj48L2Rpdj48L2Rpdj48YnIgY2xhc3M9IkFwcGxlLWludGVyY2hh
 bmdlLW5ld2xpbmUiPjwvZGl2PjxiciBjbGFzcz0iQXBwbGUtaW50ZXJjaGFuZ2UtbmV3bGluZSI+
 PGJyIGNsYXNzPSJBcHBsZS1pbnRlcmNoYW5nZS1uZXdsaW5lIj4KPC9kaXY+CjxiciBjbGFzcz0i
-Ij48L2Rpdj48L2JvZHk+PC9odG1sPg==
+Ij48L2Rpdj48L2JvZHk+PC9odG1sPg

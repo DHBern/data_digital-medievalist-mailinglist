@@ -1,4 +1,6 @@
-Subject:This is an extremely cool project, and I look forward to exploring the 
+Subject:
+
+This is an extremely cool project, and I look forward to exploring the 
 teiPublisher site more thoroughly. Now as to Al Magary's specific 
 question, since I'm in the odd position of actually liking XSLT (as 
 opposed to merely tolerating it), why yes, if you marked up your Latin 
@@ -6,7 +8,13 @@ quotations with <lq> tags, just a few lines of XSLT would pull those out
 and display them in (say) a web page. Just a slightly more complex 
 script would display the Latin quotations in Ch. 5, or allow for more 
 flexible types of searches. This kind of script works extemely well as a 
-back end for a web site.PeterMartin Holmes wrote:> Hi there,
+back end for a web site.
+
+Peter
+
+Martin Holmes wrote:
+
+> Hi there,
 >
 > At 12:48 PM 24/06/2004, you wrote:
 >
@@ -48,4 +56,7 @@ _redacted_(a)halfbakedsoftware.com
 > dm-l mailing list
 _redacted_(a)uleth.ca
 > http://listserv.uleth.ca/mailman/listinfo/dm-l
->
+>
+
+
+

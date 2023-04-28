@@ -1,25 +1,20 @@
-Subject: [dm-l] Find Glyph Installation From the horse's mouth:>Hi Daniel
+Subject: [dm-l] Find Glyph Installation
+
+ From the horse's mouth:
+
+>Hi Daniel
 >
->I don't know why this problem cropped up; naturally the FindGlyph program do=
-es not itself muck about with people's operating systems: it's really just a =
-little script bundled up with some MS Visual Basic runtime libraries, and the=
- installation program is all Microsoft's. I ran the installer myself just now=
- (on Win2k) and I noticed that it suggested I shut down other applications in=
- case it had to "install system files" or "update shared files". This is an e=
-ntirely generic message built into Visual Basic's installer program. Your col=
-league's report is a bit thin on actual details, so I don't know, but this ma=
-y be what they're referring to? If so, it is actually quite normal for VB pro=
-grams to depend on several runtime DLL libraries which are often, but not alw=
-ays, already installed on users' computers. Typically the installer program w=
-ill pop up a dialog box when there is an existing version file, and offer the=
- user the option to keep their existing file, or replace it with the newer ve=
-rsion.
+>I don't know why this problem cropped up; naturally the FindGlyph program does not itself muck about with people's operating systems: it's really just a little script bundled up with some MS Visual Basic runtime libraries, and the installation program is all Microsoft's. I ran the installer myself just now (on Win2k) and I noticed that it suggested I shut down other applications in case it had to "install system files" or "update shared files". This is an entirely generic message built into Visual Basic's installer program. Your colleague's report is a bit thin on actual details, so I don't know, but this may be what they're referring to? If so, it is actually quite normal for VB programs to depend on several runtime DLL libraries which are often, but not always, already installed on users' computers. Typically the installer program will pop up a dialog box when there is an existing version file, and offer the user the option to keep their existing file, or replace it with the newer version.
 >
 >HTH
 >
 >Con
->I did get the same warning about shutting down other applications when I=20
-installed, but like Con, didn't see anything unusual.--=20
+>
+
+I did get the same warning about shutting down other applications when I 
+installed, but like Con, didn't see anything unusual.
+
+-- 
 Daniel Paul O'Donnell, PhD
 Associate Professor of English
 University of Lethbridge
@@ -27,4 +22,9 @@ Lethbridge AB T1K 3M4
 Tel. (403) 329-2377
 Fax. (403) 382-7191
 _redacted_(a)uleth.ca>
-Home Page <http://people.uleth.ca/~daniel.odonnell/>
+Home Page <http://people.uleth.ca/~daniel.odonnell/>
+
+
+
+
+

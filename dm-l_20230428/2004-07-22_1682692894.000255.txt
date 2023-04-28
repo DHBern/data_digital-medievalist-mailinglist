@@ -1,18 +1,31 @@
-Subject: Re: [dm-l] OTA CorpusRe XSL for SGML > XML. One of the XSL bibles said this was easy enough to
-do, though I've not tried it and don't know if you need to tweak anything.Re OTA P1. It has been a number of years since I dealt with it, but I
+Subject: Re: [dm-l] OTA Corpus
+
+Re XSL for SGML > XML. One of the XSL bibles said this was easy enough to
+do, though I've not tried it and don't know if you need to tweak anything.
+
+Re OTA P1. It has been a number of years since I dealt with it, but I
 believe the use of the P1 standard does mean it doesn't work right of the
 box any more. Some of the elements have different names, and I think
 (though don't remember exactly) that some tags may end in </>. Most
 importantly, the P1 dtd didn't come with the version I had. I converted it
 early on in my acquaintance with SGML, and remember I spent some time
 trying to figure out what dtd to use. I don't have access to the files
-right now, but the DOCTYPE may have been ambiguous or something as well.In converting it, I remember extracting all the elements, converting them
+right now, but the DOCTYPE may have been ambiguous or something as well.
+
+In converting it, I remember extracting all the elements, converting them
 to P3 (as it then was) fixing the doctype and then using it. I suspect it
 won't work out of the box with anything that needs access to the DOCTYPE
-(I was using Multidoc at the time).-dan-- 
+(I was using Multidoc at the time).
+
+-dan
+
+-- 
 Daniel Paul O'Donnell
 Associate Professor of English
 University of Lethbridge
 Lethbridge AB T1K 3M4
 Tel. +1 (403) 329-2377
-Fax. +1 (403) 382-7191
+Fax. +1 (403) 382-7191
+
+
+

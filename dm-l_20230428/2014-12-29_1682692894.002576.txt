@@ -1,20 +1,39 @@
-Subject: [dm-l] [Technical]: Suggestions for a replacement for Subversion?Hi all,I have a technical question that isn't really medieval. I run several 
+Subject: [dm-l] [Technical]: Suggestions for a replacement for Subversion?
+
+Hi all,
+
+I have a technical question that isn't really medieval. I run several 
 journals out of the Lethbridge Journal Incubator (you can learn more 
 about the model here: http://journalincubator.org/). Until now, we've 
 used Subversion as our central cloud storage. This year, however, I had 
 a complete turnover in the graduate assistants, most of whom were not 
 very technically inclined and I'm finding Subversion is more hassle than 
 it is worth (it mostly works well, but if something goes wrong, the 
-students can't fix it).What we need is a cloud based repository system, preferably one that 
+students can't fix it).
+
+What we need is a cloud based repository system, preferably one that 
 allows us access to arbitrary revisions (students find it comforting to 
 know they can always correct mistaken overwrites), and preferably does 
 version control of some kind--either locking or svn-type comparison. 
 Best, however, would be something very low maintenance, drag and drop, 
 and preferably doesn't require the use of a special client for file 
-manipulation (that's where our subversion issues come).I'm thinking Dropbox or Drive, though I don't know anything about 
-setting those up for an organisation. Does anybody have any other tips?-dan-- 
- From my Ubuntu notebookDaniel Paul O'Donnell
+manipulation (that's where our subversion issues come).
+
+I'm thinking Dropbox or Drive, though I don't know anything about 
+setting those up for an organisation. Does anybody have any other tips?
+
+-dan
+
+-- 
+ From my Ubuntu notebook
+
+Daniel Paul O'Donnell
 Professor of English
 University of Lethbridge
 Lethbridge AB T1K 3M4
-Canada+1 403 393-2539
+Canada
+
++1 403 393-2539
+
+
+

@@ -1,34 +1,53 @@
-Subject: RE: [dm-l] Getting Latin Spell Check for Word 2011 ON A MACHi JeffreyThis is an MS Windows program and therefore it will not run under MacOS which=
- is a different operating system and different architecture. Depending on you=
-r Mac (intel based plus enough memory) you may be able to install a version o=
-f Windows on it. For more details refer to Apple's help notes on this at: htt=
-p://support.apple.com/kb/HT3986Once you have a running version of Windows you will be able to install the MS=
-I. The important thing to realise is that you will either be running MacOS OR=
- you will be running Windows.Hope this helps.RegardsTony Harris
-Kellogg College, Oxford
-_redacted_(a)uleth.ca] On Behalf Of J=
-effrey C. Witt
+Subject: RE: [dm-l] Getting Latin Spell Check for Word 2011 ON A MAC
+
+Hi Jeffrey
+
+This is an MS Windows program and therefore it will not run under MacOS which is a different operating system and different architecture. Depending on your Mac (intel based plus enough memory) you may be able to install a version of Windows on it. For more details refer to Apple's help notes on this at: http://support.apple.com/kb/HT3986
+
+Once you have a running version of Windows you will be able to install the MSI. The important thing to realise is that you will either be running MacOS OR you will be running Windows.
+
+Hope this helps.
+
+Regards
+
+Tony Harris
+Kellogg College, Oxford
+
+_redacted_(a)uleth.ca] On Behalf Of Jeffrey C. Witt
 Sent: 18 July 2012 15:26
 _redacted_(a)uleth.ca
-Subject: [dm-l] Getting Latin Spell Check for Word 2011 ON A MACDear Fellow Medievalist,Can anyone help me get a Latin Spell Checker installed for Microsoft Word 201=
-1 on a Mac.I'm switching from a PC to a Mac. On my PC I had COL - Correcteur Orthographi=
-que de Latin installed and working fairly wellI've tried to recreate this on my Mac.I've downloaded the newest release of COL - Correcteur Orthographique de Lati=
-n - Correttore Ortografico di Latino - Corrector Ortogr=C3=A1fico de Lat=C3=
-=ADn from http://www.drouizig.org/index.php?option=3Dcom_content&view=3Dartic=
-le&id=3D75%3Acol&catid=3D38%3Adifazier&Itemid=3D68&lang=3DenHowever, the download is an .msi file, which is a windows file ext. So is it =
-possible for me to get this working on mac? Has one else done this? Is there =
-a better solution?Thanks for your help.--
+Subject: [dm-l] Getting Latin Spell Check for Word 2011 ON A MAC
+
+Dear Fellow Medievalist,
+
+Can anyone help me get a Latin Spell Checker installed for Microsoft Word 2011 on a Mac.
+
+I'm switching from a PC to a Mac. On my PC I had COL - Correcteur Orthographique de Latin installed and working fairly well
+
+I've tried to recreate this on my Mac.
+
+I've downloaded the newest release of COL - Correcteur Orthographique de Latin - Correttore Ortografico di Latino - Corrector Ortográfico de Latín from http://www.drouizig.org/index.php?option=com_content&view=article&id=75%3Acol&catid=38%3Adifazier&Itemid=68&lang=en
+
+However, the download is an .msi file, which is a windows file ext. So is it possible for me to get this working on mac? Has one else done this? Is there a better solution?
+
+Thanks for your help.
+
+--
 Dr. Jeffrey C. Witt
 Philosophy Department
 Loyola University Maryland
 4501 N. Charles St.
 Baltimore, MD 21210
-www.jeffreycwitt.com<http://www.jeffreycwitt.com>
---===============5364662855896624165==
-Content-Type: text/html
+www.jeffreycwitt.com<http://www.jeffreycwitt.com>
+
+
+
+--5364662855896624165Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWwgeG1sbnM6dj0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTp2bWwiIHhtbG5zOm89InVy
+Content-Disposition: attachment; filename�ttachment.html"
+MIME-Version: 1.0
+
+PGh0bWwgeG1sbnM6dj0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTp2bWwiIHhtbG5zOm89InVy
 bjpzY2hlbWFzLW1pY3Jvc29mdC1jb206b2ZmaWNlOm9mZmljZSIgeG1sbnM6dz0idXJuOnNjaGVt
 YXMtbWljcm9zb2Z0LWNvbTpvZmZpY2U6d29yZCIgeG1sbnM6bT0iaHR0cDovL3NjaGVtYXMubWlj
 cm9zb2Z0LmNvbS9vZmZpY2UvMjAwNC8xMi9vbW1sIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcv
@@ -182,4 +201,5 @@ TXNvTm9ybWFsIj5CYWx0aW1vcmUsIE1EIDIxMjEwPG86cD48L286cD48L3A+CjxkaXY+CjxwIGNs
 YXNzPSJNc29Ob3JtYWwiPjxhIGhyZWY9Imh0dHA6Ly93d3cuamVmZnJleWN3aXR0LmNvbSIgdGFy
 Z2V0PSJfYmxhbmsiPnd3dy5qZWZmcmV5Y3dpdHQuY29tPC9hPjxvOnA+PC9vOnA+PC9wPgo8L2Rp
 dj4KPHAgY2xhc3M9Ik1zb05vcm1hbCI+PG86cD4mbmJzcDs8L286cD48L3A+CjwvZGl2Pgo8L2Jv
-ZHk+CjwvaHRtbD4K
+ZHk+CjwvaHRtbD4K
+

@@ -1,26 +1,42 @@
-Subject: Re: [dm-l] Cursus Liturgical DatabaseBettina,At Mon, 18 Jul 2011 17:19:44 +0200,
+Subject: Re: [dm-l] Cursus Liturgical Database
+
+Bettina,
+
+At Mon, 18 Jul 2011 17:19:44 +0200,
 Bettina Wagner wrote:
 > 
 > Could anybody please explain what the relation between the CURSUS
 > database and the CANTUS-Database for Latin Ecclesiastical Chant
 > (http://publish.uwo.ca/~cantus/) is? If there is one, but they seem
 > to cover the same sort of material. But I have to admit that I have
-> never used CURSUS.As far as I am aware, there is no relation between them. I'm not sure
+> never used CURSUS.
+
+As far as I am aware, there is no relation between them. I'm not sure
 of the etymology of CURSUS. James might know? But the similar sounding
-names are a red herring.CURSUS is a corpus of transcriptions of liturgical books. It provides
+names are a red herring.
+
+CURSUS is a corpus of transcriptions of liturgical books. It provides
 quite a fine level of granularity as well as detailed semantic
 tagging. From what I understand, CANTUS is a database of chant
 incipits which, again, provides rich semantics. Probably the key
 difference is that of transcription vs. database. For example, CANTUS'
 incipits consist of up to 29 characters of what appeared in the
 witness, whereas CURSUS transcribes the whole manuscript and
-automatically generates incipit views.Another way of conceptualising the relationship is that, in theory,
+automatically generates incipit views.
+
+Another way of conceptualising the relationship is that, in theory,
 CANTUS could be derived from CURSUS, but CANTUS could not be used to
-re-construct CURSUS.Hope that helps.Best,
-RichardPS. I'm now getting an idea of what hosting provisions will be
+re-construct CURSUS.
+
+Hope that helps.
+
+Best,
+Richard
+
+PS. I'm now getting an idea of what hosting provisions will be
 available at UEA in the future.
 -- 
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+---------
 Richard Lewis
 ISMS, Computing
 Goldsmiths, University of London
@@ -28,5 +44,7 @@ Tel: +44 (0)20 7078 5134
 Skype: richardjlewis
 _redacted_(a)jabber.earth.li
 http://www.richardlewis.me.uk/
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
---===============1277915015650068507==--
+---------
+
+--1277915015650068507-
+

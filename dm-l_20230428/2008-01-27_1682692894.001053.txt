@@ -1,9 +1,19 @@
-Subject: [dm-l] [fwd] MASTER - The Review_redacted_(a)oucs.ox.ac.uk):[It occurs to us that there may be some members of these mailing lists
+Subject: [dm-l] [fwd] MASTER - The Review
+
+_redacted_(a)oucs.ox.ac.uk):
+
+[It occurs to us that there may be some members of these mailing lists
 who would also be interested in the following mailing, which we
 therefore forward with the usual apologies for any duplicated
-postings]Dear colleague,This email is being sent to you because we think you are or were
+postings]
+
+Dear colleague,
+
+This email is being sent to you because we think you are or were
 interested in using the MASTER dtd for marking up manuscript
-descriptions.It's over ten years since Peter Robinson first organized a meeting at
+descriptions.
+
+It's over ten years since Peter Robinson first organized a meeting at
 Studley Priory to discuss the possibility of developing an
 international standard for manuscript description. The work done by
 the MASTER project which followed that meeting established a
@@ -11,23 +21,35 @@ preliminary and highly influential candidate for such a standard. In
 the last  decade, the MASTER DTD or versions of it have been adopted
 by dozens of different manuscript cataloguing projects worldwide and
 the most recent version of the Text Encoding Initiatives P5 Guidelines
-is based  upon it.The Manuscriptorium Project at the National Library of the Czech
+is based  upon it.
+
+The Manuscriptorium Project at the National Library of the Czech
 Republic (http://www.manuscriptorium.com/) is one of the largest
 European cataloguing projects based on the MASTER DTD.  We are now
 working on defining a new TEI P5 conformant schema for this system and
 also in developing conversion tools for existing records collections
 to be migrated to the new schema. This work is being done as part of
 the ENRICH (European Networking Resources and Information concerning
-Cultural Heritage) project, funded by the EU eContentPlus programme.Part of the workplan involves a review of other MASTER-based systems,
+Cultural Heritage) project, funded by the EU eContentPlus programme.
+
+Part of the workplan involves a review of other MASTER-based systems,
 in an attempt to learn from their experiences, good or bad, in
 different contexts. We have set up a short online questionnaire for
 this purpose at http://tinyurl.com/yutq2r -- if you have ever used
 MASTER in some   form, or simply considered using it, we very much
 hope you will be able to spare a little time to complete the
-questionnaire. It should  not take you more than 10 minutes.We will be holding a special one day workshop to discuss the outcome
+questionnaire. It should  not take you more than 10 minutes.
+
+We will be holding a special one day workshop to discuss the outcome
 of this survey at the University of Copenhagen at the end of February:
 if you would like to attend this meeting, please let us know. Please
 also feel free to pass this enquiry on to others you know of who might
-be interested.With best wishes, and thanks in advance for your inputLou Burnard (Oxford University)
-Matthew Driscoll (Copenhagen University)
---===============1712938187183147126==--
+be interested.
+
+With best wishes, and thanks in advance for your input
+
+Lou Burnard (Oxford University)
+Matthew Driscoll (Copenhagen University)
+
+--1712938187183147126-
+

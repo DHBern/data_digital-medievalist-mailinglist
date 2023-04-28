@@ -1,5 +1,13 @@
-Subject: Re: [dm-l] PDF markup?there are server utilities that convert html to pdf on the fly. i don't 
-think you can do that with a stylesheet.jOn Monday, June 28, 2004, at 11:05 PM, Daniel O'Donnell wrote:> Hello all,
+Subject: Re: [dm-l] PDF markup?
+
+there are server utilities that convert html to pdf on the fly. i don't 
+think you can do that with a stylesheet.
+
+j
+
+On Monday, June 28, 2004, at 11:05 PM, Daniel O'Donnell wrote:
+
+> Hello all,
 >    A number of stylesheets seem to convert to PDF format. Where do you 
 > find out what PDF markup (if that's what it is) looks like?
 > -dan
@@ -21,4 +29,7 @@ _redacted_(a)uleth.ca>
 > dm-l mailing list
 _redacted_(a)uleth.ca
 > http://listserv.uleth.ca/mailman/listinfo/dm-l
->
+>
+
+
+

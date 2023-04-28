@@ -1,5 +1,9 @@
-Subject: [dm-l]  RIDE 16 =?utf-8?b?4oCT?= Reviews of Digital Scholarly
-[apologies for cross-posting]Dear colleagues,we are very happy to announce the first joint publication of RIDE
+Subject: [dm-l]  RIDE 16 tf-8?b?4oCT?
+[apologies for cross-posting]
+
+Dear colleagues,
+
+we are very happy to announce the first joint publication of RIDE
 (Review Journal for Digital Editions) and the NFDI consortium Text+
 (https://www.text-plus.org/). The NFDI is the German National Research
 Data Infrastructure (https://www.nfdi.de/) intiative which was
@@ -7,49 +11,65 @@ launched in 2020 and is working to shape the future of research data
 management in Germany across all disciplines through dedicated
 consortia. Since 2021, the NFDI Text+ consortium is dedicated to the
 domain of text- and language-based data, particularly collections,
-lexical resources, and scholarly editions.In volume 16 (https://ride.i-d-e.de/issues/issue-16/) of RIDE, five
+lexical resources, and scholarly editions.
+
+In volume 16 (https://ride.i-d-e.de/issues/issue-16/) of RIDE, five
 editions were reviewed with a specific focus on the FAIR Data
 Principles (Findable, Accessible, Interoperable, Reusable). What does
 FAIRness mean in the context of digital scholarly editions? Can the
 FAIR principles be applied to digital edition projects at all? How do
 we measure their FAIRness? This volume aims to foster a conversation
-about these questions.While the majority of the editions under review may not be editions of
-medieval materials (although the K=C3=B6nigsfelden edition is), we believe
+about these questions.
+
+While the majority of the editions under review may not be editions of
+medieval materials (although the Königsfelden edition is), we believe
 that the topic may still be of interest to the editorial community at
-large.The following contributions are included in volume 16:* Gengnagel, Tessa; Neuber, Frederike; Schulz, Daniela. =E2=80=9EEDITORIAL:
+large.
+
+The following contributions are included in volume 16:
+
+* Gengnagel, Tessa; Neuber, Frederike; Schulz, Daniela. „EDITORIAL:
 FAIR Enough? Evaluating Digital Scholarly Editions and the Application
 of the FAIR Data Principles." RIDE 16 (2023). doi:
 https://doi.org/10.18716/ride.a.16.0.
-* Untner, Laura. =E2=80=9EReview of =E2=80=9AWalter Benjamin Digital'." RIDE =
-16
+* Untner, Laura. „Review of ‚Walter Benjamin Digital'." RIDE 16
 (2023). doi: https://doi.org/10.18716/ride.
 a.16.1.
-* Galka, Selina. =E2=80=9EReview of =E2=80=9ADigitale Edition und Kommentieru=
-ng der
-Tageb=C3=BCcher des F=C3=BCrsten Christian II. von Anhalt-Bernburg
+* Galka, Selina. „Review of ‚Digitale Edition und Kommentierung der
+Tagebücher des Fürsten Christian II. von Anhalt-Bernburg
 (1599-1656)'." RIDE 16 (2023). doi:
 https://doi.org/10.18716/ride.a.16.2.
-* G=C3=B6rmar, Maximilian. =E2=80=9EReview of =E2=80=9ABriefportal Leibniz'."=
- RIDE 16
+* Görmar, Maximilian. „Review of ‚Briefportal Leibniz'." RIDE 16
 (2023). doi: https://doi.org/10.18716/ride.a.16.3.
-* Fr=C3=BChwirt, Timo; Meyer, Sandra; Stoxreiter, Daniel. =E2=80=9EReview of
-=E2=80=9ATheodor Fontane's Notebooks: A 'Digital Genetic-Critical and
+* Frühwirt, Timo; Meyer, Sandra; Stoxreiter, Daniel. „Review of
+‚Theodor Fontane's Notebooks: A 'Digital Genetic-Critical and
 Commented Edition''." RIDE 16 (2023). doi:
 https://doi.org/10.18716/ride.a.16.4.
-* Pollin, Christopher. =E2=80=9EA Review of the K=C3=B6nigsfelden Online Edit=
-ion."
-RIDE 16 (2023). doi: https://doi.org/10.18716/ride.a.16.5.A second joint volume, again with a focus on the FAIR principles, is
+* Pollin, Christopher. „A Review of the Königsfelden Online Edition."
+RIDE 16 (2023). doi: https://doi.org/10.18716/ride.a.16.5.
+
+A second joint volume, again with a focus on the FAIR principles, is
 already under way and can be expected to be published later this
 spring in a "rolling release". Suggestions for reviews or interest in
 becoming a reviewer can still be expressed to the editors via
 ride-textplus[at]i-d-e.de (see also the Call for Reviews:
-https://ride.i-d-e.de/reviewers/call-for-reviews/ride-textplus-en/).Enjoy the (FAIR) RIDE!On behalf of the editorial team,
-Tessa Gengnagel, Frederike Neuber and Daniela Schulz
+https://ride.i-d-e.de/reviewers/call-for-reviews/ride-textplus-en/).
+
+Enjoy the (FAIR) RIDE!
+
+On behalf of the editorial team,
+Tessa Gengnagel, Frederike Neuber and Daniela Schulz
+
 --
 Tessa Gengnagel
 Wissenschaftliche Mitarbeiterin | Research Associate
-Universit=C3=A4t zu K=C3=B6ln | University of CologneCologne Center for eHumanities
-Universit=C3=A4tsstra=C3=9Fe 22
-50923 K=C3=B6ln
+Universität zu Köln | University of Cologne
+
+Cologne Center for eHumanities
+Universitätsstraße 22
+50923 Köln
 Tel.: +49 (0)221/470-4056
-_redacted_(a)uni-koeln.de
+_redacted_(a)uni-koeln.de
+
+
+

@@ -1,49 +1,53 @@
-Subject: [dm-l] FW: TEI Live CDThis may be of interest to a number of different people on this list:1) If you are an experienced XMLer and/or linux user, this disk has the lates=
-t version of TEI XML and a number of excellent open source programmes--Sebast=
-ian is also responsible for following the open source "market" for Open Sourc=
-e Watch and so has his finger on the pulse, so to speak.2)If you have never tried Linux before, this disk is an interesting way to tr=
-y: you load it in your CD drive, reboot your computer, and your computer runs=
- as a Linux computer from the CD-ROM--i.e. without changing anything on your =
-hard drive. It uses Ubuntu which is among the most popular version of Linux a=
-nd is also extremely good and user friendly. And if you end up liking what yo=
-u see, you can use the same disk to install Ubuntu to your computer's hard dr=
-ive--while keeping your Mac or Windows Operating system as well if you wish (=
-i.e. when you start up you are asked what you'd prefer to use). If you've eve=
-r installed or reinstalled Windows on a computer, then you will be pleased to=
- know that installing Ubuntu is nothing like that horror: it has a very frien=
-dly and easy to use graphic user interface that guides the installation. But =
-if you just run it from the CD-ROM, you won't even have to worry about that.
+Subject: [dm-l] FW: TEI Live CD
+
+This may be of interest to a number of different people on this list:
+
+1) If you are an experienced XMLer and/or linux user, this disk has the latest version of TEI XML and a number of excellent open source programmes--Sebastian is also responsible for following the open source "market" for Open Source Watch and so has his finger on the pulse, so to speak.
+
+2)If you have never tried Linux before, this disk is an interesting way to try: you load it in your CD drive, reboot your computer, and your computer runs as a Linux computer from the CD-ROM--i.e. without changing anything on your hard drive. It uses Ubuntu which is among the most popular version of Linux and is also extremely good and user friendly. And if you end up liking what you see, you can use the same disk to install Ubuntu to your computer's hard drive--while keeping your Mac or Windows Operating system as well if you wish (i.e. when you start up you are asked what you'd prefer to use). If you've ever installed or reinstalled Windows on a computer, then you will be pleased to know that installing Ubuntu is nothing like that horror: it has a very friendly and easy to use graphic user interface that guides the installation. But if you just run it from the CD-ROM, you won't even have to worry about that.
+
 -----Original Message-----
-From: TEI (Text Encoding Initiative) public discussion list on behalf of Seba=
-stian Rahtz
+From: TEI (Text Encoding Initiative) public discussion list on behalf of Sebastian Rahtz
 Sent: Sat 26/05/2007 11:39 AM
 _redacted_(a)listserv.brown.edu
 Subject: TEI Live CD
-=20
-http://tei.oucs.ox.ac.uk/teideb/tei-Ubuntu.iso is an image of a TEI=20
+ 
+http://tei.oucs.ox.ac.uk/teideb/tei-Ubuntu.iso is an image of a TEI 
 customization
 of the Ubuntu Live CD (Feisty series) for Intel PC. Grab a copy, make a CD
 from it, reboot your PC from the CD, and you should find yourself
-in a nice Linux system with the latest and greatest TEI-everything=20
+in a nice Linux system with the latest and greatest TEI-everything 
 installed.
-It includes a state of the art eXist XML database system running with=20
+It includes a state of the art eXist XML database system running with 
 various
-TEI documents preloaded.I make these CDs mainly for teaching purposes, but it can also be used
+TEI documents preloaded.
+
+I make these CDs mainly for teaching purposes, but it can also be used
 as an install medium to set up a new computer with a running Ubuntu
-system.As I have said before, if you have some nice software which should/can be
+system.
+
+As I have said before, if you have some nice software which should/can be
 be on here, let me know.  There are three conditions:
  * it can't need _too_ much space
  * it must have an open source licence according to OSI definitions, and
     data files must be completely free (no "nocommercial" clauses)
  * it must be set up as a Debian package or something close (no "its got
-   its own copy of Tomcat and Java with it")--=20
-Sebastian Rahtz     =20Information Manager, Oxford University Computing Services
-13 Banbury Road, Oxford OX2 6NN. Phone +44 1865 283431
---===============4375936475385051164==
-Content-Type: text/html
+   its own copy of Tomcat and Java with it")
+
+-- 
+Sebastian Rahtz      
+
+Information Manager, Oxford University Computing Services
+13 Banbury Road, Oxford OX2 6NN. Phone +44 1865 283431
+
+
+
+--4375936475385051164Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDMuMi8vRU4iPgo8SFRNTD4K
+Content-Disposition: attachment; filenameúttachment.html"
+MIME-Version: 1.0
+
+PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDMuMi8vRU4iPgo8SFRNTD4K
 PEhFQUQ+CjxNRVRBIEhUVFAtRVFVSVY9IkNvbnRlbnQtVHlwZSIgQ09OVEVOVD0idGV4dC9odG1s
 OyBjaGFyc2V0PWlzby04ODU5LTEiPgo8TUVUQSBOQU1FPSJHZW5lcmF0b3IiIENPTlRFTlQ9Ik1T
 IEV4Y2hhbmdlIFNlcnZlciB2ZXJzaW9uIDYuNS43NjUyLjI0Ij4KPFRJVExFPkZXOiBURUkgTGl2
@@ -100,4 +104,4 @@ dmEgd2l0aCBpdCZxdW90Oyk8QlI+CjxCUj4KLS08QlI+ClNlYmFzdGlhbiBSYWh0eiZuYnNwOyZu
 YnNwOyZuYnNwOyZuYnNwOyZuYnNwOzxCUj4KPEJSPgpJbmZvcm1hdGlvbiBNYW5hZ2VyLCBPeGZv
 cmQgVW5pdmVyc2l0eSBDb21wdXRpbmcgU2VydmljZXM8QlI+CjEzIEJhbmJ1cnkgUm9hZCwgT3hm
 b3JkIE9YMiA2Tk4uIFBob25lICs0NCAxODY1IDI4MzQzMTxCUj4KPEJSPgo8L0ZPTlQ+CjwvUD4K
-CjwvQk9EWT4KPC9IVE1MPg==
+CjwvQk9EWT4KPC9IVE1MPg

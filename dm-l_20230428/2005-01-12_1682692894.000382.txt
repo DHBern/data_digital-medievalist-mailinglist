@@ -1,11 +1,16 @@
-Subject: Re: [dm-l] Form-based methods of building xml?Thanks Peter. I've not been going out of my way to find excuses to use=20
-cocoon, but I am trying very much to streamline my workflow across the=20
-board: once I get one successful thing going, I can see it get used=20
-everywhere: bibliography, cv, correspondence, class material, etc.I'll look into this.
--dan_redacted_(a)ualberta.ca wrote:
-> The Digital Medievalist List (see end of message for contact information an=
-d project URLs).
->=20
+Subject: Re: [dm-l] Form-based methods of building xml?
+
+Thanks Peter. I've not been going out of my way to find excuses to use 
+cocoon, but I am trying very much to streamline my workflow across the 
+board: once I get one successful thing going, I can see it get used 
+everywhere: bibliography, cv, correspondence, class material, etc.
+
+I'll look into this.
+-dan
+
+_redacted_(a)ualberta.ca wrote:
+> The Digital Medievalist List (see end of message for contact information and project URLs).
+> 
 > ----------------------------------
 >  I use Cocoon a lot, and for a particular project I've built a system
 > similar to what you describe. I run an instance of Cocoon on my laptop,
@@ -16,14 +21,14 @@ d project URLs).
 > (http://cocoon.apache.org/2.1/userdocs/transformers/sourcewriting-transf
 > ormer.html). This allows me to use the amazing power of Cocoon Forms to
 > manage the mapping from the source xml to the form and back again
-> (http://cocoon.apache.org/2.1/userdocs/forms/sample.html).=20
->=20
+> (http://cocoon.apache.org/2.1/userdocs/forms/sample.html). 
+> 
 > It would probably be overkill to pick up Cocoon from scratch for this
 > purpose, but maybe you've been looking for an opportunity to try Cocoon?
->=20
->=20
+> 
+> 
 > Peter
->=20
+> 
 > Peter Binkley
 > Digital Initiatives Technology Librarian
 > Information Technology Services
@@ -34,46 +39,46 @@ d project URLs).
 > Phone: (780) 492-3743
 > Fax: (780) 492-9243
 _redacted_(a)ualberta.ca
->=20
->=20
->=20
->=20
+> 
+> 
+> 
+> 
 >>-----Original Message-----
-_redacted_(a)uleth.ca] On=20
+_redacted_(a)uleth.ca] On 
 >>Behalf Of Daniel O'Donnell
 >>Sent: Friday, January 07, 2005 02:16 PM
 >>To: Digital Medievalist list
 >>Subject: [dm-l] Form-based methods of building xml?
 >>
->>The Digital Medievalist List (see end of message for contact=20
+>>The Digital Medievalist List (see end of message for contact 
 >>information and project URLs).
 >>
 >>----------------------------------
 >>Hi all,
->>	Does anybody know of a good method for form-based=20
->>xml-file construction? I am looking for something to use on a=20
+>>	Does anybody know of a good method for form-based 
+>>xml-file construction? I am looking for something to use on a 
 >>local (winxp) machine.
->>	Like most people I have a number of files that are=20
->>written either through accretion (e.g. like a CV) or that=20
->>consist largely of boiler plate with minor customisation=20
->>(e.g. class schedules, web-pages, etc.).=20
->>I'm in the process of converting these to xml from various=20
+>>	Like most people I have a number of files that are 
+>>written either through accretion (e.g. like a CV) or that 
+>>consist largely of boiler plate with minor customisation 
+>>(e.g. class schedules, web-pages, etc.). 
+>>I'm in the process of converting these to xml from various 
 >>formats, as I hope to gain some real efficiencies.
->>	My question whether anybody can suggest a good method=20
->>for adding marked up text to such files using a form. The CV=20
->>is probably the best case:=20
->>I'd like to have a form that allows me to read in the=20
->>existing material, enter the new item, and have the expanded=20
+>>	My question whether anybody can suggest a good method 
+>>for adding marked up text to such files using a form. The CV 
+>>is probably the best case: 
+>>I'd like to have a form that allows me to read in the 
+>>existing material, enter the new item, and have the expanded 
 >>document as output.
->>	In the past I've used javascript and HTML forms to=20
->>build standard webpages, and emacs form-mode to build simple=20
->>form-based database entry mechanisms. Since I'm basically=20
->>looking for a very simple way of adding markup to highly=20
->>standard text, I'm trying to avoid using a spreadsheet as an=20
->>intermediate. In fact I'm probably looking for a combination=20
->>of the emacs-style forms (which import or create datafiles=20
->>and allow users to easily update existing data) and a=20
->>java-script type solution that allows me to add markup around=20
+>>	In the past I've used javascript and HTML forms to 
+>>build standard webpages, and emacs form-mode to build simple 
+>>form-based database entry mechanisms. Since I'm basically 
+>>looking for a very simple way of adding markup to highly 
+>>standard text, I'm trying to avoid using a spreadsheet as an 
+>>intermediate. In fact I'm probably looking for a combination 
+>>of the emacs-style forms (which import or create datafiles 
+>>and allow users to easily update existing data) and a 
+>>java-script type solution that allows me to add markup around 
 >>form-field contents.
 >>	Any suggestions?
 >>-dan
@@ -91,20 +96,20 @@ _redacted_(a)uleth.ca>
 >>
 >>_______________________________________________
 >>Digital Medievalist Project
->>Homepage: http://www.digitalmedievalist.org Journal (December=20
+>>Homepage: http://www.digitalmedievalist.org Journal (December 
 >>2004-): http://www.digitalmedievalist.org/journal.cfm
->>RSS (announcements) server:=20
+>>RSS (announcements) server: 
 >>http://www.digitalmedievalist.org/rss/rss2.cfm
 >>Wiki: http://sql.uleth.ca/dmorgwiki/index.php
->>Change membership options:=20
+>>Change membership options: 
 >>http://listserv.uleth.ca/mailman/listinfo/dm-l
 >>Submit RSS announcement: http://www.digitalmedievalist.org/newitem.cfm
-_redacted_(a)uleth.ca dm-l=20
-_redacted_(a)uleth.ca=20
+_redacted_(a)uleth.ca dm-l 
+_redacted_(a)uleth.ca 
 >>http://listserv.uleth.ca/mailman/listinfo/dm-l
 >>
->=20
->=20
+> 
+> 
 > _______________________________________________
 > Digital Medievalist Project
 > Homepage: http://www.digitalmedievalist.org
@@ -116,7 +121,9 @@ _redacted_(a)uleth.ca=20
 _redacted_(a)uleth.ca
 > dm-l mailing list
 _redacted_(a)uleth.ca
-> http://listserv.uleth.ca/mailman/listinfo/dm-l--=20
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+-- 
 Daniel Paul O'Donnell, PhD
 Associate Professor of English
 University of Lethbridge
@@ -125,4 +132,7 @@ Tel. (403) 329-2377
 Fax. (403) 382-7191
 _redacted_(a)uleth.ca>
 Home Page <http://people.uleth.ca/~daniel.odonnell/>
-The Digital Medievalist Project: <http://www.digitalmedievalist.org/>
+The Digital Medievalist Project: <http://www.digitalmedievalist.org/>
+
+
+

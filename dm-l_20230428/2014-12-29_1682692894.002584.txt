@@ -1,20 +1,23 @@
-Subject: Re: [dm-l] [Technical]: Suggestions for a replacement for	Subversion?That's a good point. I use drive all the time too for teams and indeed=20
-was just using version control this evening with my son. Now we're=20
-talking about XML files and original word files (for the most part)=20
-rather than google docs. Can you use drive as just a dump?
+Subject: Re: [dm-l] [Technical]: Suggestions for a replacement for	Subversion?
+
+That's a good point. I use drive all the time too for teams and indeed 
+was just using version control this evening with my son. Now we're 
+talking about XML files and original word files (for the most part) 
+rather than google docs. Can you use drive as just a dump?
+
 On 14-12-29 09:49 PM, Troy A. Griffitts wrote:
 > Dear Daniel,
 >
-> I am not sure if this is the kind of input you'd like, but I use=20
-> Google Drive and Google Docs with teams frequently.  They have proven=20
-> to be invaluable tools.  I am not sure what software you are using to=20
-> edit your documents, but Google Docs records history of every single=20
-> change and you can switch between "Edit" and "Suggest Edit" mode, the=20
-> latter is extremely useful with multiple editor.  I am not sure if=20
-> Drive, just as a file share, will version documents for you.  One=20
-> aspect of Drive that doesn't work well at all is "Offline" mode.  I=20
-> have often 'pinned' a document to my device before embarking on a long=20
-> flight only to find, when I attempt to open the document, an error=20
+> I am not sure if this is the kind of input you'd like, but I use 
+> Google Drive and Google Docs with teams frequently.  They have proven 
+> to be invaluable tools.  I am not sure what software you are using to 
+> edit your documents, but Google Docs records history of every single 
+> change and you can switch between "Edit" and "Suggest Edit" mode, the 
+> latter is extremely useful with multiple editor.  I am not sure if 
+> Drive, just as a file share, will version documents for you.  One 
+> aspect of Drive that doesn't work well at all is "Offline" mode.  I 
+> have often 'pinned' a document to my device before embarking on a long 
+> flight only to find, when I attempt to open the document, an error 
 > stating, "no valid internet connection."  Drives me crazy.
 >
 > Anyway, my 2c.
@@ -23,44 +26,44 @@ On 14-12-29 09:49 PM, Troy A. Griffitts wrote:
 >
 >
 > On 12/29/2014 09:29 PM, Daniel O'Donnell wrote:
->> Maybe I should reask it. Is there a reason for not just using dropbox=20
+>> Maybe I should reask it. Is there a reason for not just using dropbox 
 >> or drive?
 >>
->> I ask this not to disparage the advice for github, but because when I=20
->> switch, I need something that really eliminates this problem (that is=20
->> to say: be easily trainable to skittish people) rather something than=20
->> replaces it with something else. I don't mean eliminating it in my=20
->> research projects; only a project where there is a lot of turnover=20
+>> I ask this not to disparage the advice for github, but because when I 
+>> switch, I need something that really eliminates this problem (that is 
+>> to say: be easily trainable to skittish people) rather something than 
+>> replaces it with something else. I don't mean eliminating it in my 
+>> research projects; only a project where there is a lot of turnover 
 >> and people who need only brief access.
 >>
 >>
 >>
 >>
 >> On 14-12-29 05:39 PM, Abdullah Alger wrote:
->>> Well, Github doesn't cause problems, it's really the user who messes=20
+>>> Well, Github doesn't cause problems, it's really the user who messes 
 >>> it up.
 >>>
->>> However, if you get the idea of doing work on branches, then it is=20
->>> easy to delete a branch, or reset a branch if it's not pushed to the=20
->>> master branch. This might be a little confusing, but it's pretty=20
->>> easy to follow once you've done it a few times. As long as people=20
->>> are working on different branches and not messing with the master=20
->>> branch, then you should be fine. If they mess up their own branches,=20
->>> then there are ways they can move back to previous versions, or pull=20
+>>> However, if you get the idea of doing work on branches, then it is 
+>>> easy to delete a branch, or reset a branch if it's not pushed to the 
+>>> master branch. This might be a little confusing, but it's pretty 
+>>> easy to follow once you've done it a few times. As long as people 
+>>> are working on different branches and not messing with the master 
+>>> branch, then you should be fine. If they mess up their own branches, 
+>>> then there are ways they can move back to previous versions, or pull 
 >>> in the master again to their own project.
 >>>
->>> That's basically how Git works. As long as students cannot push to=20
->>> the master branch, you should be fine. They can always fork the main=20
->>> project and make pull requests to add to the master branch, which=20
->>> could be set up so that each commit (or modified file) to the master=20
->>> has to be approved. That way you always know what's being added to=20
->>> the master. Once a commit has been added to the master, then they=20
->>> are able to pull the new material into their projects so everyone is=20
+>>> That's basically how Git works. As long as students cannot push to 
+>>> the master branch, you should be fine. They can always fork the main 
+>>> project and make pull requests to add to the master branch, which 
+>>> could be set up so that each commit (or modified file) to the master 
+>>> has to be approved. That way you always know what's being added to 
+>>> the master. Once a commit has been added to the master, then they 
+>>> are able to pull the new material into their projects so everyone is 
 >>> up to date.
 >>>
 >>> I hope I didn't make this too confusing.
 >>>
->>> On Tue, Dec 30, 2014 at 1:09 AM, Daniel O'Donnell=20
+>>> On Tue, Dec 30, 2014 at 1:09 AM, Daniel O'Donnell 
 _redacted_(a)uleth.ca>> wrote:
 >>>
 >>>     A question I'd have is how easy is it for github to cock up?
@@ -91,8 +94,7 @@ _redacted_(a)uleth.ca>> wrote:
 >>>>
 >>>>
 >>>>     On Monday, December 29, 2014, Daniel O'Donnell
-_redacted_(a)uleth.ca>> wro=
-te:
+_redacted_(a)uleth.ca>> wrote:
 >>>>
 >>>>         Hi all,
 >>>>
@@ -122,7 +124,7 @@ te:
 >>>>
 >>>>         -dan
 >>>>
->>>>         --=20
+>>>>         -- 
 >>>>         From my Ubuntu notebook
 >>>>
 >>>>         Daniel Paul O'Donnell
@@ -142,8 +144,8 @@ te:
 >>>>         News: http://www.digitalmedievalist.org/news/
 >>>>         Wiki: http://www.digitalmedievalist.org/wiki/
 >>>>         Twitter: http://twitter.com/digitalmedieval
->>>>         Facebook: http://www.facebook.com/group.php?gid=3D49320313760
->>>>         <http://www.facebook.com/group.php?gid=3D49320313760>
+>>>>         Facebook: http://www.facebook.com/group.php?gid=49320313760
+>>>>         <http://www.facebook.com/group.php?gid=49320313760>
 _redacted_(a)uleth.ca
 >>>>         Change list options:
 >>>>         http://listserv.uleth.ca/mailman/listinfo/dm-l
@@ -151,10 +153,10 @@ _redacted_(a)uleth.ca
 >>>>
 >>>>
 >>>>
->>>>     --=20
+>>>>     -- 
 >>>>     Sent from my iPhone
 >>>
->>>     --=20
+>>>     -- 
 >>>      From my Ubuntu notebook
 >>>
 >>>     Daniel Paul O'Donnell
@@ -174,11 +176,11 @@ _redacted_(a)uleth.ca
 >>> News:http://www.digitalmedievalist.org/news/
 >>> Wiki:http://www.digitalmedievalist.org/wiki/
 >>> Twitter:http://twitter.com/digitalmedieval
->>> Facebook:http://www.facebook.com/group.php?gid=3D49320313760
+>>> Facebook:http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca
 >>> Change list options:http://listserv.uleth.ca/mailman/listinfo/dm-l
 >>
->> --=20
+>> -- 
 >>  From my Ubuntu notebook
 >>
 >> Daniel Paul O'Donnell
@@ -196,7 +198,7 @@ _redacted_(a)uleth.ca
 >> News:http://www.digitalmedievalist.org/news/
 >> Wiki:http://www.digitalmedievalist.org/wiki/
 >> Twitter:http://twitter.com/digitalmedieval
->> Facebook:http://www.facebook.com/group.php?gid=3D49320313760
+>> Facebook:http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca
 >> Change list options:http://listserv.uleth.ca/mailman/listinfo/dm-l
 >
@@ -208,19 +210,29 @@ _redacted_(a)uleth.ca
 > News: http://www.digitalmedievalist.org/news/
 > Wiki: http://www.digitalmedievalist.org/wiki/
 > Twitter: http://twitter.com/digitalmedieval
-> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+> Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca
-> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l--=20
- From my Ubuntu notebookDaniel Paul O'Donnell
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+-- 
+ From my Ubuntu notebook
+
+Daniel Paul O'Donnell
 Professor of English
 University of Lethbridge
 Lethbridge AB T1K 3M4
-Canada+1 403 393-2539
---===============4059841613175842391==
-Content-Type: text/html
+Canada
+
++1 403 393-2539
+
+
+
+--4059841613175842391Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWw+CiAgPGhlYWQ+CiAgICA8bWV0YSBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9dXRm
+Content-Disposition: attachment; filenameúttachment.html"
+MIME-Version: 1.0
+
+PGh0bWw+CiAgPGhlYWQ+CiAgICA8bWV0YSBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9dXRm
 LTgiIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSI+CiAgPC9oZWFkPgogIDxib2R5IGJnY29sb3I9
 IiNGRkZGRkYiIHRleHQ9IiMwMDAwMDAiPgogICAgVGhhdCdzIGEgZ29vZCBwb2ludC4gSSB1c2Ug
 ZHJpdmUgYWxsIHRoZSB0aW1lIHRvbyBmb3IgdGVhbXMgYW5kCiAgICBpbmRlZWQgd2FzIGp1c3Qg
@@ -534,4 +546,4 @@ L2E+PC9wcmU+CiAgICA8L2Jsb2NrcXVvdGU+CiAgICA8YnI+CiAgICA8cHJlIGNsYXNzPSJtb3ot
 c2lnbmF0dXJlIiBjb2xzPSI3MiI+LS0gCkZyb20gbXkgVWJ1bnR1IG5vdGVib29rCgpEYW5pZWwg
 UGF1bCBPJ0Rvbm5lbGwKUHJvZmVzc29yIG9mIEVuZ2xpc2gKVW5pdmVyc2l0eSBvZiBMZXRoYnJp
 ZGdlCkxldGhicmlkZ2UgQUIgVDFLIDNNNApDYW5hZGEKCisxIDQwMyAzOTMtMjUzOTwvcHJlPgog
-IDwvYm9keT4KPC9odG1sPgo=
+IDwvYm9keT4KPC9odG1sPgo

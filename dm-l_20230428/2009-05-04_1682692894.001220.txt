@@ -1,10 +1,25 @@
-Subject: [dm-l] CALL FOR PROPOSALS, Text encoding in the era of massCALL FOR PROPOSALS
-Text encoding in the era of mass digitization2009 Conference and Members=E2=80=99 Meeting of the TEI Consortiumhttp://www.lib.umich.edu/spo/teimeeting09/November 11=E2=80=9315, 2009 =E2=80=A2 University of Michigan, Ann ArborThe Program Committee of the 2009 Conference and Members=E2=80=99 Meeting of =
-the
+Subject: [dm-l] CALL FOR PROPOSALS, Text encoding in the era of mass
+
+CALL FOR PROPOSALS
+Text encoding in the era of mass digitization
+
+2009 Conference and Members’ Meeting of the TEI Consortium
+
+http://www.lib.umich.edu/spo/teimeeting09/
+
+November 11–15, 2009 • University of Michigan, Ann Arbor
+
+The Program Committee of the 2009 Conference and Members’ Meeting of the
 Text Encoding Initiative Consortium invites individual paper proposals,
 panel sessions, poster sessions, and tool demonstrations particularly,
-but not exclusively, on the theme =E2=80=9CText encoding in the era of mass
-digitization.=E2=80=9D=3D=3D Submission Topics =3D=3DTopics might include but are not restricted to:* In-depth encoding vs. mass digitization
+but not exclusively, on the theme “Text encoding in the era of mass
+digitization.”
+
+== Submission Topics ==
+
+Topics might include but are not restricted to:
+
+* In-depth encoding vs. mass digitization
 * Is text encoding sustainable?
 * Is text encoding scalable?
 * Using TEI to create:
@@ -20,26 +35,47 @@ o interchange format: sharing, mapping, and migrating data
 * TEI and markup theory
 * Learning the TEI
 * The future of the TEI
-* When not to use the TEIIn addition, we are seeking P5 micropaper proposals for 5 minute
-presentations on the topic =E2=80=9CHow I=E2=80=99ve customized TEI encoding =
-to meet my
-needs.=E2=80=9D=3D=3D Submission Types =3D=3DIndividual paper presentations will be allocated 30 minutes: 20 minutes
-for delivery, and 10 minutes for questions & answers.Panel sessions will be allocated 1.5 hours and may be of varied formats,
-including:* three paper panels: 3 papers on the same or related topics
-* round table discussion: 3=E2=80=936 presenters on a single theme. Ample
-time should be left for questions & answers after brief presentations.Posters (including tool demonstrations) will be presented during the
+* When not to use the TEI
+
+In addition, we are seeking P5 micropaper proposals for 5 minute
+presentations on the topic “How I’ve customized TEI encoding to meet my
+needs.”
+
+== Submission Types ==
+
+Individual paper presentations will be allocated 30 minutes: 20 minutes
+for delivery, and 10 minutes for questions & answers.
+
+Panel sessions will be allocated 1.5 hours and may be of varied formats,
+including:
+
+* three paper panels: 3 papers on the same or related topics
+* round table discussion: 3–6 presenters on a single theme. Ample
+time should be left for questions & answers after brief presentations.
+
+Posters (including tool demonstrations) will be presented during the
 poster session. The local organizer will provide flip charts and tables
 for poster session/tool demonstration presenters, along with wireless
 internet access. Each poster will have the opportunity to participate in
-a slam immediately preceding the poster session.P5 micropapers will be allocated 5 minutes.=3D=3D Submission Procedure =3D=3DAll proposals should be submitted at http://www.tei-c.org/conftool/ by
+a slam immediately preceding the poster session.
+
+P5 micropapers will be allocated 5 minutes.
+
+== Submission Procedure ==
+
+All proposals should be submitted at http://www.tei-c.org/conftool/ by
 15 May 2009. The system is not yet ready to accept submissions but will
-be ready to accept submissions in mid-April.You will need to create an account (i.e., username and password) in
+be ready to accept submissions in mid-April.
+
+You will need to create an account (i.e., username and password) in
 order to file a submission. For each submission, you may upload files to
 the system after you have completed filling out demographic data and the
-abstract.* Individual paper or poster session proposals (including tool
+abstract.
+
+* Individual paper or poster session proposals (including tool
 demonstrations):
 o Please submit a brief abstract (no more than 500 words) in
-the =E2=80=9CAbstract=E2=80=9D field.
+the “Abstract” field.
 o Supporting materials (including graphics, multimedia, etc.,
 or even a copy of the complete paper) may be uploaded after the initial
 abstract is submitted.
@@ -49,19 +85,32 @@ paper except that the abstract should be no more than 300 words.
 o The panel organizer submits an abstract for the entire
 session, listing the proposed papers, and explaining the organizing
 theme and rationale for the inclusion of the papers in no more than 800
-words in the =E2=80=9CAbstract=E2=80=9D field.
+words in the “Abstract” field.
 o The panel members each submit a separate complete individual
-paper proposal; see above.The program committee reserves the right to accept papers
-submitted as part of a panel without accepting the whole panel.All proposals will be reviewed by the program committee and selected
+paper proposal; see above.
+
+The program committee reserves the right to accept papers
+submitted as part of a panel without accepting the whole panel.
+
+All proposals will be reviewed by the program committee and selected
 external reviewers. Conference submissions will be considered for a
 conference proceedings. Further details on the submission process for
-the conference proceedings will be forthcoming.--=20
+the conference proceedings will be forthcoming.
+
+-- 
 Daniel Paul O'Donnell
 Associate Professor of English
-University of LethbridgeChair and CEO, Text Encoding Initiative (http://www.tei-c.org/)
-Founding Director, Digital Medievalist Project (http://www.digitalmedievalist=
-.org/)
-Chair, Electronic Editions Advisory Board, Medieval Academy of AmericaVox: +1 403 329-2377
+University of Lethbridge
+
+Chair and CEO, Text Encoding Initiative (http://www.tei-c.org/)
+Founding Director, Digital Medievalist Project (http://www.digitalmedievalist.org/)
+Chair, Electronic Editions Advisory Board, Medieval Academy of America
+
+Vox: +1 403 329-2377
 Fax: +1 403 382-7191 (non-confidental)
-Home Page: http://people.uleth.ca/~daniel.odonnell/
---===============9131636725868616020==--
+Home Page: http://people.uleth.ca/~daniel.odonnell/
+
+
+
+--9131636725868616020-
+

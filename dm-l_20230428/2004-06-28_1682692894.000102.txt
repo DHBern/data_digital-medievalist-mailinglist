@@ -1,17 +1,31 @@
-Subject: Re: [dm-l] palaeography and computingDear Arianna,there exist as well resources of an European project on manuscript 
+Subject: Re: [dm-l] palaeography and computing
+
+Dear Arianna,
+
+there exist as well resources of an European project on manuscript 
 descriptions: MASTER (**Manuscript Access through Standards for 
 Electronic Records). The MASTER-DTD has been developed in close 
 cooperation with TEI and therefore it may be to general for your 
-purposes as well, but better have a look at it:http://www.cta.dmu.ac.uk/projects/master/In the digitization project CEEC (Codices Electronici Ecclesiae 
+purposes as well, but better have a look at it:
+
+http://www.cta.dmu.ac.uk/projects/master/
+
+In the digitization project CEEC (Codices Electronici Ecclesiae 
 Coloniensis, www.ceec.uni-koeln.de) we adjusted the MASTER-DTD to our 
 needs and therefore have slightly more elements/attributes for the 
-physical description.Within the project CEEC a colleague of mine, Patrick Sahle, developed a 
+physical description.
+
+Within the project CEEC a colleague of mine, Patrick Sahle, developed a 
 tool for palaeographical analysis. This includes an inchoate DTD, which 
 because of the nature of the tool is meant only to cover measures and 
 other physical characteristics. Unfortunately, the documentation is 
-available only in German.Greetings, Torsten Schassan
+available only in German.
+
+Greetings, Torsten Schassan
 **
-Arianna Ciula wrote:>Dear all,
+Arianna Ciula wrote:
+
+>Dear all,
 >
 >as a Ph.D. student working on palaeography and computing, I find this 
 >mailing list very useful and I start my contribution with a question.
@@ -44,11 +58,23 @@ _redacted_(a)uleth.ca
 >http://listserv.uleth.ca/mailman/listinfo/dm-l
 >
 >  
->-- 
+>
+
+-- 
 Torsten Schassan M.A.
 Universitaet zu Koeln
 Historisch-Kulturwissenschaftliche Informationsverarbeitung
 Forschungsprojekt: Codices Electronici Ecclesiae Coloniensis (CEEC)
-http://www.ceec.uni-koeln.deKerpener Str. 30, 50931 Koeln, +49-221-4707736_redacted_(a)uni-koeln.de
-http://www.hki.uni-koeln.de/people/schassanPrivat: Augustastr. 21, 51065 Köln, +49-221-644259
---===============1271586330203260556==--
+http://www.ceec.uni-koeln.de
+
+Kerpener Str. 30, 50931 Koeln, +49-221-4707736
+
+_redacted_(a)uni-koeln.de
+http://www.hki.uni-koeln.de/people/schassan
+
+Privat: Augustastr. 21, 51065 Köln, +49-221-644259
+
+
+
+--1271586330203260556-
+

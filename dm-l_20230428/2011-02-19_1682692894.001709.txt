@@ -1,118 +1,75 @@
-Subject: [dm-l] Job posting: three new research posts at the Centre forJob posting: three new research posts at the Centre for Computing in the Huma=
-nities, King's College London
-=C2=A0
-[With apologies for cross-posting]CCH is both a department with responsibility for its own academic programme a=
-nd a research centre promoting the appropriate application of computing in hu=
-manities research. Its research projects cover a wide range of humanities dis=
-ciplines, including medieval studies, history, literature and linguistics, an=
-d music, and also include a number of more general information management pro=
-jects in both humanities and the social sciences.--------------------------------------------------------------------Project Research Officer (XML Developer)
-(Full-time, fixed term 2 years - Grade 6)The Centre for Computing in the Humanities, King's College London is looking =
-for a highly motivated and technically sophisticated individual to work on it=
-s text-based research projects. The position will involve using computer tool=
-s and methods to facilitate digital scholarship.The successful candidate to this position would have widespread experience in=
- modelling textual materials and developing tools to search, query, retrieve =
-and display them using XML-related technologies; in designing, writing and mo=
-difying programs which facilitate content creation ; and collaborating in the=
- development of integrated HTML-based interfaces for web publication.Experience in creating and manipulating XML documents in a range of XML-relat=
-ed standards and technologies (DTDs/Schema, XPath, XSLT) is highly desirable,=
- in particular textual materials encoded according to the Text Encoding Initi=
-ative's guidelines. Familiarity with structured data/MySQL, Java programming,=
- text processing techniques and standards-compliant XHTML and CSS is also des=
-irable.In addition you will need to have a good understanding of how research is con=
-ducted in the humanities and social sciences and you will be expected to make=
- a contribution to the departmental research profile. You will need to be abl=
-e to work effectively as part of a team, as well as independently. The succes=
-sful candidate should have good communication skills and the ability to docum=
-ent their work in clear written English.This appointment is on the Grade 6 scale, currently ranging from =C2=A333,070=
- - =C2=A339,038 inclusive of =C2=A32,323 London Allowance per annum. This is =
-a full-time, two-year contract.Closing date for receipt of applications is 9 March 2011.For more information, and details on how to apply, please visit the following=
- url:
-http://www.jobs.ac.uk/job/ACG766/project-research-officer-developer/--------------------------------------------------------------------Technical Project Officer (Web Frontend Design/Development)
-(Full-time, fixed term 2 years - Grade 6)The Centre for Computing in the Humanities (CCH) wishes to recruit a Lead Web=
- Frontend Designer / Developer to work with and support the CCH development t=
-eam and subject discipline specialists in the design and development of visua=
-lly attractive and functionally effective web interfaces.=20As part of its very active research programme, the Centre (a department withi=
-n the School of Arts and Humanities) is involved in a large number of externa=
-lly funded collaborative research projects, almost all of which are published=
- as freely available websites. The department has built and hosts some 140 we=
-bsites, of which around 35 are in active development at any one time. The suc=
-cessful candidate will be involved in supporting work on existing and new pro=
-jects, collaborating on the design, customisation and maintenance of their we=
-b interfaces (both public facing and administrative), ensuring consistently h=
-igh standards of usability and performance across the department's websites, =
-and advising internally on standards and best practices. This is an exciting =
-and varied position, which will involve taking the lead in aesthetic and func=
-tional design, and frontend development, across a diverse selection of differ=
-ent websites and applications which range from bespoke web application framew=
-orks designed to display large amounts of complex or unusual data, to customi=
-sing off-the-shelf blogging and CMS software.=20Applicants must have a keen eye for effective visual design and layout, outst=
-anding attention to detail, and a passion for creating attractive and robust =
-interfaces.  Experience with Adobe Photoshop (or similar) together with devel=
-oper level expertise in XHTML, CSS and JavaScript (including experience with =
-AJAX development), are essential for this role. Applicants must have experien=
-ce building interfaces and developing client-side functionality in the contex=
-t of current programming or templating languages (e.g. Django, PHP, JSTL, XSL=
-T etc). An awareness of interface development frameworks both for XHTML/CSS (=
-such as Blueprint, YUI etc) and for JavaScript (preferably JQuery) would be h=
-ighly desirable.  A working knowledge of user-centred design methodology (inc=
-luding development of wireframe diagrams, sitemaps, functional specifications=
-) is important, and experience with user engagement processes such as the dev=
-elopment of use cases or running focus groups would be a distinct advantage. =
-A comprehensive knowledge of new and current standards and best practices for=
- usable and accessible web interface design, together with the ability to sys=
-tematically and quickly test for, identify, and resolve browser-related probl=
-ems, is also expected.Candidates must be able to demonstrate applicable experience in a web design/=
-development role elsewhere and will be asked to supply examples of projects o=
-r websites they have worked on in the recent past which demonstrate both visu=
-al design and development competence.   background or interest in the cultura=
-l heritage sector and/or the fields of the Humanities or Social Sciences woul=
-d be an advantage.=20The successful candidate will need to be able to work effectively as part of =
-a collaborative team (including working with external designers, project part=
-ners, and stakeholders) as well as being able to work independently. Candidat=
-es should have good communication skills and possess the ability to document =
-the work in clear written English.The appointment will be made, dependent on relevant qualifications and experi=
-ence, within the Grade 6 scale, currently =C2=A333,070 - =C2=A339,038, per an=
-num, inclusive of =C2=A32,323 London Allowance, per annum. Benefits include a=
-n annual season ticket loan scheme and a final salary superannuation scheme.The closing date for receipt of applications is 11 March 2011For more information, and details on how to apply, please visit the following=
- url:
-http://www.jobs.ac.uk/job/ACG818/technical-project-officer-web-frontend-desig=
-n-development/--------------------------------------------------------------------Technical Project Officer (GIS / Web Mapping Developer)
-(Full-time, fixed term 2 years - Grade 6)The Centre for Computing in the Humanities (CCH) wishes to recruit a develope=
-r specialising in GIS & web-based mapping to work with and support the CCH de=
-velopment team and subject discipline specialists across a range of research =
-projects, many of which will involve spatial data and map-based visualisation.As part of its very active research programme, the Centre (a department withi=
-n the School of Arts and Humanities) is involved in a large number of externa=
-lly funded collaborative research projects, almost all of which are published=
- as freely available websites. The department has built and hosts some 140 su=
-ch websites, of which around 35 are in active development at any one time. Th=
-e successful candidate will be involved in supporting web application develop=
-ment on existing and new projects, focussing primarily on those involving und=
-erlying spatial data, and the visualisation of data on both static and intera=
-ctive web-based maps.Applicants should have extensive experience with GIS, and will have worked wi=
-th ESRI ArcGIS and / or Open Source GIS editors; applicants must also have de=
-velopment experience with PostgreSQL and/or MySQL and will be comfortable wor=
-king in SQL. Applicants will require a thorough working knowledge of the stan=
-dards and protocols associated with the storage and interchange of spatial da=
-ta (i.e. WMS, JSON, GeoRSS, KML, XML), together with a strength in at least o=
-ne web programming language (preferably J2EE/JSP, Django, or PHP) and the wil=
-lingness and capability to learn other languages as required. The ability to =
-program in JavaScript ('pure', or using a framework) and experience with AJAX=
- development, are essential for this role as is competence with XHTML and CSS=
-. Familiarity with Open Source mapping servers such as GeoServer and MapServe=
-r would be highly desirable.Candidates must be able to demonstrate experience in a GIS analyst or web dev=
-elopment role elsewhere. A background or interest in the cultural heritage se=
-ctor and/or the fields of the Humanities or Social Sciences would be an advan=
-tage.=20The successful candidate will need to be able to work effectively as part of =
-a collaborative team as well as being able to work independently. They should=
- have good communication skills and possess the ability to document work in c=
-lear written English.The appointment will be made, dependent on relevant qualifications and experi=
-ence, within the Grade 6 scale, currently =C2=A333,070 - =C2=A339,038, per an=
-num, inclusive of =C2=A32,323 London Allowance, per annum. Benefits include a=
-n annual season ticket loan scheme and a final salary superannuation scheme.The closing date for receipt of applications is 11 March 2011For more information, and details on how to apply, please visit the following=
- url:
-http://www.jobs.ac.uk/job/ACG814/technical-project-officer-gis-web-mapping-de=
-veloper/
+Subject: [dm-l] Job posting: three new research posts at the Centre for
+
+Job posting: three new research posts at the Centre for Computing in the Humanities, King's College London
+ 
+[With apologies for cross-posting]
+
+CCH is both a department with responsibility for its own academic programme and a research centre promoting the appropriate application of computing in humanities research. Its research projects cover a wide range of humanities disciplines, including medieval studies, history, literature and linguistics, and music, and also include a number of more general information management projects in both humanities and the social sciences.
+
+--------------------------------------------------------------------
+
+Project Research Officer (XML Developer)
+(Full-time, fixed term 2 years - Grade 6)
+
+The Centre for Computing in the Humanities, King's College London is looking for a highly motivated and technically sophisticated individual to work on its text-based research projects. The position will involve using computer tools and methods to facilitate digital scholarship.
+
+The successful candidate to this position would have widespread experience in modelling textual materials and developing tools to search, query, retrieve and display them using XML-related technologies; in designing, writing and modifying programs which facilitate content creation ; and collaborating in the development of integrated HTML-based interfaces for web publication.
+
+Experience in creating and manipulating XML documents in a range of XML-related standards and technologies (DTDs/Schema, XPath, XSLT) is highly desirable, in particular textual materials encoded according to the Text Encoding Initiative's guidelines. Familiarity with structured data/MySQL, Java programming, text processing techniques and standards-compliant XHTML and CSS is also desirable.
+
+In addition you will need to have a good understanding of how research is conducted in the humanities and social sciences and you will be expected to make a contribution to the departmental research profile. You will need to be able to work effectively as part of a team, as well as independently. The successful candidate should have good communication skills and the ability to document their work in clear written English.
+
+This appointment is on the Grade 6 scale, currently ranging from £33,070 - £39,038 inclusive of £2,323 London Allowance per annum. This is a full-time, two-year contract.
+
+Closing date for receipt of applications is 9 March 2011.
+
+For more information, and details on how to apply, please visit the following url:
+http://www.jobs.ac.uk/job/ACG766/project-research-officer-developer/
+
+--------------------------------------------------------------------
+
+Technical Project Officer (Web Frontend Design/Development)
+(Full-time, fixed term 2 years - Grade 6)
+
+The Centre for Computing in the Humanities (CCH) wishes to recruit a Lead Web Frontend Designer / Developer to work with and support the CCH development team and subject discipline specialists in the design and development of visually attractive and functionally effective web interfaces. 
+
+As part of its very active research programme, the Centre (a department within the School of Arts and Humanities) is involved in a large number of externally funded collaborative research projects, almost all of which are published as freely available websites. The department has built and hosts some 140 websites, of which around 35 are in active development at any one time. The successful candidate will be involved in supporting work on existing and new projects, collaborating on the design, customisation and maintenance of their web interfaces (both public facing and administrative), ensuring consistently high standards of usability and performance across the department's websites, and advising internally on standards and best practices. This is an exciting and varied position, which will involve taking the lead in aesthetic and functional design, and frontend development, across a diverse selection of different websites and applications which range from bespoke web application frameworks designed to display large amounts of complex or unusual data, to customising off-the-shelf blogging and CMS software. 
+
+Applicants must have a keen eye for effective visual design and layout, outstanding attention to detail, and a passion for creating attractive and robust interfaces.  Experience with Adobe Photoshop (or similar) together with developer level expertise in XHTML, CSS and JavaScript (including experience with AJAX development), are essential for this role. Applicants must have experience building interfaces and developing client-side functionality in the context of current programming or templating languages (e.g. Django, PHP, JSTL, XSLT etc). An awareness of interface development frameworks both for XHTML/CSS (such as Blueprint, YUI etc) and for JavaScript (preferably JQuery) would be highly desirable.  A working knowledge of user-centred design methodology (including development of wireframe diagrams, sitemaps, functional specifications) is important, and experience with user engagement processes such as the development of use cases or running focus groups would be a distinct advantage. A comprehensive knowledge of new and current standards and best practices for usable and accessible web interface design, together with the ability to systematically and quickly test for, identify, and resolve browser-related problems, is also expected.
+
+Candidates must be able to demonstrate applicable experience in a web design/development role elsewhere and will be asked to supply examples of projects or websites they have worked on in the recent past which demonstrate both visual design and development competence.   background or interest in the cultural heritage sector and/or the fields of the Humanities or Social Sciences would be an advantage. 
+
+The successful candidate will need to be able to work effectively as part of a collaborative team (including working with external designers, project partners, and stakeholders) as well as being able to work independently. Candidates should have good communication skills and possess the ability to document the work in clear written English.
+
+The appointment will be made, dependent on relevant qualifications and experience, within the Grade 6 scale, currently £33,070 - £39,038, per annum, inclusive of £2,323 London Allowance, per annum. Benefits include an annual season ticket loan scheme and a final salary superannuation scheme.
+
+The closing date for receipt of applications is 11 March 2011
+
+For more information, and details on how to apply, please visit the following url:
+http://www.jobs.ac.uk/job/ACG818/technical-project-officer-web-frontend-design-development/
+
+--------------------------------------------------------------------
+
+Technical Project Officer (GIS / Web Mapping Developer)
+(Full-time, fixed term 2 years - Grade 6)
+
+The Centre for Computing in the Humanities (CCH) wishes to recruit a developer specialising in GIS & web-based mapping to work with and support the CCH development team and subject discipline specialists across a range of research projects, many of which will involve spatial data and map-based visualisation.
+
+As part of its very active research programme, the Centre (a department within the School of Arts and Humanities) is involved in a large number of externally funded collaborative research projects, almost all of which are published as freely available websites. The department has built and hosts some 140 such websites, of which around 35 are in active development at any one time. The successful candidate will be involved in supporting web application development on existing and new projects, focussing primarily on those involving underlying spatial data, and the visualisation of data on both static and interactive web-based maps.
+
+Applicants should have extensive experience with GIS, and will have worked with ESRI ArcGIS and / or Open Source GIS editors; applicants must also have development experience with PostgreSQL and/or MySQL and will be comfortable working in SQL. Applicants will require a thorough working knowledge of the standards and protocols associated with the storage and interchange of spatial data (i.e. WMS, JSON, GeoRSS, KML, XML), together with a strength in at least one web programming language (preferably J2EE/JSP, Django, or PHP) and the willingness and capability to learn other languages as required. The ability to program in JavaScript ('pure', or using a framework) and experience with AJAX development, are essential for this role as is competence with XHTML and CSS. Familiarity with Open Source mapping servers such as GeoServer and MapServer would be highly desirable.
+
+Candidates must be able to demonstrate experience in a GIS analyst or web development role elsewhere. A background or interest in the cultural heritage sector and/or the fields of the Humanities or Social Sciences would be an advantage. 
+
+The successful candidate will need to be able to work effectively as part of a collaborative team as well as being able to work independently. They should have good communication skills and possess the ability to document work in clear written English.
+
+The appointment will be made, dependent on relevant qualifications and experience, within the Grade 6 scale, currently £33,070 - £39,038, per annum, inclusive of £2,323 London Allowance, per annum. Benefits include an annual season ticket loan scheme and a final salary superannuation scheme.
+
+The closing date for receipt of applications is 11 March 2011
+
+For more information, and details on how to apply, please visit the following url:
+http://www.jobs.ac.uk/job/ACG814/technical-project-officer-gis-web-mapping-developer/
+
 ----------------------------------------
 Paul Spence
 Acting Head of Department
@@ -120,7 +77,13 @@ Centre for Computing in the Humanities
 King's College London
 26-29 Drury Lane
 London
-WC2B 5RL_redacted_(a)kcl.ac.uk
+WC2B 5RL
+
+_redacted_(a)kcl.ac.uk
 www.kcl.ac.uk/cch/
-http://www.cch.kcl.ac.uk/research/projects/
---===============3099230165559115375==--
+http://www.cch.kcl.ac.uk/research/projects/
+
+
+
+--3099230165559115375-
+

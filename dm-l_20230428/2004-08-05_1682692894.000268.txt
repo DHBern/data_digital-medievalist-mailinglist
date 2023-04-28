@@ -1,26 +1,33 @@
-Subject: RE: [dm-l] early music notationThis is an example of a project on musical manuscript that adopt a=20
-different encoding system (unfortunately not TEI). However, the=20
+Subject: RE: [dm-l] early music notation
+
+This is an example of a project on musical manuscript that adopt a 
+different encoding system (unfortunately not TEI). However, the 
 database could be a useful resource for whom is developping the mark-up
-of such early manuscriptst.http://www.unisi.it/ricerca/centri/cislab/ritmi/dbr.htmArianna Ciula
+of such early manuscriptst.
+
+http://www.unisi.it/ricerca/centri/cislab/ritmi/dbr.htm
+
+Arianna Ciula
 _redacted_(a)jmu.edu>
-wrote:> Digital Medievalist Journal (Inaugural Issue Fall 2004). Call for papers: h=
-ttp://www.digitalmedievalist.org/cfp.htm
+wrote:
+
+> Digital Medievalist Journal (Inaugural Issue Fall 2004). Call for papers: http://www.digitalmedievalist.org/cfp.htm
 > ----------------
 > Dorothy Parker asked about music markup languages.  She is correct in noting
 > the deficiencies of MusicXML, et al.  These, along with the proposals for
 > embedding musical notation in the new MPEG standard, are designed for modern
 > (i.e., post-17th century notation).
->=20
+> 
 > The NEUMES project, begun at Harvard several years ago, is making headway in
 > this area, at least for medieval chant.  See:
 > http://www.scribeserver.com/NEUMES/.  I've just recently discovered this,
 > and I will be examining this in some depth to see to what extent I can use
-> this in my liturgical drama project. =20
->=20
+> this in my liturgical drama project.  
+> 
 > Assuming the NEUMES folks achieve their objectives, though, a problem still
 > remains with the notational schemes between chant and Bach (and even Bach
-> can be troublesome).=20
->=20
+> can be troublesome). 
+> 
 > /**************************************************************
 >  * Michael L. Norton, Ph.D. (Musicology)
 >  * Computer Science Dept.
@@ -30,19 +37,19 @@ ttp://www.digitalmedievalist.org/cfp.htm
 >  * (540) 568-2777
 _redacted_(a)jmu.edu
 >  **************************************************************/
->=20
+> 
 > -----Original Message-----
 _redacted_(a)uleth.ca] On Behalf Of
 > Dorothy C. Porter
 > Sent: Thursday, August 05, 2004 8:20 AM
 _redacted_(a)uleth.ca
 > Subject: [dm-l] early music notation
->=20
+> 
 > Digital Medievalist Journal (Inaugural Issue Fall 2004). Call for papers:
 > http://www.digitalmedievalist.org/cfp.htm
 > ----------------
 > Hi list,
->=20
+> 
 > This is a message I sent as a reply to James Cummings on TEI-L, but I think
 > it may be of interest to folks on this list as well (some of whom, I expect,
 > will know more than me - I haven't studied medieval music since college).
@@ -50,14 +57,14 @@ _redacted_(a)uleth.ca
 > (MEI, http://dl.lib.virginia.edu/bin/dtd/mei/) as a module in the TEI.
 > ********************
 > James (and list),
->=20
+> 
 > There are at least two other prospective XML schemas for encoding music -
 > Music Markup Language (http://www.musicmarkup.info/) and MusicXML
 > (http://www.musicxml.org/xml.html). I can't speak to the technical pros and
 > cons of including music markup as a part of TEI. I do think that it is
 > something to consider, especially for, as you say, liturgical manuscripts
 > (or other early manuscripts that include musical notation).
->=20
+> 
 > Having looked briefly at all three of these markup schemas, though, it
 > appears that all are designed specifically for modern Western musical
 > notation - notes of determined length on a standard staff. This would be
@@ -68,33 +75,39 @@ _redacted_(a)uleth.ca
 > these sorts of early notation beyond simply noting that they're there, but
 > it doesn't appear that these schemas are designed with early notation in
 > mind (at least not publically, yet).
->=20
+> 
 > Does anyone on the list know more? Is anyone interested in pursuing some
 > sort of notation extension/module to TEI?
->=20
+> 
 > Dot
->=20
+> 
 > ***************************************
 > Dorothy Carr Porter, Program Coordinator Collaboratory for Research in
 > Computing for Humanities University of Kentucky
 > 351 William T. Young Library
 > Lexington, KY  40506
->=20
+> 
 _redacted_(a)uky.edu          859-257-9549
 > ***************************************
->=20
+> 
 > _______________________________________________
 > Project web site: http://www.digitalmedievalist.org/
 > dm-l mailing list
 _redacted_(a)uleth.ca
 > http://listserv.uleth.ca/mailman/listinfo/dm-l
->=20
->=20
+> 
+> 
 > _______________________________________________
 > Project web site: http://www.digitalmedievalist.org/
 > dm-l mailing list
 _redacted_(a)uleth.ca
-> http://listserv.uleth.ca/mailman/listinfo/dm-l----------------------
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+----------------------
 Arianna Ciula
-_redacted_(a)kcl.ac.uk
---===============8913659786242980161==--
+_redacted_(a)kcl.ac.uk
+
+
+
+--8913659786242980161-
+

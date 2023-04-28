@@ -1,10 +1,22 @@
-Subject: [dm-l] open source XML-editor?Hi everybody,I am looking for an open source XML-editor that hides the fact from the 
+Subject: [dm-l] open source XML-editor?
+
+Hi everybody,
+
+I am looking for an open source XML-editor that hides the fact from the 
 user that XML is actually being used. One more criterion is that it 
-should be written in Java. Does anyone know of a tool like that?To give some background on the project I am working on:I am building a system which shall allow for collaboratively working on 
-Medieval Charters via a simple web browser.Working on the charters does not only include creating transcriptions of 
+should be written in Java. Does anyone know of a tool like that?
+
+To give some background on the project I am working on:
+
+I am building a system which shall allow for collaboratively working on 
+Medieval Charters via a simple web browser.
+
+Working on the charters does not only include creating transcriptions of 
 the images of the charters (with a divided screen where the image is in 
 the upper and the text field in the lower part of the browser), but the 
-system also aims at allowing the tagging  of the text with semantic markup.Just to give one example:
+system also aims at allowing the tagging  of the text with semantic markup.
+
+Just to give one example:
 Printed charter editions normally present normalized versions of the 
 text that facilitate a content-orientated, fast reading. For some groups 
 of researchers, however, the focus in dealing with charters is not on 
@@ -14,19 +26,34 @@ prototype offers an option to resolve abbreviations, while at the same
 time another text layer is preserved containing the exact spelling of 
 the original.
 Other elements include persons, places, certain structural parts of the 
-charter such as the "inscriptio", "intitulatio" etc...What I am trying to do is to hide the fact that XML is being used from 
-the user to make it more comfortable to use for historians.I am not quite sure yet about how I am going to do it, but so far to me 
+charter such as the "inscriptio", "intitulatio" etc...
+
+What I am trying to do is to hide the fact that XML is being used from 
+the user to make it more comfortable to use for historians.
+
+I am not quite sure yet about how I am going to do it, but so far to me 
 the best way seems to be using icons that have the name of the tag 
 inside and either point to the right for a start tag or to the left for 
 an end tag (the commercial editor XMetaL uses a similar syntax in one of 
 its views). If the mouse points to either the start or the endtag the 
 corresponding tag should change the color so that it's easier to find. 
 Aside from that to the right of the textfield the corresponding 
-attributes should be shown and made editable.If anyone knows better ways or existing open source solutions I would be 
-very happy to hear about it!As a second step of development it is planned to implement a versioning 
+attributes should be shown and made editable.
+
+If anyone knows better ways or existing open source solutions I would be 
+very happy to hear about it!
+
+As a second step of development it is planned to implement a versioning 
 system that is able to show the differences between two XML-files - 
 again without the user knowing that XML is being used.
 Again, if anyone knows existing solutions to this problem I would be 
 glad to know! If anybody is attempting to reach a similar goal I would 
-be happy to collaborate!Thank you for any advice, comments, offers to collaborate!Ben Burkard
-- University of Cologne, Germany
+be happy to collaborate!
+
+Thank you for any advice, comments, offers to collaborate!
+
+Ben Burkard
+- University of Cologne, Germany
+
+
+

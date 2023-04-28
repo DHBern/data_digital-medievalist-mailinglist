@@ -1,52 +1,38 @@
-Subject: Re: [dm-l] Image Content in Digital Projects and MetadataDear Franz,Your thoughts on why there is a gap concerning the degree to which image cont=
-ent is catalogued, the lack of a common taxonomy/terminology and expertise ar=
-e, to some extent, probably correct. However, in the visual arts, there has b=
-een considerable development on common terminology and taxonomy (the Getty In=
-stitute in NA for one has been quite active in supporting the development of =
-controlled vocabularies -- ULAN, AAT, TGN, CONA -- as well as the work of the=
- Visual Resources Association concerning metadata schema, VRA Core http://www=
-.loc.gov/standards/vracore/schemas.html ), which I think is often overlooked =
-by institutions taking on large scale digitization projects. This is probably=
- due to the lack of expertise or knowledge about this field and probably also=
- due to the way digitization projects have evolved, separately, from visual c=
-ollections. Increasingly, I can see a major role for libarians/cataloguers wi=
-th visual studies/art history backgrounds in this area as technology begins t=
-o enable us to bring collections together between and within institutions. Th=
-ank you for suggesting the Horvolt bibliography and I see that she does refer=
-ence Iconclass which is applicable to a number of different historical period=
-s (and used by the larger European image collections, such as Marburg, as wel=
-l as, at Princeton, ICA, and other sites in NA). I don't think many specialis=
-ts outside the visual area are aware of this resource for cataloguing image c=
-ontent. However, I realize that current technology does pose additional issue=
-s on this complex topic - but, I think this is an area which needs to be exam=
-ined in greater detail. Setting standards and guidelines enabling this might =
-be the first step in exploring more collaboration. Thank you for thinking abo=
-ut this...Harriet.
+Subject: Re: [dm-l] Image Content in Digital Projects and Metadata
+
+Dear Franz,
+
+Your thoughts on why there is a gap concerning the degree to which image content is catalogued, the lack of a common taxonomy/terminology and expertise are, to some extent, probably correct. However, in the visual arts, there has been considerable development on common terminology and taxonomy (the Getty Institute in NA for one has been quite active in supporting the development of controlled vocabularies -- ULAN, AAT, TGN, CONA -- as well as the work of the Visual Resources Association concerning metadata schema, VRA Core http://www.loc.gov/standards/vracore/schemas.html ), which I think is often overlooked by institutions taking on large scale digitization projects. This is probably due to the lack of expertise or knowledge about this field and probably also due to the way digitization projects have evolved, separately, from visual collections. Increasingly, I can see a major role for libarians/cataloguers with visual studies/art history backgrounds in this area as technology begins to enable us to bring collections together between and within institutions. Thank you for suggesting the Horvolt bibliography and I see that she does reference Iconclass which is applicable to a number of different historical periods (and used by the larger European image collections, such as Marburg, as well as, at Princeton, ICA, and other sites in NA). I don't think many specialists outside the visual area are aware of this resource for cataloguing image content. However, I realize that current technology does pose additional issues on this complex topic - but, I think this is an area which needs to be examined in greater detail. Setting standards and guidelines enabling this might be the first step in exploring more collaboration. Thank you for thinking about this...Harriet.
+
 Harriet Sonne de Torrens, MA, MISt., Ph.D., L.M.S.
 Librarian, Visual Resource Library
-https://utoronto.academia.edu/HarrietSonnedeTorrens=20
+https://utoronto.academia.edu/HarrietSonnedeTorrens 
 Room 3021, CCT Building
 University of Toronto Mississauga
 3359 Mississauga Road North
-Mississauga ON =C2=A0L5L 1C6
+Mississauga ON  L5L 1C6
 _redacted_(a)utoronto.ca
-Office: 905-569-4610
+Office: 905-569-4610
+
 -----Original Message-----
-_redacted_(a)uni-koeln.de]=20
+_redacted_(a)uni-koeln.de] 
 Sent: September 25, 2014 5:40 AM
 To: Harriet Sonne de Torrens
 Cc: Digital Medievalist
-Subject: Re: [dm-l] Image Content in Digital Projects and MetadataDear Harriet,The degree to which images are described in TEI and the frequency varies of c=
-ourse as much as there are projects creating manuscript descriptions. A highe=
-r standardization and deeper structuring of the content of <decoDesc>s and <d=
-ecoNote>s is desirable - but hard to achieve for the lack of a common termino=
-logy or taxonomy and not least for the lack of expertise of cataloguers.BTW, there is a selected bibliography on decoration of manuscripts by Hanna V=
-orholt available on the DiXiT webpage (course material of MMSDA
+Subject: Re: [dm-l] Image Content in Digital Projects and Metadata
+
+Dear Harriet,
+
+The degree to which images are described in TEI and the frequency varies of course as much as there are projects creating manuscript descriptions. A higher standardization and deeper structuring of the content of <decoDesc>s and <decoNote>s is desirable - but hard to achieve for the lack of a common terminology or taxonomy and not least for the lack of expertise of cataloguers.
+
+BTW, there is a selected bibliography on decoration of manuscripts by Hanna Vorholt available on the DiXiT webpage (course material of MMSDA
 2014):
-http://dixit.uni-koeln.de/mmsda-material.htmlBest, FranzAm 22.09.2014 14:45, schrieb Harriet Sonne de Torrens:
-> Thank you Franz. Your response is very useful. I am trying to determine how=
- institutions are doing this, the degree to which images are described and th=
-e frequency. Thanks again,  Harriet.
+http://dixit.uni-koeln.de/mmsda-material.html
+
+Best, Franz
+
+Am 22.09.2014 14:45, schrieb Harriet Sonne de Torrens:
+> Thank you Franz. Your response is very useful. I am trying to determine how institutions are doing this, the degree to which images are described and the frequency. Thanks again,  Harriet.
 >
 > Harriet Sonne de Torrens, MA, MISt., Ph.D., L.M.S.
 > Librarian, Visual Resource Library
@@ -67,9 +53,7 @@ _redacted_(a)uni-koeln.de]
 >
 > Dear Harriet,
 >
-> If the metadata is organised and represented in XML according to the TEI gu=
-idelines for manuscript description you should find information on images in =
-the decoration description (<decoDesc> and <decoNote> resp.).
+> If the metadata is organised and represented in XML according to the TEI guidelines for manuscript description you should find information on images in the decoration description (<decoDesc> and <decoNote> resp.).
 >
 > Best,
 > Franz
@@ -78,20 +62,20 @@ _redacted_(a)utoronto.ca>:
 >
 >> Dear Colleagues,
 >>
->> I have a question for this esteemed group. As an art=20
->> historian/medievalist and visual resource librarian, I am very=20
->> interested in how institutions are addressing and including metadata=20
+>> I have a question for this esteemed group. As an art 
+>> historian/medievalist and visual resource librarian, I am very 
+>> interested in how institutions are addressing and including metadata 
 >> for images in rare books and manuscripts which are being digitized.
 >> With the continual growth of digital projects it an important area.
->> It is fantastic to have these wonderful collections digitized but a=20
->> real frustration when image data cannot be located. I am wondering=20
->> how this group is addressing this issue in their institutions? If you=20
->> are addressing it, what schema for the image metadata you are using?=20
->> Ideally, we would all want to be heading toward consistency and=20
->> inter-collaborative schema for the sustainability of these projects=20
+>> It is fantastic to have these wonderful collections digitized but a 
+>> real frustration when image data cannot be located. I am wondering 
+>> how this group is addressing this issue in their institutions? If you 
+>> are addressing it, what schema for the image metadata you are using? 
+>> Ideally, we would all want to be heading toward consistency and 
+>> inter-collaborative schema for the sustainability of these projects 
 >> in the future.
 >>
->> If you have some time, I would be interested in hearing about this=20
+>> If you have some time, I would be interested in hearing about this 
 >> area and what some of the current challenges are. Thank you. Harriet.
 >>
 >> ------------------------------------
@@ -115,38 +99,38 @@ _redacted_(a)uleth.ca] On Behalf Of Dan Mosser
 >>
 >> HI,
 >>
->> I am currently migrating projects to a new server and have=20
->> encountered difficulties with the Thomas L. Gravell Watermarks=20
->> Archive database. As is summarized below, we have moved everything,=20
->> confirmed that we can update a MySQL database on the new server using=20
->> FMP and the ODBC driver, but the Gravell database itself is not=20
->> communicating, despite updating scripts, etc. Has anyone on the list=20
->> had recent experience with these issues? One problem is that it has=20
->> been awhile since we have had to deal with a migration and there are=20
->> some rusty chops! Thanks in advance for any insights. Here's the=20
+>> I am currently migrating projects to a new server and have 
+>> encountered difficulties with the Thomas L. Gravell Watermarks 
+>> Archive database. As is summarized below, we have moved everything, 
+>> confirmed that we can update a MySQL database on the new server using 
+>> FMP and the ODBC driver, but the Gravell database itself is not 
+>> communicating, despite updating scripts, etc. Has anyone on the list 
+>> had recent experience with these issues? One problem is that it has 
+>> been awhile since we have had to deal with a migration and there are 
+>> some rusty chops! Thanks in advance for any insights. Here's the 
 >> summary from my tech person:
 >>
->> - Moved the MySQL database to the new server. Verified that the=20
+>> - Moved the MySQL database to the new server. Verified that the 
 >> database user has all privileges to manage the database.
 >>
 >> - Verified that Port 3306 is open so the database can be managed remotely.
 >>
->> - Installed the Actual Technologies ODBC Driver, created a new DSN=20
->> for the MySQL database, and verified that we can connect to the MySQL=20
+>> - Installed the Actual Technologies ODBC Driver, created a new DSN 
+>> for the MySQL database, and verified that we can connect to the MySQL 
 >> database using ODBC.
 >>
 >> - Updated the FileMaker Pro scripts to use the new DSN we created.
 >>
->> I can confirm that the MySQL database can be modified in FileMaker=20
->> Pro via ODBC (I created a new FileMaker Pro database to test this),=20
->> but something in the scripts in the existing FileMaker Pro database=20
+>> I can confirm that the MySQL database can be modified in FileMaker 
+>> Pro via ODBC (I created a new FileMaker Pro database to test this), 
+>> but something in the scripts in the existing FileMaker Pro database 
 >> is preventing the ODBC connection from working.
 >> _____________________________
 >> Dan Mosser
 _redacted_(a)vt.edu
 >> _____________________________
 >> Digital index of Middle English Verse (www.dimev.net) Thomas L.
->> Gravell Watermark Archive (www.gravell.org) A Digital Catalogue of=20
+>> Gravell Watermark Archive (www.gravell.org) A Digital Catalogue of 
 >> the Pre-1500 Manuscripts and Incunables of the Canterbury Tales
 >> (http://www.mossercatalogue.net) CV (http://mosser.vtcath.org)
 >>
@@ -160,7 +144,7 @@ _redacted_(a)vt.edu
 >> News: http://www.digitalmedievalist.org/news/
 >> Wiki: http://www.digitalmedievalist.org/wiki/
 >> Twitter: http://twitter.com/digitalmedieval
->> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+>> Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca
 >> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
 >>
@@ -170,10 +154,12 @@ _redacted_(a)uleth.ca
 >> News: http://www.digitalmedievalist.org/news/
 >> Wiki: http://www.digitalmedievalist.org/wiki/
 >> Twitter: http://twitter.com/digitalmedieval
->> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+>> Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca
 >> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
 >>
 >
->
---===============6500580553259127820==--
+>
+
+--6500580553259127820-
+

@@ -1,9 +1,13 @@
-Subject: [dm-l] [Fwd: New release of TEI P5 and MSencoding]From the TEI Manuscript Special Interest group but of interest to people
+Subject: [dm-l] [Fwd: New release of TEI P5 and MSencoding]
+
+From the TEI Manuscript Special Interest group but of interest to people
 here as well. The newest edition of the TEI guidelines is introducing
 quite a number of really useful tools, elements, and approaches. It is
 about a month away from an official release and the last few things are
 still being nailed down and copy-edited, but it going to be quite
-interesting.The next release after this should also have a new section on physical
+interesting.
+
+The next release after this should also have a new section on physical
 bibliography that will be of interest to medievalists as well.
 -- 
 Daniel Paul O'Donnell, PhD
@@ -14,7 +18,11 @@ University of Lethbridge
 Lethbridge AB T1K 3M4
 Vox: +1 403 329 2378
 Fax: +1 403 382-7191
-Homepage: http://people.uleth.ca/~daniel.odonnell/UmVjZWl2ZWQ6IGZyb20gZ3JhbmRhbS51bGV0aC5jYSAoWzE0Mi42Ni43LjQxXSkgYnkgRVhDSENM
+Homepage: http://people.uleth.ca/~daniel.odonnell/
+
+
+
+UmVjZWl2ZWQ6IGZyb20gZ3JhbmRhbS51bGV0aC5jYSAoWzE0Mi42Ni43LjQxXSkgYnkgRVhDSENM
 Mi51bGV0aC5jYSB3aXRoCglNaWNyb3NvZnQgU01UUFNWQyg2LjAuMzc5MC4xODMwKTsgV2VkLCAy
 NiBTZXAgMjAwNyAwODoyMDozOSAtMDYwMApSZWNlaXZlZDogZnJvbSBiaWFuY2EubmV0c3J2LnVs
 ZXRoLmNhIChbMTQyLjY2LjYuMThdKSBieSBncmFuZGFtLnVsZXRoLmNhCgl3aXRoIE1pY3Jvc29m
@@ -185,4 +193,4 @@ dCZndDsgbW9kZWwgKGJ1aWxkaW5nIGEgY3JpdGljYWwgYXBwYXJhdHVzIGFuZAp0cmFuc2NyaWJp
 bmcgY29ycmVjdGlvbnMgaW4gYSBtYW51c2NyaXB0cyBhcmUgbm90IHRoZSBzYW1lIHRoaW5nISku
 PGJyPgo8YnI+CkFueSBvdGhlciBvcGluaW9uPzxicj4KPGJyPgpCZXN0LDxicj4KPGJyPgpFbGVu
 YTxicj4KPGJyPgo8YnI+CjwvZm9udD48L2ZvbnQ+CjwvYm9keT4KPC9odG1sPgoKLS0tLS0tLS0t
-LS0tLS0wMjA4MDgwMjA5MDYwMjA2MDMwODA4MDQtLQo=
+LS0tLS0wMjA4MDgwMjA5MDYwMjA2MDMwODA4MDQtLQo

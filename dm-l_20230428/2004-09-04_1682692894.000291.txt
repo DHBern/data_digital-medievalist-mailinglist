@@ -1,24 +1,36 @@
-Subject: Re: [dm-l] Find GlyphOn Thu, 2 Sep 2004, Daniel O'Donnell wrote:> Digital Medievalist Journal (Inaugural Issue Fall 2004). Call for papers:
+Subject: Re: [dm-l] Find Glyph
+
+On Thu, 2 Sep 2004, Daniel O'Donnell wrote:
+
+> Digital Medievalist Journal (Inaugural Issue Fall 2004). Call for papers:
 > http://www.digitalmedievalist.org/cfp.htm
 > ----------------
 > I'd promised a link to a utility that does for Windows what the calculator
-> seems to do for OS X. Conal Tuohy wrote this for me last year. It is a supe=
-rb
+> seems to do for OS X. Conal Tuohy wrote this for me last year. It is a superb
 > program: <http://www.nzetc.org/downloads/find-glyph.zip>. This can be
 > supplemented with character agent:
 > <http://www.alanwood.net/unicode/utilities_fonts.html#agent>. A useful page
-> full of utilities is <http://www.alanwood.net/unicode/utilities_fonts.html>.Just not to leave those running linux out, they may be interested=20
-in gnome's 'gucharmap'.  (If running debian unstable: just=20
-'apt-get install gucharmap' to get it and install it).  Nice=20
-graphic display, browsing, searching, etc.The description is as follows:
-Unicode character picker and font browser. This program allows you to=20
-browse through all the available Unicode characters and categories for=20
-the installed fonts, and to examine their detailed properties.  It is an=20
-easy way to find the character you might only know by its Unicode name or=20
-code point.
--James---
+> full of utilities is <http://www.alanwood.net/unicode/utilities_fonts.html>.
+
+Just not to leave those running linux out, they may be interested 
+in gnome's 'gucharmap'.  (If running debian unstable: just 
+'apt-get install gucharmap' to get it and install it).  Nice 
+graphic display, browsing, searching, etc.
+
+The description is as follows:
+Unicode character picker and font browser. This program allows you to 
+browse through all the available Unicode characters and categories for 
+the installed fonts, and to examine their detailed properties.  It is an 
+easy way to find the character you might only know by its Unicode name or 
+code point.
+
+-James
+
+---
 Dr James Cummings, Oxford Text Archive, University of Oxford
-James dot Cummings at oucs dot ox dot ac dot uk=20
-CALL FOR PAPERS: Digital Medievalism (Kalamazoo) and=20
-Early Drama (Leeds) see http://users.ox.ac.uk/~jamesc/cfp.html
---===============2488074641896880664==--
+James dot Cummings at oucs dot ox dot ac dot uk 
+CALL FOR PAPERS: Digital Medievalism (Kalamazoo) and 
+Early Drama (Leeds) see http://users.ox.ac.uk/~jamesc/cfp.html
+
+--2488074641896880664-
+

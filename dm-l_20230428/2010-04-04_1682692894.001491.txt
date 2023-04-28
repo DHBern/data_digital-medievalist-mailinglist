@@ -1,16 +1,54 @@
-Subject: [dm-l] Examples of TEI projectsDear all, I have a quick question about TEI encoding. Actually it is a request for
+Subject: [dm-l] Examples of TEI projects
+
+Dear all,
+
+ 
+
+I have a quick question about TEI encoding. Actually it is a request for
 help. We at Croatian Center for Digital Humanities are working (among other)
 on digital representation of Croatian medieval chronicles (in Latin and
 Croatian) from 14th and 15th century.  What we need is simply examples of
 similar projects in the world so that we can learn from them.  Any help in
 pointing us to the right direction is most welcome and I thank you in
-advance. P.S. Some of the project links on TEI web are dead so I am asking you
-directly through this lists Sincerely, Daniel MondekarVice DirectorCenter for Digital HumanitiesZagrebCroatiawww.digitalna-humanistika.org   
---===============8448624057881623326==
-Content-Type: text/html
+advance.
+
+ 
+
+P.S. Some of the project links on TEI web are dead so I am asking you
+directly through this lists
+
+ 
+
+Sincerely,
+
+ 
+
+Daniel Mondekar
+
+Vice Director
+
+Center for Digital Humanities
+
+Zagreb
+
+Croatia
+
+www.digitalna-humanistika.org
+
+ 
+
+ 
+
+ 
+
+
+
+--8448624057881623326Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWwgeG1sbnM6dj0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTp2bWwiIHhtbG5zOm89InVy
+Content-Disposition: attachment; filenameúttachment.html"
+MIME-Version: 1.0
+
+PGh0bWwgeG1sbnM6dj0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTp2bWwiIHhtbG5zOm89InVy
 bjpzY2hlbWFzLW1pY3Jvc29mdC1jb206b2ZmaWNlOm9mZmljZSIgeG1sbnM6dz0idXJuOnNjaGVt
 YXMtbWljcm9zb2Z0LWNvbTpvZmZpY2U6d29yZCIgeG1sbnM6bT0iaHR0cDovL3NjaGVtYXMubWlj
 cm9zb2Z0LmNvbS9vZmZpY2UvMjAwNC8xMi9vbW1sIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcv
@@ -68,4 +106,4 @@ YW4+PC9wPgoKPHAgY2xhc3M9TXNvTm9ybWFsPjxzcGFuIGxhbmc9RU4tVVM+PG86cD4mbmJzcDs8
 L286cD48L3NwYW4+PC9wPgoKPHAgY2xhc3M9TXNvTm9ybWFsPjxzcGFuIGxhbmc9RU4tVVM+PG86
 cD4mbmJzcDs8L286cD48L3NwYW4+PC9wPgoKPHAgY2xhc3M9TXNvTm9ybWFsPjxzcGFuIGxhbmc9
 RU4tVVM+PG86cD4mbmJzcDs8L286cD48L3NwYW4+PC9wPgoKPC9kaXY+Cgo8L2JvZHk+Cgo8L2h0
-bWw+Cg==
+bWw+Cg

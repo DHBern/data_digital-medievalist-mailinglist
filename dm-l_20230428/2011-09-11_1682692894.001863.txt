@@ -1,10 +1,16 @@
-Subject: [dm-l] Text Editor for Tagging Arabic TextsDear all,I wonder if anyone can help me with the following problem. I am tagging
+Subject: [dm-l] Text Editor for Tagging Arabic Texts
+
+Dear all,
+
+I wonder if anyone can help me with the following problem. I am tagging
 Arabic texts (classical Arabic sources, mostly biographical dictionaries and
 chronicles) to be converted into XML format for the following analysis.
 Currently I am doing that in MS Word 2007, which, despite all improvements,
 does not handle long text files well and crashes from time to time. I was
 desperately trying to find a good alternative, but did not succeed so far. I
-need a text editor which have/do the following:   - Support for bi-directional text and Unicode;
+need a text editor which have/do the following:
+
+   - Support for bi-directional text and Unicode;
    - Support for large text files (mine are not too big, but may go up to
    20Mb of TXT in UTF-8; Yaqut’s *Mu‘jam al-Buldan* is ~9Mb, Ibn
 ‘Imad’s *Shadharat
@@ -20,11 +26,21 @@ need a text editor which have/do the following:   - Support for bi-directional
    bi-hadhihi-l-nisba, or wa-ilay-ha, or wa-ntasaba[t] ila etc.). Having
    them highlighted makes the structure of the test highly visible and tagging
    process much faster and easier.
-   - The editor should be stable and fast.I will deeply appreciate any comments and suggestions.Best regards,
-Maxim G. RomanovPhD Candidate in Arabic & Islamic Studies
+   - The editor should be stable and fast.
+
+I will deeply appreciate any comments and suggestions.
+
+Best regards,
+Maxim G. Romanov
+
+PhD Candidate in Arabic & Islamic Studies
 Department of Near Eastern Studies
 University of Michigan
-Ann Arbor, MI, U.S.A.PGRpdiBkaXI9Imx0ciI+PGRpdiBjbGFzcz0iZ21haWxfcXVvdGUiPjxkaXYgZGlyPSJsdHIiPjxk
+Ann Arbor, MI, U.S.A.
+
+
+
+PGRpdiBkaXI9Imx0ciI+PGRpdiBjbGFzcz0iZ21haWxfcXVvdGUiPjxkaXYgZGlyPSJsdHIiPjxk
 aXYgY2xhc3M9ImdtYWlsX3F1b3RlIj48ZGl2IGRpcj0ibHRyIj48ZGl2IHN0eWxlPSJiYWNrZ3Jv
 dW5kLWNvbG9yOnRyYW5zcGFyZW50Ij48c3BhbiBzdHlsZT0iZm9udC1zaXplOjEycHQ7Zm9udC1m
 YW1pbHk6Q2FtYnJpYTtjb2xvcjpyZ2IoMCwgMCwgMCk7YmFja2dyb3VuZC1jb2xvcjp0cmFuc3Bh
@@ -215,4 +231,4 @@ ZWFyIEVhc3Rlcm4gU3R1ZGllczwvZm9udD48L2Rpdj4KCgoKPGRpdj48Zm9udCBzaXplPSIxIiBm
 YWNlPSJ2ZXJkYW5hLCBzYW5zLXNlcmlmIj5Vbml2ZXJzaXR5IG9mIE1pY2hpZ2FuPC9mb250Pjwv
 ZGl2PjxkaXY+PGZvbnQgc2l6ZT0iMSIgZmFjZT0idmVyZGFuYSwgc2Fucy1zZXJpZiI+QW5uIEFy
 Ym9yLCBNSSwgVS5TLkEuPC9mb250PjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2Pgo8L2Rp
-dj48YnI+PC9kaXY+Cg==
+dj48YnI+PC9kaXY+Cg

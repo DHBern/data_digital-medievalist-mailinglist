@@ -1,18 +1,32 @@
-Subject:Hi all,This is a bit of a tan, but I figure somebody may have experience with
+Subject:
+
+Hi all,
+
+This is a bit of a tan, but I figure somebody may have experience with
 this. Currently I keep my office, home office, and notebook computer
 synched using an rsynch script that I run each time I log on and log
 out: what happens is that when I run the log-in script, I collect the
 files from my base computer (the one that is backed up) and when I run
 the log out script, I update the files on the base computer from
-whichevery one I am using.The problem is that sometimes I forget to run either one or the other of
+whichevery one I am using.
+
+The problem is that sometimes I forget to run either one or the other of
 the scripts and I endup losing data: mostly this affects my locally
-archived mail.I was looking into rsynch further, and began to wonder if I used it with
+archived mail.
+
+I was looking into rsynch further, and began to wonder if I used it with
 the -u option (this prevents rsych from over writing is the target file
 is newer) if I might not be able to set up a system where the remote
 computers rsynched to the base computer constantly (i.e. I would set up
 a cron job so that rysnch was run on the remote computer with the -u
-option every five minutes or hour or something similar).Has anybody tried anything like this? The trouble with rsynch always is
-that if you mess it up it starts knocking giant holes in your data.-dan-- 
+option every five minutes or hour or something similar).
+
+Has anybody tried anything like this? The trouble with rsynch always is
+that if you mess it up it starts knocking giant holes in your data.
+
+-dan
+
+-- 
 Daniel Paul O'Donnell, PhD
 Chair, Text Encoding Initiative <http://www.tei-c.org/>
 Director, Digital Medievalist Project <http://www.digitalmedievalist.org/>
@@ -21,4 +35,7 @@ University of Lethbridge
 Lethbridge AB T1K 3M4
 Vox: +1 403 329 2378
 Fax: +1 403 382-7191
-Homepage: http://people.uleth.ca/~daniel.odonnell/
+Homepage: http://people.uleth.ca/~daniel.odonnell/
+
+
+

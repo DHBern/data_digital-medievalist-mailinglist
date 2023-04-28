@@ -1,127 +1,82 @@
-Subject: [dm-l] Call for Papers: Workshop on Corpus-based Research in the---- Workshop on Corpus-based Research in the Humanities (CRH) with a special=
- focus on space and time annotations ----
-** Vienna (Austria) January 25-26, 2018 **web: http://www.oeaw.ac.at/ac/crh2/ <http://www.oeaw.ac.at/ac/crh2/>The Workshop on "Corpus-based Research in the Humanities" (CRH) brings togeth=
-er those areas of Computational Linguistics and the Humanities that share an =
-interest in the building, managing and analysis of text corpora. The edition =
-of this year has a specific focus on time and space annotation in textual dat=
-a, backed by a keynote speaker with special interest in this aspect of corpus=
- management.
-=20
-The second edition of CRH will be held in Vienna (Austria) on January 25th-26=
-th 2018 and will be hosted Austrian Academy of Sciences, University of Vienna=
- and Technische Universitaet Wien.
-=20
-The series of the CRH workshops continues that of the workshop on "Annotation=
- of Corpora for Research in the Humanities" (ACRH), the three editions of whi=
-ch were held respectively in 2011 (Heidelberg, Germany), 2012 (Lisbon, Portug=
-al) and 2013 (Sofia, Bulgaria). The first CRH was held in Warsaw (Poland) in =
-2015.=20Submissions of long abstracts for oral presentations and posters (with or wit=
-hout demonstrations) featuring high quality and previously unpublished resear=
-ch are invited on the following TOPICS:=20- specific issues related to the annotation of corpora for research in the Hu=
-manities (annotation schemes and principles), with special interest in space =
-and time annotations
+Subject: [dm-l] Call for Papers: Workshop on Corpus-based Research in the
+
+---- Workshop on Corpus-based Research in the Humanities (CRH) with a special focus on space and time annotations ----
+** Vienna (Austria) January 25-26, 2018 **
+
+web: http://www.oeaw.ac.at/ac/crh2/ <http://www.oeaw.ac.at/ac/crh2/>
+
+The Workshop on "Corpus-based Research in the Humanities" (CRH) brings together those areas of Computational Linguistics and the Humanities that share an interest in the building, managing and analysis of text corpora. The edition of this year has a specific focus on time and space annotation in textual data, backed by a keynote speaker with special interest in this aspect of corpus management.
+ 
+The second edition of CRH will be held in Vienna (Austria) on January 25th-26th 2018 and will be hosted Austrian Academy of Sciences, University of Vienna and Technische Universitaet Wien.
+ 
+The series of the CRH workshops continues that of the workshop on "Annotation of Corpora for Research in the Humanities" (ACRH), the three editions of which were held respectively in 2011 (Heidelberg, Germany), 2012 (Lisbon, Portugal) and 2013 (Sofia, Bulgaria). The first CRH was held in Warsaw (Poland) in 2015. 
+
+Submissions of long abstracts for oral presentations and posters (with or without demonstrations) featuring high quality and previously unpublished research are invited on the following TOPICS: 
+
+- specific issues related to the annotation of corpora for research in the Humanities (annotation schemes and principles), with special interest in space and time annotations
 - corpora as a basis for research in the Humanities
 - diachronic, historical and literary corpora
 - use of corpora for stylometrics and authorship attribution
-- philological issues, like different readings, textual variants, apparatus, =
-non-standard orthography and spelling variation
+- philological issues, like different readings, textual variants, apparatus, non-standard orthography and spelling variation
 - adaptation of NLP tools for older language varieties
-- integration of corpora for the Humanities into language resources infrastru=
-ctures
+- integration of corpora for the Humanities into language resources infrastructures
 - tools for building and accessing corpora for the Humanities
-- examples of fruitful collaboration between Computational Linguistics and Hu=
-manities in building and exploiting corpora
-- theoretical aspects of the use of empirical evidence provided by corpora in=
- the HumanitiesThis year, CRH will have a SPECIAL TOPIC concerning time and space annotation=
- in textual data. Submissions with this focus are especially encouraged.=20Contributions reporting results from completed as well as ongoing research ar=
-e welcome. They will be evaluated on novelty of approach and methods, whether=
- descriptive, theoretical, formal or computational.=20The proceedings will be published in time for the workshop. They will be co-e=
-dited by Andrew Frank, Christine Ivanovic, Francesco Mambrini, Marco Passarot=
-ti and Caroline Sporleder.
+- examples of fruitful collaboration between Computational Linguistics and Humanities in building and exploiting corpora
+- theoretical aspects of the use of empirical evidence provided by corpora in the Humanities
+
+This year, CRH will have a SPECIAL TOPIC concerning time and space annotation in textual data. Submissions with this focus are especially encouraged. 
+
+Contributions reporting results from completed as well as ongoing research are welcome. They will be evaluated on novelty of approach and methods, whether descriptive, theoretical, formal or computational. 
+
+The proceedings will be published in time for the workshop. They will be co-edited by Andrew Frank, Christine Ivanovic, Francesco Mambrini, Marco Passarotti and Caroline Sporleder.
+
 MOTIVATION AND AIMS
-Research in the Humanities is predominantly text-based. For centuries scholar=
-s have studied documents such as historical manuscripts, literary works, lega=
-l contracts, diaries of important personalities, old tax records etc. Large a=
-mounts of such documents exist and are increasingly available in digital form=
-. This has a potentially profound impact on how research is conducted in the =
-Humanities.
-Digitised sources allowing scholars to analyse texts quicker and more systema=
-tically.=20Digital data can also be (semi-)automatically mined: important facts and inte=
-rdependencies can be detected, complex statistics can be calculated. Analysis=
- of locations and time in documents is often crucial to understand and visual=
-ize trends. Results can be visualised and presented to the scholars, who can =
-then delve further into the data for verification and deeper analysis.=20Digitisation encourages empirical research, opening the road for completely n=
-ew research paradigms that exploit `big data' for humanities research. Digiti=
-sation is only a first step, however. In their raw form, electronic corpora a=
-re of limited use to humanities researchers. Corpus annotation can build on a=
- long tradition in (corpus) linguistics and computational linguistics but the=
- true potential of such resources is only unlocked if corpora are enriched wi=
-th different layers of linguistic annotation (ranging from morphology to sema=
-ntics, including location and time).=20The CRH workshop aims at building a tighter collaboration between people work=
-ing in various areas of the Humanities (such as literature, philology, histor=
-y, translational studies etc.) and the research community involved in develop=
-ing, using and making accessible different kinds of corpora. A gap exists bet=
-ween computational linguists (who sometimes do not involve humanists in devel=
-oping and exploiting corpora for the Humanities) and humanists (who sometimes=
- just aren't aware that such corpora do exist and that automatic methods and =
-standards to build and use them are today available).
-Over the past few years a number of historical annotated corpora have been st=
-arted, among which are treebanks for Middle, Early Modern and Old English, Ea=
-rly New High German, Medieval Portuguese, Ugaritic, Latin, Ancient Greek and =
-several translations of the New Testament into Indo-European languages. The e=
-xperience of these ever-growing set of projects can provide many suggestions =
-on the methodology as well as on the practice of interaction between literary=
- studies, philology and corpus linguistics.
+Research in the Humanities is predominantly text-based. For centuries scholars have studied documents such as historical manuscripts, literary works, legal contracts, diaries of important personalities, old tax records etc. Large amounts of such documents exist and are increasingly available in digital form. This has a potentially profound impact on how research is conducted in the Humanities.
+Digitised sources allowing scholars to analyse texts quicker and more systematically. 
+
+Digital data can also be (semi-)automatically mined: important facts and interdependencies can be detected, complex statistics can be calculated. Analysis of locations and time in documents is often crucial to understand and visualize trends. Results can be visualised and presented to the scholars, who can then delve further into the data for verification and deeper analysis. 
+
+Digitisation encourages empirical research, opening the road for completely new research paradigms that exploit `big data' for humanities research. Digitisation is only a first step, however. In their raw form, electronic corpora are of limited use to humanities researchers. Corpus annotation can build on a long tradition in (corpus) linguistics and computational linguistics but the true potential of such resources is only unlocked if corpora are enriched with different layers of linguistic annotation (ranging from morphology to semantics, including location and time). 
+
+The CRH workshop aims at building a tighter collaboration between people working in various areas of the Humanities (such as literature, philology, history, translational studies etc.) and the research community involved in developing, using and making accessible different kinds of corpora. A gap exists between computational linguists (who sometimes do not involve humanists in developing and exploiting corpora for the Humanities) and humanists (who sometimes just aren't aware that such corpora do exist and that automatic methods and standards to build and use them are today available).
+Over the past few years a number of historical annotated corpora have been started, among which are treebanks for Middle, Early Modern and Old English, Early New High German, Medieval Portuguese, Ugaritic, Latin, Ancient Greek and several translations of the New Testament into Indo-European languages. The experience of these ever-growing set of projects can provide many suggestions on the methodology as well as on the practice of interaction between literary studies, philology and corpus linguistics.
+
 INVITED SPEAKERS
-- Tara L. Andrews, University of Wien, Austria (http://www.univie.ac.at/Gesch=
-ichte/htdocs2/site/arti.php/91079 <http://www.univie.ac.at/Geschichte/htdocs2=
-/site/arti.php/91079>)
-- James Pustejovsky, Brandeis University, MA, USA (http://jamespusto.com/ <ht=
-tp://jamespusto.com/>)
+- Tara L. Andrews, University of Wien, Austria (http://www.univie.ac.at/Geschichte/htdocs2/site/arti.php/91079 <http://www.univie.ac.at/Geschichte/htdocs2/site/arti.php/91079>)
+- James Pustejovsky, Brandeis University, MA, USA (http://jamespusto.com/ <http://jamespusto.com/>)
+
 IMPORTANT DATES
 Deadlines :
 - Abstract submission: 8 October 2017
 - Notification of acceptance: 5 November 2017
 - Final version of paper: 3 December 2017
-- Workshop: 25-26 January 2018
+- Workshop: 25-26 January 2018
+
 INSTRUCTIONS FOR SUBMISSION
-We invite to submit long abstracts describing original, unpublished research =
-related to the topics of the workshop as PDF. Abstracts should not exceed 6 p=
-ages (references included) and written in English.
-Submissions have to be made via the EasyChair page of the workshop at https:/=
-/easychair.org/conferences/?conf=3Dcrh2 <https://easychair.org/conferences/?c=
-onf=3Dcrh2> (requires prior registration with EasyChair).
-The style guidelines can be found here: http://www.oeaw.ac.at/forschung-insti=
-tute/biblio/academiae-corpora/ac/crh2/authors-kit/ <http://www.oeaw.ac.at/for=
-schung-institute/biblio/academiae-corpora/ac/crh2/authors-kit/>.Reviewing will be double-blind; therefore, the abstract should not include th=
-e authors' names and affiliations or any references to web-sites, project nam=
-es etc. revealing the authors' identity. Furthermore, any self-reference shou=
-ld be avoided. For instance, instead of "We previously showed (Brown, 2001)..=
-.", use citations such as "Brown previously showed (Brown, 2001)...". Each su=
-bmitted abstract will be reviewed by three members of the program committee.Submitted abstracts can be for oral or poster presentations (possibly with de=
-mo). There is no difference between the different kinds of presentation both =
-in terms of reviewing process and publication in the proceedings (the limit o=
-f 6 pages holds for both abstracts intended for oral and poster presentations=
-).The authors of the accepted abstracts will be required to submit the full ver=
-sion of their paper, which may be extended up to 10 pages (references include=
-d).
+We invite to submit long abstracts describing original, unpublished research related to the topics of the workshop as PDF. Abstracts should not exceed 6 pages (references included) and written in English.
+Submissions have to be made via the EasyChair page of the workshop at https://easychair.org/conferences/?conf=crh2 <https://easychair.org/conferences/?conf=crh2> (requires prior registration with EasyChair).
+The style guidelines can be found here: http://www.oeaw.ac.at/forschung-institute/biblio/academiae-corpora/ac/crh2/authors-kit/ <http://www.oeaw.ac.at/forschung-institute/biblio/academiae-corpora/ac/crh2/authors-kit/>.
+
+Reviewing will be double-blind; therefore, the abstract should not include the authors' names and affiliations or any references to web-sites, project names etc. revealing the authors' identity. Furthermore, any self-reference should be avoided. For instance, instead of "We previously showed (Brown, 2001)...", use citations such as "Brown previously showed (Brown, 2001)...". Each submitted abstract will be reviewed by three members of the program committee.
+
+Submitted abstracts can be for oral or poster presentations (possibly with demo). There is no difference between the different kinds of presentation both in terms of reviewing process and publication in the proceedings (the limit of 6 pages holds for both abstracts intended for oral and poster presentations).
+
+The authors of the accepted abstracts will be required to submit the full version of their paper, which may be extended up to 10 pages (references included).
+
 PRESENTATIONS
-The oral presentations at the workshop will be 30 minutes long (25 minutes fo=
-r presentation and 5 minutes for questions and discussion).
-Depending on the number of submissions, a poster session might be organised a=
-s well.
+The oral presentations at the workshop will be 30 minutes long (25 minutes for presentation and 5 minutes for questions and discussion).
+Depending on the number of submissions, a poster session might be organised as well.
+
 SPECIAL SOCIAL EVENT
-On the night of 25 January, the TU WIen organizes their TU-Ball at the imperi=
-al Hofburg (http://www.tu-ball.at/en/home/ <http://www.tu-ball.at/en/home/>).=
- Participants may take part in this unique festivity (details later). Do not =
-miss such an opportunity to participate in this highlight of the Viennese bal=
-l season!
+On the night of 25 January, the TU WIen organizes their TU-Ball at the imperial Hofburg (http://www.tu-ball.at/en/home/ <http://www.tu-ball.at/en/home/>). Participants may take part in this unique festivity (details later). Do not miss such an opportunity to participate in this highlight of the Viennese ball season!
+
 PROGRAM COMMITTEE CHAIRS
-Francesco Mambrini (Deutsches Arch=C3=A4ologisches Institut, Berlin, Germany)
-Marco Passarotti (Universit=C3=A0 Cattolica del Sacro Cuore, Milan, Italy)
-Caroline Sporleder (University of G=C3=B6ttingen, Germany)
+Francesco Mambrini (Deutsches Archäologisches Institut, Berlin, Germany)
+Marco Passarotti (Università Cattolica del Sacro Cuore, Milan, Italy)
+Caroline Sporleder (University of Göttingen, Germany)
+
 PROGRAM COMMITTEE MEMBERS
-John A. Bateman (Germany)=20
+John A. Bateman (Germany) 
 Gerhard Budin (Austria)
 Giuseppe Celano (Germany)
 Arianna Ciula (UK)
@@ -136,7 +91,7 @@ Christine Ivanovic (Austria)
 Mike Kestemont (Belgium)
 Puneet Kishor (Germany)
 Dimitrios Kokkinakis (Sweden)
-Sandra K=C3=BCbler (USA)
+Sandra Kübler (USA)
 Werner Kuhn (USA)
 Yudong Liu (USA)
 Melanie Malzahn (Austria)
@@ -153,12 +108,18 @@ Uwe Springmann (Germany)
 Martin Thiering (Germany)
 Sara Tonelli (Italy)
 Martin Wynne (UK)
-Amir Zeldes (USA)LOCAL ORGANISATION
+Amir Zeldes (USA)
+
+LOCAL ORGANISATION
 Hanno Biber
 Andreas Dittrich
 Andrew Frank
 Katharina Godler
-Christine IvanovicPGh0bWw+PGJvZHkgc3R5bGU9IndvcmQtd3JhcDogYnJlYWstd29yZDsgLXdlYmtpdC1uYnNwLW1v
+Christine Ivanovic
+
+
+
+PGh0bWw+PGJvZHkgc3R5bGU9IndvcmQtd3JhcDogYnJlYWstd29yZDsgLXdlYmtpdC1uYnNwLW1v
 ZGU6IHNwYWNlOyAtd2Via2l0LWxpbmUtYnJlYWs6IGFmdGVyLXdoaXRlLXNwYWNlOyIgY2xhc3M9
 IiI+PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OiBDYWxpYnJpLCBBcmlhbCwgSGVsdmV0aWNhLCBz
 YW5zLXNlcmlmOyBmb250LXNpemU6IDE2cHg7IiBjbGFzcz0iIj4tLS0tIFdvcmtzaG9wIG9uIENv
@@ -695,4 +656,4 @@ Zm9udC1zaXplOiAxNnB4OyIgY2xhc3M9IiI+S2F0aGFyaW5hIEdvZGxlcjwvc3Bhbj48YnIgc3R5
 bGU9ImZvbnQtZmFtaWx5OiBDYWxpYnJpLCBBcmlhbCwgSGVsdmV0aWNhLCBzYW5zLXNlcmlmOyBm
 b250LXNpemU6IDE2cHg7IiBjbGFzcz0iIj48c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6IENhbGli
 cmksIEFyaWFsLCBIZWx2ZXRpY2EsIHNhbnMtc2VyaWY7IGZvbnQtc2l6ZTogMTZweDsiIGNsYXNz
-PSIiPkNocmlzdGluZSBJdmFub3ZpYzwvc3Bhbj48L2JvZHk+PC9odG1sPg==
+PSIiPkNocmlzdGluZSBJdmFub3ZpYzwvc3Bhbj48L2JvZHk+PC9odG1sPg

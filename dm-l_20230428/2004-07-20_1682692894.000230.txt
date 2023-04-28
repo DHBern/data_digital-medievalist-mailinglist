@@ -1,21 +1,41 @@
-Subject: Re: [dm-l] Re: Exeter Book CD: for free?
-On Jul 20, 2004, at 7:35 AM, Peter Baker wrote:> Well, it adds value for most. Not for me, since I run Linux. Not for 
+Subject: Re: [dm-l] Re: Exeter Book CD: for free?
+
+On Jul 20, 2004, at 7:35 AM, Peter Baker wrote:
+
+> Well, it adds value for most. Not for me, since I run Linux. Not for 
 > the large numbers of medievalists who run Mac OS X. I think it a 
 > really dreadful mistake to use MS's extensions to JavaScript, forcing 
-> people to use The Worst Browser Now Available.this is exactly the kind of problem we were going around about a few 
+> people to use The Worst Browser Now Available.
+
+this is exactly the kind of problem we were going around about a few 
 weeks ago. pegging your applications and content to proprietary 
 technology leaves you exposed when that technology turns out to be so 
 problematic that people are starting to abandon it, as is the case now 
-with IE and its security issues.on the other hand, if you're building according to standards, when one 
+with IE and its security issues.
+
+on the other hand, if you're building according to standards, when one 
 browser turns out to be so problematic that people abandon it, they can 
 still use your app on their new standards-compliant browser. and you 
 don't force people who use a different OS to use two or more different 
 computers. of course, if you have a captive audience, you can force 
-people to do a lot of things.interestingly, it looks like it's just possible that Apple is 
+people to do a lot of things.
+
+interestingly, it looks like it's just possible that Apple is 
 cooperating with Mozilla and Opera in developing a standards-compliant 
 version of something like ActiveX. The following, posted this morning 
 to an information architects mailing list, may be of interest to this 
-group:http://homepage.mac.com/jhobbs/essays/in any case, the idea is a good one, imo.jjeffrey fisher
+group:
+
+http://homepage.mac.com/jhobbs/essays/
+
+in any case, the idea is a good one, imo.
+
+j
+
+jeffrey fisher
 ass't professor
 religious studies and philosophy
-bethany college, wv
+bethany college, wv
+
+
+

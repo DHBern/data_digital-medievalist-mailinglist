@@ -1,4 +1,6 @@
-Subject: [dm-l] Junicode 0.6.15I didn't want to release a new version of Junicode till I had completed 
+Subject: [dm-l] Junicode 0.6.15
+
+I didn't want to release a new version of Junicode till I had completed 
 the MUFI spec in the Regular face, but I needed to fix a bug. If you 
 have seen problems with the BoldItalic face in OpenOffice for Windows, 
 you may want to get the new version. Or pick it up if you are desperate 
@@ -6,4 +8,11 @@ for MUFI abbreviations and punctuation that were not yet in 0.6.14. Or
 if you have been dissatisfied with the look of F109, rounded d. This 
 release also contains a file, aelfric_job.pdf, that illustrates certain 
 typographical niceties especially for Old English (and Old Icelandic), 
-available if you use advanced applications like XeTeX and InDesign.I forgot to release a source package for 0.6.14, but I will do that shortly.Peter
+available if you use advanced applications like XeTeX and InDesign.
+
+I forgot to release a source package for 0.6.14, but I will do that shortly.
+
+Peter
+
+
+

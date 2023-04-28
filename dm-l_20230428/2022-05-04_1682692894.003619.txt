@@ -1,50 +1,65 @@
-Subject: [dm-l] Improving HTR output from Greek papyri and ByzantineDear digital medievalists, dear AI crowd,Training material has been released for preparation of the HTREC 2022 challen=
-ge, 1-8 June 2022, to improve Artificial Intelligence driven text recognition=
- from Greek papyri and Byzantine manuscripts! - An AI crowd challenge organis=
-ed by the Venice Centre for Digital and Public Humanities (VeDPH), Ca' Foscar=
-i University of Venice. See: https://www.aicrowd.com/challenges/htrec-2022Handwritten text recognition (HTR) concerns the conversion of scanned images =
-of handwritten text into machine-encoded text. This is a challenging task tha=
-t can lead to transcribed text with multiple errors or even to no transcripti=
-on at all when training data (e.g., on a specific script) are not available. =
-This challenge aims to post-correct automatically any HTR transcription error=
-s, attempting to build on recent NLP advances, such as on Grammatical Error C=
-orrection.Why Is This Challenge Important?New, unpublished data will be released with this challenge and the state of t=
-he art in the field will be drawn. A workshop, that will take place in Venice=
- in November
-2022, will discuss the results.What is the dataset like?The training instances consist of images of handwritten texts that have been =
-transcribed by human experts (the ground truth) and by a state of the art HTR=
- model (the input). The texts comprise Greek papyri and byzantine manuscripts=
-. First, more than 1,800 lines of transcribed text will be released in order =
-to serve as training and validation data. The use of other resources for trai=
-ning is allowed and suggested. Next, an evaluation set will be released, for =
-which we will only share the input. A very small part of the evaluation set i=
-s used to keep an up to date leaderboard.What Are The Key Tasks?The task involves the correction of any errors present in the HTR-ed text, pr=
-ovided the system transcription of the manuscript in question. The ground tru=
-th of the evaluation set is used to score participating systems in terms of c=
-haracter error *reduction* rate (CERR). A starter kit notebook is  provided h=
-ere  to assist with system development and evaluation.Prizes!The Participant with the best performing system will be invited to attend a w=
-orkshop in Venice, upon the completion of the challenge, and present the resp=
-ective system description paper with all expenses covered.TimelineTraining data release date: May 1st, 2022
+Subject: [dm-l] Improving HTR output from Greek papyri and Byzantine
+
+Dear digital medievalists, dear AI crowd,
+
+Training material has been released for preparation of the HTREC 2022 challenge, 1-8 June 2022, to improve Artificial Intelligence driven text recognition from Greek papyri and Byzantine manuscripts! - An AI crowd challenge organised by the Venice Centre for Digital and Public Humanities (VeDPH), Ca' Foscari University of Venice. See: https://www.aicrowd.com/challenges/htrec-2022
+
+Handwritten text recognition (HTR) concerns the conversion of scanned images of handwritten text into machine-encoded text. This is a challenging task that can lead to transcribed text with multiple errors or even to no transcription at all when training data (e.g., on a specific script) are not available. This challenge aims to post-correct automatically any HTR transcription errors, attempting to build on recent NLP advances, such as on Grammatical Error Correction.
+
+Why Is This Challenge Important?
+
+New, unpublished data will be released with this challenge and the state of the art in the field will be drawn. A workshop, that will take place in Venice in November
+2022, will discuss the results.
+
+What is the dataset like?
+
+The training instances consist of images of handwritten texts that have been transcribed by human experts (the ground truth) and by a state of the art HTR model (the input). The texts comprise Greek papyri and byzantine manuscripts. First, more than 1,800 lines of transcribed text will be released in order to serve as training and validation data. The use of other resources for training is allowed and suggested. Next, an evaluation set will be released, for which we will only share the input. A very small part of the evaluation set is used to keep an up to date leaderboard.
+
+What Are The Key Tasks?
+
+The task involves the correction of any errors present in the HTR-ed text, provided the system transcription of the manuscript in question. The ground truth of the evaluation set is used to score participating systems in terms of character error *reduction* rate (CERR). A starter kit notebook is  provided here  to assist with system development and evaluation.
+
+Prizes!
+
+The Participant with the best performing system will be invited to attend a workshop in Venice, upon the completion of the challenge, and present the respective system description paper with all expenses covered.
+
+Timeline
+
+Training data release date: May 1st, 2022
 Evaluation data release date: June 1st, 2022
 Predictions submission deadline: 11:59, June 8th, 2022
 Rankings release date: July 1st, 2022
 System description paper submission deadline: 11:59 September 1st, 2022
 Best system description paper announced: October 1st, 2022
-Workshop: November 7th & 8th, 2022, Venice, ItalyAll deadlines are in UTC -12h timezone (anywhere on planet earth).Best of luck!
-Franz--Franz Fischer
+Workshop: November 7th & 8th, 2022, Venice, Italy
+
+All deadlines are in UTC -12h timezone (anywhere on planet earth).
+
+Best of luck!
+Franz
+
+--
+
+Franz Fischer
 Direttore, Venice Centre for Digital & Public Humanities (VeDPH)
 Dipartimento di Studi Umanistici
-Universit=C3=A0 Ca' Foscari
-Palazzo Malcanton Marcor=C3=A0
-Dorsoduro 3484/D - 30123 VeneziaTel.: +39 041 234 6266 (ufficio), +39 041 234 9863 (segreteria del centro)
+Università Ca' Foscari
+Palazzo Malcanton Marcorà
+Dorsoduro 3484/D - 30123 Venezia
+
+Tel.: +39 041 234 6266 (ufficio), +39 041 234 9863 (segreteria del centro)
 https://www.unive.it/vedph
 https://www.i-d-e.de/
-https://journal.digitalmedievalist.org/
---===============1599804739200226553==
-Content-Type: text/html
+https://journal.digitalmedievalist.org/
+
+
+
+--1599804739200226553Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
+Content-Disposition: attachment; filename�ttachment.html"
+MIME-Version: 1.0
+
+PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
 eHQvaHRtbDsgY2hhcnNldD11dGYtOCI+CjwvaGVhZD4KPGJvZHk+CjxkaXYgc3R5bGU9ImJvcmRl
 cjpzb2xpZCAjNjQ2NDY0IDEuMHB0O3BhZGRpbmc6Mi4wcHQgMi4wcHQgMi4wcHQgMi4wcHQ7YmFj
 a2dyb3VuZDojRkZFQjlDIj4KPHAgY2xhc3M9Ik1zb05vcm1hbCIgc3R5bGU9ImxpbmUtaGVpZ2h0
@@ -125,4 +140,4 @@ ZS88L2E+PGJyPjxhIGhyZWY9Imh0dHBzOi8vam91cm5hbC5kaWdpdGFsbWVkaWV2YWxpc3Qub3Jn
 LyIgdGFyZ2V0PSJfYmxhbmsiPmh0dHBzOi8vam91cm5hbC5kaWdpdGFsbWVkaWV2YWxpc3Qub3Jn
 LzwvYT48YnI+PC9wcmU+CjxkaXY+PHNwYW4+PGJyPgo8L3NwYW4+PC9kaXY+CjxkaXY+PHNwYW4+
 PC9zcGFuPjwvZGl2Pgo8L2Rpdj4KPC9kaXY+CjwvZGl2Pgo8L2Rpdj4KPC9kaXY+CjwvZGl2Pgo8
-L2Rpdj4KPC9kaXY+CjwvZGl2Pgo8L2Rpdj4KPC9ib2R5Pgo8L2h0bWw+Cg==
+L2Rpdj4KPC9kaXY+CjwvZGl2Pgo8L2Rpdj4KPC9ib2R5Pgo8L2h0bWw+Cg

@@ -1,4 +1,6 @@
-Subject: [dm-l] tex, unicode, etc> > I won't try to cover any of the ground that John
+Subject: [dm-l] tex, unicode, etc
+
+> > I won't try to cover any of the ground that John
 > McChesney-Young has
 > > covered in his post, except to say that that is also my
 > sense of the
@@ -6,10 +8,12 @@ Subject: [dm-l] tex, unicode, etc> > I won't try to cover any of the ground th
 > > Unicode/OpenType fonts are not natively supported. To judge
 > from its
 > > website the promising Omega project seems to have stalled.
->To follow this up: on at least one operating system, matters are rather
+>
+
+To follow this up: on at least one operating system, matters are rather
 different.  In Mac OS X, there is a quite wonderful TeX implementation
 named XeTeX: go see
-http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=xetex.  This
+http://scripts.sil.org/cms/scripts/page.php?site_idsi&idþtex.  This
 does Utf-8 right out of the box -- CJK, Thai (with hyphenation tables
 even!!), Arabic, Mongolian, polytonic greek, just anything as far as I can
 see.  It also seems to work nicely with OpenType font families, etc.  It
@@ -20,7 +24,9 @@ have to install the full TeX, XeTeX, and a graphic UI, TeXShop (which
 creates pdfs straight out of the TeX, which is very cool), but all this is
 nicely explained on the XeTeX site.  I don't yet know whether XeTeX works
 ok with the EDMAC critical edition macros, but there's no reason why it
-should not.I'd have to say that TeX is still, after all these years, just the best
+should not.
+
+I'd have to say that TeX is still, after all these years, just the best
 typesetting system I have seen. I agree with Dan, that it is annoying in
 that appartently simple things (changing page sizes!) can be hard to do in
 TeX.  But boy, does it make up for it in its power to make really complex,
@@ -31,4 +37,7 @@ the xml into tex source, and away we go (as always, we have to do dicy
 things like make up pages from bits of other pages mosaiced together, with
 lots of text bounded by empty elements, so XSL does not cut it for us).
 all the best
-Peter
+Peter
+
+
+

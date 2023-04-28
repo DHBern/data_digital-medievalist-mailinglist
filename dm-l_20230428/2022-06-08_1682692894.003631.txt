@@ -1,33 +1,29 @@
-Subject: [dm-l] PhD position in digital palaeographyDear colleagues and friends,the French National Research Center is opening a position for a PhD candidate=
- in digital paleography. Applications are to be submitted by June 24th, 2022 =
-for a start in the autumn 2022. The PhD candidate will work in the context of=
- an interdisciplinary research project of the IRHT (Institute for Research an=
-d History of Texts, CNRS UPR841)<https://www.irht.cnrs.fr/> and the Laboratoi=
-re d=E2=80=99Informatique Gaspard Monge<https://siteigm.univ-mlv.fr/> (CNRS U=
-MR8049)<https://siteigm.univ-mlv.fr/> . The PhD candidate will be supervised =
-by myself as a primary supervisor and Mathieu Aubry as co-supervisor.This research will aim at studying the creation and formal developments of si=
-gns used in the Middle Ages for the Latin scripts, and at understanding their=
- correlations. The historical and paleographical research will be supported b=
-y artificial vision (Artificial intelligence based image analysis) and this r=
-esearch will contribute to the developments of dedicated tools.More infos and application: https://emploi.cnrs.fr/Offres/Doctorant/UPR841-DO=
-MSTU-008/Default.aspx (French and English)Please share and distribute!Kind regards,
-Dominique Stutzmann
+Subject: [dm-l] PhD position in digital palaeography
+
+Dear colleagues and friends,
+
+the French National Research Center is opening a position for a PhD candidate in digital paleography. Applications are to be submitted by June 24th, 2022 for a start in the autumn 2022. The PhD candidate will work in the context of an interdisciplinary research project of the IRHT (Institute for Research and History of Texts, CNRS UPR841)<https://www.irht.cnrs.fr/> and the Laboratoire d’Informatique Gaspard Monge<https://siteigm.univ-mlv.fr/> (CNRS UMR8049)<https://siteigm.univ-mlv.fr/> . The PhD candidate will be supervised by myself as a primary supervisor and Mathieu Aubry as co-supervisor.
+
+This research will aim at studying the creation and formal developments of signs used in the Middle Ages for the Latin scripts, and at understanding their correlations. The historical and paleographical research will be supported by artificial vision (Artificial intelligence based image analysis) and this research will contribute to the developments of dedicated tools.
+
+More infos and application: https://emploi.cnrs.fr/Offres/Doctorant/UPR841-DOMSTU-008/Default.aspx (French and English)
+
+Please share and distribute!
+
+Kind regards,
+Dominique Stutzmann
+
 -- Dr. Dominique Stutzmann
 Directeur de recherche / Director of research (CNRS)
-Responsable de la section de Pal=C3=A9ographie latine / Head of the dpt for L=
-atin palaeography, IRHT-CNRS
-Moteur de recherche plein texte dans les registres du Tr=C3=A9sor des Chartes=
- (1302-1483) / Full text search engine for the registers of the French royal =
-Chancery (1302-1483)  : HIMANIS<http://himanis.huma-num.fr/himanis/>
-Base de donn=C3=A9es des =C5=93uvres latines =C3=A0 succ=C3=A8s / Database of=
- Latin bestsellers : FAMA Fama Auctorum Medii Aevi<http://fama.irht.cnrs.fr/>
-Manuscrits et inventaires de la biblioth=C3=A8que de l'abbaye de Saint-Bertin=
-<https://saint-bertin.irht.cnrs.fr/> /  Manuscripts and inventories from the =
-library of Saint-Bertin abbey<https://saint-bertin.irht.cnrs.fr/> /
-Ressources pour l'analyse d'images des manuscrits m=C3=A9di=C3=A9vaux par ord=
-inateur / Resources for computer-based image analysis of medieval manuscripts=
- : Classification of Medieval Handwritings in Latin Script<https://clamm.irht=
-.cnrs.fr/>PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
+Responsable de la section de Paléographie latine / Head of the dpt for Latin palaeography, IRHT-CNRS
+Moteur de recherche plein texte dans les registres du Trésor des Chartes (1302-1483) / Full text search engine for the registers of the French royal Chancery (1302-1483)  : HIMANIS<http://himanis.huma-num.fr/himanis/>
+Base de données des œuvres latines à succès / Database of Latin bestsellers : FAMA Fama Auctorum Medii Aevi<http://fama.irht.cnrs.fr/>
+Manuscrits et inventaires de la bibliothèque de l'abbaye de Saint-Bertin<https://saint-bertin.irht.cnrs.fr/> /  Manuscripts and inventories from the library of Saint-Bertin abbey<https://saint-bertin.irht.cnrs.fr/> /
+Ressources pour l'analyse d'images des manuscrits médiévaux par ordinateur / Resources for computer-based image analysis of medieval manuscripts : Classification of Medieval Handwritings in Latin Script<https://clamm.irht.cnrs.fr/>
+
+
+
+PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
 eHQvaHRtbDsgY2hhcnNldD11dGYtOCI+CjwvaGVhZD4KPGJvZHk+CjxkaXYgc3R5bGU9ImJvcmRl
 cjpzb2xpZCAjNjQ2NDY0IDEuMHB0O3BhZGRpbmc6Mi4wcHQgMi4wcHQgMi4wcHQgMi4wcHQ7YmFj
 a2dyb3VuZDojRkZFQjlDIj4KPHAgY2xhc3M9Ik1zb05vcm1hbCIgc3R5bGU9ImxpbmUtaGVpZ2h0
@@ -98,4 +94,4 @@ LyBSZXNvdXJjZXMgZm9yIGNvbXB1dGVyLWJhc2VkIGltYWdlIGFuYWx5c2lzIG9mIG1lZGlldmFs
 IG1hbnVzY3JpcHRzIDoKPGEgaHJlZj0iaHR0cHM6Ly9jbGFtbS5pcmh0LmNucnMuZnIvIj5DbGFz
 c2lmaWNhdGlvbiBvZiBNZWRpZXZhbCBIYW5kd3JpdGluZ3MgaW4gTGF0aW4gU2NyaXB0PC9hPgo8
 L3RkPgo8L3RyPgo8L3Rib2R5Pgo8L3RhYmxlPgo8L3NtYWxsPjwvZGl2Pgo8L2Rpdj4KPC9ib2R5
-Pgo8L2h0bWw+Cg==
+Pgo8L2h0bWw+Cg

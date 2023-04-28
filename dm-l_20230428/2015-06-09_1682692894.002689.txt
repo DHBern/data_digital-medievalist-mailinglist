@@ -1,27 +1,28 @@
-Subject: [dm-l] Balisage Symposium: Call for Short TalksDear All,As part of the Balisage Symposium on Cultural Heritage Markup, we want to hav=
-e an "inverted" paper session where the talks are short and there is lots of =
-time for discussion and debate after each talk. I think this is going to be p=
-erhaps the most interesting session of the day, so please join in!=20Full text and submission details at http://balisage.net/CulturalHeritage/Shor=
-t-Talks-call.html=20Cultural Heritage data tend to be complex and heterogeneous; they resist gene=
-ric solutions and often push tools and standards to the edges of their capabi=
-lities. Complex problems would seem to demand complex solutions, but as Gall'=
-s Law points out: "A complex system that works is invariably found to have ev=
-olved from a simple system that worked."=20The Balisage Symposium on Cultural Heritage Markup invites proposals for shor=
-t presentations that aim to provoke discussion of how to design for and cope =
-with the complexity of Cultural Heritage materials. Do you have a markup prob=
-lem with no solution? Data too messy for your tools to handle? An ingenious s=
-olution to a hard problem involving Cultural Heritage materials? A heretical =
-point of view about existing standards and practices? We want to hear from yo=
-u!=20Presentations will be 10 minutes (or less) in length, followed by open discus=
-sion, brainstorming, support, sympathy, and advice from our audience of marku=
-p experts.To propose a short presentation for the Symposium on Cultural Heritage Markup=
-_redacted_(a)balisage.net. Proposals must be received by June 19, 20=
-15. Selection decisions will be announced by June 23, 2015.
+Subject: [dm-l] Balisage Symposium: Call for Short Talks
+
+Dear All,
+
+As part of the Balisage Symposium on Cultural Heritage Markup, we want to have an "inverted" paper session where the talks are short and there is lots of time for discussion and debate after each talk. I think this is going to be perhaps the most interesting session of the day, so please join in! 
+
+Full text and submission details at http://balisage.net/CulturalHeritage/Short-Talks-call.html 
+
+Cultural Heritage data tend to be complex and heterogeneous; they resist generic solutions and often push tools and standards to the edges of their capabilities. Complex problems would seem to demand complex solutions, but as Gall's Law points out: "A complex system that works is invariably found to have evolved from a simple system that worked." 
+
+The Balisage Symposium on Cultural Heritage Markup invites proposals for short presentations that aim to provoke discussion of how to design for and cope with the complexity of Cultural Heritage materials. Do you have a markup problem with no solution? Data too messy for your tools to handle? An ingenious solution to a hard problem involving Cultural Heritage materials? A heretical point of view about existing standards and practices? We want to hear from you! 
+
+Presentations will be 10 minutes (or less) in length, followed by open discussion, brainstorming, support, sympathy, and advice from our audience of markup experts.
+
+To propose a short presentation for the Symposium on Cultural Heritage Markup_redacted_(a)balisage.net. Proposals must be received by June 19, 2015. Selection decisions will be announced by June 23, 2015.
+
 /**
  *  Hugh A. Cayless, Ph.D
- *  Chair, TEI Technical Council=20
+ *  Chair, TEI Technical Council 
  *  Duke Collaboratory for Classics Computing (DC3)
 _redacted_(a)duke.edu
  *  http://blogs.library.duke.edu/dcthree/
-**/
---===============3945237224606381780==--
+**/
+
+
+
+--3945237224606381780-
+

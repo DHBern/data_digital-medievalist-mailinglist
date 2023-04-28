@@ -1,52 +1,86 @@
-Subject: [dm-l] Fwd: Image EncodingHi List,I don't know what kind of overlap the DM list has with the TEI list,
+Subject: [dm-l] Fwd: Image Encoding
+
+Hi List,
+
+I don't know what kind of overlap the DM list has with the TEI list,
 so apologies if this is the second time you've received this message.
 Though the issue of image encoding is of general interest to the
 electronic editing community I think it's of special interest to
-medievalists. Hope this is useful!Dot---------- Forwarded message ----------
+medievalists. Hope this is useful!
+
+Dot
+
+---------- Forwarded message ----------
 _redacted_(a)uky.edu>
 Date: Jun 8, 2006 3:29 PM
 Subject: Image Encoding
-_redacted_(a)listserv.brown.edu>
-Hello List,At the TEI Council meeting last month, Conal Tuohy and I volunteered
+_redacted_(a)listserv.brown.edu>
+
+Hello List,
+
+At the TEI Council meeting last month, Conal Tuohy and I volunteered
 to do some footwork to look at how the TEI might improve its support
 for projects that include digital images. To this end, we've posted
 some material to the wiki and we invite everyone on the list to take a
 look, make suggestions (on the list, or through editing the wiki), and
 to think about how you would like to use the TEI to support your
 projects that include digital images - and, of course, share your
-thoughts with the rest of us.Here is a page that compiles some existing approaches to image
+thoughts with the rest of us.
+
+Here is a page that compiles some existing approaches to image
 encoding: those from the current TEI P5 Guidelines, the Draft
 Recommendations for TEI Digital Facsimiles (from 2001), the methods
 used by the EPPT and the UVic Image Markup Tool, and an untested
 system using METS to link TEI and images. If your current practice
-doesn't appear on this list, please feel free to add it.http://www.tei-c.org.uk/wiki/index.php/LegacyFacsimileMarkupThe major concern for the last three approaches is how to link a
+doesn't appear on this list, please feel free to add it.
+
+http://www.tei-c.org.uk/wiki/index.php/LegacyFacsimileMarkup
+
+The major concern for the last three approaches is how to link a
 section of an image to a section of text, the coordinates of a
 bounding box to a given TEI element. The main issues here are
 1) where to store the coordinates
 2) what syntax to use for the coordinates
 3) how to link the image coordinates (and the identity of the image
-file itself) to the TEI elementSince there is already a standard for describing image information in
+file itself) to the TEI element
+
+Since there is already a standard for describing image information in
 XML, Scalable Vector Graphics (SVG), I've also compiled a page looking
 at ways to use SVG in TEI to help provide support for image encoding.
 This page also looks at ways that TEI repeats functionality in SVG and
 suggests ways that TEI might incorporate elements from the SVG
-namespace rather than using different elements in the TEI namespace.http://www.tei-c.org.uk/wiki/index.php/TEI_to_SVGBoth of these pages are still very much in draft form, but I hope that
+namespace rather than using different elements in the TEI namespace.
+
+http://www.tei-c.org.uk/wiki/index.php/TEI_to_SVG
+
+Both of these pages are still very much in draft form, but I hope that
 you find them interesting and that they are a good starting point for
-discussion.Thanks,
-Dot--
+discussion.
+
+Thanks,
+Dot
+
+--
 ***************************************
 Dot Porter, Program Coordinator
 Collaboratory for Research in Computing for Humanities
 University of Kentucky
 351 William T. Young Library
-Lexington, KY  40506_redacted_(a)uky.edu          859-257-9549
-***************************************
+Lexington, KY  40506
+
+_redacted_(a)uky.edu          859-257-9549
+***************************************
+
 -- 
 ***************************************
 Dot Porter, Program Coordinator
 Collaboratory for Research in Computing for Humanities
 University of Kentucky
 351 William T. Young Library
-Lexington, KY  40506_redacted_(a)uky.edu          859-257-9549
-***************************************
---===============5805535064050678202==--
+Lexington, KY  40506
+
+_redacted_(a)uky.edu          859-257-9549
+***************************************
+
+--5805535064050678202-
+

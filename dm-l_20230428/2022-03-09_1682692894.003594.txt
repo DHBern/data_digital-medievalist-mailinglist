@@ -1,41 +1,64 @@
-Subject: [dm-l] Five Venetian Workshops on Digital Philology and	ComputationalDear Digital Medievalists,The Venice Centre for Digital and Public Humanities is happy to announce a cy=
-cle of workshops on Digital Philology and Computational Linguistics:
-"Digital Philology meets Computational Linguistics: Methods and Resources"Workshop #1
-17 marzo, 14.30-18.00, Aula Tesa 1, CFZ, Ca' Foscari Universit=C3=A0 Venezia
-18 marzo, 9.30-13.00, Sala Morelli, DSU, Ca' Foscari Universit=C3=A0 Venezia
-Marco Passarotti e Francesco Mambrini (Universit=C3=A0 Cattolica del Sacro Cu=
-ore di Milano, ERC Project LiLa)
-La lemmatizzazione del latino. Corpora, strumenti e interoperabilit=C3=A0 in =
-Linked DataWorkshop #2
-11 maggio, 10.00-16.30, Sala Morelli, DSU, Ca' Foscari Universit=C3=A0 Venezia
+Subject: [dm-l] Five Venetian Workshops on Digital Philology and	Computational
+
+Dear Digital Medievalists,
+
+The Venice Centre for Digital and Public Humanities is happy to announce a cycle of workshops on Digital Philology and Computational Linguistics:
+"Digital Philology meets Computational Linguistics: Methods and Resources"
+
+Workshop #1
+17 marzo, 14.30-18.00, Aula Tesa 1, CFZ, Ca' Foscari Università Venezia
+18 marzo, 9.30-13.00, Sala Morelli, DSU, Ca' Foscari Università Venezia
+Marco Passarotti e Francesco Mambrini (Università Cattolica del Sacro Cuore di Milano, ERC Project LiLa)
+La lemmatizzazione del latino. Corpora, strumenti e interoperabilità in Linked Data
+
+Workshop #2
+11 maggio, 10.00-16.30, Sala Morelli, DSU, Ca' Foscari Università Venezia
 Andrea Bellandi (CNR-ILC) e Fahad Khan (CNR-ILC)
-Introduzione alla creazione e all=E2=80=99uso di ontologie per la linguistica=
- computazionale e le DHWorkshop #3
-9 giugno, 10.00-18.30, Sala Morelli, DSU, Ca' Foscari Universit=C3=A0 Venezia
+Introduzione alla creazione e all’uso di ontologie per la linguistica computazionale e le DH
+
+Workshop #3
+9 giugno, 10.00-18.30, Sala Morelli, DSU, Ca' Foscari Università Venezia
 Daria Spampinato (CNR-ISTC) e Salvatore Cristofaro (CNR-ISTC)
-Ontologie per le DH: il caso di OntoBelliniLettersWorkshop #4
-10 giugno, 10.00-18.30, Sala Morelli, DSU, Ca' Foscari Universit=C3=A0 Venezia
+Ontologie per le DH: il caso di OntoBelliniLetters
+
+Workshop #4
+10 giugno, 10.00-18.30, Sala Morelli, DSU, Ca' Foscari Università Venezia
 Daniele Metilli (CNR-ISTI)
-Approfondimenti sul Semantic WebWorkshop #5
-4 luglio, 9.30-13.00, Sala Morelli, DSU, Ca' Foscari Universit=C3=A0 Venezia
-Antonio Pascucci (Universit=C3=A0 di Napoli L=E2=80=99Orientale)
-Metodi e strumenti della Stilometria computazionaleAll workshops will be held in Italian language. They will be conducted in a h=
-ybrid format, both in presence and online.
-Details and free registration: https://www.unive.it/data/33113/2/58584On behalf of the organizers
-Franz--Franz Fischer
+Approfondimenti sul Semantic Web
+
+Workshop #5
+4 luglio, 9.30-13.00, Sala Morelli, DSU, Ca' Foscari Università Venezia
+Antonio Pascucci (Università di Napoli L’Orientale)
+Metodi e strumenti della Stilometria computazionale
+
+All workshops will be held in Italian language. They will be conducted in a hybrid format, both in presence and online.
+Details and free registration: https://www.unive.it/data/33113/2/58584
+
+On behalf of the organizers
+Franz
+
+--
+
+Franz Fischer
 Direttore, Venice Centre for Digital & Public Humanities (VeDPH)
 Dipartimento di Studi Umanistici
-Universit=C3=A0 Ca' Foscari
-Palazzo Malcanton Marcor=C3=A0
-Dorsoduro 3484/D - 30123 VeneziaTel.: +39 041 234 6266 (ufficio), +39 041 234 9863 (segreteria del centro)
+Università Ca' Foscari
+Palazzo Malcanton Marcorà
+Dorsoduro 3484/D - 30123 Venezia
+
+Tel.: +39 041 234 6266 (ufficio), +39 041 234 9863 (segreteria del centro)
 https://www.unive.it/vedph
 https://www.i-d-e.de/
-https://journal.digitalmedievalist.org/
---===============7027089118485228159==
-Content-Type: text/html
+https://journal.digitalmedievalist.org/
+
+
+
+--7027089118485228159Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
+Content-Disposition: attachment; filename�ttachment.html"
+MIME-Version: 1.0
+
+PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
 eHQvaHRtbDsgY2hhcnNldD11dGYtOCI+CjwvaGVhZD4KPGJvZHk+CjxkaXYgc3R5bGU9ImJvcmRl
 cjpzb2xpZCAjNjQ2NDY0IDEuMHB0O3BhZGRpbmc6Mi4wcHQgMi4wcHQgMi4wcHQgMi4wcHQ7YmFj
 a2dyb3VuZDojRkZFQjlDIj4KPHAgY2xhc3M9Ik1zb05vcm1hbCIgc3R5bGU9ImxpbmUtaGVpZ2h0
@@ -97,4 +120,4 @@ dHBzOi8vam91cm5hbC5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnLyIgdGFyZ2V0PSJfYmxhbmsiPmh0
 dHBzOi8vam91cm5hbC5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnLzwvYT48YnI+PC9wcmU+CjxkaXY+
 PHNwYW4+PGJyPgo8L3NwYW4+PC9kaXY+CjxkaXY+PHNwYW4+PC9zcGFuPjwvZGl2Pgo8L2Rpdj4K
 PC9kaXY+CjwvZGl2Pgo8L2Rpdj4KPC9kaXY+CjwvZGl2Pgo8L2Rpdj4KPC9kaXY+CjwvZGl2Pgo8
-L2Rpdj4KPC9ib2R5Pgo8L2h0bWw+Cg==
+L2Rpdj4KPC9ib2R5Pgo8L2h0bWw+Cg

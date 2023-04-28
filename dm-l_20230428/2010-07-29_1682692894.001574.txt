@@ -1,13 +1,11 @@
-Subject: Re: [dm-l] Zotero metadata for DM Journal?RefWorks (and Zotero)._redacted_(a)kcl.ac.uk> wrot=
-e:
+Subject: Re: [dm-l] Zotero metadata for DM Journal?
+
+RefWorks (and Zotero).
+
+_redacted_(a)kcl.ac.uk> wrote:
 > Dear Dot,
 >
-> Many thanks for that suggestion: I think it's a good one, and something we =
-should be able to include without too much trouble. As well as automatic addi=
-ng to Zotero, I think it would also be useful to add a manual 'Download to ci=
-tation manager' option, but I wonder what formats people want. Certainly Bibt=
-ex, Endnote, perhaps Delicious. Procite? Reference Manager? What else are we =
-using these days?
+> Many thanks for that suggestion: I think it's a good one, and something we should be able to include without too much trouble. As well as automatic adding to Zotero, I think it would also be useful to add a manual 'Download to citation manager' option, but I wonder what formats people want. Certainly Bibtex, Endnote, perhaps Delicious. Procite? Reference Manager? What else are we using these days?
 >
 > Peter
 >
@@ -27,11 +25,7 @@ using these days?
 >
 >> A public note to the DM Editors:
 >>
->> I am just starting to use Zotero and I'd like to include my favorite onlin=
-e sources, including the DM journal. However, I don't have the =C2=A0option o=
-f automatically adding it. I assume you need some kind of metadata in the sit=
-e header? Perhaps you all could look into adding this? Preferably for the ind=
-ividual articles, as well as the full issues.
+>> I am just starting to use Zotero and I'd like to include my favorite online sources, including the DM journal. However, I don't have the  option of automatically adding it. I assume you need some kind of metadata in the site header? Perhaps you all could look into adding this? Preferably for the individual articles, as well as the full issues.
 >>
 >> Thanks!
 >>
@@ -45,7 +39,7 @@ _redacted_(a)gmail.com
 >> *~*~*~*~*~*~*~*~*~*~*
 >> <ATT00001.c>
 >
-> Digital Medievalist -- =C2=A0http://www.digitalmedievalist.org/
+> Digital Medievalist --  http://www.digitalmedievalist.org/
 > Journal: http://www.digitalmedievalist.org/journal/
 > Journal Editors: editors _AT_ digitalmedievalist.org
 > News: http://www.digitalmedievalist.org/news/
@@ -54,5 +48,7 @@ _redacted_(a)gmail.com
 > Facebook: http://www.facebook.com/group.php?gidI320313760
 _redacted_(a)uleth.ca
 > Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
->
---===============2911575644430616903==--
+>
+
+--2911575644430616903-
+

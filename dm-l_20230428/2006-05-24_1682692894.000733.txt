@@ -1,15 +1,32 @@
-Subject: [dm-l] Again on fonts (and Linux)Hi all,
+Subject: [dm-l] Again on fonts (and Linux)
+
+Hi all,
 here are the links to a couple of interesting articles about Unicode
 fonts and Linux that I bookmarked some time ago, hope you'll find them
-useful:KMFL lets users change keyboards on the fly
-http://www.linux.com/article.pl?sid=06/03/13/1829212[A linux equivalent of the well known Keyman keyboard mapping software
-under Windows]Graphite: Smart font technology comes to FOSS
-http://www.linux.com/article.pl?sid=06/03/15/1649204[A "smart font" technology comparable to OpenType and Advanced Apple
-Typography, available for both Linux and Windows]Ciao-- 
+useful:
+
+KMFL lets users change keyboards on the fly
+http://www.linux.com/article.pl?sid/03/13/1829212
+
+[A linux equivalent of the well known Keyman keyboard mapping software
+under Windows]
+
+Graphite: Smart font technology comes to FOSS
+http://www.linux.com/article.pl?sid/03/15/1649204
+
+[A "smart font" technology comparable to OpenType and Advanced Apple
+Typography, available for both Linux and Windows]
+
+Ciao
+
+-- 
 Roberto Rosselli Del Turco      roberto.rossellidelturco at unito.it
 Dipartimento di Scienze         rosselli at ling.unipi.it
 del Linguaggio                  Then spoke the thunder  DA
 Universita' di Torino           Datta: what have we given?  (TSE)
  
   Hige sceal the heardra,     heorte the cenre,
-  mod sceal the mare,       the ure maegen litlath.  (Maldon 312-3)
+  mod sceal the mare,       the ure maegen litlath.  (Maldon 312-3)
+
+
+

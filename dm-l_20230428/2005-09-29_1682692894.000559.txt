@@ -1,12 +1,40 @@
-Subject: Re: [dm-l] xsltproc and xslIl giorno mer, 28/09/2005 alle 21.29 -0400, Peter Baker ha scritto:
+Subject: Re: [dm-l] xsltproc and xsl
+
+Il giorno mer, 28/09/2005 alle 21.29 -0400, Peter Baker ha scritto:
 > I use xsltproc quite a bit, since it is fast and has a very good 
 > implementation of XSLT 1.0 (in my experience it always agrees with Xalan 
-> and Saxon). I've also used it for a long time with no problems.> I haven't heard whether it implements XSLT 2.0; the docs are 
-> sketchy, to say the least. I doubt that it does. Don't know about this.> It reads a DTD to 
+> and Saxon). 
+
+I've also used it for a long time with no problems.
+
+> I haven't heard whether it implements XSLT 2.0; the docs are 
+> sketchy, to say the least. I doubt that it does. 
+
+Don't know about this.
+
+> It reads a DTD to 
 > resolve entities, but I don't think it validates, and I don't think it 
-> can use other kinds of schema. Isn't the --novalid command line option an implicit hint that id does
-indeed validate according to the document's DTD?> So you've got to use another tool to 
+> can use other kinds of schema. 
+
+Isn't the --novalid command line option an implicit hint that id does
+indeed validate according to the document's DTD?
+
+> So you've got to use another tool to 
 > validate your doc before running it, and if you absolutely need to use 
-> say RelaxNG to resolve entities it may not be suitable.I use xmllint, from the "sister" libxml library, to validate.> Saxon seems the heavier duty app, but xsltproc is stable and good for 
-> most purposes.I fully agree!Ciao	Roberto
---===============9053705222425147873==--
+> say RelaxNG to resolve entities it may not be suitable.
+
+I use xmllint, from the "sister" libxml library, to validate.
+
+> Saxon seems the heavier duty app, but xsltproc is stable and good for 
+> most purposes.
+
+I fully agree!
+
+Ciao
+
+	Roberto
+
+
+
+--9053705222425147873-
+

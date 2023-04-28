@@ -1,40 +1,51 @@
-Subject: Re: [dm-l] Manuscript Imaging QuestionDear all,I agree with the others that may be possible, ideally with hyperspectral=20
-imaging but also with Photoshop (or the GIMP); it's fairly easy if the=20
-two layers of ink are sufficiently different, otherwise it's much more=20
-complicated. There's a discussion of some techniques using Photoshop by=20
-Julia Craig-McFeely in Vol 4 of our own DM Journal=20
-(http://www.digitalmedievalist.org/journal/3/mcfeely; see the section=20
-'Digital Restoration'): she focusses on damaged manuscripts but the=20
-principles are much the same. I did similar work myself using Photoshop=20
-and no special imaging for the Rinascimento Virtuale project that=20
-Francesco Stella mentioned, so I'm happy to discuss it further and am=20
-also happy to look at some sample images if you want to send them to me=20
-off-list.I also have a forthcoming article on the topic and some prototype=20
-software which tries to simplify the process; again, contact me if=20
-you're interested.Peter--=20
+Subject: Re: [dm-l] Manuscript Imaging Question
+
+Dear all,
+
+I agree with the others that may be possible, ideally with hyperspectral 
+imaging but also with Photoshop (or the GIMP); it's fairly easy if the 
+two layers of ink are sufficiently different, otherwise it's much more 
+complicated. There's a discussion of some techniques using Photoshop by 
+Julia Craig-McFeely in Vol 4 of our own DM Journal 
+(http://www.digitalmedievalist.org/journal/3/mcfeely; see the section 
+'Digital Restoration'): she focusses on damaged manuscripts but the 
+principles are much the same. I did similar work myself using Photoshop 
+and no special imaging for the Rinascimento Virtuale project that 
+Francesco Stella mentioned, so I'm happy to discuss it further and am 
+also happy to look at some sample images if you want to send them to me 
+off-list.
+
+I also have a forthcoming article on the topic and some prototype 
+software which tries to simplify the process; again, contact me if 
+you're interested.
+
+Peter
+
+-- 
 Dr Peter Stokes
 Leverhulme Early Career Fellow
 Dept. of Anglo-Saxon, Norse and Celtic
 The University of Cambridge
 9 West Rd, Cambridge, CB3 9DP
 Tel: +44 1223 767314
-Fax: +44 1223 335092
+Fax: +44 1223 335092
+
 _redacted_(a)unisi.it wrote:
 > Dear All,
 > a successful experience in multispectral imaging applied to medieval
 > manuscripts is the 2004 European Project "Rinascimento Virtuale"
 > http://palin.iccu.sbn.it, now to be continued at the Bergamo University.
->=20
+> 
 > I would like also to announce the next Montepulciano (Siena, Italy)
 > Seminar "Edizioni Digitali alla ricerca di standards", 4th meeting of the
 > Arezzo DIGIMED series and part of the 1st Master Courses "Informatica del
 > testo-Edizione digitale" of the Siena-Arezzo University. See please the
 > program at http://www.infotext.unisi.it.
->=20
+> 
 > Best wishes
 > Francesco Stella
->=20
->=20
+> 
+> 
 > Dear all,
 >> This is similar to, if not the same as, the technology Dr. Zinn was
 >> describing--the Ancient Texts Imaging Group at Brigham Young
@@ -96,13 +107,10 @@ _redacted_(a)oberlin.edu
 >>>> make sure you cc Dr. Wisnicki, since he may not hang out in our
 >>>> circles!
 >>>>
->>>> I=C3=A2=E2=82=AC=E2=84=A2ve come across a textual issue that I=C3=A2=E2=
-=82=AC=E2=84=A2m not sure how to resolve,
+>>>> Iâ€™ve come across a textual issue that Iâ€™m not sure how to resolve,
 >>>> and
->>>> I=C3=A2=E2=82=AC=E2=84=A2m hoping that someone on the list might have so=
-me suggestions or
->>>> even the answer. I=C3=A2=E2=82=AC=E2=84=A2m currently doing some researc=
-h on the final
+>>>> Iâ€™m hoping that someone on the list might have some suggestions or
+>>>> even the answer. Iâ€™m currently doing some research on the final
 >>>> African diaries of David Livingstone, the missionary and explorer.
 >>>> While keeping these diaries, Livingstone was often short of paper and,
 >>>> as a result, resorted to various expedients to keep the diaries going.
@@ -110,18 +118,14 @@ h on the final
 >>>> newspapers, and, by turning the pages 90 degrees, to write his diary
 >>>> over the printed text, but perpendicular to it. Although perhaps
 >>>> legible at the time, these diary entries now are often difficult to
->>>> decipher: Livingstone=C3=A2=E2=82=AC=E2=84=A2s ink has faded and the pri=
-nted text obscures
+>>>> decipher: Livingstoneâ€™s ink has faded and the printed text obscures
 >>>> what remains.
 >>>>
 >>>> So, in other words, the diary entries have two layers of text: printed
->>>> matter which runs horizontally across the page, and Livingstone=C3=A2=E2=
-=82=AC=E2=84=A2s
->>>> entries which run vertically. I=C3=A2=E2=82=AC=E2=84=A2ve scanned some o=
-f these pages and
+>>>> matter which runs horizontally across the page, and Livingstoneâ€™s
+>>>> entries which run vertically. Iâ€™ve scanned some of these pages and
 >>>> was
->>>> wondering if there=C3=A2=E2=82=AC=E2=84=A2s a way (or, perhaps, a progra=
-m) by which I might
+>>>> wondering if thereâ€™s a way (or, perhaps, a program) by which I might
 >>>> remove the printed layer so as to make the handwritten layer
 >>>> freestanding and so more legible. Has anyone on the list dealt with
 >>>> (and resolved) a similar issue? If so, please email me at
@@ -143,10 +147,8 @@ _redacted_(a)yahoo.com -- any suggestions would be very much appreciated.
 >>>> Chair and CEO, Text Encoding Initiative (http://www.tei-c.org/)
 >>>> Co-Chair, Digital Initiatives Advisory Board, Medieval Academy of
 >>>> America
->>>> President-elect (English), Society for Digital Humanities/Soci=C3=83=C2=
-=A9t=C3=83=C2=A9
->>>> pour l'=C3=83=C2=A9tude des m=C3=83=C2=A9dias interactifs (http://sdh-se=
-mi.org/)
+>>>> President-elect (English), Society for Digital Humanities/SociÃ©tÃ©
+>>>> pour l'Ã©tude des mÃ©dias interactifs (http://sdh-semi.org/)
 >>>> Founding Director (2003-2009), Digital Medievalist Project
 >>>> (http://www.digitalmedievalist.org/)
 >>>>
@@ -189,22 +191,26 @@ _redacted_(a)umich.edu
 _redacted_(a)uleth.ca
 >> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
 >>
->=20
->=20
->=20
->=20
+> 
+> 
+> 
+> 
 > Digital Medievalist --  http://www.digitalmedievalist.org/
 > Journal: http://www.digitalmedievalist.org/journal/
 > Journal Editors: editors _AT_ digitalmedievalist.org
 > News: http://www.digitalmedievalist.org/news/
 > Wiki: http://www.digitalmedievalist.org/wiki/
 _redacted_(a)uleth.ca
-> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l--=20
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+-- 
 Dr Peter Stokes
 Leverhulme Early Career Fellow
 Dept. of Anglo-Saxon, Norse and Celtic
 The University of Cambridge
 9 West Rd, Cambridge, CB3 9DP
 Tel: +44 1223 767314
-Fax: +44 1223 335092
---===============6505941781699490967==--
+Fax: +44 1223 335092
+
+--6505941781699490967-
+

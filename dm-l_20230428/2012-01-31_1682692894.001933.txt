@@ -1,8 +1,19 @@
-Subject: [dm-l] Junicode 0.7.2Another release of Junicode, the font for medievalists. This one 
+Subject: [dm-l] Junicode 0.7.2
+
+Another release of Junicode, the font for medievalists. This one 
 tightens up the spacing of uppercase diacritics so as to get closer line 
 spacing in certain Windows applications. Other changes are mainly 
-technical/quality control.Get it at http://junicode.sourceforge.net (choose from TrueType, WOFF 
-and source files)If any user cares to leave a comment at the Junicode site, I'd 
+technical/quality control.
+
+Get it at http://junicode.sourceforge.net (choose from TrueType, WOFF 
+and source files)
+
+If any user cares to leave a comment at the Junicode site, I'd 
 appreciate it. The font gets its share of "likes," but the only comment 
-there complains about the line spacing, which has now been fixed.Thanks!
-Peter Baker
+there complains about the line spacing, which has now been fixed.
+
+Thanks!
+Peter Baker
+
+
+

@@ -1,4 +1,14 @@
-Subject: Re: [dm-l] TAN: XSLT QuestionDan,If you could share the XSLT script, I'd be glad to have a look.PeterDaniel O'Donnell wrote:> The Digital Medievalist List (see end of message for contact 
+Subject: Re: [dm-l] TAN: XSLT Question
+
+Dan,
+
+If you could share the XSLT script, I'd be glad to have a look.
+
+Peter
+
+Daniel O'Donnell wrote:
+
+> The Digital Medievalist List (see end of message for contact 
 > information and project URLs).
 >
 > ----------------------------------
@@ -8,20 +18,20 @@ Subject: Re: [dm-l] TAN: XSLT QuestionDan,If you could share the XSLT script
 > I want a stylesheet to reproduce the following html tags (i.e. this is 
 > what is in my sheet):
 >
-> <head profile="http://www.url.net">
+> <head profilettp://www.url.net">
 >
 > <br/>
 >
-> <meta content="some content"/>
+> <meta contentome content"/>
 >
 >
 > What I get as an output is:
 >
-> <head xmlns="" profile="http://www.url.net"> [i.e. extra namespace]
+> <head xmlns profilettp://www.url.net"> [i.e. extra namespace]
 >
 > <br> [i.e. no solidus]
 >
-> <meta content="some content"> [i.e. no solidus]
+> <meta contentome content"> [i.e. no solidus]
 >
 > Anybody know why this happens or how to turn it off? It is the only 
 > thing stopping my files from validating.
@@ -31,4 +41,7 @@ Subject: Re: [dm-l] TAN: XSLT QuestionDan,If you could share the XSLT script
 >
 >
 >
->
+>
+
+
+

@@ -1,30 +1,36 @@
-Subject: Re: [dm-l] Question about preservation of digital contentIf I can give away the game, a little, we have a very interesting=20
-article on this in the dm-j pipeline. More hopefully soon.-danOn 10-07-29 05:28 AM, Simpson, Grant Leyton wrote:
+Subject: Re: [dm-l] Question about preservation of digital content
+
+If I can give away the game, a little, we have a very interesting 
+article on this in the dm-j pipeline. More hopefully soon.
+
+-dan
+
+On 10-07-29 05:28 AM, Simpson, Grant Leyton wrote:
 > Dear Daniel, Dan, Dot,
 >
-> I very much agree with Dot and Dan. There's also the issue, in=20
-> addition to file format and medium, of the preservation of user=20
-> experience (UX) and user interface (UI), specifically when materials=20
-> are specifically presented as editions and archives. While care must=20
-> be taken to choose formats that will withstand the test of time, such=20
-> as TEI, I would argue that we, as a community, need to address the=20
-> issue of UX and UI preservation (which to my mind can only be=20
-> approached through emulation). Upfront decisions, though, about file=20
-> formats can greatly influence this, though. Take for example, Dan=20
-> O'Donnell's edition of Caedmon's Hymn. Since nothing in it can't be=20
-> rendered by a standard web browser, it is cross platform and should be=20
-> compatible with browsers for some time to come. This is not so with=20
-> platform-specific editions, such as those done on CD-ROM that only=20
-> work, for example, on Mac OS 9. (I recently had to acquire a computer=20
+> I very much agree with Dot and Dan. There's also the issue, in 
+> addition to file format and medium, of the preservation of user 
+> experience (UX) and user interface (UI), specifically when materials 
+> are specifically presented as editions and archives. While care must 
+> be taken to choose formats that will withstand the test of time, such 
+> as TEI, I would argue that we, as a community, need to address the 
+> issue of UX and UI preservation (which to my mind can only be 
+> approached through emulation). Upfront decisions, though, about file 
+> formats can greatly influence this, though. Take for example, Dan 
+> O'Donnell's edition of Caedmon's Hymn. Since nothing in it can't be 
+> rendered by a standard web browser, it is cross platform and should be 
+> compatible with browsers for some time to come. This is not so with 
+> platform-specific editions, such as those done on CD-ROM that only 
+> work, for example, on Mac OS 9. (I recently had to acquire a computer 
 > running OS 9 so I could take a look at some of these.)
 >
-> =E2=9C=8D
+> ✍
 > Best,
 > Grant Simpson
-> =C2=B6 Senior Analyst/Programmer, Office of the Registrar
-> =C2=B6 Vice President, IU Bloomington Professional Council
-> =C2=B6 Interim Chair, MEST Graduate Student Advisory Committee
-> =C2=B6 Doctoral Student, Department of English
+> ¶ Senior Analyst/Programmer, Office of the Registrar
+> ¶ Vice President, IU Bloomington Professional Council
+> ¶ Interim Chair, MEST Graduate Student Advisory Committee
+> ¶ Doctoral Student, Department of English
 > Indiana University Bloomington
 >
 >
@@ -32,26 +38,26 @@ article on this in the dm-j pipeline. More hopefully soon.-danOn 10-07-29 05
 >
 >> Dear Daniel,
 >>
->> The issue of long-term preservation of digital content coming from=20
->> medieval manuscripts as the source is, as far as I can tell, exactly=20
->> the same as it is for any other digital data anywhere, and vast=20
->> amounts of ink (real and virtual) has been used discussing the issue.=20
->> Although it's a few years old now, you might start with the article=20
->> "Architecture and Technologies for Trusted Digital Repositories,"=20
->> Jantz and Giarlo, D-Lib Magazine 2005=20
->> (http://www.dlib.org/dlib/june05/jantz/06jantz.html - not really as=20
->> technical as it may sound, and includes some important definitions),=20
->> then move your research on from there. Although I'm not sure that=20
->> there are many real and true TDRs even now, it's a fine ideal to=20
->> start with. Although Dan O'Donnell is correct that many older file=20
->> formats are still able to be read far past the time we might expect=20
->> it, the issue of "digital preservation" is much more extensive than=20
->> simply "can I still have access to the data on this file" (at least,=20
+>> The issue of long-term preservation of digital content coming from 
+>> medieval manuscripts as the source is, as far as I can tell, exactly 
+>> the same as it is for any other digital data anywhere, and vast 
+>> amounts of ink (real and virtual) has been used discussing the issue. 
+>> Although it's a few years old now, you might start with the article 
+>> "Architecture and Technologies for Trusted Digital Repositories," 
+>> Jantz and Giarlo, D-Lib Magazine 2005 
+>> (http://www.dlib.org/dlib/june05/jantz/06jantz.html - not really as 
+>> technical as it may sound, and includes some important definitions), 
+>> then move your research on from there. Although I'm not sure that 
+>> there are many real and true TDRs even now, it's a fine ideal to 
+>> start with. Although Dan O'Donnell is correct that many older file 
+>> formats are still able to be read far past the time we might expect 
+>> it, the issue of "digital preservation" is much more extensive than 
+>> simply "can I still have access to the data on this file" (at least, 
 >> if you ask a librarian about it  :-)  ).
 >>
 >> Dot
 >>
-_redacted_(a)hrstud.hr=20
+_redacted_(a)hrstud.hr 
 _redacted_(a)hrstud.hr>> wrote:
 >>
 >>     Dear Digital Medievalists and TEI members,
@@ -60,13 +66,10 @@ _redacted_(a)hrstud.hr>> wrote:
 >>     I have a question about preservation of digital content
 >>     especially medieval manuscripts. I am writing a small article on
 >>     the topic and I have consulted a lot sources (papers, handbooks)
->>     but most of them do not say anything about the =E2=80=9Clife span=E2=
-=80=9D of the
->>     data in specific formats. To clarify this =E2=80=93 a .doc file crated=
- in
+>>     but most of them do not say anything about the “life span” of the
+>>     data in specific formats. To clarify this – a .doc file crated in
 >>     1995. Will be most likely unreadable  in 2010.  What about other
->>     formats? Has anyone done some research on =E2=80=9Clife span=E2=80=9D =
-of a
+>>     formats? Has anyone done some research on “life span” of a
 >>     specific version of digital formats and when it becomes clear
 >>     that the new version and the old one are not compatible anymore?
 >>     And here I am talking about pdf, rtf, doc (and all office files),
@@ -101,14 +104,14 @@ of a
 >>     News: http://www.digitalmedievalist.org/news/
 >>     Wiki: http://www.digitalmedievalist.org/wiki/
 >>     Twitter: http://twitter.com/digitalmedieval
->>     Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+>>     Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca>
 >>     Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
 >>
 >>
 >>
 >>
->> --=20
+>> -- 
 >> *~*~*~*~*~*~*~*~*~*~*
 >> Dot Porter (MA, MSLS)
 >> Digital Medievalist, Digital Librarian
@@ -116,12 +119,12 @@ _redacted_(a)gmail.com>
 >> *~*~*~*~*~*~*~*~*~*~*
 >> Digital Medievalist -- http://www.digitalmedievalist.org/
 >> Journal: http://www.digitalmedievalist.org/journal/
->> Journal Editors: editors _AT_ digitalmedievalist.org=20
+>> Journal Editors: editors _AT_ digitalmedievalist.org 
 >> <http://digitalmedievalist.org>
 >> News: http://www.digitalmedievalist.org/news/
 >> Wiki: http://www.digitalmedievalist.org/wiki/
 >> Twitter: http://twitter.com/digitalmedieval
->> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+>> Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca>
 >> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
 >
@@ -135,17 +138,25 @@ _redacted_(a)uleth.ca>
 > News: http://www.digitalmedievalist.org/news/
 > Wiki: http://www.digitalmedievalist.org/wiki/
 > Twitter: http://twitter.com/digitalmedieval
-> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+> Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca
-> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l--=20
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+-- 
 Daniel Paul O'Donnell
 Professor of English
-University of LethbridgeChair and CEO, Text Encoding Initiative (http://www.tei-c.org/)
+University of Lethbridge
+
+Chair and CEO, Text Encoding Initiative (http://www.tei-c.org/)
 Co-Chair, Digital Initiatives Advisory Board, Medieval Academy of America
-President-elect (English), Society for Digital Humanities/Soci=C3=A9t=C3=A9 p=
-our l'=C3=A9tude des m=C3=A9dias interactifs (http://sdh-semi.org/)
-Founding Director (2003-2009), Digital Medievalist Project (http://www.digita=
-lmedievalist.org/)Vox: +1 403 329-2377
+President-elect (English), Society for Digital Humanities/Société pour l'étude des médias interactifs (http://sdh-semi.org/)
+Founding Director (2003-2009), Digital Medievalist Project (http://www.digitalmedievalist.org/)
+
+Vox: +1 403 329-2377
 Fax: +1 403 382-7191 (non-confidential)
-Home Page: http://people.uleth.ca/~daniel.odonnell/
---===============6954884989969763012==--
+Home Page: http://people.uleth.ca/~daniel.odonnell/
+
+
+
+--6954884989969763012-
+

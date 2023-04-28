@@ -1,18 +1,26 @@
-Subject: RE: [dm-l] what xslt can't do..?I agree with James (mind if we call you Peter, just to keep things
+Subject: RE: [dm-l] what xslt can't do..?
+
+I agree with James (mind if we call you Peter, just to keep things
 clear?) that a multi-pass approach is likely to be more efficient than
 mine, just because of the overhead mine incurs in creating nodesets all
 the time. What my approach needs is a function that takes a node-set and
 returns a tree fragment containing those nodes and all their ancestors,
 with non-ancestors stripped out. Does XSLT2 provide such a function? I
 haven't got into 2 yet. If not, it probably wouldn't be too hard to
-write up a Java extension to do it.For situations requiring the kind of performance that Peter Robinson is
+write up a Java extension to do it.
+
+For situations requiring the kind of performance that Peter Robinson is
 talking about, XSLT will probably always have value only as a
 prototyping tool, to be replaced by coded projects like Peter's. But I
 think it has more value as a prototyping tool than Peter R. is giving it
 credit for. I think a better Java programmer than me (i.e. any Java
 programmer) would still have taken longer than I did to prototype a
 solution to Peter's challenge, and would have required more than 63
-lines of code to do it. Peter BinkleyPeter Binkley, Ph.D., MLIS
+lines of code to do it. 
+
+Peter Binkley
+
+Peter Binkley, Ph.D., MLIS
 Digital Initiatives Technology Librarian
 Information Technology Services
 4-30 Cameron Library
@@ -21,7 +29,10 @@ Edmonton, Alberta
 Canada T6G 2J8
 Phone: (780) 492-3743
 Fax: (780) 492-9243
-_redacted_(a)ualberta.ca
+_redacted_(a)ualberta.ca
+
+
+
 > -----Original Message-----
 _redacted_(a)uleth.ca] On 
 > Behalf Of James Cummings
@@ -69,30 +80,30 @@ _redacted_(a)uleth.ca] On
 > So, passing the text.xml through it, I get:
 > --------------
 > <document>
->     <div start="true"/>
+>     <div startrue"/>
 >             <head>The whole text and all the texts</head>
->             <div start="true"/>
->             <pb n="1"/>
+>             <div startrue"/>
+>             <pb nñ"/>
 >             <head>First text</head>
->             <p start="true" n="1"/>some text starts here and 
-> goes ita<hi start="true" rend="italic"/>lic an<pb n="2"/>d 
-> then<hi end="true" 
-> rend="italic"/> we get a pagebreak<p end="true" n="1"/>
->             <p start="true" n="2"/>so the text finishes<p 
-> end="true" n="2"/>
->             <p start="true" n="3"/> with yet another page <pb 
-> n="3"/> and another page start <p end="true" n="3"/>
->             <div end="true"/>
->             <div start="true"/>
+>             <p startrue" nñ"/>some text starts here and 
+> goes ita<hi startrue" rendtalic"/>lic an<pb nò"/>d 
+> then<hi endrue" 
+> rendtalic"/> we get a pagebreak<p endrue" nñ"/>
+>             <p startrue" nò"/>so the text finishes<p 
+> endrue" nò"/>
+>             <p startrue" nó"/> with yet another page <pb 
+> nó"/> and another page start <p endrue" nó"/>
+>             <div endrue"/>
+>             <div startrue"/>
 >             <head>Second text</head>
->             <pb n="4"/>
->             <p start="true" n="1"/>here my new text on the 
-> next page etc etc<p end="true" n="1"/>
->             <pb n="5"/>
->             <p start="true" n="2"/>here my new text on the 
-> next page etc etc<p end="true" n="2"/>
->             <div end="true"/>
->     <div end="true"/>
+>             <pb nô"/>
+>             <p startrue" nñ"/>here my new text on the 
+> next page etc etc<p endrue" nñ"/>
+>             <pb nõ"/>
+>             <p startrue" nò"/>here my new text on the 
+> next page etc etc<p endrue" nò"/>
+>             <div endrue"/>
+>     <div endrue"/>
 > </document>
 > --------------
 > Then one could fairly easily use an xsl:for-each-group 
@@ -100,52 +111,52 @@ _redacted_(a)uleth.ca] On
 > (and it could be done in a more sophisticated and efficient 
 > manner) the XSLT for milestoning a document that I knocked up was:
 > --------------
-> <?xml version="1.0" encoding="utf-8"?>
-> <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" 
-> version="1.0">
->     <xsl:output method="xml" indent="no" encoding="utf-8"/>
->     <xsl:template match="/">
+> <?xml versionñ.0" encodingtf-8"?>
+> <xsl:stylesheet xmlns:xslttp://www.w3.org/1999/XSL/Transform" 
+> versionñ.0">
+>     <xsl:output methodml" indento" encodingtf-8"/>
+>     <xsl:template match">
 >        <document>
->           <xsl:call-template name="element-start"/>
+>           <xsl:call-template nameþlement-start"/>
 >           <xsl:apply-templates/>
->           <xsl:call-template name="element-end"/>
+>           <xsl:call-template nameþlement-end"/>
 >        </document>
 >     </xsl:template>
->     <xsl:template match="*" priority="-1">
->        <xsl:call-template name="element-start"/>
+>     <xsl:template match" priority1">
+>        <xsl:call-template nameþlement-start"/>
 >        <xsl:apply-templates/>
->        <xsl:call-template name="element-end"/>
+>        <xsl:call-template nameþlement-end"/>
 >     </xsl:template>
->     <xsl:template match="head">
+>     <xsl:template matchead">
 >        <head>
 >           <xsl:apply-templates/>
 >        </head>
 >     </xsl:template>
->     <xsl:template match="pb">
+>     <xsl:template matchb">
 >        <pb>
 _redacted_@*">
->              <xsl:attribute name="{name()}">
->                 <xsl:value-of select="."/>
+>              <xsl:attribute namename()}">
+>                 <xsl:value-of select"/>
 >              </xsl:attribute>
 >           </xsl:for-each>
 >        </pb>
 >     </xsl:template>
->     <xsl:template name="element-start">
->        <xsl:element name="{name()}">
->           <xsl:attribute name="start">true</xsl:attribute>
+>     <xsl:template nameþlement-start">
+>        <xsl:element namename()}">
+>           <xsl:attribute nametart">true</xsl:attribute>
 _redacted_@*">
->              <xsl:attribute name="{name()}">
->                 <xsl:value-of select="."/>
+>              <xsl:attribute namename()}">
+>                 <xsl:value-of select"/>
 >              </xsl:attribute>
 >           </xsl:for-each>
 >        </xsl:element>
 >     </xsl:template>
->     <xsl:template name="element-end">
->        <xsl:element name="{name()}">
->           <xsl:attribute name="end">true</xsl:attribute>
+>     <xsl:template nameþlement-end">
+>        <xsl:element namename()}">
+>           <xsl:attribute nameþnd">true</xsl:attribute>
 _redacted_@*">
->              <xsl:attribute name="{name()}">
->                 <xsl:value-of select="."/>
+>              <xsl:attribute namename()}">
+>                 <xsl:value-of select"/>
 >              </xsl:attribute>
 >           </xsl:for-each>
 >        </xsl:element>
@@ -173,5 +184,7 @@ _redacted_(a)uleth.ca
 > dm-l mailing list
 _redacted_(a)uleth.ca
 > http://listserv.uleth.ca/mailman/listinfo/dm-l
-> 
---===============8898606500585054250==--
+> 
+
+--8898606500585054250-
+

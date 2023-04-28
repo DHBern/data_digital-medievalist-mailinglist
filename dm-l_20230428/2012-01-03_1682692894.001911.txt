@@ -1,30 +1,60 @@
-Subject: Re: [dm-l] Automatically scan two text corpora for quotationsDear Christian,as Martin suggested, ARTFL is a good address to ask questions.You could also start with concordances (get both texts into AntConc, for
+Subject: Re: [dm-l] Automatically scan two text corpora for quotations
+
+Dear Christian,
+
+as Martin suggested, ARTFL is a good address to ask questions.
+
+You could also start with concordances (get both texts into AntConc, for
 example: <http://www.antlab.sci.waseda.ac.jp/antconc_index.html>; the
-program is quite user-friendly, once you understand the basics).Another solution would be to install PhiloLogic
+program is quite user-friendly, once you understand the basics).
+
+Another solution would be to install PhiloLogic
 (<http://sites.google.com/site/philologic3/home/philologic-3-2-beta-release>)
 locally, on your computer. Then put one text in its database, turn another
 into a list of words -- and, possibly, bigrams or trigrams - and then
 query the database automatically (well, semi-automatically -- it would
-take several scripts), sending the list to PhiloLogic.An understanding of regular expressions would also come in handy, but this
+take several scripts), sending the list to PhiloLogic.
+
+An understanding of regular expressions would also come in handy, but this
 is pure joy if you're a linguist or a philologist (this is where I learnt
 regexps:
-<http://etext.lib.virginia.edu/services/helpsheets/unix/regex.html>).So you would search e. g. for the bigram"arma uirumque"and also for"arm* uir*"Here is what would such searches turn up in the Croatiae auctores Latini
-collection:<http://www.ffzg.unizg.hr/klafil/croala/cgi-bin/search3t?dbname=3Dcroala&word=
-=3Darma+Uirumque>
-<http://www.ffzg.unizg.hr/klafil/croala/cgi-bin/search3t?dbname=3Dcroala&word=
-=3Darm*+Uiru*>(PhiloLogic can be tuned for distances between words etc.)Best,NevenNeven Jovanovic
+<http://etext.lib.virginia.edu/services/helpsheets/unix/regex.html>).
+
+So you would search e. g. for the bigram
+
+"arma uirumque"
+
+and also for
+
+"arm* uir*"
+
+Here is what would such searches turn up in the Croatiae auctores Latini
+collection:
+
+<http://www.ffzg.unizg.hr/klafil/croala/cgi-bin/search3t?dbname=croala&word=arma+Uirumque>
+<http://www.ffzg.unizg.hr/klafil/croala/cgi-bin/search3t?dbname=croala&word=arm*+Uiru*>
+
+(PhiloLogic can be tuned for distances between words etc.)
+
+Best,
+
+Neven
+
+Neven Jovanovic
 Department of Classical Philology
 Faculty of Humanities and Social Sciences
 University of Zagreb
-Hrvatska / Croatia
+Hrvatska / Croatia
+
+
+
 > This is a "sequence alignment" problem,and a lot of relevant algorithms
 > are used in bioinformatics. Your best help may come from such tools as
 > Philomine, the ARTFL sequence alignment program, which has been used very
 > successfully to trace the sources of Diderot's Encyclopedie.
 >
 > The ARTFL people are very helpful. Closer to home, there is the e-aqua
-> group in Leipzig. Marco B=C3=BCchler, a computer scientist there, has worke=
-d a
+> group in Leipzig. Marco Büchler, a computer scientist there, has worked a
 > lot on quotation tracking in Latin texts.
 >
 > There isn't, to my knowledge, a user-friendly tool that lets you do this
@@ -57,7 +87,7 @@ _redacted_(a)student.uni-tuebingen.de> wrote:
 >>News: http://www.digitalmedievalist.org/news/
 >>Wiki: http://www.digitalmedievalist.org/wiki/
 >>Twitter: http://twitter.com/digitalmedieval
->>Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+>>Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca
 >>Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
 >
@@ -72,5 +102,9 @@ _redacted_(a)uleth.ca
 > Facebook: http://www.facebook.com/group.php?gidI320313760
 _redacted_(a)uleth.ca
 > Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
->
---===============7716451792045458783==--
+>
+
+
+
+--7716451792045458783-
+

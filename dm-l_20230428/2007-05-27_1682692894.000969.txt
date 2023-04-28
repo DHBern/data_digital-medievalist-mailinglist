@@ -1,68 +1,101 @@
-Subject: [dm-l] FW: ticer "digital library school"
-FYI-----Original Message-----
-From: TEI (Text Encoding Initiative) public discussion list on behalf of Eric=
- Lease Morgan
+Subject: [dm-l] FW: ticer "digital library school"
+
+FYI
+
+-----Original Message-----
+From: TEI (Text Encoding Initiative) public discussion list on behalf of Eric Lease Morgan
 Sent: Wed 23/05/2007 11:15
 _redacted_(a)listserv.brown.edu
 Subject: ticer "digital library school"
-=20
-Consider attending the Ticer "digital library school" in August, and =20
-specifically participating in a workshop called "Open Source Software =20
-for Libraries and XML":   http://www.tilburguniversity.nl/services/lis/ticer/07carte/=20
-program.html#3
-Open Source SoftwareThe day-long workshop is divided into two parts. The first is about =20
-open source software. Given the linked texts and the accompanying set =20
-of software, the student will learn the ideas behind open source =20
-software, a bit of its history, how it is similar and dissimilar to =20
-librarianship, and why it is important to the profession.Through the hands-on exercises, the student will learn how to =20
-uncompress and untar distributions, configure an application for =20
-building, compile it, install it, configure it, and finally use it. =20
-Applications used during these hands-on activities include: Apache (a =20
-Web server), MARC::Record (a tool to read and writing MARC data), =20
-MySQL (a relational database application), Perl (a scripting =20
-language), zebra (an indexer/search engine), xsltproc (an XSLT =20
-processor), and YAZ (a Z39.50 client). The hands-on exercises are =20
-complete with sample data, configuration files, and sample scripts to =20
-get the student up and going quickly.This workshop is designed for the novice and moderately experienced =20
-computer user. The only prerequisite skills are: 1) no fear of =20
-command-line processing, and 2) the desire to learn. THIS WORKSHOP IS =20
-NOT NECESSARILY DESIGNED FOR COMPUTER GEEKS. IT IS ABOUT TAKING =20
-CONTROL OF YOUR COMPUTING ENVIRONMENT. To get a flavor for this =20
-segment, see:   http://infomotions.com/musings/ossnlibraries-workshop/
-XMLThe second half is about XML. This workshop introduces participants =20
-to the extensible markup language (XML) through numerous examples, =20
-demonstrations, and structured hands-on exercises. Through the =20
-process you will be able to evaluate the uses of XML for making your =20
-data and information more accessible to people as well as computers. =20
-Examples include adding value to electronic texts (TEI), creating =20
-archival finding aids (EAD), creating bibliographic data (MARCXML and =20
-MODS), and implementing standards compliant Web pages (XHTML).By the end of the workshop you will have acquired a thorough =20
-introduction to XML and be able to: 1) list seven rules governing the =20
-syntax of XML documents, 2) create your very own XML markup language, =20
-3) write XML documents using a plain text editor and validate them =20
-using a Web browser, 4) create simple XML documents using a number of =20
-standard XML vocabularies, 5) transform XML documents into other =20
-formats such as plain text or database (SQL) files using XSLT, and =20
-finally, 6) articulate why XML is important for libraries.This workshop is designed for the novice and moderately experienced =20
-computer user. The only prerequisite skills are: 1) no fear of =20
-command-line processing, 3) the ability to use a plain text editor, =20
-and 3) the desire to learn. AGAIN, THIS IS NOT ABOUT COMPUTER =20
-GEEKTOM. IT IS ABOUT LEARNING TO CREATE WELL-STRUCTURED DATA =20
-CONSIDERING THE CURRENT NETWORKED ENVIRONMENT. This workshop will =20
-cover much of the content at the following URL:   http://infomotions.com/musings/getting-started/
-SummaryThese workshops are designed for any type of person who works in a =20
-library. They will help you learn about the current and immediate =20
-future of computing in libraries. These workshop have something to =20
-offer everybody. They are not strictly designed for computer types. =20
-The only prerequisites are an open mind and the desire to learn. For =20
-more information about the Ticer school in general, see:   http://www.tilburguniversity.nl/services/lis/ticer/07carte/index.html--
+ 
+Consider attending the Ticer "digital library school" in August, and  
+specifically participating in a workshop called "Open Source Software  
+for Libraries and XML":
+
+   http://www.tilburguniversity.nl/services/lis/ticer/07carte/ 
+program.html#3
+
+Open Source Software
+
+The day-long workshop is divided into two parts. The first is about  
+open source software. Given the linked texts and the accompanying set  
+of software, the student will learn the ideas behind open source  
+software, a bit of its history, how it is similar and dissimilar to  
+librarianship, and why it is important to the profession.
+
+Through the hands-on exercises, the student will learn how to  
+uncompress and untar distributions, configure an application for  
+building, compile it, install it, configure it, and finally use it.  
+Applications used during these hands-on activities include: Apache (a  
+Web server), MARC::Record (a tool to read and writing MARC data),  
+MySQL (a relational database application), Perl (a scripting  
+language), zebra (an indexer/search engine), xsltproc (an XSLT  
+processor), and YAZ (a Z39.50 client). The hands-on exercises are  
+complete with sample data, configuration files, and sample scripts to  
+get the student up and going quickly.
+
+This workshop is designed for the novice and moderately experienced  
+computer user. The only prerequisite skills are: 1) no fear of  
+command-line processing, and 2) the desire to learn. THIS WORKSHOP IS  
+NOT NECESSARILY DESIGNED FOR COMPUTER GEEKS. IT IS ABOUT TAKING  
+CONTROL OF YOUR COMPUTING ENVIRONMENT. To get a flavor for this  
+segment, see:
+
+   http://infomotions.com/musings/ossnlibraries-workshop/
+
+XML
+
+The second half is about XML. This workshop introduces participants  
+to the extensible markup language (XML) through numerous examples,  
+demonstrations, and structured hands-on exercises. Through the  
+process you will be able to evaluate the uses of XML for making your  
+data and information more accessible to people as well as computers.  
+Examples include adding value to electronic texts (TEI), creating  
+archival finding aids (EAD), creating bibliographic data (MARCXML and  
+MODS), and implementing standards compliant Web pages (XHTML).
+
+By the end of the workshop you will have acquired a thorough  
+introduction to XML and be able to: 1) list seven rules governing the  
+syntax of XML documents, 2) create your very own XML markup language,  
+3) write XML documents using a plain text editor and validate them  
+using a Web browser, 4) create simple XML documents using a number of  
+standard XML vocabularies, 5) transform XML documents into other  
+formats such as plain text or database (SQL) files using XSLT, and  
+finally, 6) articulate why XML is important for libraries.
+
+This workshop is designed for the novice and moderately experienced  
+computer user. The only prerequisite skills are: 1) no fear of  
+command-line processing, 3) the ability to use a plain text editor,  
+and 3) the desire to learn. AGAIN, THIS IS NOT ABOUT COMPUTER  
+GEEKTOM. IT IS ABOUT LEARNING TO CREATE WELL-STRUCTURED DATA  
+CONSIDERING THE CURRENT NETWORKED ENVIRONMENT. This workshop will  
+cover much of the content at the following URL:
+
+   http://infomotions.com/musings/getting-started/
+
+Summary
+
+These workshops are designed for any type of person who works in a  
+library. They will help you learn about the current and immediate  
+future of computing in libraries. These workshop have something to  
+offer everybody. They are not strictly designed for computer types.  
+The only prerequisites are an open mind and the desire to learn. For  
+more information about the Ticer school in general, see:
+
+   http://www.tilburguniversity.nl/services/lis/ticer/07carte/index.html
+
+--
 Eric Lease Morgan
-University Libraries of Notre Dame
---===============2847307788960143652==
-Content-Type: text/html
+University Libraries of Notre Dame
+
+
+
+--2847307788960143652Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDMuMi8vRU4iPgo8SFRNTD4K
+Content-Disposition: attachment; filenameúttachment.html"
+MIME-Version: 1.0
+
+PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDMuMi8vRU4iPgo8SFRNTD4K
 PEhFQUQ+CjxNRVRBIEhUVFAtRVFVSVY9IkNvbnRlbnQtVHlwZSIgQ09OVEVOVD0idGV4dC9odG1s
 OyBjaGFyc2V0PWlzby04ODU5LTEiPgo8TUVUQSBOQU1FPSJHZW5lcmF0b3IiIENPTlRFTlQ9Ik1T
 IEV4Y2hhbmdlIFNlcnZlciB2ZXJzaW9uIDYuNS43NjUyLjI0Ij4KPFRJVExFPkZXOiB0aWNlciAm
@@ -155,4 +188,4 @@ aWxidXJndW5pdmVyc2l0eS5ubC9zZXJ2aWNlcy9saXMvdGljZXIvMDdjYXJ0ZS9pbmRleC5odG1s
 Ij5odHRwOi8vd3d3LnRpbGJ1cmd1bml2ZXJzaXR5Lm5sL3NlcnZpY2VzL2xpcy90aWNlci8wN2Nh
 cnRlL2luZGV4Lmh0bWw8L0E+PEJSPgo8QlI+Ci0tPEJSPgpFcmljIExlYXNlIE1vcmdhbjxCUj4K
 VW5pdmVyc2l0eSBMaWJyYXJpZXMgb2YgTm90cmUgRGFtZTxCUj4KPEJSPgo8L0ZPTlQ+CjwvUD4K
-CjwvQk9EWT4KPC9IVE1MPg==
+CjwvQk9EWT4KPC9IVE1MPg

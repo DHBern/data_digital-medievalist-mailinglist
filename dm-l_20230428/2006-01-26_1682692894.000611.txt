@@ -1,34 +1,74 @@
-Subject: [dm-l] Brief report on the Digital Philology conference in HamburgDear all, Here is just a brief report on the Digital Philology conference you might
-find of interest:The TEUCHOS centre <http://www.teuchos.uni-hamburg.de/>  - an institution
+Subject: [dm-l] Brief report on the Digital Philology conference in Hamburg
+
+Dear all,
+
+ 
+
+Here is just a brief report on the Digital Philology conference you might
+find of interest:
+
+The TEUCHOS centre <http://www.teuchos.uni-hamburg.de/>  - an institution
 that aims to provide digital research infrastructure in the fields of
 scholarly editing, paleography, manuscript research and history of philology
 and is located at the University of Hamburg - organized between 20 and 22
 January a conference with the title Digital Philology -
-<http://www.teuchos.uni-hamburg.de/?page_id=34>  Problems and Perspectives.
+<http://www.teuchos.uni-hamburg.de/?page_id4>  Problems and Perspectives.
 The presentations focused on tools, imaging, resources, cataloguing, and
 editing, and was preceded by a workshop on the digital edition of letter
 corpora. It did indeed provide a good overview over the state of digital
 editing and the tools and technologies necessary to produce these - both
 their achievements and problems. Some of the issues that came up during the
-conference were:*	the legal situation created by current copyright laws
+conference were:
+
+*	the legal situation created by current copyright laws
 *	the relation of the digital research environment to traditional
 research discourses
 *	the need for broader agreement on issues of standards and unique
 identifiers
 *	the development of new protocols in referring to digital products
-*	the availability of digital editions and the tools to produce themAnother aspect was the conversations and the networking facilitated between
+*	the availability of digital editions and the tools to produce them
+
+Another aspect was the conversations and the networking facilitated between
 work in different projects, countries, and languages: not only between
 projects mostly in German, English, French, or Italian, but also several
-Russian projects.The conference organizers will no doubt wish to share more information about
+Russian projects.
+
+The conference organizers will no doubt wish to share more information about
 both the conference and the TEUCHOS project as whole in time. It is very
 much hoped that the TEUCHOS centre succeed in obtaining the necessary
 funding to begin such important work in Germany in a truly international and
-collaborative spirit.Best, Juan ----------------------------------------------------------------------------Dr Juan GarcésCentre for Computing in the Humanities, King's College LondonKay House, 7 Arundel StreetLondon WC2R 3DXT: +44 (0)20 7848 1393F: +44 (0)20 7848 2980
---===============1999256374034513237==
-Content-Type: text/html
+collaborative spirit.
+
+Best,
+
+ 
+
+Juan
+
+ 
+
+----------------------------------------------------------------------------
+
+Dr Juan Garcés
+
+Centre for Computing in the Humanities, King's College London
+
+Kay House, 7 Arundel Street
+
+London WC2R 3DX
+
+T: +44 (0)20 7848 1393
+
+F: +44 (0)20 7848 2980
+
+
+
+--1999256374034513237Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWwgeG1sbnM6bz0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTpvZmZpY2U6b2ZmaWNlIiB4
+Content-Disposition: attachment; filename�ttachment.html"
+MIME-Version: 1.0
+
+PGh0bWwgeG1sbnM6bz0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTpvZmZpY2U6b2ZmaWNlIiB4
 bWxuczp3PSJ1cm46c2NoZW1hcy1taWNyb3NvZnQtY29tOm9mZmljZTp3b3JkIiB4bWxuczpzdDE9
 InVybjpzY2hlbWFzLW1pY3Jvc29mdC1jb206b2ZmaWNlOnNtYXJ0dGFncyIgeG1sbnM9Imh0dHA6
 Ly93d3cudzMub3JnL1RSL1JFQy1odG1sNDAiPgoKPGhlYWQ+CjxtZXRhIGh0dHAtZXF1aXY9Q29u
@@ -174,4 +214,4 @@ LWZhbWlseTpBcmlhbCc+VDogKzQ0ICgwKTIwIDc4NDggMTM5Mzwvc3Bhbj48L2ZvbnQ+PG86cD48
 L286cD48L3A+Cgo8cCBjbGFzcz1Nc29Ob3JtYWw+PGZvbnQgc2l6ZT0yIGZhY2U9QXJpYWw+PHNw
 YW4gbGFuZz1FTi1HQiBzdHlsZT0nZm9udC1zaXplOgoxMC4wcHQ7Zm9udC1mYW1pbHk6QXJpYWwn
 PkY6ICs0NCAoMCkyMCA3ODQ4IDI5ODA8L3NwYW4+PC9mb250PjxvOnA+PC9vOnA+PC9wPgoKPC9k
-aXY+Cgo8L2JvZHk+Cgo8L2h0bWw+Cg==
+aXY+Cgo8L2JvZHk+Cgo8L2h0bWw+Cg

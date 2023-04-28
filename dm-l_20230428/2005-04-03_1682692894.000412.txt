@@ -1,11 +1,15 @@
-Subject: Re: [dm-l] TAN: Unicode, XML, and LaTeXWhat scared me off XSL-FO was a recurring theme on TEI-L that suggested 
+Subject: Re: [dm-l] TAN: Unicode, XML, and LaTeX
+
+What scared me off XSL-FO was a recurring theme on TEI-L that suggested 
 that XSL-FO engines are too expensive or too poor to be used very much 
 by academics. In particular, it is claimed that the free ones don't do 
 tables very well, and the ones that do do tables well are expensive. 
 I'll take a look at the ones you suggest; I'm also looking at Context, 
 though, as somebody noted, it ain't consumer friendly in its set up. On 
 TEI-L, it has often been suggested that XML-ers can see LaTeX largely as 
-a PDF engine.I must say that two days intensive work with LaTeX has left me with 
+a PDF engine.
+
+I must say that two days intensive work with LaTeX has left me with 
 mixed feelings. On the one hand, I can produce a very neat looking 
 articles suitable for immediate publication in Phys Rev Letters. On the 
 other hand, the whole system seems pretty old fashioned. It claims to 
@@ -14,7 +18,9 @@ basically format oriented. It looks like the system the original HTML
 design was probably based on. SGML and XML are a conceptual leap 
 forward, although SGML suffered from a terrible lack of delivery 
 mechanisms, and XML seems to be suffering from the lack of a consumer 
-oriented Print/PDF mechanism.So in short, I think as an old SGML/XMLer, I'd rather stick with a 
+oriented Print/PDF mechanism.
+
+So in short, I think as an old SGML/XMLer, I'd rather stick with a 
 concept I understand (trees and XPATH), that convert a tree model to a 
 process-model like LaTeX seems to be; but I'd also prefer my output to 
 be cheap and easy to produce, without limitations (for example) on the 
@@ -24,7 +30,9 @@ of Brodart call-number stickers for my personal library (I'm a dork, as
 my neighbour has repeatedly noted), something that requires me 
 ultimately to set a very unusual page size. This is not hard to do in 
 XSL-FO, as far as I can tell, but quite difficult in LaTeX: another 
-reason to stick with FO, if I can.Jargon Watch:
+reason to stick with FO, if I can.
+
+Jargon Watch:
 XSL: eXtensible Stylesheet Language (a language for converting XML to 
 output formats)
 XSL-FO: a language for converting XML to (amongst other things) print 
@@ -35,7 +43,15 @@ XML: an HTML-like language used for encoding text structurally.
 SGML: an early version of XML
 HTML: the language used to encode web pages
 XPATH: an XML standard
-TEI-L: mailing list of the Text Encoding Initiative-danPeter Baker wrote:
+TEI-L: mailing list of the Text Encoding Initiative
+
+-dan
+
+
+
+
+
+Peter Baker wrote:
 > Dan,
 > 
 > I won't try to cover any of the ground that John McChesney-Young has 
@@ -82,7 +98,9 @@ TEI-L: mailing list of the Text Encoding Initiative-danPeter Baker wrote
 >> P.S. I'm cross posting this in tei-l; apologies for the double messages.
 > 
 > 
-> -- 
+> 
+
+-- 
 Daniel Paul O'Donnell, PhD
 Associate Professor of English
 University of Lethbridge
@@ -91,4 +109,7 @@ Tel. (403) 329-2377
 Fax. (403) 382-7191
 _redacted_(a)uleth.ca>
 Home Page <http://people.uleth.ca/~daniel.odonnell/>
-The Digital Medievalist Project: <http://www.digitalmedievalist.org/>
+The Digital Medievalist Project: <http://www.digitalmedievalist.org/>
+
+
+

@@ -1,44 +1,44 @@
-Subject: [dm-l] Latest developments of Biblissima, the Observatory of theDear all,The Biblissima team is pleased to announce its main achievements over the las=
-t few months.1. The iconography of manuscripts from French libraries in the Biblissima Por=
-tal:The data from Initiale, the catalogue of illuminated manuscripts from the Mid=
-dle Ages maintained by the IRHT-CNRS, can now be consulted in the Biblissima =
-Portal [1], thus joining those of the Mandragore database (Biblioth=C3=A8que =
-nationale de France). More than 306,000 records of illuminations and decorati=
-on elements can be consulted through a common interface, representing at this=
- stage a corpus of approx. 230,000 digital images accessible via IIIF protoco=
-ls. For more details, read this Twitter feed [2]. The Portal home page offers=
- a thematic entry point [3] into this large iconographic corpus.2. Publication of a repository of quotations for ancient manuscripts and prin=
-ted works:Biblissima's shelfmarks authority file has been published on data.biblissima.=
-fr<http://data.biblissima.fr>, the Biblissima authority data platform [4]. To=
- date, it references nearly 200,000 shelfmarks from various catalogues and da=
-tabases from Biblissima's partners, progressively integrated into the Portal =
-since 2017, and from the datasets aggregated into the IIIF-Collections search=
- engine. The creation of this authority file responds to the need to unambigu=
-ously and uniformly identify manuscripts and printed books thanks to a stable=
- and unique URI identifier that acts as the indispensable pivot for aggregati=
-ng metadata about the same object.3. Enrichments of the IIIF-Collections of Manuscripts and Rare Books search e=
-ngine:IIIF-Collections, the search platform for digitised manuscripts and rare book=
-s, aggregates data from 17 digital libraries and allows a federated search on=
- more than 75,000 records [5]. The last two datasets that have been processed=
- and integrated this month come from the Badische Landesbibliothek Karlsruhe =
-and the Thomas Fisher Rare Book Library at the University of Toronto.We remain open to any collaboration on shared entity files in the fields cove=
-red by Biblissima, and for the integration of new resources in its Portal.The Biblissima Team.Campus Condorcet
-8, cours des Humanit=C3=A9s
+Subject: [dm-l] Latest developments of Biblissima, the Observatory of the
+
+Dear all,
+
+The Biblissima team is pleased to announce its main achievements over the last few months.
+
+1. The iconography of manuscripts from French libraries in the Biblissima Portal:
+
+The data from Initiale, the catalogue of illuminated manuscripts from the Middle Ages maintained by the IRHT-CNRS, can now be consulted in the Biblissima Portal [1], thus joining those of the Mandragore database (Bibliothèque nationale de France). More than 306,000 records of illuminations and decoration elements can be consulted through a common interface, representing at this stage a corpus of approx. 230,000 digital images accessible via IIIF protocols. For more details, read this Twitter feed [2]. The Portal home page offers a thematic entry point [3] into this large iconographic corpus.
+
+2. Publication of a repository of quotations for ancient manuscripts and printed works:
+
+Biblissima's shelfmarks authority file has been published on data.biblissima.fr<http://data.biblissima.fr>, the Biblissima authority data platform [4]. To date, it references nearly 200,000 shelfmarks from various catalogues and databases from Biblissima's partners, progressively integrated into the Portal since 2017, and from the datasets aggregated into the IIIF-Collections search engine. The creation of this authority file responds to the need to unambiguously and uniformly identify manuscripts and printed books thanks to a stable and unique URI identifier that acts as the indispensable pivot for aggregating metadata about the same object.
+
+3. Enrichments of the IIIF-Collections of Manuscripts and Rare Books search engine:
+
+IIIF-Collections, the search platform for digitised manuscripts and rare books, aggregates data from 17 digital libraries and allows a federated search on more than 75,000 records [5]. The last two datasets that have been processed and integrated this month come from the Badische Landesbibliothek Karlsruhe and the Thomas Fisher Rare Book Library at the University of Toronto.
+
+We remain open to any collaboration on shared entity files in the fields covered by Biblissima, and for the integration of new resources in its Portal.
+
+The Biblissima Team.
+
+Campus Condorcet
+8, cours des Humanités
 93322 Aubervilliers CEDEX
-_redacted_@biblissima<https://twitter.com/bibli=
-ssima>[1] Biblissima Portal: https://portail.biblissima.fr/en
-[2] Twitter feed announcing the Portal update with iconographic data: https:/=
-/twitter.com/biblissima/status/1280485981544644609
-[3] Iconographic Thesaurus (Initiale/Mandragore): https://portail.biblissima.=
-fr/en/ark:/43093/thb806db559f2abfe3bd6884def6909c7329f5a183
+_redacted_@biblissima<https://twitter.com/biblissima>
+
+[1] Biblissima Portal: https://portail.biblissima.fr/en
+[2] Twitter feed announcing the Portal update with iconographic data: https://twitter.com/biblissima/status/1280485981544644609
+[3] Iconographic Thesaurus (Initiale/Mandragore): https://portail.biblissima.fr/en/ark:/43093/thb806db559f2abfe3bd6884def6909c7329f5a183
 [4] Biblissima Authority Files: https://data.biblissima.fr/w/Accueil/en
-[5] IIIF-Collections of Manuscripts and Rare Books: https://iiif.biblissima.f=
-r/collections/
---===============7202001942674262392==
-Content-Type: text/html
+[5] IIIF-Collections of Manuscripts and Rare Books: https://iiif.biblissima.fr/collections/
+
+
+
+--7202001942674262392Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
+Content-Disposition: attachment; filename�ttachment.html"
+MIME-Version: 1.0
+
+PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
 eHQvaHRtbDsgY2hhcnNldD11dGYtOCI+CjwvaGVhZD4KPGJvZHk+CjxkaXYgc3R5bGU9ImJvcmRl
 cjpzb2xpZCAjNjQ2NDY0IDEuMHB0O3BhZGRpbmc6Mi4wcHQgMi4wcHQgMi4wcHQgMi4wcHQ7YmFj
 a2dyb3VuZDojRkZFQjlDIj4KPHAgY2xhc3M9Ik1zb05vcm1hbCIgc3R5bGU9ImxpbmUtaGVpZ2h0
@@ -110,4 +110,5 @@ ZWlsL2VuIj5odHRwczovL2RhdGEuYmlibGlzc2ltYS5mci93L0FjY3VlaWwvZW48L2E+PC9kaXY+
 CjxkaXY+WzVdIElJSUYtQ29sbGVjdGlvbnMgb2YgTWFudXNjcmlwdHMgYW5kIFJhcmUgQm9va3M6
 Jm5ic3A7PGEgaHJlZj0iaHR0cHM6Ly9paWlmLmJpYmxpc3NpbWEuZnIvY29sbGVjdGlvbnMvIj5o
 dHRwczovL2lpaWYuYmlibGlzc2ltYS5mci9jb2xsZWN0aW9ucy88L2E+PC9kaXY+CjxkaXY+PGJy
-Pgo8L2Rpdj4KPC9kaXY+CjwvZGl2Pgo8L2JvZHk+CjwvaHRtbD4K
+Pgo8L2Rpdj4KPC9kaXY+CjwvZGl2Pgo8L2JvZHk+CjwvaHRtbD4K
+

@@ -1,28 +1,43 @@
-Subject: RE: [dm-l] virtual commonsThere is a cluster of projects around MetaScholar and the Ockham project
+Subject: RE: [dm-l] virtual commons
+
+There is a cluster of projects around MetaScholar and the Ockham project
 that are working on this kind of framework: http://www.metascholar.org/
 and http://www.ockham.org/ . I haven't kept up with them recently to see
 what's actually been deployed, though. They are producing open-source
 tools to do this kind of work, so it would be interesting to try them
-out in the digital medieval community.Among digitization projects the most radical I'm aware of is Project
+out in the digital medieval community.
+
+Among digitization projects the most radical I'm aware of is Project
 Runeberg in Sweden, which allows users to proofread the OCR text against
 the page images and submit corrections. http://runeberg.org (the server
 seems to be slow at the moment, though). Sample page:
-http://runeberg.org/hagberg/e/0046.html . Peter-----Original Message-----
+http://runeberg.org/hagberg/e/0046.html . 
+
+Peter
+
+-----Original Message-----
 _redacted_(a)uleth.ca] On Behalf Of
 Daniel O'Donnell
 Sent: Saturday, March 18, 2006 5:17 PM
 To: Digital Community mailing list
-Subject: [dm-l] virtual commonsAt Kalamazoo last year, I heard a discussion of a project that was
+Subject: [dm-l] virtual commons
+
+At Kalamazoo last year, I heard a discussion of a project that was
 planning to use an virtual commons--i.e. a place where users could
 contribute to the development of the project through shared annotation,
 textual development, and the like (I think they actually described it as
 a piazza. As I understood the idea, and in discussion at the Digital
 Medievalist business meeting a couple of people mentioned similar
 proposal, the idea was to build what we might now think of as adding
-wiki-like capabilities to a larger, unified, scholarly project.Does anybody know of any scholarly projects that have actually
+wiki-like capabilities to a larger, unified, scholarly project.
+
+Does anybody know of any scholarly projects that have actually
 implemented such virtual piazza-type interaction? I'm interested in
 projects that allows arbitrary users to contribute to the content,
-either with or without refereeing.-d
+either with or without refereeing.
+
+-d
+
 _______________________________________________
 Digital Medievalist Project
 Homepage: http://www.digitalmedievalist.org Journal (Spring 2005-):
@@ -34,5 +49,7 @@ Change membership options:
 http://listserv.uleth.ca/mailman/listinfo/dm-l
 Submit RSS announcement: http://www.digitalmedievalist.org/newitem.cfm
 _redacted_(a)uleth.ca dm-l mailing list
-_redacted_(a)uleth.ca http://listserv.uleth.ca/mailman/listinfo/dm-l
---===============9118629868026680373==--
+_redacted_(a)uleth.ca http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+--9118629868026680373-
+

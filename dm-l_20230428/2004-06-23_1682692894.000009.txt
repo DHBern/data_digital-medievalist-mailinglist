@@ -1,13 +1,22 @@
-Subject: Re: [dm-l] Re: Experience using Microsoft's XSLT?Hi there,At 08:49 AM 23/06/2004, you wrote:
+Subject: Re: [dm-l] Re: Experience using Microsoft's XSLT?
+
+Hi there,
+
+At 08:49 AM 23/06/2004, you wrote:
 >If you can do it (and I have not yet seen this done,
 >though I have heard lengthy explanations of how it *might* be done) you can
 >only do it with great difficulty with the standard tools.  The problem here
 >is our old bugbear overlapping hierarchies, and XSLT etc just don't have any
->easy answer to this -- and maybe no reliable answer at all.I've done a fairly simple transformation of Shakespeare plays which 
+>easy answer to this -- and maybe no reliable answer at all.
+
+I've done a fairly simple transformation of Shakespeare plays which 
 includes both Act / Scene divisions and pagebreaks, and if MS page images 
 had been part of the project, it would have been easy to drop them in next 
-to the appropriate pages.Cheers,
-Martin
+to the appropriate pages.
+
+Cheers,
+Martin
+
 ______________________________________
 Martin Holmes
 University of Victoria Humanities Computing and Media Centre
@@ -16,4 +25,7 @@ _redacted_(a)mholmes.com
 _redacted_(a)halfbakedsoftware.com
 http://www.mholmes.com
 http://web.uvic.ca/hcmc/
-http://www.halfbakedsoftware.com
+http://www.halfbakedsoftware.com
+
+
+

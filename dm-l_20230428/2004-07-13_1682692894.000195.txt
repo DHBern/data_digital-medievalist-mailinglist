@@ -1,4 +1,8 @@
-Subject: Re: [dm-l] Junius 11 CDOn Tue, 13 Jul 2004, Martin K. Foys wrote:> Hello to all from the Leeds Conference.
+Subject: Re: [dm-l] Junius 11 CD
+
+On Tue, 13 Jul 2004, Martin K. Foys wrote:
+
+> Hello to all from the Leeds Conference.
 >
 > THe Bodleian has just rolled out a Junius 11 digital facsimile that is
 > on display here. It's all done, it appears, in javascript and CSS (and
@@ -6,12 +10,20 @@ Subject: Re: [dm-l] Junius 11 CDOn Tue, 13 Jul 2004, Martin K. Foys wrote:> 
 > and the architecture is pretty fluid and intuitive, especially when
 > compared to simlar efforts in the past . . .
 >
-> More info at http://www.evellum.com/junius/I too have been playing with this at the Leeds Conference and found
+> More info at http://www.evellum.com/junius/
+
+I too have been playing with this at the Leeds Conference and found
 it extremely well done.  As Martin said its use is extremely
 intuitive.  I've not yet had time to find out about the
 markup employed in the transcripts and translations, and how the
-frontend is really coded, I suppose Bernard Muir is the person to ask.Any idea if it _really_ only runs in MSIE? (And why?)-James
+frontend is really coded, I suppose Bernard Muir is the person to ask.
+
+Any idea if it _really_ only runs in MSIE? (And why?)
+
+-James
 ---
 Dr James Cummings, Oxford Text Archive, University of Oxford
-James dot Cummings at ota dot ahds dot ac dot uk
---===============2445560747147586910==--
+James dot Cummings at ota dot ahds dot ac dot uk
+
+--2445560747147586910-
+

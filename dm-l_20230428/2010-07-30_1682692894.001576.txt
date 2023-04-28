@@ -1,13 +1,19 @@
-Subject: Re: [dm-l] Question about preservation of digital contentOn 10-07-29 12:25 AM, Dot Porter wrote:
-> Although Dan O'Donnell is correct that many older file formats are=20
-> still able to be read far past the time we might expect it, the issue=20
-> of "digital preservation" is much more extensive than simply "can I=20
-> still have access to the data on this file" (at least, if you ask a=20
+Subject: Re: [dm-l] Question about preservation of digital content
+
+
+
+On 10-07-29 12:25 AM, Dot Porter wrote:
+> Although Dan O'Donnell is correct that many older file formats are 
+> still able to be read far past the time we might expect it, the issue 
+> of "digital preservation" is much more extensive than simply "can I 
+> still have access to the data on this file" (at least, if you ask a 
 > librarian about it  :-)  ).
-Which is why you never should ;) Seriously, though, you're right, of course.>
+Which is why you never should ;) Seriously, though, you're right, of course.
+
+>
 > Dot
 >
-_redacted_(a)hrstud.hr=20
+_redacted_(a)hrstud.hr 
 _redacted_(a)hrstud.hr>> wrote:
 >
 >     Dear Digital Medievalists and TEI members,
@@ -15,12 +21,10 @@ _redacted_(a)hrstud.hr>> wrote:
 >     I have a question about preservation of digital content especially
 >     medieval manuscripts. I am writing a small article on the topic
 >     and I have consulted a lot sources (papers, handbooks) but most of
->     them do not say anything about the =E2=80=9Clife span=E2=80=9D of the d=
-ata in
->     specific formats. To clarify this =E2=80=93 a .doc file crated in 1995.
+>     them do not say anything about the “life span” of the data in
+>     specific formats. To clarify this – a .doc file crated in 1995.
 >     Will be most likely unreadable  in 2010.  What about other
->     formats? Has anyone done some research on =E2=80=9Clife span=E2=80=9D o=
-f a
+>     formats? Has anyone done some research on “life span” of a
 >     specific version of digital formats and when it becomes clear that
 >     the new version and the old one are not compatible anymore? And
 >     here I am talking about pdf, rtf, doc (and all office files),
@@ -53,14 +57,14 @@ f a
 >     News: http://www.digitalmedievalist.org/news/
 >     Wiki: http://www.digitalmedievalist.org/wiki/
 >     Twitter: http://twitter.com/digitalmedieval
->     Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+>     Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca>
 >     Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
 >
 >
 >
 >
-> --=20
+> -- 
 > *~*~*~*~*~*~*~*~*~*~*
 > Dot Porter (MA, MSLS)
 > Digital Medievalist, Digital Librarian
@@ -74,17 +78,25 @@ _redacted_(a)gmail.com>
 > News: http://www.digitalmedievalist.org/news/
 > Wiki: http://www.digitalmedievalist.org/wiki/
 > Twitter: http://twitter.com/digitalmedieval
-> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+> Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca
-> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l--=20
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+-- 
 Daniel Paul O'Donnell
 Professor of English
-University of LethbridgeChair and CEO, Text Encoding Initiative (http://www.tei-c.org/)
+University of Lethbridge
+
+Chair and CEO, Text Encoding Initiative (http://www.tei-c.org/)
 Co-Chair, Digital Initiatives Advisory Board, Medieval Academy of America
-President-elect (English), Society for Digital Humanities/Soci=C3=A9t=C3=A9 p=
-our l'=C3=A9tude des m=C3=A9dias interactifs (http://sdh-semi.org/)
-Founding Director (2003-2009), Digital Medievalist Project (http://www.digita=
-lmedievalist.org/)Vox: +1 403 329-2377
+President-elect (English), Society for Digital Humanities/Société pour l'étude des médias interactifs (http://sdh-semi.org/)
+Founding Director (2003-2009), Digital Medievalist Project (http://www.digitalmedievalist.org/)
+
+Vox: +1 403 329-2377
 Fax: +1 403 382-7191 (non-confidential)
-Home Page: http://people.uleth.ca/~daniel.odonnell/
---===============5436693576028905267==--
+Home Page: http://people.uleth.ca/~daniel.odonnell/
+
+
+
+--5436693576028905267-
+

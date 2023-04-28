@@ -1,28 +1,45 @@
-Subject: Re: [dm-l] Plain text access to medieval manuscripts: 147 volumesDear Nick,thank you for your encouraging message.As for the first question, I understand your concern about large publically
+Subject: Re: [dm-l] Plain text access to medieval manuscripts: 147 volumes
+
+Dear Nick,
+
+thank you for your encouraging message.
+
+As for the first question, I understand your concern about large publically
 funded projects. Alas, there is no plan to release the code under a free
 software license: This is part of the funding mechanism integrating a
 private company, in the present case A2iA, which is the leader worldwide in
 Handwritten Text Recognition. The methods, however, are published in
-conference and journals and can be replicated.I am glad to announce, as for the second question, that we will release the
+conference and journals and can be replicated.
+
+I am glad to announce, as for the second question, that we will release the
 plain text under CC0 license. Please note the search interface gives access
 to more than the plain text, since it gives access to indexes in which each
 "word on the page" is transcribed by many "word hypotheses". A "plain text"
 would only be the sequence of "best word hypothese" for the "word on the
 page", while it often happens that the correct reading is in the second or
 third hypothese. So, plain text will be much poorer, even if, of course, it
-has a great potential for further analysis.Before releasing the "plain (automated) text", we plan to structure the
+has a great potential for further analysis.
+
+Before releasing the "plain (automated) text", we plan to structure the
 corpus in single "documents" (here, typically, each royal charter recorded
 in the registers) and to attribute each part of the plain text to those
 documents, for which we have (more or less) metadata. The issue of
 granularity is of core importance to HIMANIS project, because network
 analysis (esp. on persons and places) will have to take into account the
 "document" granularity and not the "page" or the "volume". So, this is our
-priority by now.Best regards,
-Dominique=E2=80=93=E2=80=93
+priority by now.
+
+Best regards,
+Dominique
+
+––
 M. Dominique Stutzmann
-Charg=C3=A9 de recherche =C3=A0 l'Institut de Recherche et d'Histoire des Tex=
-tes
-(CNRS, UPR 841)_redacted_(a)ell.ox.ac.uk>:> Dear Dominique,
+Chargé de recherche à l'Institut de Recherche et d'Histoire des Textes
+(CNRS, UPR 841)
+
+_redacted_(a)ell.ox.ac.uk>:
+
+> Dear Dominique,
 >
 > This does indeed look very interesting. I have a couple of
 > questions.
@@ -51,8 +68,7 @@ tes
 > > Dear all,
 > >
 > > Within the HIMANIS project, funded by the Joint Programming Initiative on
-> > Cultural Heritage and Global Change=E2=80=9D (JPI-CH) of the European Uni=
-on, the
+> > Cultural Heritage and Global Change” (JPI-CH) of the European Union, the
 > > partners are developing cost-effective solutions for querying large sets
 > of
 > > handwritten document images. With IRHT and A2iA (France), the
@@ -64,15 +80,13 @@ on, the
 > research-based
 > > knowledge from historical manuscripts. As a challenging and particularly
 > > interesting case study, we have indexed the large collection of the
-> Tr=C3=A9sor des
-> > Chartes=E2=80=99 registers produced by the French royal chancery (Paris, =
-Archives
-> > Nationales, JJ7 =E2=80=93 JJ209).
+> Trésor des
+> > Chartes’ registers produced by the French royal chancery (Paris, Archives
+> > Nationales, JJ7 – JJ209).
 > >
 > > Now we are proud to announce that you can search the plain text in the
-> Tr=C3=A9sor
-> > des Chartes=E2=80=99 registers and provide feedback: It is ready to be us=
-ed and
+> Trésor
+> > des Chartes’ registers and provide feedback: It is ready to be used and
 > tested
 > > by all interested users worldwide!
 > > http://prhlt-kws.prhlt.upv.es/himanis/
@@ -108,10 +122,10 @@ ed and
 > > Two simple examples as a beginning:
 > > - "scriptor" within the whole corpus: http://prhlt-kws.prhlt.upv.es/
 > himanis/
-> > index.php?q=3Dscriptor& t=3D10&feedback=3D1
+> > index.php?q=scriptor& t=10&feedback=1
 > > - "pelerinage" on one page : http://prhlt-kws.prhlt.upv.es/
 > himanis/index.php/
-> > ui/show/ chancery/147/853?q=3Dpelerinage& t=3D50&feedback=3D1
+> > ui/show/ chancery/147/853?q=pelerinage& t=50&feedback=1
 > >
 > > The complete indexing results from an automated, image analysis process.
 > You
@@ -131,10 +145,9 @@ _redacted_(a)irht.cnrs.fr!
 > > Best regards
 > >
 > > Dominique Stutzmann
-> > =E2=80=93=E2=80=93
+> > ––
 > > M. Dominique Stutzmann
-> > Charg=C3=A9 de recherche =C3=A0 l'Institut de Recherche et d'Histoire des=
- Textes
+> > Chargé de recherche à l'Institut de Recherche et d'Histoire des Textes
 > (CNRS,
 > > UPR 841)
 >
@@ -143,11 +156,15 @@ _redacted_(a)irht.cnrs.fr!
 > > Journal Editors: editors _AT_ digitalmedievalist.org
 > > News: https://digitalmedievalist.wordpress.com/news/
 > > Twitter: http://twitter.com/digitalmedieval
-> > Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+> > Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca
 > > Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
 >
->PGRpdiBkaXI9Imx0ciI+PGRpdj48ZGl2PjxkaXY+PGRpdj48ZGl2PjxkaXY+RGVhciBOaWNrLCA8
+>
+
+
+
+PGRpdiBkaXI9Imx0ciI+PGRpdj48ZGl2PjxkaXY+PGRpdj48ZGl2PjxkaXY+RGVhciBOaWNrLCA8
 YnI+PGJyPjwvZGl2PnRoYW5rIHlvdSBmb3IgeW91ciBlbmNvdXJhZ2luZyBtZXNzYWdlLiA8YnI+
 PGJyPjwvZGl2PkFzIGZvciB0aGUgZmlyc3QgcXVlc3Rpb24sIEkgdW5kZXJzdGFuZCB5b3VyIGNv
 bmNlcm4gYWJvdXQgbGFyZ2UgcHVibGljYWxseSBmdW5kZWQgcHJvamVjdHMuIEFsYXMsIHRoZXJl
@@ -305,4 +322,4 @@ IGhyZWY9Im1haWx0bzpkbS1sQHVsZXRoLmNhIj5kbS1sQHVsZXRoLmNhPC9hPjxicj4KJmd0OyBD
 aGFuZ2UgbGlzdCBvcHRpb25zOiA8YSBocmVmPSJodHRwOi8vbGlzdHNlcnYudWxldGguY2EvbWFp
 bG1hbi9saXN0aW5mby9kbS1sIiByZWw9Im5vcmVmZXJyZXIiIHRhcmdldD0iX2JsYW5rIj5odHRw
 Oi8vbGlzdHNlcnYudWxldGguY2EvPHdicj5tYWlsbWFuL2xpc3RpbmZvL2RtLWw8L2E+PGJyPgo8
-YnI+CjwvZGl2PjwvZGl2PjwvYmxvY2txdW90ZT48L2Rpdj48YnI+PC9kaXY+Cg==
+YnI+CjwvZGl2PjwvZGl2PjwvYmxvY2txdW90ZT48L2Rpdj48YnI+PC9kaXY+Cg

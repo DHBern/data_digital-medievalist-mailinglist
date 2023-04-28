@@ -1,43 +1,24 @@
-Subject: [dm-l] Connecting Textual Corpora and Dictionaries - =?utf-8?q?Krak?=Connecting Textual Corpora and Dictionaries
-25-26 April 2013, Krak=C3=B3w (Poland)
-One of the numerous objectives of COST Action 1005 "Medioevo Europeo" is the =
-development of the Virtual Centre of Medieval Studies (VCMS) which shall inte=
-grate hitherto dissipate databases, textual collections, and dictionaries int=
-o a mature tool for carrying out research on Middle Ages. This goal, however,=
- can only be achieved with reflection on the existing tools, practices, and u=
-sers' needs. These are the crucial questions which we want to address with ou=
-r workshop which focuses on the corpus-dictionary interface. The meeting will=
- start with a short presentation of the digital projects that are being carri=
-ed out in the Institute of Polish Language in Krak=C3=B3w (Polish Academy of =
-Sciences) which hosts the workshop. The first working session (State of Art: =
-Good (and Bad) Practices, Formats, APIs, Interfaces) will comprise brief "sta=
-te of art" reports dealing with the existing tools of the lexicographical and=
- textual research. It will provide us with a deepened insight into the techni=
-cal issues of the prospective tools' integration and will contribute to the d=
-escription of good and bad practices of dictionary and corpora linking. Each =
-participant will try to describe the databases according to the strict protoc=
-ol which includes their chronological and geographical scope, search and brow=
-sing capabilities, interface type, file formats, encoding standards, licensin=
-g model, and web APIs.The second working session (Corpora Use in Lexicographic Practice) provides r=
-eal-world scenarios of the use of corpora-dictionary interface. Practising le=
-xicographers will demonstrate how corpora facilitate everyday dictionary writ=
-ing processes and how text collections can be exploited in order to enrich th=
-e lexicon. The contributions gathered in this section shall help to precise w=
-hat are the features of the prospective VCMS that would satisfy the lexicogra=
-phers' community, and what are the interlinking models that would match its n=
-eeds.The last two sections (Mature Projects: Goals, Tools, Challenges and Emerging=
- Projects: Perspectives and Challenges) of the workshop will group demonstrat=
-ions, mock-ups, and practical learning sessions. Creators of mature projects =
-and research infrastructures will share their experience in what concerns the=
- syntactic and semantic interoperability of their services. They will also of=
-fer other participants a short training. Those, in turn, whose projects are o=
-nly in the construction or planning phase, will demonstrate their scientific =
-goals, and the problems they encounter in assuring high data linking profile.Local Organizer
+Subject: [dm-l] Connecting Textual Corpora and Dictionaries - tf-8?q?Krak?
+Connecting Textual Corpora and Dictionaries
+25-26 April 2013, Kraków (Poland)
+One of the numerous objectives of COST Action 1005 "Medioevo Europeo" is the development of the Virtual Centre of Medieval Studies (VCMS) which shall integrate hitherto dissipate databases, textual collections, and dictionaries into a mature tool for carrying out research on Middle Ages. This goal, however, can only be achieved with reflection on the existing tools, practices, and users' needs. These are the crucial questions which we want to address with our workshop which focuses on the corpus-dictionary interface. The meeting will start with a short presentation of the digital projects that are being carried out in the Institute of Polish Language in Kraków (Polish Academy of Sciences) which hosts the workshop. The first working session (State of Art: Good (and Bad) Practices, Formats, APIs, Interfaces) will comprise brief "state of art" reports dealing with the existing tools of the lexicographical and textual research. It will provide us with a deepened insight into the technical issues of the prospective tools' integration and will contribute to the description of good and bad practices of dictionary and corpora linking. Each participant will try to describe the databases according to the strict protocol which includes their chronological and geographical scope, search and browsing capabilities, interface type, file formats, encoding standards, licensing model, and web APIs.
+
+The second working session (Corpora Use in Lexicographic Practice) provides real-world scenarios of the use of corpora-dictionary interface. Practising lexicographers will demonstrate how corpora facilitate everyday dictionary writing processes and how text collections can be exploited in order to enrich the lexicon. The contributions gathered in this section shall help to precise what are the features of the prospective VCMS that would satisfy the lexicographers' community, and what are the interlinking models that would match its needs.
+
+The last two sections (Mature Projects: Goals, Tools, Challenges and Emerging Projects: Perspectives and Challenges) of the workshop will group demonstrations, mock-ups, and practical learning sessions. Creators of mature projects and research infrastructures will share their experience in what concerns the syntactic and semantic interoperability of their services. They will also offer other participants a short training. Those, in turn, whose projects are only in the construction or planning phase, will demonstrate their scientific goals, and the problems they encounter in assuring high data linking profile.
+
+Local Organizer
 Institute of Polish Language
 Polish Academy of Sciences
 al. Mickiewicza 31
-31-120 Krak=C3=B3whttp://scriptores.pl/workshop
-http://scriptores.pl/workshop/schedule/PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMCBUcmFuc2l0aW9uYWwv
+31-120 Kraków
+
+http://scriptores.pl/workshop
+http://scriptores.pl/workshop/schedule/
+
+
+
+PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMCBUcmFuc2l0aW9uYWwv
 L0VOIj4KPEhUTUw+PEhFQUQ+CjxNRVRBIGNvbnRlbnQ9InRleHQvaHRtbDsgY2hhcnNldD1pc28t
 ODg1OS0xIiBodHRwLWVxdWl2PUNvbnRlbnQtVHlwZT4KPE1FVEEgbmFtZT1HRU5FUkFUT1IgY29u
 dGVudD0iTVNIVE1MIDguMDAuNjAwMS4xODg3NiI+CjxTVFlMRT48L1NUWUxFPgo8L0hFQUQ+CjxC
@@ -97,4 +78,5 @@ PjwvUD48L0RJVj4KPERJVj48QSAKaHJlZj0iaHR0cDovL3NjcmlwdG9yZXMucGwvd29ya3Nob3Ai
 Pmh0dHA6Ly9zY3JpcHRvcmVzLnBsL3dvcmtzaG9wPC9BPjwvRElWPgo8RElWPjxGT05UIHNpemU9
 MiBmYWNlPUFyaWFsPjxBIApocmVmPSJodHRwOi8vc2NyaXB0b3Jlcy5wbC93b3Jrc2hvcC9zY2hl
 ZHVsZS8iPmh0dHA6Ly9zY3JpcHRvcmVzLnBsL3dvcmtzaG9wL3NjaGVkdWxlLzwvQT48L0ZPTlQ+
-PC9ESVY+PC9CT0RZPjwvSFRNTD4K
+PC9ESVY+PC9CT0RZPjwvSFRNTD4K
+

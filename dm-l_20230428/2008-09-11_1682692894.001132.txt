@@ -1,22 +1,30 @@
-Subject: [dm-l] Image-text aligning using TEI P5 and IMTHi all,
+Subject: [dm-l] Image-text aligning using TEI P5 and IMT
+
+Hi all,
 lately I've been using (read: experimenting mostly) the excellent Image
 Markup Tool by M. Holmes
 (http://www.tapor.uvic.ca/~mholmes/image_markup/index.php) together with
 the TEI P5 <facsimile> element to markup areas of the Vercelli Book
 manuscript images to the corresponding transcription in XML format. From
-the beginning, I thought about two distinct ways to link text and image:1. hot-spot functionality: define specific areas of the folio (decorated
+the beginning, I thought about two distinct ways to link text and image:
+
+1. hot-spot functionality: define specific areas of the folio (decorated
 initials, marginalia, erasures and corrections, etc.) to be linked to
 explanatory text (such as paleographical and editorial notes);
 2. direct image-transcription linking: define every line in the
 manuscript as an area linked to the corresponding text of the
 transcription; the idea being that clicking on a line in the ms image
-would take you to the corresponding text line, and viceversa.While I have little concerns about 1 and will surely proceed as
+would take you to the corresponding text line, and viceversa.
+
+While I have little concerns about 1 and will surely proceed as
 intended, I'm having second thoughts about 2, especially after giving a
 paper at a conference in Pavia (Medieval Texts-Contemporary Media: The
 Art and Science of Editing in the Digital Age
-http://lettere.unipv.it/?pagina=p&titolo=MedievalTexts) on this very
+http://lettere.unipv.it/?paginatitoloþdievalTexts) on this very
 subject and discussing it a little with other participants afterwards. I
-wonder which approach is best on usability grounds:1. linking line to line as originally planned: the disadvantage being
+wonder which approach is best on usability grounds:
+
+1. linking line to line as originally planned: the disadvantage being
 that, moving forward while browsing the images or the transcription
 text, the connection between the two would be lost, (status disruption,
 a possibly cause of uncertainty for the user);
@@ -27,18 +35,33 @@ heavy on resources perhaps (alignment might be disabled an re-enabled
 though);
 3. giving up on a line to line alignment for a simpler page to page
 linking: surely less flexible, would require less encoding and less
-resources.Which solution is best, in your opinion? Are you working on similar
-text-image linking projects? What have you decided to do?Thanks in advance,	Roberto-- Roberto Rosselli Del Turco      roberto.rossellidelturco at unito.it
+resources.
+
+Which solution is best, in your opinion? Are you working on similar
+text-image linking projects? What have you decided to do?
+
+Thanks in advance,
+
+	Roberto
+
+-- 
+
+Roberto Rosselli Del Turco      roberto.rossellidelturco at unito.it
 Dipartimento di Scienze         rosselli at ling.unipi.it
 del Linguaggio                  Then spoke the thunder  DA
 Universita' di Torino           Datta: what have we given?  (TSE)
  
   Hige sceal the heardra,     heorte the cenre,
   mod sceal the mare,       the ure maegen litlath.  (Maldon 312-3)
--- Roberto Rosselli Del Turco      roberto.rossellidelturco at unito.it
+-- 
+
+Roberto Rosselli Del Turco      roberto.rossellidelturco at unito.it
 Dipartimento di Scienze         rosselli at ling.unipi.it
 del Linguaggio                  Then spoke the thunder  DA
 Universita' di Torino           Datta: what have we given?  (TSE)
  
   Hige sceal the heardra,     heorte the cenre,
-  mod sceal the mare,       the ure maegen litlath.  (Maldon 312-3)
+  mod sceal the mare,       the ure maegen litlath.  (Maldon 312-3)
+
+
+

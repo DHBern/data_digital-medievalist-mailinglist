@@ -1,11 +1,27 @@
-Subject: Re: [dm-l] MS-Internet Explorer 6 and standards based computing
-On Monday, June 28, 2004, at 09:06 AM, James Cummings wrote:> Many users have extremely out of date browsers which will display HTML 
+Subject: Re: [dm-l] MS-Internet Explorer 6 and standards based computing
+
+On Monday, June 28, 2004, at 09:06 AM, James Cummings wrote:
+
+> Many users have extremely out of date browsers which will display HTML 
 > with (sometimes if you are lucky) a bit of CSS. Many don't have 
-> browsers that have XSLT parsers built in.fwiw, here are the latest browser use numbers.http://www.w3schools.com/browsers/browsers_stats.aspwhat i find most interesting is that mozilla seems to be gaining as 
+> browsers that have XSLT parsers built in.
+
+fwiw, here are the latest browser use numbers.
+
+http://www.w3schools.com/browsers/browsers_stats.asp
+
+what i find most interesting is that mozilla seems to be gaining as 
 users switch from IE 5. that is, they *appear* to be going from IE5 not 
-to IE6 but to mozilla.all this said, i would still guess people on this list will have a 
+to IE6 but to mozilla.
+
+all this said, i would still guess people on this list will have a 
 higher percentage of IE5 and non-IE browsers with your users, in part 
 because you probably have a larger mac audience than the general 
 population. you probably also have more users with the lower 
-resolution. these are obviously just guesses, though.cheers,
-j
+resolution. these are obviously just guesses, though.
+
+cheers,
+j
+
+
+

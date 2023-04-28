@@ -1,25 +1,48 @@
-Subject: [dm-l] DChanges @ DocEng 2015: Call for Papers                   3rd International Workshop on    (Document) Changes: Modeling, Detection, Storage and Visualization                http://diff.cs.unibo.it/dchanges2015/Part of 15th ACM SIGWEB International Symposium on Document Engineering             Lausanne, Switzerland, September 8th, 2015
+Subject: [dm-l] DChanges @ DocEng 2015: Call for Papers
+
+                   3rd International Workshop on
+
+    (Document) Changes: Modeling, Detection, Storage and Visualization
+
+                http://diff.cs.unibo.it/dchanges2015/
+
+Part of 15th ACM SIGWEB International Symposium on Document Engineering
+
+             Lausanne, Switzerland, September 8th, 2015
+
 CALL FOR PAPERS
-=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3DDChanges 2015 is the third edition of the International Workshop on=20
-(Document) Changes: Modeling, Detection, Storage and Visualization in=20
-conjunction with the 15th ACM SIGWEB International Symposium on Document=20
-Engineering. This year, the workshop will be held in Lausanne=20
-(Switzerland) in September 2015.The focus of the workshop is the study of changes in all its aspects and=20
-applications: algorithms to detect changes, models to describe=20
-differences, techniques to track changes, versioning of human-readable=20
-as well as computer-oriented files, tools to detect meaningful changes=20
-among a myriad of modifications.We want to look at these topics from different perspectives, and take on=20
-different approaches. The workshop brings together researchers and=20
-practitioners from industry and academia. It is a unique occasion to=20
-discuss these issues in an informal setting and to foster collaboration.The previous editions emphasised a strong need for novel algorithms and=20
-interfaces to better understand and exploit detected changes. Several=20
-issues were pointed out as still unsolved: interfaces do not scale when=20
-dealing with many changes, changes at different levels of abstraction=20
-are often not sufficiently taken into account, detection and=20
-visualization are often inter-mixed, logs are often detailed but=20
-underexploited, and versioning techniques are not very well suited for=20
-non-technical people.Besides contributions on these topics, we also seek contributions on,=20
-but not necessarily limited to:	* Diffing and change tracking algorithms
+===============
+
+DChanges 2015 is the third edition of the International Workshop on 
+(Document) Changes: Modeling, Detection, Storage and Visualization in 
+conjunction with the 15th ACM SIGWEB International Symposium on Document 
+Engineering. This year, the workshop will be held in Lausanne 
+(Switzerland) in September 2015.
+
+The focus of the workshop is the study of changes in all its aspects and 
+applications: algorithms to detect changes, models to describe 
+differences, techniques to track changes, versioning of human-readable 
+as well as computer-oriented files, tools to detect meaningful changes 
+among a myriad of modifications.
+
+We want to look at these topics from different perspectives, and take on 
+different approaches. The workshop brings together researchers and 
+practitioners from industry and academia. It is a unique occasion to 
+discuss these issues in an informal setting and to foster collaboration.
+
+The previous editions emphasised a strong need for novel algorithms and 
+interfaces to better understand and exploit detected changes. Several 
+issues were pointed out as still unsolved: interfaces do not scale when 
+dealing with many changes, changes at different levels of abstraction 
+are often not sufficiently taken into account, detection and 
+visualization are often inter-mixed, logs are often detailed but 
+underexploited, and versioning techniques are not very well suited for 
+non-technical people.
+
+Besides contributions on these topics, we also seek contributions on, 
+but not necessarily limited to:
+
+	* Diffing and change tracking algorithms
 		* Change modeling and representation
 		* High-level differences
 		* Detecting changes on complex data structures
@@ -45,46 +68,79 @@ but not necessarily limited to:	* Diffing and change tracking algorithms
 		* Plagiarism detection
 	* Applications of diff techniques from and to other domains
 		* Software engineering, law, medicine etc.
-	* Document and schema refactoringContributions from related areas are also well accepted.
+	* Document and schema refactoring
+
+Contributions from related areas are also well accepted.
+
 Program
---------The workshop will run a full day, divided in two parts to emphasize both=20
-theoretical/algorithmic aspects and practical applications. Ample space=20
-will be given to peer discussions and brainstorming about the results of=20
-the presentations and the ideas brought forth by participants.A detailed schedule will be announced in August.
+--------
+
+The workshop will run a full day, divided in two parts to emphasize both 
+theoretical/algorithmic aspects and practical applications. Ample space 
+will be given to peer discussions and brainstorming about the results of 
+the presentations and the ideas brought forth by participants.
+
+A detailed schedule will be announced in August.
+
 Proceedings
------------We plan to publish our proceedings via ACM ICPS, as we did last year.=20
-Further details on the publication venue for the proceedings will be=20
-available soon.
+-----------
+
+We plan to publish our proceedings via ACM ICPS, as we did last year. 
+Further details on the publication venue for the proceedings will be 
+available soon.
+
 Important Dates
----------------* Abstracts are due: June 28th, 2015
+---------------
+
+* Abstracts are due: June 28th, 2015
 * Papers and notes are due: July 3rd, 2015
 * Acceptance notice: July 31st, 2015
-* Camera ready: August 24th, 2015
+* Camera ready: August 24th, 2015
+
 Paper submission
-----------------Two types of submissions are possible:* Application/demo notes: 2-4 pages long, showcasing systems or tools
-* Research papers: 4-8 pages long, describing original and unpublished=20
-researchAll papers must conform to the ACM SIG Proceedings format:=20
-<https://www.acm.org/publications/article-templates/proceedings-template.html=
-/>.Papers must be submitted to the EasyChair site=20
-<https://easychair.org/conferences/?conf=3Ddchanges2015>. All submissions=20
-will undergo a rigorous single blind review process.
+----------------
+
+Two types of submissions are possible:
+
+* Application/demo notes: 2-4 pages long, showcasing systems or tools
+* Research papers: 4-8 pages long, describing original and unpublished 
+research
+
+All papers must conform to the ACM SIG Proceedings format: 
+<https://www.acm.org/publications/article-templates/proceedings-template.html/>.
+
+Papers must be submitted to the EasyChair site 
+<https://easychair.org/conferences/?conf=dchanges2015>. All submissions 
+will undergo a rigorous single blind review process.
+
 Organizers
-----------* Gioele Barabucci, Universit=C3=A4t zu K=C3=B6ln
-* Uwe M. Borghoff, Universit=C3=A4t der Bundeswehr M=C3=BCnchen
-* Angelo Di Iorio, Universit=C3=A0 di Bologna
-* Sonja Maier, Universit=C3=A4t der Bundeswehr M=C3=BCnchen
-* Ethan Munson, University of Wisconsin-Milwaukee_redacted_(a)lists.cs.unibo.it>.
+----------
+
+* Gioele Barabucci, Universität zu Köln
+* Uwe M. Borghoff, Universität der Bundeswehr München
+* Angelo Di Iorio, Università di Bologna
+* Sonja Maier, Universität der Bundeswehr München
+* Ethan Munson, University of Wisconsin-Milwaukee
+
+_redacted_(a)lists.cs.unibo.it>.
+
 Program committee (tbc)
------------------* Serge Autexier, DFKI Bremen
+-----------------
+
+* Serge Autexier, DFKI Bremen
 * Boris Konev, University of Liverpool
 * John Lumley
-* Pascal Molli, Universit=C3=A9 de Nantes - LINA
-* Sebastian R=C3=B6nnau
-* Wolfgang St=C3=BCrzlinger, York University
+* Pascal Molli, Université de Nantes - LINA
+* Sebastian Rönnau
+* Wolfgang Stürzlinger, York University
 * Yannis Tzitzikas, University of Crete and FORTH-ICS
-* Fabio Vitali, Universit=C3=A0 di Bologna
-* Jean-Yves Vion-Dury, Xerox Research Centre Europe
+* Fabio Vitali, Università di Bologna
+* Jean-Yves Vion-Dury, Xerox Research Centre Europe
+
 --
 Sent by Tamir Hassan
 Research Scientist, HP Laboratories
-Publicity Chair, ACM DocEng 2015
+Publicity Chair, ACM DocEng 2015
+
+
+

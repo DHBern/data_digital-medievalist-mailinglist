@@ -1,84 +1,71 @@
-Subject: Re: [dm-l] Proposed Changes to DMDear Peter and members of the board,=20
-Thank you very much for this very clear summary. The solutions you suggest se=
-em to me perfectly sensible. The CMS + blog will certainly make the DM infras=
-tructure more manageable, and a blog is probably better suited than a wiki to=
- meet the needs of a community like ours.=20
-Regarding the journal, which I consider a cornerstone of DM, I also think tha=
-t joining an academic open journal hosting platform would be a good move. Tho=
-se days, there are more online academic journals than mushrooms in a dank gro=
-ve... a good publishing platform will lend weight to the journal and possibly=
- attract more authors and readers. It will also make tha technical adminisrat=
-ion lighter, hopefully, and this is an important feature in a community that =
-relies only on the goodwill of its members.=20
-Best wishes,=20
-Marjorie=20
------ Mail original -----_redacted_(a)kcl.ac.uk>=20
-_redacted_(a)uleth.ca=20
-Envoy=C3=A9: Mercredi 21 Mai 2014 14:05:01=20
-Objet: [dm-l] Proposed Changes to DM=20Dear all,=20I apologise for the length of this e-mail, but I write regarding a series of =
-fairly fundamental changes to the DM infrastructure that we have been plannin=
-g for some time now. Given the scale of these changes, we on the DM Board thi=
-nk it is important to explain these in some detail and request feedback from =
-the Community before we go ahead with them. They will also require a change o=
-f the Byelaws, and so again we need input from the Community for this.=20Unfortunately the existing infrastructure has proven unmanageable. The wiki a=
-nd mailing-list have both been subject to large-scale spam attacks, such that=
- the wiki now contains many many thousands of articles, only 70 or so of whic=
-h are genuine. The wiki has also had almost no activity beyond that of the Bo=
-ard, and so it has not been doing the job that we had hoped. Furthermore the =
-website itself, which we have been hosting and coding ourselves (with substan=
-tial help from James Cummings and Dan O=E2=80=99Donnell) is also proving incr=
-easingly difficult to manage: it depends on the generosity of James and Dan t=
-o host and administer, even adding new pages is not trivial, and it has neede=
-d a dramatic overhaul for some time but to do this requires much more time an=
-d effort than we have been able to manage. For all of these reasons, we propo=
-se the following:=201. Moving the static website from the existing infrastructure (Cocoon + TEI +=
- custom XSLT) to a standard CMS (currently Wordpress).=20
-2. Closing down the wiki entirely and replacing it with a blog.=20
-3. For the moment we are leaving the Journal in place, but we are very likely=
- to move it to a dedicated open journal hosting of some sort. We have been di=
-scussing this in some detail with Revues.org but are not yet committed to thi=
-s.=20As most of you have realised, we have already set up a Wordpress version of t=
-he site at <http://digitalmedievalist.wordpress.com/>, and this is already pr=
-oving to overcome the problems listed above. The proposal is therefore to mak=
-e this the DM site and close down the old one, except perhaps for the Journal=
-.=20However, the current Byelaws require that DM maintains a wiki (see <http://di=
-gitalmedievalist.wordpress.com/about/byelaws/#wiki>). The Board is therefore =
-not free to close the existing wiki without first changing the Byelaws. Even =
-if we chose to keep the wiki, however, the Board feels that the Byelaws shoul=
-d not lock us into using any single technology, and so they should be changed=
- even if we keep the existing infrastructure. The details of the proposed cha=
-nges to the Byelaws will be posted shortly as a separate e-mail and on the ne=
-w website, but in essence we propose simply to replace the term 'wiki' with '=
-information resources' and to adapt the containing sentences accordingly.=20We would be grateful for any feedback about any aspect of this, preferably by=
-_redacted_(a)digit=
-almedievalist.org or any members of the Board directly. The next Board meetin=
-g is 4pm GMT+1 on Monday 2 June, at which point any comments will be discusse=
-d, and any changes in the Byelaws will be presented to the membership for vot=
-e shortly after that (as specified in =C2=A79 of the Byelaws: <http://digital=
-medievalist.wordpress.com/about/byelaws/#amendments>).=20Thank you, and we look forward to receiving your comments.=20Peter Stokes (on behalf of the Executive Board)=20--=20
-Dr Peter Stokes=20
-Senior Lecturer=20
-Department of Digital Humanities=20
-King's College London=20
-Room 218, 2nd Floor=20
-26-29 Drury Lane=20
-London, WC2B 5RL=20
-Tel: +44 (0)20 7848 2813=20
-_redacted_(a)kcl.ac.uk=20
-Digital Medievalist -- http://www.digitalmedievalist.org/=20
-Journal: http://www.digitalmedievalist.org/journal/=20
-Journal Editors: editors _AT_ digitalmedievalist.org=20
-News: http://www.digitalmedievalist.org/news/=20
-Wiki: http://www.digitalmedievalist.org/wiki/=20
-Twitter: http://twitter.com/digitalmedieval=20
-Facebook: http://www.facebook.com/group.php?gid=3D49320313760=20
-_redacted_(a)uleth.ca=20
-Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l=20
---===============0642576197541643595==
-Content-Type: text/html
+Subject: Re: [dm-l] Proposed Changes to DM
+
+Dear Peter and members of the board, 
+
+Thank you very much for this very clear summary. The solutions you suggest seem to me perfectly sensible. The CMS + blog will certainly make the DM infrastructure more manageable, and a blog is probably better suited than a wiki to meet the needs of a community like ours. 
+Regarding the journal, which I consider a cornerstone of DM, I also think that joining an academic open journal hosting platform would be a good move. Those days, there are more online academic journals than mushrooms in a dank grove... a good publishing platform will lend weight to the journal and possibly attract more authors and readers. It will also make tha technical adminisration lighter, hopefully, and this is an important feature in a community that relies only on the goodwill of its members. 
+
+Best wishes, 
+Marjorie 
+
+
+
+----- Mail original -----
+
+_redacted_(a)kcl.ac.uk> 
+_redacted_(a)uleth.ca 
+Envoyé: Mercredi 21 Mai 2014 14:05:01 
+Objet: [dm-l] Proposed Changes to DM 
+
+Dear all, 
+
+I apologise for the length of this e-mail, but I write regarding a series of fairly fundamental changes to the DM infrastructure that we have been planning for some time now. Given the scale of these changes, we on the DM Board think it is important to explain these in some detail and request feedback from the Community before we go ahead with them. They will also require a change of the Byelaws, and so again we need input from the Community for this. 
+
+Unfortunately the existing infrastructure has proven unmanageable. The wiki and mailing-list have both been subject to large-scale spam attacks, such that the wiki now contains many many thousands of articles, only 70 or so of which are genuine. The wiki has also had almost no activity beyond that of the Board, and so it has not been doing the job that we had hoped. Furthermore the website itself, which we have been hosting and coding ourselves (with substantial help from James Cummings and Dan O’Donnell) is also proving increasingly difficult to manage: it depends on the generosity of James and Dan to host and administer, even adding new pages is not trivial, and it has needed a dramatic overhaul for some time but to do this requires much more time and effort than we have been able to manage. For all of these reasons, we propose the following: 
+
+1. Moving the static website from the existing infrastructure (Cocoon + TEI + custom XSLT) to a standard CMS (currently Wordpress). 
+2. Closing down the wiki entirely and replacing it with a blog. 
+3. For the moment we are leaving the Journal in place, but we are very likely to move it to a dedicated open journal hosting of some sort. We have been discussing this in some detail with Revues.org but are not yet committed to this. 
+
+As most of you have realised, we have already set up a Wordpress version of the site at <http://digitalmedievalist.wordpress.com/>, and this is already proving to overcome the problems listed above. The proposal is therefore to make this the DM site and close down the old one, except perhaps for the Journal. 
+
+However, the current Byelaws require that DM maintains a wiki (see <http://digitalmedievalist.wordpress.com/about/byelaws/#wiki>). The Board is therefore not free to close the existing wiki without first changing the Byelaws. Even if we chose to keep the wiki, however, the Board feels that the Byelaws should not lock us into using any single technology, and so they should be changed even if we keep the existing infrastructure. The details of the proposed changes to the Byelaws will be posted shortly as a separate e-mail and on the new website, but in essence we propose simply to replace the term 'wiki' with 'information resources' and to adapt the containing sentences accordingly. 
+
+We would be grateful for any feedback about any aspect of this, preferably by_redacted_(a)digitalmedievalist.org or any members of the Board directly. The next Board meeting is 4pm GMT+1 on Monday 2 June, at which point any comments will be discussed, and any changes in the Byelaws will be presented to the membership for vote shortly after that (as specified in §9 of the Byelaws: <http://digitalmedievalist.wordpress.com/about/byelaws/#amendments>). 
+
+Thank you, and we look forward to receiving your comments. 
+
+Peter Stokes (on behalf of the Executive Board) 
+
+-- 
+Dr Peter Stokes 
+Senior Lecturer 
+Department of Digital Humanities 
+King's College London 
+Room 218, 2nd Floor 
+26-29 Drury Lane 
+London, WC2B 5RL 
+Tel: +44 (0)20 7848 2813 
+_redacted_(a)kcl.ac.uk 
+
+Digital Medievalist -- http://www.digitalmedievalist.org/ 
+Journal: http://www.digitalmedievalist.org/journal/ 
+Journal Editors: editors _AT_ digitalmedievalist.org 
+News: http://www.digitalmedievalist.org/news/ 
+Wiki: http://www.digitalmedievalist.org/wiki/ 
+Twitter: http://twitter.com/digitalmedieval 
+Facebook: http://www.facebook.com/group.php?gid=49320313760 
+_redacted_(a)uleth.ca 
+Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l 
+
+
+
+--0642576197541643595Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWw+PGhlYWQ+PHN0eWxlIHR5cGU9J3RleHQvY3NzJz5wIHsgbWFyZ2luOiAwOyB9PC9zdHls
+Content-Disposition: attachment; filename�ttachment.html"
+MIME-Version: 1.0
+
+PGh0bWw+PGhlYWQ+PHN0eWxlIHR5cGU9J3RleHQvY3NzJz5wIHsgbWFyZ2luOiAwOyB9PC9zdHls
 ZT48L2hlYWQ+PGJvZHk+PGRpdiBzdHlsZT0nZm9udC1mYW1pbHk6IFRpbWVzIE5ldyBSb21hbjsg
 Zm9udC1zaXplOiAxMnB0OyBjb2xvcjogIzAwMDAwMCc+RGVhciBQZXRlciBhbmQgbWVtYmVycyBv
 ZiB0aGUgYm9hcmQsJm5ic3A7PGRpdj48YnI+PC9kaXY+PGRpdj5UaGFuayB5b3UgdmVyeSBtdWNo
@@ -178,4 +165,4 @@ aHR0cDovL3R3aXR0ZXIuY29tL2RpZ2l0YWxtZWRpZXZhbDxicj5GYWNlYm9vazogaHR0cDovL3d3
 dy5mYWNlYm9vay5jb20vZ3JvdXAucGhwP2dpZD00OTMyMDMxMzc2MDxicj5EaXNjdXNzaW9uIGxp
 c3Q6IGRtLWxAdWxldGguY2E8YnI+Q2hhbmdlIGxpc3Qgb3B0aW9uczogaHR0cDovL2xpc3RzZXJ2
 LnVsZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0tbDxicj48L2Rpdj48YnI+PC9kaXY+PC9kaXY+
-PC9ib2R5PjwvaHRtbD4=
+PC9ib2R5PjwvaHRtbD4

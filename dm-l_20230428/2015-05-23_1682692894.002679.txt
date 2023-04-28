@@ -1,47 +1,19 @@
-Subject: [dm-l] First textual communities workshopTextual Communities Workshop, KU Leuven 11 and 12 June 2015Museumzaal (MSI 02.08, Erasmusplein 2, 3000 Leuven)
+Subject: [dm-l] First textual communities workshop
+
+Textual Communities Workshop, KU Leuven 11 and 12 June 2015
+
+Museumzaal (MSI 02.08, Erasmusplein 2, 3000 Leuven)
 This workshop will serve three overlapping purposes.
-First, it will introduce the Textual Communities system for creating scholarl=
-y editions in digital form. Textual Communities allows scholars and scholarly=
- groups to make highest-quality editions in digital form, with minimal specia=
-list computing knowledge and support.  It is particularly suited to the makin=
-g of editions which do not fit the pattern of =E2=80=9Cdigital documentary ed=
-itions=E2=80=9D: that is, editions of works in many manuscripts or versions, =
-or editions of non-authorial manuscripts. Accordingly, Textual Communities in=
-cludes tools for handling images, page-by-page transcription, collation of mu=
-ltiple versions, project management, and more. See the draft article describi=
-ng Textual Communities athttps://www.academia.edu/12297061/Some_principles_fo=
-r_the_making_of_collaborative_scholarly_editions_in_digital_form.
-Second, it will offer training to transcribers joining the Canterbury Tales p=
-roject, and to scholars leading transcription teams within the project.  The =
-project is undertaking the transcription of all 30,000 pages of the 88 pre-15=
-00 witnesses of the Tales (18000 pages already transcribed but requiring chec=
-king; 12000 needing new transcription). Participants will be given accounts w=
-ithin the Textual Communities implementation of the Canterbury Tales project,=
- introduced to the transcription system, and undertake their first transcript=
-ions of pages from the Tales.  See http://www.textualcommunities.usask.ca/web=
-/canterbury-tales/wiki/-/wiki/Main/Becoming+a+transcriber.
-Third, it will offer an introduction to the principles of manuscript transcri=
-ption for digital editions to any scholars or students considering undertakin=
-g a digital edition project based on a manuscript. The materials of the Cante=
-rbury Tales project will be used as a starting point for discussion of transc=
-ription, supplemented by reference to other textual traditions on which the w=
-orkshop leaders have worked (including Dante, medieval Spanish and New Testam=
-ent Greek).
-This workshop will be useful to scholars undertaking a wide range of digital =
-edition projects, especially of works existing in multiple witnesses.  Becaus=
-e both the architect of Textual Communities (Robinson) and its chief programm=
-er (Xiaohan Zhang) will be present, it will be useful also for technical cons=
-ultants who plan to work with the Textual Communities API. And, of course, it=
- will be useful for transcribers joining the Canterbury Tales project.
-There is no charge for this workshop, but places will be limited.  Please con=
-_redacted_(a)kuleuven.be<mailto:barbara.bordale=
-_redacted_(a)usask.ca<mailto:peter.ro=
-_redacted_(a)usask.ca> to confirm attendance. For accommodation, see http://www.l=
-euven.be/en/tourism/staying/index.jsp.
-This page is also at http://www.textualcommunities.usask.ca/web/textual-commu=
-nity/blog/-/blogs/first-textual-communities-workshop-11-12-june-2015 and at w=
-ww.arts.kuleuven.be/digitalhumanities/activiteiten<http://www.arts.kuleuven.b=
-e/digitalhumanities/activiteiten>.PGh0bWw+DQo8aGVhZD4NCjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSIgY29udGVudD0i
+First, it will introduce the Textual Communities system for creating scholarly editions in digital form. Textual Communities allows scholars and scholarly groups to make highest-quality editions in digital form, with minimal specialist computing knowledge and support.  It is particularly suited to the making of editions which do not fit the pattern of “digital documentary editions”: that is, editions of works in many manuscripts or versions, or editions of non-authorial manuscripts. Accordingly, Textual Communities includes tools for handling images, page-by-page transcription, collation of multiple versions, project management, and more. See the draft article describing Textual Communities athttps://www.academia.edu/12297061/Some_principles_for_the_making_of_collaborative_scholarly_editions_in_digital_form.
+Second, it will offer training to transcribers joining the Canterbury Tales project, and to scholars leading transcription teams within the project.  The project is undertaking the transcription of all 30,000 pages of the 88 pre-1500 witnesses of the Tales (18000 pages already transcribed but requiring checking; 12000 needing new transcription). Participants will be given accounts within the Textual Communities implementation of the Canterbury Tales project, introduced to the transcription system, and undertake their first transcriptions of pages from the Tales.  See http://www.textualcommunities.usask.ca/web/canterbury-tales/wiki/-/wiki/Main/Becoming+a+transcriber.
+Third, it will offer an introduction to the principles of manuscript transcription for digital editions to any scholars or students considering undertaking a digital edition project based on a manuscript. The materials of the Canterbury Tales project will be used as a starting point for discussion of transcription, supplemented by reference to other textual traditions on which the workshop leaders have worked (including Dante, medieval Spanish and New Testament Greek).
+This workshop will be useful to scholars undertaking a wide range of digital edition projects, especially of works existing in multiple witnesses.  Because both the architect of Textual Communities (Robinson) and its chief programmer (Xiaohan Zhang) will be present, it will be useful also for technical consultants who plan to work with the Textual Communities API. And, of course, it will be useful for transcribers joining the Canterbury Tales project.
+There is no charge for this workshop, but places will be limited.  Please con_redacted_(a)kuleuven.be<mailto:barbara.bordale_redacted_(a)usask.ca<mailto:peter.ro_redacted_(a)usask.ca> to confirm attendance. For accommodation, see http://www.leuven.be/en/tourism/staying/index.jsp.
+This page is also at http://www.textualcommunities.usask.ca/web/textual-community/blog/-/blogs/first-textual-communities-workshop-11-12-june-2015 and at www.arts.kuleuven.be/digitalhumanities/activiteiten<http://www.arts.kuleuven.be/digitalhumanities/activiteiten>.
+
+
+
+PGh0bWw+DQo8aGVhZD4NCjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSIgY29udGVudD0i
 dGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04Ij4NCjwvaGVhZD4NCjxib2R5IHN0eWxlPSJ3b3JkLXdy
 YXA6IGJyZWFrLXdvcmQ7IC13ZWJraXQtbmJzcC1tb2RlOiBzcGFjZTsgLXdlYmtpdC1saW5lLWJy
 ZWFrOiBhZnRlci13aGl0ZS1zcGFjZTsiIGNsYXNzPSIiPg0KPGIgY2xhc3M9IiI+VGV4dHVhbCBD
@@ -170,4 +142,4 @@ IzAwOWFlNSIgZmFjZT0iQXJpYWwsIHNhbnMtc2VyaWYiIGNsYXNzPSIiPjxzcGFuIGNsYXNzPSIi
 IHN0eWxlPSJsaW5lLWhlaWdodDogMTYuNzk5OTk5MjM3MDYwNTQ3cHg7Ij48YSBocmVmPSJodHRw
 Oi8vd3d3LmFydHMua3VsZXV2ZW4uYmUvZGlnaXRhbGh1bWFuaXRpZXMvYWN0aXZpdGVpdGVuIiBj
 bGFzcz0iIj53d3cuYXJ0cy5rdWxldXZlbi5iZS9kaWdpdGFsaHVtYW5pdGllcy9hY3Rpdml0ZWl0
-ZW48L2E+PC9zcGFuPjwvZm9udD4uPC9kaXY+DQo8L2JvZHk+DQo8L2h0bWw+DQo=
+ZW48L2E+PC9zcGFuPjwvZm9udD4uPC9kaXY+DQo8L2JvZHk+DQo8L2h0bWw+DQo

@@ -1,35 +1,46 @@
-Subject: Re: [dm-l] Character reference conversions: help?For those of us not comfortable with XSLT, any editor designed to
+Subject: Re: [dm-l] Character reference conversions: help?
+
+For those of us not comfortable with XSLT, any editor designed to
 work with unicode text (e.g. UniPad, BabelPad) should be able
 to convert to and from numeric character references (decimal or hex), 
 UTF-8 (little- or bigendian), UTF-16, and (my favorite) 'java unicode 
 escapes' (aka UCNs). UniPad is pricey; BabelPad, I think, is free.
 Ideally also from and to ISO standard SGML SDATA character entities. Such 
 editors, however, usually work on one file at a time, rather than as a 
-batch-mode filter.For the latter purpose, Perl should do the trick: the only filters I 
+batch-mode filter.
+
+For the latter purpose, Perl should do the trick: the only filters I 
 use locally go the wrong direction (either from named entities to UTF-8 or
 from UTF-8 to UCNs), but there are a couple of scripts posted
 _redacted_(a)nl.linux.org/msg02741.html
 that look like they should work; if not, there are undoubtedly
 others out there that will. I think all it has to do is parse
 &...; strings and convert them to UTF-8 characters, but what would
-I know?pfs
+I know?
+
+pfs
 --
 --------------------------------------------------------------------
 _redacted_(a)umich.edu | http://www-personal.umich.edu/~pfs/
 316 Hatcher Library N, Univ. of Michigan, Ann Arbor MI 48109-1205
---------------------------------------------------------------------On Tue, 5 Oct 2004, Peter Baker wrote:> If you process the file with an XSLT script that looks like this:
+--------------------------------------------------------------------
+
+
+
+On Tue, 5 Oct 2004, Peter Baker wrote:
+
+> If you process the file with an XSLT script that looks like this:
 > 
-> <?xml version="1.0" encoding="UTF-8"?>
-> <xsl:stylesheet version = '1.0'
->      xmlns="http://www.w3.org/1999/xhtml"
->      xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+> <?xml versionñ.0" encodingTF-8"?>
+> <xsl:stylesheet version >      xmlnsttp://www.w3.org/1999/xhtml"
+>      xmlns:xslttp://www.w3.org/1999/XSL/Transform">
 >  
-> <xsl:output method="xml" doctype-public="-//W3C//DTD XHTML 1.0 
+> <xsl:output methodml" doctype-public//W3C//DTD XHTML 1.0 
 > Transitional//EN"            
-> doctype-system="http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"/>
+> doctype-systemttp://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"/>
 >  
-> <xsl:template match="/">
->   <xsl:copy-of select="."/>
+> <xsl:template match">
+>   <xsl:copy-of select"/>
 > </xsl:template>
 >  
 >  
@@ -66,5 +77,9 @@ _redacted_(a)umich.edu | http://www-personal.umich.edu/~pfs/
 > dm-l mailing list
 _redacted_(a)uleth.ca
 > http://listserv.uleth.ca/mailman/listinfo/dm-l
-> 
---===============1697122576609006771==--
+> 
+
+
+
+--1697122576609006771-
+

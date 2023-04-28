@@ -1,17 +1,31 @@
-Subject: [dm-l] Anybody know of a html --> mediawiki parser/script?Hi all,Anybody know of a script or parser that could convert HTML files INTO=20
-mediawiki markup? We have a whole bunch of rescued wiki pages from=20
-archive.org, but they are only the HTML display version. Cutting and=20
-pasting the html into the mediawiki edit window isn't working as cleanly=20
-as I thought it might, so I'm looking for something that would strip out=20
-markup mediawiki doesn't accept.-dan--=20
+Subject: [dm-l] Anybody know of a html --> mediawiki parser/script?
+
+Hi all,
+
+Anybody know of a script or parser that could convert HTML files INTO 
+mediawiki markup? We have a whole bunch of rescued wiki pages from 
+archive.org, but they are only the HTML display version. Cutting and 
+pasting the html into the mediawiki edit window isn't working as cleanly 
+as I thought it might, so I'm looking for something that would strip out 
+markup mediawiki doesn't accept.
+
+-dan
+
+-- 
 Daniel Paul O'Donnell
 Associate Professor of English
-University of LethbridgeChair and CEO, Text Encoding Initiative (http://www.tei-c.org/)
+University of Lethbridge
+
+Chair and CEO, Text Encoding Initiative (http://www.tei-c.org/)
 Co-Chair, Digital Initiatives Advisory Board, Medieval Academy of America
-President-elect (English), Society for Digital Humanities/Soci=C3=A9t=C3=A9 p=
-our l'=C3=A9tude des m=C3=A9dias interactifs (http://sdh-semi.org/)
-Founding Director (2003-2009), Digital Medievalist Project (http://www.digita=
-lmedievalist.org/)Vox: +1 403 329-2377
+President-elect (English), Society for Digital Humanities/Société pour l'étude des médias interactifs (http://sdh-semi.org/)
+Founding Director (2003-2009), Digital Medievalist Project (http://www.digitalmedievalist.org/)
+
+Vox: +1 403 329-2377
 Fax: +1 403 382-7191 (non-confidental)
-Home Page: http://people.uleth.ca/~daniel.odonnell/
---===============6169515132707402573==--
+Home Page: http://people.uleth.ca/~daniel.odonnell/
+
+
+
+--6169515132707402573-
+

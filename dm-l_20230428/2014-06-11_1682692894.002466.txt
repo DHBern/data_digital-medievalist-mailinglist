@@ -1,15 +1,18 @@
-Subject: [dm-l] New resource: Enigma - Unpuzzling difficult Latin readings inDear list members,=20Since I assume most of us work with Latin manuscripts at least sometimes, I w=
-ould like to share here the news of the release of my latest development, cal=
-led "Enigma" (Latin word for "puzzle"):=20
-http://ciham-digital.huma-num.fr/enigma/=20
-"Enigma helps scholars to decipher Latin words which are difficult to read in=
- medieval manuscripts. It is sometimes impossible to decipher all the letters=
- in a word, for various reasons (difficult palaeography, unclear writing, dam=
-age to the document, etc.) If you type the letters you can read and add wildc=
-ards, Enigma will list the possible Latin forms, drawing from its database of=
- more than 400 000 forms."=20I hpe you will find this useful :)=20
-Best regards,=20
-Marjorie Burghart=20PGh0bWw+PGJvZHk+PGRpdiBzdHlsZT0iZm9udC1mYW1pbHk6IHRpbWVzIG5ldyByb21hbiwgbmV3
+Subject: [dm-l] New resource: Enigma - Unpuzzling difficult Latin readings in
+
+Dear list members, 
+
+Since I assume most of us work with Latin manuscripts at least sometimes, I would like to share here the news of the release of my latest development, called "Enigma" (Latin word for "puzzle"): 
+http://ciham-digital.huma-num.fr/enigma/ 
+"Enigma helps scholars to decipher Latin words which are difficult to read in medieval manuscripts. It is sometimes impossible to decipher all the letters in a word, for various reasons (difficult palaeography, unclear writing, damage to the document, etc.) If you type the letters you can read and add wildcards, Enigma will list the possible Latin forms, drawing from its database of more than 400 000 forms." 
+
+I hpe you will find this useful :) 
+Best regards, 
+Marjorie Burghart 
+
+
+
+PGh0bWw+PGJvZHk+PGRpdiBzdHlsZT0iZm9udC1mYW1pbHk6IHRpbWVzIG5ldyByb21hbiwgbmV3
 IHlvcmssIHRpbWVzLCBzZXJpZjsgZm9udC1zaXplOiAxMnB0OyBjb2xvcjogIzAwMDAwMCI+PGRp
 dj48c3BhbiBzdHlsZT0iZm9udC1zaXplOiAxMnB0OyI+RGVhciBsaXN0IG1lbWJlcnMsJm5ic3A7
 PC9zcGFuPjwvZGl2PjxkaXY+PGJyPjwvZGl2PjxkaXY+U2luY2UgSSBhc3N1bWUgbW9zdCBvZiB1
@@ -26,4 +29,5 @@ eW91IGNhbiByZWFkIGFuZCBhZGQgd2lsZGNhcmRzLCBFbmlnbWEgd2lsbCBsaXN0IHRoZSBwb3Nz
 aWJsZSBMYXRpbiBmb3JtcywgZHJhd2luZyBmcm9tIGl0cyBkYXRhYmFzZSBvZiBtb3JlIHRoYW4g
 NDAwIDAwMCBmb3Jtcy4iPC9kaXY+PGRpdj48YnI+PC9kaXY+PGRpdj5JIGhwZSB5b3Ugd2lsbCBm
 aW5kIHRoaXMgdXNlZnVsIDopJm5ic3A7PC9kaXY+PGRpdj5CZXN0IHJlZ2FyZHMsJm5ic3A7PC9k
-aXY+PGRpdj5NYXJqb3JpZSBCdXJnaGFydDwvZGl2PjwvZGl2PjwvYm9keT48L2h0bWw+
+aXY+PGRpdj5NYXJqb3JpZSBCdXJnaGFydDwvZGl2PjwvZGl2PjwvYm9keT48L2h0bWw+
+

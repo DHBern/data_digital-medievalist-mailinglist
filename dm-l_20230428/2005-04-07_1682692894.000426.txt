@@ -1,4 +1,8 @@
-Subject: Re: [dm-l] what xslt can't do..?Peter Robinson wrote:>You know, I think that is my whole point.
+Subject: Re: [dm-l] what xslt can't do..?
+
+Peter Robinson wrote:
+
+>You know, I think that is my whole point.
 >
 >There are indeed circumstances where the transform solution is very
 >difficult.  My document sample is one such.  Notice that the first page
@@ -34,4 +38,9 @@ both the time issue and the one-pass issue. Let us study what he has
 done, and then discuss. My first impression is that Peter Binkley is a 
 genius, while I am a rank amateur. My approach was going to be more like 
 James Cummings's, though his steps towards a solution look about 100 
-times more elegant than what I would do.Peter (Baker)
+times more elegant than what I would do.
+
+Peter (Baker)
+
+
+

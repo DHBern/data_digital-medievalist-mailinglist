@@ -1,4 +1,8 @@
-Subject:Hi Dan,there are several subversion clients for windows. Once I set up a system 
+Subject:
+
+Hi Dan,
+
+there are several subversion clients for windows. Once I set up a system 
 for people
 who wanted an easy to use system without or with little technical 
 background. I used
@@ -6,8 +10,12 @@ TortoiseSVN (http://tortoisesvn.tigris.org/) which i think is the
 programm to go for as it is easy to use,
 mature and open source. TortoiseSVN is basically a shell extension for 
 windows explorer,
-so usage should be really straightforward.Best,
-Philipp> Hi all,
+so usage should be really straightforward.
+
+Best,
+Philipp
+
+> Hi all,
 >
 > I am helping a project that is working on a really interesting text.
 > Nobody on the project is particularly technical.
@@ -20,9 +28,15 @@ Philipp> Hi all,
 > Has anybody any experience in setting up something like subversion for
 > use with Windows?
 >
-> -dan
+> -dan
+
 -- 
 Philipp Steinkrüger
 Thomas-Institut der Universität zu Köln
-IDE - Institut für Dokumentologie und Editorik_redacted_(a)uni-koeln.de
-http://www.thomasinst.uni-koeln.de || http://www.i-d-e.de
+IDE - Institut für Dokumentologie und Editorik
+
+_redacted_(a)uni-koeln.de
+http://www.thomasinst.uni-koeln.de || http://www.i-d-e.de
+
+
+

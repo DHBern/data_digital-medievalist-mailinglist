@@ -1,35 +1,78 @@
-Subject: [dm-l] Workshop "Encoder =?utf-8?q?num=C3=A9riquement_une_=C3=A9dit?=Dear Colleagues,it is a great pleasure to invite you to a workshop called "Encoder
+Subject: [dm-l] Workshop "Encoder tf-8?q?numériquement_une_édit?
+Dear Colleagues,
+
+it is a great pleasure to invite you to a workshop called "Encoder
 numériquement une édition critique : Enjeux scientifiques et
-techniques", University of Lausanne, the 1th February 2019.The workshop will be in French, except for one talk.Enclosing, you will find the post. The program is below in this email.Best regards
-SummaryUne édition critique cherche à reconstituer un texte ancien sur la base
+techniques", University of Lausanne, the 1th February 2019.
+
+The workshop will be in French, except for one talk.
+
+Enclosing, you will find the post. The program is below in this email.
+
+Best regards
+Summary
+
+Une édition critique cherche à reconstituer un texte ancien sur la base
 de ses témoins manuscrits et de sa tradition indirecte. Outre
 l’établissement de ce texte, l’édition critique inclut une liste de
 variantes de différents témoins ainsi que, généralement, un apparat des
-sources, des notes scientifiques et un index.L’outil informatique s’avère être d’une aide précieuse pour
+sources, des notes scientifiques et un index.
+
+L’outil informatique s’avère être d’une aide précieuse pour
 l’établissement d’une telle édition critique, que ce soit pour la
 comparaison des témoins et leur classement ou pour la mise en forme
-proprement dite de l’édition critique.La présente journée se propose d’étudier un aspect rarement abordé dans
+proprement dite de l’édition critique.
+
+La présente journée se propose d’étudier un aspect rarement abordé dans
 cette problématique : la manière dont peut être encodée l’édition
 critique elle-même, c’est-à-dire l’ensemble constitué par le texte
-établi, les variantes des manuscrits et les différents apparats.En effet, si tout travail informatique débute nécessairement en
+établi, les variantes des manuscrits et les différents apparats.
+
+En effet, si tout travail informatique débute nécessairement en
 définissant comment structurer les données, le choix d’une structure
 particulière n’est pas anodin. Non seulement ce choix conditionne en
 tout ou partie les traitements possibles mais, plus fondamentalement, il
-reflète une certaine compréhension des données.À ce titre, la structure informatique d’une édition critique ne
+reflète une certaine compréhension des données.
+
+À ce titre, la structure informatique d’une édition critique ne
 constitue pas un détail technique, mais témoigne d’abord d’une
 perspective philologique sur ce que sont un texte, des variantes, des
-témoins.Planning9 h 15 Maïeul Rouquette (Université de Lausanne)
-Introduction9 h 30 Caroline Macé (Université de Lausanne)
-Les éditions critiques : un bref survol terminologique et historique10 h 15 Pause10 h 30 Tara Andrews (Universität Wien)
-Graph Databases for Critical Edition11 h 30 Marjorie Burghart (CIHAM - CNRS ­- Lyon)
-Éditions critiques en XML-TEI : l’enjeu de la multimodalité12 h 30 Repas14 h 00 Maïeul Rouquette (Université de Lausanne)
-Produire une édition critique avec LaTeX, ou le primat de la typographie15 h 00 Pause15 h 15 Table ronde
-Passerelles entre les outils16 h 15 Fin de la journée
---===============3558680384214861456==
-Content-Type: application/pdf
+témoins.
+
+Planning
+
+9 h 15 Maïeul Rouquette (Université de Lausanne)
+Introduction
+
+9 h 30 Caroline Macé (Université de Lausanne)
+Les éditions critiques : un bref survol terminologique et historique
+
+10 h 15 Pause
+
+10 h 30 Tara Andrews (Universität Wien)
+Graph Databases for Critical Edition
+
+11 h 30 Marjorie Burghart (CIHAM - CNRS ­- Lyon)
+Éditions critiques en XML-TEI : l’enjeu de la multimodalité
+
+12 h 30 Repas
+
+14 h 00 Maïeul Rouquette (Université de Lausanne)
+Produire une édition critique avec LaTeX, ou le primat de la typographie
+
+15 h 00 Pause
+
+15 h 15 Table ronde
+Passerelles entre les outils
+
+16 h 15 Fin de la journée
+
+--3558680384214861456Content-Type: application/pdf
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="encodage-edition-critique.pdf"
-MIME-Version: 1.0JVBERi0xLjQNJeLjz9MNCjE4MCAwIG9iag08PC9MaW5lYXJpemVkIDEvTCAzNDMwMjMvTyAxODIv
+Content-Disposition: attachment; filename�ncodage-edition-critique.pdf"
+MIME-Version: 1.0
+
+JVBERi0xLjQNJeLjz9MNCjE4MCAwIG9iag08PC9MaW5lYXJpemVkIDEvTCAzNDMwMjMvTyAxODIv
 RSAyOTk0MzEvTiAyL1QgMzM5MzAyL0ggWyAxNzMwIDM2OF0+Pg1lbmRvYmoNICAgICAgICAgICAg
 DQp4cmVmDQoxODAgNzANCjAwMDAwMDAwMTYgMDAwMDAgbg0KMDAwMDAwMjI3NiAwMDAwMCBuDQow
 MDAwMDAyNDM1IDAwMDAwIG4NCjAwMDAwMDMwNTcgMDAwMDAgbg0KMDAwMDAwMzE5NSAwMDAwMCBu
@@ -6046,4 +6089,5 @@ DQowMDAwMDAwMDAwIDY1NTM1IGYNCjAwMDAwMDAwMDAgNjU1MzUgZg0KMDAwMDAwMDAwMCA2NTUz
 NSBmDQowMDAwMDAwMDAwIDY1NTM1IGYNCjAwMDAwMDAwMDAgNjU1MzUgZg0KMDAwMDAwMDAwMCA2
 NTUzNSBmDQowMDAwMDAwMDAwIDY1NTM1IGYNCjAwMDAwMDAwMDAgNjU1MzUgZg0KdHJhaWxlcg0K
 PDwvU2l6ZSAxODAvSURbPDM3QjU3QzdFMzBGMTZCNEU4RkI1Q0FBREY3QkM3RDgyPjw5MUE2RjBG
-RjBERjNDODRFQjY4OEM5ODhFQjE5N0JCMD5dPj4NCnN0YXJ0eHJlZg0KMTE2DQolJUVPRg0K
+RjBERjNDODRFQjY4OEM5ODhFQjE5N0JCMD5dPj4NCnN0YXJ0eHJlZg0KMTE2DQolJUVPRg0K
+

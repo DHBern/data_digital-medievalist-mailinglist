@@ -1,11 +1,19 @@
-Subject: Re: [dm-l] TEI/XML manuscript markup initiatives?On Mon, 2006-13-03 at 10:47 +0100, Roberto Rosselli Del Turco wrote:
+Subject: Re: [dm-l] TEI/XML manuscript markup initiatives?
+
+On Mon, 2006-13-03 at 10:47 +0100, Roberto Rosselli Del Turco wrote:
 > James Cummings ha scritto:
-> > > Hi all,
+> > 
+
+> Hi all,
 > while I fully agree with James about the excellent Manuscript 
 > Description module (and other goodies in TEI P5), I can't but point out 
 > that there currently is a deep imbalance between manuscript 
-> *description* and manuscript *transcription* features in TEI P4/P5. I was wondering if somebody would mention this, or if I was missing
-something.> The 
+> *description* and manuscript *transcription* features in TEI P4/P5. 
+
+I was wondering if somebody would mention this, or if I was missing
+something.
+
+> The 
 > MS transcription SIG was going to deal with lots of interesting stuff 
 > (time based encoding, substitution/variation issues, revision of the 
 > transcription chapter, etc.) but discussion seems to have stopped (at 
@@ -16,10 +24,18 @@ something.> The
 > few people mentioned their specific solutions to MS transcription 
 > problems, I also think it could be interesting to collect and compare 
 > this information to see what could be used/adapted/useful for 
-> inspiration for TEI P5.Should we look into starting it up again? I.e. as a DM/TEI initiative?
+> inspiration for TEI P5.
+
+Should we look into starting it up again? I.e. as a DM/TEI initiative?
 Of course the actual base of participants must be larger since
 manuscript transcription is not an exclusively medieval concern. But we
 certainly are concerned about it as or more centrally than other
-disciplines.> 
-> Ciao
---===============7138280330748116265==--
+disciplines.
+
+> 
+> Ciao
+
+
+
+--7138280330748116265-
+

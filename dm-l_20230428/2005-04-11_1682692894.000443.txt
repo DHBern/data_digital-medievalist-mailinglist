@@ -1,10 +1,18 @@
-Subject: Re: [dm-l] Question about CSS and IEWow. How annoying. *Not* supplying the quotation marks was of course the 
-standard in XHTML, which was a change from previous practice.Looking at the 2.0 standard, I think they are probably doing a bad job 
+Subject: Re: [dm-l] Question about CSS and IE
+
+Wow. How annoying. *Not* supplying the quotation marks was of course the 
+standard in XHTML, which was a change from previous practice.
+
+Looking at the 2.0 standard, I think they are probably doing a bad job 
 of explaining it: they should be emphasising that the marks are to be 
 supplied by a stylesheet; given that the actual marks used to indicate 
 quotations are really accidental features of typography rather than 
 structural categories, they should not be encouraging people to put them 
-into a document as CDATA!-danBinkley, Peter wrote:
+into a document as CDATA!
+
+-dan
+
+Binkley, Peter wrote:
 > I think you're in the grey zone where IE just hasn't implemented
 > generated text in CSS. There may be help in the demo files here:
 > http://www.xhtmlchef.com/stc2004.asp . Also, since the French and
@@ -19,7 +27,9 @@ into a document as CDATA!-danBinkley, Peter wrote:
 >  
 >  Peter
 > 
-> -- 
+> 
+
+-- 
 Daniel Paul O'Donnell, PhD
 Associate Professor of English
 University of Lethbridge
@@ -28,4 +38,7 @@ Tel. (403) 329-2377
 Fax. (403) 382-7191
 _redacted_(a)uleth.ca>
 Home Page <http://people.uleth.ca/~daniel.odonnell/>
-The Digital Medievalist Project: <http://www.digitalmedievalist.org/>
+The Digital Medievalist Project: <http://www.digitalmedievalist.org/>
+
+
+

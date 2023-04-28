@@ -1,6 +1,10 @@
-Subject: Re: [dm-l] TAN: UTF-8 vs. German charactersI don't find the encoding declared in the HTML or in the response 
+Subject: Re: [dm-l] TAN: UTF-8 vs. German characters
+
+I don't find the encoding declared in the HTML or in the response 
 headers, so I think Firefox is guessing its default encoding. In fact 
-the pages are ISO-8859-1.Speaking of Firefox and diagnosing browsing experiences, I've recently 
+the pages are ISO-8859-1.
+
+Speaking of Firefox and diagnosing browsing experiences, I've recently 
 started using the Web Developer extension (click Tools, Extensions, Get 
 More Extensions to find and install it)- it gives you a handy toolbar 
 where you can edit css and see the effects on the fly, view the http 
@@ -10,12 +14,22 @@ A comparable tool for Internet Explorer is Accessible Information
 Solutions' Web Accessibility Toolbar 
 (http://www.nils.org.au/ais/web/resources/toolbar/index.html), which has 
   more features for accessibility such as viewing your page as it will 
-appear to colour-blind readers, and less for web design in general.PeterJuris G. Lidaka wrote:> 	Sorry, this is dumb and somewhat TANgential.  I've been browsing
+appear to colour-blind readers, and less for web design in general.
+
+Peter
+
+
+
+Juris G. Lidaka wrote:
+
+> 	Sorry, this is dumb and somewhat TANgential.  I've been browsing
 > Peter Lang's site (http://www.peterlang.com) and find that higher-order
 > characters are not rendering in Firefox 0.9.1.  The page info says it's
 > UTF-8, but when I set Firefox to that (Tools | Options | Languages |
 > Default character encoding) nothing happens.
 > 	I've added German and French to the languages, but that changes 
 > nothing.  My system is running WinXPpro.  Advice?  Thanks!
-> 
---===============0451044333252898928==--
+> 
+
+--0451044333252898928-
+

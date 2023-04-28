@@ -1,10 +1,14 @@
-Subject: [dm-l] Junicode font, version 0.6.17For those who don't know about Junicode, it is an effort to provide a 
+Subject: [dm-l] Junicode font, version 0.6.17
+
+For those who don't know about Junicode, it is an effort to provide a 
 font that 1.) is free; 2.) is reasonably attractive; and 3.) contains 
 characters of interest to medievalists which typically are not included 
 in the products of commercial type foundries. There are several other 
 very fine fonts for medievalists (notably Andron Scriptor and Cardo), 
 but few offer matching bold and italic faces and numerous advanced 
-typographical features.This version of Junicode includes substantial additions, bug fixes and 
+typographical features.
+
+This version of Junicode includes substantial additions, bug fixes and 
 design improvements. All of the recent medievalist additions to Unicode 
 have now been added in the regular and italic faces. Almost all Medieval 
 Unicode Font Initiative characters are now available in the regular 
@@ -14,6 +18,13 @@ encodings) have been marked with an x to remind users to use the new
 encodings; a file called "replacements" has been provided to help users 
 write scripts to automate the updating of their files. As an 
 alternative, a new OpenType feature (ss03) has been added to make the 
-necessary substitutions on the fly.This release is a big advance over the previous one, and I urge all who 
-use Junicode to upgrade. Get it as http://junicode.sourceforge.net/.Best wishes to all,
-Peter Baker
+necessary substitutions on the fly.
+
+This release is a big advance over the previous one, and I urge all who 
+use Junicode to upgrade. Get it as http://junicode.sourceforge.net/.
+
+Best wishes to all,
+Peter Baker
+
+
+

@@ -1,4 +1,8 @@
-Subject: [dm-l] Mining Medieval DataDear all,I have a question about what tools and techniques people are using for  
+Subject: [dm-l] Mining Medieval Data
+
+Dear all,
+
+I have a question about what tools and techniques people are using for  
 data mining in medieval studies, especially for authorship attribution  
 and scribal identification. If you use them then which systems do you  
 use? How do you verify the results? Do you trust the system to work  
@@ -8,11 +12,18 @@ systems then why not? I'm thinking of a recent article in LLC 23
 important questions about the validity of data mining, but I'm also  
 asking as a designer myself. If I'm producing software for scribal  
 identification or authorship attribution, what can I do (if anything)  
-that will convince you to use and trust my system?Peter--
+that will convince you to use and trust my system?
+
+Peter
+
+--
 Dr Peter Stokes
 Leverhulme Early Career Fellow
 Dept. of Anglo-Saxon, Norse and Celtic
 The University of Cambridge
 9 West Rd, Cambridge, CB3 9DP
 Tel: +44 1223 767314
-Fax: +44 1223 335092
+Fax: +44 1223 335092
+
+
+

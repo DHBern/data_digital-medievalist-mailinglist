@@ -1,53 +1,68 @@
-Subject: RE: [dm-l] what xslt can't do..?Unless I've misunderstood the challenge, I think this 70-line, single-pass st=
-ylesheet will fill the bill: http://www.wallandbinkley.com/robinsonchallenge/=
-paginate.xsl . Peter's XML text is available here: http://www.wallandbinkley.=
-com/robinsonchallenge/text.xml . The output looks like this:<document>
+Subject: RE: [dm-l] what xslt can't do..?
+
+Unless I've misunderstood the challenge, I think this 70-line, single-pass stylesheet will fill the bill: http://www.wallandbinkley.com/robinsonchallenge/paginate.xsl . Peter's XML text is available here: http://www.wallandbinkley.com/robinsonchallenge/text.xml . The output looks like this:
+
+<document>
 	<head>The whole text and all the texts</head>
-	<page n=3D"1">
+	<page n="1">
 		<pageheader>Text 1, para 1</pageheader>
 		<div>
 			<head>First text</head>
-			<p n=3D"1">some text starts here and goes ita<hi rend=3D"italic">lic an</h=
-i></p>
+			<p n="1">some text starts here and goes ita<hi rend="italic">lic an</hi></p>
 		</div>
 	</page>
-	<page n=3D"2">
+	<page n="2">
 		<pageheader>Text 1, paras 1, 2 and 3</pageheader>
 		<div>
-			<p n=3D"1"><hi rend=3D"italic">d then</hi> we get a pagebreak</p>
-			<p n=3D"2">so the text finishes</p>
-			<p n=3D"3"> with yet another page </p>
+			<p n="1"><hi rend="italic">d then</hi> we get a pagebreak</p>
+			<p n="2">so the text finishes</p>
+			<p n="3"> with yet another page </p>
 		</div>
 	</page>
 ...
-</document>The pages are presented in discrete elements, each containing only the text o=
-f that page, with all markup preserved and all tags well-formed.The basic mechanism involves using a key to index all the text nodes by their=
- page number: =09_redacted_@n"/>It is then easy to create a node-set containing all the text nodes for a give=
-n page, like this:<xsl:variable name=3D"texts" select=3D"key('text', $thispage)"/>With that we can process the ancestors of those text nodes to create the outp=
-ut for that page, like this:<xsl:apply-templates select=3D"/div/*[.//text()[count(.|$texts) =3D count($te=
-xts)]][1]">As it stands this stylesheet is horribly inefficient, since it has to rebuild=
- the node-set of text nodes every time it executes a template (since you can'=
-t pass a node-set as a parameter). Perhaps there's a way to move all the proc=
-essing into the main for-each loop to avoid using templates.I'm not sure I understand why the final page break is problematic. Why would =
-you want anything other than the way it is marked up in the source?(I notice that I've neglected to include the text 2 head in the page header, =
-as in the example "Second text, head", and my punctuation doesn't match that =
-example, but I'm too tired to fix it now.)Peter Binkley
-_redacted_(a)ualberta.ca
+</document>
+
+The pages are presented in discrete elements, each containing only the text of that page, with all markup preserved and all tags well-formed.
+
+The basic mechanism involves using a key to index all the text nodes by their page number: 	
+
+_redacted_@n"/>
+
+It is then easy to create a node-set containing all the text nodes for a given page, like this:
+
+<xsl:variable name="texts" select="key('text', $thispage)"/>
+
+With that we can process the ancestors of those text nodes to create the output for that page, like this:
+
+<xsl:apply-templates select="/div/*[.//text()[count(.|$texts) = count($texts)]][1]">
+
+As it stands this stylesheet is horribly inefficient, since it has to rebuild the node-set of text nodes every time it executes a template (since you can't pass a node-set as a parameter). Perhaps there's a way to move all the processing into the main for-each loop to avoid using templates.
+
+I'm not sure I understand why the final page break is problematic. Why would you want anything other than the way it is marked up in the source?
+
+(I notice that I've neglected to include the text 2 head in the page header, as in the example "Second text, head", and my punctuation doesn't match that example, but I'm too tired to fix it now.)
+
+Peter Binkley
+_redacted_(a)ualberta.ca
+
 -----Original Message-----
 _redacted_(a)uleth.ca on behalf of Peter Robinson
 Sent: Wed 4/6/2005 3:13 PM
 _redacted_(a)uleth.ca
 Subject: [dm-l] what xslt can't do..?
-=20
-The Digital Medievalist List (see end of message for contact information and =
-project URLs).----------------------------------
+ 
+The Digital Medievalist List (see end of message for contact information and project URLs).
+
+----------------------------------
 Peter Baker says...
 >I must say, though, Peter, that this isn't the first time you've
 >mentioned things that XSL can't do. I'm not sure I believe that it can't
 >be done. Someday, when we've all got lots of time, we'll have to have a
 >programming shootout. You can offer up a problem that you think XSL
 >can't handle, and you code it in C (or whatever it is you use), and I'll
->use XSLT, and we'll see who gets there first.indeed, I have become rather a bore on this subject.  And I have several
+>use XSLT, and we'll see who gets there first.
+
+indeed, I have become rather a bore on this subject.  And I have several
 times pointed out that XSLT has great difficulty with what is conceptually
 a simple task: just show me the text on one page.  I have several times
 set the challenge: somebody, try and do with XSLT what we do for many
@@ -56,41 +71,56 @@ a single page of the Hengwrt Chaucer, for example).  I have had some
 extremely lengthy explanations of how it *could* be done, and I am
 certainly prepared to believe these might actually work.  In the same way,
 I am sure that with sufficient ingenuity one could use a lawnmower to heat
-a house.  Just, one might find easier ways to do it.So, here is a simple example, then:
+a house.  Just, one might find easier ways to do it.
+
+So, here is a simple example, then:
 <div>
 <head>The whole text and all the texts</head>
 <div>
-<pb n=3D"1"/>
+<pb n="1"/>
 <head>First text</head>
-<p n=3D"1">some text starts here and goes ita<hi rend=3D"italic">lic an<pb
-n=3D"2"/>d then</i> we get a pagebreak</p>
-<p n=3D"2">so the text finishes</p>
-<p n=3D"3"> with yet another page <pb n=3D"3"/> and another page start </p>
+<p n="1">some text starts here and goes ita<hi rend="italic">lic an<pb
+n="2"/>d then</i> we get a pagebreak</p>
+<p n="2">so the text finishes</p>
+<p n="3"> with yet another page <pb n="3"/> and another page start </p>
 </div>
 <div>
 <head>Second text</head>
-<pb n=3D"4"/>
-<p n=3D"1">here my new text on the next page etc etc</p>
-<pb n=3D"5"/>
-<p n=3D"2">here my new text on the next page etc etc</p>
+<pb n="4"/>
+<p n="1">here my new text on the next page etc etc</p>
+<pb n="5"/>
+<p n="2">here my new text on the next page etc etc</p>
 </div>
-</div>So, Peter, here is your challenge.  Just make us an xslt file that pulls
+</div>
+
+So, Peter, here is your challenge.  Just make us an xslt file that pulls
 out just the text on each of the five pages.  It would be a nice bonus if
 each page were to have a header which told us what text there is on each
 page (for example: page 3 contains 'First text, para 3 -- Second text,
 head'; page 5 contains just 'Second text, para 5'). To make it slightly
 more of a challenge: you should do this direct from this sample, and not
-from a transform of this sample.By the way, notice the problematics about the final page break.  Should it
-be..<head>Second text</head>
-<pb n=3D"4"/>
-<p n=3D"1">here
+from a transform of this sample.
+
+By the way, notice the problematics about the final page break.  Should it
+be..
+
+<head>Second text</head>
+<pb n="4"/>
+<p n="1">here
 OR
-<head>Second text<pb n=3D"4"/></head>
-<p n=3D"1">here
+<head>Second text<pb n="4"/></head>
+<p n="1">here
 OR
 <head>Second text</head>
-<p n=3D"1"><pb n=3D"4"/>hereAnswers on the back of a postage stamp please.all the best
-Another Peter
+<p n="1"><pb n="4"/>here
+
+Answers on the back of a postage stamp please.
+
+all the best
+Another Peter
+
+
+
 _______________________________________________
 Digital Medievalist Project
 Homepage: http://www.digitalmedievalist.org
@@ -102,12 +132,16 @@ Submit RSS announcement: http://www.digitalmedievalist.org/newitem.cfm
 _redacted_(a)uleth.ca
 dm-l mailing list
 _redacted_(a)uleth.ca
-http://listserv.uleth.ca/mailman/listinfo/dm-l
---===============5601686316051917343==
-Content-Type: text/html
+http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+
+
+--5601686316051917343Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDMuMi8vRU4iPgo8SFRNTD4K
+Content-Disposition: attachment; filenameúttachment.html"
+MIME-Version: 1.0
+
+PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDMuMi8vRU4iPgo8SFRNTD4K
 PEhFQUQ+CjxNRVRBIEhUVFAtRVFVSVY9IkNvbnRlbnQtVHlwZSIgQ09OVEVOVD0idGV4dC9odG1s
 OyBjaGFyc2V0PWlzby04ODU5LTEiPgo8TUVUQSBOQU1FPSJHZW5lcmF0b3IiIENPTlRFTlQ9Ik1T
 IEV4Y2hhbmdlIFNlcnZlciB2ZXJzaW9uIDYuNS43MjMyLjM2Ij4KPFRJVExFPlJFOiBbZG0tbF0g
@@ -266,4 +300,4 @@ aXN0Lm9yZy9uZXdpdGVtLmNmbTwvQT48QlI+CkNvbnRhY3QgZWRpdG9yaWFsIEJvYXJkOiBkaWdp
 dGFsbWVkaWV2YWxpc3RAdWxldGguY2E8QlI+CmRtLWwgbWFpbGluZyBsaXN0PEJSPgpkbS1sQHVs
 ZXRoLmNhPEJSPgo8QSBIUkVGPSJodHRwOi8vbGlzdHNlcnYudWxldGguY2EvbWFpbG1hbi9saXN0
 aW5mby9kbS1sIj5odHRwOi8vbGlzdHNlcnYudWxldGguY2EvbWFpbG1hbi9saXN0aW5mby9kbS1s
-PC9BPjxCUj4KPEJSPgo8L0ZPTlQ+CjwvUD4KCjwvQk9EWT4KPC9IVE1MPg==
+PC9BPjxCUj4KPEJSPgo8L0ZPTlQ+CjwvUD4KCjwvQk9EWT4KPC9IVE1MPg

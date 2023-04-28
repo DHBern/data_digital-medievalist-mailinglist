@@ -1,13 +1,25 @@
-Subject: [dm-l] Venice Virtual Summer Camp on Digital and Public Humanities, 6Dear all,with the usual apologies for cross-posting, please find below the
+Subject: [dm-l] Venice Virtual Summer Camp on Digital and Public Humanities, 6
+
+Dear all,
+
+with the usual apologies for cross-posting, please find below the
 announcement of the 'virtual summer camp' organized by the VeDPH (Venice
 Centre for Digital and Public Humanities, Ca' Foscari University of
 Venice) in substitution of the summer school that was cancelled due to
 the COVID-19 pandemia.
 Teaching materials will be published in
-https://vedph.github.io/summercampBest regards,
-Paolo MonellaVisiting Scholar
+https://vedph.github.io/summercamp
+
+Best regards,
+Paolo Monella
+
+Visiting Scholar
 Venice Centre for Digital and Public Humanities
-Ca' Foscari University of Venice---It was with great disappointment that we had to cancel the first Venice
+Ca' Foscari University of Venice
+
+---
+
+It was with great disappointment that we had to cancel the first Venice
 Summer School in Digital and Public Humanities due to the coronavirus
 emergency. All the more, we are now happy to announce the first Venice
 Virtual Summer Camp on Digital and Public Humanities to take place from
@@ -18,7 +30,9 @@ large number of seminars and presentations can now be offered without
 registration and free of charge as open events. Other training sessions
 are restricted to a number of participants and places have been reserved
 for the successful applicants of the originally planned Summer School in
-Venice.The virtual summer camp is organised by the Venice Centre for Digital
+Venice.
+
+The virtual summer camp is organised by the Venice Centre for Digital
 and Public Humanities [https://www.unive.it/vedph] and includes four
 different thematic strands: (1) Digital Textual Scholarship, (2) Digital
 and Public History, (3) Digital and Public Art History, and (4) Digital
@@ -27,8 +41,16 @@ Classes will be delivered by the colleagues from the centre and other
 expert scholars from internationally renowned institutions. We are most
 grateful to everyone being actively involved in the realisation of an
 outstanding programme, and especially to our keynote speakers Elena
-Pierazzo (University of Tours) and Fabio Vitali (University of Bologna).For more information, see the Virtual Summer Camp Website
-[https://vedph.github.io/summercamp].***Strand #1: Digital Textual ScholarshipThis strand provides a brief overview of theories and practices in
+Pierazzo (University of Tours) and Fabio Vitali (University of Bologna).
+
+For more information, see the Virtual Summer Camp Website
+[https://vedph.github.io/summercamp].
+
+***
+
+Strand #1: Digital Textual Scholarship
+
+This strand provides a brief overview of theories and practices in
 digital scholarly editing. Participants will be introduced to the very
 basics of markup and text encoding, linked open data and semantic web
 technologies, documentation and analysis of material textual aspects,
@@ -39,48 +61,66 @@ famous travel report of the Venetian explorer Marco Polo will serve as a
 starting point (as preserved in an illustrated manuscript copy from the
 Bodleian Library). Further resources and all teaching materials will be
 freely accessible on our Github repository
-[https://github.com/vedph/event_materials/tree/master/2020_summer_camp]Monday, 6 July 2020
+[https://github.com/vedph/event_materials/tree/master/2020_summer_camp]
+
+Monday, 6 July 2020
 INTRODUCTION
 11:00-11:45 - Welcome, Keynote by Elena Pierazzo (Univ. Tours) [plenary,
 open]
-12:00-12:30 - Franz Fischer (Ca=E2=80=99 Foscari): Introduction to the Strand
-(programme, objectives, digital scholarly editing and the =E2=80=9Clinked ope=
-n=E2=80=9D
-edition) [open]15:00-15:30 - Federico Boschetti, Angelo Mario del Grosso (CNR-ILC / Ca=E2=80=
-=99
+12:00-12:30 - Franz Fischer (Ca’ Foscari): Introduction to the Strand
+(programme, objectives, digital scholarly editing and the “linked open”
+edition) [open]
+
+15:00-15:30 - Federico Boschetti, Angelo Mario del Grosso (CNR-ILC / Ca’
 Foscari): Textual markup (typographic, structural, semantic: HTML, CSS,
 XML) [open]
-15:45-16:30 - Text Lab: Set up [restricted]Tuesday, 7 July 2020
+15:45-16:30 - Text Lab: Set up [restricted]
+
+Tuesday, 7 July 2020
 TEXTUALITY
-11:00-11:30 - Holger Essler, Franz Fischer (Ca=E2=80=99 Foscari): Encoding te=
-xts
+11:00-11:30 - Holger Essler, Franz Fischer (Ca’ Foscari): Encoding texts
 (TEI, pt. 1) [open]
-11.45-12.30 - Text Lab: Hands-on exercises [restricted]15:00-15:30 - Holger Essler, Franz Fischer (Ca=E2=80=99 Foscari): Encoding te=
-xts
+11.45-12.30 - Text Lab: Hands-on exercises [restricted]
+
+15:00-15:30 - Holger Essler, Franz Fischer (Ca’ Foscari): Encoding texts
 (TEI, pt. 2) [open]
-15:45-16:30 - Text Lab: Hands-on exercises [restricted]Wednesday, 8 July 2020
+15:45-16:30 - Text Lab: Hands-on exercises [restricted]
+
+Wednesday, 8 July 2020
 SEMANTICS
-11:00-11:30 - Tiziana Mancinelli, Daniele Fusi (Ca=E2=80=99 Foscari): Opening=
- up
+11:00-11:30 - Tiziana Mancinelli, Daniele Fusi (Ca’ Foscari): Opening up
 the edition (Semantic Web, pt. 1) [open]
-11.45-12.30 - Text Lab: Hands-on exercises [restricted]15:00-15:30 - Tiziana Mancinelli, Daniele Fusi (Ca=E2=80=99 Foscari): Opening=
- up
+11.45-12.30 - Text Lab: Hands-on exercises [restricted]
+
+15:00-15:30 - Tiziana Mancinelli, Daniele Fusi (Ca’ Foscari): Opening up
 the edition (Semantic Web, pt. 1) [open]
-15:45-16:30 - Text Lab: Hands-on exercises [restricted]Thursday, 9 July 2020
+15:45-16:30 - Text Lab: Hands-on exercises [restricted]
+
+Thursday, 9 July 2020
 MATERIALITY
-11:00-11:30 Alberto Campagnolo (Univ. Udine / Ca=E2=80=99 Foscari): Represent=
-ing
+11:00-11:30 Alberto Campagnolo (Univ. Udine / Ca’ Foscari): Representing
 materiality of texts (VisColl, spectral imaging) [open]
-11.45-12.30 - Text Lab: Hands-on exercises [restricted]15:00-15:30 - Paolo Monella (Univ. Palermo / Ca=E2=80=99 Foscari): Linking te=
-xt
+11.45-12.30 - Text Lab: Hands-on exercises [restricted]
+
+15:00-15:30 - Paolo Monella (Univ. Palermo / Ca’ Foscari): Linking text
 and image (IIIF) [open]
-15:45-16:30 - Text Lab: Hands-on exercises [restricted]Friday, 10 July 2020
+15:45-16:30 - Text Lab: Hands-on exercises [restricted]
+
+Friday, 10 July 2020
 VISUALISATION
 11:00-11:30 - Tiziana Mancinelli, Daniele Fusi, Alberto Campagnolo,
 Paolo Monella, Federico Boschetti: Presenting the edition [open]
 11.45-12.30 - Discussion: How would I apply all this to my own research
-project? [restricted]15:00-15:45 - Closing keynote by Fabio Vitali (Univ. Bologna) [plenary,
-open]***Strand #2: Digital and Public HistoryThis strand focuses on the application of digital technologies and a
+project? [restricted]
+
+15:00-15:45 - Closing keynote by Fabio Vitali (Univ. Bologna) [plenary,
+open]
+
+***
+
+Strand #2: Digital and Public History
+
+This strand focuses on the application of digital technologies and a
 public approach to historical research and dissemination. The classes
 aim at giving an overview of very different topics, ranging from memory
 to social media, from television to digital tools, offering reflections
@@ -88,27 +128,38 @@ on how we connect to, reconstruct, understand and eventually tell our
 past with digital and public methodologies. The strand includes
 activities that the students can perform on their own before getting
 feedback from the teacher. A special attention will be devoted to the
-intersection between history and the exceptional situation we=E2=80=99re going
-through due to the Covid-19 emergency.
+intersection between history and the exceptional situation we’re going
+through due to the Covid-19 emergency.
+
 Monday, 6 July 2020
 11:00-11:45 - Welcome, Keynote by Elena Pierazzo (Univ. Tours) [plenary,
 open]
-15:30-16:45 - Stefano Dall=E2=80=99Aglio (Ca=E2=80=99 Foscari): Public Histor=
-y in a time
-of crisis [open]Tuesday, 7 July 2020
-10:00-11:15 - Leonardo Campus (Ca=E2=80=99 Foscari): History and TV [restrict=
-ed]
-17:00-18:00 - Leonardo Campus (Ca=E2=80=99 Foscari): History and TV-Activity
-Feedback [restricted]Wednesday 8 July
+15:30-16:45 - Stefano Dall’Aglio (Ca’ Foscari): Public History in a time
+of crisis [open]
+
+Tuesday, 7 July 2020
+10:00-11:15 - Leonardo Campus (Ca’ Foscari): History and TV [restricted]
+17:00-18:00 - Leonardo Campus (Ca’ Foscari): History and TV-Activity
+Feedback [restricted]
+
+Wednesday 8 July
 10:00-11:15 - Frederick Clavert (C2DH, Univ. of Luxembourg): History and
 social media. How to collect tweets for archiving and analysis purposes:
-practice and methods [restricted]Thursday 9 July
-10:00-11:15 - Deborah Paci (Ca=E2=80=99 Foscari): Networks in History: methods
-and tools for visualizing historical data [open]Friday 10 July
+practice and methods [restricted]
+
+Thursday 9 July
+10:00-11:15 - Deborah Paci (Ca’ Foscari): Networks in History: methods
+and tools for visualizing historical data [open]
+
+Friday 10 July
 10:00-11:15 - Mirco Carrattieri (Istituto Nazionale Ferruccio Parri):
 Public History and Memory [open]
 15:00-15:45 - Closing keynote by Fabio Vitali (Univ. Bologna) [plenary,
-open]***Strand #3: Digital and Public Art History
+open]
+
+***
+
+Strand #3: Digital and Public Art History
 This strand focuses on the technological development and its cultural
 implications which occurred in the arts sector over the last decades. In
 doing this, the digital aspect is approached both on the side of
@@ -119,42 +170,53 @@ also in the context of the current international situation of crisis.
 Both the theoretical debate and practical tools for digital art
 historians shall be explored by means of lectures and labs, which will
 include a hands-on workshop on tools for digital analysis of
-illustrations, a students=E2=80=99 forum on digital culture at the time of
+illustrations, a students’ forum on digital culture at the time of
 Covid-19, and a roundtable to discuss recent tools and developments in
-Digital and Public Art History with experts of European renown.Monday, 6 July 2020
+Digital and Public Art History with experts of European renown.
+
+Monday, 6 July 2020
 11:00-11:45 - Welcome, Keynote by Elena Pierazzo (Univ. Tours) [plenary,
 open]
-12:00-12:30 - Diego Mantoan, Barbara Tramelli  (Ca=E2=80=99 Foscari), Carolina
-Fern=C3=A1ndez-Castrillo (Universidad Carlos III Madrid / Ca=E2=80=99 Foscari=
-):
+12:00-12:30 - Diego Mantoan, Barbara Tramelli  (Ca’ Foscari), Carolina
+Fernández-Castrillo (Universidad Carlos III Madrid / Ca’ Foscari):
 Strand introduction [restricted]
-15:30-17:00 - Diego Mantoan (Ca=E2=80=99 Foscari): Art Collections and
+15:30-17:00 - Diego Mantoan (Ca’ Foscari): Art Collections and
 Digitization practices in the age of digital image circulation [seminar,
-open]Tuesday, 7 July 2020
-11:00-12:30 - Barbara Tramelli (Ca=E2=80=99 Foscari): The Path of the Image: =
-the
+open]
+
+Tuesday, 7 July 2020
+11:00-12:30 - Barbara Tramelli (Ca’ Foscari): The Path of the Image: the
 Image Matching and the Automatic Retrieval of Early Modern Digital
 Illustrations [seminar, open]
 15:30-17:00 - Giles Bergel (Univ. of Oxford): Computer vision for
 digital art history: a hands on workshop with Visual Geometry Group
-tools [workshop, restricted]Wednesday, 8 July 2020
-11:00-12:30 - Carolina Fern=C3=A1ndez-Castrillo (Universidad Carlos III
-Madrid / Ca=E2=80=99 FOscari): =E2=80=9CEmergent Cultural Practices at the Ag=
-e of User
-Generated Contents=E2=80=9D [seminar, open]
-15:30-17:00 - =E2=80=9CRecent Tools and Developments in Digital and Public Art
-History=E2=80=9D with special guests: Rossella Catanese (NYU, Florence); Erma
+tools [workshop, restricted]
+
+Wednesday, 8 July 2020
+11:00-12:30 - Carolina Fernández-Castrillo (Universidad Carlos III
+Madrid / Ca’ FOscari): “Emergent Cultural Practices at the Age of User
+Generated Contents” [seminar, open]
+15:30-17:00 - “Recent Tools and Developments in Digital and Public Art
+History” with special guests: Rossella Catanese (NYU, Florence); Erma
 Hermens (Rijksmuseum, Amsterdam); Trilce Navarrete (Erasmus University
-Rotterdam) [round table, restricted]Thursday, 9 July 2020
+Rotterdam) [round table, restricted]
+
+Thursday, 9 July 2020
 11:00-12:30 - Erma Hermens (Rijksmuseum Amsterdam): Material histories
 of museum objects: digital imaging for conservation and dissemination at
 the Rijksmuseum Amsterdam [seminar, open]
 15:30-17:00 - Valeria Finocchi (Museo di Palazzo Grimani): Reinventing
-the museum narrative in a time of crisis [laboratory, restricted]Friday, 10 July 2020
+the museum narrative in a time of crisis [laboratory, restricted]
+
+Friday, 10 July 2020
 11:00-12:30 - Digital Culture at the time of Covid-19 (with presentation
 of selected posters) [student forum, restricted]
 15:00-15:45 - Closing keynote by Fabio Vitali (Univ. Bologna) [plenary,
-open]***Strand #4: Digital Archaeology and its Public
+open]
+
+***
+
+Strand #4: Digital Archaeology and its Public
 This strand focuses on theories and practices that archaeologists apply
 in surveys, remote sensing, spatial analysis, data collection and data
 management. Participants will engage in digital strategies to analyze
@@ -162,51 +224,54 @@ the heritage and visualize, share and communicate it to the public.
 Moreover, taking advantage of the recent Covid-19 lockdown experience,
 and using archaeological tools and methods, Strand #4 aims to explore
 how the materiality of representative objects that shaped/are shaping
-our daily life may be narrated, interpreted, visualized and digitized.Monday, 6 July 2020
+our daily life may be narrated, interpreted, visualized and digitized.
+
+Monday, 6 July 2020
 11:00-11:45 - Welcome, Keynote by Elena Pierazzo (Univ. Tours) [plenary,
 open]
-12:00-12.30 - Diego Calaon, Carlo Beltrame, Elisa Corro=E2=80=99 (Ca=E2=80=99=
- Foscari):
+12:00-12.30 - Diego Calaon, Carlo Beltrame, Elisa Corro’ (Ca’ Foscari):
 Introduction to the Strand  [restricted]
-12.30 -13.15 - Diego Calaon (Ca=E2=80=99 Foscari): Archaeologies of Materiali=
-ty:
+12.30 -13.15 - Diego Calaon (Ca’ Foscari): Archaeologies of Materiality:
 Public, Politics and Ethics [open]
-15:00-16:00 - Elisa Corr=C3=B2 (Ca=E2=80=99 Foscari): Maker Culture: when Arc=
-haeology
+15:00-16:00 - Elisa Corrò (Ca’ Foscari): Maker Culture: when Archaeology
 meets Digital Creativity. Practices and Community Engagement with
 Intangible Heritage [open]
-16.30-17.30 - Diego Calaon, Elisa Corr=C3=B2, Eleonora Delpozzo and Sofia
-Antonello (Ca=E2=80=99 Foscari): Virtual Data Camp =E2=80=9CThe Materiality o=
-f a Global
-Lockdown=E2=80=9D, Step 1- Introduction (Narratives and Object Biographies;
-Virtualizing materiality, GIS and 3Ds; Visual Storytelling) [restricted]Tuesday, 7 July 2020
-11:00-12:00 - Elisa Costa, Carlo Beltrame (Ca=E2=80=99 Foscari): Documentation
+16.30-17.30 - Diego Calaon, Elisa Corrò, Eleonora Delpozzo and Sofia
+Antonello (Ca’ Foscari): Virtual Data Camp “The Materiality of a Global
+Lockdown”, Step 1- Introduction (Narratives and Object Biographies;
+Virtualizing materiality, GIS and 3Ds; Visual Storytelling) [restricted]
+
+Tuesday, 7 July 2020
+11:00-12:00 - Elisa Costa, Carlo Beltrame (Ca’ Foscari): Documentation
 and virtual dive in maritime archaeology [open]
-15:00-16:00 - Cristina Barbiani, Carlo Beltrame, Paola Perozzo (Ca=E2=80=99
+15:00-16:00 - Cristina Barbiani, Carlo Beltrame, Paola Perozzo (Ca’
 Foscari): Digital exhibition of the archaeological investigation of the
 brig Mercurio (1812) [open]
-16:30-17:30 - Diego Calaon, Elisa Corr=C3=B2, Eleonora Delpozzo, Sofia
-Antonello (Ca=E2=80=99 Foscari): Virtual Data Camp =E2=80=9CThe Materiality o=
-f a Global
-Lockdown=E2=80=9D, Step 2, Data Gathering - Choice and description of the
-materials [restricted]Wednesday, 8 July 2020
+16:30-17:30 - Diego Calaon, Elisa Corrò, Eleonora Delpozzo, Sofia
+Antonello (Ca’ Foscari): Virtual Data Camp “The Materiality of a Global
+Lockdown”, Step 2, Data Gathering - Choice and description of the
+materials [restricted]
+
+Wednesday, 8 July 2020
 11:00-12:00 - Dominik Lukas (Univ. of Chicago) Database and mining [open]
-16:30-17:30 - Diego Calaon, Elisa Corr=C3=B2, Eleonora Delpozzo, Sofia
-Antonello (Ca=E2=80=99 Foscari): Virtual Data Camp =E2=80=9CThe Materiality o=
-f a Global
-Lockdown=E2=80=9D, Step 3, Interpretation, Economic and Social Relationships
-[restricted]Thursday, 9 July 2020
+16:30-17:30 - Diego Calaon, Elisa Corrò, Eleonora Delpozzo, Sofia
+Antonello (Ca’ Foscari): Virtual Data Camp “The Materiality of a Global
+Lockdown”, Step 3, Interpretation, Economic and Social Relationships
+[restricted]
+
+Thursday, 9 July 2020
 11:00-12:00 - Angus Mol (Univ. Leiden): Archaeology and videogames [open]
-16:30-17:30 - Diego Calaon, Elisa Corr=C3=B2, Eleonora Delpozzo, Sofia
-Antonello (Ca=E2=80=99 Foscari): Virtual Data Camp =E2=80=9CThe Materiality o=
-f a Global
-Lockdown=E2=80=9D - Step 4, Dismantling traditional narratives, Remodeling the
-Past  [restricted]Friday, 10 July 2020
-11:00-12:00 - Diego Calaon, Elisa Corr=C3=B2, Eleonora Delpozzo, Sofia
-Antonello (Ca=E2=80=99 Foscari): Virtual Data Camp =E2=80=9CThe Materiality o=
-f a Global
-Lockdown=E2=80=9D - Step 5, Presentation of the Individual projects [restrict=
-ed]
+16:30-17:30 - Diego Calaon, Elisa Corrò, Eleonora Delpozzo, Sofia
+Antonello (Ca’ Foscari): Virtual Data Camp “The Materiality of a Global
+Lockdown” - Step 4, Dismantling traditional narratives, Remodeling the
+Past  [restricted]
+
+Friday, 10 July 2020
+11:00-12:00 - Diego Calaon, Elisa Corrò, Eleonora Delpozzo, Sofia
+Antonello (Ca’ Foscari): Virtual Data Camp “The Materiality of a Global
+Lockdown” - Step 5, Presentation of the Individual projects [restricted]
 15:00-15:45 - Closing keynote by Fabio Vitali (Univ. Bologna) [plenary,
-open]
---===============3561459799983246812==--
+open]
+
+--3561459799983246812-
+

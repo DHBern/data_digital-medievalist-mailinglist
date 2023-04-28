@@ -1,4 +1,6 @@
-Subject: [dm-l] TAN: XML editorsNow I understand why thing are so quiet around here: everyone's in 
+Subject: [dm-l] TAN: XML editors
+
+Now I understand why thing are so quiet around here: everyone's in 
 Leeds. Still, maybe I can get some guidance from the group. I'm looking 
 for a good XML editor, either cross-platform (e.g. Java) or written for 
 Linux/UNIX. I want the usual things: support for both DTDs and Schemas, 
@@ -8,5 +10,14 @@ Emacs/PSGML and jEdit with the XML plugin, and both are good, but both
 require that one use the mouse extensively. I've always hated moving my 
 hand back and forth between mouse and keyboard, but lately I've managed 
 to acquire a condition (temporary I trust) that makes it painful to use 
-the mouse more than a little.So what I'm looking for is an XML editor that can be operated largely 
-with the keyboard, with as little mouse input as possible.Suggestions/sharing of experiences most welcome.Peter
+the mouse more than a little.
+
+So what I'm looking for is an XML editor that can be operated largely 
+with the keyboard, with as little mouse input as possible.
+
+Suggestions/sharing of experiences most welcome.
+
+Peter
+
+
+

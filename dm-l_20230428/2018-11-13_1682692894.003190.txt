@@ -1,10 +1,19 @@
-Subject: [dm-l] Reminder: CfP - Workshop on Scholarly Digital Editions, Graph--- Apologies for cross posting ---Dear all,This is a reminder of the Call for Papers for the Workshop on Scholarly
+Subject: [dm-l] Reminder: CfP - Workshop on Scholarly Digital Editions, Graph
+
+--- Apologies for cross posting ---
+
+Dear all,
+
+This is a reminder of the Call for Papers for the Workshop on Scholarly
 Digital Editions, Graph Data-Models and Semantic Web Technologies.
-Submissions are now open!Best wishes,
-the Organization Committee
+Submissions are now open!
+
+Best wishes,
+the Organization Committee
+
 *Workshop on Scholarly Digital Editions, Graph Data-Models and Semantic Web
 Technologies*
-Universit=C3=A9 de Lausanne, 3-4 June 2019
+Université de Lausanne, 3-4 June 2019
 <http://wp.unil.ch/graphsde/>
 *Call for Papers*
 Digital texts processed by machines are linear strings of characters, but
@@ -25,45 +34,60 @@ The combinations of these objects/concepts, pursued in the last decades,
 remains experimental to date, and it represents one of the possible
 development for the field of *digital scholarly editing*.
 Contributions on one or more of the following topics are particularly
-welcome:   - the conceptualization of *text as graph*;
+welcome:
+
+   - the conceptualization of *text as graph*;
    - the use of *graph-databases* for digital editions;
    - the* semantic web resources* for building digital scholarly editions;
    - the *interoperability* among digital texts through Linked Data
    Vocabularies;
-   - the *integration* of graph flavoured data into xml documents.We welcome contributions from those involved in the development of *tailor-ma=
-de
+   - the *integration* of graph flavoured data into xml documents.
+
+We welcome contributions from those involved in the development of *tailor-made
 solutions* for small scale projects as well as of large-scale
 *infrastructure*, focused on the *theory* and/or on the *practice* of this
 happy or unhappy combination.
 The workshop includes *presentations* and a *working group* session.
 Please note that the word 'workshop' means here a place for sharing ongoing
 research and not a hands-on training.
-*Invited speakers*   - Ronald Haentjens Dekker (Royal Dutch Academy of Sciences =E2=80=93 Human=
-ities
+*Invited speakers*
+
+   - Ronald Haentjens Dekker (Royal Dutch Academy of Sciences – Humanities
    Cluster)
-   - Samuel M=C3=BCller (University of Basel - National Infrustructure for
+   - Samuel Müller (University of Basel - National Infrustructure for
    Editions)
    - Michele Pasin (Springer Nature)
-   - Tobias Schweizer, Sepideh Alassi (University of Basel =E2=80=93 Digital
+   - Tobias Schweizer, Sepideh Alassi (University of Basel – Digital
    Humanities Lab)
-   - Georg Vogeler (University of Graz)*Scientific committee*   - Gioele Barabucci (University of Cologne)
+   - Georg Vogeler (University of Graz)
+
+*Scientific committee*
+
+   - Gioele Barabucci (University of Cologne)
    - Fabio Ciotti (University of Rome Tor Vergata)
    - Claire Clivaz (Swiss Institute of Bioinformatics)
    - DASCH (University of Lausanne)
-   - Simon Gabay (University of Neuch=C3=A2tel)
+   - Simon Gabay (University of Neuchâtel)
    - Frederike Neuber (Berlin-Brandenburg Academy of Sciences and Humanties)
    - Elena Pierazzo (University of Grenoble-Alpes)
    - Michael Piotrowski (University of Lausanne)
    - Matteo Romanello (EPFL)
    - Elena Spadini (University of Lausanne)
    - Francesca Tomasi (University of Bologna)
-   - Aris Xanthos (University of Lausanne)
+   - Aris Xanthos (University of Lausanne)
+
 *Important dates*
 *9 December 2018*. Deadline for the submission of abstracts
 *14 January 2018*. Notification of acceptance
 *15 April 2019*. Camera-ready version of the papers
-*3-4 June 2019*. WorkshopIl giorno gio 19 lug 2018 alle ore 16:00 Elena Spadini <
-_redacted_(a)gmail.com> ha scritto:>
+*3-4 June 2019*. Workshop
+
+
+
+Il giorno gio 19 lug 2018 alle ore 16:00 Elena Spadini <
+_redacted_(a)gmail.com> ha scritto:
+
+>
 > Dear List members,
 >
 > we hope this Workshop will be of interest for some of you.
@@ -76,13 +100,12 @@ _redacted_(a)gmail.com> ha scritto:>
 >
 > apologies for cross posting
 >
-> ---------------------------------------------------------------------------=
------------------------
+> --------------------------------------------------------------------------------------------------
 >
 >
 > *Workshop on Scholarly Digital Editions, Graph Data-Models and Semantic
 > Web Technologies*
-> Universit=C3=A9 de Lausanne, 3-4 June 2019
+> Université de Lausanne, 3-4 June 2019
 > <http://wp.unil.ch/graphsde/>
 >
 > *Call for Papers*
@@ -113,8 +136,7 @@ _redacted_(a)gmail.com> ha scritto:>
 >    Vocabularies;
 >    - the *integration* of graph flavoured data into xml documents.
 >
-> We welcome contributions from those involved in the development of *tailor-=
-made
+> We welcome contributions from those involved in the development of *tailor-made
 > solutions* for small scale projects as well as of large-scale
 > *infrastructure*, focused on the *theory* and/or on the *practice* of
 > this happy or unhappy combination.
@@ -123,12 +145,12 @@ made
 > research and not a hands-on training.
 > *Invited speakers*
 >
->    - Ronald Haentjens Dekker (Royal Dutch Academy of Sciences =E2=80=93
+>    - Ronald Haentjens Dekker (Royal Dutch Academy of Sciences –
 >    Humanities Cluster)
->    - Samuel M=C3=BCller (University of Basel - National Infrustructure for
+>    - Samuel Müller (University of Basel - National Infrustructure for
 >    Editions)
 >    - Michele Pasin (Springer Nature)
->    - Tobias Schweizer, Sepideh Alassi (University of Basel =E2=80=93 Digital
+>    - Tobias Schweizer, Sepideh Alassi (University of Basel – Digital
 >    Humanities Lab)
 >    - Georg Vogeler (University of Graz)
 >
@@ -138,7 +160,7 @@ made
 >    - Fabio Ciotti (University of Rome Tor Vergata)
 >    - Claire Clivaz (Swiss Institute of Bioinformatics)
 >    - DASCH (University of Lausanne)
->    - Simon Gabay (University of Neuch=C3=A2tel)
+>    - Simon Gabay (University of Neuchâtel)
 >    - Frederike Neuber (Berlin-Brandenburg Academy of Sciences and
 >    Humanties)
 >    - Elena Pierazzo (University of Grenoble-Alpes)
@@ -156,7 +178,7 @@ made
 > *3-4 June 2019*. Workshop
 >
 > *Where*
-> Universit=C3=A9 de Lausanne =E2=80=93 1015 Lausanne =E2=80=93 Switzerland
+> Université de Lausanne – 1015 Lausanne – Switzerland
 > *Language*
 > The language of the workshop will be English.
 > *Abstract submission*
@@ -182,21 +204,21 @@ made
 > conference volume endowed with persistent identifiers.
 > *Organization committee*
 >
->    - Elena Spadini (Universit=C3=A9 de Lausanne, CRLR)
->    - Francesca Tomasi (Universit=C3=A0 di Bologna)
+>    - Elena Spadini (Université de Lausanne, CRLR)
+>    - Francesca Tomasi (Università di Bologna)
 >
 > *With the support of*
 >
 >    - Centre de recherche sur les lettres romandes
->    <http://www.unil.ch/crlr/home.html> (CRLR), Universit=C3=A9 de Lausanne
+>    <http://www.unil.ch/crlr/home.html> (CRLR), Université de Lausanne
 >
 > *In collaboration with*
 >
 >    - Digital Humanities and Digital Knowledge
 >    <https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge> (DHDK),
 >    University of Bologna
->    - Section des sciences du langage et de l=E2=80=99information
->    <https://www.unil.ch/sli/fr/home.html> (SLI), Universit=C3=A9 de Lausanne
+>    - Section des sciences du langage et de l’information
+>    <https://www.unil.ch/sli/fr/home.html> (SLI), Université de Lausanne
 >    - Lausanne Laboratory for Computational and Statistical Text Analysis
 >    <http://unil.ch/llist/en/> (LLIST)
 >
@@ -205,8 +227,7 @@ made
 >
 >
 >
-> ---------------------------------------------------------------------------=
----------------------------------------------------------
+> ------------------------------------------------------------------------------------------------------------------------------------
 >
 >
 >
@@ -217,10 +238,16 @@ _redacted_(a)unil.ch
 > Centre de recherches sur les lettres romandes <http://www.unil.ch/crlr>
 >
 >
->--=20
+>
+
+-- 
 https://elespdn.github.io/io/
 PostDoc - UNIL
-Centre de recherches sur les lettres romandes <http://www.unil.ch/crlr>PGRpdiBkaXI9Imx0ciI+PGRpdj4tLS0gQXBvbG9naWVzIGZvciBjcm9zcyBwb3N0aW5nIC0tLTwv
+Centre de recherches sur les lettres romandes <http://www.unil.ch/crlr>
+
+
+
+PGRpdiBkaXI9Imx0ciI+PGRpdj4tLS0gQXBvbG9naWVzIGZvciBjcm9zcyBwb3N0aW5nIC0tLTwv
 ZGl2PjxkaXY+PGJyPjwvZGl2PjxkaXY+RGVhciBhbGwsPC9kaXY+PGRpdj48YnI+PC9kaXY+PGRp
 dj5UaGlzIGlzIGEgcmVtaW5kZXIgb2YgdGhlIENhbGwgZm9yIFBhcGVycyBmb3IgdGhlIFdvcmtz
 aG9wIG9uIFNjaG9sYXJseSBEaWdpdGFsIEVkaXRpb25zLCBHcmFwaCBEYXRhLU1vZGVscyBhbmQg
@@ -627,4 +654,4 @@ dXIgbGVzIGxldHRyZXMgcm9tYW5kZXM8L2E+wqA8YnI+PC9mb250Pjxicj48L2ZvbnQ+PC9kaXY+
 PGRpdiBkaXI9Imx0ciI+PGRpdiBkaXI9Imx0ciI+PGRpdj48YnI+PC9kaXY+PC9kaXY+PC9kaXY+
 PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9k
 aXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+
-Cg==
+Cg

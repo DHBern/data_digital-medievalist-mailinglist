@@ -1,11 +1,19 @@
-Subject: Re: [dm-l] [Fwd: encoding  maps, graphics with text?]At 01:34 AM 07/07/2004, you wrote:
+Subject: Re: [dm-l] [Fwd: encoding  maps, graphics with text?]
+
+At 01:34 AM 07/07/2004, you wrote:
 >Content-Transfer-Encoding: 7bit
 >
 >But alas
->This website does not respond to meIt seems to be there this morning. It needs a modern browser (it's XHTML 
+>This website does not respond to me
+
+It seems to be there this morning. It needs a modern browser (it's XHTML 
 with an XML declaration), but it's not particularly challenging from the 
-browser's point of view. Can anyone else see it?Cheers,
-Martin>Peter
+browser's point of view. Can anyone else see it?
+
+Cheers,
+Martin
+
+>Peter
 >
 >
 > > Hi there,
@@ -87,7 +95,9 @@ _redacted_(a)uleth.ca
 >_______________________________________________
 >dm-l mailing list
 _redacted_(a)uleth.ca
->http://listserv.uleth.ca/mailman/listinfo/dm-l______________________________________
+>http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+______________________________________
 Martin Holmes
 University of Victoria Humanities Computing and Media Centre
 _redacted_(a)uvic.ca
@@ -95,4 +105,7 @@ _redacted_(a)mholmes.com
 _redacted_(a)halfbakedsoftware.com
 http://www.mholmes.com
 http://web.uvic.ca/hcmc/
-http://www.halfbakedsoftware.com
+http://www.halfbakedsoftware.com
+
+
+

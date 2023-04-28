@@ -1,9 +1,17 @@
-Subject: Re: [dm-l] Cocoon authentication--anybody with experience?Hi Dan,I'm assuming you've looked at
+Subject: Re: [dm-l] Cocoon authentication--anybody with experience?
+
+Hi Dan,
+
+I'm assuming you've looked at
 http://cocoon.apache.org/2.1/developing/webapps/authentication.html
 and the sections beneath it in the left-hand menu?  I believe one
 should be able to handle the authentication and authorization entirely
 in cocoon.  I've only set it up in the context of eXist where you are
-authenticating against the users in the eXist database.-JamesOn Wed, Aug 26, 2009 at 17:16, Daniel Paul
+authenticating against the users in the eXist database.
+
+-James
+
+On Wed, Aug 26, 2009 at 17:16, Daniel Paul
 _redacted_(a)gmail.com> wrote:
 > Hi Hugh,
 >
@@ -22,5 +30,7 @@ _redacted_(a)gmail.com> wrote:
 > Thanks very much!
 >
 > -dan
->
---===============2081100542456566493==--
+>
+
+--2081100542456566493-
+

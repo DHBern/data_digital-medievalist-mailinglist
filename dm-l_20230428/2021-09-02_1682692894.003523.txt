@@ -1,22 +1,34 @@
-Subject: [dm-l] New digital edition: Glosses to the first book of theDear DM community,I am very glad to let you know that we at the Innovating Knowledge<http://inn=
-ovatingknowledge.nl/> project (Huygens Institute, Amsterdam) just released a =
-digital edition of the glosses to the first book of the Etymologiae of Isidor=
-e of Seville.This digital edition makes use of network visualizations to display the relat=
-ionships between the manuscript witnesses, to map these relationships against=
- the geographical background, and to showcase how the glosses are distributed=
- across the text. All in all, the edition contains approximately 4,280 glosse=
-s as found in more than 50 early medieval manuscripts, including vernacular, =
-Tironian and dry-point glosses.You can find the edition at: https://db.innovatingknowledge.nl/editionTogether with the edition, we are also publishing the raw data<https://innova=
-tingknowledge.nl/?page_id=3D104> behind the edition in a hope that they can b=
-e further reused by other projects. The TEI-XML file, the XML schema, and the=
- software code of the edition are also published<https://github.com/HuygensIN=
-G/isidore-glosses> today in a dedicated GitHub repository.I am also very glad that the data from the edition was also published on our =
-partner project, the GlossEngine<http://www.glossing.org/glossengine/collecti=
-ons.php>.I hope that many of you will find this edition useful and inspiring.Best wishes,EvinaEvina Steinova
+Subject: [dm-l] New digital edition: Glosses to the first book of the
+
+Dear DM community,
+
+I am very glad to let you know that we at the Innovating Knowledge<http://innovatingknowledge.nl/> project (Huygens Institute, Amsterdam) just released a digital edition of the glosses to the first book of the Etymologiae of Isidore of Seville.
+
+This digital edition makes use of network visualizations to display the relationships between the manuscript witnesses, to map these relationships against the geographical background, and to showcase how the glosses are distributed across the text. All in all, the edition contains approximately 4,280 glosses as found in more than 50 early medieval manuscripts, including vernacular, Tironian and dry-point glosses.
+
+You can find the edition at: https://db.innovatingknowledge.nl/edition
+
+Together with the edition, we are also publishing the raw data<https://innovatingknowledge.nl/?page_id=104> behind the edition in a hope that they can be further reused by other projects. The TEI-XML file, the XML schema, and the software code of the edition are also published<https://github.com/HuygensING/isidore-glosses> today in a dedicated GitHub repository.
+
+I am also very glad that the data from the edition was also published on our partner project, the GlossEngine<http://www.glossing.org/glossengine/collections.php>.
+
+I hope that many of you will find this edition useful and inspiring.
+
+Best wishes,
+
+Evina
+
+Evina Steinova
 https://homomodernus.net/
-https://evinasteinova.academia.edu/Postdoctoral Researcher
+https://evinasteinova.academia.edu/
+
+Postdoctoral Researcher
 NWO VENI project Innovating Knowledge<http://innovatingknowledge.nl>
-Huygens ING, Dutch Royal Academy of Arts and Sciences, AmsterdamPGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
+Huygens ING, Dutch Royal Academy of Arts and Sciences, Amsterdam
+
+
+
+PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
 eHQvaHRtbDsgY2hhcnNldD11dGYtOCI+CjwvaGVhZD4KPGJvZHk+CjxkaXYgc3R5bGU9ImJvcmRl
 cjpzb2xpZCAjNjQ2NDY0IDEuMHB0O3BhZGRpbmc6Mi4wcHQgMi4wcHQgMi4wcHQgMi4wcHQ7YmFj
 a2dyb3VuZDojRkZFQjlDIj4KPHAgY2xhc3M9Ik1zb05vcm1hbCIgc3R5bGU9ImxpbmUtaGVpZ2h0
@@ -74,4 +86,4 @@ aHR0cDovL2lubm92YXRpbmdrbm93bGVkZ2UubmwiIHRhcmdldD0iX2JsYW5rIj5Jbm5vdmF0aW5n
 IEtub3dsZWRnZTwvYT48YnI+CjwvZGl2PgpIdXlnZW5zIElORywgRHV0Y2ggUm95YWwgQWNhZGVt
 eSBvZiBBcnRzIGFuZCBTY2llbmNlcywgQW1zdGVyZGFtPGJyPgo8L2Rpdj4KPC9kaXY+CjwvZGl2
 Pgo8L2Rpdj4KPC9kaXY+CjwvZGl2Pgo8L2Rpdj4KPC9kaXY+CjwvZGl2Pgo8L2Rpdj4KPC9ib2R5
-Pgo8L2h0bWw+Cg==
+Pgo8L2h0bWw+Cg

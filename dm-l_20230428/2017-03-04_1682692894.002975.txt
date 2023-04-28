@@ -1,8 +1,18 @@
-Subject: [dm-l] UCLDH seminar: From Busa to Word Formation. Working onA UCLDH seminar that will be of interest to many on this list.*Eleonora Litta (Università Cattolica del Sacro Cuore, Milan)**'From Busa to Word Formation. Working on language resources for Latin 
+Subject: [dm-l] UCLDH seminar: From Busa to Word Formation. Working on
+
+A UCLDH seminar that will be of interest to many on this list.
+
+*Eleonora Litta (Università Cattolica del Sacro Cuore, Milan)*
+
+*'From Busa to Word Formation. Working on language resources for Latin 
 in Milan'**
-**5:30 Wednesday 8th March**
-**Room 132, first floor, Foster Court, UCL, Malet Place, LONDON, WC1E 7JE *CIRCSE 
-<http://centridiricerca.unicatt.it/circse-home?rdeLocaleAttr=en>is a 
+*
+
+*5:30 Wednesday 8th March**
+**Room 132, first floor, Foster Court, UCL, Malet Place, LONDON, WC1E 7JE *
+
+CIRCSE 
+<http://centridiricerca.unicatt.it/circse-home?rdeLocaleAttr>is a 
 pluri- and interdisciplinary research centre at the Università Cattolica 
 del Sacro Cuore <http://www.ucsc.it/>(Milan, Italy). The main research 
 interests of the centre are in the field of natural language processing 
@@ -13,7 +23,9 @@ Thomisticus Treebank <http://itreebank.marginalia.it/>, and other
 resources connected to it, and the morphological analyser and lemmatiser 
 LEMLAT <http://www.ilc.cnr.it/lemlat/lemlat/index.html>, together with 
 its brand-new spin-off, the Word Formation Latin (WFL) 
-<http://wfl.marginalia.it/> lexicon.Word Formation Latin is a derivational morphology resource for Latin 
+<http://wfl.marginalia.it/> lexicon.
+
+Word Formation Latin is a derivational morphology resource for Latin 
 that has received funding from the European Union’s Horizon 2020 
 research and innovation programme, under the Marie Sklodowska-Curie 
 grant agreement No 658332-WFL. The contents of WFL are lexical items 
@@ -21,14 +33,21 @@ grant agreement No 658332-WFL. The contents of WFL are lexical items
 example, lemmas amo (‘to love) and amator (‘lover’) are connected by a 
 relationship that describes a change from a verb to a noun through the 
 addition of a suffix that in itself bears semantic information: agent 
-and instrumental suffix -tor.The seminar will give a brief tour of what goes on in Milan before 
+and instrumental suffix -tor.
+
+The seminar will give a brief tour of what goes on in Milan before 
 looking in more detail at how derivational morphology information can be 
 crucial for the enrichment of NLP resources for Latin, how the WFL 
 lexicon came to be, what it looks like, and how scholars and enthusiasts 
-of Latin can use it for their research.All welcome and there will be drinks and discussion after the talk. 
+of Latin can use it for their research.
+
+All welcome and there will be drinks and discussion after the talk. 
 Please note that registration 
-<https://ucldhseminarlitta.eventbrite.co.uk> is required.
-      SpeakerEleonora Litta <http://docenti.unicatt.it/ita/eleonora_maria_litta/> has 
+<https://ucldhseminarlitta.eventbrite.co.uk> is required.
+
+      Speaker
+
+Eleonora Litta <http://docenti.unicatt.it/ita/eleonora_maria_litta/> has 
 an MA in Medieval Studies from University College London, and a PhD in 
 Classics and Latin Philology at King's College London. Her interests lie 
 especially in historical linguistics, Classics and Germanic Philology, 
@@ -37,14 +56,19 @@ text analysis, corpus linguistics and computational linguistics. She
 worked for seven years as a lead analyst at the Department of Digital 
 Humanities, King’s College London, before being awarded a Marie 
 Skłodowska-Curie Research fellowship to develop a new digital resource 
-for Latin, at the Università Cattolica del Sacro Cuore in Milan, Italy.
+for Latin, at the Università Cattolica del Sacro Cuore in Milan, Italy.
+
 -- 
--------------------------------------------
---===============5557970440761198048==
-Content-Type: text/html
+-------------------------------------------
+
+
+
+--5557970440761198048Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWw+CiAgPGhlYWQ+CgogICAgPG1ldGEgaHR0cC1lcXVpdj0iY29udGVudC10eXBlIiBjb250
+Content-Disposition: attachment; filename�ttachment.html"
+MIME-Version: 1.0
+
+PGh0bWw+CiAgPGhlYWQ+CgogICAgPG1ldGEgaHR0cC1lcXVpdj0iY29udGVudC10eXBlIiBjb250
 ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9dXRmLTgiPgogIDwvaGVhZD4KICA8Ym9keSBiZ2NvbG9y
 PSIjRkZGRkZGIiB0ZXh0PSIjMDAwMDAwIj4KICAgIDxwPkEgVUNMREggc2VtaW5hciB0aGF0IHdp
 bGwgYmUgb2YgaW50ZXJlc3QgdG8gbWFueSBvbiB0aGlzIGxpc3QuPC9wPgogICAgPHA+PGI+RWxl
@@ -112,4 +136,4 @@ aGlwIHRvIGRldmVsb3AgYSBuZXcKICAgICAgZGlnaXRhbCByZXNvdXJjZSBmb3IgTGF0aW4sIGF0
 IHRoZSBVbml2ZXJzaXTDoCBDYXR0b2xpY2EgZGVsIFNhY3JvCiAgICAgIEN1b3JlIGluIE1pbGFu
 LCBJdGFseS48L3A+CiAgICA8YnI+CiAgICA8cHJlIGNsYXNzPSJtb3otc2lnbmF0dXJlIiBjb2xz
 PSI3MiI+LS0gCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCjwv
-cHJlPgogIDwvYm9keT4KPC9odG1sPgo=
+cHJlPgogIDwvYm9keT4KPC9odG1sPgo

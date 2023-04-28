@@ -1,11 +1,19 @@
-Subject: [dm-l] Re: Questions about JunicodeRoberto and all:Roberto Rosselli Del Turco wrote:>1. I casually noticed that a new version is out AND that there is an
+Subject: [dm-l] Re: Questions about Junicode
+
+Roberto and all:
+
+Roberto Rosselli Del Turco wrote:
+
+>1. I casually noticed that a new version is out AND that there is an
 >announce mailing list: perhaps announcements of new releases could also
 >be forwarded to dm-l? I subscribed to the announcement ml, but it could
 >be useful for those on this list who haven't subscribed (yet).
 >  
 >
 If there is no objection from list members, I'll put dm-l on the 
-Junicode list.>2. Installation under Linux: the instructions are very clear, but I
+Junicode list.
+
+>2. Installation under Linux: the instructions are very clear, but I
 >noticed that there is a file (/etc/defoma/hints/ttf-junicode.hints) in
 >my installation not included in the zip archive, is this file created
 >using the "fc-cache junicode" command? Doesn't seem the case at first
@@ -14,7 +22,9 @@ Junicode list.>2. Installation under Linux: the instructions are very clear, b
 >
 This is a script for the DEbian FOnt MAnager (defoma) program. The 
 Debian maintainer creates it, and I'm afraid I know nothing more about 
-it, except that I suppose you don't need defoma if you've got FontConfig.>3. I'm very glad to see that Junicode is slowly but surely becoming a
+it, except that I suppose you don't need defoma if you've got FontConfig.
+
+>3. I'm very glad to see that Junicode is slowly but surely becoming a
 >fully MUFI compliant font, but what about characters not yet in MUFI?
 >what's the best way to ask for their inclusion? filing a feature request
 >to MUFI first (and putting you in CC:)? or you'd be glad to consider it
@@ -23,13 +33,17 @@ it, except that I suppose you don't need defoma if you've got FontConfig.>3. I
 >
 It would be best to get requests into MUFI first. You can direct any 
 requests for inclusion of characters to me, since I'm involved with 
-MUFI; then as soon as MUFI assigns a code point I'll include it in Junicode.>4. I really like the (oldish) Beowulf-1 font, any plans to revamp it or
+MUFI; then as soon as MUFI assigns a code point I'll include it in Junicode.
+
+>4. I really like the (oldish) Beowulf-1 font, any plans to revamp it or
 >include it inside Junicode's PUA (I would settle with that)? Hope this
 >request doesn't sound too weird :)
 >  
 >
 I've thought about this. Since there's a large number of ligatures it 
-would seem a good candidate for an OpenType font. But life's so short . . .>Again on Junicode under Linux: Debian offers excellent support, the
+would seem a good candidate for an OpenType font. But life's so short . . .
+
+>Again on Junicode under Linux: Debian offers excellent support, the
 >latest version is already available as a standard DEB package (unstable
 >branch); for RPM based distros I built an RPM package which has been
 >accepted in the Mandriva contrib repository, but it needs to be updated
@@ -38,5 +52,9 @@ would seem a good candidate for an OpenType font. But life's so short . . .>Ag
 >  
 >
 I really appreciate your packaging Junicode for Mandrake (and thence it 
-is available to all who use RPM-based Linux distributions.Peter
---===============0184154589890223189==--
+is available to all who use RPM-based Linux distributions.
+
+Peter
+
+--0184154589890223189-
+

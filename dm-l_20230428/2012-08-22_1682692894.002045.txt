@@ -1,13 +1,30 @@
-Subject: Re: [dm-l] Geospatial mapping of Middle English MSSHi Dan (and other dm-ers),This does sound like a good idea. Lots of people are doing geographic
-visualisation as well, so you're in good company.Can you give some examples of the ones you've been adding the linguistic
+Subject: Re: [dm-l] Geospatial mapping of Middle English MSS
+
+Hi Dan (and other dm-ers),
+
+This does sound like a good idea. Lots of people are doing geographic
+visualisation as well, so you're in good company.
+
+Can you give some examples of the ones you've been adding the linguistic
 information to? That might help members of the list understand the
-issues involved.I'd also like to ask what formats you are using for recording the data.=20
-I.e. when you enter the linguistic information or otherwise edit the=20
-entry, what does the entry look like? Is it a form-based relational=20
-database? Is it HTML? Is it XML?I'm only beginning to work with geographic data myself (my very first=20
-experiment is here, and its just on Google maps:=20
-http://dpod.kakelbont.ca/2012/07/17/sightlines-a-visualisation-of-the-holocau=
-st-along-two-blocks-in-hamburg/)But it is certainly possible to link things.Anybody with more experience?-danOn 12-08-21 06:51 AM, Dan Mosser wrote:
+issues involved.
+
+I'd also like to ask what formats you are using for recording the data. 
+I.e. when you enter the linguistic information or otherwise edit the 
+entry, what does the entry look like? Is it a form-based relational 
+database? Is it HTML? Is it XML?
+
+I'm only beginning to work with geographic data myself (my very first 
+experiment is here, and its just on Google maps: 
+http://dpod.kakelbont.ca/2012/07/17/sightlines-a-visualisation-of-the-holocaust-along-two-blocks-in-hamburg/)
+
+But it is certainly possible to link things.
+
+Anybody with more experience?
+
+-dan
+
+On 12-08-21 06:51 AM, Dan Mosser wrote:
 > I don't even know if I'm deploying the correct terminology, but here
 > goes.
 >
@@ -28,10 +45,7 @@ st-along-two-blocks-in-hamburg/)But it is certainly possible to link things.
 >
 > Dan
 >
-> =CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=
-=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=
-=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=
-_redacted_(a)vt.edu
+> ˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜�_redacted_(a)vt.edu
 > Office: Shanks 229
 >
 > Snailmail: Director of Graduate Studies English Department 0112
@@ -49,9 +63,16 @@ _redacted_(a)vt.edu
 > http://www.facebook.com/group.php?gidI320313760 Discussion list:
 _redacted_(a)uleth.ca Change list options:
 > http://listserv.uleth.ca/mailman/listinfo/dm-l
->--=20
+>
+
+-- 
 Daniel Paul O'Donnell
 Professor of English
 University of Lethbridge
 Lethbridge AB T1K 3M4
-Canada+1 403 393-2539
+Canada
+
++1 403 393-2539
+
+
+

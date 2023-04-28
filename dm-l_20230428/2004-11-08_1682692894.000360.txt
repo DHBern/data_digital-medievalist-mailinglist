@@ -1,59 +1,67 @@
-Subject: [dm-l] 1) Should we start introducing ourselves? 2) ProjectHello all,1) Introductions?	Our list is now at 214 members, which seems a decent number. When we=20
-first began, it seemed like a waste of bandwidth to ask everybody to=20
-introduce themselves. Now that we are a community and the new membership=20
-rate has slowed down, I was wondering whether we should suggest that new=20
-members introduce themselves to the list on the sign up page.=20
-Suggestions or comments? We probably get one new member every ten days=20
-(there is also some churning and attrition).
+Subject: [dm-l] 1) Should we start introducing ourselves? 2) Project
+
+Hello all,
+
+1) Introductions?
+
+	Our list is now at 214 members, which seems a decent number. When we 
+first began, it seemed like a waste of bandwidth to ask everybody to 
+introduce themselves. Now that we are a community and the new membership 
+rate has slowed down, I was wondering whether we should suggest that new 
+members introduce themselves to the list on the sign up page. 
+Suggestions or comments? We probably get one new member every ten days 
+(there is also some churning and attrition).
+
 2) Project descriptions?
-	I was also wondering if we couldn't also use the wiki to allow members=20
+	I was also wondering if we couldn't also use the wiki to allow members 
 to write small project descriptions.
-	As some of you will know from our original description of the=20
-(forthcoming) journal, we will be publishing refereed project reports.=20
-This will be a forum that will allow you write descriptions of work you=20
-have been up to and get institutional credit for it (i.e. in terms of=20
-refereed publications). The journal is an excellent forum for publishing=20
-distinctive research on aspects of your project, and especially work=20
-that might be difficult (due to its technical nature perhaps) to publish=20
-elsewhere: before xsl was really commonly supported (in 1998), for=20
-example, I wrote a technical note describing how Multidoc Stylesheets=20
-could be used to transform SGML to HTML (a method I still use,=20
-horrors!). Ultimately I gave it to the engineers at Citec, since I=20
-couldn't really find anywhere to publish it. That might have been=20
+	As some of you will know from our original description of the 
+(forthcoming) journal, we will be publishing refereed project reports. 
+This will be a forum that will allow you write descriptions of work you 
+have been up to and get institutional credit for it (i.e. in terms of 
+refereed publications). The journal is an excellent forum for publishing 
+distinctive research on aspects of your project, and especially work 
+that might be difficult (due to its technical nature perhaps) to publish 
+elsewhere: before xsl was really commonly supported (in 1998), for 
+example, I wrote a technical note describing how Multidoc Stylesheets 
+could be used to transform SGML to HTML (a method I still use, 
+horrors!). Ultimately I gave it to the engineers at Citec, since I 
+couldn't really find anywhere to publish it. That might have been 
 something for a journal like DM.
-	Not everything that is interesting about a project is necessarily=20
-significant enough to be refereed, however--and it is not clear that we=20
-are well served by restricting publication solely to "refereeable"=20
-publications. As a community of practice, the Digital Medievalist=20
-Project is dedicated to informal sharing of information about practice=20
-as well. If I'm working on a project and am using MSWord to XML=20
-conversion, for example, it might be convenient to search for other=20
-projects that are using similar processes. Or if I'm working on an=20
-edition of an Old English or Middle Dutch text, I might like to know who=20
+	Not everything that is interesting about a project is necessarily 
+significant enough to be refereed, however--and it is not clear that we 
+are well served by restricting publication solely to "refereeable" 
+publications. As a community of practice, the Digital Medievalist 
+Project is dedicated to informal sharing of information about practice 
+as well. If I'm working on a project and am using MSWord to XML 
+conversion, for example, it might be convenient to search for other 
+projects that are using similar processes. Or if I'm working on an 
+edition of an Old English or Middle Dutch text, I might like to know who 
 else is working with similar languages so I can avoid reinventing the wheel.
-	It seems to me that the Wiki might be an excellent place for publishing=20
-such information or keeping track of others in my field. It is=20
-searchable, tied to an RSS server=20
-<http://sql.uleth.ca/dmorgwiki/index.php?title=3DSpecial:Recentchanges&feed=
-=3Drss>,=20
-and freely editable. We could easily use it as a simple forum for=20
-publicising what we are working on in a way that allows people to=20
+	It seems to me that the Wiki might be an excellent place for publishing 
+such information or keeping track of others in my field. It is 
+searchable, tied to an RSS server 
+<http://sql.uleth.ca/dmorgwiki/index.php?title=Special:Recentchanges&feed=rss>, 
+and freely editable. We could easily use it as a simple forum for 
+publicising what we are working on in a way that allows people to 
 discover us in unexpected ways.
-	What do people think? We could easily set up a "Projects" table of=20
-contents page to which you could add a link to a separate wiki entry on=20
-your project. We could established recommended guidelines for what we'd=20
-like to see in a basic project report (though there wouldn't really any=20
-mechanism for enforcing this). The most important thing from our,=20
-perspective, however would be that it would allow us to let everybody=20
+	What do people think? We could easily set up a "Projects" table of 
+contents page to which you could add a link to a separate wiki entry on 
+your project. We could established recommended guidelines for what we'd 
+like to see in a basic project report (though there wouldn't really any 
+mechanism for enforcing this). The most important thing from our, 
+perspective, however would be that it would allow us to let everybody 
 else in the community know what we are up to.
-	Any suggestions or comments? I thought before making up a "project"=20
-wiki page, I'd throw the idea out to see if there were any better=20
-suggestions (I think our idea of a wiki-based best practice primer is=20
-going to need a more firm editorial hand than I'd originally thought,=20
-for example). If there aren't, we'll make it a real invitation by the=20
-end of the week.-dan
-=09
---=20
+	Any suggestions or comments? I thought before making up a "project" 
+wiki page, I'd throw the idea out to see if there were any better 
+suggestions (I think our idea of a wiki-based best practice primer is 
+going to need a more firm editorial hand than I'd originally thought, 
+for example). If there aren't, we'll make it a real invitation by the 
+end of the week.
+
+-dan
+	
+-- 
 Daniel Paul O'Donnell, PhD
 Associate Professor of English
 University of Lethbridge
@@ -62,4 +70,7 @@ Tel. (403) 329-2377
 Fax. (403) 382-7191
 _redacted_(a)uleth.ca>
 Home Page <http://people.uleth.ca/~daniel.odonnell/>
-The Digital Medievalist Project: <http://www.digitalmedievalist.org/>
+The Digital Medievalist Project: <http://www.digitalmedievalist.org/>
+
+
+

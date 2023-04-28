@@ -1,4 +1,6 @@
-Subject: Re: [dm-l] Junicode, Mac Character PaletteThanks to those who've said nice things about Junicode here. I don't 
+Subject: Re: [dm-l] Junicode, Mac Character Palette
+
+Thanks to those who've said nice things about Junicode here. I don't 
 have a Mac, since I can't afford to buy one and haven't yet managed to 
 talk anyone into buying me one (heu!); so I can only test by getting 
 reports from friends. The new version of Word for the Mac does, finally, 
@@ -8,7 +10,13 @@ rightly only the regular style had runes, and I had inadvertently
 released italic or bold fonts that had vertical strokes as placeholders 
 throughout the runic range. It may be that your font application is 
 displaying those placeholders. If so, the problem will go away when you 
-download and install the latest version.PeterMartin K. Foys wrote:> On Wed, 23 Jun 2004 19:37:07 -0700
+download and install the latest version.
+
+Peter
+
+Martin K. Foys wrote:
+
+> On Wed, 23 Jun 2004 19:37:07 -0700
 _redacted_(a)pacbell.net> wrote:
 >
 >> I haven't downloaded the "test drive" of Office 2004 [[1]] and so I 
@@ -68,4 +76,7 @@ _redacted_(a)hood.edu
 _redacted_(a)uleth.ca
 > http://listserv.uleth.ca/mailman/listinfo/dm-l
 >
->
+>
+
+
+

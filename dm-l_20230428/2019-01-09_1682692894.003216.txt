@@ -1,31 +1,69 @@
-Subject: [dm-l] Hacking the Past: An Archives Game Jam***With apologies for cross-posting***Hacking the Past: An Archives Game Jam23-24 February 2019UCL Hatchery, Base KX, London, NC1 4PFThe National Archives (http://www.nationalarchives.gov.uk/)  in collaboration=
- with the Bentham Project, University College London (https://www.ucl.ac.uk/b=
-entham-project/) are coming together to create a FREE game jam, focusing on g=
-ames with a purpose (GWAPs).These organisations have experience of crowdsourcing the transcription of his=
-torical documents with the assistance of interested volunteers.  They have al=
-so been experimenting with the use of Handwritten Text Recognition software t=
-o automate the transcription of documents. However, the transcription of hist=
-orical material can still be a time-consuming and complex task.The challenge for this Hackathon is to create imaginative and engaging digita=
-l games that encourage and help people to transcribe documents efficiently. T=
-hese transcriptions will open up access to historical material and make them =
-discoverable for anyone interested in historical research.As a team, participants will be invited to create exciting games based on dig=
-ital images from a diverse range of historical collections at both The Nation=
-al Archives and University College London.The event will include:*         Interesting talks about the documents from archivists and historians*         Briefing on the tasks ahead*         A chance to learn and develop exciting new digital skills*         A showcase of all the work produced over the weekend*         A lot of hacking time*         And of course, pizza!Find out more and register to attend at the Eventbrite page: https://archives=
--gamejam.eventbrite.co.uk--------------------------------------------------
+Subject: [dm-l] Hacking the Past: An Archives Game Jam
+
+***With apologies for cross-posting***
+
+
+
+Hacking the Past: An Archives Game Jam
+
+23-24 February 2019
+
+UCL Hatchery, Base KX, London, NC1 4PF
+
+
+
+The National Archives (http://www.nationalarchives.gov.uk/)  in collaboration with the Bentham Project, University College London (https://www.ucl.ac.uk/bentham-project/) are coming together to create a FREE game jam, focusing on games with a purpose (GWAPs).
+
+
+
+These organisations have experience of crowdsourcing the transcription of historical documents with the assistance of interested volunteers.  They have also been experimenting with the use of Handwritten Text Recognition software to automate the transcription of documents. However, the transcription of historical material can still be a time-consuming and complex task.
+
+
+
+The challenge for this Hackathon is to create imaginative and engaging digital games that encourage and help people to transcribe documents efficiently. These transcriptions will open up access to historical material and make them discoverable for anyone interested in historical research.
+
+
+
+As a team, participants will be invited to create exciting games based on digital images from a diverse range of historical collections at both The National Archives and University College London.
+
+
+
+The event will include:
+
+*         Interesting talks about the documents from archivists and historians
+
+*         Briefing on the tasks ahead
+
+*         A chance to learn and develop exciting new digital skills
+
+*         A showcase of all the work produced over the weekend
+
+*         A lot of hacking time
+
+*         And of course, pizza!
+
+
+
+Find out more and register to attend at the Eventbrite page: https://archives-gamejam.eventbrite.co.uk
+
+--------------------------------------------------
 Dr. Louise Seaward
 Research Associate
-Bentham Project, Faculty of Laws, University College London, Bentham House, 4=
--8 Endsleigh Gardens, London, WC1H 0EG_redacted_(a)ucl.ac.uk>
+Bentham Project, Faculty of Laws, University College London, Bentham House, 4-8 Endsleigh Gardens, London, WC1H 0EG
+
+_redacted_(a)ucl.ac.uk>
 Tel: 020 3108 8397
-Web: Transcribe Bentham<http://blogs.ucl.ac.uk/transcribe-bentham/>; Recognit=
-ion and Enrichment of Archival Documents (READ)<http://read.transkribus.eu/>
-_redacted_@Transkribus<=
-https://twitter.com/Transkribus>
---===============7700219665632095620==
-Content-Type: text/html
+Web: Transcribe Bentham<http://blogs.ucl.ac.uk/transcribe-bentham/>; Recognition and Enrichment of Archival Documents (READ)<http://read.transkribus.eu/>
+_redacted_@Transkribus<https://twitter.com/Transkribus>
+
+
+
+--7700219665632095620Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWwgeG1sbnM6dj0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTp2bWwiIHhtbG5zOm89InVy
+Content-Disposition: attachment; filenameúttachment.html"
+MIME-Version: 1.0
+
+PGh0bWwgeG1sbnM6dj0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTp2bWwiIHhtbG5zOm89InVy
 bjpzY2hlbWFzLW1pY3Jvc29mdC1jb206b2ZmaWNlOm9mZmljZSIgeG1sbnM6dz0idXJuOnNjaGVt
 YXMtbWljcm9zb2Z0LWNvbTpvZmZpY2U6d29yZCIgeG1sbnM6bT0iaHR0cDovL3NjaGVtYXMubWlj
 cm9zb2Z0LmNvbS9vZmZpY2UvMjAwNC8xMi9vbW1sIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcv
@@ -165,4 +203,4 @@ d2l0dGVyLmNvbS90cmFuc2NyaWJlbnRoYW0iPgo8c3BhbiBzdHlsZT0iY29sb3I6Ymx1ZSI+QFRy
 YW5zY3JpQmVudGhhbTwvc3Bhbj48L2E+OyA8YSBocmVmPSJodHRwczovL3R3aXR0ZXIuY29tL1Ry
 YW5za3JpYnVzIj4KPHNwYW4gc3R5bGU9ImNvbG9yOmJsdWUiPkBUcmFuc2tyaWJ1czwvc3Bhbj48
 L2E+PG86cD48L286cD48L3NwYW4+PC9wPgo8cCBjbGFzcz0iTXNvTm9ybWFsIj48bzpwPiZuYnNw
-OzwvbzpwPjwvcD4KPC9kaXY+CjwvYm9keT4KPC9odG1sPgo=
+OzwvbzpwPjwvcD4KPC9kaXY+CjwvYm9keT4KPC9odG1sPgo

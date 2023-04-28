@@ -1,5 +1,8 @@
-Subject: Re: [dm-l] lexicometrics for dummies (from Francesco Stella)Thank you Francesco!
-STELLA FRANCESCO VINCENZO a =C3=A9crit :
+Subject: Re: [dm-l] lexicometrics for dummies (from Francesco Stella)
+
+Thank you Francesco!
+
+STELLA FRANCESCO VINCENZO a écrit :
 > Dear Marjorie,
 > as far as I know, the best tools for non-semantic lexicometry are on the
 > portal "TAPoR", a development of the old TACT software. Less advanced
@@ -9,9 +12,8 @@ STELLA FRANCESCO VINCENZO a =C3=A9crit :
 > old tool based on Access, which works quite good on Latin texts:
 > http://www.funsci.com/fun3_it/lessico/manuale.htm. As for the methodology
 > about ancient literatures, you can consult a provisional version of an
-> experiment on the Epistolae duorum amantium with further bibliography at=20
-> http://www.tdtc.unisi.it/files/materiale_didattico/stella/EDA-Statistiche%2=
-0Lingua.pdf.
+> experiment on the Epistolae duorum amantium with further bibliography at 
+> http://www.tdtc.unisi.it/files/materiale_didattico/stella/EDA-Statistiche%20Lingua.pdf.
 >
 > Best wishes
 >
@@ -20,32 +22,35 @@ STELLA FRANCESCO VINCENZO a =C3=A9crit :
 >
 > On Mon, 14 Sep 2009 16:00:18 +0200, Marjorie Burghart
 _redacted_(a)ehess.fr> wrote:
->  =20
+>   
 >> Hello list!
 >>
->> I have to confess that, unlike many digital medievalists and humanists,=20
->> I am neither a linguist nor a lexicographer... Although, I have long=20
->> been tempted to use lexicographic tools on my sources (for the records,=20
->> latin homiletic literature). I am particularly interested in=20
->> cooccurrences, techniques of authorship attribution, and automatic=20
->> identification of "borrowed" spans of text, for instance. The problem is=20
+>> I have to confess that, unlike many digital medievalists and humanists, 
+>> I am neither a linguist nor a lexicographer... Although, I have long 
+>> been tempted to use lexicographic tools on my sources (for the records, 
+>> latin homiletic literature). I am particularly interested in 
+>> cooccurrences, techniques of authorship attribution, and automatic 
+>> identification of "borrowed" spans of text, for instance. The problem is 
 >> I feel a bit clueless / helpless when it comes to put things into gear...
 >>
->> Would any of you have already gone the same way, and could direct me to=20
->> some introduction accessible to non-linguists, and maybe to some=20
->> lexicometry softwares? I am particularly interested in softwares that=20
->> would be able to deal "intelligently" with Latin (most of them seem to=20
->> handle very nicely contemporary, widespread languages like English, but=20
+>> Would any of you have already gone the same way, and could direct me to 
+>> some introduction accessible to non-linguists, and maybe to some 
+>> lexicometry softwares? I am particularly interested in softwares that 
+>> would be able to deal "intelligently" with Latin (most of them seem to 
+>> handle very nicely contemporary, widespread languages like English, but 
 >> I haven't seen any specializing in Latin).
 >>
 >> Thanks!
 >> M.
->>    =20
---=20
+>>     
+-- 
 Marjorie BURGHART
-EHESS (p=C3=B4le de Lyon) / UMR 5648
-Histoire et Arch=C3=A9ologie des Mondes Chr=C3=A9tiens et Musulmans M=C3=A9di=
-=C3=A9vaux
+EHESS (pôle de Lyon) / UMR 5648
+Histoire et Archéologie des Mondes Chrétiens et Musulmans Médiévaux
 18 quai Claude Bernard
-69007 Lyon - FRANCE
---===============6787080883181251924==--
+69007 Lyon - FRANCE
+
+
+
+--6787080883181251924-
+

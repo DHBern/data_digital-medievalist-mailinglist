@@ -1,4 +1,6 @@
-Subject: Re: [dm-l] paleographical encoding > The Digital Medievalist List (see end of message for contact 
+Subject: Re: [dm-l] paleographical encoding
+
+ > The Digital Medievalist List (see end of message for contact 
 information and project URLs).
  >
  > ----------------------------------
@@ -15,19 +17,34 @@ interested in
 standard? Is
  > a standard approach to paleographical description possible, given 
 differing
- > concerns, uses, etc.?There are two very interesting articles which touch in part on this in 
+ > concerns, uses, etc.?
+
+There are two very interesting articles which touch in part on this in 
 the Spring issue of DM, which is currently being mounted on the server 
 and should be available after proofing by the end of next week. In 
-alphabetical order:Arianna Ciula, "Digital palaeography: using the digital representation 
-of medieval script to support palaeographic analysis"  andKevin Kiernan, "The Source of the Napier Fragment of Alfred's Boethius" 
-(which I know Dot is familiar with).Ciula's article is the closest in relevance: it describes a quantitative 
+alphabetical order:
+
+Arianna Ciula, "Digital palaeography: using the digital representation 
+of medieval script to support palaeographic analysis"
+
+  and
+
+Kevin Kiernan, "The Source of the Napier Fragment of Alfred's Boethius" 
+(which I know Dot is familiar with).
+
+Ciula's article is the closest in relevance: it describes a quantitative 
   approach to describing letterforms using a software tool, the System 
 for Paleographic Inspections (SPI). In fact it discusses the question of 
 (qualitative and quantitative) paleographic description directly and has 
-a nice bibliography.Kiernan's article is less directly concerned with description, but (to 
+a nice bibliography.
+
+Kiernan's article is less directly concerned with description, but (to 
 simplify greatly) uses imaging software to assess the authenticity of 
-the Old English "Napier Fragment". It also has a nice bibliography
-Dot Porter wrote:> 
+the Old English "Napier Fragment". It also has a nice bibliography
+
+Dot Porter wrote:
+
+> 
 > 1. First, a brief description of your project.
 > 
 > 2. What paleographical information are you interested in? Letter forms,
@@ -42,7 +59,13 @@ Dot Porter wrote:>
 > You can reply directly to me, or to the list. I will synchronize all results
 > of this little questionnaire and report back to the list. I think this would
 > also be a good way to start populating the "Fonts, Characters, and Glyphs"
-> section of the DM Wiki.Amen to that.-dan> 
+> section of the DM Wiki.
+
+Amen to that.
+
+-dan
+
+> 
 > Thanks!
 > Dot
 >  
@@ -67,7 +90,9 @@ Dot Porter wrote:>
 _redacted_(a)uleth.ca
 > dm-l mailing list
 _redacted_(a)uleth.ca
-> http://listserv.uleth.ca/mailman/listinfo/dm-l-- 
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+-- 
 Daniel Paul O'Donnell, PhD
 Associate Professor of English
 University of Lethbridge
@@ -76,4 +101,7 @@ Tel. (403) 329-2377
 Fax. (403) 382-7191
 _redacted_(a)uleth.ca>
 Home Page <http://people.uleth.ca/~daniel.odonnell/>
-The Digital Medievalist Project: <http://www.digitalmedievalist.org/>
+The Digital Medievalist Project: <http://www.digitalmedievalist.org/>
+
+
+

@@ -1,12 +1,19 @@
-Subject: Re: [dm-l] Access or ExcelI have two observations on this. It is the case that you cannot  
+Subject: Re: [dm-l] Access or Excel
+
+I have two observations on this. It is the case that you cannot  
 perform statistical operations directly in Access. On the other hand,  
 Access is a much better tool than Excel for creating the lists and  
 sublists from which you prepare the data that you submit for  
 statistical analysis. And Access will effortlessly handle lists with  
-two or three million data rows.A statistical program like MInitab can import data from Access, and  
+two or three million data rows.
+
+A statistical program like MInitab can import data from Access, and  
 it is a lot easier to perform statistical operations in Minitab than  
-in Excel. At least that has been my experience.
-On Nov 3, 2006, at 3:32 PM, Dan O'Donnell wrote:> Hi Abdullah,
+in Excel. At least that has been my experience.
+
+On Nov 3, 2006, at 3:32 PM, Dan O'Donnell wrote:
+
+> Hi Abdullah,
 >
 > Would you want to report back to us on what you decide? This seems  
 > like
@@ -141,4 +148,7 @@ _redacted_(a)uleth.ca
 _redacted_(a)uleth.ca
 > dm-l mailing list
 _redacted_(a)uleth.ca
-> http://listserv.uleth.ca/mailman/listinfo/dm-l
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+
+

@@ -1,15 +1,27 @@
-Subject: Re: [dm-l] Re: Manuscript-transcription correlationThe task Martin wants to perform is exactly the kind of thing that XSLT 
-is good at and could do easily.I also see Peter's point, echoed here. Until we have a markup language 
+Subject: Re: [dm-l] Re: Manuscript-transcription correlation
+
+The task Martin wants to perform is exactly the kind of thing that XSLT 
+is good at and could do easily.
+
+I also see Peter's point, echoed here. Until we have a markup language 
 that handles overlapping hierarchies natively, all proposed solutions 
 will be annoying in some way. Still, I have a higher opinion of the 
 abilities of XSLT than Peter does (I've been using it in font 
 development, of all things, so I look at it as pretty flexible), and 
 I'll bet it could handle the XML workarounds for overlapping hierarchies 
 such as the one proposed in the paper by Alexander Czmiel linked to by 
-James Cummings.But if a thing has got to perform fast, it might be best to use the XSLT 
+James Cummings.
+
+But if a thing has got to perform fast, it might be best to use the XSLT 
 to create static pages or a database, or turn data from a database into 
 pages, rather than have it dynamically create pages from a large 
-underlying text.Peter BakerMartin K. Foys wrote:>> At 08:49 AM 23/06/2004, Peter Robinson wrote:
+underlying text.
+
+Peter Baker
+
+Martin K. Foys wrote:
+
+>> At 08:49 AM 23/06/2004, Peter Robinson wrote:
 >> >If you can do it (and I have not yet seen this done,
 >> >though I have heard lengthy explanations of how it *might* be done) 
 >> >you can
@@ -45,4 +57,7 @@ _redacted_(a)hood.edu
 _redacted_(a)uleth.ca
 > http://listserv.uleth.ca/mailman/listinfo/dm-l
 >
->
+>
+
+
+

@@ -1,24 +1,79 @@
-Subject: [dm-l] WG: New resource: Enigma - Unpuzzling difficult Latin	readings Dear colleague, Thank you for your >Aenigma< online. It works the way of the built-in search feature of my Georges dictionary
-(1913) on CD that I use for such purpose. Georges appartently has fewer entries (62.000 Hauptstichwörter, 200.000
+Subject: [dm-l] WG: New resource: Enigma - Unpuzzling difficult Latin	readings
+
+ 
+
+Dear colleague, 
+
+Thank you for your >Aenigma< online. 
+
+It works the way of the built-in search feature of my Georges dictionary
+(1913) on CD that I use for such purpose. 
+
+Georges appartently has fewer entries (62.000 Hauptstichwörter, 200.000
 Bedeutungsvarianten und rund 300.000 Belegstellen).  Where is your database
-from? The wildcard ? (= single letter)  offered by Georges might be useful in
-your search engine as well. Best, Udo Kindermann Dr Udo KindermannProfessor emerit. of Medieval LatinUniversity at Cologne50923 KölnGermany  _redacted_(a)uleth.ca] Im Auftrag von Burghart Marjorie
+from? 
+
+The wildcard ? (your search engine as well. 
+
+Best, Udo Kindermann
+
+ 
+
+Dr Udo Kindermann
+
+Professor emerit. of Medieval Latin
+
+University at Cologne
+
+50923 Köln
+
+Germany
+
+ 
+
+ 
+
+_redacted_(a)uleth.ca] Im Auftrag von Burghart Marjorie
 Gesendet: Mittwoch, 11. Juni 2014 22:05
 _redacted_(a)uleth.ca
 Betreff: [dm-l] New resource: Enigma - Unpuzzling difficult Latin readings
-in medieval manuscripts Dear list members,  Since I assume most of us work with Latin manuscripts at least sometimes, I
+in medieval manuscripts
+
+ 
+
+Dear list members, 
+
+ 
+
+Since I assume most of us work with Latin manuscripts at least sometimes, I
 would like to share here the news of the release of my latest development,
-called "Enigma" (Latin word for "puzzle"):http://ciham-digital.huma-num.fr/enigma/"Enigma helps scholars to decipher Latin words which are difficult to read
+called "Enigma" (Latin word for "puzzle"):
+
+http://ciham-digital.huma-num.fr/enigma/
+
+"Enigma helps scholars to decipher Latin words which are difficult to read
 in medieval manuscripts. It is sometimes impossible to decipher all the
 letters in a word, for various reasons (difficult palaeography, unclear
 writing, damage to the document, etc.) If you type the letters you can read
 and add wildcards, Enigma will list the possible Latin forms, drawing from
-its database of more than 400 000 forms." I hpe you will find this useful :) Best regards, Marjorie Burghart
---===============7187761226101846894==
-Content-Type: text/html
+its database of more than 400 000 forms."
+
+ 
+
+I hpe you will find this useful :) 
+
+Best regards, 
+
+Marjorie Burghart
+
+
+
+--7187761226101846894Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PE1FVEEgSFRUUC1FUVVJVj0iQ29udGVudC1UeXBlIiBDT05URU5UPSJ0ZXh0L2h0bWw7IGNoYXJz
+Content-Disposition: attachment; filename�ttachment.html"
+MIME-Version: 1.0
+
+PE1FVEEgSFRUUC1FUVVJVj0iQ29udGVudC1UeXBlIiBDT05URU5UPSJ0ZXh0L2h0bWw7IGNoYXJz
 ZXQ9SVNPLTg4NTktMSI+CjxodG1sIHhtbG5zOnY9InVybjpzY2hlbWFzLW1pY3Jvc29mdC1jb206
 dm1sIiB4bWxuczpvPSJ1cm46c2NoZW1hcy1taWNyb3NvZnQtY29tOm9mZmljZTpvZmZpY2UiIHht
 bG5zOnc9InVybjpzY2hlbWFzLW1pY3Jvc29mdC1jb206b2ZmaWNlOndvcmQiIHhtbG5zOm09Imh0
@@ -139,4 +194,5 @@ IGhwZSB5b3Ugd2lsbCBmaW5kIHRoaXMgdXNlZnVsIDopJm5ic3A7PG86cD48L286cD48L3NwYW4+
 PC9wPjwvZGl2PjxkaXY+PHAgY2xhc3M9TXNvTm9ybWFsPjxzcGFuIHN0eWxlPSdjb2xvcjpibGFj
 ayc+QmVzdCByZWdhcmRzLCZuYnNwOzxvOnA+PC9vOnA+PC9zcGFuPjwvcD48L2Rpdj48ZGl2Pjxw
 IGNsYXNzPU1zb05vcm1hbD48c3BhbiBzdHlsZT0nY29sb3I6YmxhY2snPk1hcmpvcmllIEJ1cmdo
-YXJ0PG86cD48L286cD48L3NwYW4+PC9wPjwvZGl2PjwvZGl2PjwvZGl2PjwvYm9keT48L2h0bWw+
+YXJ0PG86cD48L286cD48L3NwYW4+PC9wPjwvZGl2PjwvZGl2PjwvZGl2PjwvYm9keT48L2h0bWw+
+

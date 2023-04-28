@@ -1,15 +1,29 @@
-Subject: RE: [dm-l] re: Relational database and TEIAccess exports in PDF, SQL, XML and Excel as well.Access also upsizes and/or manages passthrough queries to SQL Server rather
-gracefully. Filemaker 8 is an excellent product, though.Any RDMS can export/generate an XML structure in one form or another. It is,
+Subject: RE: [dm-l] re: Relational database and TEI
+
+Access exports in PDF, SQL, XML and Excel as well.
+
+Access also upsizes and/or manages passthrough queries to SQL Server rather
+gracefully. Filemaker 8 is an excellent product, though.
+
+Any RDMS can export/generate an XML structure in one form or another. It is,
 after all, just a textfile, derived or physical. Its all whether the RDMS
 does the work generating the SQL to do it for you or not, or to which
-degree.If you serve the data from SQL Server, you don't export a XML file; you
+degree.
+
+If you serve the data from SQL Server, you don't export a XML file; you
 generate an xml datasource through scripting. XML just becomes the proxy
-middleware between your application and your data.Travis________________________________________
+middleware between your application and your data.
+
+Travis
+
+________________________________________
 _redacted_(a)uleth.ca] On Behalf Of Da
 Rold, Dr. O.
 Sent: Tuesday, November 22, 2005 8:13 AM
 To: Digital Medievalist Community mailing list
-Subject: RE: [dm-l] re: Relational database and TEIThank you Peter, 
+Subject: RE: [dm-l] re: Relational database and TEI
+
+Thank you Peter, 
 This is very useful indeed, and yes, I did have a look at eXist, but not
 sure I'd be prepared to use this software for the project without specific
 technical support.
@@ -32,7 +46,9 @@ relating to a possible correlation between TEI and relational databases.
 I look forward to the West Midland Catalogue.
  
 All the best,
-Orietta________________________________________
+Orietta
+
+________________________________________
 _redacted_(a)uleth.ca] On Behalf Of
 Peter Robinson
 Sent: 22 November 2005 15:33
@@ -71,16 +87,40 @@ If you are looking for an XML online catalogue of manuscripts: Wendy Scase's
 West Midland Manuscripts project is also  coming your way, again, done with
 Anastasia.  This is http://www.sd-editions.com/AnaServer?MWM+0+start.anv. 
 This website is currently being updated and should look much nicer in a few
-days.  But what is here, gives some idea of what can be doneall the best
-Peter
-***original messageDear all, Does anybody know about electronic manuscript projects which are
+days.  But what is here, gives some idea of what can be done
+
+all the best
+Peter
+
+***original message
+
+Dear all, 
+
+Does anybody know about electronic manuscript projects which are
 using/have used relational databases following the TEI guidelines for
-'Manuscript description'?Scriptorium seems to have done it, any other similar project? If so, do
-you know of any related publication?I'd be very grateful for any advice, pitfall etc.Best wishes, OriettaDr Orietta Da Rold
+'Manuscript description'?
+
+Scriptorium seems to have done it, any other similar project? If so, do
+you know of any related publication?
+
+I'd be very grateful for any advice, pitfall etc.
+
+Best wishes, 
+
+Orietta
+
+Dr Orietta Da Rold
 Research Fellow
 English Department
 University of Leicester
 University Road
-LE1 7RHTel. +44 (0)116 252 2778
-e-mail: odr1 at le.ac.ukThe Production and Use of English Manuscripts
-http://www.le.ac.uk/ee/em1060to1220/index.htm
+LE1 7RH
+
+Tel. +44 (0)116 252 2778
+e-mail: odr1 at le.ac.uk
+
+The Production and Use of English Manuscripts
+http://www.le.ac.uk/ee/em1060to1220/index.htm
+
+
+

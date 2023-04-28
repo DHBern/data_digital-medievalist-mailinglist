@@ -1,7 +1,13 @@
-Subject: [dm-l] Software for doing source criticismDear Sapientes:Does anyone know of software that will aid in the comparison of two or more
+Subject: [dm-l] Software for doing source criticism
+
+Dear Sapientes:
+
+Does anyone know of software that will aid in the comparison of two or more
 texs in order to determine specific use of sources?  Ideally, the software
 would recognize a base text and then compare it to other texts that are
-potential sources.I know of software applications like Collate that does some basic
+potential sources.
+
+I know of software applications like Collate that does some basic
 comparative work in order to create an apparatus criticus for critical
 editions, or the "authorship" testing software that Peter Miliken at Leeds
 developed using stylometrics (which only outputs statistical results and no
@@ -11,8 +17,11 @@ also work with an inflected language like Latin (so that it would include
 returns that differ only in terms of case ending).   I know that's a tall
 order, and I have my doubts that something like this exists--but I thought
 someone on this list might know of some code kicking around in somebody's
-virtual basement.Many thanks,
-Jim
+virtual basement.
+
+Many thanks,
+Jim
+
 -- 
 --------------------
 Dr James R. Ginther, PhD
@@ -26,7 +35,11 @@ dept: http://theology.slu.edu/
 research: http://www.digitaltheology.org/
 -----------
 "Research is what I'm doing when I don't know what I'm doing."
--Wernher von BraunPGRpdj5EZWFyIFNhcGllbnRlczo8L2Rpdj4KPGRpdj4mbmJzcDs8L2Rpdj4KPGRpdj5Eb2VzIGFu
+-Wernher von Braun
+
+
+
+PGRpdj5EZWFyIFNhcGllbnRlczo8L2Rpdj4KPGRpdj4mbmJzcDs8L2Rpdj4KPGRpdj5Eb2VzIGFu
 eW9uZSBrbm93IG9mIHNvZnR3YXJlIHRoYXQgd2lsbCBhaWQgaW4gdGhlIGNvbXBhcmlzb24gb2Yg
 dHdvIG9yIG1vcmUgdGV4cyBpbiBvcmRlciB0byBkZXRlcm1pbmUgc3BlY2lmaWMgdXNlIG9mIHNv
 dXJjZXM/Jm5ic3A7IElkZWFsbHksIHRoZSBzb2Z0d2FyZSB3b3VsZCByZWNvZ25pemUgYSBiYXNl
@@ -57,4 +70,5 @@ c2x1LmVkdS8iPmh0dHA6Ly90aGVvbG9neS5zbHUuZWR1LzwvYT48YnI+cmVzZWFyY2g6IDxhIGhy
 ZWY9Imh0dHA6Ly93d3cuZGlnaXRhbHRoZW9sb2d5Lm9yZy8iPmh0dHA6Ly93d3cuZGlnaXRhbHRo
 ZW9sb2d5Lm9yZy88L2E+PGJyPgotLS0tLS0tLS0tLTxicj4mcXVvdDtSZXNlYXJjaCBpcyB3aGF0
 IEkmIzM5O20gZG9pbmcgd2hlbiBJIGRvbiYjMzk7dCBrbm93IHdoYXQgSSYjMzk7bSBkb2luZy4m
-cXVvdDsgPGJyPi1XZXJuaGVyIHZvbiBCcmF1biA8L2Rpdj4K
+cXVvdDsgPGJyPi1XZXJuaGVyIHZvbiBCcmF1biA8L2Rpdj4K
+

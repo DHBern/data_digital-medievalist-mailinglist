@@ -1,10 +1,14 @@
-Subject: [dm-l] what xslt can't do..?Peter Baker says...
+Subject: [dm-l] what xslt can't do..?
+
+Peter Baker says...
 >I must say, though, Peter, that this isn't the first time you've
 >mentioned things that XSL can't do. I'm not sure I believe that it can't
 >be done. Someday, when we've all got lots of time, we'll have to have a
 >programming shootout. You can offer up a problem that you think XSL
 >can't handle, and you code it in C (or whatever it is you use), and I'll
->use XSLT, and we'll see who gets there first.indeed, I have become rather a bore on this subject.  And I have several
+>use XSLT, and we'll see who gets there first.
+
+indeed, I have become rather a bore on this subject.  And I have several
 times pointed out that XSLT has great difficulty with what is conceptually
 a simple task: just show me the text on one page.  I have several times
 set the challenge: somebody, try and do with XSLT what we do for many
@@ -13,38 +17,55 @@ a single page of the Hengwrt Chaucer, for example).  I have had some
 extremely lengthy explanations of how it *could* be done, and I am
 certainly prepared to believe these might actually work.  In the same way,
 I am sure that with sufficient ingenuity one could use a lawnmower to heat
-a house.  Just, one might find easier ways to do it.So, here is a simple example, then:
+a house.  Just, one might find easier ways to do it.
+
+So, here is a simple example, then:
 <div>
 <head>The whole text and all the texts</head>
 <div>
-<pb n="1"/>
+<pb nñ"/>
 <head>First text</head>
-<p n="1">some text starts here and goes ita<hi rend="italic">lic an<pb
-n="2"/>d then</i> we get a pagebreak</p>
-<p n="2">so the text finishes</p>
-<p n="3"> with yet another page <pb n="3"/> and another page start </p>
+<p nñ">some text starts here and goes ita<hi rendtalic">lic an<pb
+nò"/>d then</i> we get a pagebreak</p>
+<p nò">so the text finishes</p>
+<p nó"> with yet another page <pb nó"/> and another page start </p>
 </div>
 <div>
 <head>Second text</head>
-<pb n="4"/>
-<p n="1">here my new text on the next page etc etc</p>
-<pb n="5"/>
-<p n="2">here my new text on the next page etc etc</p>
+<pb nô"/>
+<p nñ">here my new text on the next page etc etc</p>
+<pb nõ"/>
+<p nò">here my new text on the next page etc etc</p>
 </div>
-</div>So, Peter, here is your challenge.  Just make us an xslt file that pulls
+</div>
+
+So, Peter, here is your challenge.  Just make us an xslt file that pulls
 out just the text on each of the five pages.  It would be a nice bonus if
 each page were to have a header which told us what text there is on each
 page (for example: page 3 contains 'First text, para 3 -- Second text,
 head'; page 5 contains just 'Second text, para 5'). To make it slightly
 more of a challenge: you should do this direct from this sample, and not
-from a transform of this sample.By the way, notice the problematics about the final page break.  Should it
-be..<head>Second text</head>
-<pb n="4"/>
-<p n="1">here
+from a transform of this sample.
+
+By the way, notice the problematics about the final page break.  Should it
+be..
+
+<head>Second text</head>
+<pb nô"/>
+<p nñ">here
 OR
-<head>Second text<pb n="4"/></head>
-<p n="1">here
+<head>Second text<pb nô"/></head>
+<p nñ">here
 OR
 <head>Second text</head>
-<p n="1"><pb n="4"/>hereAnswers on the back of a postage stamp please.all the best
-Another Peter
+<p nñ"><pb nô"/>here
+
+Answers on the back of a postage stamp please.
+
+all the best
+Another Peter
+
+
+
+
+

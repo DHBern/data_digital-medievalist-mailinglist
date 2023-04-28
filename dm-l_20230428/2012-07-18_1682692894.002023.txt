@@ -1,19 +1,37 @@
-Subject: [dm-l] Getting Latin Spell Check for Word 2011 ON A MACDear Fellow Medievalist,Can anyone help me get a Latin Spell Checker installed for Microsoft Word
-2011 on a Mac.I'm switching from a PC to a Mac. On my PC I had COL - Correcteur
-Orthographique de Latin installed and working fairly wellI've tried to recreate this on my Mac.I've downloaded the newest release of COL - Correcteur Orthographique de
-Latin - Correttore Ortografico di Latino - Corrector Ortogr=C3=A1fico de Lat=
-=C3=ADn
+Subject: [dm-l] Getting Latin Spell Check for Word 2011 ON A MAC
+
+Dear Fellow Medievalist,
+
+Can anyone help me get a Latin Spell Checker installed for Microsoft Word
+2011 on a Mac.
+
+I'm switching from a PC to a Mac. On my PC I had COL - Correcteur
+Orthographique de Latin installed and working fairly well
+
+I've tried to recreate this on my Mac.
+
+I've downloaded the newest release of COL - Correcteur Orthographique de
+Latin - Correttore Ortografico di Latino - Corrector Ortográfico de Latín
 from
-http://www.drouizig.org/index.php?option=3Dcom_content&view=3Darticle&id=3D75=
-%3Acol&catid=3D38%3Adifazier&Itemid=3D68&lang=3DenHowever, the download is an .msi file, which is a windows file ext. So is
+http://www.drouizig.org/index.php?option=com_content&view=article&id=75%3Acol&catid=38%3Adifazier&Itemid=68&lang=en
+
+However, the download is an .msi file, which is a windows file ext. So is
 it possible for me to get this working on mac? Has one else done this? Is
-there a better solution?Thanks for your help.--=20
+there a better solution?
+
+Thanks for your help.
+
+-- 
 Dr. Jeffrey C. Witt
 Philosophy Department
 Loyola University Maryland
 4501 N. Charles St.
 Baltimore, MD 21210
-www.jeffreycwitt.comPHNwYW4gc3R5bGU9ImNvbG9yOnJnYigzNCwzNCwzNCk7Zm9udC1mYW1pbHk6YXJpYWwsc2Fucy1z
+www.jeffreycwitt.com
+
+
+
+PHNwYW4gc3R5bGU9ImNvbG9yOnJnYigzNCwzNCwzNCk7Zm9udC1mYW1pbHk6YXJpYWwsc2Fucy1z
 ZXJpZjtmb250LXNpemU6MTNweDtiYWNrZ3JvdW5kLWNvbG9yOnJnYigyNTUsMjU1LDI1NSkiPkRl
 YXIgRmVsbG93IE1lZGlldmFsaXN0LDwvc3Bhbj48ZGl2IHN0eWxlPSJjb2xvcjpyZ2IoMzQsMzQs
 MzQpO2ZvbnQtZmFtaWx5OmFyaWFsLHNhbnMtc2VyaWY7Zm9udC1zaXplOjEzcHg7YmFja2dyb3Vu
@@ -61,4 +79,5 @@ ZWxwLqA8L2Rpdj48ZGl2Pjxicj48L2Rpdj4tLSA8YnI+PGRpdj5Eci4gSmVmZnJleSBDLiBXaXR0
 PC9kaXY+PGRpdj5QaGlsb3NvcGh5IERlcGFydG1lbnQ8L2Rpdj4KPGRpdj5Mb3lvbGEgVW5pdmVy
 c2l0eSBNYXJ5bGFuZDwvZGl2PjxkaXY+NDUwMSBOLiBDaGFybGVzIFN0LjwvZGl2PkJhbHRpbW9y
 ZSwgTUQgMjEyMTA8ZGl2PjxhIGhyZWY9Imh0dHA6Ly93d3cuamVmZnJleWN3aXR0LmNvbSIgdGFy
-Z2V0PSJfYmxhbmsiPnd3dy5qZWZmcmV5Y3dpdHQuY29tPC9hPjwvZGl2Pjxicj4K
+Z2V0PSJfYmxhbmsiPnd3dy5qZWZmcmV5Y3dpdHQuY29tPC9hPjwvZGl2Pjxicj4K
+

@@ -1,9 +1,17 @@
-Subject: Re: [dm-l] Weird Firefox errorA few things you might look into spring to my mind:- Are all machines running on the same platform (Win32 vs Unix)?
+Subject: Re: [dm-l] Weird Firefox error
+
+A few things you might look into spring to my mind:
+
+- Are all machines running on the same platform (Win32 vs Unix)?
 - Do all machines share the same platform encoding (e.g. utf-8 vs cp1285)?
 - Has access been properly configured to the XSL-file, or does trying to
 reach it by http generate a 'forbidden' message?
-- Do the FIrefox versions match?y.s.,
-Joris_redacted_(a)uleth.ca> wrote:
+- Do the FIrefox versions match?
+
+y.s.,
+Joris
+
+_redacted_(a)uleth.ca> wrote:
 >
 > Yes. All the machines have the same directory structure and the files
 > are kept in sync on all three.
@@ -14,8 +22,7 @@ _redacted_(a)lacuna.ca wrote:
 > > Is the stylesheet in the same location on each machine?
 > >
 > > -----Original Message-----
-_redacted_(a)uleth.ca] On Behalf =
-Of
+_redacted_(a)uleth.ca] On Behalf Of
 > > Daniel O'Donnell
 > > Sent: Friday, February 10, 2006 7:37 PM
 > > To: Digital Medievalist Community mailing list
@@ -39,10 +46,10 @@ Of
 > > machines. In any event, here is the beginning of the file:
 > >
 > >
-> > > <?xml version=3D"1.0" encoding=3D"utf-8"?>
-> > > <?xml-stylesheet type=3D"text/xsl"
-> > href=3D"file:/home/dan/documents/xml/xslt/dm1_2.xsl"?>
-> > > <TEI.2 rend=3D"article">
+> > > <?xml version="1.0" encoding="utf-8"?>
+> > > <?xml-stylesheet type="text/xsl"
+> > href="file:/home/dan/documents/xml/xslt/dm1_2.xsl"?>
+> > > <TEI.2 rend="article">
 > > >
 > > (I've also tried text/xml and application/xml and application/xsl).
 > >
@@ -109,11 +116,23 @@ _redacted_(a)uleth.ca
 > dm-l mailing list
 _redacted_(a)uleth.ca
 > http://listserv.uleth.ca/mailman/listinfo/dm-l
->--
+>
+
+
+
+--
 Mr. Joris J. van Zundert (MA)
 Huygens Institute
-Royal Academy of Arts and SciencesContact information can be found at http://www.brandaen.orgA disclaimer is applicable to this e-mail, please refer to
-http://www.brandaen.org/emaildisclaimer for more informationQSBmZXcgdGhpbmdzIHlvdSBtaWdodCBsb29rIGludG8gc3ByaW5nIHRvIG15IG1pbmQ6IDxicj4K
+Royal Academy of Arts and Sciences
+
+Contact information can be found at http://www.brandaen.org
+
+A disclaimer is applicable to this e-mail, please refer to
+http://www.brandaen.org/emaildisclaimer for more information
+
+
+
+QSBmZXcgdGhpbmdzIHlvdSBtaWdodCBsb29rIGludG8gc3ByaW5nIHRvIG15IG1pbmQ6IDxicj4K
 PGJyPgotIEFyZSBhbGwgbWFjaGluZXMgcnVubmluZyBvbiB0aGUgc2FtZSBwbGF0Zm9ybSAoV2lu
 MzIgdnMgVW5peCk/PGJyPgotIERvIGFsbCBtYWNoaW5lcyBzaGFyZSB0aGUgc2FtZSBwbGF0Zm9y
 bSBlbmNvZGluZyAoZS5nLiB1dGYtOCB2cyBjcDEyODUpPzxicj4KLSBIYXMgYWNjZXNzIGJlZW4g
@@ -234,4 +253,4 @@ IGhyZWY9Imh0dHA6Ly93d3cuYnJhbmRhZW4ub3JnIj5odHRwOi8vd3d3LmJyYW5kYWVuLm9yZzwv
 YT48YnI+PGJyPkEgZGlzY2xhaW1lciBpcyBhcHBsaWNhYmxlIHRvIHRoaXMgZS1tYWlsLCBwbGVh
 c2UgcmVmZXIgdG8gPGEgaHJlZj0iaHR0cDovL3d3dy5icmFuZGFlbi5vcmcvZW1haWxkaXNjbGFp
 bWVyIj4KaHR0cDovL3d3dy5icmFuZGFlbi5vcmcvZW1haWxkaXNjbGFpbWVyPC9hPiBmb3IgbW9y
-ZSBpbmZvcm1hdGlvbgo=
+ZSBpbmZvcm1hdGlvbgo

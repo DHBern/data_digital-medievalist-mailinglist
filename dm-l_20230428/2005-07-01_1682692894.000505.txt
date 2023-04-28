@@ -1,4 +1,8 @@
-Subject: Re: [dm-l] Re: dm-l Digest, Vol 11, Issue 6Hi all,I tend to agree on Martin Holmes point. Apparently however, he's talking 
+Subject: Re: [dm-l] Re: dm-l Digest, Vol 11, Issue 6
+
+Hi all,
+
+I tend to agree on Martin Holmes point. Apparently however, he's talking 
 from a luxurious position. Wow, having your own Humanities Computing Centre, 
 with stable funding and reliable job opportunities for 
 researcher/programmers. Brilliant, I'm truly jealous! In The Netherlands 
@@ -9,17 +13,27 @@ funded. Imagine: lone researchers that somewhere along the way grasped the
 potentials of information technology cowboy coding away. Do not even think 
 of stable coding environments, shared languages, good programming practices 
 and standards compliance! (Okay, I might be exaggerating somewhat for the 
-benefit of clearness:)It's of course only in proving the added value of computational approaches 
+benefit of clearness:)
+
+It's of course only in proving the added value of computational approaches 
 that we should be able to gain firmer ground. But in that case it would 
 clearly help us a lot when building tools would also benefit one's academic 
-esteem.Having said that, I totally disagree with Martin's last point. Open sourcing 
+esteem.
+
+Having said that, I totally disagree with Martin's last point. Open sourcing 
 is not about abandoning your source code. It's about giving the Humanities 
 community insight in what you are doing for benefit of academic review and 
 control. Research based on computation should always be reproducible and 
 controllable by peers. Also peers should be able to do code review to 
 control the exact and correct working of any algorithm. That can only be 
-accomplished by open sourcing your code bases. y.s.,
-Joris van ZundertSGkgYWxsLDxicj4KPGJyPgpJIHRlbmQgdG8gYWdyZWUgb24gTWFydGluIEhvbG1lcyBwb2ludC4g
+accomplished by open sourcing your code bases. 
+
+y.s.,
+Joris van Zundert
+
+
+
+SGkgYWxsLDxicj4KPGJyPgpJIHRlbmQgdG8gYWdyZWUgb24gTWFydGluIEhvbG1lcyBwb2ludC4g
 QXBwYXJlbnRseSBob3dldmVyLCBoZSdzCnRhbGtpbmcgZnJvbSBhIGx1eHVyaW91cyBwb3NpdGlv
 bi4gV293LCBoYXZpbmcgeW91ciBvd24gSHVtYW5pdGllcwpDb21wdXRpbmcgQ2VudHJlLCB3aXRo
 IHN0YWJsZSBmdW5kaW5nIGFuZCByZWxpYWJsZSBqb2Igb3Bwb3J0dW5pdGllcwpmb3IgcmVzZWFy
@@ -47,4 +61,5 @@ bHdheXMgYmUgcmVwcm9kdWNpYmxlIGFuZCBjb250cm9sbGFibGUgYnkgcGVlcnMuIEFsc28gcGVl
 cnMgc2hvdWxkIGJlCmFibGUgdG8gZG8gY29kZSByZXZpZXcgdG8gY29udHJvbCB0aGUgZXhhY3Qg
 YW5kIGNvcnJlY3Qgd29ya2luZyBvZiBhbnkKYWxnb3JpdGhtLiBUaGF0IGNhbiBvbmx5IGJlIGFj
 Y29tcGxpc2hlZCBieSBvcGVuIHNvdXJjaW5nIHlvdXIgY29kZQpiYXNlcy4gPGJyPgo8YnI+Cnku
-cy4sPGJyPgpKb3JpcyB2YW4gWnVuZGVydDxicj4KPGJyPjxicj4K
+cy4sPGJyPgpKb3JpcyB2YW4gWnVuZGVydDxicj4KPGJyPjxicj4K
+

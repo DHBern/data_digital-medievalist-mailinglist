@@ -1,14 +1,21 @@
-Subject: [dm-l] Job: XML Database Developer for EpiDoc-related project**Part-time XML Research Database Developer**
+Subject: [dm-l] Job: XML Database Developer for EpiDoc-related project
+
+**Part-time XML Research Database Developer**
 Ioannou Centre for Classical and Byzantine Studies, 66 St Giles, Oxford
-Grade 7: =C2=A329,837 - =C2=A336,661 p.a. (pro rata)https://www.recruit.ox.ac.uk/pls/hrisliverecruit/erq_jobspec_version_4.jobspe=
-c?p_id=3D114327The Faculty of Classics seeks to appoint a part-time XML Research Database
+Grade 7: £29,837 - £36,661 p.a. (pro rata)
+
+https://www.recruit.ox.ac.uk/pls/hrisliverecruit/erq_jobspec_version_4.jobspec?p_id=114327
+
+The Faculty of Classics seeks to appoint a part-time XML Research Database
 Developer. This is fixed-term for 12 months. We are looking for a highly
 motivated individual with a strong interest in Digital Humanities and
 classical text-editing to build an XML Database backed website for
 publication, analysis, and editing of EpiDoc TEI P5 XML documents for the
 I.Sicily project (0.4 FTE) and for the Ptolemaic Egypt project (0.1 FTE).
 *We are happy to consider applications from those who would wish to work
-remotely.*The postholder will design and implement a native XML Database application
+remotely.*
+
+The postholder will design and implement a native XML Database application
 for the online publication, analysis, and editing of EpiDoc XML based on
 open source components; create a testing mechanism for the technical
 infrastructure for resilient deployment (and redeployment from backup) of
@@ -16,22 +23,35 @@ the website; develop and maintain the project's technical infrastructure
 including XML Database installation and basic Linux server systems
 administration; and work closely with the IT Consultant and project PI in
 strategically designing and developing the infrastructure to ensure both
-reliable behaviour and potential for future expansion of the project.The successful candidate will have relevant experience of higher education
+reliable behaviour and potential for future expansion of the project.
+
+The successful candidate will have relevant experience of higher education
 research (preferably in Classics); demonstrable experience of native XML
 database development; significant experience with multiple web development
 languages (e.g. XSLT, XQuery, PHP, JavaScript, jQuery, Python, etc.); and
-experience in maintaining software deployed on Linux servers.Applications for this vacancy are to be made online. You will be required
+experience in maintaining software deployed on Linux servers.
+
+Applications for this vacancy are to be made online. You will be required
 to upload a CV and supporting statement as part of your online application
 and supply details of two referees who must be asked to send their
-references directly to the email address below by the closing date.Only applications received before 12.00 noon on 18 August 2014 can be
+references directly to the email address below by the closing date.
+
+Only applications received before 12.00 noon on 18 August 2014 can be
 considered.
 Contact Person: Mrs Brooke Martin-Garbutt
 Vacancy ID: 114327
 Contact Phone: 01865 288372
 Closing Date: 18-Aug-2014
-_redacted_(a)classics.ox.ac.ukOnly applications received before 12.00 noon on 18 August 2014 can be
-considered.https://www.recruit.ox.ac.uk/pls/hrisliverecruit/erq_jobspec_version_4.jobspe=
-c?p_id=3D114327PGRpdiBkaXI9Imx0ciI+PGRpdiBjbGFzcz0iIiBzdHlsZT0iZm9udC1zaXplOjIwcHgiIGxhbmc9
+_redacted_(a)classics.ox.ac.uk
+
+Only applications received before 12.00 noon on 18 August 2014 can be
+considered.
+
+https://www.recruit.ox.ac.uk/pls/hrisliverecruit/erq_jobspec_version_4.jobspec?p_id=114327
+
+
+
+PGRpdiBkaXI9Imx0ciI+PGRpdiBjbGFzcz0iIiBzdHlsZT0iZm9udC1zaXplOjIwcHgiIGxhbmc9
 Ingtd2VzdGVybiI+PGIgY2xhc3M9IiI+PHNwYW4gY2xhc3M9IiI+Kjwvc3Bhbj5QYXJ0LXRpbWUg
 WE1MIFJlc2VhcmNoIERhdGFiYXNlIERldmVsb3BlcjxzcGFuIGNsYXNzPSIiPio8L3NwYW4+PC9i
 Pgo8YnI+SW9hbm5vdSBDZW50cmUgZm9yIENsYXNzaWNhbCBhbmQgQnl6YW50aW5lIFN0dWRpZXMs
@@ -85,4 +105,5 @@ aHJlZj0iaHR0cHM6Ly93d3cucmVjcnVpdC5veC5hYy51ay9wbHMvaHJpc2xpdmVyZWNydWl0L2Vy
 cV9qb2JzcGVjX3ZlcnNpb25fNC5qb2JzcGVjP3BfaWQ9MTE0MzI3Ij5odHRwczovL3d3dy5yZWNy
 dWl0Lm94LmFjLnVrL3Bscy9ocmlzbGl2ZXJlY3J1aXQvZXJxX2pvYnNwZWNfdmVyc2lvbl80Lmpv
 YnNwZWM/cF9pZD0xMTQzMjc8L2E+Cjxicj48ZGl2IGNsYXNzPSIiPjxicj48L2Rpdj48L2Rpdj48
-L2Rpdj4K
+L2Rpdj4K
+

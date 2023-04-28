@@ -1,4 +1,6 @@
-Subject: Re: [dm-l] Font editors for LinuxOn ven, 2005-09-30 at 00:30 -0600, Daniel Paul O'Donnell wrote:
+Subject: Re: [dm-l] Font editors for Linux
+
+On ven, 2005-09-30 at 00:30 -0600, Daniel Paul O'Donnell wrote:
 > I'm passing on a question I read about on Scribus-L, a list server
 > devoted to a linux desktop publishing program:
 > 
@@ -11,8 +13,18 @@ Subject: Re: [dm-l] Font editors for LinuxOn ven, 2005-09-30 at 00:30 -0600, D
 > > used for publishing books).
 > > 
 > > Fontlab seems to be the reigning monarch in the Win/Mac world. 
-> > What is the best font editor currently available in the Linux world?I think the most common font editor on Linux is Font Forge
+> > What is the best font editor currently available in the Linux world?
+
+I think the most common font editor on Linux is Font Forge
 (http://fontforge.sourceforge.net/), previously known as PfaEdit. It's
 available in many distributions as a precompiled, ready to install
-package.Ciao	Roberto
---===============0610762523739485125==--
+package.
+
+Ciao
+
+	Roberto
+
+
+
+--0610762523739485125-
+

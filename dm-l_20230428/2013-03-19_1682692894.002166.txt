@@ -1,13 +1,29 @@
-Subject: Re: [dm-l] New article on "Medievalists and the ScholarlyThe different tools and systems, some old, some new, all have different
+Subject: Re: [dm-l] New article on "Medievalists and the Scholarly
+
+The different tools and systems, some old, some new, all have different
 features which may or may not be appropriate for the requirements of the
-edition or audience.For example some situations where PDF would be less useful:
+edition or audience.
+
+For example some situations where PDF would be less useful:
  * Distributed authorship -- multiple editors contributing to the text
  * Distributed resources -- images held at multiple institutions
  * Interactive resources -- deep zooming of images
  * Multimedia resources -- video of performance of play, audio of music etc.
- * Social -- commentary, questions, etc.And so forth.And conferences such as this one (as an example of many)?
-        http://easytools.huygens.knaw.nl/Hope that help :)RobOn Tue, Mar 19, 2013 at 11:24 AM, Tony Harris
-_redacted_(a)regents.ox.ac.uk>wrote:>  Hi Godfried
+ * Social -- commentary, questions, etc.
+
+And so forth.
+
+And conferences such as this one (as an example of many)?
+        http://easytools.huygens.knaw.nl/
+
+Hope that help :)
+
+Rob
+
+On Tue, Mar 19, 2013 at 11:24 AM, Tony Harris
+_redacted_(a)regents.ox.ac.uk>wrote:
+
+>  Hi Godfried
 >
 >  My apologies. I didn't explain myself well enough. My PDF Shakespeare
 > digital edition is fully interactive and quite 'whizzy'. More impressively,
@@ -40,29 +56,23 @@ _redacted_(a)liverpool.ac.uk>
 > ** **
 >
 > Of course PDF is a very good choice as a fall-back, but as far as I can
-> see it only produces =E2=80=98digitised=E2=80=99 editions, not =E2=80=98dig=
-ital=E2=80=99 editions. What we
-> are talking about is the longevity of what Dot has called =E2=80=98digital=
-=E2=80=99
+> see it only produces ‘digitised’ editions, not ‘digital’ editions. What we
+> are talking about is the longevity of what Dot has called ‘digital’
 > editions, that is editions which fully exploit the possibilities of the
-> interactive medium (which you seem to refer to as =E2=80=98trying to be too
-> clever=E2=80=99).****
+> interactive medium (which you seem to refer to as ‘trying to be too
+> clever’).****
 >
 > ** **
 >
 > The difficulty is that there is an inverse correlation between the level
-> to which authors of =E2=80=98digital=E2=80=99 editions engage with and expl=
-oit these
-> possibilities, thereby making their editions more =E2=80=98digital=E2=80=99=
- and less
-> =E2=80=98digitised=E2=80=99, on the one hand, and the ease with which the f=
-unctionality
+> to which authors of ‘digital’ editions engage with and exploit these
+> possibilities, thereby making their editions more ‘digital’ and less
+> ‘digitised’, on the one hand, and the ease with which the functionality
 > they are building can be maintained over the medium to long term, on the
 > other. I am sure libraries will commit to maintaining servers etc. , as
 > well as databases in which they have a vested interest, but I am not sure
 > they will want to take on the commitment of having to maintain or
-> completely rewrite the code for user interfaces for the =E2=80=98digital=E2=
-=80=99 editions
+> completely rewrite the code for user interfaces for the ‘digital’ editions
 > we are producing now, say, in  50 or 80 or 100 years time when those
 > editions based on current technology (which right now may be standard,
 > open-source, etc., and widely used) will not be compatible anymore with the
@@ -97,8 +107,7 @@ unctionality
 >
 > ** **
 >
-_redacted_(a)uleth.ca<dm-l-bounce=
-_redacted_(a)uleth.ca>]
+_redacted_(a)uleth.ca<dm-l-bounce_redacted_(a)uleth.ca>]
 > *On Behalf Of *Tony Harris
 > *Sent:* 19 March 2013 09:55
 > *To:* Jan Burgers; Center for Comparative Studies; MailList dm-l
@@ -116,8 +125,7 @@ _redacted_(a)uleth.ca>]
 > within the academic community), is that sometimes digital authors either
 > try to be too clever or to avoid all commercial packages like the plague.
 > This causes them to opt sometimes for obscure readers/encoders that
-> although =E2=80=98free=E2=80=99 probably disappeared soon after the edition=
- was created.
+> although ‘free’ probably disappeared soon after the edition was created.
 > For example, a digital edition of Chaucer was authored around 1999 and used
 > Dynatext, an SGML authoring tool. Inso the owners of Dynatext went out of
 > business in 2002 and so of course the digital edition is largely unusable
@@ -151,22 +159,19 @@ _redacted_(a)uleth.ca>]
 > them so as to take advantage of the features and facilities (modern
 > interactive graphics) that commercial standards like PDF and ePUB have to
 > offer. The general response from the TEI group (as I have heard it
-> expressed) is that they don=E2=80=99t really see these filters as their job=
- (the
+> expressed) is that they don’t really see these filters as their job (the
 > ones provided are largely examples). However, the reality is that for all
 > authoring systems, it is the final output users see which colours their
 > perception of any underlying authoring system. Of course for the
 > development of such filters, funding is always an issue but it seems to me
 > that companies like Adobe could be approached to assist as it would be in
 > their interest to enhance the standing of PDF within the academic
-> community. Rather than treating such companies as =E2=80=98the devil incarn=
-ate=E2=80=99, it
+> community. Rather than treating such companies as ‘the devil incarnate’, it
 > seems to me that more could be done to cooperate with them. To be fair,
 > they have a lot more experience with developing file formats and encoding
 > systems that have longevity than the academic community does. Of course
 > Adobe have had false starts along the way, but PDF seems a good bet now as
-> it=E2=80=99s been around for twenty years and they aren=E2=80=99t going to =
-drop it anytime
+> it’s been around for twenty years and they aren’t going to drop it anytime
 > soon if they want to remain in business because they use it throughout
 > their product lines. It is also used by governments around the world as
 > well as by high-end publishers and other users too numerous to mention here.
@@ -177,8 +182,7 @@ drop it anytime
 > It seems to me that we need to accept that commercial standards like PDF,
 > given their huge installed base are here to stay for the long-term, have
 > proved their worth in industry and commerce and perhaps we should
-> reconsider using them for digital authoring. Either that, or let=E2=80=99s =
-really
+> reconsider using them for digital authoring. Either that, or let’s really
 > put some serious work into the TEI export systems so that digital editions
 > exported from a TEI base reflect the full functionality of the target
 > format and the interactive graphical features of the hardware platforms
@@ -194,8 +198,7 @@ really
 >
 > ** **
 >
-_redacted_(a)uleth.ca<dm-l-bounce=
-_redacted_(a)uleth.ca>]
+_redacted_(a)uleth.ca<dm-l-bounce_redacted_(a)uleth.ca>]
 > *On Behalf Of *Jan Burgers
 > *Sent:* 19 March 2013 08:08
 > *To:* Center for Comparative Studies; MailList dm-l
@@ -237,8 +240,7 @@ _redacted_(a)uleth.ca>]
 >
 > ** **
 >
-_redacted_(a)uleth.ca<dm-l-bounce=
-_redacted_(a)uleth.ca>]
+_redacted_(a)uleth.ca<dm-l-bounce_redacted_(a)uleth.ca>]
 > *On Behalf Of *Center for Comparative Studies
 > *Sent:* maandag 18 maart 2013 9:53
 > *To:* MailList dm-l
@@ -348,13 +350,13 @@ _redacted_(a)uleth.ca> ****
 >
 > 80****
 >
-> Caxton=E2=80=99s Canterbury Tales****
+> Caxton’s Canterbury Tales****
 >
 > 8/10/2003****
 >
 > 150****
 >
-> Miller=E2=80=99s Tale****
+> Miller’s Tale****
 >
 > 5/5/2004****
 >
@@ -366,7 +368,7 @@ _redacted_(a)uleth.ca> ****
 >
 > 560****
 >
-> Nun=E2=80=99s Priest=E2=80=99s Tale****
+> Nun’s Priest’s Tale****
 >
 > 3/5/2006****
 >
@@ -456,8 +458,7 @@ _redacted_(a)uleth.ca> ****
 > - the distinction between digitized and digital scholarly editions (DSE)
 > is an important aspect in the definition of scholarly digital editions
 > (SDE); see most recently
-> http://prezi.com/mdt8efbe3o3a/patrick-sahle-what-is-a-scholarly-digital-edi=
-tion/(hope to elaborate on that in a forthcoming article); the main point here
+> http://prezi.com/mdt8efbe3o3a/patrick-sahle-what-is-a-scholarly-digital-edition/(hope to elaborate on that in a forthcoming article); the main point here
 > is, that there is a fundamental paradigm shift in thinking the scholarly
 > edition in a typographic setting or in a digital information environment
 >
@@ -511,8 +512,7 @@ tion/(hope to elaborate on that in a forthcoming article); the main point here
 >             - important point that the community has to address; but I see
 > these publications series coming up; just some arbitrary examples:
 > http://elec.enc.sorbonne.fr/ - http://www.sd-editions.com/index.html -
-> http://www.hab.de/de/home/bibliothek/digitale-bibliothek-wdb/digitale-editi=
-onen.html-
+> http://www.hab.de/de/home/bibliothek/digitale-bibliothek-wdb/digitale-editionen.html-
 > http://www.rc.umd.edu/editions/****
 >
 >         - "Delving into academic politics, publishers hate them and many
@@ -576,7 +576,7 @@ _redacted_(a)gmail.com
 >
 > Twitter: http://twitter.com/digitalmedieval****
 >
-> Facebook: http://www.facebook.com/group.php?gid=3D49320313760****
+> Facebook: http://www.facebook.com/group.php?gid=49320313760****
 >
 _redacted_(a)uleth.ca****
 >
@@ -589,18 +589,14 @@ _redacted_(a)uleth.ca****
 >
 > New Book(s) out now: Patrick Sahle, Digitale Editionsformen -
 > http://www.i-d-e.de/schriften/s7-9-digitale-editionsformen
-> A) Cologne Center for eHumanities (CCeH) <http://www.cceh.uni-koeln.de/>(Mi=
-tarbeiter)
-> B) DARIAH-DE (Digital Research Infrastructure for the Arts and Humanities)<=
-http://de.dariah.eu/>(Mitarbeiter)
-> C) Humanities Computer Science, University of Cologne<http://www.hki.uni-ko=
-eln.de/>(Mitarbeiter)
-> D) Institut f=C3=BCr Dokumentologie und Editorik <http://www.i-d-e.de/>(Mit=
-glied)
+> A) Cologne Center for eHumanities (CCeH) <http://www.cceh.uni-koeln.de/>(Mitarbeiter)
+> B) DARIAH-DE (Digital Research Infrastructure for the Arts and Humanities)<http://de.dariah.eu/>(Mitarbeiter)
+> C) Humanities Computer Science, University of Cologne<http://www.hki.uni-koeln.de/>(Mitarbeiter)
+> D) Institut für Dokumentologie und Editorik <http://www.i-d-e.de/>(Mitglied)
 >
 > Post: Historisch-Kulturwissenschaftliche Informationsverarbeitung,
-> Universit=C3=A4t zu K=C3=B6ln, Albertus-Magnus-Platz, D-50923 K=C3=B6ln
-> B=C3=BCro: Universit=C3=A4tsstr. 22, Dachgeschoss links
+> Universität zu Köln, Albertus-Magnus-Platz, D-50923 Köln
+> Büro: Universitätsstr. 22, Dachgeschoss links
 > Telefon: +49 - (0)221 - 470 1750 ****
 >  ------------------------------
 >
@@ -620,7 +616,7 @@ glied)
 >
 > Twitter: http://twitter.com/digitalmedieval****
 >
-> Facebook: http://www.facebook.com/group.php?gid=3D49320313760****
+> Facebook: http://www.facebook.com/group.php?gid=49320313760****
 >
 _redacted_(a)uleth.ca****
 >
@@ -634,7 +630,7 @@ _redacted_(a)uleth.ca****
 > News: http://www.digitalmedievalist.org/news/
 > Wiki: http://www.digitalmedievalist.org/wiki/
 > Twitter: http://twitter.com/digitalmedieval
-> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+> Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca
 > Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l****
 >
@@ -674,7 +670,7 @@ _redacted_(a)uleth.ca
 > News: http://www.digitalmedievalist.org/news/
 > Wiki: http://www.digitalmedievalist.org/wiki/
 > Twitter: http://twitter.com/digitalmedieval
-> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+> Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca
 > Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l****
 >
@@ -685,10 +681,14 @@ _redacted_(a)uleth.ca
 > News: http://www.digitalmedievalist.org/news/
 > Wiki: http://www.digitalmedievalist.org/wiki/
 > Twitter: http://twitter.com/digitalmedieval
-> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+> Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca
 > Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
->PGRpdj48YnI+PC9kaXY+PGRpdj5UaGUgZGlmZmVyZW50IHRvb2xzIGFuZCBzeXN0ZW1zLCBzb21l
+>
+
+
+
+PGRpdj48YnI+PC9kaXY+PGRpdj5UaGUgZGlmZmVyZW50IHRvb2xzIGFuZCBzeXN0ZW1zLCBzb21l
 IG9sZCwgc29tZSBuZXcsIGFsbCBoYXZlIGRpZmZlcmVudCBmZWF0dXJlcyB3aGljaCBtYXkgb3Ig
 bWF5IG5vdCBiZSBhcHByb3ByaWF0ZSBmb3IgdGhlIHJlcXVpcmVtZW50cyBvZiB0aGUgZWRpdGlv
 biBvciBhdWRpZW5jZS48L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2PkZvciBleGFtcGxlIHNvbWUg
@@ -1642,4 +1642,4 @@ L2E+PGJyPgpEaXNjdXNzaW9uIGxpc3Q6IDxhIGhyZWY9Im1haWx0bzpkbS1sQHVsZXRoLmNhIj5k
 bS1sQHVsZXRoLmNhPC9hPjxicj4KQ2hhbmdlIGxpc3Qgb3B0aW9uczogPGEgaHJlZj0iaHR0cDov
 L2xpc3RzZXJ2LnVsZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0tbCIgdGFyZ2V0PSJfYmxhbmsi
 Pmh0dHA6Ly9saXN0c2Vydi51bGV0aC5jYS9tYWlsbWFuL2xpc3RpbmZvL2RtLWw8L2E+PGJyPjwv
-YmxvY2txdW90ZT48L2Rpdj48YnI+PC9kaXY+PC9kaXY+Cg==
+YmxvY2txdW90ZT48L2Rpdj48YnI+PC9kaXY+PC9kaXY+Cg

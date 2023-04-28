@@ -1,126 +1,81 @@
-Subject: [dm-l] Fwd: I: [Corpora-List] Call for abstracts: Diachronic
->=20
-_redacted_(a)uib.no> per conto di Passa=
-_redacted_(a)unicatt.it>
->> Inviato: luned=C3=AC 5 ottobre 2015 18.16
+Subject: [dm-l] Fwd: I: [Corpora-List] Call for abstracts: Diachronic
+
+> 
+_redacted_(a)uib.no> per conto di Passa_redacted_(a)unicatt.it>
+>> Inviato: lunedì 5 ottobre 2015 18.16
 _redacted_(a)uib.no
->> Oggetto: [Corpora-List] Call for abstracts: Diachronic Treebanks (Workshop=
- at SLE-2016)
->> =20
+>> Oggetto: [Corpora-List] Call for abstracts: Diachronic Treebanks (Workshop at SLE-2016)
+>>  
 >> ***Diachronic Treebanks***
->>=20
+>> 
 >> - Workshop at the 49th SLE meeting, Naples Aug. 31-Sept. 3, 2016 -
->>=20
->>=20
->>=20
->> Convenors: Hanne Eckhoff (University of Troms=C3=B8, Norway), Silvia Lurag=
-hi (Universit=C3=A0 di Pavia, Italy), Marco Passarotti (Universit=C3=A0 Catto=
-lica del Sacro Cuore, Milan, Italy)
->>=20
->> =20
->>=20
->> The workshop aims at bringing together researchers interested in historica=
-l linguistics, who combine a solid linguistic background with an interest for=
- the exploitation of electronic resources, and in particular of syntactically=
- parsed corpora, in research on language change. We welcome proposals address=
-ing diachronic issues under any type of approach and methodology, provided th=
-at they highlight the contribution of empirical evidence retrieved from treeb=
-anks in achieving meaningful results.
->>=20
->> =20
->>=20
+>> 
+>> 
+>> 
+>> Convenors: Hanne Eckhoff (University of Tromsø, Norway), Silvia Luraghi (Università di Pavia, Italy), Marco Passarotti (Università Cattolica del Sacro Cuore, Milan, Italy)
+>> 
+>>  
+>> 
+>> The workshop aims at bringing together researchers interested in historical linguistics, who combine a solid linguistic background with an interest for the exploitation of electronic resources, and in particular of syntactically parsed corpora, in research on language change. We welcome proposals addressing diachronic issues under any type of approach and methodology, provided that they highlight the contribution of empirical evidence retrieved from treebanks in achieving meaningful results.
+>> 
+>>  
+>> 
 >> MOTIVATION AND AIMS
->> Over the last two decades, treebanks have become an increasingly useful in=
-strument for data-driven study of linguistic structures at various levels. Th=
-e proliferation of treebanks has led to a very large number of resources avai=
-lable for different languages, which can support comparative research of vari=
-ous issues cross-linguistically. In recent years, a growing number of treeban=
-ks has also become available for ancient  languages and for different histori=
-cal stages of the same language: the York-Toronto-Helsinki corpus (http://www=
--users.york.ac.uk/~lang22/YcoeHome1.htm) and the Penn Corpora of Historical E=
-nglish (https://www.ling.upenn.edu/hist-corpora/) for English, Troms=C3=B8 Ol=
-d Russian and OCS Treebank (https://nestor.uit.no) and RRuDi (https://www.sla=
-wistik.hu-berlin.de/de/member/meyerrol/subjekte/rrudi) for Russian, PROIEL (h=
-ttp://www.hf.uio.no/ifikk/english/research/projects/proiel/) for various anci=
-ent Indo-European languages and recently extended to host treebanks for medie=
-val stages of Romance and Germanic languages, Perseus Latin and Ancient Greek=
- Dependency Treebanks (http://nlp.perseus.tufts.edu/syntax/treebank/) for Lat=
-in and Ancient Greek, the Index Thomisticus Treebank (http://itreebank.margin=
-alia.it) for Latin, and several others. This allows data extraction aimed to =
-assessing the scope and the effects of diachronic developments, managing a la=
-rge amount of data and retrieving information whose relevance can then be eva=
-luated through statistical methods. Possible issues that can be tackled throu=
-gh diachronic treebanks are potentially numerous and of different nature, and=
- include increasing or decreasing productivity of syntactic or morphological =
-constructions, and, most interesting, interrelationships between different ch=
-anges that have previously been considered unrelated or whose interrelation i=
-s otherwise hard to prove.
->>=20
->> =20
->>=20
+>> Over the last two decades, treebanks have become an increasingly useful instrument for data-driven study of linguistic structures at various levels. The proliferation of treebanks has led to a very large number of resources available for different languages, which can support comparative research of various issues cross-linguistically. In recent years, a growing number of treebanks has also become available for ancient  languages and for different historical stages of the same language: the York-Toronto-Helsinki corpus (http://www-users.york.ac.uk/~lang22/YcoeHome1.htm) and the Penn Corpora of Historical English (https://www.ling.upenn.edu/hist-corpora/) for English, Tromsø Old Russian and OCS Treebank (https://nestor.uit.no) and RRuDi (https://www.slawistik.hu-berlin.de/de/member/meyerrol/subjekte/rrudi) for Russian, PROIEL (http://www.hf.uio.no/ifikk/english/research/projects/proiel/) for various ancient Indo-European languages and recently extended to host treebanks for medieval stages of Romance and Germanic languages, Perseus Latin and Ancient Greek Dependency Treebanks (http://nlp.perseus.tufts.edu/syntax/treebank/) for Latin and Ancient Greek, the Index Thomisticus Treebank (http://itreebank.marginalia.it) for Latin, and several others. This allows data extraction aimed to assessing the scope and the effects of diachronic developments, managing a large amount of data and retrieving information whose relevance can then be evaluated through statistical methods. Possible issues that can be tackled through diachronic treebanks are potentially numerous and of different nature, and include increasing or decreasing productivity of syntactic or morphological constructions, and, most interesting, interrelationships between different changes that have previously been considered unrelated or whose interrelation is otherwise hard to prove.
+>> 
+>>  
+>> 
 >> Possible TOPICS include (but are not limited to):
->>=20
->> - historical developments of constructions as evidenced by data extracted =
-from diachronic treebanks;
->>=20
->> - suitability of different types of treebanks (constituent-based vs. depen=
-dency-based) for research on specific diachronic changes;
->>=20
->> - correlations between developments in different areas of a language=E2=80=
-=99s grammar;
->>=20
->> - similarities and differences between parallel developments of similar ch=
-anges in different languages;
->>=20
->> - how evidence from already known and documented diachronic change can giv=
-e input for annotation;
->>=20
->> - how semantic and/or pragmatic information can be supplied in order to be=
-tter understand the rationale of changes highlighted by data extracted from t=
-reebanks;
->>=20
+>> 
+>> - historical developments of constructions as evidenced by data extracted from diachronic treebanks;
+>> 
+>> - suitability of different types of treebanks (constituent-based vs. dependency-based) for research on specific diachronic changes;
+>> 
+>> - correlations between developments in different areas of a language’s grammar;
+>> 
+>> - similarities and differences between parallel developments of similar changes in different languages;
+>> 
+>> - how evidence from already known and documented diachronic change can give input for annotation;
+>> 
+>> - how semantic and/or pragmatic information can be supplied in order to better understand the rationale of changes highlighted by data extracted from treebanks;
+>> 
 >> - specific issues raised by the development of diachronic treebanks;
->>=20
+>> 
 >> - methods and tools to build and access diachronic treebanks;
->>=20
+>> 
 >> - issues in data selection for representativeness purposes;
->>=20
+>> 
 >> - issues pertaining to scarce and non-standardised data
->>=20
->> =20
->>=20
+>> 
+>>  
+>> 
 >> CALL FOR ABSTRACTS
->>=20
->> We invite you to submit abstracts up to 300 words (references not included=
-) describing original, unpublished research related to the topics of the work=
-shop. Abstracts should be in an editable format (e.g. .doc or .docx; no pdf w=
-ill be considered), and should be sent to all workshop organizers:
->>=20
+>> 
+>> We invite you to submit abstracts up to 300 words (references not included) describing original, unpublished research related to the topics of the workshop. Abstracts should be in an editable format (e.g. .doc or .docx; no pdf will be considered), and should be sent to all workshop organizers:
+>> 
 _redacted_(a)uit.no
->>=20
+>> 
 _redacted_(a)unipv.it
->>=20
+>> 
 _redacted_(a)unicatt.it
->>=20
->> =20
->>=20
->> The DEADLINE FOR THE SUBMISSION of the short abstract is NOVEMBER 15, 2015=
-. Abstracts will be evaluated by the convenors, and selected abstracts will a=
-ccompany the workshop proposal. We will notify you of inclusion in the worksh=
-op proposal when we submit it on Nov. 25th.=20
->> Note that if the workshop has been accepted, you will also have to prepare=
- a full abstract and submit it to be reviewed by the SLE scientific committee=
-. The deadline for the submission of full abstracts is January 15, 2016.
->>=20
->> For further information, please refer to the SLE meeting webpage at http:/=
-/sle2016.eu/call-for-papers
->>=20
->>=20
+>> 
+>>  
+>> 
+>> The DEADLINE FOR THE SUBMISSION of the short abstract is NOVEMBER 15, 2015. Abstracts will be evaluated by the convenors, and selected abstracts will accompany the workshop proposal. We will notify you of inclusion in the workshop proposal when we submit it on Nov. 25th. 
+>> Note that if the workshop has been accepted, you will also have to prepare a full abstract and submit it to be reviewed by the SLE scientific committee. The deadline for the submission of full abstracts is January 15, 2016.
+>> 
+>> For further information, please refer to the SLE meeting webpage at http://sle2016.eu/call-for-papers
+>> 
+>> 
 >> _______________________________________________
 >> UNSUBSCRIBE from this page: http://mailman.uib.no/options/corpora
 >> Corpora mailing list
 _redacted_(a)uib.no
->> http://mailman.uib.no/listinfo/corporaPGh0bWw+PGhlYWQ+PG1ldGEgaHR0cC1lcXVpdj0iY29udGVudC10eXBlIiBjb250ZW50PSJ0ZXh0
+>> http://mailman.uib.no/listinfo/corpora
+
+
+
+PGh0bWw+PGhlYWQ+PG1ldGEgaHR0cC1lcXVpdj0iY29udGVudC10eXBlIiBjb250ZW50PSJ0ZXh0
 L2h0bWw7IGNoYXJzZXQ9dXRmLTgiPjwvaGVhZD48Ym9keSBkaXI9ImF1dG8iPjxkaXY+PGJyPjwv
 ZGl2PjxibG9ja3F1b3RlIHR5cGU9ImNpdGUiPjxkaXY+PG1ldGEgaHR0cC1lcXVpdj0iY29udGVu
 dC10eXBlIiBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9dXRmLTgiPjxkaXY+PGJyPjwvZGl2
@@ -325,4 +280,5 @@ L3NwYW4+PGJyPjxzcGFuPjxhIGhyZWY9Im1haWx0bzpDb3Jwb3JhQHVpYi5ubyI+Q29ycG9yYUB1
 aWIubm88L2E+PC9zcGFuPjxicj48c3Bhbj48YSBocmVmPSJodHRwOi8vbWFpbG1hbi51aWIubm8v
 bGlzdGluZm8vY29ycG9yYSI+aHR0cDovL21haWxtYW4udWliLm5vL2xpc3RpbmZvL2NvcnBvcmE8
 L2E+PC9zcGFuPjxicj48L2Rpdj48L2Jsb2NrcXVvdGU+PC9kaXY+PC9ibG9ja3F1b3RlPjwvYm9k
-eT48L2h0bWw+
+eT48L2h0bWw+
+

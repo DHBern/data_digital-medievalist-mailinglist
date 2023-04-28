@@ -1,14 +1,20 @@
-Subject: Re: [dm-l] online bible versionsFor the sake of completeness, I'd like to mention the Clementine text of the
-Vulgate, available on Vulsearch:http://vulsearch.sourceforge.net/gettext.html
-_redacted_(a)hab.de> wrote:> Hi Franz,
+Subject: Re: [dm-l] online bible versions
+
+For the sake of completeness, I'd like to mention the Clementine text of the
+Vulgate, available on Vulsearch:
+
+http://vulsearch.sourceforge.net/gettext.html
+
+_redacted_(a)hab.de> wrote:
+
+> Hi Franz,
 >
 > I like biblija.net
 >
 > You can have as many versions as you want in parallel view and
 > customisable order e.g.
 >
-> http://www.biblija.net/biblija.cgi?m=Rm%201:22&id8=1&id12=1&set=1
->
+> http://www.biblija.net/biblija.cgi?m%201:22&id8id12set>
 > Best, Torsten
 >
 > --
@@ -30,7 +36,11 @@ _redacted_(a)hab.de> wrote:> Hi Franz,
 > Facebook: http://www.facebook.com/group.php?gidI320313760
 _redacted_(a)uleth.ca
 > Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
->PGRpdj5Gb3IgdGhlIHNha2Ugb2YgY29tcGxldGVuZXNzLCBJJiMzOTtkIGxpa2UgdG8gbWVudGlv
+>
+
+
+
+PGRpdj5Gb3IgdGhlIHNha2Ugb2YgY29tcGxldGVuZXNzLCBJJiMzOTtkIGxpa2UgdG8gbWVudGlv
 biB0aGUgQ2xlbWVudGluZSB0ZXh0IG9mIHRoZSBWdWxnYXRlLCBhdmFpbGFibGUgb24gVnVsc2Vh
 cmNoOqA8L2Rpdj48ZGl2Pjxicj48L2Rpdj48YSBocmVmPSJodHRwOi8vdnVsc2VhcmNoLnNvdXJj
 ZWZvcmdlLm5ldC9nZXR0ZXh0Lmh0bWwiPmh0dHA6Ly92dWxzZWFyY2guc291cmNlZm9yZ2UubmV0
@@ -76,4 +86,4 @@ PGJyPgpEaXNjdXNzaW9uIGxpc3Q6IDxhIGhyZWY9Im1haWx0bzpkbS1sQHVsZXRoLmNhIj5kbS1s
 QHVsZXRoLmNhPC9hPjxicj4KQ2hhbmdlIGxpc3Qgb3B0aW9uczogPGEgaHJlZj0iaHR0cDovL2xp
 c3RzZXJ2LnVsZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0tbCIgdGFyZ2V0PSJfYmxhbmsiPmh0
 dHA6Ly9saXN0c2Vydi51bGV0aC5jYS9tYWlsbWFuL2xpc3RpbmZvL2RtLWw8L2E+PGJyPgo8L2Rp
-dj48L2Rpdj48L2Jsb2NrcXVvdGU+PC9kaXY+PGJyPjwvZGl2Pgo=
+dj48L2Rpdj48L2Jsb2NrcXVvdGU+PC9kaXY+PGJyPjwvZGl2Pgo

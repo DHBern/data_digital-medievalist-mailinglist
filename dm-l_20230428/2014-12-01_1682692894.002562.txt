@@ -1,15 +1,42 @@
-Subject:Hi all,
-we've just released EVT 0.1.62 with experimental support for the=20
-embedded transcription method. A sample edition collecting miscellaneous=20
-examples (including those presented in the Guidelines) is available here:http://vbd.humnet.unipi.it/evt-et/and a blog post describing EVT changes is here:http://visualizationtechnology.wordpress.com/2014/11/11/tei-embedded-transcri=
-ption-support-in-evt/while the EVT code with all of above is as usual available on Sourceforge:https://sourceforge.net/projects/evt-project/We'd appreciate feedback and suggestions on how to improve it (and of=20
-course other EVT features), as written in the blog post we weren't sure=20
-of how to interpret some of the possible use cases. Seeing TEI XML from=20
-the point of view of a tool developer, for once, was an eye opening=20
-experience!Last, but definitely not least, let me thank the EADH "small grants"=20
-program which made this expansion of EVT's features possible.Best,R--=20Roberto Rosselli Del Turco      roberto.rossellidelturco at unito.it
+Subject:
+
+Hi all,
+we've just released EVT 0.1.62 with experimental support for the 
+embedded transcription method. A sample edition collecting miscellaneous 
+examples (including those presented in the Guidelines) is available here:
+
+http://vbd.humnet.unipi.it/evt-et/
+
+and a blog post describing EVT changes is here:
+
+http://visualizationtechnology.wordpress.com/2014/11/11/tei-embedded-transcription-support-in-evt/
+
+while the EVT code with all of above is as usual available on Sourceforge:
+
+https://sourceforge.net/projects/evt-project/
+
+We'd appreciate feedback and suggestions on how to improve it (and of 
+course other EVT features), as written in the blog post we weren't sure 
+of how to interpret some of the possible use cases. Seeing TEI XML from 
+the point of view of a tool developer, for once, was an eye opening 
+experience!
+
+Last, but definitely not least, let me thank the EADH "small grants" 
+program which made this expansion of EVT's features possible.
+
+Best,
+
+R
+
+-- 
+
+Roberto Rosselli Del Turco      roberto.rossellidelturco at unito.it
 Dipartimento di Studi           rosselli at ling.unipi.it
 Umanistici                      Then spoke the thunder  DA
-Universita' di Torino           Datta: what have we given?  (TSE)  Hige sceal the heardra,     heorte the cenre,
-  mod sceal the mare,       the ure maegen litlath.  (Maldon 312-3)
---===============3220573763321417616==--
+Universita' di Torino           Datta: what have we given?  (TSE)
+
+  Hige sceal the heardra,     heorte the cenre,
+  mod sceal the mare,       the ure maegen litlath.  (Maldon 312-3)
+
+--3220573763321417616-
+

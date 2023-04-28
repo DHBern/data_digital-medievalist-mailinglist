@@ -1,68 +1,120 @@
-Subject: [dm-l] Initiation =?utf-8?q?=C3=A0_la_lemmatisation_des_textes_m?=
-*Cosme^2 (Consortium Sources M=C3=A9di=C3=A9vales 2)**Groupe de travail =C2=AB=C2=A0Lemmes=C2=A0=C2=BB - Atelier 4****Journ=C3=A9e d=E2=80=99initiation =C3=A0 la lemmatisation des textes m=C3=A9=
-di=C3=A9vaux****lundi 17 juin 2019 - 9h30-18h**Paris - IRHT - Salle Jeanne Vielliard - **40 avenue d=E2=80=99I=C3=A9na*=20
-<https://www.google.fr/maps/place/IRHT+-+Institut+de+la+recherche+et+d'histoi=
-_redacted_@48.8659918,2.2947109,15z/data=3D!4m5!3m4!1s0x0:0x222e82b445cb=
-4fbc!8m2!3d48.8659918!4d2.2947109>*(m=C3=A9tro=20
-I=C3=A9na)*En plus d=E2=80=99=C3=AAtre flexionnelles, les langues employ=C3=A9es dans l=
-=E2=80=99Occident=20
-m=C3=A9di=C3=A9val (latin et langues vernaculaires) se caract=C3=A9risent par=
- une tr=C3=A8s=20
-grande variation orthographique. La lemmatisation, c=E2=80=99est-=C3=A0-dire =
-le=20
-regroupement des diff=C3=A9rentes formes d=E2=80=99un mot sous leur lemme, se=
- trouve=20
-ainsi =C3=AAtre une op=C3=A9ration fondamentale aux =C3=A9tudes des textes, n=
-otamment=20
-celles utilisant des proc=C3=A9dures de recherche formalis=C3=A9es et assist=
-=C3=A9es=20
-informatiquement.Dans le contexte actuel de multiplication des num=C3=A9risations des textes=20
-m=C3=A9di=C3=A9vaux, plusieursoutils et param=C3=A8tres de lemmatisation ont =
-vu le jour=20
-et continuent d=E2=80=99=C3=AAtre d=C3=A9velopp=C3=A9s.De l=E2=80=99aide =C3=
-=A0 la traduction jusqu=E2=80=99=C3=A0 la=20
-pr=C3=A9paration aux analyses statistiques et s=C3=A9mantiques des larges cor=
-pus,=20
-ces outils demeurent, cependant, pas ou peu connus des m=C3=A9di=C3=A9vistes.L=E2=80=99objectif de cette journ=C3=A9e est de proposer une introduction =C3=
-=A0 la=20
-lemmatisation et la d=C3=A9couverte de quelques outils-cl=C3=A9 =C3=A0 partir=
-=20
-d=E2=80=99exercices pratiques. Elle vise aussi =C3=A0 faire se rencontrer les=
-=20
-concepteurs d=E2=80=99applications et leurs utilisateurs potentiels.Cette initiation s=E2=80=99adresse =C3=A0 tous les int=C3=A9ress=C3=A9s=C2=A0=
-: =C3=A9tudiants,=20
-doctorants, ing=C3=A9nieurs, chercheurs et enseignants-chercheurs. Pour que=20
-cette initiation s=E2=80=99accompagne d=E2=80=99une mise en pratique r=C3=A9e=
-lle, le nombre=20
-des participants est limit=C3=A9 =C3=A0 15.La participation est gratuite, mais devra obligatoirement faire l=E2=80=99obj=
-et=20
-d=E2=80=99une demande motiv=C3=A9e, pour que la limite fix=C3=A9e =C3=A0 15 p=
-articipants puisse=20
-=C3=AAtre v=C3=A9rifi=C3=A9e.La prise en charge des frais de transport, voire de logement (une=20
-nuit=C3=A9e), est possible dans la mesure des cr=C3=A9dits disponibles, =C3=
-=A0=20
-condition d=E2=80=99en faire la demande explicite au moment de la candidature=
-.=20
-L'ordre des candidatures sera pris en compte en cas de besoin.Pour faire acte de candidature, adressez par courriel une *demande=20
-_redacted_(a)univ-paris1.fr=20
-_redacted_(a)univ-paris1.fr>avant le *15 mai 2019*, en=20
-pr=C3=A9cisant vos nom, pr=C3=A9nom, institution de rattachement, th=C3=A8me =
-de=20
-recherche, courriel et, le cas =C3=A9ch=C3=A9ant, les besoins de prise en cha=
-rge=20
-(transport, nuit=C3=A9e). Tous les candidats seront pr=C3=A9venus par courrie=
-l le=20
-20 mai de l=E2=80=99=C3=A9tat de leur candidature.*Programme*=C2=B79h30 - Accueil et tour de table introductif=C2=B710h - La lemmatisation des corpus m=C3=A9di=C3=A9vaux. Pourquoi et comm=
-ent=C2=A0?=20
-(Nicolas Perreaux et invit=C3=A9s =C3=A0 confirmer)=C2=B711h45 - Pause=C2=B712h - Installation, prise en main et utilisation de Collatinus.=20
-Lemmatiseur et analyseur morphologique de textes latins (Yves Ouvrard,=20
-Philippe Verkerk)=C2=B713h15 - Buffet=C2=B714h30 - Phyrra=C2=A0: lemmatisation et correction (latin, ancien fran=
-=C3=A7ais,=20
-etc.) (Thibault Cl=C3=A9rice, Vincent Jolivet, Ariane Pinche)=C2=B716h - Pause=C2=B716h30 - Palm. Plateforme d=E2=80=99analyse linguistique m=C3=A9di=C3=A9=
-vale=C2=A0: anglais,=20
-fran=C3=A7ais et latin m=C3=A9di=C3=A9vaux (Aude Mairey)=C2=B717h30 - Tour de table conclusif*Organisation*Eliana Magnani (CNRS-LaMOP), Nicolas Perreaux (SFB 1095 -=20
-Goethe-Universit=C3=A4t) et l=E2=80=99=C3=A9quipe administrative de l=E2=80=
-=99IRHT*Comit=C3=A9 scientifique*Paul Bertrand (Univ. Louvain)Estelle Ingrand-Varenne (CNRS-CESCM)Eliana Magnani (CNRS-LaMOP)Nicolas Perreaux (SFB 1095 - Goethe-Universit=C3=A4t)*Liens utiles*http://cosme.hypotheses.org/https://www.huma-num.fr/consortiumshttps://www.irht.cnrs.fr/https://outils.biblissima.fr/fr/collatinus-web/http://www.glossaria.eu/treetagger/http://palm.huma-num.fr/PALM/PGh0bWw+CiAgPGhlYWQ+CgogICAgPG1ldGEgaHR0cC1lcXVpdj0iY29udGVudC10eXBlIiBjb250
+Subject: [dm-l] Initiation tf-8?q?à_la_lemmatisation_des_textes_m?
+*Cosme^2 (Consortium Sources Médiévales 2)*
+
+*Groupe de travail « Lemmes » - Atelier 4*
+
+**
+
+*Journée d’initiation à la lemmatisation des textes médiévaux*
+
+**
+
+*lundi 17 juin 2019 - 9h30-18h*
+
+*Paris - IRHT - Salle Jeanne Vielliard - **40 avenue d’Iéna* 
+<https://www.google.fr/maps/place/IRHT+-+Institut+de+la+recherche+et+d'histoi_redacted_@48.8659918,2.2947109,15z/data=!4m5!3m4!1s0x0:0x222e82b445cb4fbc!8m2!3d48.8659918!4d2.2947109>*(métro 
+Iéna)*
+
+En plus d’être flexionnelles, les langues employées dans l’Occident 
+médiéval (latin et langues vernaculaires) se caractérisent par une très 
+grande variation orthographique. La lemmatisation, c’est-à-dire le 
+regroupement des différentes formes d’un mot sous leur lemme, se trouve 
+ainsi être une opération fondamentale aux études des textes, notamment 
+celles utilisant des procédures de recherche formalisées et assistées 
+informatiquement.
+
+Dans le contexte actuel de multiplication des numérisations des textes 
+médiévaux, plusieursoutils et paramètres de lemmatisation ont vu le jour 
+et continuent d’être développés.De l’aide à la traduction jusqu’à la 
+préparation aux analyses statistiques et sémantiques des larges corpus, 
+ces outils demeurent, cependant, pas ou peu connus des médiévistes.
+
+L’objectif de cette journée est de proposer une introduction à la 
+lemmatisation et la découverte de quelques outils-clé à partir 
+d’exercices pratiques. Elle vise aussi à faire se rencontrer les 
+concepteurs d’applications et leurs utilisateurs potentiels.
+
+Cette initiation s’adresse à tous les intéressés : étudiants, 
+doctorants, ingénieurs, chercheurs et enseignants-chercheurs. Pour que 
+cette initiation s’accompagne d’une mise en pratique réelle, le nombre 
+des participants est limité à 15.
+
+La participation est gratuite, mais devra obligatoirement faire l’objet 
+d’une demande motivée, pour que la limite fixée à 15 participants puisse 
+être vérifiée.
+
+La prise en charge des frais de transport, voire de logement (une 
+nuitée), est possible dans la mesure des crédits disponibles, à 
+condition d’en faire la demande explicite au moment de la candidature. 
+L'ordre des candidatures sera pris en compte en cas de besoin.
+
+Pour faire acte de candidature, adressez par courriel une *demande 
+_redacted_(a)univ-paris1.fr 
+_redacted_(a)univ-paris1.fr>avant le *15 mai 2019*, en 
+précisant vos nom, prénom, institution de rattachement, thème de 
+recherche, courriel et, le cas échéant, les besoins de prise en charge 
+(transport, nuitée). Tous les candidats seront prévenus par courriel le 
+20 mai de l’état de leur candidature.
+
+*Programme*
+
+·9h30 - Accueil et tour de table introductif
+
+·10h - La lemmatisation des corpus médiévaux. Pourquoi et comment ? 
+(Nicolas Perreaux et invités à confirmer)
+
+·11h45 - Pause
+
+·12h - Installation, prise en main et utilisation de Collatinus. 
+Lemmatiseur et analyseur morphologique de textes latins (Yves Ouvrard, 
+Philippe Verkerk)
+
+·13h15 - Buffet
+
+·14h30 - Phyrra : lemmatisation et correction (latin, ancien français, 
+etc.) (Thibault Clérice, Vincent Jolivet, Ariane Pinche)
+
+·16h - Pause
+
+·16h30 - Palm. Plateforme d’analyse linguistique médiévale : anglais, 
+français et latin médiévaux (Aude Mairey)
+
+·17h30 - Tour de table conclusif
+
+*Organisation*
+
+Eliana Magnani (CNRS-LaMOP), Nicolas Perreaux (SFB 1095 - 
+Goethe-Universität) et l’équipe administrative de l’IRHT
+
+*Comité scientifique*
+
+Paul Bertrand (Univ. Louvain)
+
+Estelle Ingrand-Varenne (CNRS-CESCM)
+
+Eliana Magnani (CNRS-LaMOP)
+
+Nicolas Perreaux (SFB 1095 - Goethe-Universität)
+
+*Liens utiles*
+
+http://cosme.hypotheses.org/
+
+https://www.huma-num.fr/consortiums
+
+https://www.irht.cnrs.fr/
+
+https://outils.biblissima.fr/fr/collatinus-web/
+
+http://www.glossaria.eu/treetagger/
+
+http://palm.huma-num.fr/PALM/
+
+
+
+
+
+PGh0bWw+CiAgPGhlYWQ+CgogICAgPG1ldGEgaHR0cC1lcXVpdj0iY29udGVudC10eXBlIiBjb250
 ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9VVRGLTgiPgogIDwvaGVhZD4KICA8Ym9keSB0ZXh0PSIj
 MDAwMDAwIiBiZ2NvbG9yPSIjRkZGRkZGIj4KICAgIDxicj4KICAgIDxkaXYgY2xhc3M9Im1vei1m
 b3J3YXJkLWNvbnRhaW5lciI+CiAgICAgIDxkaXYgY2xhc3M9Im1vei1mb3J3YXJkLWNvbnRhaW5l
@@ -466,7 +518,8 @@ Ou+CpzsKCW1zby1sZXZlbC10YWItc3RvcDpub25lOwoJbXNvLWxldmVsLW51bWJlci1wb3NpdGlv
 bjpsZWZ0OwoJdGV4dC1pbmRlbnQ6LTE4LjBwdDsKCWZvbnQtZmFtaWx5OldpbmdkaW5nczsKCW1z
 by1iaWRpLWZvbnQtZmFtaWx5OldpbmdkaW5nczt9Cm9sCgl7bWFyZ2luLWJvdHRvbTowY207fQp1
 bAoJe21hcmdpbi1ib3R0b206MGNtO30KLS0+Cjwvc3R5bGU+PC9wPgogICAgICAgIDxwPjxicj4K
-ICAgICAgICA8L3A+CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgPC9ib2R5Pgo8L2h0bWw+Cg==JVBERi0xLjMKJcTl8uXrp/Og0MTGCjQgMCBvYmoKPDwgL0xlbmd0aCA1IDAgUiAvRmlsdGVyIC9G
+ICAgICAgICA8L3A+CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgPC9ib2R5Pgo8L2h0bWw+Cg
+JVBERi0xLjMKJcTl8uXrp/Og0MTGCjQgMCBvYmoKPDwgL0xlbmd0aCA1IDAgUiAvRmlsdGVyIC9G
 bGF0ZURlY29kZSA+PgpzdHJlYW0KeAGtXduy3DZ2fe+voHUu3dI53eK12ZTHsjWy5PFlZqyJkkli
 5ck185CqSZXjb8p/Zm0AawEkSDaPk7LrdDcB7Pve2NgAoV+KD8UvRVXb/11fnoZzcan6U9sW//23
 4q/FfxUv3/5aFT//WpSn5nKpm67Bt6qtqv7c2bemr7t2KH79efcLftZtUdp/9qXqL6fz5Vz03XBq
@@ -1447,4 +1500,5 @@ IG4gCjAwMDAwNTQ2MjIgMDAwMDAgbiAKMDAwMDA1NDY3NSAwMDAwMCBuIAowMDAwMDU0Njk4IDAw
 MDAwIG4gCjAwMDAwNTQ3NDAgMDAwMDAgbiAKMDAwMDA1NDc1OSAwMDAwMCBuIAp0cmFpbGVyCjw8
 IC9TaXplIDQzIC9Sb290IDIwIDAgUiAvSW5mbyAxIDAgUiAvSUQgWyA8NDVjMjU0YmM4MTQwN2Vj
 MTA2MTYxZmYwYmI3NGY5MTg+Cjw0NWMyNTRiYzgxNDA3ZWMxMDYxNjFmZjBiYjc0ZjkxOD4gXSA+
-PgpzdGFydHhyZWYKNTQ5MjMKJSVFT0YK
+PgpzdGFydHhyZWYKNTQ5MjMKJSVFT0YK
+

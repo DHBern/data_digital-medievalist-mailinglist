@@ -1,189 +1,215 @@
-Subject: [dm-l] [LREC 2020] CfP: 1st Workshop on Language Technologies for** With apologies for cross-posting**Call for Papers: 1st Workshop on Language Technologies for Historical and Anc=
-ient LAnguages (LT4HALA)=E2=97=8F      Website: <https://eur03.safelinks.protection.outlook.com/?url=
-=3Dhttps%3A%2F%2Fcircse.github.io%2FLT4HALA%2F&data=3D02%7C01%7Cgreta.franzin=
-i%40unicatt.it%7C0b66b4a354d842c804a208d77e36b7c7%7Cb94f7d7481ff44a9b5886682a=
-cc85779%7C0%7C0%7C637116645794579975&sdata=3DqnRwUOh2JjB1PCuC2rlBYmNMoKjLmJFL=
-CobPRc8D7TE%3D&reserved=3D0> https://circse.github.io/LT4HALA/<https://eur03.=
-safelinks.protection.outlook.com/?url=3Dhttps%3A%2F%2Fcircse.github.io%2FLT4H=
-ALA%2F&data=3D02%7C01%7Cgreta.franzini%40unicatt.it%7C0b66b4a354d842c804a208d=
-77e36b7c7%7Cb94f7d7481ff44a9b5886682acc85779%7C0%7C0%7C637116645794579975&sda=
-ta=3DqnRwUOh2JjB1PCuC2rlBYmNMoKjLmJFLCobPRc8D7TE%3D&reserved=3D0>=E2=97=8F      Date: May 12, 2020=E2=97=8F      Place: co-located with <https://eur03.safelinks.protection.out=
-look.com/?url=3Dhttps%3A%2F%2Flrec2020.lrec-conf.org%2F&data=3D02%7C01%7Cgret=
-a.franzini%40unicatt.it%7C0b66b4a354d842c804a208d77e36b7c7%7Cb94f7d7481ff44a9=
-b5886682acc85779%7C0%7C0%7C637116645794589968&sdata=3DB1WFaqN%2B%2FrJF0Ay9GCr=
-SUgRfoDCG1%2BbRqYYs9tT9niI%3D&reserved=3D0> LREC 2020<https://eur03.safelinks=
-.protection.outlook.com/?url=3Dhttps%3A%2F%2Flrec2020.lrec-conf.org%2F&data=
-=3D02%7C01%7Cgreta.franzini%40unicatt.it%7C0b66b4a354d842c804a208d77e36b7c7%7=
-Cb94f7d7481ff44a9b5886682acc85779%7C0%7C0%7C637116645794599966&sdata=3DTlmgMH=
-R0KwSaRNNS5S%2F8eyOipCQaoUXo9BC65fvMdtw%3D&reserved=3D0>, May 11-16, Marseill=
-e, FranceDescriptionLT4HALA is a one-day workshop that seeks to bring together scholars who are d=
-eveloping and/or are using Language Technologies (LTs) for historically attes=
-ted languages, so to foster cross-fertilization between the Computational Lin=
-guistics community and the areas in the Humanities dealing with historical li=
-nguistic data, e.g. historians, philologists, linguists, archaeologists and l=
-iterary scholars. Despite the current availability of large collections of di=
-gitized texts written in historical languages, such interdisciplinary collabo=
-ration is still hampered by the limited availability of annotated linguistic =
-resources for most of the historical languages. Creating such resources is a =
-challenge and an obligation for LTs, both to support historical linguistic re=
-search with the most updated technologies and to preserve those precious ling=
-uistic data that survived from past times.Relevant topics for the workshop include, but are not limited to:=E2=97=8F      handling spelling variation;=E2=97=8F      detection and correction of OCR errors;=E2=97=8F      creation and annotation of digital resources;=E2=97=8F      deciphering;=E2=97=8F      morphological/syntactic/semantic analysis of textual data;=E2=97=8F      adaptation of tools to address diachronic/diatopic/diastratic =
-variation in texts;=E2=97=8F      teaching ancient languages with NLP tools;=E2=97=8F      NLP-driven theoretical studies in historical linguistics;=E2=97=8F      evaluation of NLP tools.Shared TasksJust because of the limited amount of data preserved for historical and ancie=
-nt languages, an important role is played by evaluation practices, to underst=
-and the level of accuracy of the NLP tools used to build and analyze resource=
-s. Given the prominence of Latin, by virtue of its wide diachronic and diatop=
-ic span covering two millennia all over Europe, the workshop will host the fi=
-rst edition of <https://eur03.safelinks.protection.outlook.com/?url=3Dhttps%3=
-A%2F%2Fcircse.github.io%2FLT4HALA%2FEvaLatin&data=3D02%7C01%7Cgreta.franzini%=
-40unicatt.it%7C0b66b4a354d842c804a208d77e36b7c7%7Cb94f7d7481ff44a9b5886682acc=
-85779%7C0%7C0%7C637116645794599966&sdata=3DZbWE1lQFa7%2Fakt%2F1oRTImuJYpMDVkG=
-JrUQCuE%2FH%2FgMs%3D&reserved=3D0> EvaLatin<https://eur03.safelinks.protectio=
-n.outlook.com/?url=3Dhttps%3A%2F%2Fcircse.github.io%2FLT4HALA%2FEvaLatin&data=
-=3D02%7C01%7Cgreta.franzini%40unicatt.it%7C0b66b4a354d842c804a208d77e36b7c7%7=
-Cb94f7d7481ff44a9b5886682acc85779%7C0%7C0%7C637116645794609965&sdata=3DtdYhhP=
-fSgRpJ%2BwsMdQPTXEZGyYGP%2BROAcIojk3uZC9M%3D&reserved=3D0>, an evaluation cam=
-paign entirely devoted to the evaluation of NLP tools for Latin. The first ed=
-ition of EvaLatin will focus on two tasks (i.e. Lemmatization and PoS tagging=
-), each featuring three sub-tasks (i.e. Classical, Cross-Genre, Cross-Time). =
-These sub-tasks are designed to measure the impact of genre and diachrony on =
-NLP tools performances, a relevant aspect to keep in mind when dealing with t=
-he diachronic and diatopic diversity of Latin. Participants will be provided =
-with shared data in the CoNLL-U format and the evaluation script.SubmissionsFor the workshop, we invite papers of different types such as experimental pa=
-pers, reproduction papers, resource papers, position papers, survey papers. B=
-oth long and short papers describing original and unpublished work are welcom=
-e. Long papers should deal with substantial completed research and/or report =
-on the development of new methodologies. They may consist of up to 8 pages of=
- content plus 2 pages of references. Short papers are instead appropriate for=
- reporting on works in progress or for describing a singular tool or project.=
- They may consist of up to 4 pages of content plus 2 pages of references. We =
-encourage the authors of papers reporting experimental results to make their =
-results reproducible and the entire process of analysis replicable, by making=
- the data and the tools they used available. The form of the presentation may=
- be oral or poster, whereas in the proceedings there is no difference between=
- the accepted papers. The submission is NOT anonymous. The <https://eur03.saf=
-elinks.protection.outlook.com/?url=3Dhttps%3A%2F%2Flrec2020.lrec-conf.org%2Fe=
-n%2Fsubmission2020%2Fauthors-kit%2F&data=3D02%7C01%7Cgreta.franzini%40unicatt=
-.it%7C0b66b4a354d842c804a208d77e36b7c7%7Cb94f7d7481ff44a9b5886682acc85779%7C0=
-%7C0%7C637116645794619956&sdata=3DMLkSUZMUhZLpntWIY97cB8zCgU7ZRixylc3LMcZDDYY=
-%3D&reserved=3D0> LREC official format<https://eur03.safelinks.protection.out=
-look.com/?url=3Dhttps%3A%2F%2Flrec2020.lrec-conf.org%2Fen%2Fsubmission2020%2F=
-authors-kit%2F&data=3D02%7C01%7Cgreta.franzini%40unicatt.it%7C0b66b4a354d842c=
-804a208d77e36b7c7%7Cb94f7d7481ff44a9b5886682acc85779%7C0%7C0%7C63711664579461=
-9956&sdata=3DMLkSUZMUhZLpntWIY97cB8zCgU7ZRixylc3LMcZDDYY%3D&reserved=3D0> is =
-requested. Each paper will be reviewed but three independent reviewers.As for <https://eur03.safelinks.protection.outlook.com/?url=3Dhttps%3A%2F%2Fc=
-ircse.github.io%2FLT4HALA%2FEvaLatin&data=3D02%7C01%7Cgreta.franzini%40unicat=
-t.it%7C0b66b4a354d842c804a208d77e36b7c7%7Cb94f7d7481ff44a9b5886682acc85779%7C=
-0%7C0%7C637116645794629952&sdata=3Dlfg8%2B26JU4droi%2FVjKOW88cyXBF2xJE7t43UqJ=
-vIV7U%3D&reserved=3D0> EvaLatin<https://eur03.safelinks.protection.outlook.co=
-m/?url=3Dhttps%3A%2F%2Fcircse.github.io%2FLT4HALA%2FEvaLatin&data=3D02%7C01%7=
-Cgreta.franzini%40unicatt.it%7C0b66b4a354d842c804a208d77e36b7c7%7Cb94f7d7481f=
-f44a9b5886682acc85779%7C0%7C0%7C637116645794639949&sdata=3DaDPr8j3aw%2F%2BKYK=
-6EBo%2B67FhT7VlXEnt6ythdDUkFv%2BY%3D&reserved=3D0>, participants will be requ=
-ired to submit a technical report for each task (with all the related sub-tas=
-ks) they took part in. Technical reports will be included in the proceedings =
-as short papers: the maximum length is 4 pages (excluding references) and the=
-y should follow the <https://eur03.safelinks.protection.outlook.com/?url=3Dht=
-tps%3A%2F%2Flrec2020.lrec-conf.org%2Fen%2Fsubmission2020%2Fauthors-kit%2F&dat=
-a=3D02%7C01%7Cgreta.franzini%40unicatt.it%7C0b66b4a354d842c804a208d77e36b7c7%=
-7Cb94f7d7481ff44a9b5886682acc85779%7C0%7C0%7C637116645794639949&sdata=3DsxkGa=
-3XfxdG0a8tSsuz3EFBSeni7x6kzbW94jAmRcos%3D&reserved=3D0> LREC official format<=
-https://eur03.safelinks.protection.outlook.com/?url=3Dhttps%3A%2F%2Flrec2020.=
-lrec-conf.org%2Fen%2Fsubmission2020%2Fauthors-kit%2F&data=3D02%7C01%7Cgreta.f=
-ranzini%40unicatt.it%7C0b66b4a354d842c804a208d77e36b7c7%7Cb94f7d7481ff44a9b58=
-86682acc85779%7C0%7C0%7C637116645794649942&sdata=3DhiFyHmXGZkd68j83GVDcNJ74VO=
-mBNvlhiiXtWABBgeg%3D&reserved=3D0>. Reports will receive a light review (we w=
-ill check for the correctness of the format, the exactness of results and ran=
-king, and overall exposition). All participants will have the possibility to =
-present their results at the workshop: we will allocate an oral session and a=
- poster session fully devoted to the shared tasks.Important DatesWorkshop=E2=97=8F      17 February 2020: submissions due=E2=97=8F      10 March 2020: notifications to authors=E2=97=8F      27 March 2020: camera-ready due=E2=97=8F      12 May 2020: workshopEvaLatin=E2=97=8F      10 December 2019: training data available=E2=97=8F      Evaluation Window I - Task: Lemmatization=E2=97=8B      17 February 2020: test data available=E2=97=8B      21 February 2020 system results due to organizers=E2=97=8F      Evaluation Window II - Task: PoS tagging=E2=97=8B      24 February 2020: test data available=E2=97=8B      28 February 2020: system results due to organizers=E2=97=8F      6 March 2020: assessment returned to participants=E2=97=8F      27 March 2020: reports due to organizers=E2=97=8F      10 April 2020: camera ready version of reports due to organize=
-rs=E2=97=8F      12 May 2020: workshopShare your LRs!Describing your LRs in the <https://eur03.safelinks.protection.outlook.com/?u=
-rl=3Dhttp%3A%2F%2Flremap.elra.info%2F&data=3D02%7C01%7Cgreta.franzini%40unica=
-tt.it%7C0b66b4a354d842c804a208d77e36b7c7%7Cb94f7d7481ff44a9b5886682acc85779%7=
-C0%7C0%7C637116645794649942&sdata=3DmbkPShfm3pBanRGmTI%2BxIwwBZ1U%2FhyZwPJcH0=
-9rS6Vg%3D&reserved=3D0> LRE Map<https://eur03.safelinks.protection.outlook.co=
-m/?url=3Dhttp%3A%2F%2Flremap.elra.info%2F&data=3D02%7C01%7Cgreta.franzini%40u=
-nicatt.it%7C0b66b4a354d842c804a208d77e36b7c7%7Cb94f7d7481ff44a9b5886682acc857=
-79%7C0%7C0%7C637116645794659937&sdata=3DZb%2BcgctDJuME9xl9qs8Jgd%2BntdGqY1VKZ=
-AL5hqO%2BBi4%3D&reserved=3D0> is now a normal practice in the submission proc=
-edure of LREC (introduced in 2010 and adopted by other conferences). To conti=
-nue the efforts initiated at LREC 2014 about =E2=80=9CSharing LRs=E2=80=9D (d=
-ata, tools, web-services, etc.), authors will have the possibility, when subm=
-itting a paper, to upload LRs in a special LREC repository. This effort of sh=
-aring LRs, linked to the LRE Map for their description, may become a new =E2=
-=80=9Cregular=E2=80=9D feature for conferences in our field, thus contributin=
-g to creating a common repository where everyone can deposit and share data.ISLRN numberAs scientific work requires accurate citations of referenced work so as to al=
-low the community to understand the whole context and also replicate the expe=
-riments conducted by other researchers, LREC 2020 endorses the need to unique=
-ly Identify LRs through the use of the International Standard Language Resour=
-ce Number (ISLRN<https://eur03.safelinks.protection.outlook.com/?url=3Dhttps%=
-3A%2F%2Fcircse.github.io%2FLT4HALA%2Fwww.islrn.org&data=3D02%7C01%7Cgreta.fra=
-nzini%40unicatt.it%7C0b66b4a354d842c804a208d77e36b7c7%7Cb94f7d7481ff44a9b5886=
-682acc85779%7C0%7C0%7C637116645794669932&sdata=3DHiyeHqlzFTm9VXZN08tNGYJBHGyE=
-viaPFX%2FLJuReDHE%3D&reserved=3D0>), a Persistent Unique Identifier to be ass=
-igned to each Language Resource. The assignment of ISLRNs to LRs cited in LRE=
-C papers will be offered at submission time.Organizers=E2=97=8F      Marco Passarotti<https://docenti.unicatt.it/ppd2/en/#/en/docen=
-ti/14144/marco-carlo-passarotti/profilo>, Universit=C3=A0 Cattolica del Sacro=
- Cuore,Milan, Italy;=E2=97=8F      Rachele Sprugnoli<https://eur03.safelinks.protection.outlook.c=
-om/?url=3Dhttps%3A%2F%2Fwww.researchgate.net%2Fprofile%2FRachele_Sprugnoli&da=
-ta=3D02%7C01%7Cgreta.franzini%40unicatt.it%7C0b66b4a354d842c804a208d77e36b7c7=
-%7Cb94f7d7481ff44a9b5886682acc85779%7C0%7C0%7C637116645794669932&sdata=3DNVBJ=
-IEfR8S%2FpsbNf0OA7vNADrM%2BsLwU36K6WKSFiwrk%3D&reserved=3D0>, Universit=C3=A0=
- Cattolica del Sacro Cuore,Milan, Italy.Programme Committee=E2=97=8F      Marcel Bollmann, University of Copenhagen; Denmark;=E2=97=8F      Gerlof Bouma, University of Gothenburg, Sweden;=E2=97=8F      Patrick Burns, University of Texas at Austin, USA;=E2=97=8F      Oksana Dereza, Insight Centre for Data Analytics, Ireland;=E2=97=8F      Stefanie Dipper, Ruhr-Universit=C3=A4t Bochum, Germany;=E2=97=8F      Hanne Eckoff, Oxford University, UK;=E2=97=8F      Maud Ehrmann, EPFL, Switzerland;=E2=97=8F      Hannes A. Fellner, Universit=C3=A4t Wien, Austria;=E2=97=8F      Heidi Jauhiainen, University of Helsinki, Finland;=E2=97=8F      Julia Krasselt, Zurich University of Applied Sciences, Switzer=
-land;=E2=97=8F      John Lee, City University of Hong Kong;=E2=97=8F      Chao-Lin Liu, National Chengchi University, Taiwan;=E2=97=8F      Barbara McGillivray, University of Cambridge, UK;=E2=97=8F      Be=C3=A1ta Megyesi, Uppsala University, Sweden;=E2=97=8F      So Miyagawa, University of G=C3=B6ttingen; Germany;=E2=97=8F      Joakim Nivre, Uppsala University, Sweden;=E2=97=8F      Eva Pettersson, Uppsala University, Sweden;=E2=97=8F      Michael Piotrowski, University of Lausanne, Switzerland;=E2=97=8F      Sophie Pr=C3=A9vost, Laboratoire Lattice, France;=E2=97=8F      Halim Sayoud, USTHB University;=E2=97=8F      Olga Scrivner, Indiana University, USA;=E2=97=8F      Neel Smith, College of the Holy Cross, USA;=E2=97=8F      Sara Tonelli, Fondazione Bruno Kessler, Italy;=E2=97=8F      Amir Zeldes, Georgetown University, USA;=E2=97=8F      Daniel Zeman, Charles University, Czech Republic.Contactrachele.sprugnoli[AT]unicatt.it<http://unicatt.it/>Please, write =E2=80=9CLT4HALA=E2=80=9D or =E2=80=9CEvaLatin=E2=80=9D in the =
-subject of your email.Follow <https://eur03.safelinks.protection.outlook.com/?url=3Dhttps%3A%2F%2Ft=
-witter.com%2FERC_LiLa&data=3D02%7C01%7Cgreta.franzini%40unicatt.it%7C0b66b4a3=
-54d842c804a208d77e36b7c7%7Cb94f7d7481ff44a9b5886682acc85779%7C0%7C0%7C6371166=
-45794679927&sdata=3DIsh3Lkn6ag3zQnBRoksRmOwliZA9UTj5tPGt5b6wSy4%3D&reserved=
-_redacted_@ERC_LiLa<https://eur03.safelinks.protection.outlook.com/?url=3Dhttps%3=
-A%2F%2Ftwitter.com%2FERC_LiLa&data=3D02%7C01%7Cgreta.franzini%40unicatt.it%7C=
-0b66b4a354d842c804a208d77e36b7c7%7Cb94f7d7481ff44a9b5886682acc85779%7C0%7C0%7=
-C637116645794689935&sdata=3D7RazOcHwInAeMp6bsM9bBvKnqR7udU3DPRG%2FQVVFLcE%3D&=
-reserved=3D0> and the hashtag <https://eur03.safelinks.protection.outlook.com=
-/?url=3Dhttps%3A%2F%2Ftwitter.com%2Fsearch%3Fq%3D%2523LT4HALA%26src%3Dtyped_q=
-uery&data=3D02%7C01%7Cgreta.franzini%40unicatt.it%7C0b66b4a354d842c804a208d77=
-e36b7c7%7Cb94f7d7481ff44a9b5886682acc85779%7C0%7C0%7C637116645794689935&sdata=
-=3D%2BRext%2BgY1Nnygk311lR7Ue0vVHPuS58OIMATg3dC4uY%3D&reserved=3D0> #LT4HALA<=
-https://eur03.safelinks.protection.outlook.com/?url=3Dhttps%3A%2F%2Ftwitter.c=
-om%2Fsearch%3Fq%3D%2523LT4HALA%26src%3Dtyped_query&data=3D02%7C01%7Cgreta.fra=
-nzini%40unicatt.it%7C0b66b4a354d842c804a208d77e36b7c7%7Cb94f7d7481ff44a9b5886=
-682acc85779%7C0%7C0%7C637116645794699923&sdata=3DD0WtkDeaRi9C7Uktr5ALLraLMcZM=
-e6zk1xS5W%2BTUGpA%3D&reserved=3D0> on Twitter for updates.=E2=80=94=E2=80=94
+Subject: [dm-l] [LREC 2020] CfP: 1st Workshop on Language Technologies for
+
+** With apologies for cross-posting**
+
+Call for Papers: 1st Workshop on Language Technologies for Historical and Ancient LAnguages (LT4HALA)
+
+●      Website: <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcircse.github.io%2FLT4HALA%2F&data=02%7C01%7Cgreta.franzini%40unicatt.it%7C0b66b4a354d842c804a208d77e36b7c7%7Cb94f7d7481ff44a9b5886682acc85779%7C0%7C0%7C637116645794579975&sdata=qnRwUOh2JjB1PCuC2rlBYmNMoKjLmJFLCobPRc8D7TE%3D&reserved=0> https://circse.github.io/LT4HALA/<https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcircse.github.io%2FLT4HALA%2F&data=02%7C01%7Cgreta.franzini%40unicatt.it%7C0b66b4a354d842c804a208d77e36b7c7%7Cb94f7d7481ff44a9b5886682acc85779%7C0%7C0%7C637116645794579975&sdata=qnRwUOh2JjB1PCuC2rlBYmNMoKjLmJFLCobPRc8D7TE%3D&reserved=0>
+
+●      Date: May 12, 2020
+
+●      Place: co-located with <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Flrec2020.lrec-conf.org%2F&data=02%7C01%7Cgreta.franzini%40unicatt.it%7C0b66b4a354d842c804a208d77e36b7c7%7Cb94f7d7481ff44a9b5886682acc85779%7C0%7C0%7C637116645794589968&sdata=B1WFaqN%2B%2FrJF0Ay9GCrSUgRfoDCG1%2BbRqYYs9tT9niI%3D&reserved=0> LREC 2020<https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Flrec2020.lrec-conf.org%2F&data=02%7C01%7Cgreta.franzini%40unicatt.it%7C0b66b4a354d842c804a208d77e36b7c7%7Cb94f7d7481ff44a9b5886682acc85779%7C0%7C0%7C637116645794599966&sdata=TlmgMHR0KwSaRNNS5S%2F8eyOipCQaoUXo9BC65fvMdtw%3D&reserved=0>, May 11-16, Marseille, France
+
+Description
+
+LT4HALA is a one-day workshop that seeks to bring together scholars who are developing and/or are using Language Technologies (LTs) for historically attested languages, so to foster cross-fertilization between the Computational Linguistics community and the areas in the Humanities dealing with historical linguistic data, e.g. historians, philologists, linguists, archaeologists and literary scholars. Despite the current availability of large collections of digitized texts written in historical languages, such interdisciplinary collaboration is still hampered by the limited availability of annotated linguistic resources for most of the historical languages. Creating such resources is a challenge and an obligation for LTs, both to support historical linguistic research with the most updated technologies and to preserve those precious linguistic data that survived from past times.
+
+Relevant topics for the workshop include, but are not limited to:
+
+●      handling spelling variation;
+
+●      detection and correction of OCR errors;
+
+●      creation and annotation of digital resources;
+
+●      deciphering;
+
+●      morphological/syntactic/semantic analysis of textual data;
+
+●      adaptation of tools to address diachronic/diatopic/diastratic variation in texts;
+
+●      teaching ancient languages with NLP tools;
+
+●      NLP-driven theoretical studies in historical linguistics;
+
+●      evaluation of NLP tools.
+
+Shared Tasks
+
+Just because of the limited amount of data preserved for historical and ancient languages, an important role is played by evaluation practices, to understand the level of accuracy of the NLP tools used to build and analyze resources. Given the prominence of Latin, by virtue of its wide diachronic and diatopic span covering two millennia all over Europe, the workshop will host the first edition of <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcircse.github.io%2FLT4HALA%2FEvaLatin&data=02%7C01%7Cgreta.franzini%40unicatt.it%7C0b66b4a354d842c804a208d77e36b7c7%7Cb94f7d7481ff44a9b5886682acc85779%7C0%7C0%7C637116645794599966&sdata=ZbWE1lQFa7%2Fakt%2F1oRTImuJYpMDVkGJrUQCuE%2FH%2FgMs%3D&reserved=0> EvaLatin<https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcircse.github.io%2FLT4HALA%2FEvaLatin&data=02%7C01%7Cgreta.franzini%40unicatt.it%7C0b66b4a354d842c804a208d77e36b7c7%7Cb94f7d7481ff44a9b5886682acc85779%7C0%7C0%7C637116645794609965&sdata=tdYhhPfSgRpJ%2BwsMdQPTXEZGyYGP%2BROAcIojk3uZC9M%3D&reserved=0>, an evaluation campaign entirely devoted to the evaluation of NLP tools for Latin. The first edition of EvaLatin will focus on two tasks (i.e. Lemmatization and PoS tagging), each featuring three sub-tasks (i.e. Classical, Cross-Genre, Cross-Time). These sub-tasks are designed to measure the impact of genre and diachrony on NLP tools performances, a relevant aspect to keep in mind when dealing with the diachronic and diatopic diversity of Latin. Participants will be provided with shared data in the CoNLL-U format and the evaluation script.
+
+Submissions
+
+For the workshop, we invite papers of different types such as experimental papers, reproduction papers, resource papers, position papers, survey papers. Both long and short papers describing original and unpublished work are welcome. Long papers should deal with substantial completed research and/or report on the development of new methodologies. They may consist of up to 8 pages of content plus 2 pages of references. Short papers are instead appropriate for reporting on works in progress or for describing a singular tool or project. They may consist of up to 4 pages of content plus 2 pages of references. We encourage the authors of papers reporting experimental results to make their results reproducible and the entire process of analysis replicable, by making the data and the tools they used available. The form of the presentation may be oral or poster, whereas in the proceedings there is no difference between the accepted papers. The submission is NOT anonymous. The <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Flrec2020.lrec-conf.org%2Fen%2Fsubmission2020%2Fauthors-kit%2F&data=02%7C01%7Cgreta.franzini%40unicatt.it%7C0b66b4a354d842c804a208d77e36b7c7%7Cb94f7d7481ff44a9b5886682acc85779%7C0%7C0%7C637116645794619956&sdata=MLkSUZMUhZLpntWIY97cB8zCgU7ZRixylc3LMcZDDYY%3D&reserved=0> LREC official format<https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Flrec2020.lrec-conf.org%2Fen%2Fsubmission2020%2Fauthors-kit%2F&data=02%7C01%7Cgreta.franzini%40unicatt.it%7C0b66b4a354d842c804a208d77e36b7c7%7Cb94f7d7481ff44a9b5886682acc85779%7C0%7C0%7C637116645794619956&sdata=MLkSUZMUhZLpntWIY97cB8zCgU7ZRixylc3LMcZDDYY%3D&reserved=0> is requested. Each paper will be reviewed but three independent reviewers.
+
+As for <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcircse.github.io%2FLT4HALA%2FEvaLatin&data=02%7C01%7Cgreta.franzini%40unicatt.it%7C0b66b4a354d842c804a208d77e36b7c7%7Cb94f7d7481ff44a9b5886682acc85779%7C0%7C0%7C637116645794629952&sdata=lfg8%2B26JU4droi%2FVjKOW88cyXBF2xJE7t43UqJvIV7U%3D&reserved=0> EvaLatin<https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcircse.github.io%2FLT4HALA%2FEvaLatin&data=02%7C01%7Cgreta.franzini%40unicatt.it%7C0b66b4a354d842c804a208d77e36b7c7%7Cb94f7d7481ff44a9b5886682acc85779%7C0%7C0%7C637116645794639949&sdata=aDPr8j3aw%2F%2BKYK6EBo%2B67FhT7VlXEnt6ythdDUkFv%2BY%3D&reserved=0>, participants will be required to submit a technical report for each task (with all the related sub-tasks) they took part in. Technical reports will be included in the proceedings as short papers: the maximum length is 4 pages (excluding references) and they should follow the <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Flrec2020.lrec-conf.org%2Fen%2Fsubmission2020%2Fauthors-kit%2F&data=02%7C01%7Cgreta.franzini%40unicatt.it%7C0b66b4a354d842c804a208d77e36b7c7%7Cb94f7d7481ff44a9b5886682acc85779%7C0%7C0%7C637116645794639949&sdata=sxkGa3XfxdG0a8tSsuz3EFBSeni7x6kzbW94jAmRcos%3D&reserved=0> LREC official format<https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Flrec2020.lrec-conf.org%2Fen%2Fsubmission2020%2Fauthors-kit%2F&data=02%7C01%7Cgreta.franzini%40unicatt.it%7C0b66b4a354d842c804a208d77e36b7c7%7Cb94f7d7481ff44a9b5886682acc85779%7C0%7C0%7C637116645794649942&sdata=hiFyHmXGZkd68j83GVDcNJ74VOmBNvlhiiXtWABBgeg%3D&reserved=0>. Reports will receive a light review (we will check for the correctness of the format, the exactness of results and ranking, and overall exposition). All participants will have the possibility to present their results at the workshop: we will allocate an oral session and a poster session fully devoted to the shared tasks.
+
+Important Dates
+
+Workshop
+
+●      17 February 2020: submissions due
+
+●      10 March 2020: notifications to authors
+
+●      27 March 2020: camera-ready due
+
+●      12 May 2020: workshop
+
+EvaLatin
+
+●      10 December 2019: training data available
+
+●      Evaluation Window I - Task: Lemmatization
+
+○      17 February 2020: test data available
+
+○      21 February 2020 system results due to organizers
+
+●      Evaluation Window II - Task: PoS tagging
+
+○      24 February 2020: test data available
+
+○      28 February 2020: system results due to organizers
+
+●      6 March 2020: assessment returned to participants
+
+●      27 March 2020: reports due to organizers
+
+●      10 April 2020: camera ready version of reports due to organizers
+
+●      12 May 2020: workshop
+
+Share your LRs!
+
+Describing your LRs in the <https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Flremap.elra.info%2F&data=02%7C01%7Cgreta.franzini%40unicatt.it%7C0b66b4a354d842c804a208d77e36b7c7%7Cb94f7d7481ff44a9b5886682acc85779%7C0%7C0%7C637116645794649942&sdata=mbkPShfm3pBanRGmTI%2BxIwwBZ1U%2FhyZwPJcH09rS6Vg%3D&reserved=0> LRE Map<https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Flremap.elra.info%2F&data=02%7C01%7Cgreta.franzini%40unicatt.it%7C0b66b4a354d842c804a208d77e36b7c7%7Cb94f7d7481ff44a9b5886682acc85779%7C0%7C0%7C637116645794659937&sdata=Zb%2BcgctDJuME9xl9qs8Jgd%2BntdGqY1VKZAL5hqO%2BBi4%3D&reserved=0> is now a normal practice in the submission procedure of LREC (introduced in 2010 and adopted by other conferences). To continue the efforts initiated at LREC 2014 about “Sharing LRs” (data, tools, web-services, etc.), authors will have the possibility, when submitting a paper, to upload LRs in a special LREC repository. This effort of sharing LRs, linked to the LRE Map for their description, may become a new “regular” feature for conferences in our field, thus contributing to creating a common repository where everyone can deposit and share data.
+
+ISLRN number
+
+As scientific work requires accurate citations of referenced work so as to allow the community to understand the whole context and also replicate the experiments conducted by other researchers, LREC 2020 endorses the need to uniquely Identify LRs through the use of the International Standard Language Resource Number (ISLRN<https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcircse.github.io%2FLT4HALA%2Fwww.islrn.org&data=02%7C01%7Cgreta.franzini%40unicatt.it%7C0b66b4a354d842c804a208d77e36b7c7%7Cb94f7d7481ff44a9b5886682acc85779%7C0%7C0%7C637116645794669932&sdata=HiyeHqlzFTm9VXZN08tNGYJBHGyEviaPFX%2FLJuReDHE%3D&reserved=0>), a Persistent Unique Identifier to be assigned to each Language Resource. The assignment of ISLRNs to LRs cited in LREC papers will be offered at submission time.
+
+Organizers
+
+●      Marco Passarotti<https://docenti.unicatt.it/ppd2/en/#/en/docenti/14144/marco-carlo-passarotti/profilo>, Università Cattolica del Sacro Cuore,Milan, Italy;
+
+●      Rachele Sprugnoli<https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FRachele_Sprugnoli&data=02%7C01%7Cgreta.franzini%40unicatt.it%7C0b66b4a354d842c804a208d77e36b7c7%7Cb94f7d7481ff44a9b5886682acc85779%7C0%7C0%7C637116645794669932&sdata=NVBJIEfR8S%2FpsbNf0OA7vNADrM%2BsLwU36K6WKSFiwrk%3D&reserved=0>, Università Cattolica del Sacro Cuore,Milan, Italy.
+
+Programme Committee
+
+●      Marcel Bollmann, University of Copenhagen; Denmark;
+
+●      Gerlof Bouma, University of Gothenburg, Sweden;
+
+●      Patrick Burns, University of Texas at Austin, USA;
+
+●      Oksana Dereza, Insight Centre for Data Analytics, Ireland;
+
+●      Stefanie Dipper, Ruhr-Universität Bochum, Germany;
+
+●      Hanne Eckoff, Oxford University, UK;
+
+●      Maud Ehrmann, EPFL, Switzerland;
+
+●      Hannes A. Fellner, Universität Wien, Austria;
+
+●      Heidi Jauhiainen, University of Helsinki, Finland;
+
+●      Julia Krasselt, Zurich University of Applied Sciences, Switzerland;
+
+●      John Lee, City University of Hong Kong;
+
+●      Chao-Lin Liu, National Chengchi University, Taiwan;
+
+●      Barbara McGillivray, University of Cambridge, UK;
+
+●      Beáta Megyesi, Uppsala University, Sweden;
+
+●      So Miyagawa, University of Göttingen; Germany;
+
+●      Joakim Nivre, Uppsala University, Sweden;
+
+●      Eva Pettersson, Uppsala University, Sweden;
+
+●      Michael Piotrowski, University of Lausanne, Switzerland;
+
+●      Sophie Prévost, Laboratoire Lattice, France;
+
+●      Halim Sayoud, USTHB University;
+
+●      Olga Scrivner, Indiana University, USA;
+
+●      Neel Smith, College of the Holy Cross, USA;
+
+●      Sara Tonelli, Fondazione Bruno Kessler, Italy;
+
+●      Amir Zeldes, Georgetown University, USA;
+
+●      Daniel Zeman, Charles University, Czech Republic.
+
+Contact
+
+rachele.sprugnoli[AT]unicatt.it<http://unicatt.it/>
+
+Please, write “LT4HALA” or “EvaLatin” in the subject of your email.
+
+Follow <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FERC_LiLa&data=02%7C01%7Cgreta.franzini%40unicatt.it%7C0b66b4a354d842c804a208d77e36b7c7%7Cb94f7d7481ff44a9b5886682acc85779%7C0%7C0%7C637116645794679927&sdata=Ish3Lkn6ag3zQnBRoksRmOwliZA9UTj5tPGt5b6wSy4%3D&reserved_redacted_@ERC_LiLa<https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FERC_LiLa&data=02%7C01%7Cgreta.franzini%40unicatt.it%7C0b66b4a354d842c804a208d77e36b7c7%7Cb94f7d7481ff44a9b5886682acc85779%7C0%7C0%7C637116645794689935&sdata=7RazOcHwInAeMp6bsM9bBvKnqR7udU3DPRG%2FQVVFLcE%3D&reserved=0> and the hashtag <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fsearch%3Fq%3D%2523LT4HALA%26src%3Dtyped_query&data=02%7C01%7Cgreta.franzini%40unicatt.it%7C0b66b4a354d842c804a208d77e36b7c7%7Cb94f7d7481ff44a9b5886682acc85779%7C0%7C0%7C637116645794689935&sdata=%2BRext%2BgY1Nnygk311lR7Ue0vVHPuS58OIMATg3dC4uY%3D&reserved=0> #LT4HALA<https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fsearch%3Fq%3D%2523LT4HALA%26src%3Dtyped_query&data=02%7C01%7Cgreta.franzini%40unicatt.it%7C0b66b4a354d842c804a208d77e36b7c7%7Cb94f7d7481ff44a9b5886682acc85779%7C0%7C0%7C637116645794699923&sdata=D0WtkDeaRi9C7Uktr5ALLraLMcZMe6zk1xS5W%2BTUGpA%3D&reserved=0> on Twitter for updates.
+
+——
 Greta H. Franzini, Ph.D
 Postdoctoral Researcher
 LiLa: Linking Latin [ERC n. 769994]: https://lila-erc.eu
-_redacted_(a)unicatt=
-.it> | http://gretafranzini.com/
+_redacted_(a)unicatt.it> | http://gretafranzini.com/
 Institutional page: http://docenti.unicatt.it/eng/greta_franzini/
-ORCiD: https://orcid.org/0000-0003-1159-5575CIRCSE Research Centre: https://centridiricerca.unicatt.it/circse_index.html
-Facolt=C3=A0 di Scienze Linguistiche e Letterature Straniere
+ORCiD: https://orcid.org/0000-0003-1159-5575
+
+CIRCSE Research Centre: https://centridiricerca.unicatt.it/circse_index.html
+Facoltà di Scienze Linguistiche e Letterature Straniere
 Franciscanum Building, 2nd Floor, room 209
-Universit=C3=A0 Cattolica del Sacro Cuore
+Università Cattolica del Sacro Cuore
 Largo Gemelli 1,
-20123 Milan, ItalyDigital Medievalist Journal: https://journal.digitalmedievalist.org/
+20123 Milan, Italy
+
+Digital Medievalist Journal: https://journal.digitalmedievalist.org/
 Umanistica Digitale Journal: https://umanisticadigitale.unibo.it
-Associazione per l=E2=80=99Informatica Umanistica e la Cultura Digitale (AIUC=
-D): http://www.aiucd.it/
-=E2=80=94=E2=80=94
+Associazione per l’Informatica Umanistica e la Cultura Digitale (AIUCD): http://www.aiucd.it/
+
+
+
+
+
+——
 Greta H. Franzini, Ph.D
 Postdoctoral Researcher
 LiLa: Linking Latin [ERC n. 769994]: https://lila-erc.eu
-_redacted_(a)unicatt=
-.it> | http://gretafranzini.com/
+_redacted_(a)unicatt.it> | http://gretafranzini.com/
 Institutional page: http://docenti.unicatt.it/eng/greta_franzini/
-ORCiD: https://orcid.org/0000-0003-1159-5575CIRCSE Research Centre: https://centridiricerca.unicatt.it/circse_index.html
-Facolt=C3=A0 di Scienze Linguistiche e Letterature Straniere
+ORCiD: https://orcid.org/0000-0003-1159-5575
+
+CIRCSE Research Centre: https://centridiricerca.unicatt.it/circse_index.html
+Facoltà di Scienze Linguistiche e Letterature Straniere
 Franciscanum Building, 2nd Floor, room 209
-Universit=C3=A0 Cattolica del Sacro Cuore
+Università Cattolica del Sacro Cuore
 Largo Gemelli 1,
-20123 Milan, ItalyDigital Medievalist Journal: https://journal.digitalmedievalist.org/
+20123 Milan, Italy
+
+Digital Medievalist Journal: https://journal.digitalmedievalist.org/
 Umanistica Digitale Journal: https://umanisticadigitale.unibo.it
-Associazione per l=E2=80=99Informatica Umanistica e la Cultura Digitale (AIUC=
-D): http://www.aiucd.it/
---===============1530230745956761199==
-Content-Type: text/html
+Associazione per l’Informatica Umanistica e la Cultura Digitale (AIUCD): http://www.aiucd.it/
+
+
+
+
+
+
+
+
+
+--1530230745956761199Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWw+DQo8aGVhZD4NCjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSIgY29udGVudD0i
+Content-Disposition: attachment; filename�ttachment.html"
+MIME-Version: 1.0
+
+PGh0bWw+DQo8aGVhZD4NCjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSIgY29udGVudD0i
 dGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04Ij4NCjwvaGVhZD4NCjxib2R5IHN0eWxlPSJ3b3JkLXdy
 YXA6IGJyZWFrLXdvcmQ7IC13ZWJraXQtbmJzcC1tb2RlOiBzcGFjZTsgbGluZS1icmVhazogYWZ0
 ZXItd2hpdGUtc3BhY2U7IiBjbGFzcz0iIj4NCjxwIGNsYXNzPSJub3JtYWwiIHN0eWxlPSJjYXJl
@@ -1118,4 +1144,4 @@ YW5nZS1uZXdsaW5lIj4NCjwvZGl2Pg0KPGJyIGNsYXNzPSJBcHBsZS1pbnRlcmNoYW5nZS1uZXds
 aW5lIj4NCjwvZGl2Pg0KPGJyIGNsYXNzPSJBcHBsZS1pbnRlcmNoYW5nZS1uZXdsaW5lIj4NCjwv
 ZGl2Pg0KPGJyIGNsYXNzPSJBcHBsZS1pbnRlcmNoYW5nZS1uZXdsaW5lIj4NCjxiciBjbGFzcz0i
 QXBwbGUtaW50ZXJjaGFuZ2UtbmV3bGluZSI+DQo8L2Rpdj4NCjxiciBjbGFzcz0iIj4NCjwvYm9k
-eT4NCjwvaHRtbD4NCg==
+eT4NCjwvaHRtbD4NCg

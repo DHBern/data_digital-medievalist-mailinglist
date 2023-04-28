@@ -1,40 +1,52 @@
-Subject: [dm-l] LiLa-Linking Latin: Lemma Bank availableWe are glad to announce that the LEMMA BANK QUERY INTERFACE of the "LiLa: Lin=
-king Latin" ERC project is now online at: https://lila-erc.eu/query/Users can query the LiLa collection of Latin lemmas, used to interconnect lin=
-guistic resources and tools with Linked Data technology, through a simple gra=
-phical interface. The Lemma Bank comprises 134,228 Lemma objects and 58,278 H=
-ypolemma objects, as well as 4,224 lexical bases, 109 suffixes and 41 prefixe=
-s. Query results can be saved as a CSV file, visualized in the LOD View or LO=
-D Live interfaces, and the underlying SPARQL code can be copied with a simple=
- click.Users familiar with the SPARQL query language can also access the LiLa triple=
-store, which currently provides three end-points: Lemma Bank, Corpora ("Summa=
- contra Gentiles" of the "Index Thomisticus Treebank") and lexicalResources (=
-the "Brill Etymological Dictionary of Latin and the other Italic Languages").=
- Please note that both Corpora and lexical resources are work in progress.For details, please check the list of publications about LiLa available at ht=
-tps://lila-erc.eu/output/For future updates, please follow LiLa's official website and social media ac=
-counts!Website: https://lila-erc.eu/
+Subject: [dm-l] LiLa-Linking Latin: Lemma Bank available
+
+We are glad to announce that the LEMMA BANK QUERY INTERFACE of the "LiLa: Linking Latin" ERC project is now online at: https://lila-erc.eu/query/
+
+Users can query the LiLa collection of Latin lemmas, used to interconnect linguistic resources and tools with Linked Data technology, through a simple graphical interface. The Lemma Bank comprises 134,228 Lemma objects and 58,278 Hypolemma objects, as well as 4,224 lexical bases, 109 suffixes and 41 prefixes. Query results can be saved as a CSV file, visualized in the LOD View or LOD Live interfaces, and the underlying SPARQL code can be copied with a simple click.
+
+Users familiar with the SPARQL query language can also access the LiLa triplestore, which currently provides three end-points: Lemma Bank, Corpora ("Summa contra Gentiles" of the "Index Thomisticus Treebank") and lexicalResources (the "Brill Etymological Dictionary of Latin and the other Italic Languages"). Please note that both Corpora and lexical resources are work in progress.
+
+For details, please check the list of publications about LiLa available at https://lila-erc.eu/output/
+
+For future updates, please follow LiLa's official website and social media accounts!
+
+Website: https://lila-erc.eu/
 Twitter: https://twitter.com/ERC_LiLa
-Facebook: https://www.facebook.com/lilaERC/
-=E2=80=94=E2=80=94
+Facebook: https://www.facebook.com/lilaERC/
+
+——
 Greta H. Franzini, Ph.D
 Postdoctoral Researcher
 LiLa: Linking Latin [ERC n. 769994]: https://lila-erc.eu
-_redacted_(a)unicatt=
-.it> | http://gretafranzini.com/
+_redacted_(a)unicatt.it> | http://gretafranzini.com/
 Institutional page: http://docenti.unicatt.it/eng/greta_franzini/
-ORCiD: https://orcid.org/0000-0003-1159-5575CIRCSE Research Centre: https://centridiricerca.unicatt.it/circse_index.html
-Facolt=C3=A0 di Scienze Linguistiche e Letterature Straniere
+ORCiD: https://orcid.org/0000-0003-1159-5575
+
+CIRCSE Research Centre: https://centridiricerca.unicatt.it/circse_index.html
+Facoltà di Scienze Linguistiche e Letterature Straniere
 Franciscanum Building, 2nd Floor, room 209
-Universit=C3=A0 Cattolica del Sacro Cuore
+Università Cattolica del Sacro Cuore
 Largo Gemelli 1,
-20123 Milan, ItalyDigital Medievalist Journal: https://journal.digitalmedievalist.org/
+20123 Milan, Italy
+
+Digital Medievalist Journal: https://journal.digitalmedievalist.org/
 Umanistica Digitale Journal: https://umanisticadigitale.unibo.it
-Associazione per l=E2=80=99Informatica Umanistica e la Cultura Digitale (AIUC=
-D): http://www.aiucd.it/
---===============7937291568143110079==
-Content-Type: text/html
+Associazione per l’Informatica Umanistica e la Cultura Digitale (AIUCD): http://www.aiucd.it/
+
+
+
+
+
+
+
+
+
+--7937291568143110079Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWw+DQo8aGVhZD4NCjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSIgY29udGVudD0i
+Content-Disposition: attachment; filename�ttachment.html"
+MIME-Version: 1.0
+
+PGh0bWw+DQo8aGVhZD4NCjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSIgY29udGVudD0i
 dGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04Ij4NCjwvaGVhZD4NCjxib2R5IHN0eWxlPSJ3b3JkLXdy
 YXA6IGJyZWFrLXdvcmQ7IC13ZWJraXQtbmJzcC1tb2RlOiBzcGFjZTsgbGluZS1icmVhazogYWZ0
 ZXItd2hpdGUtc3BhY2U7IiBjbGFzcz0iIj4NCjxkaXYgY2xhc3M9IiI+DQo8ZGl2IGNsYXNzPSIi
@@ -131,4 +143,5 @@ Ij4NCjwvZGl2Pg0KPC9kaXY+DQo8YnIgY2xhc3M9IkFwcGxlLWludGVyY2hhbmdlLW5ld2xpbmUi
 Pg0KPC9kaXY+DQo8YnIgY2xhc3M9IkFwcGxlLWludGVyY2hhbmdlLW5ld2xpbmUiPg0KPC9kaXY+
 DQo8YnIgY2xhc3M9IkFwcGxlLWludGVyY2hhbmdlLW5ld2xpbmUiPg0KPC9kaXY+DQo8YnIgY2xh
 c3M9IkFwcGxlLWludGVyY2hhbmdlLW5ld2xpbmUiPg0KPGJyIGNsYXNzPSJBcHBsZS1pbnRlcmNo
-YW5nZS1uZXdsaW5lIj4NCjwvZGl2Pg0KPGJyIGNsYXNzPSIiPg0KPC9ib2R5Pg0KPC9odG1sPg0K
+YW5nZS1uZXdsaW5lIj4NCjwvZGl2Pg0KPGJyIGNsYXNzPSIiPg0KPC9ib2R5Pg0KPC9odG1sPg0K
+

@@ -1,12 +1,18 @@
-Subject: [dm-l] Multiple streams / stages of footnotes: what solutions?Dear list,
+Subject: [dm-l] Multiple streams / stages of footnotes: what solutions?
+
+Dear list,
 As those of you who have had the pleasure to tackle critical editions in 
 printed form, the traditional
 mutiple streams or "stages" of footnotes (variants + biblical references 
 + sources, for instance) are a real pain, and very few solutions are 
-offered.I knew of two, mainly (leaving aside InDesign and the like): LaTex (for 
+offered.
+
+I knew of two, mainly (leaving aside InDesign and the like): LaTex (for 
 the bold and slightly geeky critical editor with time on his hands), and 
 the Classical Text Editor, an apparently quite interesting text editor 
-dedicated to critical editions (unfortunately rather expensive).I have just discovered that, apparently, a word processor for MacOSX is 
+dedicated to critical editions (unfortunately rather expensive).
+
+I have just discovered that, apparently, a word processor for MacOSX is 
 capable of handling those multiple layers:
 http://www.redlers.com/mellelscholars.htm
 See also for a more detailed explanation of the footnotes features p. 
@@ -15,12 +21,22 @@ http://www.connectnw.com/redlers/MellelGuide.pdf
 Unfortunately, I have no MacOsX at hand for the moment, and haven't been 
 able to give this word processor a test yet. But I would be very 
 interested to hear from the DM-L list members, if ever some of you had 
-tried this Mellel software.More generally, do some of you use other solutions to handle multiple 
+tried this Mellel software.
+
+More generally, do some of you use other solutions to handle multiple 
 streams of footnotes in their *printed* editions, and what is your 
-assesment of the various solutions?Best, Marjorie-- 
+assesment of the various solutions?
+
+Best, Marjorie
+
+-- 
 Marjorie BURGHART
 EHESS (pôle de Lyon) / UMR 5648
 Histoire et Archéologie des Mondes Chrétiens et Musulmans Médiévaux
 18 quai Claude Bernard
-69007 Lyon - FRANCE
---===============2365146107268698075==--
+69007 Lyon - FRANCE
+
+
+
+--2365146107268698075-
+

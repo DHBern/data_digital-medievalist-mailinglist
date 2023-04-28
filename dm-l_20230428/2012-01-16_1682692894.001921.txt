@@ -1,7 +1,18 @@
-Subject: [dm-l] Junicode 0.7.1Yet another release of Junicode, the font for medievalists.There were significant problems with some Windows apps in version 0.7. 
+Subject: [dm-l] Junicode 0.7.1
+
+Yet another release of Junicode, the font for medievalists.
+
+There were significant problems with some Windows apps in version 0.7. 
 These have now been fixed in version 0.7.1; all Windows users should 
 update their copies. But there are other incremental improvements as 
-well, so OS X and Linux users may as well update.Be sure to delete the old version before installing the new: there have 
+well, so OS X and Linux users may as well update.
+
+Be sure to delete the old version before installing the new: there have 
 been some file name and font name changes, and so failure to delete the 
-old copy will surely cause problems.Peter Baker
-http://junicode.sourceforge.net
+old copy will surely cause problems.
+
+Peter Baker
+http://junicode.sourceforge.net
+
+
+

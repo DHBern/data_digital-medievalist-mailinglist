@@ -1,4 +1,5 @@
-Subject: Re: [dm-l] procite database
+Subject: Re: [dm-l] procite database
+
 michel aaij wrote:
 > Dear colleagues,
 > 
@@ -13,25 +14,46 @@ michel aaij wrote:
 > that it can only generate output as HTML, not make it searchable via the 
 > internet. Can any of you tell me how I can do this? Better yet, can an 
 > amateur like me do this? The database is fairly large--I believe I have 
-> some 750 titles in it right now.Well, there are a variety of options.  For example:1)Depending on where and how your website is hosted, you could set up
+> some 750 titles in it right now.
+
+Well, there are a variety of options.  For example:
+
+1)Depending on where and how your website is hosted, you could set up
 a database (e.g. mysql) and then some scripts of some sort (say PHP)
-to allow users to query the database.2)You could plop it in an XML database (e.g. eXist) and design a basic
+to allow users to query the database.
+
+2)You could plop it in an XML database (e.g. eXist) and design a basic
 XQuery to allow users to do a free-text search. (Or something more
 complicated).  If you use this solution then exporting not as HTML,
 but as CSV or something and then converting that to more intricate XML
-would be a better way.3)By far the easiest is to make your HTML attractive to a third-party
+would be a better way.
+
+3)By far the easiest is to make your HTML attractive to a third-party
 search engine, and allow google to search and index it.  Then, you can
 embed a search box which searches just your site by including
-something like:<form method="get" action="http://www.google.com/search">
-<div style="border:1px solid black;padding:4px;width:20em;">
-<input type="text"   name="q" size="25" maxlength="255" value="" />
-<input type="submit" value="Google Search" /></td></tr>
-<input type="checkbox"  name="sitesearch" value="DOMAIN-NAME-HERE"
+something like:
+
+<form methodet" actionttp://www.google.com/search">
+<div styleûorder:1px solid black;padding:4px;width:20em;">
+<input typeext"   name" sizeò5" maxlengthò55" value />
+<input typeubmit" valueoogle Search" /></td></tr>
+<input typeüheckbox"  nameitesearch" valueýOMAIN-NAME-HERE"
 checked /> only search DOMAIN-NAME-HERE<br />
 </div>
-</form>Obviously changing the two 'DOMAIN-NAME-HERE' to be your site for your
+</form>
+
+Obviously changing the two 'DOMAIN-NAME-HERE' to be your site for your
 site.  For example changing 'DOMAIN-NAME-HERE' to
 'sql.uleth.ca/dmorgwiki/index.php' would make the box search only the
-Digital Medievalist wiki.Of course this isn't flawless. Google follows particular rules when
-indexing pages.Unless you are looking to put in a fair bit of time and effort, I
-would suggest the third option.-JAmes
+Digital Medievalist wiki.
+
+Of course this isn't flawless. Google follows particular rules when
+indexing pages.
+
+Unless you are looking to put in a fair bit of time and effort, I
+would suggest the third option.
+
+-JAmes
+
+
+

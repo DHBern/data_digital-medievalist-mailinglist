@@ -1,18 +1,35 @@
-Subject: [dm-l] CFP : SW4SH 2017 =?utf-8?b?4oCL?= 3rd Int. Workshop onDear Colleagues,Please find in attachment a Call for Papers ​for the 3rd Int. Workshop on
-Semantic Web for Scientific Heritage (SW4SH 2017).Best regardsIsabelle, Catherine, Alexandre and Arnaud​​​
+Subject: [dm-l] CFP : SW4SH 2017 tf-8?b?4oCL?
+Dear Colleagues,
+
+Please find in attachment a Call for Papers ​for the 3rd Int. Workshop on
+Semantic Web for Scientific Heritage (SW4SH 2017).
+
+Best regards
+
+Isabelle, Catherine, Alexandre and Arnaud​
+
+​​
 *3rd Int. Workshop on Semantic Web for Scientific Heritage SW4SH 2017, in
-conjunction with ESWC 2017*http://www.cepam.cnrs.fr/zoomathia/sw4sh/Important dates:
+conjunction with ESWC 2017*
+
+http://www.cepam.cnrs.fr/zoomathia/sw4sh/
+
+Important dates:
 - March 3, 2017: Paper submission deadline
 - March 31, 2017: Notification of paper acceptance
 - April 13, 2017: Camera ready version
-- May 29, 2017: Workshop dateThe 3rd Workshop on Semantic Web for Scientific Heritage will be held in
+- May 29, 2017: Workshop date
+
+The 3rd Workshop on Semantic Web for Scientific Heritage will be held in
 conjunction with the 14th ESWC 2017 Conference which takes place from May
 28th to June 1st in Portoroz, Slovenia. It is a continuation of the SW4SH
 workshop series initiated at ESWC 2015 which aims to provide a leading
 international and interdisciplinary forum for disseminating the latest
 research in the field of Semantic Web for the preservation and exploitation
 of our scientific heritage, the study of the history of ideas and their
-transmission.Classicists and historians are interested in developing textual databases,
+transmission.
+
+Classicists and historians are interested in developing textual databases,
 in order to gather and explore large amounts of primary source materials.
 For a long time, they mainly focused on text digitization and markup. They
 only recently decided to try to explore the possibility of transferring
@@ -32,7 +49,9 @@ knowledge engineers with computer-savvy historians and classicists has
 come. This encounter may be inscribed within the more general context of
 digital humanities, a research area at the intersection of computing and
 the humanities disciplines which is gaining an ever-increasing momentum and
-where the Linked Open Data is playing an increasingly prominent role.The purpose of the workshop is to provide a forum for discussion about the
+where the Linked Open Data is playing an increasingly prominent role.
+
+The purpose of the workshop is to provide a forum for discussion about the
 methodological approaches to the specificity of annotating “scientific”
 texts (in the wide sense of the term, including disciplines such as
 history, architecture, or rhetoric), and to support a collaborative
@@ -51,7 +70,9 @@ Dealing with historical texts, a major problem is indeed to handle the
 discrepancy of the historical terminology compared to the modern one, and,
 in the case of massive, diachronic data, to take into account the
 contextual and theoretical meaning of terms and segments of texts and their
-semantics.Topics covered by the workshop include the following:
+semantics.
+
+Topics covered by the workshop include the following:
 • Ontologies and vocabularies in Ancient Science
 • Semantic annotation of ancient and medieval scientific texts
 • Information/knowledge extraction from archaeological objects and texts
@@ -59,25 +80,39 @@ semantics.Topics covered by the workshop include the following:
 • Representation of the historical dimension of Scientific Knowledge
 • Impact of Semantic Web technologies on Digital Humanities
 • Knowledge Engineering for ancient zoological science and literature
-• Social Web, collaborative systems, tagging, and user feedbackPaper Submission:
+• Social Web, collaborative systems, tagging, and user feedback
+
+Paper Submission:
 We invite short position papers (4-6 pages) and regular research papers
 (8-12 pages) describing innovative ideas covering the topics of the
 workshop.
 Submissions must be written in English and follow the LNCS guidelines. For
 details see the Springer LNCS Author Instructions page.
 Papers must be submitted via Easychair: https://easychair.org/
-conferences/?conf=sw4sh2017. Accepted papers will be published in the CEUR
-workshop proceedings series.Schedule
+conferences/?conf4sh2017. Accepted papers will be published in the CEUR
+workshop proceedings series.
+
+Schedule
 • Due date for full workshop papers submission: March 3, 2017
 • Notification of paper acceptance to authors: March 31, 2017
 • Camera-ready of accepted papers: April 13, 2017
-• Workshop: May 29, 2017Workshop organizers:
+• Workshop: May 29, 2017
+
+Workshop organizers:
 Isabelle Draelants, CNRS, IRHT
 Catherine Faron Zucker, Univ. Nice Sophia Antipolis
 Alexandre Monnin, Inria
-Arnaud Zucker, Univ. Nice Sophia AntipolisContact:
+Arnaud Zucker, Univ. Nice Sophia Antipolis
+
+Contact:
 For any question, please contact the organisers via email:
-_redacted_(a)easychair.orgPGRpdiBkaXI9Imx0ciI+PGRpdiBzdHlsZT0iZm9udC1mYW1pbHk6Z2VvcmdpYSxzZXJpZjtjb2xv
+_redacted_(a)easychair.org
+
+
+
+
+
+PGRpdiBkaXI9Imx0ciI+PGRpdiBzdHlsZT0iZm9udC1mYW1pbHk6Z2VvcmdpYSxzZXJpZjtjb2xv
 cjpyZ2IoMzksNzgsMTkpO2Rpc3BsYXk6aW5saW5lIiBjbGFzcz0iZ21haWxfZGVmYXVsdCI+RGVh
 ciBDb2xsZWFndWVzLCA8YnI+PGJyPlBsZWFzZSBmaW5kIGluIGF0dGFjaG1lbnQgYSBDYWxsIGZv
 ciBQYXBlcnMg4oCLZm9yIHRoZSAzcmQgSW50LiBXb3Jrc2hvcCBvbiBTZW1hbnRpYyBXZWIgZm9y
@@ -186,7 +221,8 @@ aGlhIEFudGlwb2xpczxicj4KQWxleGFuZHJlIE1vbm5pbiwgSW5yaWE8YnI+CkFybmF1ZCBadWNr
 ZXIsIFVuaXYuIE5pY2UgU29waGlhIEFudGlwb2xpczxicj4KPGJyPgpDb250YWN0Ojxicj4KRm9y
 IGFueSBxdWVzdGlvbiwgcGxlYXNlIGNvbnRhY3QgdGhlIG9yZ2FuaXNlcnMgdmlhIGVtYWlsOiA8
 YSBocmVmPSJtYWlsdG86c3c0c2gyMDE3QGVhc3ljaGFpci5vcmciPnN3NHNoMjAxN0BlYXN5Y2hh
-aXIub3JnPC9hPjxicj48L2Rpdj48YnI+PC9kaXY+Cg==KiogYXBvbG9naWVzIGZvciBjcm9zcy1wb3N0aW5nICoqDQoNCjNyZCBJbnQuIFdvcmtzaG9wIG9u
+aXIub3JnPC9hPjxicj48L2Rpdj48YnI+PC9kaXY+Cg
+KiogYXBvbG9naWVzIGZvciBjcm9zcy1wb3N0aW5nICoqDQoNCjNyZCBJbnQuIFdvcmtzaG9wIG9u
 IFNlbWFudGljIFdlYiBmb3IgU2NpZW50aWZpYyBIZXJpdGFnZSBTVzRTSCAyMDE3LCBpbiBjb25q
 dW5jdGlvbiB3aXRoIEVTV0MgMjAxNw0KDQpodHRwOi8vd3d3LmNlcGFtLmNucnMuZnIvem9vbWF0
 aGlhL3N3NHNoLw0KDQpJbXBvcnRhbnQgZGF0ZXM6DQotIE1hcmNoIDMsIDIwMTc6IFBhcGVyIHN1
@@ -280,4 +316,5 @@ b3Agb3JnYW5pemVyczoNCklzYWJlbGxlIERyYWVsYW50cywgQ05SUywgSVJIVA0KQ2F0aGVyaW5l
 IEZhcm9uIFp1Y2tlciwgVW5pdi4gTmljZSBTb3BoaWEgQW50aXBvbGlzDQpBbGV4YW5kcmUgTW9u
 bmluLCBJbnJpYQ0KQXJuYXVkIFp1Y2tlciwgVW5pdi4gTmljZSBTb3BoaWEgQW50aXBvbGlzDQoN
 CkNvbnRhY3Q6DQpGb3IgYW55IHF1ZXN0aW9uLCBwbGVhc2UgY29udGFjdCB0aGUgb3JnYW5pc2Vy
-cyB2aWEgZW1haWw6IHN3NHNoMjAxN0BlYXN5Y2hhaXIub3Jn
+cyB2aWEgZW1haWw6IHN3NHNoMjAxN0BlYXN5Y2hhaXIub3Jn
+

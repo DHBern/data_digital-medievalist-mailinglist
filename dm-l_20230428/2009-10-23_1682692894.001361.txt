@@ -1,21 +1,42 @@
-Subject: [dm-l] Encoding and analysis of phonemic informationHi all,
+Subject: [dm-l] Encoding and analysis of phonemic information
+
+Hi all,
 has anyone experience about how to use TEI to encode phonemic (and
 possibly phonetic) information in a text transcription? Also I would
 love to hear from people not using TEI for this purpose, I know there
 exist several software suitable for text analysis and classification
 (f.i. I've been pointed to this one:
-http://www.cs.waikato.ac.nz/~ml/weka/).A couple of examples:1. fallan
+http://www.cs.waikato.ac.nz/~ml/weka/).
+
+A couple of examples:
+
+1. fallan
 I would like to mark the first 'a' in OE fallan as an /a/ and assign it
-to the OAngl dialect.2. giong, geong, gong
+to the OAngl dialect.
+
+2. giong, geong, gong
 These are all graphical variants of an initial /jo/ diphtong, with
 geo- and gio- being graphical conventions to point to a palatal
-pronunciation of initial g.After the encoding is done the goal is to recover statistical
+pronunciation of initial g.
+
+After the encoding is done the goal is to recover statistical
 information (via XSLT or specific sw analysis) about the percentages of
 dialect tracts in a text, so to draw conclusions about its origin, date,
-etc.Thanks in advance.	RRDT-- Roberto Rosselli Del Turco      roberto.rossellidelturco at unito.it
+etc.
+
+Thanks in advance.
+
+	RRDT
+
+-- 
+
+Roberto Rosselli Del Turco      roberto.rossellidelturco at unito.it
 Dipartimento di Scienze         rosselli at ling.unipi.it
 del Linguaggio                  Then spoke the thunder  DA
 Universita' di Torino           Datta: what have we given?  (TSE)
  
   Hige sceal the heardra,     heorte the cenre,
-  mod sceal the mare,       the ure maegen litlath.  (Maldon 312-3)
+  mod sceal the mare,       the ure maegen litlath.  (Maldon 312-3)
+
+
+

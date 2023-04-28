@@ -1,43 +1,44 @@
-Subject: [dm-l] Balisage Symposium on Cultural Heritage Markup ProgramI am very pleased to announce that the program for the Symposium on Cultural =
-Heritage Markup is now available: http://balisage.net/CulturalHeritage/sympos=
-iumProgram.html <http://balisage.net/CulturalHeritage/symposiumProgram.html>(=
-the symposium will be followed by Balisage: The Markup Conference 2015 http:/=
-/balisage.net/ <http://balisage.net/>)All of the talks in some way address and grapple with the complexity of Cultu=
-ral Heritage materials and the difficulties involved in applying standard mar=
-kup solutions to them. A further call for short presentations meant to kick o=
-ff long discussions will be forthcoming, so please be on the lookout!Topics include:=20
+Subject: [dm-l] Balisage Symposium on Cultural Heritage Markup Program
+
+I am very pleased to announce that the program for the Symposium on Cultural Heritage Markup is now available: http://balisage.net/CulturalHeritage/symposiumProgram.html <http://balisage.net/CulturalHeritage/symposiumProgram.html>(the symposium will be followed by Balisage: The Markup Conference 2015 http://balisage.net/ <http://balisage.net/>)
+
+All of the talks in some way address and grapple with the complexity of Cultural Heritage materials and the difficulties involved in applying standard markup solutions to them. A further call for short presentations meant to kick off long discussions will be forthcoming, so please be on the lookout!
+
+Topics include: 
 - dealing with document fragments and fragmentary annotations
 - aligning text to images and the character level
 - interoperable cross-references using TEI
 - converting metadata from legacy formats to web formats
-- representing and storing metadata for long-term useSymposium Logistics:=20
+- representing and storing metadata for long-term use
+
+Symposium Logistics: 
 - When: 10 August 2015
 - Where: Bethesda North Marriott Hotel & Conference Center
      (Bethesda, Maryland, a suburb of Washington, DC)
-- More Info: http://balisage.net/CulturalHeritage/index.html <http://balisage=
-.net/CulturalHeritage/index.html>
-- Program: http://balisage.net/CulturalHeritage/symposiumProgram.html <http:/=
-/balisage.net/CulturalHeritage/symposiumProgram.html>
-- Registration: http://balisage.net/registration.html <http://balisage.net/re=
-gistration.html>
-_redacted_(a)balisage.net>=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
-=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
-=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
-_redacted_(a)balisage.net <mai=
+- More Info: http://balisage.net/CulturalHeritage/index.html <http://balisage.net/CulturalHeritage/index.html>
+- Program: http://balisage.net/CulturalHeritage/symposiumProgram.html <http://balisage.net/CulturalHeritage/symposiumProgram.html>
+- Registration: http://balisage.net/registration.html <http://balisage.net/registration.html>
 _redacted_(a)balisage.net>
-August 11-14, 2015                               http://www.balisage.net <htt=
-p://www.balisage.net/>
+
+======================================================================
+_redacted_(a)balisage.net <mai_redacted_(a)balisage.net>
+August 11-14, 2015                               http://www.balisage.net <http://www.balisage.net/>
 Preconference Symposium: August 10, 2015                +1 301 315 9631
-=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
-=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
-=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+======================================================================
+
 /**
  *  Hugh A. Cayless, Ph.D
- *  Chair, TEI Technical Council=20
+ *  Chair, TEI Technical Council 
  *  Duke Collaboratory for Classics Computing (DC3)
 _redacted_(a)duke.edu
  *  http://blogs.library.duke.edu/dcthree/
-**/PGh0bWw+PGhlYWQ+PG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0
+**/
+
+
+
+
+
+PGh0bWw+PGhlYWQ+PG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0
 L2h0bWwgY2hhcnNldD11cy1hc2NpaSI+PC9oZWFkPjxib2R5IHN0eWxlPSJ3b3JkLXdyYXA6IGJy
 ZWFrLXdvcmQ7IC13ZWJraXQtbmJzcC1tb2RlOiBzcGFjZTsgLXdlYmtpdC1saW5lLWJyZWFrOiBh
 ZnRlci13aGl0ZS1zcGFjZTsiIGNsYXNzPSIiPjxkaXYgY2xhc3M9IiI+SSBhbSB2ZXJ5IHBsZWFz
@@ -115,4 +116,4 @@ ZWY9Im1haWx0bzpodWdoLmNheWxlc3NAZHVrZS5lZHUiIGNsYXNzPSIiPmh1Z2guY2F5bGVzc0Bk
 dWtlLmVkdTwvYT48YnIgY2xhc3M9IiI+Jm5ic3A7KiAmbmJzcDs8YSBocmVmPSJodHRwOi8vYmxv
 Z3MubGlicmFyeS5kdWtlLmVkdS9kY3RocmVlLyIgY2xhc3M9IiI+aHR0cDovL2Jsb2dzLmxpYnJh
 cnkuZHVrZS5lZHUvZGN0aHJlZS88L2E+PGJyIGNsYXNzPSIiPioqLzxiciBjbGFzcz0iIj48YnIg
-Y2xhc3M9IiI+PC9kaXY+CjwvZGl2Pgo8YnIgY2xhc3M9IiI+PC9ib2R5PjwvaHRtbD4=
+Y2xhc3M9IiI+PC9kaXY+CjwvZGl2Pgo8YnIgY2xhc3M9IiI+PC9ib2R5PjwvaHRtbD4

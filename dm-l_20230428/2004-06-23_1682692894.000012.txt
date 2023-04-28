@@ -1,21 +1,39 @@
-Subject: Re: [dm-l] Re: Experience using Microsoft's XSLT?On Wed, 23 Jun 2004, Lou Burnard wrote:> Peter, darling, you are talking nonsense. If you want a system based on
+Subject: Re: [dm-l] Re: Experience using Microsoft's XSLT?
+
+On Wed, 23 Jun 2004, Lou Burnard wrote:
+
+> Peter, darling, you are talking nonsense. If you want a system based on
 > words, mark up the words and XSLT will cope very well. (Yes, people do
 > it: cf the BNC and many others). Likewise, if you want a system in which
 > physical hierarchies matter, reflect that in your markup system.
 >
 > There are no good or bad programming languages: just good or bad
-> programmers. And designers.This may be a germane time to mention the lovely demo of an
+> programmers. And designers.
+
+This may be a germane time to mention the lovely demo of an
 implementation of XML For Overlapping Structures I saw at the
-ALLC-ACH.  The abstract for the paper is here:http://www.hum.gu.se/allcach2004/AP/html/prop104.htmlAlthough it is using a non XML data model (LMNL) it was
+ALLC-ACH.  The abstract for the paper is here:
+
+http://www.hum.gu.se/allcach2004/AP/html/prop104.html
+
+Although it is using a non XML data model (LMNL) it was
 able to produce well-formed XML.  The demo involved a java
 client highlighting from one random bit of xml to another
 random bit of xml and providing an annotation, and then
 overlapping part of this annotation with another one, etc.
 (Sounds like a good teaching tool frankly, mark students
-on their annotations, without them needing to know XML).The resulting XML followed a milestone principle, but used
-child elements in the 'start' tag to contain the annotation.Not exactly the issue Peter and Lou are debating but
-might make interesting reading for a related issue.-James
+on their annotations, without them needing to know XML).
+
+The resulting XML followed a milestone principle, but used
+child elements in the 'start' tag to contain the annotation.
+
+Not exactly the issue Peter and Lou are debating but
+might make interesting reading for a related issue.
+
+-James
 ---
 Dr James Cummings, Oxford Text Archive, University of Oxford
-James dot Cummings at ota dot ahds dot ac dot uk
---===============6213687412855093383==--
+James dot Cummings at ota dot ahds dot ac dot uk
+
+--6213687412855093383-
+

@@ -1,11 +1,17 @@
-Subject: Re: [dm-l] numbering linesI have a Perl script that will assign absolute line numbers, and it 
+Subject: Re: [dm-l] numbering lines
+
+I have a Perl script that will assign absolute line numbers, and it 
 can be tweaked not to assign line numbers to ascii lines beginning 
 with <milestone, <lg, <fw, <marginalia, etc.  One can supply the </l> 
 by a search/replace operation, or you could use another Perl script 
 to assign </l>.  I'll be glad to supply these scripts if something 
 more useful is not generally available.
 Best,
-DugAt 06:14 PM 11/14/2006, you wrote:
+Dug
+
+
+
+At 06:14 PM 11/14/2006, you wrote:
 >No answer, I'm afraid, but let me ask that we share the answer to this
 >with the list (and the wiki). This is exactly the type of thing we can
 >use!
@@ -76,5 +82,9 @@ _redacted_(a)uleth.ca
 _redacted_(a)uleth.ca
 >dm-l mailing list
 _redacted_(a)uleth.ca
->http://listserv.uleth.ca/mailman/listinfo/dm-l
---===============8544845332572651907==--
+>http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+
+
+--8544845332572651907-
+

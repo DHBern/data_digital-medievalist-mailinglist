@@ -1,18 +1,21 @@
-Subject: [dm-l] Release of BFM2022 Corpus
-[Apologies for cross-posting]Dear colleagues,We are delighted to announce that the BFM2022 corpus of Old and Middle
+Subject: [dm-l] Release of BFM2022 Corpus
+
+[Apologies for cross-posting]
+
+Dear colleagues,
+
+We are delighted to announce that the BFM2022 corpus of Old and Middle
 French (9th to 15th centuries) is now available from the web portal of
-the Base de Fran=C3=A7ais M=C3=A9di=C3=A9val at
-https://txm-bfm.huma-num.fr/txm/?command=3Ddocumentation&path=3D/BFM2022.
-The Base de Fran=C3=A7ais M=C3=A9di=C3=A9val provides free access to several =
-corpora
+the Base de Français Médiéval at
+https://txm-bfm.huma-num.fr/txm/?command=documentation&path=/BFM2022.
+The Base de Français Médiéval provides free access to several corpora
 (source texts and digital annotation) under a French public open data
 license (https://www.etalab.gouv.fr/licence-ouverte-open-licence). Three
 modes of access are supported :
-     =E2=80=A2 search, analysis and reading tools provided by the TXM-BFM web
+     • search, analysis and reading tools provided by the TXM-BFM web
 portal;
-     =E2=80=A2 download a binary corpus file for use with TXM local applicati=
-on;
-     =E2=80=A2 download TEI XML source files from NAKALA repository:
+     • download a binary corpus file for use with TXM local application;
+     • download TEI XML source files from NAKALA repository:
 https://nakala.fr/collection/10.34847/nkl.93ee3ts1.
 The BFM portal is now hosted by the Huma-Num infrastructure which
 provides a secure connection for user data.
@@ -23,8 +26,7 @@ automatically pos-tagged and lemmatized. The POS tags have been manually
 verified in 8 new texts (46 total, approximately 1,000,000 words), and
 the lemmatization has been verified and disambiguated in 27 texts
 (aproximately 620,000 words). An original digital edition of Psautier
-d=E2=80=99Arundel by C. Pignatelli is one of the new texts included in the co=
-rpus.
+d’Arundel by C. Pignatelli is one of the new texts included in the corpus.
 As well as BFM2022, a syntactically annotated corpus PROFITEROLE-V1-0 is
 now  available from the BFM web portal. Produced by the ANR funded
 PROFITEROLE Project
@@ -35,7 +37,12 @@ We will appreciate any feedback on technical issues or errors in texts
 you may encounter while using the BFM.
 Best regards,
 The BFM Team
-bfm [at] ens-lyon [dot] fr--
+bfm [at] ens-lyon [dot] fr
+
+--
 Alexey Lavrentev
-Ing=C3=A9nieur de recherche
-UMR 5317 IHRIM, CNRS
+Ingénieur de recherche
+UMR 5317 IHRIM, CNRS
+
+
+

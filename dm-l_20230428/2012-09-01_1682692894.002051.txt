@@ -1,90 +1,70 @@
-Subject: [dm-l] Humanities Hackathon on editing Athenaeus and on theHi All,Apologies for cross-postings.I am very pleased to send you the RFP of "The Banquet of the Digital Scholars=
-", a humanities hackathon on editing Athenaeus and on the reinvention of the =
-edition in a digital space, which will be held at the University of Leipzig o=
-n October 10-12, 2012.
-For further details, please visit http://www.e-humanities.net/events/athenaeu=
-s-hackathon.htmlAll the best,
-Monica Berti____________________________The Banquet of the Digital Scholars.
-Humanities Hackathon on editing Athenaeus and on the Reinvention of the Editi=
-on in a Digital Space
+Subject: [dm-l] Humanities Hackathon on editing Athenaeus and on the
+
+Hi All,
+
+Apologies for cross-postings.
+
+I am very pleased to send you the RFP of "The Banquet of the Digital Scholars", a humanities hackathon on editing Athenaeus and on the reinvention of the edition in a digital space, which will be held at the University of Leipzig on October 10-12, 2012.
+For further details, please visit http://www.e-humanities.net/events/athenaeus-hackathon.html
+
+All the best,
+Monica Berti
+
+____________________________
+
+The Banquet of the Digital Scholars.
+Humanities Hackathon on editing Athenaeus and on the Reinvention of the Edition in a Digital Space
 October 10-12, 2012
-Universit=C3=A4t Leipzig (ULEI) & Deutsches Arch=C3=A4ologisches Institut (DA=
-I) BerlinCo-directors: Monica Berti - Marco B=C3=BCchler - Gregory Crane - Bridget Alm=
-asThe University of Leipzig will host a hackathon that addresses two basic task=
-s. On the one hand, we will focus upon the challenges of creating a digital e=
-dition for the Greek author Athenaeus, whose work cites more than a thousand =
-earlier sources and is one of the major sources for lost works of Greek poetr=
-y and prose. At the same time, we use the case Athenaeus to develop our under=
-standing of to organize a truly born-digital edition, one that not only inclu=
-des machine actionable citations and variant readings but also collations of =
-multiple print editions, metrical analyses, named entity identification, ling=
-uistic features such as morphology, syntax, word sense, and co-reference anal=
-ysis, and alignment between the Greek original and one or more later translat=
-ions.Request for Proposal=20Program
+Universität Leipzig (ULEI) & Deutsches Archäologisches Institut (DAI) Berlin
+
+Co-directors: Monica Berti - Marco Büchler - Gregory Crane - Bridget Almas
+
+The University of Leipzig will host a hackathon that addresses two basic tasks. On the one hand, we will focus upon the challenges of creating a digital edition for the Greek author Athenaeus, whose work cites more than a thousand earlier sources and is one of the major sources for lost works of Greek poetry and prose. At the same time, we use the case Athenaeus to develop our understanding of to organize a truly born-digital edition, one that not only includes machine actionable citations and variant readings but also collations of multiple print editions, metrical analyses, named entity identification, linguistic features such as morphology, syntax, word sense, and co-reference analysis, and alignment between the Greek original and one or more later translations.
+
+Request for Proposal 
+
+Program
 2 days: hands-on hackathon
-1 day: eTRACES techniques (Usage of the Text re-use Webdebugger and the annot=
-ation framework for text re-use)Registration Deadline
-September 30, 2012Requirements / Who should applyTEI XML competence is prerequisite. Participants can establish this by going =
-through http://balmas.github.com/tei-digital-age/
+1 day: eTRACES techniques (Usage of the Text re-use Webdebugger and the annotation framework for text re-use)
+
+Registration Deadline
+September 30, 2012
+
+Requirements / Who should apply
+
+TEI XML competence is prerequisite. Participants can establish this by going through http://balmas.github.com/tei-digital-age/
 Language skills in ancient Greek
 maximum 25 students
 How to apply
-Please visit www.e-humanities.netContact address
-_redacted_(a)e-humanities.netOverview
-The Deipnosophists (=CE=94=CE=B5=CE=B9=CF=80=CE=BD=CE=BF=CF=83=CE=BF=CF=86=CE=
-=B9=CF=83=CF=84=CE=B1=CE=AF, or =E2=80=9CBanquet of the Sophists=E2=80=9D) by=
- Athenaeus of Naucratis is a 3rd century AD fictitious account of several ban=
-quet conversations on food, literature, and arts held in Rome by twenty-two l=
-earned men. This complex and fascinating work is not only an erudite and lite=
-rary encyclopedia of a myriad of curiosities about classical antiquity, but a=
-lso an invaluable collection of quotations and text re-uses of ancient author=
-s, ranging from Homer to tragic and comic poets and lost historians. Since th=
-e large majority of the works cited by Athenaeus is nowadays lost, this compi=
-lation is a sort of reference tool for every scholar of Greek theater, poetry=
-, historiography, botany, zoology, and many other topics.Athenaeus=E2=80=99 work is a mine of thousands of quotations, but we still la=
-ck a comprehensive survey of its sources. The aim of this =E2=80=9Chumanities=
- hackathon=E2=80=9D is to provide a case study for drawing a spectrum of quot=
-ing habits of classical authors and their attitude to text reuse. Athenaeus, =
-in fact, shapes a library of forgotten authors, which goes beyond the limits =
-of a physical building and becomes an intellectual space of human knowledge. =
-By doing so, he is both a witness of the Hellenistic bibliographical methods =
-and a forerunner of the modern concept of hypertext, where sequential reading=
- is substituted by hierarchical and logical connections among words and fragm=
-ents of texts. Quantity, variety, and precision of Athenaeus=E2=80=99 citatio=
-ns make the Deipnosophists an excellent training ground for the development o=
-f a digital system of reference linking for primary sources. Athenaeus=E2=80=
-_redacted_(a) the name of the author with additional inf=
-ormation like ethnic origin and literary category, (b) the title of the work,=
- and (c) the book number (e.g., Deipn. 2.71b). He often remembers the amount =
-of papyrus scrolls of huge works (e.g., 6.229d-e; 6.249a), while distinguishi=
-ng various editions of the same comedy (e.g., 1.29a; 4.171c; 6.247c; 7.299b; =
-9.367f) and different titles of the same work (e.g., 1.4e).He also adds biographical information to identify homonymous authors and clas=
-sify them according to literary genres, intellectual disciplines and schools =
-(e.g., 1.13b; 6.234f; 9.387b). He provides chronological and historical indic=
-ations to date authors (e.g., 10.453c; 13.599c), and he often copies the firs=
-t lines of a work following a method that probably goes back to the Pinakes o=
-f Callimachus (e.g., 1.4e; 3.85f; 8.342d; 5.209f; 13.573f-574a).Last but not least, the study of Athenaeus=E2=80=99 =E2=80=9Ccitation system=
-=E2=80=9D is also a great methodological contribution to the domain of =E2=80=
-=9Cfragmentary literature=E2=80=9D, since one of the main concerns of this fi=
-eld is the relation between the fragment (quotation) and its context of trans=
-mission. Having this goal in mind, the textual analysis of the Deipnosophists=
- will make possible to enumerate a series of recurring patterns, which includ=
-e a wide typology of textual reproductions and linguistic features helpful to=
- identify and classify hidden quotations of lost authors.Goals
-This humanities hackathon is meant as a mini-course for training participants=
- in editing Athenaeus=E2=80=99 work and his quotations, focusing on these top=
-ics:marking up quotations and text re-uses in Athenaeus
-annotating syntax and aligning translation of Athenaeus=E2=80=99 text
-using Athenaeus as a way to demonstrate the new Perseus SoSOL (http://sosol.p=
-erseus.tufts.edu/sosol/)
-Greek OCR on Athenaeus=E2=80=99 editions
-identifying and investigating quotations and text re-uses of Homer and Plato =
-by Athenaeus
-comparing the ways in which Athenaeus and Plutarch quotes Homer and Plato; th=
-e goal is to use the computer to investigate how stable is an author=E2=80=99=
-s re-use style in different sources
+Please visit www.e-humanities.net
+
+Contact address
+_redacted_(a)e-humanities.net
+
+Overview
+The Deipnosophists (Δειπνοσοφισταί, or “Banquet of the Sophists”) by Athenaeus of Naucratis is a 3rd century AD fictitious account of several banquet conversations on food, literature, and arts held in Rome by twenty-two learned men. This complex and fascinating work is not only an erudite and literary encyclopedia of a myriad of curiosities about classical antiquity, but also an invaluable collection of quotations and text re-uses of ancient authors, ranging from Homer to tragic and comic poets and lost historians. Since the large majority of the works cited by Athenaeus is nowadays lost, this compilation is a sort of reference tool for every scholar of Greek theater, poetry, historiography, botany, zoology, and many other topics.
+
+Athenaeus’ work is a mine of thousands of quotations, but we still lack a comprehensive survey of its sources. The aim of this “humanities hackathon” is to provide a case study for drawing a spectrum of quoting habits of classical authors and their attitude to text reuse. Athenaeus, in fact, shapes a library of forgotten authors, which goes beyond the limits of a physical building and becomes an intellectual space of human knowledge. By doing so, he is both a witness of the Hellenistic bibliographical methods and a forerunner of the modern concept of hypertext, where sequential reading is substituted by hierarchical and logical connections among words and fragments of texts. Quantity, variety, and precision of Athenaeus’ citations make the Deipnosophists an excellent training ground for the development of a digital system of reference linking for primary sources. Athenaeus�_redacted_(a) the name of the author with additional information like ethnic origin and literary category, (b) the title of the work, and (c) the book number (e.g., Deipn. 2.71b). He often remembers the amount of papyrus scrolls of huge works (e.g., 6.229d-e; 6.249a), while distinguishing various editions of the same comedy (e.g., 1.29a; 4.171c; 6.247c; 7.299b; 9.367f) and different titles of the same work (e.g., 1.4e).
+
+He also adds biographical information to identify homonymous authors and classify them according to literary genres, intellectual disciplines and schools (e.g., 1.13b; 6.234f; 9.387b). He provides chronological and historical indications to date authors (e.g., 10.453c; 13.599c), and he often copies the first lines of a work following a method that probably goes back to the Pinakes of Callimachus (e.g., 1.4e; 3.85f; 8.342d; 5.209f; 13.573f-574a).
+
+Last but not least, the study of Athenaeus’ “citation system” is also a great methodological contribution to the domain of “fragmentary literature”, since one of the main concerns of this field is the relation between the fragment (quotation) and its context of transmission. Having this goal in mind, the textual analysis of the Deipnosophists will make possible to enumerate a series of recurring patterns, which include a wide typology of textual reproductions and linguistic features helpful to identify and classify hidden quotations of lost authors.
+
+Goals
+This humanities hackathon is meant as a mini-course for training participants in editing Athenaeus’ work and his quotations, focusing on these topics:
+
+marking up quotations and text re-uses in Athenaeus
+annotating syntax and aligning translation of Athenaeus’ text
+using Athenaeus as a way to demonstrate the new Perseus SoSOL (http://sosol.perseus.tufts.edu/sosol/)
+Greek OCR on Athenaeus’ editions
+identifying and investigating quotations and text re-uses of Homer and Plato by Athenaeus
+comparing the ways in which Athenaeus and Plutarch quotes Homer and Plato; the goal is to use the computer to investigate how stable is an author’s re-use style in different sources
 results of this Hackathon will be made publicly available under CC licence
-_redacted_(a)e-humanities.netPGh0bWw+PGhlYWQ+PG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0
+_redacted_(a)e-humanities.net
+
+
+
+PGh0bWw+PGhlYWQ+PG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0
 L2h0bWwgY2hhcnNldD11dGYtOCI+PC9oZWFkPjxib2R5IHN0eWxlPSJ3b3JkLXdyYXA6IGJyZWFr
 LXdvcmQ7IC13ZWJraXQtbmJzcC1tb2RlOiBzcGFjZTsgLXdlYmtpdC1saW5lLWJyZWFrOiBhZnRl
 ci13aGl0ZS1zcGFjZTsgIj5IaSBBbGwsPGRpdj48YnI+PC9kaXY+PGRpdj5BcG9sb2dpZXMgZm9y
@@ -239,4 +219,5 @@ dmFpbGFibGUgdW5kZXIgQ0MgbGljZW5jZTwvZm9udD48L2xpPjwvdWw+PHA+PGZvbnQgZmFjZT0i
 YXJpYWwsIHNhbnMtc2VyaWYiPkFwcGxpY2F0aW9ucyBzaG91bGQgYmUgc2VudCB0byZuYnNwOzxh
 IGhyZWY9Im1haWx0bzpoYWNrYXRob25AZS1odW1hbml0aWVzLm5ldCIgZGF0YS1tY2UtaHJlZj0i
 bWFpbHRvOmhhY2thdGhvbkBlLWh1bWFuaXRpZXMubmV0Ij5oYWNrYXRob25AZS1odW1hbml0aWVz
-Lm5ldDwvYT48L2ZvbnQ+PC9wPjwvZGl2PjwvZGl2PjwvZGl2PjwvYm9keT48L2h0bWw+
+Lm5ldDwvYT48L2ZvbnQ+PC9wPjwvZGl2PjwvZGl2PjwvZGl2PjwvYm9keT48L2h0bWw+
+

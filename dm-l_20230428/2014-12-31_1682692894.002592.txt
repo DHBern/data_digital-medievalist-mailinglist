@@ -1,4 +1,6 @@
-Subject: Re: [dm-l] [Technical]: Suggestions for a replacement for	Subversion?Project and individual preferences are pretty much what drives us to use
+Subject: Re: [dm-l] [Technical]: Suggestions for a replacement for	Subversion?
+
+Project and individual preferences are pretty much what drives us to use
 various version control systems. Mercurial and Git are similar, but I
 prefer Git because I use it daily and the people I collaborate with use it.
 I've seen companies use both systems, and Google has built their own
@@ -7,10 +9,16 @@ projects. The point I was trying to make was to use a version control
 system that works well for code. I don't think it matters which one, but as
 long as there is one that does a good job, that's what matters. Whether you
 use Git or Mercurial shouldn't matter. They are both better than Dropbox or
-Google Drive for code.However, I think that Dan was just asking about using something that is
+Google Drive for code.
+
+However, I think that Dan was just asking about using something that is
 easy to use with a high turnover of students. I'd suggest using Google
 Drive because you can modify and store all of your documents online and
-will be able to do everything in the browser._redacted_(a)mimuw.edu.pl> wrote:_redacted_(a)durham.ac.uk> (Tue 30 Dec
+will be able to do everything in the browser.
+
+_redacted_(a)mimuw.edu.pl> wrote:
+
+_redacted_(a)durham.ac.uk> (Tue 30 Dec
 > 2014 09:52:11 PM CET):
 >
 >  Learning how
@@ -43,10 +51,14 @@ _redacted_(a)mimuw.edu.pl, http://fleksem.klf.uw.edu.pl/~
 > News: http://www.digitalmedievalist.org/news/
 > Wiki: http://www.digitalmedievalist.org/wiki/
 > Twitter: http://twitter.com/digitalmedieval
-> Facebook: http://www.facebook.com/group.php?gid=49320313760
+> Facebook: http://www.facebook.com/group.php?gidI320313760
 _redacted_(a)uleth.ca
 > Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
->PGRpdiBkaXI9Imx0ciI+UHJvamVjdCBhbmQgaW5kaXZpZHVhbCBwcmVmZXJlbmNlcyBhcmUgcHJl
+>
+
+
+
+PGRpdiBkaXI9Imx0ciI+UHJvamVjdCBhbmQgaW5kaXZpZHVhbCBwcmVmZXJlbmNlcyBhcmUgcHJl
 dHR5IG11Y2ggd2hhdCBkcml2ZXMgdXMgdG8gdXNlIHZhcmlvdXMgdmVyc2lvbiBjb250cm9sIHN5
 c3RlbXMuIE1lcmN1cmlhbCBhbmQgR2l0IGFyZSBzaW1pbGFyLCBidXQgSSBwcmVmZXIgR2l0IGJl
 Y2F1c2UgSSB1c2UgaXQgZGFpbHkgYW5kIHRoZSBwZW9wbGUgSSBjb2xsYWJvcmF0ZSB3aXRoIHVz
@@ -117,4 +129,4 @@ OmRtLWxAdWxldGguY2EiIHRhcmdldD0iX2JsYW5rIj5kbS1sQHVsZXRoLmNhPC9hPjxicj4KQ2hh
 bmdlIGxpc3Qgb3B0aW9uczogPGEgaHJlZj0iaHR0cDovL2xpc3RzZXJ2LnVsZXRoLmNhL21haWxt
 YW4vbGlzdGluZm8vZG0tbCIgdGFyZ2V0PSJfYmxhbmsiPmh0dHA6Ly9saXN0c2Vydi51bGV0aC5j
 YS88dT48L3U+bWFpbG1hbi9saXN0aW5mby9kbS1sPC9hPjwvZGl2PjwvZGl2PjwvYmxvY2txdW90
-ZT48L2Rpdj48YnI+PC9kaXY+Cg==
+ZT48L2Rpdj48YnI+PC9kaXY+Cg

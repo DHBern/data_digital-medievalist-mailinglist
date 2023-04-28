@@ -1,8 +1,16 @@
-Subject: [dm-l] Digitizing and Encoding Seals: SigiDoc and RTI-Dome in action*apologies for cross-posting*Venice Centre for Digital and Public Humanities (VeDPH), Department of
-Humanities, Ca' Foscari University of Venice, January 20-21, 2020We invite applications for a two-day workshop in digitizing and encoding
+Subject: [dm-l] Digitizing and Encoding Seals: SigiDoc and RTI-Dome in action
+
+*apologies for cross-posting*
+
+Venice Centre for Digital and Public Humanities (VeDPH), Department of
+Humanities, Ca' Foscari University of Venice, January 20-21, 2020
+
+We invite applications for a two-day workshop in digitizing and encoding
 ancient seals, hosted by the Venice Centre for Digital and Public
 Humanities (VeDPH) at the Department for the Humanities, Ca’ Foscari
-University of Venice, January 20-21, 2020.The aim of the workshop is to present and discuss solutions, currently
+University of Venice, January 20-21, 2020.
+
+The aim of the workshop is to present and discuss solutions, currently
 under development, concerning an XML-based and TEI-compliant data model for
 the description of Byzantine seals  – and, with minor adjustments, of other
 coin-like objects, such as bread stamps, Hellenistic or Western Medieval
@@ -16,7 +24,9 @@ EFES will take place during the first half of the workshop, followed by
 hands-on training sessions on the second day. The final session of the
 workshop will be dedicated to discussing challenges and solutions to open
 issues within the development of SigiDoc, as well as the questions and
-suggestions arising from the participants.The workshop will also feature an introduction and a practical
+suggestions arising from the participants.
+
+The workshop will also feature an introduction and a practical
 demonstration of Reflectance Transformation Imaging (RTI), a cutting edge
 imaging technology especially well-suited for the digitization of seals.
 With RTI, an object is photographed multiple times with lightning from
@@ -28,29 +38,76 @@ features can be significantly improved. Participants in the RTI session
 will be introduced into the use of RTI technology, techniques and
 equipment, and their applications in sigillography. During the RTI session,
 seals and other objects (brought by the participants) will be digitised
-using a custom built RTI dome.Lessons and hands-on training will be offered by Alessio Sopracasa
+using a custom built RTI dome.
+
+Lessons and hands-on training will be offered by Alessio Sopracasa
 (Sorbonne University, Paris), Simona Stoyanova (University of Nottingham),
 Martina Filosa (University of Cologne), and Marcel Schaeben (CCeH,
-University of Cologne).To apply for a place on this workshop, please send an application to
+University of Cologne).
+
+To apply for a place on this workshop, please send an application to
 _redacted_(a)unive.it by December 27 including a brief description of your
 interest in the workshop as well as your scholarly background. Basic
 knowledge of TEI-XML as well as of Ancient/Byzantine Greek are desirable.
-Programme:Monday Jan 20th13.00    Welcome13.15    Introducing SigiDoc - A digital standard for describing seals14.15    Digitizing seals - A practical introduction to RTI15.30    Coffee Break16.00    Encoding seals - Introduction to EFES19.00    End first dayTuesday Jan 21st9.00    Indexing and authority files10.00     Coffee Break10.30    Faceted search and other features12.00    Lunch Break13.00    Hands-on training SigiDoc/EFES14.30   Evaluation of the RTI test results15.00    Coffee Break15.30    Hands-on training SigiDoc/EFES17.00    THE END*Venue:* Sala Piccola, Palazzo Malcanton Marcorà, Dorsoduro 3484/D - 30123
+Programme:
+
+Monday Jan 20th
+
+13.00    Welcome
+
+13.15    Introducing SigiDoc - A digital standard for describing seals
+
+14.15    Digitizing seals - A practical introduction to RTI
+
+15.30    Coffee Break
+
+16.00    Encoding seals - Introduction to EFES
+
+19.00    End first day
+
+Tuesday Jan 21st
+
+9.00    Indexing and authority files
+
+10.00     Coffee Break
+
+10.30    Faceted search and other features
+
+12.00    Lunch Break
+
+13.00    Hands-on training SigiDoc/EFES
+
+14.30   Evaluation of the RTI test results
+
+15.00    Coffee Break
+
+15.30    Hands-on training SigiDoc/EFES
+
+17.00    THE END
+
+*Venue:* Sala Piccola, Palazzo Malcanton Marcorà, Dorsoduro 3484/D - 30123
 Venezia
 Application deadline: *27 December 2019*
 _redacted_(a)unive.it
-More information (soon) at: https://www.unive.it/vedph
+More information (soon) at: https://www.unive.it/vedph
+
 -- 
 Simona Stoyanova
 Research Associate
 ERC project LatinNOW
 University of Nottingham
-www.latinnow.euResearch Fellow
+www.latinnow.eu
+
+Research Fellow
 Institute of Classical Studies
 University of London
 Senate House, Malet Street
 _redacted_(a)sas.ac.uk>
-Tel: +44 (0)20 7862 8724 <+44+(0)20+7862+8724>PGRpdiBkaXI9Imx0ciI+PGRpdj4qYXBvbG9naWVzIGZvciBjcm9zcy1wb3N0aW5nKjwvZGl2Pjxk
+Tel: +44 (0)20 7862 8724 <+44+(0)20+7862+8724>
+
+
+
+PGRpdiBkaXI9Imx0ciI+PGRpdj4qYXBvbG9naWVzIGZvciBjcm9zcy1wb3N0aW5nKjwvZGl2Pjxk
 aXY+PGJyPjwvZGl2PjxkaXY+PHAgZGlyPSJsdHIiIHN0eWxlPSJsaW5lLWhlaWdodDoxLjM4O21h
 cmdpbi10b3A6MTJwdDttYXJnaW4tYm90dG9tOjEycHQiIGlkPSJnbWFpbC1tXzc5MDM2MjcwNDgy
 MDI1MzM1NjZnbWFpbC1tXy00MzQzODA2Mjc1MDkwODU3NDA4Z21haWwtZG9jcy1pbnRlcm5hbC1n
@@ -444,7 +501,8 @@ PGEgaHJlZj0ibWFpbHRvOnNpbW9uYS5zdG95YW5vdmFAc2FzLmFjLnVrIiB0YXJnZXQ9Il9ibGFu
 ayI+PHNwYW4+PC9zcGFuPjwvYT48YnI+VGVsOiA8YSBocmVmPSJ0ZWw6KzQ0KygwKTIwKzc4NjIr
 ODcyNCIgdGFyZ2V0PSJfYmxhbmsiPis0NCAoMCkyMCA3ODYyIDg3MjQ8L2E+IDxicj48L2Rpdj48
 ZGl2IGRpcj0ibHRyIj48YnI+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9k
-aXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+Cg==JVBERi0xLjQNJeLjz9MNCjQgMCBvYmoNPDwvTGluZWFyaXplZCAxL0wgMjE2NDA2OC9PIDYvRSAy
+aXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+Cg
+JVBERi0xLjQNJeLjz9MNCjQgMCBvYmoNPDwvTGluZWFyaXplZCAxL0wgMjE2NDA2OC9PIDYvRSAy
 MTM3NzI0L04gMS9UIDIxNjM4NzQvSCBbIDE0NTYgMjgyXT4+DWVuZG9iag0gICAgICAgICAgICAg
 IA14cmVmDTQgNTgNMDAwMDAwMDAxNiAwMDAwMCBuDQowMDAwMDAxNzM4IDAwMDAwIG4NCjAwMDAw
 MDE4MzQgMDAwMDAgbg0KMDAwMDAwMjM4NCAwMDAwMCBuDQowMDAwMDE5ODkxIDAwMDAwIG4NCjAw
@@ -38410,4 +38468,5 @@ YXJ5IDkuOSkvVHJhcHBlZC9GYWxzZT4+DWVuZG9iag14cmVmDTAgNA0wMDAwMDAwMDAwIDY1NTM1
 IGYNCjAwMDIxMzc3MjQgMDAwMDAgbg0KMDAwMjEzNzc3NSAwMDAwMCBuDQowMDAyMTYzNjg5IDAw
 MDAwIG4NCnRyYWlsZXINPDwvU2l6ZSA0L0lEWzxBOTU4QjUwNEQxRTQ0QUUzQkYzMDAxQjYyQkM4
 QTQzNz48NzVFRENGQUYxNTUwNEYzMkI1QkYzNDkzRTU1Q0FENUY+XT4+DXN0YXJ0eHJlZg0xMTYN
-JSVFT0YN
+JSVFT0YN
+

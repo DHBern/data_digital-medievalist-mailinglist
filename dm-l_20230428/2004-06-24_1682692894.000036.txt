@@ -1,5 +1,8 @@
-Subject: Re: [dm-l] fonts
-James Cummings wrote:>So what is best? Obviously encoding your webpages as
+Subject: Re: [dm-l] fonts
+
+James Cummings wrote:
+
+>So what is best? Obviously encoding your webpages as
 >(say) UTF-8 is a good start.  Force user to download a
 >font for your site with appropriate glyphs?  Use images
 >of the glyphs instead of actual characters(*shudder*)?
@@ -14,7 +17,9 @@ Many factors may come into play in this decision, including not just
 current functionality, but (I would hope for anyone putting much time 
 and energy into a scholarly project) a plan for future accessibility of 
 the data--humanities projects have, or should have, a long time horizon 
-of usabilty, whatever the publication mode. From the latter point of view as much as or more than the former, and 
+of usabilty, whatever the publication mode.
+
+ From the latter point of view as much as or more than the former, and 
 because we are recording a variety of glyphs in our manuscript that are 
 not (currently?) in Unicode, I have taken the tack in the transcription 
 part of my current project of recording every manuscript glyph using an 
@@ -22,6 +27,15 @@ XML entity (here I simplify slightly). It's easy (here I simplify a bit
 more) to replace these entities on the fly with Unicode characters, 
 transliterations into ASCII with editorial markup, or whatever, and 
 they're reasonably convenient to deal with in writing things like search 
-routines. Make the raw file look like doggy doo-doo,  of course:             http://www.gawain-ms.caMurray McGillivray>
+routines. Make the raw file look like doggy doo-doo,  of course:
+
+             http://www.gawain-ms.ca
+
+Murray McGillivray
+
+>
 >  
->
+>
+
+
+

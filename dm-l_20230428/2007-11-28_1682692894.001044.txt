@@ -1,4 +1,6 @@
-Subject: Re: [dm-l] Bibliographical software for medievalistsAfter much struggling with BibTeX (which seems unusable to me if you
+Subject: Re: [dm-l] Bibliographical software for medievalists
+
+After much struggling with BibTeX (which seems unusable to me if you
 happen to cite non-English titles or can't use the few standard
 bibliographic styles that come with it), I've settled for Bookends. I
 agree with you that it's not perfect, but I haven't found better and
@@ -7,7 +9,11 @@ few changes in the bibliographical format(s) that you use (in the menu
 bar:  Biblio > Formats Manager > Formatting Options). The codes are
 somewhat cryptic and the manual isn't exactly helpful, but I can help
 you offlist if you need and are willing to give Bookends a second
-chance.Laurent_redacted_(a)virginia.edu> wrote:
+chance.
+
+Laurent
+
+_redacted_(a)virginia.edu> wrote:
 > I'm wondering what bibliographical software people on this list are
 > using. Last time I needed such software I used BibTeX, despite certain
 > significant lacks. Now BibLaTeX looks very good. But with my last
@@ -47,5 +53,7 @@ _redacted_(a)uleth.ca
 > dm-l mailing list
 _redacted_(a)uleth.ca
 > http://listserv.uleth.ca/mailman/listinfo/dm-l
->
---===============6282604805489852240==--
+>
+
+--6282604805489852240-
+

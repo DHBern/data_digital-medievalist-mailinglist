@@ -1,9 +1,14 @@
-Subject: [dm-l] RIDE 11 - Reviews of Tools & Environments for DigitalDear digital medievalists,
+Subject: [dm-l] RIDE 11 - Reviews of Tools & Environments for Digital
+
+Dear digital medievalists,
+
 We are happy to announce the eleventh issue of the review journal RIDE,
 which has been published since 2014 by the Institute for Documentology and
 Scholarly Editing. This issue is the first in the RIDE-series dedicated to
 “Tools and Environments for Digital Scholarly Editing”. Initiators and
-guest editors of the issue are Anna-Maria Sichani and Elena Spadini.The idea behind this new thematic focus in the RIDE-series is that software
+guest editors of the issue are Anna-Maria Sichani and Elena Spadini.
+
+The idea behind this new thematic focus in the RIDE-series is that software
 is part of the scholarly ecosystem and as such should be valued and
 reviewed. Furthermore, we hope that reviews of tools and environments can
 be useful for those involved in the creation of scholarly editions, to find
@@ -11,31 +16,60 @@ the right software for each specific need.  All reviews reflect a detailed
 catalogue of evaluation criteria (
 https://www.i-d-e.de/publikationen/weitereschriften/criteria-tools-version-1/)
 and are accompanied by a summarizing factsheet (see "Meta" rubric of each
-article).RIDE 11 issue includes five reviews in English (4) and French (1) that
+article).
+
+RIDE 11 issue includes five reviews in English (4) and French (1) that
 critically assess Tools and Environments for Digital Scholarly Editing. For
-your convenience, this is the table of contents:   -   Andrew Dunning: Reledmac. Typesetting technology-independent critical
+your convenience, this is the table of contents:
+
+   -
+
+   Andrew Dunning: Reledmac. Typesetting technology-independent critical
    editions with LaTeX, by Andrew Dunning;
    https://ride.i-d-e.de/issue-11/reledmac/
-   -   Christian Griesinger: Review of the Tübinger System von
+   -
+
+   Christian Griesinger: Review of the Tübinger System von
    Textverarbeitungs-Programmen (TUSTEP);
    https://ride.i-d-e.de/issue-11/tustep/
-   -   Elina Leblanc: Omeka Classic. Un environnement de recherche pour les
+   -
+
+   Elina Leblanc: Omeka Classic. Un environnement de recherche pour les
    éditions scientifiques numériques; https://ride.i-d-e.de/issue-11/omeka/
-   -   Andreas Mertgens: Ediarum. A toolbox for editors and developers;
+   -
+
+   Andreas Mertgens: Ediarum. A toolbox for editors and developers;
    https://ride.i-d-e.de/issue-11/ediarum/
-   -   Torsten Roeder: Juxta Web Service, LERA, and Variance Viewer. Web based
+   -
+
+   Torsten Roeder: Juxta Web Service, LERA, and Variance Viewer. Web based
    collation tools for TEI;
-   https://ride.i-d-e.de/issue-11/web-based-collation-tools/
+   https://ride.i-d-e.de/issue-11/web-based-collation-tools/
+
 All reviews can be accessed for free here:
-http://ride.i-d-e.de/issues/issue-11Enjoy the RIDE!-- Franz Fischer
+http://ride.i-d-e.de/issues/issue-11
+
+Enjoy the RIDE!
+
+
+
+-- 
+
+Franz Fischer
 Direttore, Venice Centre for Digital & Public Humanities (VeDPH)
 Dipartimento di Studi Umanistici
 Università Ca' Foscari
 Palazzo Malcanton Marcorà
-Dorsoduro 3484/D - 30123 VeneziaTel.: +39 041 234 6266 (ufficio), +39 041 234 9863 (segreteria del centro)
+Dorsoduro 3484/D - 30123 Venezia
+
+Tel.: +39 041 234 6266 (ufficio), +39 041 234 9863 (segreteria del centro)
 https://www.unive.it/vedph
 https://www.i-d-e.de/
-https://journal.digitalmedievalist.org/PGRpdiBkaXI9Imx0ciI+PHAgc3R5bGU9ImxpbmUtaGVpZ2h0OjEuMzg7bWFyZ2luLXRvcDowcHQ7
+https://journal.digitalmedievalist.org/
+
+
+
+PGRpdiBkaXI9Imx0ciI+PHAgc3R5bGU9ImxpbmUtaGVpZ2h0OjEuMzg7bWFyZ2luLXRvcDowcHQ7
 bWFyZ2luLWJvdHRvbTowcHQiPjxzcGFuIHN0eWxlPSJjb2xvcjpyZ2IoMCwwLDApO2JhY2tncm91
 bmQtY29sb3I6dHJhbnNwYXJlbnQ7Zm9udC12YXJpYW50LW51bWVyaWM6bm9ybWFsO2ZvbnQtdmFy
 aWFudC1lYXN0LWFzaWFuOm5vcm1hbDt2ZXJ0aWNhbC1hbGlnbjpiYXNlbGluZTt3aGl0ZS1zcGFj
@@ -180,4 +214,5 @@ YnI+PGEgaHJlZj0iaHR0cHM6Ly9qb3VybmFsLmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmcvIiB0YXJn
 ZXQ9Il9ibGFuayI+aHR0cHM6Ly9qb3VybmFsLmRpZ2l0YWxtZWRpZXZhbGlzdC5vcmcvPC9hPjxi
 cj48L2ZvbnQ+PC9wcmU+PGRpdj48c3Bhbj48Zm9udCBmYWNlPSJhcmlhbCwgc2Fucy1zZXJpZiI+
 PGJyPjwvZm9udD48YnI+PC9zcGFuPjwvZGl2PjxkaXY+PHNwYW4+Cjwvc3Bhbj48L2Rpdj48L2Rp
-dj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj4K
+dj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj4K
+

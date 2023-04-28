@@ -1,14 +1,20 @@
-Subject: [dm-l] Bibliographical software for medievalistsI'm wondering what bibliographical software people on this list are 
+Subject: [dm-l] Bibliographical software for medievalists
+
+I'm wondering what bibliographical software people on this list are 
 using. Last time I needed such software I used BibTeX, despite certain 
 significant lacks. Now BibLaTeX looks very good. But with my last 
 venture my publisher got kinda cranky about getting files in LaTeX, so 
-I'm hesitant to go that route again.I've been using the Mellel word processor because of its nice 
+I'm hesitant to go that route again.
+
+I've been using the Mellel word processor because of its nice 
 typography, sensibly structured files and pleasant interface. I got 
 Bookends to go with it for bibliographical management, but I find it 
 shockingly bad--introducing stray commas in bib entries and doing crazy 
 stuff like rendering authors' names as "Smith, John" but editors' names 
 (when there is no author) as "John Smith." Unless I just haven't figured 
-out how to use it, I think it quite unusable.So: what are the tech-savvy people on this list doing about 
+out how to use it, I think it quite unusable.
+
+So: what are the tech-savvy people on this list doing about 
 bibliographical management? As medievalists we need software that 
 handles edited books (with or without authors' names) gracefully, can 
 handle translations, and can help with the complicated bibliographical 
@@ -16,4 +22,9 @@ situations we sometimes face in series like CCSL. It would be nice if it
 could produce a two-part bibliography ("primary works"/"secondary 
 works"). For my own purposes, it would be nice if it ran on both the Mac 
 and Linux, but I'd settle for Mac-only software if it would just work 
-properly.Peter Baker
+properly.
+
+Peter Baker
+
+
+

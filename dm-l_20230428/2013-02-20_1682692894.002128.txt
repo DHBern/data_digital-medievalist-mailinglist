@@ -1,25 +1,44 @@
-Subject: [dm-l] 2013 Annual Conference and =?utf-8?q?Members=E2=80=99?=Call for Workshops and TutorialsThe Linked TEI: Text Encoding in the Web2013 Annual Conference and Members’ Meeting of the TEI Consortium
+Subject: [dm-l] 2013 Annual Conference and tf-8?q?Members’?
+Call for Workshops and Tutorials
+
+The Linked TEI: Text Encoding in the Web
+
+2013 Annual Conference and Members’ Meeting of the TEI Consortium
 2-5 October 2013
-Università La Sapienza, Rome, Italy* Deadline for submissions: March 31, 2013
-* Workshop dates: 30 September - 2 October 2012Conference website: http://digilab2.let.uniroma1.it/teiconf2013/The Programme Committee of the 2013 Annual Conference and Members
+Università La Sapienza, Rome, Italy
+
+* Deadline for submissions: March 31, 2013
+* Workshop dates: 30 September - 2 October 2012
+
+Conference website: http://digilab2.let.uniroma1.it/teiconf2013/
+
+The Programme Committee of the 2013 Annual Conference and Members
 Meeting of the Text Encoding Initiative (TEI – http://www.tei-c.org)
 Consortium invites proposals for educational tutorials or workshops to
-precede the conference.The goal of the tutorials is to give an opportunity to learn more
+precede the conference.
+
+The goal of the tutorials is to give an opportunity to learn more
 about the use of TEI markup under the guidance of experienced
 instructors and practitioners, whereas workshops are an opportunity
 for specific groups to meet and work together on a TEI related
-subject.Workshops and tutorials range in length from a single morning or
+subject.
+
+Workshops and tutorials range in length from a single morning or
 afternoon to a maximum of two days. Tutorials are run on a
 cost-recovery basis: a separate fee is charged of participants that is
 intended to cover the costs of running the tutorial. Workshops are
-expected to be free of charges.If you are interested in proposing either a workshop or a tutorial for
+expected to be free of charges.
+
+If you are interested in proposing either a workshop or a tutorial for
 the 2013 Members’ Meeting and Conference, please
 _redacted_(a)tei.org ***as early as possible*** and submit your
 proposal
 before 31 March 2013 via Conftool, the availability of which will be
 announced shortly. Expressions of interest should include as much as
 possible of the following information (the committee is willing to
-work with proposers in developing their proposals):* Topic
+work with proposers in developing their proposals):
+
+* Topic
 * Rationale explaining why this topic is likely to draw sufficient
 attention of the TEI community
 * Length of the event
@@ -33,17 +52,29 @@ discussion of relevant experience
 mind that workshops are by essence open for participation
 ---- * Organisational and infrastructure costs (e.g. coffee breaks and
 the like) will be determined later in conjunction with the local
-organising committeeTutorial proposals will be evaluated by the programme committee
+organising committee
+
+Tutorial proposals will be evaluated by the programme committee
 primarily on the basis of their likely appeal to the TEI community,
 the quality of the proposed instructors and method of instruction, and
-cost._redacted_(a)tei-c.org.For the Programme Committee
-Arianna Ciula2013 TEI Conference and Members Meeting Programme Committee:
+cost.
+
+_redacted_(a)tei-c.org.
+
+For the Programme Committee
+Arianna Ciula
+
+2013 TEI Conference and Members Meeting Programme Committee:
 Marjorie Burghart
 Lou Burnard
 Fabio Ciotti
 Arianna Ciula (chair)
 Gianfranco Crupi
-Sebastian RahtzPHByZSBzdHlsZT0id2hpdGUtc3BhY2U6cHJlLXdyYXA7Y29sb3I6cmdiKDM0LDM0LDM0KTtiYWNr
+Sebastian Rahtz
+
+
+
+PHByZSBzdHlsZT0id2hpdGUtc3BhY2U6cHJlLXdyYXA7Y29sb3I6cmdiKDM0LDM0LDM0KTtiYWNr
 Z3JvdW5kLWNvbG9yOnJnYigyNTUsMjU1LDI1NSk7Zm9udC1zaXplOjlwdCI+Q2FsbCBmb3IgV29y
 a3Nob3BzIGFuZCBUdXRvcmlhbHMKClRoZSBMaW5rZWQgVEVJOiBUZXh0IEVuY29kaW5nIGluIHRo
 ZSBXZWIKCjIwMTMgQW5udWFsIENvbmZlcmVuY2UgYW5kIE1lbWJlcnOSIE1lZXRpbmcgb2YgdGhl
@@ -97,4 +128,4 @@ LDIwNCkiPm1lZXRpbmdAdGVpLWMub3JnPC9hPi4KCkZvciB0aGUgUHJvZ3JhbW1lIENvbW1pdHRl
 ZQpBcmlhbm5hIENpdWxhCgoyMDEzIFRFSSBDb25mZXJlbmNlIGFuZCBNZW1iZXJzIE1lZXRpbmcg
 UHJvZ3JhbW1lIENvbW1pdHRlZToKTWFyam9yaWUgQnVyZ2hhcnQKTG91IEJ1cm5hcmQKRmFiaW8g
 Q2lvdHRpCkFyaWFubmEgQ2l1bGEgKGNoYWlyKQpHaWFuZnJhbmNvIENydXBpClNlYmFzdGlhbiBS
-YWh0ejwvcHJlPgo=
+YWh0ejwvcHJlPgo

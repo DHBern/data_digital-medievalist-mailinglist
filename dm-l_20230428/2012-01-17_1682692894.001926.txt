@@ -1,27 +1,35 @@
-Subject: [dm-l] Fwd: [SDH/SEMI Exec] SOPA/PIPAA number of DH sites are planning to go dark tomorrow in support of resistanc=
-e to SOPA, and in solidarity with other sites like the wikipedia that are pla=
-nning the same thing. The attached email from St=C3=A9fan Sinclair to the exe=
-c. of two of them explains why and how.This is short notice, but I'd like to propose that DM do the same thing tomor=
-row. And encourage as many of you as possible to do the same thing to your ow=
-n sites. While SOPA is 'an American mess', it proposes extending itself to si=
-tes 'aimed' at America too--giving it considerable international scope.Sent from my Samsung Captivate(tm) on RogersDear all,It's a bit last minute, but I wonder if there any strong sentiments about hav=
-ing our association website go dark tomorrow. Personally, I'm not quite as ke=
-en as I might have been if the proposed legislation hadn't received some sign=
-ificant blows more recently, but as many have pointed out, it would be foolis=
-h to relax. Does the ACH want to join ranks with sites like Wikipedia tomorro=
-w?This is ostensibly an American mess, but of course we would be deeply affecte=
-d; see Michael Geist's post on the topic: http://www.michaelgeist.ca/content/=
-view/6244/125/Technically, there are several possibilities, one of which would be to put an=
- Apache directive to return a temporary 503 error response, which I could tak=
-e care of if there support.St=C3=A9fan
---St=C3=A9fan Sinclair, Associate Professor of Digital Humanities at McGill
+Subject: [dm-l] Fwd: [SDH/SEMI Exec] SOPA/PIPA
+
+A number of DH sites are planning to go dark tomorrow in support of resistance to SOPA, and in solidarity with other sites like the wikipedia that are planning the same thing. The attached email from Stéfan Sinclair to the exec. of two of them explains why and how.
+
+This is short notice, but I'd like to propose that DM do the same thing tomorrow. And encourage as many of you as possible to do the same thing to your own sites. While SOPA is 'an American mess', it proposes extending itself to sites 'aimed' at America too--giving it considerable international scope.
+
+Sent from my Samsung Captivate(tm) on Rogers
+
+Dear all,
+
+It's a bit last minute, but I wonder if there any strong sentiments about having our association website go dark tomorrow. Personally, I'm not quite as keen as I might have been if the proposed legislation hadn't received some significant blows more recently, but as many have pointed out, it would be foolish to relax. Does the ACH want to join ranks with sites like Wikipedia tomorrow?
+
+This is ostensibly an American mess, but of course we would be deeply affected; see Michael Geist's post on the topic: http://www.michaelgeist.ca/content/view/6244/125/
+
+Technically, there are several possibilities, one of which would be to put an Apache directive to return a temporary 503 error response, which I could take care of if there support.
+
+Stéfan
+
+--
+
+Stéfan Sinclair, Associate Professor of Digital Humanities at McGill
 Office 341, Languages, Literatures & Cultures
 688 Sherbrooke St. W
 Montreal, Quebec, Canada H3A 3R1
 Tel. 514-398-4984
 http://stefansinclair.name/
-_redacted_@sgsinclair_______________________________________________
+_redacted_@sgsinclair
+
+_______________________________________________
 Exec mailing list
 _redacted_(a)lists.sdh-semi.org
-http://lists.sdh-semi.org/mailman/listinfo/exec
---===============5817013582485508504==--
+http://lists.sdh-semi.org/mailman/listinfo/exec
+
+--5817013582485508504-
+

@@ -1,4 +1,6 @@
-Subject: [dm-l] rethinking the future for AnastasiaDear everyone
+Subject: [dm-l] rethinking the future for Anastasia
+
+Dear everyone
 as many of you know: we have for some years been developing our own  
 piece of XML software, rather outside the XML mainstream, as it  
 happens: the blessed Anastasia.  She has done some wonderful things  
@@ -10,7 +12,8 @@ So, we have been thinking...
 You can follow the process at
 www.sd-editions.com/blog
 Comments welcome!
-Peter
+Peter
+
 Peter Robinson
 Institute for Textual Scholarship and Electronic Editing
 Elmfield House, Selly Oak  Campus
@@ -18,12 +21,18 @@ University of Birmingham
 Edgbaston B29 6LG
 _redacted_(a)bham.ac.uk
 p. +44 (0)121 4158441, f. +44 (0) 121 415 8376
-www.itsee.bham.ac.uk
---===============6882805543568271787==
-Content-Type: text/html
+www.itsee.bham.ac.uk
+
+
+
+
+
+--6882805543568271787Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PEhUTUw+PEJPRFkgc3R5bGU9IndvcmQtd3JhcDogYnJlYWstd29yZDsgLWtodG1sLW5ic3AtbW9k
+Content-Disposition: attachment; filenameúttachment.html"
+MIME-Version: 1.0
+
+PEhUTUw+PEJPRFkgc3R5bGU9IndvcmQtd3JhcDogYnJlYWstd29yZDsgLWtodG1sLW5ic3AtbW9k
 ZTogc3BhY2U7IC1raHRtbC1saW5lLWJyZWFrOiBhZnRlci13aGl0ZS1zcGFjZTsgIj5EZWFyIGV2
 ZXJ5b25lPERJVj5hcyBtYW55IG9mIHlvdSBrbm93OiB3ZSBoYXZlIGZvciBzb21lIHllYXJzIGJl
 ZW4gZGV2ZWxvcGluZyBvdXIgb3duIHBpZWNlIG9mIFhNTCBzb2Z0d2FyZSwgcmF0aGVyIG91dHNp
@@ -57,4 +66,4 @@ eWxlLXNwYW4iIHN0eWxlPSJmb250LWZhbWlseTogQXJpYWw7IGZvbnQtc2l6ZTogMTFweDsgIj4r
 NDQgKDApIDEyMSA0MTUgODM3NjwvU1BBTj48L1NQQU4+PC9GT05UPjwvRElWPjxESVY+d3d3Lml0
 c2VlLmJoYW0uYWMudWs8L0RJVj48RElWPjxCUiBjbGFzcz0ia2h0bWwtYmxvY2stcGxhY2Vob2xk
 ZXIiPjwvRElWPjxCUiBjbGFzcz0iQXBwbGUtaW50ZXJjaGFuZ2UtbmV3bGluZSI+PC9TUEFOPiA8
-L0RJVj48QlI+PC9ESVY+PC9CT0RZPjwvSFRNTD4=
+L0RJVj48QlI+PC9ESVY+PC9CT0RZPjwvSFRNTD4

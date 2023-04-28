@@ -1,4 +1,6 @@
-Subject: RE: [dm-l] Re: Exeter Book CD: for free?From the point of view of a librarian, CDs are the worst way to distribute
+Subject: RE: [dm-l] Re: Exeter Book CD: for free?
+
+From the point of view of a librarian, CDs are the worst way to distribute
 this kind of project. We've got lots of CDs purchased in the '90s on our
 shelves, that are now unusable due to deterioration of the media or
 obsoleteness of the platform. Anything that depends on current browsers will
@@ -11,7 +13,9 @@ The ongoing institutional support has to be sufficient to re-engineer the
 project from time to time to keep it working with new browsers and other
 tools as yet unimagined, which is no small commitment. It makes sense
 therefore to avoid doing one-off development and instead develop standard
-tools and protocols for presenting these projects. Peter Binkley
+tools and protocols for presenting these projects. 
+
+Peter Binkley
 Digital Initiatives Technology Librarian
 Information Technology Services
 4-30 Cameron Library
@@ -20,7 +24,11 @@ Edmonton, Alberta
 Canada T6G 2J8
 Phone: (780) 492-3743
 Fax: (780) 492-9243
-_redacted_(a)ualberta.ca> -----Original Message-----
+_redacted_(a)ualberta.ca
+
+
+
+> -----Original Message-----
 _redacted_(a)virginia.edu] 
 > Sent: Tuesday, July 20, 2004 06:36 AM
 _redacted_(a)bodley.ox.ac.uk; Digital Medievalist 
@@ -118,5 +126,7 @@ _redacted_(a)uleth.ca
 > dm-l mailing list
 _redacted_(a)uleth.ca
 > http://listserv.uleth.ca/mailman/listinfo/dm-l
-> 
---===============1100729094565428739==--
+> 
+
+--1100729094565428739-
+

@@ -1,113 +1,114 @@
-Subject:Dear Peter and others,Thank you for these helpful responses.I agree completely with your advice that one should seek out repositories and=
- generally try to get the data freely in the hands of as many as possible. Da=
-niel's point about DOIs is also very useful.Having said that, these are advice about how to avoid extinction in the worst=
- case scenario, e.g. when no one is actively curating, revising, or hosting t=
-he data and it is in danger of disappearing because in the short run there is=
- no one to care.I am curious about how to prepare for the best case scenario, e.g. a single s=
-cholar or small group of scholars create data files which are received by the=
- scholarly community as of sufficient value to be crowd curated indefinitely.=
- While the fact that the data will be CC-by means that the crowd will be free=
- to do what it wants, from a  pragmatic perspective it seems like it would st=
-ill be useful to have an editorial board of sorts Joel mentioned in his post =
-for the following reasons:1. To offer scholarly peer review to the revisions to the data, in effect cre=
-ating canonical revisions.
+Subject:
+
+Dear Peter and others,
+
+Thank you for these helpful responses.
+
+I agree completely with your advice that one should seek out repositories and generally try to get the data freely in the hands of as many as possible. Daniel's point about DOIs is also very useful.
+
+Having said that, these are advice about how to avoid extinction in the worst case scenario, e.g. when no one is actively curating, revising, or hosting the data and it is in danger of disappearing because in the short run there is no one to care.
+
+I am curious about how to prepare for the best case scenario, e.g. a single scholar or small group of scholars create data files which are received by the scholarly community as of sufficient value to be crowd curated indefinitely. While the fact that the data will be CC-by means that the crowd will be free to do what it wants, from a  pragmatic perspective it seems like it would still be useful to have an editorial board of sorts Joel mentioned in his post for the following reasons:
+
+1. To offer scholarly peer review to the revisions to the data, in effect creating canonical revisions.
 2. To curate guidelines and coordinate collaboration for this revision.
-3. To own and administer the URL associated with the project (which is used f=
-or minting URIs, for redirecting to content repositories, and to serve as the=
- single URL for finding the data).
-4. To give some momentum to the project should interest wane for a period aft=
-er the initial researchers have stopped intense work on the data.I am very much aware and even happy with the fact that in a certain sense the=
- work of this editorial board is non-binding since the data is open and peopl=
-e will do what they want with the data. At the same time, I believe that scho=
-larly peer review is valuable.So my question is, how do I structure this standing committee? Should it be b=
-ased at a university, a publisher, through a scholarly society, as a formal n=
-on-profit corporation, as an informal agreement, etc?In the past such multi-generation collaboration might have occurred through a=
- press (various dictionaries for example) or through a scholarly society (lon=
-g running translation or publication series) but I am wondering about how thi=
-s model occurs in the digital age.I would love to see examples from formal arrangements others have made if any.Thank you!David A. MichelsonAssistant Professor
+3. To own and administer the URL associated with the project (which is used for minting URIs, for redirecting to content repositories, and to serve as the single URL for finding the data).
+4. To give some momentum to the project should interest wane for a period after the initial researchers have stopped intense work on the data.
+
+I am very much aware and even happy with the fact that in a certain sense the work of this editorial board is non-binding since the data is open and people will do what they want with the data. At the same time, I believe that scholarly peer review is valuable.
+
+So my question is, how do I structure this standing committee? Should it be based at a university, a publisher, through a scholarly society, as a formal non-profit corporation, as an informal agreement, etc?
+
+In the past such multi-generation collaboration might have occurred through a press (various dictionaries for example) or through a scholarly society (long running translation or publication series) but I am wondering about how this model occurs in the digital age.
+
+I would love to see examples from formal arrangements others have made if any.
+
+Thank you!
+
+David A. Michelson
+
+Assistant Professor
 Vanderbilt University
-www.syriaca.org
-_redacted_(a)bham.ac=
-.uk>>
+www.syriaca.org
+
+_redacted_(a)bham.ac.uk>>
 Date: Friday, June 21, 2013 12:05 PM
-_redacted_(a)vanderbilt.edu<mailto:david.a.michel=
-_redacted_(a)vanderbilt.edu>>
-_redacted_(a)uleth.ca<mailto:dm-l(=
-a)uleth.ca>>
-Subject: How to make your data live forever (and maybe your project?)HI David
-I think you are hitting upon a very sore point in the DH/editorial communitie=
-s.  We have had editorial projects launched all over the place, with great en=
-thusiasm and often, substantial funding.  Many now face exactly the problem y=
-ou outline: what happens after the PI/institution move on?
+_redacted_(a)vanderbilt.edu<mailto:david.a.michel_redacted_(a)vanderbilt.edu>>
+_redacted_(a)uleth.ca<mailto:dm-l(a)uleth.ca>>
+Subject: How to make your data live forever (and maybe your project?)
+
+HI David
+I think you are hitting upon a very sore point in the DH/editorial communities.  We have had editorial projects launched all over the place, with great enthusiasm and often, substantial funding.  Many now face exactly the problem you outline: what happens after the PI/institution move on?
 So, here are three things you can do which will help immensely:
-1.  Explicitly declare all your materials as Creative Commons Share-alike att=
-ribution: that is, **without** the 'non-commercial' use restrictions so often=
- (and wrongly) imposed by many projects.
-2.  Place the data, so licensed, on any open server.  The Oxford Text Archive=
- is, after so many years, still the best place I know to put your data.
-That alone should be enough to make your data live forever.  And wonderfully,=
- these two options will cost you not a cent, and maybe just  a few hours of y=
-our time to deal with the OTA deposit pack.Optionally, you could also:
-3.  Place the data within an institutional repositiory.  This gives you the o=
-ption to use the IR tools to construct an interface, and provide basic search=
- and other tools.  In my mind, this option has been scandalously underused by=
- DH projects, for reasons which might be the subject of another post.  But th=
-is does provide the opportunity for you to present your project in a way that=
- will connect its metadata with the whole world of OASIS etc tools, and offer=
- a sustainable interface.  The University of Birmingham Research Archive give=
-s some idea of how this might work: see (for example) the entries for the Min=
-gana collection (eg http://epapers.bham.ac.uk/84/) and Codex Sinaiticus ( htt=
-p://epapers.bham.ac.uk/1690/).There is another answer:
-1.  Keep the 'non-commercial' licence restriction on your data.  You can ther=
-eby claim that you are allowing all your fellow academics to use it freely, w=
-hile (if you choose) not actually making it freely available outside your int=
-erface.
+1.  Explicitly declare all your materials as Creative Commons Share-alike attribution: that is, **without** the 'non-commercial' use restrictions so often (and wrongly) imposed by many projects.
+2.  Place the data, so licensed, on any open server.  The Oxford Text Archive is, after so many years, still the best place I know to put your data.
+That alone should be enough to make your data live forever.  And wonderfully, these two options will cost you not a cent, and maybe just  a few hours of your time to deal with the OTA deposit pack.
+
+Optionally, you could also:
+3.  Place the data within an institutional repositiory.  This gives you the option to use the IR tools to construct an interface, and provide basic search and other tools.  In my mind, this option has been scandalously underused by DH projects, for reasons which might be the subject of another post.  But this does provide the opportunity for you to present your project in a way that will connect its metadata with the whole world of OASIS etc tools, and offer a sustainable interface.  The University of Birmingham Research Archive gives some idea of how this might work: see (for example) the entries for the Mingana collection (eg http://epapers.bham.ac.uk/84/) and Codex Sinaiticus ( http://epapers.bham.ac.uk/1690/).
+
+There is another answer:
+1.  Keep the 'non-commercial' licence restriction on your data.  You can thereby claim that you are allowing all your fellow academics to use it freely, while (if you choose) not actually making it freely available outside your interface.
 2.  Create an elaborate and very attractive interface to your data
-3.  Persuade your university, or someone, to set up a DH centre, with a minim=
-um staff of a director and programmer, space and dedicated equipment (say, 10=
-0K a year if you can swing this with part-time staff etc).  This DH centre wi=
-ll then have the task of maintaining your data (which of course, only the cen=
-tre has), interface and project.  This centre can then deal with all the issu=
-es you raise in your post.
-4.  Persuade your university, or someone, to support data, interface and proj=
-ect, in perpetuityWell, good luck with that!Peter
-On 20 Jun 2013, at 23:28, Michelson, David Allen wrote:Dear Colleagues,I'd like to add a follow up question to this very informative discussion.I am also in the process of building a DH sub-community for a specific discip=
-linary niche.I would like to ask your advice on governance and standards.
-I am looking for models and best practices to ensure long term sustainability=
- of my collaborative DH project once it hopefully outgrows its incubation sta=
-ge.
-Could you please point me to long running DH projects whose protocols for gov=
-ernance, editorial oversight, institutional ownership/hosting I might emulate=
-? I am thinking of medium sized DH projects as models, so bigger than one sch=
-olar publishing a digital project, but much smaller than the TEI consortium o=
-r Digital Medievalist.
-Given the concerns over sustainability inherent in DH, I am also interested i=
-n advice on how to transition a project from the stage where a grant-funded P=
-I is the leader in getting content online to where a volunteer editorial boar=
-d (and institutional hosts) maintain a project longer term. Also, how do DH p=
-rojects handle the preservation of content for such a project? The data will =
-be licensed open source, but who should hold the copyright and renew the doma=
-in name after the project is launched? A university library? An s-corporation=
- independent of any institution (like some non-profit scholarly journals or p=
-rofessional societies)? the public domain, the original scholarly contributor=
-s?
-Please suggest links to examples to follow from existing projects if you are =
-aware of them.
-Thank you!DaveDavid A. MichelsonAssistant Professor
+3.  Persuade your university, or someone, to set up a DH centre, with a minimum staff of a director and programmer, space and dedicated equipment (say, 100K a year if you can swing this with part-time staff etc).  This DH centre will then have the task of maintaining your data (which of course, only the centre has), interface and project.  This centre can then deal with all the issues you raise in your post.
+4.  Persuade your university, or someone, to support data, interface and project, in perpetuity
+
+Well, good luck with that!
+
+Peter
+
+On 20 Jun 2013, at 23:28, Michelson, David Allen wrote:
+
+Dear Colleagues,
+
+I'd like to add a follow up question to this very informative discussion.
+
+I am also in the process of building a DH sub-community for a specific disciplinary niche.
+
+I would like to ask your advice on governance and standards.
+I am looking for models and best practices to ensure long term sustainability of my collaborative DH project once it hopefully outgrows its incubation stage.
+Could you please point me to long running DH projects whose protocols for governance, editorial oversight, institutional ownership/hosting I might emulate? I am thinking of medium sized DH projects as models, so bigger than one scholar publishing a digital project, but much smaller than the TEI consortium or Digital Medievalist.
+Given the concerns over sustainability inherent in DH, I am also interested in advice on how to transition a project from the stage where a grant-funded PI is the leader in getting content online to where a volunteer editorial board (and institutional hosts) maintain a project longer term. Also, how do DH projects handle the preservation of content for such a project? The data will be licensed open source, but who should hold the copyright and renew the domain name after the project is launched? A university library? An s-corporation independent of any institution (like some non-profit scholarly journals or professional societies)? the public domain, the original scholarly contributors?
+Please suggest links to examples to follow from existing projects if you are aware of them.
+Thank you!
+
+Dave
+
+David A. Michelson
+
+Assistant Professor
 Vanderbilt University
-www.syriaca.org<x-msg://1255/www.syriaca.org>
+www.syriaca.org<x-msg://1255/www.syriaca.org>
+
 Digital Medievalist --  http://www.digitalmedievalist.org/
 Journal: http://www.digitalmedievalist.org/journal/
-Journal Editors: editors _AT_ digitalmedievalist.org<http://digitalmedievalis=
-t.org>
+Journal Editors: editors _AT_ digitalmedievalist.org<http://digitalmedievalist.org>
 News: http://www.digitalmedievalist.org/news/
 Wiki: http://www.digitalmedievalist.org/wiki/
 Twitter: http://twitter.com/digitalmedieval
-Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca>
-Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-lPeter RobinsonHonorary Research Fellow, ITSEE, University of Birmingham, UKBateman Professor of English
+Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+Peter Robinson
+
+Honorary Research Fellow, ITSEE, University of Birmingham, UK
+
+Bateman Professor of English
 9 Campus Drive, University of Saskatchewan
-Saskatoon SK S7N 5A5, CanadaPGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
+Saskatoon SK S7N 5A5, Canada
+
+
+
+
+
+
+
+
+
+
+
+PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
 eHQvaHRtbDsgY2hhcnNldD11cy1hc2NpaSI+CjwvaGVhZD4KPGJvZHkgc3R5bGU9ImNvbG9yOiBy
 Z2IoMCwgMCwgMCk7IGZvbnQtc2l6ZTogMTRweDsgZm9udC1mYW1pbHk6IENhbGlicmksIHNhbnMt
 c2VyaWY7IHdvcmQtd3JhcDogYnJlYWstd29yZDsgLXdlYmtpdC1uYnNwLW1vZGU6IHNwYWNlOyAt
@@ -351,4 +352,4 @@ bGluZSI+CjwvZGl2Pgo8YnIgY2xhc3M9IkFwcGxlLWludGVyY2hhbmdlLW5ld2xpbmUiPgo8L2Rp
 dj4KPGJyIGNsYXNzPSJBcHBsZS1pbnRlcmNoYW5nZS1uZXdsaW5lIj4KPC9kaXY+CjxiciBjbGFz
 cz0iQXBwbGUtaW50ZXJjaGFuZ2UtbmV3bGluZSI+CjxiciBjbGFzcz0iQXBwbGUtaW50ZXJjaGFu
 Z2UtbmV3bGluZSI+CjwvZGl2Pgo8YnI+CjwvZGl2Pgo8L2Rpdj4KPC9kaXY+Cjwvc3Bhbj4KPC9i
-b2R5Pgo8L2h0bWw+Cg==
+b2R5Pgo8L2h0bWw+Cg

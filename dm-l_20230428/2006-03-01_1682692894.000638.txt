@@ -1,20 +1,38 @@
-Subject: Re: [dm-l] Expansion of Michigan's Corpus of Middle EnglishApologies if this sounds a bit like carping about what is indeed a great 
+Subject: Re: [dm-l] Expansion of Michigan's Corpus of Middle English
+
+Apologies if this sounds a bit like carping about what is indeed a great 
 step forward in enhancing access to these resources, but I'm rather 
 disappointed to see that UM still appears to think that HTML is the only 
-way of delivering them.According to the front page "All texts in the archive are valid SGML 
+way of delivering them.
+
+According to the front page "All texts in the archive are valid SGML 
 documents, tagged in conformance with the TEI Guidelines, and converted 
-to the TEI Lite DTD for wider use."However I'm blessed if I can see any way in which the texts can be 
+to the TEI Lite DTD for wider use."
+
+However I'm blessed if I can see any way in which the texts can be 
 obtained from the site *in* that SGML format. Which rather devalues that 
-nice promise about "wider use" doesn't it?Some of us would like to be able to do other kinds of research, beyond 
+nice promise about "wider use" doesn't it?
+
+Some of us would like to be able to do other kinds of research, beyond 
 what the web interface offers. I'd like to do corpus linguistics kinds 
 of things. I want to crunch these texts up and look for linguistic 
 patterns in them. I don't want to depend on the web for access and I 
 don't want to be restricted to what UM has decided is the way these 
-texts should be presented.Why do I have to resort to "screen scraping"? Do I really have to 
+texts should be presented.
+
+Why do I have to resort to "screen scraping"? Do I really have to 
 download each file individually and convert the HTML back into something 
 more expressive? Actually that's not too hard -- as a quick "view 
 source" shows -- but what a waste of time! That's not what I signed up 
-for when I joined the digital revolution!still crazyLouAl Magary wrote:> [Announcement by Paul Schaffner forwarded from another medieval list.  
+for when I joined the digital revolution!
+
+still crazy
+
+Lou
+
+Al Magary wrote:
+
+> [Announcement by Paul Schaffner forwarded from another medieval list.  
 > This is a wonderful expansion of a digital library of primary sources.  
 > Cheers, Al Magary]
 > 
@@ -83,5 +101,9 @@ _redacted_(a)umich.edu | http://www-personal.umich.edu/~pfs/
 _redacted_(a)uleth.ca
 > dm-l mailing list
 _redacted_(a)uleth.ca
-> http://listserv.uleth.ca/mailman/listinfo/dm-l
---===============7218305668367040785==--
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+
+
+--7218305668367040785-
+

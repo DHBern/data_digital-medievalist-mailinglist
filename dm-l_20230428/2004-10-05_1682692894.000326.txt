@@ -1,19 +1,32 @@
-Subject: Re: [dm-l] Character reference conversions: help?According to a Wiki article 
-(http://en.wikipedia.org/wiki/Universal_character_set):"The Universal Character Set is a character encoding that is defined by the 
+Subject: Re: [dm-l] Character reference conversions: help?
+
+According to a Wiki article 
+(http://en.wikipedia.org/wiki/Universal_character_set):
+
+"The Universal Character Set is a character encoding that is defined by the 
 international standard ISO/IEC 10646. It maps hundreds of thousands of 
 abstract characters, each identified by an unambiguous name, to integers, 
-called numeric code points.Since 1991, the Unicode Consortium has been working with ISO to develop the 
+called numeric code points.
+
+Since 1991, the Unicode Consortium has been working with ISO to develop the 
 Unicode Standard and ISO/IEC 10646 in tandem. The repertoire, character 
 names, and code points of Version 2.0 of the Unicode Standard are identical 
 to those of ISO/IEC 10646-1:1993 with its first seven published amendments. 
 After Unicode 3.0 was published in February 2000, the new and updated 
-characters were brought into the UCS via ISO/IEC 10646-1:2000."It seems to me (as is implied by the second paragraph above) that entity 
+characters were brought into the UCS via ISO/IEC 10646-1:2000."
+
+It seems to me (as is implied by the second paragraph above) that entity 
 code values in UCS should refer to the same character position as in 
 Unicode. So, for example, if &#x1090 is the "Z" character in UCS-4 (I know, 
 it's not!) then it should also be the "Z" character in UTF-8 (assuming the 
 same font is used). If so, no conversion of numerically encoded entities 
-should be needed. Of course, I could be wrong!Since you ask the question, I assume the transfer isn't working as 
-expected. What exactly is happening?David
+should be needed. Of course, I could be wrong!
+
+Since you ask the question, I assume the transfer isn't working as 
+expected. What exactly is happening?
+
+David
+
 At 11:53 AM 05/10/2004, you wrote:
 >Hello all,
 >         I need some advice on converting Unicode character references. 
@@ -26,6 +39,12 @@ At 11:53 AM 05/10/2004, you wrote:
 >I want to import xhtml documents into Open Office, which seems to need 
 >UTF-8 encoding (I don't know what UTF stands for). Does anybody know of a 
 >filter that might do the conversions for me? Or have advice on using open 
->office (Windows version) with UCS-4 encoding?
-David Badkehttp://badke.ca/david
-http://bestiary.ca
+>office (Windows version) with UCS-4 encoding?
+
+David Badke
+
+http://badke.ca/david
+http://bestiary.ca
+
+
+

@@ -1,9 +1,13 @@
-Subject: [dm-l] IQLA-GIAT International Summer School in Quantitative AnalysisApologies for cross posting
+Subject: [dm-l] IQLA-GIAT International Summer School in Quantitative Analysis
+
+Apologies for cross posting
 ---------------------------------------------------
 IQLA-GIAT International Summer School in Quantitative Analysis of Textual
 Data
 4th edition
-Call for participationRecent developments in digital methods are not only changing how research
+Call for participation
+
+Recent developments in digital methods are not only changing how research
 is conducted in the humanities and social sciences, but also how new
 research is planned and designed. In order to reach the full potential and
 benefits of this revolution, most research activities need a new generation
@@ -11,7 +15,9 @@ of researchers: data scientists for humanities and social sciences.
 Digital methods are being utilised by a variety of disciplines. The growing
 availability of large
 corpora and large databases calls for new methods that are able to deal
-with new problems, open the door to new questions and develop new knowledge.Presentation
+with new problems, open the door to new questions and develop new knowledge.
+
+Presentation
 "Distant Reading", "Digital Methods", "Computational social sciences" and
 "Statistical learning from textual data" are general terms that refer to a
 wide range of methods that have a common aim: retrieving information from
@@ -28,21 +34,33 @@ sectors (e.g. computational linguistics, information retrieval, natural
 language processing, text mining, text analytics, sentiment analysis,
 opinion mining, topic extraction, etc.) with interesting industrial
 applications, such as electronic dictionaries, artificial intelligence,
-plagiarism detection and similar.Recent studies have stressed the need for developing, adopting and sharing
+plagiarism detection and similar.
+
+Recent studies have stressed the need for developing, adopting and sharing
 interdisciplinary approaches. The IQLA-GIAT Summer School is the ideal
 environment for developing innovative analytical tools by pooling together
-the research methods from different disciplines.The IQLA-GIAT Summer School is characterized by three main elements:1. a general part devoted to quantitative methods;
+the research methods from different disciplines.
+
+The IQLA-GIAT Summer School is characterized by three main elements:
+
+1. a general part devoted to quantitative methods;
 2. a special issue that has changed over time (2019: Data Science and Data
 scientists
 in Humanities and Social Sciences);
 3. several lab-sessions dedicated to computer-aided analysis of textual
-data.ObjectivesTeaching activities at the School will raise questions that can be answered
+data.
+
+Objectives
+
+Teaching activities at the School will raise questions that can be answered
 thanks to quantitative methods implemented within a text analysis framework
 and other procedures that may be used to identify and compare text
 characteristics. The aim is to discuss the strengths, weaknesses,
 opportunities and threats of quantitative methods for text analysis with
 postgraduate students, early career researchers and scholars of different
-disciplines. The Summer School aims at:1. sharing information on software, corpora, relevant literature and
+disciplines. The Summer School aims at:
+
+1. sharing information on software, corpora, relevant literature and
 research results;
 2. promoting a dialogue among different disciplines on emerging research
 issues;
@@ -50,7 +68,11 @@ issues;
 4. introducing postgraduate students and early career researchers to new
 strains of research and applications;
 5. sharing state-of-the-art techniques in digital methods for text analysis
-(topic detection, text classification, data visualization).Does this School fit your needs?Would you like to take into account a large number of relevant novels,
+(topic detection, text classification, data visualization).
+
+Does this School fit your needs?
+
+Would you like to take into account a large number of relevant novels,
 articles published by
 newspapers, transcriptions of open-ended interviews, or comments posted on
 social media in your research? Are there definitely too many texts for any
@@ -62,34 +84,66 @@ read" a text (i.e. collecting data, retrieving relevant information,
 summarizing features, finding patterns, etc.). Instead of close-reading a
 limited number of texts, why not working with thousands of texts, upload
 them into the memory of a computer and ask a software package to produce
-analyses and results?CreditsThe IQLA-GIAT Summer School in Quantitative Analysis of Textual Data is
+analyses and results?
+
+Credits
+
+The IQLA-GIAT Summer School in Quantitative Analysis of Textual Data is
 organized by GIAT – Interdisciplinary Text Analysis Group (www.giat.org) in
 collaboration with the International Quantitative Linguistics Association (
 www.iqla.org).
 The IQLA-GIAT Summer School is a project funded by the University of Padova
 (www.unipd.it) and coordinated by Professor Arjuna Tuzzi (University of
-Padova).Application and deadlines
+Padova).
+
+Application and deadlines
 The IQLA-GIAT Summer School is open to 20 participants including
 researchers, scholars and postgraduate students. The selection of 20
-participants is due to the capacity of the laboratory room.Applicants should send a file in pdf format including:1. curriculum vitae;
-2. personal mission statement and research interests (max 500 words);_redacted_(a)fisppa.itDeadline June, 27th
-Tuition fee 250 €ScheduleThe IQLA-GIAT Summer School will take place from Monday 9th to Friday 13th
+participants is due to the capacity of the laboratory room.
+
+Applicants should send a file in pdf format including:
+
+1. curriculum vitae;
+2. personal mission statement and research interests (max 500 words);
+
+_redacted_(a)fisppa.it
+
+Deadline June, 27th
+Tuition fee 250 €
+
+Schedule
+
+The IQLA-GIAT Summer School will take place from Monday 9th to Friday 13th
 September
 2019.
-The IQLA-GIAT Summer School is a full-time intensive course held:- On Monday from 10:00 am to 6:00 pm
+The IQLA-GIAT Summer School is a full-time intensive course held:
+
+- On Monday from 10:00 am to 6:00 pm
 - From Tuesday to Thursday from 9:30 am to 6:00 pm
-- On Friday from 9:30 am to 4:00 pmOn Friday, the last two hours will be left for the final assessment.LocationUniversity of Padova
+- On Friday from 9:30 am to 4:00 pm
+
+On Friday, the last two hours will be left for the final assessment.
+
+Location
+
+University of Padova
 Department of Philosophy, Sociology, Education & Applied Psychology
 (Dipartimento di Filosofia, Sociologia, Pedagogia e Psicologia Applicata -
 FISPPA)
 Sociology buildings
 via Cesarotti, 10/12
-35123 Padova, ITALYClassesAll courses are in English. Teaching activities include lectures and lab
+35123 Padova, ITALY
+
+Classes
+
+All courses are in English. Teaching activities include lectures and lab
 sessions, as well as
 tutorials illustrating software tools.
 The teaching staff includes researchers and experts from different
 Universities and Research
-institutes:- Dominique Brunato (ILC / CNR of Pisa, Italy)
+institutes:
+
+- Dominique Brunato (ILC / CNR of Pisa, Italy)
 - Fabio Ciotti (Univ. of Roma Tor Vergata, Italy)
 - Sascha Diwersy (Université Paul Valéry – Montpellier, France)
 - Maciej Eder (Univ. of Kraków, Poland)
@@ -97,9 +151,17 @@ institutes:- Dominique Brunato (ILC / CNR of Pisa, Italy)
 - Stefano Ondelli (Univ. of Trieste, Italy)
 - Pierre Ratinaud (Univ. of Toulouse II, France)
 - Jan Rybicki (Jagiellonian Univ. of Kraków, Poland)
-- Giuseppe Veltri (Univ. of Trento, Italy)Main topicsComputational stylistics, stylometry, texts and gender, topic modelling,
+- Giuseppe Veltri (Univ. of Trento, Italy)
+
+Main topics
+
+Computational stylistics, stylometry, texts and gender, topic modelling,
 text classification, opinion mining, Forensic linguistics, author profiling
-and authorship attribution methodsFinal Evaluation and self-assessmentAll participants will be requested to complete an evaluation questionnaire
+and authorship attribution methods
+
+Final Evaluation and self-assessment
+
+All participants will be requested to complete an evaluation questionnaire
 to express their
 opinions about the main aspects of the IQLA-GIAT Summer School (e.g.
 organization,
@@ -107,17 +169,25 @@ teaching, materials, facilities and equipment, expectations, satisfaction
 rate, suggestions etc. ). It is worth mentioning that the fourth edition of
 the Summer School is organized also considering the results and suggestions
 obtained through the evaluation questionnaires done in 2013, 2015 and 2017
-editions.All participants will complete a self-assessment questionnaire on technical
+editions.
+
+All participants will complete a self-assessment questionnaire on technical
 skills and general
 knowledge including 30 multiple choice questions (one correct answer out of
 four). Grades will reflect the sum of all correct answers (one point)
 according to the following range: A (29-30 points); B (25-28 points); C
-(21-24 points); D (17-20 points); E (15-16 points).Website and social networksThe IQLA-GIAT Summer School will provide a specific website within GIAT's
+(21-24 points); D (17-20 points); E (15-16 points).
+
+Website and social networks
+
+The IQLA-GIAT Summer School will provide a specific website within GIAT's
 domain
 (www.giat.org) for the distribution of learning resources, links and
 bibliographic references
 before, during and after the Summer School.
-The IQLA-GIAT Summer School is also active on Facebook and Twitter.Info
+The IQLA-GIAT Summer School is also active on Facebook and Twitter.
+
+Info
 For any further information and details about terms, deadlines, application
 _redacted_(a)fisppa.it
 -- 
@@ -128,7 +198,10 @@ DH2019 PC Co-Chair
 Chief Editor "Umanistica Digitale" https://umanisticadigitale.unibo.it/
 @Fabio_Ciotti
 <https://twitter.com/fabio_ciotti>
-_redacted_(a)pec.it<https://twitter.com/fabio_ciotti>
+_redacted_(a)pec.it
+
+<https://twitter.com/fabio_ciotti>
+
 -- 
 Fabio Ciotti
 Department of "Studi letterari, Filosofici e di Storia dell’arte" -
@@ -137,7 +210,13 @@ DH2019 PC Co-Chair
 Chief Editor "Umanistica Digitale" https://umanisticadigitale.unibo.it/
 @Fabio_Ciotti
 <https://twitter.com/fabio_ciotti>
-_redacted_(a)pec.it<https://twitter.com/fabio_ciotti>PGRpdiBkaXI9Imx0ciI+PGRpdiBjbGFzcz0iZ21haWxfcXVvdGUiPjxkaXYgZGlyPSJsdHIiPjxk
+_redacted_(a)pec.it
+
+<https://twitter.com/fabio_ciotti>
+
+
+
+PGRpdiBkaXI9Imx0ciI+PGRpdiBjbGFzcz0iZ21haWxfcXVvdGUiPjxkaXYgZGlyPSJsdHIiPjxk
 aXY+PGRpdj5BcG9sb2dpZXMgZm9yIGNyb3NzIHBvc3Rpbmc8L2Rpdj48ZGl2Pi0tLS0tLS0tLS0t
 LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLTxicj5JUUxBLUdJQVQgSW50
 ZXJuYXRpb25hbCBTdW1tZXIgU2Nob29sIGluIFF1YW50aXRhdGl2ZSBBbmFseXNpcyBvZiBUZXh0
@@ -335,4 +414,4 @@ dC1zaXplOjEyLjhweCI+PGEgaHJlZj0iaHR0cHM6Ly90d2l0dGVyLmNvbS9mYWJpb19jaW90dGki
 IHRhcmdldD0iX2JsYW5rIj48c3BhbiBzdHlsZT0iY29sb3I6cmdiKDAsMCwwKTtmb250LWZhbWls
 eTpMYXRvLEhlbHZldGljYSxBcmlhbCxzYW5zLXNlcmlmO2ZvbnQtc2l6ZToxM3B4Ij5mLmNpb3R0
 aUBwZWMuaXQ8YnI+PC9zcGFuPjxicj48L2E+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+
-PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+Cg==
+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+Cg

@@ -1,16 +1,22 @@
-Subject: [dm-l] FW: Useful Unicode tool in Mac OS X  [from TEI-L]A verry useful tip for Mac users. There is a free utility available for Win m=
-achines that does something similar, though not the character maths. I'll pos=
-t the link later.-----Original Message-----
-From:  David Sewell=20
+Subject: [dm-l] FW: Useful Unicode tool in Mac OS X  [from TEI-L]
+
+A verry useful tip for Mac users. There is a free utility available for Win machines that does something similar, though not the character maths. I'll post the link later.
+
+-----Original Message-----
+From:  David Sewell 
 Date:  2/9/04 14:58
 _redacted_(a)LISTSERV.BROWN.EDU
-Subj:  Useful Unicode tool in Mac OS XI just discovered a great and somewhat hidden feature of the OS X
+Subj:  Useful Unicode tool in Mac OS X
+
+I just discovered a great and somewhat hidden feature of the OS X
 Calculator application: it does Unicode display and "math". That is, you
 can display any Unicode character that your system fonts can display by
 entering its numeric value, and you can display characters that are plus
 or minus any offset you want by doing addition or subtraction. It's a
 useful thing to have if you're working with an XML document containing
-numeric character entities and you want to know what they represent.To access this, go to "View - Display Format - Unicode" from the menu.
+numeric character entities and you want to know what they represent.
+
+To access this, go to "View - Display Format - Unicode" from the menu.
 If you had a numeric value in the previous display, it will be replaced
 by the equivalent Unicode character. You can display different
 characters by hitting the Clear button and then entering a new value.
@@ -18,12 +24,20 @@ characters by hitting the Clear button and then entering a new value.
 calculator has no way of knowing whether you're going to enter a
 2-digit, 3-digit, 4-digit or whatever value.) You can do Unicode math by
 hitting the + or - button and entering a value; the display will update
-to the appropriate offset from the character in the display.This works for hexadecimal, too, if you start out with the hex
-calculator.David--
+to the appropriate offset from the character in the display.
+
+This works for hexadecimal, too, if you start out with the hex
+calculator.
+
+David
+
+--
 David Sewell, Editorial and Technical Manager
 Electronic Imprint, The University of Virginia Press
 PO Box 400318, Charlottesville, VA 22904-4318 USA
 Courier: 310 Old Ivy Way, Suite 302, Charlottesville VA 22903
 _redacted_(a)virginia.edu   Tel: +1 434 924 9973
-Web: http://www.ei.virginia.edu/
---===============4226110211982936242==--
+Web: http://www.ei.virginia.edu/
+
+--4226110211982936242-
+

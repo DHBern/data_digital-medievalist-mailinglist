@@ -1,5 +1,8 @@
-Subject: Re: [dm-l] MS-Internet Explorer 6 and standards based computing
-On Monday, June 28, 2004, at 10:51 AM, Martin Holmes wrote:> For the last year or two, it's been very practical do to this. The 
+Subject: Re: [dm-l] MS-Internet Explorer 6 and standards based computing
+
+On Monday, June 28, 2004, at 10:51 AM, Martin Holmes wrote:
+
+> For the last year or two, it's been very practical do to this. The 
 > output from the current generation of our Hot Potatoes authoring tools 
 > is standards-compliant XHTML 1.1, CSS and JavaScript, and these highly 
 > complex and interactive pages work on IE6, Mozilla/Firefox, Opera 7.5+ 
@@ -11,9 +14,20 @@ On Monday, June 28, 2004, at 10:51 AM, Martin Holmes wrote:> For the last year
 > concerned with browser-sniffing and branching to handle relatively 
 > simple functionality such as drag-and-drop. We no longer need to waste 
 > all that work.
-><snipping more interesting stuff>martin,this is very interesting to me, in general and in terms of work i'm 
+>
+
+<snipping more interesting stuff>
+
+martin,
+
+this is very interesting to me, in general and in terms of work i'm 
 doing right now. i admit i've always been surprised to hear developers 
 (i'm really a designer) complain so much about cross-platform coding, 
 especially as it appears to have gotten easier, recently. i wonder if 
 you have one or two examples of hot potatoes in action that we might be 
-able to take a look at?j
+able to take a look at?
+
+j
+
+
+

@@ -1,4 +1,6 @@
-Subject: Re: [dm-l] [Technical]: Suggestions for a replacement for	Subversion?If you're going to have high turnover, and you're still hesitant about
+Subject: Re: [dm-l] [Technical]: Suggestions for a replacement for	Subversion?
+
+If you're going to have high turnover, and you're still hesitant about
 using Git for version control, then I'd probably stick with something like
 Google Drive because the learning curve is almost zero. I don't think I'd
 go with Dropbox because is basically a file repository and you'd have to
@@ -14,20 +16,30 @@ exercise in tracking the dates when changes were made. It's inevitable that
 people will write bad code, but using a system that will allow you to
 accept or reject changes is better than putting code into the system then
 throwing your hands in the air when something goes wrong. Git shows you the
-changes and allows for moderation before connecting it to the master code.I'd have to disagree with the comment that Git has a problem because it
+changes and allows for moderation before connecting it to the master code.
+
+I'd have to disagree with the comment that Git has a problem because it
 does not work with users' expectations and/or is too complicated. I learned
 it in a couple days. Just take a course on Code School for free. Millions
 of programmers use Git and Github daily without problems. You just have to
 follow certain steps in order to preserve good code and not push
-potentially problematic code into your system.Saying that, if your students are working on digital humanities projects
+potentially problematic code into your system.
+
+Saying that, if your students are working on digital humanities projects
 and are coding, they should learn Git. It's an essential tool that
-professionals use every day._redacted_(a)gmail.com> wrote:> https://ifttt.com/ - IF This Then That. It's a tool for getting
+professionals use every day.
+
+
+
+_redacted_(a)gmail.com> wrote:
+
+> https://ifttt.com/ - IF This Then That. It's a tool for getting
 > APIable or RSSable websites to work together.
 >
 > There isn't a recipe that does this exact thing, but there are a bunch
 > of ones that do similar things:
-> https://ifttt.com/recipes/search?q=dropbox
-> https://ifttt.com/recipes/search?q=github
+> https://ifttt.com/recipes/search?qopbox
+> https://ifttt.com/recipes/search?qthub
 >
 > cheers
 > stuart
@@ -191,7 +203,7 @@ _redacted_(a)uleth.ca <javascript:;>>
 > >>>> News: http://www.digitalmedievalist.org/news/
 > >>>> Wiki: http://www.digitalmedievalist.org/wiki/
 > >>>> Twitter: http://twitter.com/digitalmedieval
-> >>>> Facebook: http://www.facebook.com/group.php?gid=49320313760
+> >>>> Facebook: http://www.facebook.com/group.php?gidI320313760
 _redacted_(a)uleth.ca <javascript:;>
 > >>>> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
 > >>>
@@ -221,7 +233,7 @@ _redacted_(a)uleth.ca <javascript:;>
 > >> News: http://www.digitalmedievalist.org/news/
 > >> Wiki: http://www.digitalmedievalist.org/wiki/
 > >> Twitter: http://twitter.com/digitalmedieval
-> >> Facebook: http://www.facebook.com/group.php?gid=49320313760
+> >> Facebook: http://www.facebook.com/group.php?gidI320313760
 _redacted_(a)uleth.ca <javascript:;>
 > >> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
 > >>
@@ -261,12 +273,17 @@ _redacted_(a)uleth.ca <javascript:;>
 > News: http://www.digitalmedievalist.org/news/
 > Wiki: http://www.digitalmedievalist.org/wiki/
 > Twitter: http://twitter.com/digitalmedieval
-> Facebook: http://www.facebook.com/group.php?gid=49320313760
+> Facebook: http://www.facebook.com/group.php?gidI320313760
 _redacted_(a)uleth.ca <javascript:;>
 > Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
->
+>
+
 -- 
-Sent from my iPhonePGRpdj5JZiB5b3UmIzM5O3JlIGdvaW5nIHRvIGhhdmUgaGlnaCB0dXJub3ZlciwgYW5kIHlvdSYj
+Sent from my iPhone
+
+
+
+PGRpdj5JZiB5b3UmIzM5O3JlIGdvaW5nIHRvIGhhdmUgaGlnaCB0dXJub3ZlciwgYW5kIHlvdSYj
 Mzk7cmUgc3RpbGwgaGVzaXRhbnQgYWJvdXQgdXNpbmcgR2l0IGZvciB2ZXJzaW9uIGNvbnRyb2ws
 IHRoZW4gSSYjMzk7ZCBwcm9iYWJseSBzdGljayB3aXRoIHNvbWV0aGluZyBsaWtlIEdvb2dsZSBE
 cml2ZSBiZWNhdXNlIHRoZSBsZWFybmluZyBjdXJ2ZSBpcyBhbG1vc3QgemVyby4gSSBkb24mIzM5
@@ -525,4 +542,4 @@ aWNrPSJfZShldmVudCwgJiMzOTtjdm1sJiMzOTssICYjMzk7ZG0tbEB1bGV0aC5jYSYjMzk7KSI+
 ZG0tbEB1bGV0aC5jYTwvYT48YnI+CkNoYW5nZSBsaXN0IG9wdGlvbnM6IDxhIGhyZWY9Imh0dHA6
 Ly9saXN0c2Vydi51bGV0aC5jYS9tYWlsbWFuL2xpc3RpbmZvL2RtLWwiIHRhcmdldD0iX2JsYW5r
 Ij5odHRwOi8vbGlzdHNlcnYudWxldGguY2EvbWFpbG1hbi9saXN0aW5mby9kbS1sPC9hPjxicj4K
-PC9ibG9ja3F1b3RlPjxicj48YnI+LS0gPGJyPlNlbnQgZnJvbSBteSBpUGhvbmUgPGJyPgo=
+PC9ibG9ja3F1b3RlPjxicj48YnI+LS0gPGJyPlNlbnQgZnJvbSBteSBpUGhvbmUgPGJyPgo

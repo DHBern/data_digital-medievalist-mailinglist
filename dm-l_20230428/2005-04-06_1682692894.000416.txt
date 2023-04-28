@@ -1,4 +1,6 @@
-Subject: Re: [dm-l] tex, unicode, etcThis is true about TeX and LaTeX. There is no better typesetting 
+Subject: Re: [dm-l] tex, unicode, etc
+
+This is true about TeX and LaTeX. There is no better typesetting 
 available unless you go to high-end typesetting systems. And it's worth 
 pointing out that even an implementation that doesn't do Unicode can 
 still do a great deal, for LaTeX does a great job of positioning 
@@ -7,15 +9,23 @@ last few years of typesetting The Year's Work in Old English Studies I
 used LaTeX with my own font package and IPA and Greek packages, and I 
 never came across a situation the system couldn't handle. It would be 
 easy to produce a script to generate perfectly decent LaTeX code and a 
-beautiful PDF file.I must say, though, Peter, that this isn't the first time you've 
+beautiful PDF file.
+
+I must say, though, Peter, that this isn't the first time you've 
 mentioned things that XSL can't do. I'm not sure I believe that it can't 
 be done. Someday, when we've all got lots of time, we'll have to have a 
 programming shootout. You can offer up a problem that you think XSL 
 can't handle, and you code it in C (or whatever it is you use), and I'll 
-use XSLT, and we'll see who gets there first.PeterPeter Robinson wrote:>To follow this up: on at least one operating system, matters are rather
+use XSLT, and we'll see who gets there first.
+
+Peter
+
+Peter Robinson wrote:
+
+>To follow this up: on at least one operating system, matters are rather
 >different.  In Mac OS X, there is a quite wonderful TeX implementation
 >named XeTeX: go see
->http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=xetex.  This
+>http://scripts.sil.org/cms/scripts/page.php?site_idsi&idþtex.  This
 >does Utf-8 right out of the box -- CJK, Thai (with hyphenation tables
 >even!!), Arabic, Mongolian, polytonic greek, just anything as far as I can
 >see.  It also seems to work nicely with OpenType font families, etc.  It
@@ -42,4 +52,7 @@ use XSLT, and we'll see who gets there first.PeterPeter Robinson wrote:>To
 >Peter
 >
 >  
->
+>
+
+
+

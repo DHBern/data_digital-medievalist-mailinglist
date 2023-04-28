@@ -1,14 +1,32 @@
-Subject: Re: [dm-l] Concordancing QueriesI've been using Watt's Concordance for months now with OE texts.  For line
+Subject: Re: [dm-l] Concordancing Queries
+
+I've been using Watt's Concordance for months now with OE texts.  For line
 numbers what I have been doing is creating a table in Word and
 guess-timating how many lines there are then I just paste the text into
-the table and WA LA! I have a table that separates the text into lines.Then I copy the table and place it into Excel and then just leave a column
+the table and WA LA! I have a table that separates the text into lines.
+
+Then I copy the table and place it into Excel and then just leave a column
 empty for my line numbers.  Then I type 1, 2, 3 and highlight the text and
 put the arrow on the bottom right edge of the cell that I typed 3 in and
 pull it all the way down until the end of the text.  You will then have a
 text which has line numbers.  If you need the lines to have a certain code
 like <L 123> then before you type 1, 2, 3 (above) just format the cell and
 click 'custom' and type <L #>, click OK and then you just have to do the
-steps above.Abdullah_redacted_(a)CAUC.CA>:> I am producing a concordance of the English vernacular texts that
+steps above.
+
+Abdullah
+
+
+
+
+
+
+
+
+
+_redacted_(a)CAUC.CA>:
+
+> I am producing a concordance of the English vernacular texts that
 > scholarship allows as Wycliffite or Lollard in persuasion. I would like
 > to add more texts, and am attempting to work out a few issues on which I
 > wondered if anyone might have advice.
@@ -56,5 +74,9 @@ _redacted_(a)uleth.ca
 > dm-l mailing list
 _redacted_(a)uleth.ca
 > http://listserv.uleth.ca/mailman/listinfo/dm-l
->
---===============4911085263893910932==--
+>
+
+
+
+--4911085263893910932-
+

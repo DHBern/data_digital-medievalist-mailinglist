@@ -1,25 +1,50 @@
-Subject: [dm-l] Encoding maps and other such objectsDear everyone
+Subject: [dm-l] Encoding maps and other such objects
+
+Dear everyone
 Has anyone had any experience of using tei to encode information about maps
 and various other objects? We are talking to a group who want to record
 information about maps and sword guards, etc, in a collection otherwise
 encoded in tei.  Most of what they need is in <bibl> but some things are
 not.
 Here is a roughish specimens of what they are looking at, adapting existing
-tei structures, for maps:<listBibl.map><bibl.map> <imprint> <pubPlace></pubPlace>
+tei structures, for maps:
+
+<listBibl.map>
+
+<bibl.map> 
+
+<imprint> 
+
+<pubPlace></pubPlace>
 <publisher></publisher>
 <date></date>
-</imprint>
+</imprint>
+
 <physDesc.map> 
     <form>Single sheet. Engr.</form>
     <size>Printed area 500 x 610 mm; on sheet 570mm x 650mm</size>
     <technique>Copper engraving</technique>
     <appearance>hand-coloured</appearance>
-</physDesc.map><geoDesc>Japan and China</geoDesc><msIdentifier.map> 
+</physDesc.map>
+
+<geoDesc>Japan and China</geoDesc>
+
+<msIdentifier.map> 
     <settlement></settlement>
     <repository></repository>
     <idno></idno>
-</msIdentifier.map>
+</msIdentifier.map>
+
 <note>
     <p>Further content description</p>
-</note></bibl.map></listBibl.map>Any help or advice or wise words welcome
-peter
+</note>
+
+</bibl.map>
+
+</listBibl.map>
+
+Any help or advice or wise words welcome
+peter
+
+
+

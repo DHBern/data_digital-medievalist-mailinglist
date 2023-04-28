@@ -1,26 +1,44 @@
-Subject: Re: [dm-l] [Fwd: MGH]I was just on my way out of office when I received the mails about the
-MGH online.As this is most probably my first mail to this list, allow me to
+Subject: Re: [dm-l] [Fwd: MGH]
+
+I was just on my way out of office when I received the mails about the
+MGH online.
+
+As this is most probably my first mail to this list, allow me to
 introduce myself: My name is Clemens Radl and I am working at the MGH in
 Munich and am responsible for the digital MGH online (dMGH
-<http://www.dmgh.de>).Right now I don't have the time to go into a lot of details. So this is
+<http://www.dmgh.de>).
+
+Right now I don't have the time to go into a lot of details. So this is
 not a formal announcement of our project. I just wanted to answer some
-of the points brought up by you.On Thu, Mar 16, 2006 at 01:27:23PM -0700, Daniel O'Donnell wrote:
+of the points brought up by you.
+
+On Thu, Mar 16, 2006 at 01:27:23PM -0700, Daniel O'Donnell wrote:
 > To bad the quality of the scans is a little on the low side. With a
 > tiny bit of training, an OCR could produce JSTOR style and quality PDF
 > over Text scans (i.e. not really that great, but better than nothing).
-> And the scanning is the real cost intensive thing if you don't proof.It's true that the quality of the images presented on the web is not as
+> And the scanning is the real cost intensive thing if you don't proof.
+
+It's true that the quality of the images presented on the web is not as
 good as I wish it were. But this is only a preliminary presentation
 within a framework that was *not* specifically designed for the dMGH.
 But we wanted to provide access to the scanned images as soon as
-possible.The volumes have been scanned with 600 dpi and theses high quality
+possible.
+
+The volumes have been scanned with 600 dpi and theses high quality
 images will be used for OCR. In fact we have already OCR'ed all of the
 Diplomata volumes and right now we are working at the Epistolae. And we
-are making good progress.The software which will allow full text searches is in the final stages
+are making good progress.
+
+The software which will allow full text searches is in the final stages
 of preparation. At least a prototype will be made available soon (I'll
-refrain from mentioning a specific date, though).In fact, we are not going to do any proofreading. The images will always
+refrain from mentioning a specific date, though).
+
+In fact, we are not going to do any proofreading. The images will always
 be the main source of information. In the background you can do full
 text searches and the results will be presented in the images with
-highlighting (roughly comparable to Google Print).> On Thu, 2006-16-03 at 16:46 -0330, Bill Schipper wrote:
+highlighting (roughly comparable to Google Print).
+
+> On Thu, 2006-16-03 at 16:46 -0330, Bill Schipper wrote:
 > > 
 > > It doesn't like like it is searchable.    The collection consists of
 > > scanned images of each page.   But it's very clear, and every jot
@@ -28,17 +46,31 @@ highlighting (roughly comparable to Google Print).> On Thu, 2006-16-03 at 16:4
 > > each page.   
 > > 
 > > But the important thing is that every volume published thus far is
-> > available.We have an agreement with our publishers that we will respect a five
+> > available.
+
+We have an agreement with our publishers that we will respect a five
 year boundary, i. e. new volumes will only appear on our web site five
 years after publication ("moving wall"). But it's true that the
-overwhelming majority of our printed editions are available online.Unfortunately, we right now do not have an English translation of our
+overwhelming majority of our printed editions are available online.
+
+Unfortunately, we right now do not have an English translation of our
 web page, yet. Maybe I'll get to enter some information about the
 project, our background and our schedule into the dm-l wiki these days
-...But right now I have to go home and get some sleep ;-)Regards,Clemens-- 
+...
+
+But right now I have to go home and get some sleep ;-)
+
+Regards,
+
+Clemens
+
+-- 
 Clemens Radl
 Monumenta Germaniae Historica
 Projekt Digitale Monumenta (dMGH)
 Postfach 34 02 23
 D - 80099 München
-+49 (89) 28638-2380
---===============8428506625375996195==--
++49 (89) 28638-2380
+
+--8428506625375996195-
+

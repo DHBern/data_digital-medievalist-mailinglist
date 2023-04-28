@@ -1,4 +1,7 @@
-Subject: [dm-l] Cologne Autumn School and Expert Workshop: =?utf-8?b?4oCe?=Dear digital medievalists, From 9 to 13 October 2017 the University of Cologne is hosting an 
+Subject: [dm-l] Cologne Autumn School and Expert Workshop: tf-8?b?4oCe?
+Dear digital medievalists,
+
+ From 9 to 13 October 2017 the University of Cologne is hosting an 
 Epidoc Autumn school in combination with an expert workshop on digital 
 sigillography. During the first three days the autumn school will 
 introduce the participants to Epidoc, the encoding standard for 
@@ -6,62 +9,114 @@ epigraphic texts and materials. Wednesday afternoon is dedicated to
 presentations on advanced imaging technologies in the fields of 
 epigraphy, papyrology and sigillography. On Thursday and Friday there 
 will be an expert workshop focusing on digital formats and standards for 
-the description and publication of seals and similar materials.Time: 9-13 October 2017
+the description and publication of seals and similar materials.
+
+Time: 9-13 October 2017
 Place: Universität zu Köln, Thomas Institut, Universitätsstraße 22, 
 Ground floor
 Language: English
 Deadline for registration: 24 September 2017
 _redacted_(a)gmail.com
 School participants: max. 25
-Website: http://cceh.uni-koeln.de/2017/09/05/epidoc-and-sigillography/--
-Programme (details to be confirmed)Monday, 9.10.2017:
-(Thomas Institut, Seminar room, Universitätsstraße 22)Introduction to Epidoc: 14.00-15.30, 16.00-17.30Tuesday, 10.10.2017:
-(Thomas Institut, Seminar room, Universitätsstraße 22)Exercises in Epidoc: 09.00-10.30, 11.00-12.30, 14.00-15.30, 16.00-17.30Wednesday, 11.10.2017:
-(Thomas Institut, Seminar room, Universitätsstraße 22)Morning
-Exercises in Epidoc: 09:00-10:30, 11:00-12:30Afternoon
+Website: http://cceh.uni-koeln.de/2017/09/05/epidoc-and-sigillography/
+
+--
+Programme (details to be confirmed)
+
+Monday, 9.10.2017:
+(Thomas Institut, Seminar room, Universitätsstraße 22)
+
+Introduction to Epidoc: 14.00-15.30, 16.00-17.30
+
+Tuesday, 10.10.2017:
+(Thomas Institut, Seminar room, Universitätsstraße 22)
+
+Exercises in Epidoc: 09.00-10.30, 11.00-12.30, 14.00-15.30, 16.00-17.30
+
+Wednesday, 11.10.2017:
+(Thomas Institut, Seminar room, Universitätsstraße 22)
+
+Morning
+Exercises in Epidoc: 09:00-10:30, 11:00-12:30
+
+Afternoon
 Presentations on advanced imaging technologies for digitizing seals 
-(RTI, 3D, etc.): 14:00-15:30, 16:00-17:30Evening
-Brauhaus (Restauration Pütz)Thursday, 12.10.2017:
-(Neues Seminargebäude / Seminar room S13 / 1. floor)Seals expert workshop, part I: Encoding Seals, 09:00-12:30 / 14:00-17:30Introduction & Overview
+(RTI, 3D, etc.): 14:00-15:30, 16:00-17:30
+
+Evening
+Brauhaus (Restauration Pütz)
+
+Thursday, 12.10.2017:
+(Neues Seminargebäude / Seminar room S13 / 1. floor)
+
+Seals expert workshop, part I: Encoding Seals, 09:00-12:30 / 14:00-17:30
+
+Introduction & Overview
 - Seal digitization projects: state of affairs
 - Adjacent projects and encoding standards (TEI, NUML, CEI)
-- Vocabularies and terminologyTowards an encoding standard in digital sigillography:
+- Vocabularies and terminology
+
+Towards an encoding standard in digital sigillography:
 - Metadata
 - Physical description
 - Iconography
-- TranscriptionPublic lecture:
-Charlotte Roueche: Back to Socrates: Publication as Dialogue, 18:00-19:30Friday, 13.10.2017:
-(Neues Seminargebäude / Seminar room S13 / 1. floor)Seals expert workshop, part II: Presenting Seals, 09:00-12:30Topics to be discussed:
+- Transcription
+
+Public lecture:
+Charlotte Roueche: Back to Socrates: Publication as Dialogue, 18:00-19:30
+
+Friday, 13.10.2017:
+(Neues Seminargebäude / Seminar room S13 / 1. floor)
+
+Seals expert workshop, part II: Presenting Seals, 09:00-12:30
+
+Topics to be discussed:
 - Interfaces
 - Presentation systems
-- PortalsConclusions, Plans & Perspectives--Organizers:
+- Portals
+
+Conclusions, Plans & Perspectives
+
+--
+
+Organizers:
 - Gabriel Bodard
 - Martina Filosa
 - Franz Fischer
 - Patrick Sahle
 - Claudia Sode
-- Simona StoyanovaInstitutions involved:
+- Simona Stoyanova
+
+Institutions involved:
 - Institut für Altertumskunde, Abteilung Byzantinistik und 
 Neugriechische Philologie
 - Nordrhein-Westfälische Akademie der Wissenschaften und der Künste, 
 Arbeitsstelle für Papyrologie, Epigraphik und Numismatik am Institut für 
 Altertumskunde
 - Historisches Institut, Abteilung Alte Geschichte
-- Cologne Center for eHumanities (CCeH)-- 
+- Cologne Center for eHumanities (CCeH)
+
+-- 
 Dr. Franz Fischer
 Cologne Center for eHumanities
 Universität zu Köln, Universitätsstr. 22, D-50923 Köln
 +49 - (0)221 - 470 - 4056
 _redacted_(a)uni-koeln.de
-@vranzvischercceh.uni-koeln.de, dixit.uni-koeln.de
+@vranzvischer
+
+cceh.uni-koeln.de, dixit.uni-koeln.de
 i-d-e.de, ride.i-d-e.de
 digitalmedievalist.org, digitalmedievalist.org/journal
-guillelmus.uni-koeln.de, confessio.ie
---===============2312206901337931302==
-Content-Type: text/html
+guillelmus.uni-koeln.de, confessio.ie
+
+
+
+--2312206901337931302Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWw+CiAgPGhlYWQ+CiAgICA8bWV0YSBodHRwLWVxdWl2PSJjb250ZW50LXR5cGUiIGNvbnRl
+Content-Disposition: attachment; filename�ttachment.html"
+MIME-Version: 1.0
+
+PGh0bWw+CiAgPGhlYWQ+CiAgICA8bWV0YSBodHRwLWVxdWl2PSJjb250ZW50LXR5cGUiIGNvbnRl
 bnQ9InRleHQvaHRtbDsgY2hhcnNldD11dGYtOCI+CiAgPC9oZWFkPgogIDxib2R5IHRleHQ9IiMw
 MDAwMDAiIGJnY29sb3I9IiNGRkZGRkYiPgogICAgPHA+RGVhciBkaWdpdGFsIG1lZGlldmFsaXN0
 cyw8L3A+CiAgICA8cD5Gcm9tIDkgdG8gMTMgT2N0b2JlciAyMDE3IHRoZSBVbml2ZXJzaXR5IG9m
@@ -141,4 +196,4 @@ LWtvZWxuLmRlIj5mcmFuei5maXNjaGVyQHVuaS1rb2Vsbi5kZTwvYT4KQHZyYW56dmlzY2hlcgoK
 Y2NlaC51bmkta29lbG4uZGUsIGRpeGl0LnVuaS1rb2Vsbi5kZQppLWQtZS5kZSwgcmlkZS5pLWQt
 ZS5kZQpkaWdpdGFsbWVkaWV2YWxpc3Qub3JnLCBkaWdpdGFsbWVkaWV2YWxpc3Qub3JnL2pvdXJu
 YWwKZ3VpbGxlbG11cy51bmkta29lbG4uZGUsIGNvbmZlc3Npby5pZTwvcHJlPgogIDwvYm9keT4K
-PC9odG1sPgo=
+PC9odG1sPgo

@@ -1,4 +1,11 @@
-Subject: [dm-l] FW: Announcing the launch of REED OnlineFYI====ANNOUNCING THE LAUNCH OF REED ONLINEThe Records of Early English Drama (REED) project is delighted to announce
+Subject: [dm-l] FW: Announcing the launch of REED Online
+
+FYI
+
+
+ANNOUNCING THE LAUNCH OF REED ONLINE
+
+The Records of Early English Drama (REED) project is delighted to announce
 the launch of *REED Online* (http://ereed.library.utoronto.ca), its new
 open-access website. The site features REED's first digital edition of
 dramatic records for the county of Staffordshire, encoded in TEI. Easily
@@ -8,7 +15,9 @@ and any glosses or related endnotes. GIS mapping based on the *Patrons and
 Performances* map of historic county boundaries and main roads illuminates
 significant details further. For students and those new to records
 research, search tips, an introduction to the research process, and an
-anatomy of a sample record provide a welcoming guide.The *Staffordshire* records, edited by J.A.B. Somerset, are found in
+anatomy of a sample record provide a welcoming guide.
+
+The *Staffordshire* records, edited by J.A.B. Somerset, are found in
 scattered collections, but they yield fascinating glimpses of early social
 and economic history through accounts of public performances, social
 occasions, royal welcomes, folk customs, and professional entertainments. A
@@ -24,16 +33,27 @@ playing, and firing the town constable for turning a blind eye. For those
 interested in tracking the itineraries of professional troupes across the
 kingdom, new details of performance troupes visiting Stafford and Walsall
 as well as the private residences of Beaudesert, Blithfield, and Burton
-will be important.*Staffordshire* is REED's pilot digital publication, with more collections
+will be important.
+
+*Staffordshire* is REED's pilot digital publication, with more collections
 forthcoming on the same website to enable easy cross-collection searching.
 As REED begins planning for the production of the next collection for the
 county of Berkshire, the integration of *Patrons and Performances* data,
 and the further development of *REED Online*, it welcomes all comments and
 suggestions from users. Please send any feedback to REED’s project manager,
-_redacted_(a)utoronto.ca.REED gives special thanks to the Social Sciences and Humanities Research
+_redacted_(a)utoronto.ca.
+
+REED gives special thanks to the Social Sciences and Humanities Research
 Council of Canada for a Connection grant that has made possible development
-of our digital publishing framework for *REED Online*.
---Dr James Cummings, Academic IT Services, University of OxfordPGRpdiBkaXI9Imx0ciI+PHA+RllJPGJyPgo8L3A+CjxwPj09PT08YnI+CjwvcD4KPHA+QU5OT1VO
+of our digital publishing framework for *REED Online*.
+
+--
+
+Dr James Cummings, Academic IT Services, University of Oxford
+
+
+
+PGRpdiBkaXI9Imx0ciI+PHA+RllJPGJyPgo8L3A+CjxwPj09PT08YnI+CjwvcD4KPHA+QU5OT1VO
 Q0lORyBUSEUgTEFVTkNIIE9GIFJFRUQgT05MSU5FPGJyPgogIDxicj4KVGhlIFJlY29yZHMgb2Yg
 RWFybHkgRW5nbGlzaCBEcmFtYSAoUkVFRCkgcHJvamVjdCBpcyBkZWxpZ2h0ZWQgdG8gYW5ub3Vu
 Y2UgdGhlIGxhdW5jaCBvZiA8aT5SRUVEIE9ubGluZTwvaT4KICg8YSBocmVmPSJodHRwOi8vZXJl
@@ -86,4 +106,4 @@ YW5kIEh1bWFuaXRpZXMgClJlc2VhcmNoIENvdW5jaWwgb2YgQ2FuYWRhIGZvciBhIENvbm5lY3Rp
 b24gZ3JhbnQgdGhhdCBoYXMgbWFkZSBwb3NzaWJsZQogZGV2ZWxvcG1lbnQgb2Ygb3VyIGRpZ2l0
 YWwgcHVibGlzaGluZyBmcmFtZXdvcmsgZm9yIDxpPlJFRUQgT25saW5lPC9pPi48YnI+CjwvcD48
 cD48YnI+PC9wPjxwPi0tPC9wPjxwPkRyIEphbWVzIEN1bW1pbmdzLCBBY2FkZW1pYyBJVCBTZXJ2
-aWNlcywgVW5pdmVyc2l0eSBvZiBPeGZvcmQ8L3A+PC9kaXY+Cg==
+aWNlcywgVW5pdmVyc2l0eSBvZiBPeGZvcmQ8L3A+PC9kaXY+Cg

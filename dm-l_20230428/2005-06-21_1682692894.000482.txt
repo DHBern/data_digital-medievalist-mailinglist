@@ -1,11 +1,17 @@
-Subject: RE: [dm-l] Searching Latin texts and orthographical variantsPS, you might want to look at the Perl port of Lucene:
+Subject: RE: [dm-l] Searching Latin texts and orthographical variants
+
+PS, you might want to look at the Perl port of Lucene:
 http://search.cpan.org/~strytoast/Plucene-1.0/
 <http://search.cpan.org/~strytoast/Plucene-1.0/> . All you would need to
 do is come up with an Analyzer that runs the transformation rules. We've
 had good experiences with the original Java Lucene, but I don't know
 whether the Perl version does as well..
  
-PeterPCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMCBUcmFuc2l0aW9uYWwv
+Peter
+
+
+
+PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMCBUcmFuc2l0aW9uYWwv
 L0VOIj4KPEhUTUw+PEhFQUQ+CjxNRVRBIGh0dHAtZXF1aXY9Q29udGVudC1UeXBlIGNvbnRlbnQ9
 InRleHQvaHRtbDsgY2hhcnNldD11cy1hc2NpaSI+CjxNRVRBIGNvbnRlbnQ9Ik1TSFRNTCA2LjAw
 LjI4MDAuMTUwNSIgbmFtZT1HRU5FUkFUT1I+CjxTVFlMRT48L1NUWUxFPgo8L0hFQUQ+CjxCT0RZ
@@ -26,4 +32,5 @@ NjIwMDU+PC9TUEFOPjwvRk9OVD48L0ZPTlQ+PC9GT05UPjwvU1BBTj4mbmJzcDs8L0RJVj4KPERJ
 Vj48U1BBTiBjbGFzcz02NDg0NDM2MTgtMjEwNjIwMDU+PEZPTlQgZmFjZT1BcmlhbD48Rk9OVCBj
 b2xvcj0jMDAwMGZmPjxGT05UIApzaXplPTI+PFNQQU4gCmNsYXNzPTY0ODQ0MzYxOC0yMTA2MjAw
 NT5QZXRlcjwvU1BBTj48L0ZPTlQ+PC9GT05UPjwvRk9OVD48L1NQQU4+PC9ESVY+PC9CT0RZPjwv
-SFRNTD4K
+SFRNTD4K
+

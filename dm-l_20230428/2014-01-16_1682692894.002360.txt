@@ -1,23 +1,46 @@
-Subject: [dm-l] Can you help us? dm-l has been having trouble with orHi all,As you may or may not have heard, the University of Lethbridge's mailing 
+Subject: [dm-l] Can you help us? dm-l has been having trouble with or
+
+Hi all,
+
+As you may or may not have heard, the University of Lethbridge's mailing 
 lists have been under what seems to have been intended as a sustain DoS 
 attack (actually its not clear what the point of the attack was other 
 than to be annoying): tens of subscription requests a minute from a 
 limited number of addresses to all publicly available pages. The result 
 is that list administrators have been overwhelmed by noise from their 
-subscription pages (I just trashed 2k requests from the last few days).Lost in that noise have almost certainly been some real requests. 
+subscription pages (I just trashed 2k requests from the last few days).
+
+Lost in that noise have almost certainly been some real requests. 
 Indeed, when I just checked now (the DoS seems to have calmed down), the 
 majority of requests looked legitimate: real email addresses and real 
-names that seemed to match the email addresses in the names boxes.If you know somebody who tried to join dm-l in the last two months, or 
+names that seemed to match the email addresses in the names boxes.
+
+If you know somebody who tried to join dm-l in the last two months, or 
 if you recommended to somebody that they join dm-l in that time, could 
 you check with them to see if they were ignored or rejected (you get an 
 email when you are subscribed). And if they were, ask them to try 
-resubscribing?The URL is here: http://listserv.uleth.ca/mailman/listinfo/dm-lBecause it isn't 100% clear that the problem has stopped (our IT 
+resubscribing?
+
+The URL is here: http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+Because it isn't 100% clear that the problem has stopped (our IT 
 department is supposed to be working on installing a captcha to prevent 
 automatic signups but hasn't done it yet), they should bother me 
-personally if they can't get on this time.Thanks and apologies for this inconvenience.-dan-- 
+personally if they can't get on this time.
+
+Thanks and apologies for this inconvenience.
+
+-dan
+
+-- 
 ---
 Daniel Paul O'Donnell
 Professor of English
 University of Lethbridge
 Lethbridge AB T1K 3M4
-Canada+1 403 393-2539
+Canada
+
++1 403 393-2539
+
+
+

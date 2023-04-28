@@ -1,4 +1,6 @@
-Subject: RE: [dm-l] Form-based methods of building xml? I use Cocoon a lot, and for a particular project I've built a system
+Subject: RE: [dm-l] Form-based methods of building xml?
+
+ I use Cocoon a lot, and for a particular project I've built a system
 similar to what you describe. I run an instance of Cocoon on my laptop,
 which serves out html forms to my browser, populated with info from a
 particular xml file. When I submit a form, another pipeline writes the
@@ -7,9 +9,14 @@ Transformer
 (http://cocoon.apache.org/2.1/userdocs/transformers/sourcewriting-transf
 ormer.html). This allows me to use the amazing power of Cocoon Forms to
 manage the mapping from the source xml to the form and back again
-(http://cocoon.apache.org/2.1/userdocs/forms/sample.html). It would probably be overkill to pick up Cocoon from scratch for this
-purpose, but maybe you've been looking for an opportunity to try Cocoon?
-PeterPeter Binkley
+(http://cocoon.apache.org/2.1/userdocs/forms/sample.html). 
+
+It would probably be overkill to pick up Cocoon from scratch for this
+purpose, but maybe you've been looking for an opportunity to try Cocoon?
+
+Peter
+
+Peter Binkley
 Digital Initiatives Technology Librarian
 Information Technology Services
 4-30 Cameron Library
@@ -18,7 +25,11 @@ Edmonton, Alberta
 Canada T6G 2J8
 Phone: (780) 492-3743
 Fax: (780) 492-9243
-_redacted_(a)ualberta.ca> -----Original Message-----
+_redacted_(a)ualberta.ca
+
+
+
+> -----Original Message-----
 _redacted_(a)uleth.ca] On 
 > Behalf Of Daniel O'Donnell
 > Sent: Friday, January 07, 2005 02:16 PM
@@ -82,5 +93,7 @@ _redacted_(a)uleth.ca>
 _redacted_(a)uleth.ca dm-l 
 _redacted_(a)uleth.ca 
 > http://listserv.uleth.ca/mailman/listinfo/dm-l
-> 
---===============5967262494603957294==--
+> 
+
+--5967262494603957294-
+

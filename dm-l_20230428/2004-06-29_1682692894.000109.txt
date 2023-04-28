@@ -1,4 +1,6 @@
-Subject: Re: [dm-l] palaeography and computingOn Tue, 29 Jun 2004 10:57:54 +0100
+Subject: Re: [dm-l] palaeography and computing
+
+On Tue, 29 Jun 2004 10:57:54 +0100
 _redacted_(a)kcl.ac.uk> wrote:
 > I'll try to explain better my needs. I'd like to have a kind of 
 > reference for the description of the morphology (meaning 
@@ -20,20 +22,37 @@ _redacted_(a)kcl.ac.uk> wrote:
 > 
 > Cheers,
 > 
-> AriannaArianna --The discussion so far about how to go about such stuff has been 
+> Arianna
+
+Arianna --
+
+The discussion so far about how to go about such stuff has been 
 entirely TEI/logocentric in its approach to the data. For an 
 alternative approach, you might also want to look into the work of 
-Satoko Tokunaga and Tomohiro Kishida at Keio University, Japan. They gave a fantastic talk last summer at Peter Robinson's New 
+Satoko Tokunaga and Tomohiro Kishida at Keio University, Japan. 
+
+They gave a fantastic talk last summer at Peter Robinson's New 
 Technology/Old Text conference on “Computer-assisted analysis of 
 Caxton's Typography," in which they demonstrate software they had 
 developed for morphological analysis of individual characters. Very 
 impressive stuff, and an important addition to the usual mode of 
-trying to describe visual shapes through textual descriptions.~ Martin Foys
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Martin K. Foys
+trying to describe visual shapes through textual descriptions.
+
+~ Martin Foys
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Martin K. Foys
 Assistant Professor
 Department of English
 Hood College
-Frederick, MD 21701vox: 301~696~3740
+Frederick, MD 21701
+
+vox: 301~696~3740
 fax: 301~696~3586
-_redacted_(a)hood.eduBayeux Tapestry Digital Edition: http://www.sd-editions.com
---===============8399337407414841742==--
+_redacted_(a)hood.edu
+
+Bayeux Tapestry Digital Edition: http://www.sd-editions.com
+
+--8399337407414841742-
+

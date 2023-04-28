@@ -1,16 +1,30 @@
-Subject: Re: [dm-l] palaeography and computingI'll try to explain better my needs. I'd like to have a kind of 
+Subject: Re: [dm-l] palaeography and computing
+
+I'll try to explain better my needs. I'd like to have a kind of 
 reference for the description of the morphology (meaning 
 palaeographical shapes) of letters, ligatures and so on. I probably 
 could build my own structure and try to express it using XML, but, 
 before doing that, I wanted to look around and see if some more 
-ambitious international project has already faced the problem.So, when you say
+ambitious international project has already faced the problem.
+
+So, when you say
 "where each glyph used in the manuscript 
 including ligatures or junctures (sorted by hand and script) can be 
 described, linked to a typical image or more and a transcription and 
-transliteration"what do you mean for "can be 
-described"? Do you have a set of possible terms to use in the description?Cheers,Arianna
+transliteration"
+
+what do you mean for "can be 
+described"? 
+
+Do you have a set of possible terms to use in the description?
+
+Cheers,
+
+Arianna
 On Mon, 28 Jun 2004 15:39:37 -0600 Murray McGillivray 
-_redacted_(a)ucalgary.ca> wrote:> Arianna Ciula wrote:
+_redacted_(a)ucalgary.ca> wrote:
+
+> Arianna Ciula wrote:
 > 
 > >Is there any sort of DTD designed with the purpose of describing a 
 > >medieval manuscript, not just in its physical features as a global 
@@ -43,7 +57,13 @@ _redacted_(a)ucalgary.ca> wrote:> Arianna Ciula wrote:
 > dm-l mailing list
 _redacted_(a)uleth.ca
 > http://listserv.uleth.ca/mailman/listinfo/dm-l
-> ----------------------
+> 
+
+----------------------
 Arianna Ciula
-_redacted_(a)kcl.ac.uk
---===============6628572707431954649==--
+_redacted_(a)kcl.ac.uk
+
+
+
+--6628572707431954649-
+

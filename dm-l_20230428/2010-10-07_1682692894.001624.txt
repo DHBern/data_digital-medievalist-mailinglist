@@ -1,16 +1,26 @@
-Subject: Re: [dm-l] TAN: How does one reference a location in an electronicI agree with Jesse: any referencing system we develop is going to have=20
-to be on the scholar side rather than the producer side, since the=20
-stakes are higher for us and we won't be able to rely on publishers or=20
-content designers doing the work for us.An ideal solution would be that every producer put in a unique id at the=20
-beginning of every example of some agreed upon unit of text (paragraph=20
-or segment of so many characters, or whatever). But I suspect that=20
-counting paragraphs oneself is the only reliable way of doing this. Of=20
-course some canonical texts might well acquire common units (like=20
-chapter and verse).In that sense, I think it is probably like why HTML took off, but the=20
-semantic web is much slower (even through Tim Berners Lee discusses both=20
-in his original memo). Not everybody cares about semantically rich data,=20
-so the lowest common denominator was simply "content in document with=20
-pointed brackets" not "content tied to a recognised ontological schema."-danOn 10-10-07 11:08 AM, Jesse Hurlbut wrote:
+Subject: Re: [dm-l] TAN: How does one reference a location in an electronic
+
+I agree with Jesse: any referencing system we develop is going to have 
+to be on the scholar side rather than the producer side, since the 
+stakes are higher for us and we won't be able to rely on publishers or 
+content designers doing the work for us.
+
+An ideal solution would be that every producer put in a unique id at the 
+beginning of every example of some agreed upon unit of text (paragraph 
+or segment of so many characters, or whatever). But I suspect that 
+counting paragraphs oneself is the only reliable way of doing this. Of 
+course some canonical texts might well acquire common units (like 
+chapter and verse).
+
+In that sense, I think it is probably like why HTML took off, but the 
+semantic web is much slower (even through Tim Berners Lee discusses both 
+in his original memo). Not everybody cares about semantically rich data, 
+so the lowest common denominator was simply "content in document with 
+pointed brackets" not "content tied to a recognised ontological schema."
+
+-dan
+
+On 10-10-07 11:08 AM, Jesse Hurlbut wrote:
 > The addition of standardized location markers sounds pretty great, but
 > getting everyone to do it (or to follow any given standard) seems
 > pretty optimistic--especially retroactively.
@@ -29,27 +39,22 @@ pointed brackets" not "content tied to a recognised ontological schema."-dan
 >
 > Jesse Hurlbut
 >
-_redacted_(a)umich.edu>  =
-wrote:
->   =20
+_redacted_(a)umich.edu>  wrote:
+>    
 >> Dear Norman,
 >>
->> Of course!  But one would never cite p. 47 of the Bible or of the Aeneid--=
-or
+>> Of course!  But one would never cite p. 47 of the Bible or of the Aeneid--or
 >> indeed, probably any work that was well known before the age of print (just
 >> as Heinrich Kuhn illustrates in his message).
 >>
 >> For works born in the print era, and especially those locked down by
 >> copyright to one edition at a time with a single publisher, page numbers
 >> have always seemed natural and convenient.  But as more and more works
->> appear in many different formats all at once, and where print is just one =
-of
+>> appear in many different formats all at once, and where print is just one of
 >> many ways to access a work, it's apparent that a page number is no longer
 >> necessarily the most reliable, or even useful, citation.  I think that in a
->> post-print age (by which I mean not a world without print, but a world whe=
-re
->> print is one of many options) we'll eventually begin to cite all works as =
-we
+>> post-print age (by which I mean not a world without print, but a world where
+>> print is one of many options) we'll eventually begin to cite all works as we
 >> already do works for which "no standard edition exists (or which is
 >> available in many manuscripts)"
 >>
@@ -60,18 +65,17 @@ we
 >>
 _redacted_(a)sbcglobal.net>  wrote:
 >>
->>     =20
+>>      
 >>>> Don't blame the technology! I blame print culture, for convincing us that
->>>> tying a piece of information to an absolute physical location is normal =
-and
+>>>> tying a piece of information to an absolute physical location is normal and
 >>>> necessary.  The proliferation of devices and systems right now is just
 >>>> opening our eyes to the fact that this isn't the case
->>>>         =20
+>>>>          
 >>> Have you never wanted to look up a citation and read its context ?
 >>>
 >>> --
 >>> Norman Hinton
->>>       =20
+>>>        
 >>
 >> Digital Medievalist --  http://www.digitalmedievalist.org/
 >> Journal: http://www.digitalmedievalist.org/journal/
@@ -83,7 +87,7 @@ and
 _redacted_(a)uleth.ca
 >> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
 >>
->>     =20
+>>      
 > Digital Medievalist --  http://www.digitalmedievalist.org/
 > Journal: http://www.digitalmedievalist.org/journal/
 > Journal Editors: editors _AT_ digitalmedievalist.org
@@ -93,15 +97,23 @@ _redacted_(a)uleth.ca
 > Facebook: http://www.facebook.com/group.php?gidI320313760
 _redacted_(a)uleth.ca
 > Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
->   =20--=20
+>    
+
+-- 
 Daniel Paul O'Donnell
 Professor of English
-University of LethbridgeChair and CEO, Text Encoding Initiative (http://www.tei-c.org/)
+University of Lethbridge
+
+Chair and CEO, Text Encoding Initiative (http://www.tei-c.org/)
 Co-Chair, Digital Initiatives Advisory Board, Medieval Academy of America
-President-elect (English), Society for Digital Humanities/Soci=C3=A9t=C3=A9 p=
-our l'=C3=A9tude des m=C3=A9dias interactifs (http://sdh-semi.org/)
-Founding Director (2003-2009), Digital Medievalist Project (http://www.digita=
-lmedievalist.org/)Vox: +1 403 329-2377
+President-elect (English), Society for Digital Humanities/Société pour l'étude des médias interactifs (http://sdh-semi.org/)
+Founding Director (2003-2009), Digital Medievalist Project (http://www.digitalmedievalist.org/)
+
+Vox: +1 403 329-2377
 Fax: +1 403 382-7191 (non-confidential)
-Home Page: http://people.uleth.ca/~daniel.odonnell/
---===============7959336207568803945==--
+Home Page: http://people.uleth.ca/~daniel.odonnell/
+
+
+
+--7959336207568803945-
+

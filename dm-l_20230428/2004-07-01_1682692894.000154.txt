@@ -1,30 +1,33 @@
-Subject: Re: [dm-l] DTD for Editing Medieval Booklists ?I don't know of any specific project with a dtd for this problem; but I=20
-wonder why the TEI guidelines wouldn't work. Between the metadata,=20
-headers, and text components, is not everything that you need there? I'd=20
-imagine off the top of my head that you'd encode the catalogue and text=20
-as a corpus (the text part) and extract material as needed (the database=20
+Subject: Re: [dm-l] DTD for Editing Medieval Booklists ?
+
+I don't know of any specific project with a dtd for this problem; but I 
+wonder why the TEI guidelines wouldn't work. Between the metadata, 
+headers, and text components, is not everything that you need there? I'd 
+imagine off the top of my head that you'd encode the catalogue and text 
+as a corpus (the text part) and extract material as needed (the database 
 part). But perhaps I'm not understanding the problem.
--danLucien Reynhout wrote:> Dear =E2=80=98dm-l=E2=80=99 Community Members,
+-dan
+
+Lucien Reynhout wrote:
+
+> Dear ‘dm-l’ Community Members,
 >
-> Next fall, I=E2=80=99ll have to present a lecture in the framework of a stu=
-dy=20
-> day dedicated to medieval libraries and booklists (medieval lists of=20
-> manuscript and, more rarely, printed books) in the Southern Low=20
-> Countries (http://calenda.revues.org/nouvelle4283.html). I will speak=20
-> about the possibility of an electronic publication (of the textual=20
-> contents, not only the bibliographic references) of those medieval=20
-> sources, which are at the same time texts and structured =E2=80=98data base=
-s=E2=80=99=20
-> for the knowledge of manuscript books and medieval libraries. I=20
-> naturally turned towards the rich concept of structured=20
-> texts/documents and markup languages, and towards XML and the TEI=20
-> which seems to be at the forefront of text encoding standardization in=20
-> the humanities. Now, although I did very carefully examine the TEI=20
-> website, I didn=E2=80=99t find any mention of a project dealing with a DTD =
-on=20
+> Next fall, I’ll have to present a lecture in the framework of a study 
+> day dedicated to medieval libraries and booklists (medieval lists of 
+> manuscript and, more rarely, printed books) in the Southern Low 
+> Countries (http://calenda.revues.org/nouvelle4283.html). I will speak 
+> about the possibility of an electronic publication (of the textual 
+> contents, not only the bibliographic references) of those medieval 
+> sources, which are at the same time texts and structured ‘data bases’ 
+> for the knowledge of manuscript books and medieval libraries. I 
+> naturally turned towards the rich concept of structured 
+> texts/documents and markup languages, and towards XML and the TEI 
+> which seems to be at the forefront of text encoding standardization in 
+> the humanities. Now, although I did very carefully examine the TEI 
+> website, I didn’t find any mention of a project dealing with a DTD on 
 > that particular field.
 >
-> Could anybody of yours be so kind as to inform me of such an=20
+> Could anybody of yours be so kind as to inform me of such an 
 > initiative if he/she knows about it?
 >
 > Thank you very much,
@@ -33,15 +36,13 @@ on=20
 >
 > Royal Library of Belgium
 >
-> ***************************************************************************=
-**********
+> *************************************************************************************
 >
 > Dr. Lucien Reynhout
 >
 > Assistant / Assistent
 >
-> Biblioth=C3=A8que royale de Belgique / Koninklijke Bibliotheek van Belgi=C3=
-=AB
+> Bibliothèque royale de Belgique / Koninklijke Bibliotheek van België
 >
 > Keizerslaan 4 Boulevard de l'Empereur
 >
@@ -53,8 +54,7 @@ on=20
 >
 _redacted_(a)kbr.be
 >
-> ***************************************************************************=
-**********=20
+> ************************************************************************************* 
 >
 >
 >------------------------------------------------------------------------
@@ -63,8 +63,10 @@ _redacted_(a)kbr.be
 >dm-l mailing list
 _redacted_(a)uleth.ca
 >http://listserv.uleth.ca/mailman/listinfo/dm-l
-> =20
->--=20
+>  
+>
+
+-- 
 Daniel Paul O'Donnell, PhD
 Associate Professor of English
 University of Lethbridge
@@ -72,4 +74,9 @@ Lethbridge AB T1K 3M4
 Tel. (403) 329-2377
 Fax. (403) 382-7191
 _redacted_(a)uleth.ca>
-Home Page <http://people.uleth.ca/~daniel.odonnell/>
+Home Page <http://people.uleth.ca/~daniel.odonnell/>
+
+
+
+
+

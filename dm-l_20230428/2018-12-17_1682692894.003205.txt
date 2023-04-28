@@ -1,28 +1,50 @@
-Subject: [dm-l] Call for Reviews: "Tools and Environments for DigitalDear digital medievalists,The Institute for Documentology and Scholarly Editing (IDE) is calling 
+Subject: [dm-l] Call for Reviews: "Tools and Environments for Digital
+
+Dear digital medievalists,
+
+The Institute for Documentology and Scholarly Editing (IDE) is calling 
 for reviews for a special issue of the journal RIDE, dedicated to Tools 
 and Environments for Digital Scholarly Editing (DSE):
-https://www.i-d-e.de/cfr-tools/To guide reviewers through the review process and to create a structure 
+https://www.i-d-e.de/cfr-tools/
+
+To guide reviewers through the review process and to create a structure 
 for the evaluation, we provide Criteria for Reviewing Digital Tools and 
 Environments for DSE that are supposed to be applicable to various types 
 of resources. The guidelines (Version 1.0) can be found here:
-https://www.i-d-e.de/publikationen/weitereschriften/criteria-tools-version-1/Reviews will be accepted until the 31st of May 2019.We kindly ask you to email us before start reviewing a tool at 
+https://www.i-d-e.de/publikationen/weitereschriften/criteria-tools-version-1/
+
+Reviews will be accepted until the 31st of May 2019.
+
+We kindly ask you to email us before start reviewing a tool at 
 ride-tools (at) i-d-e.de with a suggestion of which resource you would 
 like to review and with a short explanation of your affiliation and area 
 of expertise. This is important in order to avoid multiple reviews of 
-the same tool.BackgroundIn the introduction to his book Software takes command (Bloomsbury 
+the same tool.
+
+Background
+
+In the introduction to his book Software takes command (Bloomsbury 
 Publishing, 2013) Lev Manovich states that "software has become our 
 interface to the world, to others, to our memory and our imagination". 
 Is the same happening in the world of digital scholarly editing? 
 Certainly we cannot ignore their fundamental role in our daily scholarly 
 practices and in the interactions with our objects of study. Insofar as 
-tools shape scholarly editions, they also shape scholarly editing.A new RIDE issue is devoted to tools for digital scholarly editing. The 
-aim of this issue is to:  * contribute to the discussion about tooling in Digital Humanities,
+tools shape scholarly editions, they also shape scholarly editing.
+
+A new RIDE issue is devoted to tools for digital scholarly editing. The 
+aim of this issue is to:
+
+  * contribute to the discussion about tooling in Digital Humanities,
   * bring to the forefront the instruments instead of the final products,
   * provide a venue for discussing best practices in the development and
     usage of tools,
-  * list useful resources for all those involved in scholarly editing.Beyond that, we hope that the critical examination of digital tools 
+  * list useful resources for all those involved in scholarly editing.
+
+Beyond that, we hope that the critical examination of digital tools 
 draws greater attention to the (scholarly) achievements that their 
-creation and maintenance imply.The journal RIDE was founded in 2014 to "provide a forum in which expert 
+creation and maintenance imply.
+
+The journal RIDE was founded in 2014 to "provide a forum in which expert 
 peers criticise and discuss the efforts of digital editors in order to 
 improve current practices and advance future developments" (RIDE 
 Editorial). RIDE is Open Access, reviews are published as HTML and 
@@ -30,25 +52,39 @@ downloadable as TEI. All reviews will be peer reviewed in order to reach
 a high quality level of the evaluations. The special issue on Digital 
 Tools and Environments for DSE will be edited by Anna-Maria Sichani 
 (University of Sussex) and Elena Spadini (University of Lausanne).
-Submission detailsReviews are accepted in English, French, Italian, and Spanish. The 
+Submission details
+
+Reviews are accepted in English, French, Italian, and Spanish. The 
 length of the review can vary depending on how much the resource offers 
-that is worthy of discussion (approximately 2000-5000 words).Please submit your review at ride-tools (at) i-d-e.de  as an editable 
+that is worthy of discussion (approximately 2000-5000 words).
+
+Please submit your review at ride-tools (at) i-d-e.de  as an editable 
 text file (preferably, but not necessarily docx to facilitate the 
 conversion to TEI). Please send illustrations as separate image files 
 (jpg or png) and leave a note in the text as a placeholder for each 
 image. In addition to the text, we collect keywords. Each review should 
 be accompanied by a short abstract in English, independently of the 
-language used in the main text.For further information please check the general RIDE guidelines and 
+language used in the main text.
+
+For further information please check the general RIDE guidelines and 
 information on writing and submitting:
 http://ride.i-d-e.de/reviewers/guidelines/
-http://ride.i-d-e.de/reviewers/writing-and-submitting/The questionnaire mentioned in the submission checklist has been 
+http://ride.i-d-e.de/reviewers/writing-and-submitting/
+
+The questionnaire mentioned in the submission checklist has been 
 designed for scholarly digital editions so far. We will keep you 
-informed about how to proceed with the questionnaire for this special issue.All reviews will be peer reviewed in order to reach a high quality level 
+informed about how to proceed with the questionnaire for this special issue.
+
+All reviews will be peer reviewed in order to reach a high quality level 
 of the evaluations. We believe that this is important because the 
 evaluation of digital scholarly resources usually requires a double 
 expertise in digital methods as well as in individual disciplines. This 
 is also to increase the credit for reviews.
-Suggestions for reviewThe following list is merely alphabetically and not comprehensive:  * Annotation Studio <http://www.annotationstudio.org/>
+Suggestions for review
+
+The following list is merely alphabetically and not comprehensive:
+
+  * Annotation Studio <http://www.annotationstudio.org/>
   * Apache OpenNLP <https://opennlp.apache.org/>
   * CATview <http://catview.uzi.uni-halle.de/>
   * Classical Text Editor <http://cte.oeaw.ac.at/>
@@ -87,18 +123,28 @@ Suggestions for reviewThe following list is merely alphabetically and not comp
   * TUSTEP <http://www.tustep.uni-tuebingen.de/tustep_eng.html>
   * Versioning Machine <http://v-machine.org/>
   * WMRCRE <http://vmrcre.org/>
-  * Zooniverse <https://www.zooniverse.org/>More Digital Tools and Environments can be found on dedicated lists and 
-in catalogs, for example:  * TEI-Wiki Editing Tools
+  * Zooniverse <https://www.zooniverse.org/>
+
+More Digital Tools and Environments can be found on dedicated lists and 
+in catalogs, for example:
+
+  * TEI-Wiki Editing Tools
     <https://wiki.tei-c.org/index.php/Category:Editing_tools> ( last
     modified on 2015-02-20)
   * DIRT <http://dirtdirectory.org> (last update 2015-04-24)
-  * TAPOR 3.0 <http://tapor.ca/home>On behalf of the editors,
-Franz
---===============4918660736866331418==
-Content-Type: text/html
+  * TAPOR 3.0 <http://tapor.ca/home>
+
+On behalf of the editors,
+Franz
+
+
+
+--4918660736866331418Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWw+CiAgPGhlYWQ+CgogICAgPG1ldGEgaHR0cC1lcXVpdj0iY29udGVudC10eXBlIiBjb250
+Content-Disposition: attachment; filename�ttachment.html"
+MIME-Version: 1.0
+
+PGh0bWw+CiAgPGhlYWQ+CgogICAgPG1ldGEgaHR0cC1lcXVpdj0iY29udGVudC10eXBlIiBjb250
 ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9VVRGLTgiPgogIDwvaGVhZD4KICA8Ym9keSB0ZXh0PSIj
 MDAwMDAwIiBiZ2NvbG9yPSIjRkZGRkZGIj4KICAgIDxwPkRlYXIgZGlnaXRhbCBtZWRpZXZhbGlz
 dHMsPC9wPgogICAgPHA+VGhlIEluc3RpdHV0ZSBmb3IgRG9jdW1lbnRvbG9neSBhbmQgU2Nob2xh
@@ -305,4 +351,5 @@ KGxhc3QgdXBkYXRlIDIwMTUtMDQtMjQpPC9saT4KICAgICAgPGxpPlRBUE9SIDMuMCA8YSBjbGFz
 cz0ibW96LXR4dC1saW5rLXJmYzIzOTZFIgogICAgICAgICAgaHJlZj0iaHR0cDovL3RhcG9yLmNh
 L2hvbWUiPiZsdDtodHRwOi8vdGFwb3IuY2EvaG9tZSZndDs8L2E+PC9saT4KICAgIDwvdWw+CiAg
 ICA8cD5PbiBiZWhhbGYgb2YgdGhlIGVkaXRvcnMsPGJyPgogICAgICBGcmFuejwvcD4KICA8L2Jv
-ZHk+CjwvaHRtbD4K
+ZHk+CjwvaHRtbD4K
+

@@ -1,12 +1,17 @@
-Subject: Re: [dm-l] Sorting upper and lower case lettersHi Dan!
+Subject: Re: [dm-l] Sorting upper and lower case letters
+
+Hi Dan!
 It depends if you are dependent on a particular tool to effect the sort. 
 If not, it is quite normal to sort words in a case-insensitive or 
 case-sensitive way, at will. You can even find this feature in some text 
 editors, like this one http://www.editplus.com/ (but I am sure others 
 will have other and better suggestions). If you want to program the sort 
 yourself, the precise solution will depend on the language, but you 
-should be able to do that alright.Best wishes,
-Marjorie
+should be able to do that alright.
+
+Best wishes,
+Marjorie
+
 Le 16/04/2011 20:40, Dan Mosser a écrit :
 > The Digital Index of Middle English Verse (iMEV: 
 > http://www.cddc.vt.edu/host/imev/Index.html) is now complete insofar 
@@ -20,11 +25,16 @@ Le 16/04/2011 20:40, Dan Mosser a écrit :
 > computer, I'm wondering if anyone on the list knows of a way to effect 
 > a sort that won't treat them as different.
 >
-> Thanks!
+> Thanks!
+
 -- 
 Marjorie BURGHART
 EHESS (pôle de Lyon) / UMR 5648
 Histoire et Archéologie des Mondes Chrétiens et Musulmans Médiévaux
 18 quai Claude Bernard
-69007 Lyon - FRANCE
---===============1806847283780073538==--
+69007 Lyon - FRANCE
+
+
+
+--1806847283780073538-
+

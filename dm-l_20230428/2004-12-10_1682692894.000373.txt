@@ -1,8 +1,35 @@
-Subject: [dm-l] TAN: XSLT QuestionHello all,
-	I have an XSLT question:I want a stylesheet to reproduce the following html tags (i.e. this is 
-what is in my sheet):<head profile="http://www.url.net"><br/><meta content="some content"/>
-What I get as an output is:<head xmlns="" profile="http://www.url.net"> [i.e. extra namespace]<br> [i.e. no solidus]<meta content="some content"> [i.e. no solidus]Anybody know why this happens or how to turn it off? It is the only 
-thing stopping my files from validating.-dan-- 
+Subject: [dm-l] TAN: XSLT Question
+
+Hello all,
+	I have an XSLT question:
+
+I want a stylesheet to reproduce the following html tags (i.e. this is 
+what is in my sheet):
+
+<head profilettp://www.url.net">
+
+<br/>
+
+<meta contentome content"/>
+
+What I get as an output is:
+
+<head xmlns profilettp://www.url.net"> [i.e. extra namespace]
+
+<br> [i.e. no solidus]
+
+<meta contentome content"> [i.e. no solidus]
+
+Anybody know why this happens or how to turn it off? It is the only 
+thing stopping my files from validating.
+
+-dan
+
+
+
+
+
+-- 
 Daniel Paul O'Donnell, PhD
 Associate Professor of English
 University of Lethbridge
@@ -11,4 +38,7 @@ Tel. (403) 329-2377
 Fax. (403) 382-7191
 _redacted_(a)uleth.ca>
 Home Page <http://people.uleth.ca/~daniel.odonnell/>
-The Digital Medievalist Project: <http://www.digitalmedievalist.org/>
+The Digital Medievalist Project: <http://www.digitalmedievalist.org/>
+
+
+

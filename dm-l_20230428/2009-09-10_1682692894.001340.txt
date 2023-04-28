@@ -1,24 +1,39 @@
-Subject: [dm-l] Old English and Old Norse Keyboard LayoutsFellow Digital Medievalists,=20I recently created Old English and Old Norse custom keyboard layouts for Wind=
-ows intended to be simple for those familiar with the standard US English key=
-board layout. These keyboard layouts are ready to use and easy to install. Pl=
-ease read more and download them here:=20http://megse.unm.edu/research/internal/keyboards.htmlAlso, feel free to distribute them among your colleagues and students (but pl=
-ease credit me and the UNM Medieval Graduate Students in English website).=20I have also linked to Daniel O=E2=80=99Donnell=E2=80=99s custom keyboard solu=
-tion for Linux.=20There certainly are many ways to insert the special characters of our field i=
-nto documents, and my Old English and Old Norse layouts are just another meth=
-od. With that in mind, Dan and I have been talking about custom keyboards for=
- medievalists and think it would be a good idea to design a standardized layo=
-ut. Through the semester, we will be working on some aspects of the design, s=
-uch as which characters should be included, how they should be mapped to the =
-keyboard, and whether it is preferable to create one layout for medievalists =
-or separate keyboards for sub-fields. We would very much like to hear your fe=
-edback on this project, both now and as it develops, as we hope the final pro=
-duct will be something agreeable and useful to the digital medievalist commun=
-ity.=20Douglas Ryan VanBenthuysenThe University of New Mexico=20
---===============4422324610038195137==
-Content-Type: text/html
+Subject: [dm-l] Old English and Old Norse Keyboard Layouts
+
+Fellow Digital Medievalists,
+
+ 
+
+I recently created Old English and Old Norse custom keyboard layouts for Windows intended to be simple for those familiar with the standard US English keyboard layout. These keyboard layouts are ready to use and easy to install. Please read more and download them here: 
+
+http://megse.unm.edu/research/internal/keyboards.html
+
+Also, feel free to distribute them among your colleagues and students (but please credit me and the UNM Medieval Graduate Students in English website).
+
+ 
+
+I have also linked to Daniel O’Donnell’s custom keyboard solution for Linux.
+
+ 
+
+There certainly are many ways to insert the special characters of our field into documents, and my Old English and Old Norse layouts are just another method. With that in mind, Dan and I have been talking about custom keyboards for medievalists and think it would be a good idea to design a standardized layout. Through the semester, we will be working on some aspects of the design, such as which characters should be included, how they should be mapped to the keyboard, and whether it is preferable to create one layout for medievalists or separate keyboards for sub-fields. We would very much like to hear your feedback on this project, both now and as it develops, as we hope the final product will be something agreeable and useful to the digital medievalist community.
+
+ 
+
+Douglas Ryan VanBenthuysen
+
+The University of New Mexico
+
+ 
+
+
+
+--4422324610038195137Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWwgeG1sbnM6dj0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTp2bWwiIHhtbG5zOm89InVy
+Content-Disposition: attachment; filename�ttachment.html"
+MIME-Version: 1.0
+
+PGh0bWwgeG1sbnM6dj0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTp2bWwiIHhtbG5zOm89InVy
 bjpzY2hlbWFzLW1pY3Jvc29mdC1jb206b2ZmaWNlOm9mZmljZSIgeG1sbnM6dz0idXJuOnNjaGVt
 YXMtbWljcm9zb2Z0LWNvbTpvZmZpY2U6d29yZCIgeG1sbnM6bT0iaHR0cDovL3NjaGVtYXMubWlj
 cm9zb2Z0LmNvbS9vZmZpY2UvMjAwNC8xMi9vbW1sIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcv
@@ -95,4 +110,4 @@ YW5CZW50aHV5c2VuPG86cD48L286cD48L3A+Cgo8cCBjbGFzcz1Nc29Ob1NwYWNpbmc+VGhlIFVu
 aXZlcnNpdHkgb2YgTmV3IE1leGljbzxvOnA+PC9vOnA+PC9wPgoKPHAgY2xhc3M9TXNvTm9ybWFs
 PjxzcGFuIHN0eWxlPSdmb250LXNpemU6MTEuMHB0O2ZvbnQtZmFtaWx5OiJCb29rbWFuIE9sZCBT
 dHlsZSIsInNlcmlmIjsKY29sb3I6IzFGNDk3RCc+PG86cD4mbmJzcDs8L286cD48L3NwYW4+PC9w
-PgoKPC9kaXY+Cgo8L2JvZHk+Cgo8L2h0bWw+Cg==
+PgoKPC9kaXY+Cgo8L2JvZHk+Cgo8L2h0bWw+Cg

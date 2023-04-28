@@ -1,6 +1,12 @@
-Subject: Re: [dm-l] Content Management Systems againSetting up a static front page with Drupal is very easy: look under
+Subject: Re: [dm-l] Content Management Systems again
+
+Setting up a static front page with Drupal is very easy: look under
 Administer -> Settings -> General Settings -> Default front page and
-type the name of the page (say "node/31").Laurent_redacted_(a)uleth.ca> wrote:
+type the name of the page (say "node/31").
+
+Laurent
+
+_redacted_(a)uleth.ca> wrote:
 > Hi all,
 >
 > I thought I'd report on my experiments with Content Management Systems
@@ -67,5 +73,7 @@ _redacted_(a)uleth.ca
 > dm-l mailing list
 _redacted_(a)uleth.ca
 > http://listserv.uleth.ca/mailman/listinfo/dm-l
->
---===============1181528020819084581==--
+>
+
+--1181528020819084581-
+

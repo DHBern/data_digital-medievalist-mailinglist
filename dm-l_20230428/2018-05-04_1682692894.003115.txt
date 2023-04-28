@@ -1,56 +1,102 @@
-Subject: [dm-l] Groupe de travail =?utf-8?q?=C2=AB_Lemmes_=C2=BB?= - Atelier 2*Cosme^2 (Consortium Sources M=C3=A9di=C3=A9vales 2)**Groupe de travail =C2=AB=C2=A0Lemmes=C2=A0=C2=BB - Atelier 2******Paris - IRHT - Salle Jeanne Vielliard - **40 avenue d=E2=80=99I=C3=A9na*=20
-<https://www.google.fr/maps/place/IRHT+-+Institut+de+la+recherche+et+d%27hist=
-_redacted_@48.8659918,2.2947109,15z/data=3D%214m5%213m4%211s0x0:0x222e=
-82b445cb4fbc%218m2%213d48.8659918%214d2.2947109>*(m=C3=A9tro=20
-I=C3=A9na)**5 juin 2018 - 10h-18h*=C2=AB=C2=A0Lemmes=C2=A0=C2=BB est l=E2=80=99un des sept groupes de travail d=
-u /COnsortium des=20
-Sources M=C3=A9di=C3=A9vales - Cosme^2 /^- soutenu et financ=C3=A9 par le TGI=
-R Huma-Num=20
-du CNRS pour =C5=93uvrer =C3=A0 la constitution de corpus et d'outils num=C3=
-=A9riques,=20
-consacr=C3=A9 aux sources m=C3=A9di=C3=A9vales, pilot=C3=A9 depuis l=E2=80=99=
-IRHT. Le groupe de=20
-travail =C2=AB=C2=A0Lemmes=C2=A0=C2=BB a pour dessein le d=C3=A9veloppement d=
-es outils existants=20
-et la diffusion de corpus lemmatis=C3=A9s.=C3=80 l=E2=80=99occasion de ce deuxi=C3=A8me atelier seront pr=C3=A9sent=C3=
-=A9es deux recherches=20
-r=C3=A9centes sur les entit=C3=A9s nomm=C3=A9es,et on discutera de la mise en=
- =C5=93uvre de=20
-corpus-test pour l=E2=80=99analyse compar=C3=A9e des diff=C3=A9rents param=C3=
-=A8tres et=20
-lemmatiseurs des langues m=C3=A9di=C3=A9vales (latin, fran=C3=A7ais et anglai=
-s) ainsi=20
-que de la structure et diffusion des fiches descriptives des outils de=20
-lemmatisation et des corpus historiques lemmatis=C3=A9s=C2=A0librement dispon=
-ibles.*L=E2=80=99atelier est ouvert =C3=A0 tous les int=C3=A9ress=C3=A9s *qui sont =
-pri=C3=A9s, pour des=20
-raisons d=E2=80=99organisation mat=C3=A9rielle, de nous informer au plus vite=
- de leur=20
-_redacted_(a)univ-paris1.fr=20
-_redacted_(a)univ-paris1.fr>).*Programme=C2=A0:*=C2=A710h : Tour de table introductif*Autour des =C2=AB=C2=A0entit=C3=A9s nomm=C3=A9es=C2=A0=C2=BB*=C2=A710h30=C2=A0: Approche multi-niveaux pour la reconnaissance des entit=C3=
-=A9s=20
-nomm=C3=A9es en Moyen Fran=C3=A7ais - Mourad Aouini (CNRS - CLT)=C2=A711h30 : Pause=C2=A711h45 : La r=C3=A9cup=C3=A9ration automatique des entit=C3=A9s nomm=C3=
-=A9es dans les=20
-chartes m=C3=A9diolatines. Mod=C3=A9lisation et perspectives d'utilisation - =Sergio Torres (UVSQ - DYPAC)=C2=A712h45 : Buffet*Autour de actions*=C2=A714h : Corpus-test et l=E2=80=99=C3=A9valuation des outils de lemmatisat=
-ion=C2=A715h=C2=A0: Opera latina, le corpus du Laboratoire d=E2=80=99Analyse Sta=
-tistique des=20
-Langues Anciennes (LASLA) - Dominique Longr=C3=A9e, Margherita Fantoli, Marc =Vandersmissen (Universit=C3=A9 de Li=C3=A8ge) (sous r=C3=A9serve)=C2=A715h30 : Pause=C2=A715h45 : Actions de diffusion et d=E2=80=99information scientifique=C2=
-=A0: fiches=20
-descriptives des outils de lemmatisation et des corpus historiques=20
-lemmatis=C3=A9s=C2=A0librement disponibles=C2=A717h30=C2=A0: Bilan de l=E2=80=99atelier et perspectives=C2=A718h : Fin de l'atelier*Organisation=C2=A0:*Eliana Magnani (CNRS, LAMOP) et l=E2=80=99=C3=A9quipe ad=
-ministrative=20
-de l=E2=80=99IRHT.*Liens utiles=C2=A0: *https://www.huma-num.fr/consortiumshttps://www.irht.cnrs.fr/http://cosme.hypotheses.org/**http://web.philo.ulg.ac.be/lasla/https://lamop.univ-paris1.fr/menu-haut/presentation-de-lunite/annuaire/cherch=
-eurs-associes/aouini-mourad/http://www.dypac.uvsq.fr/torres-aguilar-sergio-359917.kjsp--=20
+Subject: [dm-l] Groupe de travail tf-8?q?«_Lemmes_»?
+*Cosme^2 (Consortium Sources Médiévales 2)*
+
+*Groupe de travail « Lemmes » - Atelier 2***
+
+**
+
+*Paris - IRHT - Salle Jeanne Vielliard - **40 avenue d’Iéna* 
+<https://www.google.fr/maps/place/IRHT+-+Institut+de+la+recherche+et+d%27hist_redacted_@48.8659918,2.2947109,15z/data=%214m5%213m4%211s0x0:0x222e82b445cb4fbc%218m2%213d48.8659918%214d2.2947109>*(métro 
+Iéna)*
+
+*5 juin 2018 - 10h-18h*
+
+« Lemmes » est l’un des sept groupes de travail du /COnsortium des 
+Sources Médiévales - Cosme^2 /^- soutenu et financé par le TGIR Huma-Num 
+du CNRS pour œuvrer à la constitution de corpus et d'outils numériques, 
+consacré aux sources médiévales, piloté depuis l’IRHT. Le groupe de 
+travail « Lemmes » a pour dessein le développement des outils existants 
+et la diffusion de corpus lemmatisés.
+
+À l’occasion de ce deuxième atelier seront présentées deux recherches 
+récentes sur les entités nommées,et on discutera de la mise en œuvre de 
+corpus-test pour l’analyse comparée des différents paramètres et 
+lemmatiseurs des langues médiévales (latin, français et anglais) ainsi 
+que de la structure et diffusion des fiches descriptives des outils de 
+lemmatisation et des corpus historiques lemmatisés librement disponibles.
+
+*L’atelier est ouvert à tous les intéressés *qui sont priés, pour des 
+raisons d’organisation matérielle, de nous informer au plus vite de leur 
+_redacted_(a)univ-paris1.fr 
+_redacted_(a)univ-paris1.fr>).
+
+*Programme :*
+
+§10h : Tour de table introductif
+
+*Autour des « entités nommées »*
+
+§10h30 : Approche multi-niveaux pour la reconnaissance des entités 
+nommées en Moyen Français - Mourad Aouini (CNRS - CLT)
+
+§11h30 : Pause
+
+§11h45 : La récupération automatique des entités nommées dans les 
+chartes médiolatines. Modélisation et perspectives d'utilisation - 
+Sergio Torres (UVSQ - DYPAC)
+
+§12h45 : Buffet
+
+*Autour de actions*
+
+§14h : Corpus-test et l’évaluation des outils de lemmatisation
+
+§15h : Opera latina, le corpus du Laboratoire d’Analyse Statistique des 
+Langues Anciennes (LASLA) - Dominique Longrée, Margherita Fantoli, Marc 
+Vandersmissen (Université de Liège) (sous réserve)
+
+§15h30 : Pause
+
+§15h45 : Actions de diffusion et d’information scientifique : fiches 
+descriptives des outils de lemmatisation et des corpus historiques 
+lemmatisés librement disponibles
+
+§17h30 : Bilan de l’atelier et perspectives
+
+§18h : Fin de l'atelier
+
+*Organisation :*Eliana Magnani (CNRS, LAMOP) et l’équipe administrative 
+de l’IRHT.
+
+*Liens utiles : *
+
+https://www.huma-num.fr/consortiums
+
+https://www.irht.cnrs.fr/
+
+http://cosme.hypotheses.org/**
+
+http://web.philo.ulg.ac.be/lasla/
+
+https://lamop.univ-paris1.fr/menu-haut/presentation-de-lunite/annuaire/chercheurs-associes/aouini-mourad/
+
+http://www.dypac.uvsq.fr/torres-aguilar-sergio-359917.kjsp
+
+-- 
 Eliana Magnani
-Charg=C3=A9e de recherche au CNRS
+Chargée de recherche au CNRS
 LAMOP UMR 8589
 _redacted_(a)univ-paris1.fr
-https://cv.archives-ouvertes.fr/eliana-magnani
---===============6847314770510865351==
-Content-Type: text/html
+https://cv.archives-ouvertes.fr/eliana-magnani
+
+
+
+--6847314770510865351Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWw+CiAgPGhlYWQ+CgogICAgPG1ldGEgaHR0cC1lcXVpdj0iY29udGVudC10eXBlIiBjb250
+Content-Disposition: attachment; filename�ttachment.html"
+MIME-Version: 1.0
+
+PGh0bWw+CiAgPGhlYWQ+CgogICAgPG1ldGEgaHR0cC1lcXVpdj0iY29udGVudC10eXBlIiBjb250
 ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9dXRmLTgiPgogIDwvaGVhZD4KICA8Ym9keSB0ZXh0PSIj
 MDAwMDAwIiBiZ2NvbG9yPSIjRkZGRkZGIj4KICAgIDxwPgogICAgICA8c3R5bGU+CjwhLS0KIC8q
 IEZvbnQgRGVmaW5pdGlvbnMgKi8KQGZvbnQtZmFjZQoJe2ZvbnQtZmFtaWx5OiJDb3VyaWVyIE5l
@@ -573,4 +619,5 @@ PGEgY2xhc3M9Im1vei10eHQtbGluay1hYmJyZXZpYXRlZCIgaHJlZj0ibWFpbHRvOmVsaWFuYS5t
 YWduYW5pQHVuaXYtcGFyaXMxLmZyIj5lbGlhbmEubWFnbmFuaUB1bml2LXBhcmlzMS5mcjwvYT4K
 PGEgY2xhc3M9Im1vei10eHQtbGluay1mcmVldGV4dCIgaHJlZj0iaHR0cHM6Ly9jdi5hcmNoaXZl
 cy1vdXZlcnRlcy5mci9lbGlhbmEtbWFnbmFuaSI+aHR0cHM6Ly9jdi5hcmNoaXZlcy1vdXZlcnRl
-cy5mci9lbGlhbmEtbWFnbmFuaTwvYT48L3ByZT4KICA8L2JvZHk+CjwvaHRtbD4K
+cy5mci9lbGlhbmEtbWFnbmFuaTwvYT48L3ByZT4KICA8L2JvZHk+CjwvaHRtbD4K
+

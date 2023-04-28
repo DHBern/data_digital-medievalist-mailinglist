@@ -1,15 +1,23 @@
-Subject: Re: [dm-l] Image Content in Digital Projects and MetadataDear Harriet,The degree to which images are described in TEI and the frequency varies=20
-of course as much as there are projects creating manuscript=20
-descriptions. A higher standardization and deeper structuring of the=20
-content of <decoDesc>s and <decoNote>s is desirable - but hard to=20
-achieve for the lack of a common terminology or taxonomy and not least=20
-for the lack of expertise of cataloguers.BTW, there is a selected bibliography on decoration of manuscripts by=20
-Hanna Vorholt available on the DiXiT webpage (course material of MMSDA=20
+Subject: Re: [dm-l] Image Content in Digital Projects and Metadata
+
+Dear Harriet,
+
+The degree to which images are described in TEI and the frequency varies 
+of course as much as there are projects creating manuscript 
+descriptions. A higher standardization and deeper structuring of the 
+content of <decoDesc>s and <decoNote>s is desirable - but hard to 
+achieve for the lack of a common terminology or taxonomy and not least 
+for the lack of expertise of cataloguers.
+
+BTW, there is a selected bibliography on decoration of manuscripts by 
+Hanna Vorholt available on the DiXiT webpage (course material of MMSDA 
 2014):
-http://dixit.uni-koeln.de/mmsda-material.htmlBest, FranzAm 22.09.2014 14:45, schrieb Harriet Sonne de Torrens:
-> Thank you Franz. Your response is very useful. I am trying to determine how=
- institutions are doing this, the degree to which images are described and th=
-e frequency. Thanks again,  Harriet.
+http://dixit.uni-koeln.de/mmsda-material.html
+
+Best, Franz
+
+Am 22.09.2014 14:45, schrieb Harriet Sonne de Torrens:
+> Thank you Franz. Your response is very useful. I am trying to determine how institutions are doing this, the degree to which images are described and the frequency. Thanks again,  Harriet.
 >
 > Harriet Sonne de Torrens, MA, MISt., Ph.D., L.M.S.
 > Librarian, Visual Resource Library
@@ -30,9 +38,7 @@ _redacted_(a)uni-koeln.de]
 >
 > Dear Harriet,
 >
-> If the metadata is organised and represented in XML according to the TEI gu=
-idelines for manuscript description you should find information on images in =
-the decoration description (<decoDesc> and <decoNote> resp.).
+> If the metadata is organised and represented in XML according to the TEI guidelines for manuscript description you should find information on images in the decoration description (<decoDesc> and <decoNote> resp.).
 >
 > Best,
 > Franz
@@ -123,7 +129,7 @@ _redacted_(a)vt.edu
 >> News: http://www.digitalmedievalist.org/news/
 >> Wiki: http://www.digitalmedievalist.org/wiki/
 >> Twitter: http://twitter.com/digitalmedieval
->> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+>> Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca
 >> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
 >>
@@ -133,9 +139,12 @@ _redacted_(a)uleth.ca
 >> News: http://www.digitalmedievalist.org/news/
 >> Wiki: http://www.digitalmedievalist.org/wiki/
 >> Twitter: http://twitter.com/digitalmedieval
->> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+>> Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca
 >> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
 >>
 >
->
+>
+
+
+

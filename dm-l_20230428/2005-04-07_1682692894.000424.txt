@@ -1,13 +1,26 @@
-Subject: RE: [dm-l] what xslt can't do..?I've just noticed that I hadn't removed some unnecessary lines, evidence of a=
- false start; the stylesheet is now down to 63 lines.Peter-----Original Message-----
+Subject: RE: [dm-l] what xslt can't do..?
+
+I've just noticed that I hadn't removed some unnecessary lines, evidence of a false start; the stylesheet is now down to 63 lines.
+
+Peter
+
+
+
+-----Original Message-----
 _redacted_(a)uleth.ca on behalf of Binkley, Peter
 Sent: Thu 4/7/2005 3:33 AM
-_redacted_(a)dmu.ac.uk; Digital Medievalist Community mailing list; d=
-_redacted_(a)uleth.ca
+_redacted_(a)dmu.ac.uk; Digital Medievalist Community mailing list; d_redacted_(a)uleth.ca
 Subject: RE: [dm-l] what xslt can't do..?
-=20
-The Digital Medievalist List (see end of message for contact information and =
-project URLs).----------------------------------eJ8+IjsJAQaQCAAEAAAAAAABAAEAAQeQBgAIAAAA5AQAAAAAAADoAAEIgAcAGAAAAElQTS5NaWNy
+ 
+The Digital Medievalist List (see end of message for contact information and project URLs).
+
+----------------------------------
+
+
+
+
+
+eJ8+IjsJAQaQCAAEAAAAAAABAAEAAQeQBgAIAAAA5AQAAAAAAADoAAEIgAcAGAAAAElQTS5NaWNy
 b3NvZnQgTWFpbC5Ob3RlADEIAQ2ABAACAAAAAgACAAEEgAEAIQAAAFJFOiBbZG0tbF0gd2hhdCB4
 c2x0IGNhbid0IGRvLi4/AE0KAQWAAwAOAAAA1QcEAAcAAwA0ACUABABHAQEggAMADgAAANUHBAAH
 AAMANQAwAAQAUwEBCYABACEAAABFODdEOTBDMjJCODQxRDQ1QkYzQkM5NEY5NDkwMUVBMABEBwED
@@ -53,4 +66,5 @@ fwMABxCmAQAAAwAQEAAAAAADABEQAAAAAB4ACBABAAAAZQAAAElWRUpVU1ROT1RJQ0VEVEhBVElI
 QUROVFJFTU9WRURTT01FVU5ORUNFU1NBUllMSU5FUyxFVklERU5DRU9GQUZBTFNFU1RBUlQ7VEhF
 U1RZTEVTSEVFVElTTk9XRE9XTlRPNjMAAAAAAgF/AAEAAABKAAAAPDkwODg5MzAwNjMzOUMwNDA5
 NTE5RTQwNjVERjNCMjQ5MUREMUY5QG1haWxzZXJ2ZXIudWFsaWJyYXJ5LnVhbGJlcnRhLmNhPgAA
-ALY2
+ALY2
+

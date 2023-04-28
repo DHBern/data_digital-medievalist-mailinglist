@@ -1,11 +1,21 @@
-Subject: [dm-l]	Cross Posting: [Fwd: Re: encoding  maps, graphics with text?]I know several people on this list are working with maps. Apologies for 
+Subject: [dm-l]	Cross Posting: [Fwd: Re: encoding  maps, graphics with text?]
+
+I know several people on this list are working with maps. Apologies for 
 cross posting.
--dan-------- Original Message --------
+-dan
+
+-------- Original Message --------
 Subject: 	Re: encoding maps, graphics with text?
 Date: 	Fri, 13 Aug 2004 07:25:48 -0700
 _redacted_(a)YAHOO.COM>
 _redacted_(a)YAHOO.COM>
-_redacted_(a)LISTSERV.BROWN.EDUHi Everyone,I used a mozilla program called Grava to encode images
+_redacted_(a)LISTSERV.BROWN.EDU
+
+
+
+Hi Everyone,
+
+I used a mozilla program called Grava to encode images
 of ancient documents, producing XML representations of
 the strokes found in the images. This was software
 originally developed to encode aerial satellite
@@ -15,9 +25,17 @@ of Oxford, now at CSAIL, MIT.  We have a paper
 detailing this in the next edition of LLC:
 Terras, M. and Robertson, P. (Forthcoming 2004).
 "Downs and Acrosses, Textual Markup on a Stroke Based
-Level".  Literary and Linguistic Computing, 19/3.Paul says that anyone can have a copy of the software
-to play with, should they wish.Hope this helpsMelissa
-_redacted_(a)BROWN.EDU> wrote:> Does anyone know of any projects which are using the
+Level".  Literary and Linguistic Computing, 19/3.
+
+Paul says that anyone can have a copy of the software
+to play with, should they wish.
+
+Hope this helps
+
+Melissa
+_redacted_(a)BROWN.EDU> wrote:
+
+> Does anyone know of any projects which are using the
 > TEI to encode
 > materials that have substantial graphical content as
 > well as text,
@@ -29,11 +47,15 @@ _redacted_(a)BROWN.EDU> wrote:> Does anyone know of any projects which are usi
 > transcription.
 >
 > Many thanks! Julia
->
+>
+
+
+
 __________________________________
 Do you Yahoo!?
 Yahoo! Mail Address AutoComplete - You start. We finish.
-http://promotions.yahoo.com/new_mail
+http://promotions.yahoo.com/new_mail
+
 -- 
 Daniel Paul O'Donnell, PhD
 Associate Professor of English
@@ -42,4 +64,9 @@ Lethbridge AB T1K 3M4
 Tel. (403) 329-2377
 Fax. (403) 382-7191
 _redacted_(a)uleth.ca>
-Home Page <http://people.uleth.ca/~daniel.odonnell/>
+Home Page <http://people.uleth.ca/~daniel.odonnell/>
+
+
+
+
+

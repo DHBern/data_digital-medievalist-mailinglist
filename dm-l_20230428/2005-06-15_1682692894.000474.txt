@@ -1,24 +1,43 @@
-Subject: Re: [dm-l] Concordancing QueriesLaurie Ringer wrote:
+Subject: Re: [dm-l] Concordancing Queries
+
+Laurie Ringer wrote:
 > It's been some years since I used TACT. Is anyone fluent in TACT and
 > willing to field the odd question or two which Ian Lancashire's book
 > Using TACT with Electronic Texts does not answer? Or, alternatively, can
-> anyone recommend a better programme?You may be interested in Wordsmith Tools 
-http://www.lexically.net/wordsmith/Or, if you want to do more complicated corpus linguistics analysis 
-then Xaira http://www.oucs.ox.ac.uk/rts/xaira/> Line numbering: Aside from keying in line numbers by hand (which I have
+> anyone recommend a better programme?
+
+You may be interested in Wordsmith Tools 
+http://www.lexically.net/wordsmith/
+
+Or, if you want to do more complicated corpus linguistics analysis 
+then Xaira http://www.oucs.ox.ac.uk/rts/xaira/
+
+> Line numbering: Aside from keying in line numbers by hand (which I have
 > been doing), is there a macro or application that can automate the line
-> numbering process in large numbers of texts in Word or Word Pad?Since I tend to work with documents structurally marked up in XML, I'd 
+> numbering process in large numbers of texts in Word or Word Pad?
+
+Since I tend to work with documents structurally marked up in XML, I'd 
 wrap an XML root element around the text document and then pipe it 
 through an XSLT stylesheet designed to wrap <l>line elements</l> 
 around each   text containing line.  Alternatively, fairly easy to do 
-with a decent search and replace macro or perl script.> Page numbering: As above, is there a macro or application that can
+with a decent search and replace macro or perl script.
+
+> Page numbering: As above, is there a macro or application that can
 > automate the page numbering process in large numbers of texts? NB: the
 > end of the printed page in electronic format rarely corresponds with the
-> end of a Word or Word Pad page.Or alternatively, load up the word document in OpenOffice,and use 
+> end of a Word or Word Pad page.
+
+Or alternatively, load up the word document in OpenOffice,and use 
 Sebastian's OO->TEI XML filter which should preserve page numbers. 
 The lines will come out as <p> paragraphs </p> but that is a quite 
 search and replace.
-> Many thanks for any suggestions anyone might be able to make.Not sure if that is helpful.  A lot of people who might answer this 
+> Many thanks for any suggestions anyone might be able to make.
+
+Not sure if that is helpful.  A lot of people who might answer this 
 better are here at the ACH/ALLC conference in Victoria, BC at the 
-moment.  And the weather is much too nice to be checking email!
--James
---===============3741711183849865413==--
+moment.  And the weather is much too nice to be checking email!
+
+-James
+
+--3741711183849865413-
+

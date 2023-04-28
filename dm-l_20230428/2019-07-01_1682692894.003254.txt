@@ -1,21 +1,43 @@
-Subject: [dm-l] Release of the BFM2019 Corpus[Apologies for cross-posting]Dear colleagues,We are delighted to announce the BFM2019 corpus on the web portal of the 
+Subject: [dm-l] Release of the BFM2019 Corpus
+
+[Apologies for cross-posting]
+
+Dear colleagues,
+
+We are delighted to announce the BFM2019 corpus on the web portal of the 
 Base de Français Médiéval 
-http://txm.bfm-corpus.org/?command=documentation&path=/BFM2019.The graphical design of the BFM-TXM web portal has been entirely revised 
-and improved at this occasion.The Terms of use have been simplified and all the texts are now 
+http://txm.bfm-corpus.org/?commandcumentation&path�FM2019.
+
+The graphical design of the BFM-TXM web portal has been entirely revised 
+and improved at this occasion.
+
+The Terms of use have been simplified and all the texts are now 
 available under an open licence Etalab 
-(https://www.etalab.gouv.fr/licence-ouverte-open-licence).The BFM2019 corpus includes some fifteen new texts and amounts 
+(https://www.etalab.gouv.fr/licence-ouverte-open-licence).
+
+The BFM2019 corpus includes some fifteen new texts and amounts 
 approximately 4,700,000 words. All the texts are formatted according to 
 the TEI guidelines (including the instances of directed speech), 
 automatically pos-tagged and lemmatized. The POS tags are manually 
 verified in 4 new texts (38 total, approximately 1,000,000 words), and 
 the lemmatization is verified and disambiguated in 18 texts 
-(approximately 400,000 words).The corpus includes three new original editions:
+(approximately 400,000 words).
+
+The corpus includes three new original editions:
 - /La Vie de saint Alexis/, ed. T. Rainsford et C. Marchello-Nizia,
 - /L’image du monde/ by Gossouin, prose version, ed N. Kanaoka,
 - /Les quinze joies de mariage/, ed. N. Kanaoka on the basis of the 
 printed edition prepared by M. Guéret-Laferté, S. Louis and C. Mira, 
-Rouen, Presses universitaires de Rouen et du Havre, 2009.Best regards,The BFM Team
-bfm [at] ens-lyon [dot] frPGh0bWw+CiAgPGhlYWQ+CgogICAgPG1ldGEgaHR0cC1lcXVpdj0iY29udGVudC10eXBlIiBjb250
+Rouen, Presses universitaires de Rouen et du Havre, 2009.
+
+Best regards,
+
+The BFM Team
+bfm [at] ens-lyon [dot] fr
+
+
+
+PGh0bWw+CiAgPGhlYWQ+CgogICAgPG1ldGEgaHR0cC1lcXVpdj0iY29udGVudC10eXBlIiBjb250
 ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9VVRGLTgiPgogIDwvaGVhZD4KICA8Ym9keSB0ZXh0PSIj
 MDAwMDAwIiBiZ2NvbG9yPSIjRkZGRkZGIj4KICAgIFtBcG9sb2dpZXMgZm9yIGNyb3NzLXBvc3Rp
 bmddPGJyPgogICAgPGJyPgogICAgRGVhciBjb2xsZWFndWVzLDxicj4KICAgIDxicj4KICAgIDxw
@@ -49,4 +71,5 @@ cmludGVkIGVkaXRpb24gcHJlcGFyZWQgYnkgTS4gR3XDqXJldC1MYWZlcnTDqSwgUy4gTG91aXMg
 YW5kCiAgICBDLiBNaXJhLCBSb3VlbiwgUHJlc3NlcyB1bml2ZXJzaXRhaXJlcyBkZSBSb3VlbiBl
 dCBkdSBIYXZyZSwgMjAwOS48YnI+CiAgICA8cD5CZXN0IHJlZ2FyZHMsPC9wPgogICAgVGhlIEJG
 TSBUZWFtPGJyPgogICAgYmZtIFthdF0gZW5zLWx5b24gW2RvdF0gZnIKICA8L2JvZHk+CjwvaHRt
-bD4K
+bD4K
+

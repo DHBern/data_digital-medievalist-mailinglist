@@ -1,15 +1,15 @@
-Subject: RE: [dm-l] JSTOR and PDF Sizes (TAN)I think it will depend a great deal on what software is being used to create =
-the PDFs, and from what source (is she scanning TIFFs and creating PDFs from =
-them, or scanning directly to PDF using Acrobat, or something else?)
-It appears that JSTOR is using Atypon Systems PDFPlus software (http://www.at=
-ypon.com/solutions/pdfplus/) to generate their PDFs on the fly, which might e=
-xplain why theirs are smaller (I don't know anything about this software, but=
- smaller sizes seems to be one of their selling points). =20________________________________________
-_redacted_(a)uleth.ca] On Behalf Of NORMAN [=
-_redacted_(a)sbcglobal.net]
+Subject: RE: [dm-l] JSTOR and PDF Sizes (TAN)
+
+I think it will depend a great deal on what software is being used to create the PDFs, and from what source (is she scanning TIFFs and creating PDFs from them, or scanning directly to PDF using Acrobat, or something else?)
+It appears that JSTOR is using Atypon Systems PDFPlus software (http://www.atypon.com/solutions/pdfplus/) to generate their PDFs on the fly, which might explain why theirs are smaller (I don't know anything about this software, but smaller sizes seems to be one of their selling points).  
+
+________________________________________
+_redacted_(a)uleth.ca] On Behalf Of NORMAN [_redacted_(a)sbcglobal.net]
 Sent: Friday, May 21, 2010 8:40 PM
 _redacted_(a)uleth.ca
-Subject: Re: [dm-l] JSTOR and PDF Sizes (TAN)On 5/21/2010 5:00 PM, O'Donnell, Dan wrote:
+Subject: Re: [dm-l] JSTOR and PDF Sizes (TAN)
+
+On 5/21/2010 5:00 PM, O'Donnell, Dan wrote:
 > Hi have a question somebody here may know the answer to.
 >
 > A colleague of mine is scanning back issues of journal she edits for
@@ -32,13 +32,17 @@ Subject: Re: [dm-l] JSTOR and PDF Sizes (TAN)On 5/21/2010 5:00 PM, O'Donnell, 
 Jstor can do that to you - I  had a version of that today, trying to
 print a 21' X 12"  menu on a regular sheet of paper. I finally found the
 correct "fit to page" box: there were 4 different places that purported
-ro be  what I wanted, and each of them had to be changed by hand.Digital Medievalist --  http://www.digitalmedievalist.org/
+ro be  what I wanted, and each of them had to be changed by hand.
+
+Digital Medievalist --  http://www.digitalmedievalist.org/
 Journal: http://www.digitalmedievalist.org/journal/
 Journal Editors: editors _AT_ digitalmedievalist.org
 News: http://www.digitalmedievalist.org/news/
 Wiki: http://www.digitalmedievalist.org/wiki/
 Twitter: http://twitter.com/digitalmedieval
-Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca
-Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
---===============1718910942570732892==--
+Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+--1718910942570732892-
+

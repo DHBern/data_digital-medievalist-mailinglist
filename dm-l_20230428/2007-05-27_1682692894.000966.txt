@@ -1,41 +1,77 @@
-Subject: [dm-l] FW: Extreme pre-conference workshop on overlap
-This is a very technical conference, however it will be of interest to some o=
-n this list. Members and subscribers of the Text Encoding Initiative (TEI) ar=
-e entitled to a discount on the registration.-dan-----Original Message-----
+Subject: [dm-l] FW: Extreme pre-conference workshop on overlap
+
+This is a very technical conference, however it will be of interest to some on this list. Members and subscribers of the Text Encoding Initiative (TEI) are entitled to a discount on the registration.
+
+-dan
+
+-----Original Message-----
 From: TEI Overlapping Markup SIG discussion list on behalf of Syd Bauman
 Sent: Sun 27/05/2007 6:40 AM
 _redacted_(a)listserv.brown.edu
 Subject: Extreme pre-conference workshop on overlap
-=20
-What:   International Workshop on Markup of Overlapping Structures=20        XML and SGML have revolutionized the representation of
+ 
+What:   International Workshop on Markup of Overlapping Structures 
+
+        XML and SGML have revolutionized the representation of
         structured information, but not all information structures
         map
         easily into systems of hierarchically nested elements. Markup
         of overlapping structures is a perennially hot topic,
-        reinvented and reimagined as often as it is solved.        This full-day workshop will bring together the proponents of
+        reinvented and reimagined as often as it is solved.
+
+        This full-day workshop will bring together the proponents of
         some of the major proposals for markup, representation,
         extraction, display, and validation of semantic overlap to
         summarize the systems they are developing and discuss topics
         of common interest. A morning of formal presentations will be
-        followed by an afternoon of free-ranging discussion.When:   Monday, 06 August 2007=20
+        followed by an afternoon of free-ranging discussion.
+
+When:   Monday, 06 August 2007 
         the day before Extreme Markup Languages 2007,
-        "The Markup Theory and Practice Conference"Where:  Hotel Europa, Montreal, Canada (the Extreme hotel)=20Details: http://www.extrememarkup.com/extreme/overlap/
-Confirmed speakers and topics include:=20* Alexander Dekhtyar, California Polytechnic State University, on the
-  Concurrent XML and the ARCHway Project* Steven DeRose, National Center for Biotechnology Information
+        "The Markup Theory and Practice Conference"
+
+Where:  Hotel Europa, Montreal, Canada (the Extreme hotel) 
+
+Details: http://www.extrememarkup.com/extreme/overlap/
+
+Confirmed speakers and topics include: 
+
+* Alexander Dekhtyar, California Polytechnic State University, on the
+  Concurrent XML and the ARCHway Project
+
+* Steven DeRose, National Center for Biotechnology Information
   (National Institutes of Health), on Trojan Markup and other
-  empty-element techniques* Patrick Durusau, Snowfall Software, on Topic Mapping overlap* Wendell Piez, Mulberry Technologies, on LMNL (Layered Markup and
-  Annotation Language)* C. M. Sperberg-McQueen, World Wide Web Consortium, on TexMecs and
-  Goddag structures* Andreas Witt, University of Tubingen, on Multiple Annotations and
-  XConcurRegistration fee: $125 per person; there is a 20% discount for TEI-C
+  empty-element techniques
+
+* Patrick Durusau, Snowfall Software, on Topic Mapping overlap
+
+* Wendell Piez, Mulberry Technologies, on LMNL (Layered Markup and
+  Annotation Language)
+
+* C. M. Sperberg-McQueen, World Wide Web Consortium, on TexMecs and
+  Goddag structures
+
+* Andreas Witt, University of Tubingen, on Multiple Annotations and
+  XConcur
+
+Registration fee: $125 per person; there is a 20% discount for TEI-C
 members and subscribers, as well as for members of IDEAlliance,
 OASIS,
-SC34, & W3C, and for full-time academics & government employees)Registration and updated information at
-http://www.extrememarkup.com/extreme/overlap/index.htmlThere's Nothing so Theoretical as a Good Practice
---===============7598630832799278700==
-Content-Type: text/html
+SC34, & W3C, and for full-time academics & government employees)
+
+Registration and updated information at
+http://www.extrememarkup.com/extreme/overlap/index.html
+
+There's Nothing so Theoretical as a Good Practice
+
+
+
+--7598630832799278700Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDMuMi8vRU4iPgo8SFRNTD4K
+Content-Disposition: attachment; filenameúttachment.html"
+MIME-Version: 1.0
+
+PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDMuMi8vRU4iPgo8SFRNTD4K
 PEhFQUQ+CjxNRVRBIEhUVFAtRVFVSVY9IkNvbnRlbnQtVHlwZSIgQ09OVEVOVD0idGV4dC9odG1s
 OyBjaGFyc2V0PWlzby04ODU5LTEiPgo8TUVUQSBOQU1FPSJHZW5lcmF0b3IiIENPTlRFTlQ9Ik1T
 IEV4Y2hhbmdlIFNlcnZlciB2ZXJzaW9uIDYuNS43NjUyLjI0Ij4KPFRJVExFPkZXOiBFeHRyZW1l
@@ -101,4 +137,4 @@ c3RyYXRpb24gYW5kIHVwZGF0ZWQgaW5mb3JtYXRpb24gYXQ8QlI+CjxBIEhSRUY9Imh0dHA6Ly93
 d3cuZXh0cmVtZW1hcmt1cC5jb20vZXh0cmVtZS9vdmVybGFwL2luZGV4Lmh0bWwiPmh0dHA6Ly93
 d3cuZXh0cmVtZW1hcmt1cC5jb20vZXh0cmVtZS9vdmVybGFwL2luZGV4Lmh0bWw8L0E+PEJSPgo8
 QlI+ClRoZXJlJ3MgTm90aGluZyBzbyBUaGVvcmV0aWNhbCBhcyBhIEdvb2QgUHJhY3RpY2U8QlI+
-CjxCUj4KPC9GT05UPgo8L1A+Cgo8L0JPRFk+CjwvSFRNTD4=
+CjxCUj4KPC9GT05UPgo8L1A+Cgo8L0JPRFk+CjwvSFRNTD4

@@ -1,18 +1,32 @@
-Subject: [dm-l] Help evaluate a new digital tool for manuscript studiesDear fellow medievalists:I am writing to ask for your help.  Over the last year, the Center for
+Subject: [dm-l] Help evaluate a new digital tool for manuscript studies
+
+Dear fellow medievalists:
+
+
+
+I am writing to ask for your help.  Over the last year, the Center for
 Digital Theology at Saint Louis University has been prototyping a
 transcription tool for digitized manuscripts.  Part of that process includes
 an application that identifies the location of the lines on a given
 manuscript page.  We have been testing this on a variety of limited
 datasets, but for the last two months we have focused our testing on the
 complete collection of digitized manuscripts that comprise the Parker on the
-Web <http://parkerweb.stanford.edu/> collection.Part of the development has included spot checking the results, where a user
+Web <http://parkerweb.stanford.edu/> collection.
+
+
+
+Part of the development has included spot checking the results, where a user
 will display individual images and check the attempted line parsing.  There
 are some 196,000 images in the Parker Collection and so it has not been
 possible to check every one.  While this is a substantial number, there are
 only 500 manuscripts in the collection. To ensure we have evaluated a number
 of pages from each manuscript, we have gone through four iterations during
 this grant period already and our small team has been able to check as many
-as 2,000 images in one iteration.We would now like to open this up to the larger public for a limited period
+as 2,000 images in one iteration.
+
+
+
+We would now like to open this up to the larger public for a limited period
 of time. We are asking you to go to
 http://manuscripts.no-ip.org/Paleography_Web/. There you can create a user
 name and password and check as many manuscript images as you like (and you
@@ -24,17 +38,53 @@ found lines. You would be asked to judge the quality of the line parsing
 provided. Taking a cue from projects like *Galaxy Zoo*, there will be a
 leader board indicating how many images each user has evaluated.  No prizes
 for being first, though, other than the admiration of the digital humanist
-community--and our thanks!This "crowd sourcing QA" will open up to the general public on August 26,
+community--and our thanks!
+
+
+
+This "crowd sourcing QA" will open up to the general public on August 26,
 2010 and will be closed on August 30, 2010.  We do not require any personal
 information.  Usernames will be retained to identify which user evaluated
-which image.We believe that this could be a very useful tool, and the more feedback we
-can get at this early stage, the better the tool will be in the end.Please contact me if you have any questions.This project is being funded an award from the President’s Research Fund,
+which image.
+
+
+
+We believe that this could be a very useful tool, and the more feedback we
+can get at this early stage, the better the tool will be in the end.
+
+
+
+Please contact me if you have any questions.
+
+
+
+This project is being funded an award from the President’s Research Fund,
 Saint Louis University.  The prototype line parser was first developed
 during a grant from the Andrew W. Mellon Foundation.  The Center thanks both
-funding bodies for their support of this kind of research.All images displayed are owned by the Matthew Parker Library, Corpus Christi
-College, Cambridge.© 2009 Masters of Corpus Christi College.Images used with permission.No one may duplicate any image (in digital or printed format; or store on an
+funding bodies for their support of this kind of research.
+
+
+
+All images displayed are owned by the Matthew Parker Library, Corpus Christi
+College, Cambridge.
+
+© 2009 Masters of Corpus Christi College.
+
+Images used with permission.
+
+No one may duplicate any image (in digital or printed format; or store on an
 electronic device) without the express permission of the Masters of Corpus
-Christi College.James GintherProject Director-- 
+Christi College.
+
+
+
+
+
+James Ginther
+
+Project Director
+
+-- 
 ----------
 James R. Ginther, PhD
 Assoc. Professor of Medieval Theology
@@ -43,9 +93,18 @@ Center for Digital Theology
 Saint Louis University
 -------------------------
 _redacted_(a)slu.edu
-http://theology.slu.edu
-" Blessed are the Geeks for they shall encode the Earth""...debet esse oratio devota, ne mens sit in foro dum os psallit in choro."
-- Robert Grosseteste"Being bored is the only time you are creative." -Freeman DysonPHNwYW4gY2xhc3M9IkFwcGxlLXN0eWxlLXNwYW4iIHN0eWxlPSJmb250LWZhbWlseTogYXJpYWws
+http://theology.slu.edu
+
+" Blessed are the Geeks for they shall encode the Earth"
+
+"...debet esse oratio devota, ne mens sit in foro dum os psallit in choro."
+- Robert Grosseteste
+
+"Being bored is the only time you are creative." -Freeman Dyson
+
+
+
+PHNwYW4gY2xhc3M9IkFwcGxlLXN0eWxlLXNwYW4iIHN0eWxlPSJmb250LWZhbWlseTogYXJpYWws
 IHNhbnMtc2VyaWY7IGZvbnQtc2l6ZTogMTNweDsgYm9yZGVyLWNvbGxhcHNlOiBjb2xsYXBzZTsg
 Y29sb3I6IHJnYig1MSwgNTEsIDUxKTsgIj48cCBjbGFzcz0iTXNvTm9ybWFsIiBzdHlsZT0ibWFy
 Z2luLXRvcDogMHB4OyBtYXJnaW4tcmlnaHQ6IDBweDsgbWFyZ2luLWJvdHRvbTogMHB4OyBtYXJn
@@ -250,4 +309,5 @@ cXVvdDsgQmxlc3NlZCBhcmUgdGhlIEdlZWtzIGZvciB0aGV5IHNoYWxsIGVuY29kZSB0aGUgRWFy
 dGgmcXVvdDsgPGJyPjxicj4mcXVvdDsuLi5kZWJldCBlc3NlIG9yYXRpbyBkZXZvdGEsIG5lIG1l
 bnMgc2l0IGluIGZvcm8gZHVtIG9zIHBzYWxsaXQgaW4gY2hvcm8uJnF1b3Q7IC0gUm9iZXJ0IEdy
 b3NzZXRlc3RlPGJyPgo8YnI+JnF1b3Q7QmVpbmcgYm9yZWQgaXMgdGhlIG9ubHkgdGltZSB5b3Ug
-YXJlIGNyZWF0aXZlLiZxdW90OyAtRnJlZW1hbiBEeXNvbjxicj4K
+YXJlIGNyZWF0aXZlLiZxdW90OyAtRnJlZW1hbiBEeXNvbjxicj4K
+

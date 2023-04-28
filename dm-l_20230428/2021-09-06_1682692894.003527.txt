@@ -1,36 +1,43 @@
-Subject: [dm-l] Leveraging non-named entities in Coptic antiquity (Seminar)(Late antique/early Mediaeval material discussed in the following seminar=E2=
-=80=A6)Digital Classicist London Seminar
-Friday September 10, 2021, 17:00 (UK time/UTC+1)Amir Zeldes (Georgetown), Caroline Schroeder (Oklahoma), Lance Martin (CUA)
-Leveraging non-named entities in Coptic antiquityStreamed live at https://youtu.be/Web8vaAbx-MIn this paper we present the latest work on large scale, semi-automatic and q=
-uantitative analysis of the body of entities mentioned in texts from Coptic A=
-ntiquity. Unlike Greek and Roman materials, which have been studied extensive=
-ly, digital treatment of Coptic data from the first millennium has lagged beh=
-ind until recently, in part due to the smaller research community and the mor=
-phological complexity of the language, which is fusional and features aggluti=
-nation, compounding and incorporation of nouns into complex verbs.We show how annotating named and non-named entities enriches Coptic corpora, =
-including the identification of nested entities and entity linking. We will f=
-ocus especially on non-named Coptic entities, which are of great interest to =
-scholars working on monasticism and asceticism, since many central texts revo=
-lve around unnamed protagonists (e.g. =E2=80=98an ascetic=E2=80=99) in uniden=
-tified locations (=E2=80=98a monastery=E2=80=99). In many cases, the proporti=
-on of named entities is well below 5%.The relevance of entity annotation is further demonstrated through visualizat=
-ions of Coptic entities, which enable researchers to access a variety of info=
-rmation in Coptic corpora through distant reading, allowing them to explore e=
-asily types of places in different works, to get lists of nouns referring to =
-organizations, events or animals, examine feminine vs. masculine nouns denoti=
-ng people and more. From a comparative quantitative perspective, the prevalen=
-ce of non-named entities of different types can also reveal dissimilarities b=
-etween texts.ALL WELCOMEDigital Classicist London full programme: https://www.digitalclassicist.org/w=
-ip/wip2021.html
-=3D=3D
+Subject: [dm-l] Leveraging non-named entities in Coptic antiquity (Seminar)
+
+(Late antique/early Mediaeval material discussed in the following seminar…)
+
+Digital Classicist London Seminar
+Friday September 10, 2021, 17:00 (UK time/UTC+1)
+
+Amir Zeldes (Georgetown), Caroline Schroeder (Oklahoma), Lance Martin (CUA)
+Leveraging non-named entities in Coptic antiquity
+
+Streamed live at https://youtu.be/Web8vaAbx-M
+
+In this paper we present the latest work on large scale, semi-automatic and quantitative analysis of the body of entities mentioned in texts from Coptic Antiquity. Unlike Greek and Roman materials, which have been studied extensively, digital treatment of Coptic data from the first millennium has lagged behind until recently, in part due to the smaller research community and the morphological complexity of the language, which is fusional and features agglutination, compounding and incorporation of nouns into complex verbs.
+
+We show how annotating named and non-named entities enriches Coptic corpora, including the identification of nested entities and entity linking. We will focus especially on non-named Coptic entities, which are of great interest to scholars working on monasticism and asceticism, since many central texts revolve around unnamed protagonists (e.g. ‘an ascetic’) in unidentified locations (‘a monastery’). In many cases, the proportion of named entities is well below 5%.
+
+The relevance of entity annotation is further demonstrated through visualizations of Coptic entities, which enable researchers to access a variety of information in Coptic corpora through distant reading, allowing them to explore easily types of places in different works, to get lists of nouns referring to organizations, events or animals, examine feminine vs. masculine nouns denoting people and more. From a comparative quantitative perspective, the prevalence of non-named entities of different types can also reveal dissimilarities between texts.
+
+ALL WELCOME
+
+Digital Classicist London full programme: https://www.digitalclassicist.org/wip/wip2021.html
+
+==
 Dr Gabriel BODARD (he/him)
-Reader in Digital ClassicsInstitute of Classical Studies / Digital Humanities Research Hub
+Reader in Digital Classics
+
+Institute of Classical Studies / Digital Humanities Research Hub
 University of London
 Senate House
 Malet Street
-London WC1E 7HU_redacted_(a)sas.ac.uk
-T: +44 (0)20 78628752Especially at the moment, I may email at odd hours of the day and night/days =
-of the week. I do not ever expect a reply outside of your working hours.PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
+London WC1E 7HU
+
+_redacted_(a)sas.ac.uk
+T: +44 (0)20 78628752
+
+Especially at the moment, I may email at odd hours of the day and night/days of the week. I do not ever expect a reply outside of your working hours.
+
+
+
+PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
 eHQvaHRtbDsgY2hhcnNldD1XaW5kb3dzLTEyNTIiPgo8c3R5bGUgdHlwZT0idGV4dC9jc3MiIHN0
 eWxlPSJkaXNwbGF5Om5vbmU7Ij4gUCB7bWFyZ2luLXRvcDowO21hcmdpbi1ib3R0b206MDt9IDwv
 c3R5bGU+CjwvaGVhZD4KPGJvZHkgZGlyPSJsdHIiPgo8ZGl2IHN0eWxlPSJib3JkZXI6c29saWQg
@@ -105,4 +112,4 @@ ZGl2IGlkPSJkaXZ0YWdkZWZhdWx0d3JhcHBlciI+Jm5ic3A7PGJyPgpFc3BlY2lhbGx5IGF0IHRo
 ZSBtb21lbnQsIEkgbWF5IGVtYWlsIGF0IG9kZCBob3VycyBvZiB0aGUgZGF5IGFuZCBuaWdodC9k
 YXlzIG9mIHRoZSB3ZWVrLiBJIGRvIG5vdCBldmVyIGV4cGVjdCBhIHJlcGx5IG91dHNpZGUgb2Yg
 eW91ciB3b3JraW5nIGhvdXJzLjwvZGl2Pgo8L2Rpdj4KPC9kaXY+CjwvZGl2Pgo8L2Rpdj4KPC9i
-b2R5Pgo8L2h0bWw+Cg==
+b2R5Pgo8L2h0bWw+Cg

@@ -1,6 +1,12 @@
-Subject: [dm-l] Re: dm-l Digest, Vol 11, Issue 6Hi there,Responding to Dieter's post below: first I'd like 
+Subject: [dm-l] Re: dm-l Digest, Vol 11, Issue 6
+
+Hi there,
+
+Responding to Dieter's post below: first I'd like 
 to thank you for your XDOM libraries, which I'm 
-beginning to use for some of my Delphi projects. Great work!I agree that scholars currently have little to 
+beginning to use for some of my Delphi projects. Great work!
+
+I agree that scholars currently have little to 
 gain from developing tools, from the point of 
 view of their academic careers. However, there's 
 another group of individuals like me, who are 
@@ -23,7 +29,9 @@ commercially, to everyone's financial benefit.
 While individual departments and tenure 
 committees may not (yet) give much weight to this 
 kind of work, other parts of the university 
-administration are more supportive.The emergence of centres such as ours, which have 
+administration are more supportive.
+
+The emergence of centres such as ours, which have 
 relatively stable workforces (as opposed to the 
 ad-hoc temporary hires associated with 
 grant-supported projects) means that tools tend 
@@ -40,8 +48,11 @@ to write something for a specific purpose,
 releases it, then moves on to the next piece of 
 research, leaving the code to languish like an 
 abandoned vehicle in a field (which is what 
-"open-sourcing" a project often turns out to mean).Cheers,
-Martin
+"open-sourcing" a project often turns out to mean).
+
+Cheers,
+Martin
+
 At 09:37 AM 29/06/2005, you wrote:
 >Date: Fri, 24 Jun 2005 13:14:24 +0200
 _redacted_(a)philo.de>
@@ -49,7 +60,7 @@ _redacted_(a)philo.de>
 >         languages obsolete?)
 _redacted_(a)uleth.ca
 _redacted_(a)pop3.philo.de>
->Content-Type: text/plain; charset="iso-8859-1"; format=flowed
+>Content-Type: text/plain; charsetso-8859-1"; formatowed
 >
 >I often think that the free "tools" aspect had been underestimated in
 >humanities computing. Of course, there exist a couple of good examples like
@@ -79,7 +90,9 @@ _redacted_(a)pop3.philo.de>
 >Institute of Philosophy and
 >Centre for Multimedia Studies
 >University of Karlsruhe
->Germany______________________________________
+>Germany
+
+______________________________________
 Martin Holmes
 University of Victoria Humanities Computing and Media Centre
 _redacted_(a)uvic.ca
@@ -87,4 +100,7 @@ _redacted_(a)mholmes.com
 _redacted_(a)halfbakedsoftware.com
 http://www.mholmes.com
 http://web.uvic.ca/hcmc/
-http://www.halfbakedsoftware.com
+http://www.halfbakedsoftware.com
+
+
+

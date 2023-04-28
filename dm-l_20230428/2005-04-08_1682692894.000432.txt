@@ -1,6 +1,10 @@
-Subject: Re: [dm-l] what xslt can't do..?Michael L. Norton wrote:
+Subject: Re: [dm-l] what xslt can't do..?
+
+Michael L. Norton wrote:
 > Just because we *can* dynamically pull out a single page from the whole of a
-> large XML file doesn't mean we *have* to.> Maybe we don't *have" to, but we certainly should.  If we cannot handle such
+> large XML file doesn't mean we *have* to.
+
+> Maybe we don't *have" to, but we certainly should.  If we cannot handle such
 > a task dynamically, then we are forced into adopting one of several clunky
 > solutions.  James suggests that we introduce redundancy into the mix.  But
 > in so doing, we now are faced with issues of synchronization.  What happens
@@ -13,7 +17,9 @@ Subject: Re: [dm-l] what xslt can't do..?Michael L. Norton wrote:
 > Indeed, any system that relies on the proper functioning of human beings
 > will surely fail at some point.  
 > 
-> I agree with Peter Robinson.  A dynamic approach is always best.I understand, and agree, that in theory a dynamic approach from a single 
+> I agree with Peter Robinson.  A dynamic approach is always best.
+
+I understand, and agree, that in theory a dynamic approach from a single 
 source is preferable to creating static files.  I don't think there is
 really such a problem of synchronization that you suggest, however. 
 When changes are made in the 'master' document, this isn't going to be 
@@ -25,7 +31,9 @@ problems.  If I type 'make site' I don't need to know that my Makefile
 (or whatever technology you prefer) is first making a backup of the 
 current site, then copying any changed files into CVS for the production 
 server, then recreating a whole series of expanded page files, or 
-whatever.  It is all still a single step.But that is really tangential, the problem I was really envisioning is 
+whatever.  It is all still a single step.
+
+But that is really tangential, the problem I was really envisioning is 
 with really really large XML files, perhaps gigabytes in size.  It 
 doesn't matter that it is possible to produce single pages dynamically 
 from such a file using XSLT, because the time and resources to do so 
@@ -43,7 +51,13 @@ generate the site consisting of an xinclude-based master file and the
 individual page files.)  Since the master file doesn't contain the all 
 the individual page files, there is no redundancy.  (Except, of course, 
 between your working copy and production copy and backup copies, but 
-that just makes good sense!)-James-- 
+that just makes good sense!)
+
+-James
+
+-- 
 Dr James Cummings, Oxford Text Archive, University of Oxford
-James dot Cummings at oucs dot ox dot ac dot uk
---===============0095594261978982462==--
+James dot Cummings at oucs dot ox dot ac dot uk
+
+--0095594261978982462-
+

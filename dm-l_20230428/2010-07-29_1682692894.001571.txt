@@ -1,17 +1,41 @@
-Subject: RE: [dm-l] Question about preservation of digital contentThere's a usefull list of some "canonical" references in the discussion
+Subject: RE: [dm-l] Question about preservation of digital content
+
+There's a usefull list of some "canonical" references in the discussion
 on sustainablity, a "souvenir" of a paper by Bella Millet to be printed
 out for reasons of preservation:
 http://www.i-d-e.de/wordpress/wp-content/uploads/2010/05/bella-millett-s
-ustainable-souvenir-eets-2010.pdfFranz-- 
+ustainable-souvenir-eets-2010.pdf
+
+Franz
+
+-- 
 Franz Fischer (Dr des.)
 Royal Irish Academy
 _redacted_(a)ria.ie, tel.: +353
-1 6090605 http://www.ria.ie <http://www.ria.ie/>  , http://dho.ie/confessio ,
-http://www.i-d-e.de <http://www.i-d-e.de/>  _________________________________redacted_(a)uleth.ca] On Behalf Of
+1 6090605
+
+ 
+
+http://www.ria.ie <http://www.ria.ie/>  , http://dho.ie/confessio ,
+http://www.i-d-e.de <http://www.i-d-e.de/> 
+
+ 
+
+________________________________
+
+_redacted_(a)uleth.ca] On Behalf Of
 Daniel Mondekar
 Sent: 29 July 2010 00:12
 _redacted_(a)uleth.ca
-Subject: [dm-l] Question about preservation of digital content Dear Digital Medievalists and TEI members, I have a question about preservation of digital content especially
+Subject: [dm-l] Question about preservation of digital content
+
+ 
+
+Dear Digital Medievalists and TEI members,
+
+ 
+
+I have a question about preservation of digital content especially
 medieval manuscripts. I am writing a small article on the topic and I
 have consulted a lot sources (papers, handbooks) but most of them do not
 say anything about the "life span" of the data in specific formats. To
@@ -20,17 +44,37 @@ unreadable  in 2010.  What about other formats? Has anyone done some
 research on "life span" of a specific version of digital formats and
 when it becomes clear that the new version and the old one are not
 compatible anymore? And here I am talking about pdf, rtf, doc (and all
-office files), djvu, tiff, jpg , mpg etc. (texts and images especially) In my work I am also making a small remark on XML as a data container
+office files), djvu, tiff, jpg , mpg etc. (texts and images especially) 
+
+In my work I am also making a small remark on XML as a data container
 since it is, in my opinion, the best way to go and the standard will
 surely be around for years. But what kind of steps do you make to ensure
-the preservation of documents that have been encoded in xmlI would also like to hear if there are opposing views on xml.I also have the same question about the media. I found some research
+the preservation of documents that have been encoded in xml
+
+I would also like to hear if there are opposing views on xml.
+
+I also have the same question about the media. I found some research
 about the longevity of CDs and DVDs but I am also interested in other
-media like older hard disks, zip drives and magnetic media.I am sorry to bother you with this, but I can use any help I can get Thank you in advanceDaniel Mondekar  
---===============8849351947695705333==
-Content-Type: text/html
+media like older hard disks, zip drives and magnetic media.
+
+I am sorry to bother you with this, but I can use any help I can get 
+
+Thank you in advance
+
+Daniel Mondekar
+
+ 
+
+ 
+
+
+
+--8849351947695705333Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWwgeG1sbnM6dj0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTp2bWwiIHhtbG5zOm89InVy
+Content-Disposition: attachment; filenameúttachment.html"
+MIME-Version: 1.0
+
+PGh0bWwgeG1sbnM6dj0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTp2bWwiIHhtbG5zOm89InVy
 bjpzY2hlbWFzLW1pY3Jvc29mdC1jb206b2ZmaWNlOm9mZmljZSIgeG1sbnM6dz0idXJuOnNjaGVt
 YXMtbWljcm9zb2Z0LWNvbTpvZmZpY2U6d29yZCIgeG1sbnM6c3QxPSJ1cm46c2NoZW1hcy1taWNy
 b3NvZnQtY29tOm9mZmljZTpzbWFydHRhZ3MiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy9UUi9S
@@ -185,4 +229,4 @@ c3BhbiBsYW5nPUVOLUdCIHN0eWxlPSdmb250LXNpemU6CjExLjBwdDtsaW5lLWhlaWdodDoxMTUl
 Jz48bzpwPiZuYnNwOzwvbzpwPjwvc3Bhbj48L2ZvbnQ+PC9wPgoKPHAgY2xhc3M9TXNvTm9ybWFs
 Pjxmb250IHNpemU9MiBmYWNlPUNhbGlicmk+PHNwYW4gbGFuZz1FTi1HQiBzdHlsZT0nZm9udC1z
 aXplOgoxMS4wcHQ7bGluZS1oZWlnaHQ6MTE1JSc+PG86cD4mbmJzcDs8L286cD48L3NwYW4+PC9m
-b250PjwvcD4KCjwvZGl2PgoKPC9kaXY+Cgo8L2JvZHk+Cgo8L2h0bWw+Cg==
+b250PjwvcD4KCjwvZGl2PgoKPC9kaXY+Cgo8L2JvZHk+Cgo8L2h0bWw+Cg

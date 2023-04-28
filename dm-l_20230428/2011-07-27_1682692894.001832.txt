@@ -1,35 +1,55 @@
-Subject: [dm-l] Help with embedded imagesHi all,I have a pretty basic HTML question, I think.I want to embed a couple of MP4 videos in an HTML file. Using something 
-like the following code, I can do this relatively easily:> <div class="figure" id="d0e690">
-> <object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" 
-> codebase="http://www.apple.com/qtactivex/qtplugin.cab" height="480" 
-> width="640">
-> <param name="src" value="Pictures/Movie1.m4v"/>
-> <param name="autoplay" value="true"/>
-> <embed src="Pictures/Movie1.m4v" type="image/x-macpaint" 
-> pluginspage="http://www.apple.com/quicktime/download" autoplay="true" 
-> height="480" width="640">
+Subject: [dm-l] Help with embedded images
+
+Hi all,
+
+I have a pretty basic HTML question, I think.
+
+I want to embed a couple of MP4 videos in an HTML file. Using something 
+like the following code, I can do this relatively easily:
+
+> <div classigure" id˝0e690">
+> <object classid¸lsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" 
+> codebasettp://www.apple.com/qtactivex/qtplugin.cab" heightÙ80" 
+> widthˆ40">
+> <param namerc" valueictures/Movie1.m4v"/>
+> <param name˙utoplay" valuerue"/>
+> <embed srcictures/Movie1.m4v" typemage/x-macpaint" 
+> pluginspagettp://www.apple.com/quicktime/download" autoplayrue" 
+> heightÙ80" widthˆ40">
 > </object>
-> </div>The trouble is that Movie1 is 30 odd megabytes and there are other 
+> </div>
+
+The trouble is that Movie1 is 30 odd megabytes and there are other 
 movies in the file. So I'd rather use a place holder. Googling around I 
 discovered that the recommended way of doing this is to make a 1 frame 
 movie saying something like "click on me" which you put on the src 
 attribute, and then you add an href attribute with the name of the 
-"real" movie. If you add target="_self" it is supposed to replace the 
-place holder with the longer movie. This would be the code:> <div class="figure" id="d0e690">
-> <object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" 
-> codebase="http://www.apple.com/qtactivex/qtplugin.cab" height="480" 
-> width="640" href="Pictures/Movie1.m4v" target="_self">
-> <param name="src" value="Pictures/Movie1poster.m4v"/>
-> <param name="autoplay" value="true"/>
-> <embed src="Pictures/Movie1poster.m4v" type="image/x-macpaint" 
-> pluginspage="http://www.apple.com/quicktime/download" autoplay="true" 
-> height="480" width="640" href="Pictures/Movie1.m4v" target="_self"/>
+"real" movie. If you add targetself" it is supposed to replace the 
+place holder with the longer movie. This would be the code:
+
+> <div classigure" id˝0e690">
+> <object classid¸lsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" 
+> codebasettp://www.apple.com/qtactivex/qtplugin.cab" heightÙ80" 
+> widthˆ40" hrefictures/Movie1.m4v" targetself">
+> <param namerc" valueictures/Movie1poster.m4v"/>
+> <param name˙utoplay" valuerue"/>
+> <embed srcictures/Movie1poster.m4v" typemage/x-macpaint" 
+> pluginspagettp://www.apple.com/quicktime/download" autoplayrue" 
+> heightÙ80" widthˆ40" hrefictures/Movie1.m4v" targetself"/>
 > </object>
 > </div>
 The problem is that Firefox at any rate seems to understand the src 
 attribute as a base URL. If I click on the player and copy the URL that 
 is produced or look at it in a full screen, Firefox is looking for the 
-href video at    Pictures/Movie1poster.m4v/Pictures/Movie1.m4vinstead of    Pictures/Movie1.m4vI've tried everything I can think of to get around this: moved the files 
+href video at
+
+    Pictures/Movie1poster.m4v/Pictures/Movie1.m4v
+
+instead of
+
+    Pictures/Movie1.m4v
+
+I've tried everything I can think of to get around this: moved the files 
 into the root directory of the page, added ../ to the href to try and 
 get it to back up a directory. Nothing seems to work. Since this is a 
 very common thing on the internet, I must be doing something stupid. 
@@ -42,7 +62,11 @@ m√©dias interactifs <http://www.sdh-semi.org/>
 Co-Editor, /Digital Studies/Le champ num√©rique 
 <http://www.digitalstudies.org/>/
 Founding Editor, /Digital Medievalist 
-<http://www.digitalmedievalist.org/journal>/ *PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMDEgVHJhbnNpdGlvbmFs
+<http://www.digitalmedievalist.org/journal>/ *
+
+
+
+PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMDEgVHJhbnNpdGlvbmFs
 Ly9FTiI+CjxodG1sPgogIDxoZWFkPgoKICAgIDxtZXRhIGh0dHAtZXF1aXY9ImNvbnRlbnQtdHlw
 ZSIgY29udGVudD0idGV4dC9odG1sOyBjaGFyc2V0PUlTTy04ODU5LTEiPgogIDwvaGVhZD4KICA8
 Ym9keSB0ZXh0PSIjMDAwMDAwIiBiZ2NvbG9yPSIjZmZmZmZmIj4KICAgIEhpIGFsbCw8YnI+CiAg
@@ -121,4 +145,4 @@ RGlnaXRhbAogICAgICAgICAgICBTdHVkaWVzL0xlIGNoYW1wIG51bSZlYWN1dGU7cmlxdWU8L2E+
 PC9pPjxicj4KICAgICAgICBGb3VuZGluZyBFZGl0b3IsIDxpPjxhCiAgICAgICAgICAgIGhyZWY9
 Imh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy9qb3VybmFsIj5EaWdpdGFsCiAgICAg
 ICAgICAgIE1lZGlldmFsaXN0PC9hPjwvaT4KICAgICAgPC9zdHJvbmc+PC9kaXY+CiAgPC9ib2R5
-Pgo8L2h0bWw+Cg==
+Pgo8L2h0bWw+Cg

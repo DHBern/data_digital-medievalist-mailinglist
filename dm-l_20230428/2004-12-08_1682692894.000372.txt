@@ -1,9 +1,15 @@
-Subject: [dm-l] [Fwd: Manuscript description]-------- Original Message --------
+Subject: [dm-l] [Fwd: Manuscript description]
+
+
+
+-------- Original Message --------
 Subject: Manuscript description
 Date: Mon, 6 Dec 2004 12:46:55 +0100
 _redacted_(a)hum.ku.dk>
 _redacted_(a)hum.ku.dk
-_redacted_(a)LISTSERV.BROWN.EDUThe next version of the TEI Guidelines, P5, will contain a
+_redacted_(a)LISTSERV.BROWN.EDU
+
+The next version of the TEI Guidelines, P5, will contain a
 major new chapter on manuscript description. Although
 developed with the needs of manuscript scholars working in
 the European tradition, it is hoped that the scheme
@@ -29,12 +35,18 @@ notably the Repertorium of Old Bulgarian Literature and
 Letters. The result, we believe, is not simply a "common
 subset" of the two schemes, but rather represents a
 significant improvement on both, which at the same time
-lays the foundation for future work.A draft of the chapter is now available for comment on the
+lays the foundation for future work.
+
+A draft of the chapter is now available for comment on the
 TEI website:
-http://www.tei-c.org.uk/Activities/MS/Specific suggestions, corrections, enhancements (i.e.
+http://www.tei-c.org.uk/Activities/MS/
+
+Specific suggestions, corrections, enhancements (i.e.
 "feature requests") should be sent to
 http://tei.sourceforge.net/, while general comments can be
-posted to the TEI-L list or to the undersigned.We ask for volunteers interested in working on conversion
+posted to the TEI-L list or to the undersigned.
+
+We ask for volunteers interested in working on conversion
 of legacy data to the new format, and would be keen to
 receive examples which could be used in the chapter.
 Finally, although the major strength of the scheme we
@@ -44,6 +56,13 @@ clear that there are still areas (chiefly specific aspects
 of physical bibliography) for which more richly structured
 content models need to be developed and we would therefore
 be keen to hear from people who might be interested in
-proposing such models.M. J. Driscoll
+proposing such models.
+
+M. J. Driscoll
 Arnamagnaean Institute
-Copenhagen
+Copenhagen
+
+
+
+
+

@@ -1,16 +1,41 @@
-Subject: Re: [dm-l] documenting our own history in DH/DMDear Sara,This is an excellent and timely post.I was recently reading about the effort of project CRediT to create a
+Subject: Re: [dm-l] documenting our own history in DH/DM
+
+Dear Sara,
+
+This is an excellent and timely post.
+
+I was recently reading about the effort of project CRediT to create a
 standard taxonomy for attribution of collaboration in the sciences and was
 thinking it would be good to have a similar one for the digital
-humanities:http://credit.casrai.org/proposed-taxonomy/Is anyone here familiar with something similar?For our own part, on our project we follow a similar protocol for our TEI,
-where we have the following levels of attribution:Editor (person responsible for editorial decisions)
+humanities:http://credit.casrai.org/proposed-taxonomy/
+
+Is anyone here familiar with something similar?
+
+For our own part, on our project we follow a similar protocol for our TEI,
+where we have the following levels of attribution:
+
+Editor (person responsible for editorial decisions)
 Contributor (all scholars who made authorial level contributions)
 Additional Credit (all scholars and developers who helped transform or
 augement the data)
 Changelog (a list similar to a git commit that tracks and attributes all
-changes in the published TEI file)An example can be found here: http://syriaca.org/place/78/teiBest,
-Dave
+changes in the published TEI file)
+
+An example can be found here: http://syriaca.org/place/78/tei
+
+Best,
+Dave
+
+
+
+
+
+
+
 On 7/10/15, 8:52 AM, "dm-l on behalf of Sara L. Uckelman"
-_redacted_(a)durham.ac.uk> wrote:>Dear all,
+_redacted_(a)durham.ac.uk> wrote:
+
+>Dear all,
 >
 >The Dictionary of Medieval Names from European Sources has just put up
 >a new post on our blog that reflects on the practices of digital
@@ -33,7 +58,7 @@ _redacted_(a)durham.ac.uk> wrote:>Dear all,
 >Dr. Sara L. Uckelman
 >Department of Philosophy
 >Durham University
->https://www.dur.ac.uk/philosophy/staff/?id=12928
+>https://www.dur.ac.uk/philosophy/staff/?id928
 >
 >The Dicitionary of Medieval Names from European Sources
 >http://dmnes.org/
@@ -45,6 +70,9 @@ _redacted_(a)durham.ac.uk> wrote:>Dear all,
 >News: http://www.digitalmedievalist.org/news/
 >Wiki: http://www.digitalmedievalist.org/wiki/
 >Twitter: http://twitter.com/digitalmedieval
->Facebook: http://www.facebook.com/group.php?gid=49320313760
+>Facebook: http://www.facebook.com/group.php?gidI320313760
 _redacted_(a)uleth.ca
->Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+
+

@@ -1,28 +1,30 @@
-Subject: [dm-l] ChrysoCollateDear Colleagues,
-I am pleased to announce the publication of ChrysoCollate, a free computer pr=
-ogram for collation and critical edition in any language (Unicode) developed =
-by S=C3=A9bastien Moureau (FNRS, UCLouvain).
-This tool offers:  *   two modes: collation mode and edition mode;
-  *   a collation table with automatic distinctive colours and previsional co=
-mpletion of readings;
-  *   annotation tools for the collation table, including a system of referen=
-ces to the images of the witnesses that allows you to navigate easily in your=
- textual tradition;
-  *   automatic apparatus, according to the readings that are chosen by the e=
-ditor;
+Subject: [dm-l] ChrysoCollate
+
+Dear Colleagues,
+I am pleased to announce the publication of ChrysoCollate, a free computer program for collation and critical edition in any language (Unicode) developed by Sébastien Moureau (FNRS, UCLouvain).
+This tool offers:
+
+  *   two modes: collation mode and edition mode;
+  *   a collation table with automatic distinctive colours and previsional completion of readings;
+  *   annotation tools for the collation table, including a system of references to the images of the witnesses that allows you to navigate easily in your textual tradition;
+  *   automatic apparatus, according to the readings that are chosen by the editor;
   *   a stemma codicum checker;
   *   a translation box to manage and synchronise your translation;
   *   exportation in various formats (odt, cte, etc.).
 ChrysoCollate is freely available at https://uclouvain.be/chrysocollate/.
 Kind regards,
-S=C3=A9bastien Moureau,
-Chercheur qualifi=C3=A9 at the FNRS<https://www.frs-fnrs.be/>,
-Professor at the UCLouvain<https://uclouvain.be/fr/index.html>.
---===============6154569666941004546==
-Content-Type: text/html
+Sébastien Moureau,
+Chercheur qualifié at the FNRS<https://www.frs-fnrs.be/>,
+Professor at the UCLouvain<https://uclouvain.be/fr/index.html>.
+
+
+
+--6154569666941004546Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWwgeG1sbnM6dj0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTp2bWwiIHhtbG5zOm89InVy
+Content-Disposition: attachment; filename�ttachment.html"
+MIME-Version: 1.0
+
+PGh0bWwgeG1sbnM6dj0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTp2bWwiIHhtbG5zOm89InVy
 bjpzY2hlbWFzLW1pY3Jvc29mdC1jb206b2ZmaWNlOm9mZmljZSIgeG1sbnM6dz0idXJuOnNjaGVt
 YXMtbWljcm9zb2Z0LWNvbTpvZmZpY2U6d29yZCIgeG1sbnM6bT0iaHR0cDovL3NjaGVtYXMubWlj
 cm9zb2Z0LmNvbS9vZmZpY2UvMjAwNC8xMi9vbW1sIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcv
@@ -140,4 +142,4 @@ Rk5SUzwvYT4sPG86cD48L286cD48L3A+CjxwIGNsYXNzPSJNc29Ob3JtYWwiPlByb2Zlc3NvciBh
 dCB0aGUgPGEgaHJlZj0iaHR0cHM6Ly91Y2xvdXZhaW4uYmUvZnIvaW5kZXguaHRtbCI+ClVDTG91
 dmFpbjwvYT4uPG86cD48L286cD48L3A+CjxwIGNsYXNzPSJNc29Ob3JtYWwiPjxzcGFuIGxhbmc9
 IkVOLVVTIj48bzpwPiZuYnNwOzwvbzpwPjwvc3Bhbj48L3A+CjwvZGl2Pgo8L2Rpdj4KPC9ib2R5
-Pgo8L2h0bWw+Cg==
+Pgo8L2h0bWw+Cg

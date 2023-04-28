@@ -1,7 +1,14 @@
-Subject: [dm-l] Junicode 0.7.4The Junicode font version 0.7.4, released today, adds the Gothic range 
+Subject: [dm-l] Junicode 0.7.4
+
+The Junicode font version 0.7.4, released today, adds the Gothic range 
 in the regular face, based on the "Junius" Gothic typeface as used in 
 Geo. Hickes, Thesaurus (1704), but with changes for accuracy and 
 improved design. Also two new lookups, ss19 (Latin-to-Gothic 
 transliteration) and ss20 (Gothic to Latin transliteration). Otherwise 
-there are no significant changes from the previous version.Peter Baker
-http://junicode.sourceforge.net
+there are no significant changes from the previous version.
+
+Peter Baker
+http://junicode.sourceforge.net
+
+
+

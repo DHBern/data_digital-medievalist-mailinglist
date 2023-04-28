@@ -1,131 +1,99 @@
-Subject: [dm-l] CFP History and Text analysis (International conference inDear members of the list,
-The PIREH (University Paris 1 Panth=C3=A9on-Sorbonne) is organizing an intern=
-ational conference on History and Text analysis, at the Sorbonne in Paris on =
-January 17-19 2019.We are looking for papers, in English or in French, showing how historians ca=
-n use different methods of text analysis (computational linguistics, text min=
-ing, distant reading=E2=80=A6) with a quantitative or qualitative approach (s=
-ee the call for papers below and https://histlangtexto.sciencesconf.org/ <htt=
-ps://histlangtexto.sciencesconf.org/>).The deadline for the CFP is June the 22nd 2018 (see below).
-St=C3=A9phane Lamass=C3=A9, L=C3=A9o Dumont, Octave Julien@PirehP1
-http://pireh.univ-paris1.fr
-SCIENTIFIC COMMITTEEBenjamin Deruelle (Universit=C3=A9 du Qu=C3=A9bec =C3=A0 Montr=C3=A9al)
-Octave Julien (Universit=C3=A9 Paris 1 Panth=C3=A9on Sorbonne)
-St=C3=A9phane Lamass=C3=A9 (Universit=C3=A9 Paris 1 Panth=C3=A9on Sorbonne)
-Virgine Lethier (Universit=C3=A9 de Franche-Comt=C3=A9)
-Aude Mairey (Universit=C3=A9 Paris 1 - CNRS)
-Damon Mayaffre (Universit=C3=A9 Nice Sophia Antipolis)
-Ian Milligan (Universit=C3=A9 de Waterloo)
-B=C3=A9n=C3=A9dicte Pincemin (CNRS - Universit=C3=A9 de Lyon)
-Andr=C3=A9 Salem (Universit=C3=A9 Paris 3 Sorbonne Nouvelle)
-Max Silberztein (Universit=C3=A9 de Franche-Comt=C3=A9)CALL FOR PAPERS(French version) <https://histlangtexto.sciencesconf.org/?forward-action=3Din=
-dex&forward-controller=3Dindex&lang=3Dfr>
-Computational methods of text analysis (lexicometry, computational linguistic=
-s, text mining, distant reading...) are undergoing important developments in =
-many scientific fields and in society as a whole. Such methods can help and i=
-nterest many different sectors (private companies, public governance, intelli=
-gence, data-journalism, etc.). They are also assuming growing importance in t=
-he humanities, especially among researchers of the digital humanities. This h=
-as led to a number of conferences and regular scientific events, such as the =
-French JADT (Journ=C3=A9es d=E2=80=99Analyse des Donn=C3=A9es textuelles), an=
-d to several recent synthesis books (L=C3=A9on & Loiseau 2016, Jenset & McGil=
-livray 2017).In this movement, the position of historians appears to be paradoxical. Their=
- work is largely based on texts used as sources and, following the evolutions=
- of modern historiography, they showed a growing interest in the discourses a=
-nd representations of societies and individuals of the past. In this regard, =
-the methodologies of text analysis in history enjoyed a fair success and prom=
-inence in France as soon as the 1970s, especially at the Centre de lexicologi=
-e politique of the ENS Fontenay/Saint-Cloud. However, despite the influence o=
-f the linguistic turn and the development of more powerful and more accessibl=
-e software, the use of text analysis in history have been less frequent latel=
-y, even though such methods continue to prove useful (Genet, 2011). The limit=
-ed presence of historians at the JADT is symptomatic of that.Nowadays, text analysis is regaining momentum thanks to text mining, which ca=
-n help with sorting the massive amounts of textual data produced by the digit=
-alization of sources (such as the project Corpus of the Biblioth=C3=A8que nat=
-ionale de France =E2=80=93 Moiraghi 2018).The aim of this conference is to understand the current uses of computational=
- and statistical text analysis in history, at a time where the intellectual, =
-social and technical context is changing. Several questions can be raised to =
-better assess their use and their contribution to history.=20
-1. The historiography of text analysisFor a long time, historians have thought about the way they can associate his=
-tory, linguistics and statistics (Robin 1973 ; Guilhaumou, Maldidier, Robin 1=
-994 ; Genet 2011 ; L=C3=A9on 2015 ; L=C3=A9on & Loiseau 2016), and this histo=
-riographical current is not closed. One can go back to the fruitful moments o=
-f this collaboration, such as the works of the center of political lexicology=
- of the ENS Fontenay/Saint-Cloud, or those of the laboratory of statistical l=
-inguistics of the University of Nice. But it is worth asking why some scienti=
-fic and intellectual enterprises that appeared promising at first did not eve=
-ntually reach the same success, for example the works by Michel P=C3=AAcheux =
-and Denise Maldidier. One can also consider the intellectual career of histor=
-ians like Jacques Guilhaumou and R=C3=A9gine Robin, who began their research =
-using lexical statistics before they turned their attention to methodologies =
-closer to a more traditional conceptual history.=20
-2. New methods for new corpora2.1. The new sources and objects of text analysisIn France, text analysis was originally used to analyze political and trade u=
-nions texts. While this field of study is still active (Mayaffre 2010) and ca=
-n even reach a general audience (Alduy 2017 ; Souchard, Wanich & Cuminal 1998=
-), it is worth considering which other types of sources can be analyzed in th=
-is way. Some languages have strong idiosyncrasies: the writing of charters, d=
-iplomatic cables, or legal texts, for example. Others are characterized by th=
-eir specific context of production (orality, private or intimate writings, li=
-terary texts, etc.). Which questions and approaches are relevant for this kin=
-d of material?A language can also be treated as an historical object by itself, especially =
-when it is a tool of empowerment or domination. This is what Serge Lusignan h=
-ighlighted with a qualitative approach in his essays of sociolinguistic histo=
-ry (Lusignan 2004 and 2012). Similarly, the linguistic aspects of domination =
-are central in gender history or in postcolonial studies. In this respect, wh=
-at can text analysis offer ? How can such methods assist in grasping those di=
-scursive phenomenons?At the same time, a number of fields in history were deeply influenced by the=
- archival turn (Clanchy 1979, and Chastang 2008 for example for the medieval =
-history, or Guyotjeannin 1995). In this approach, sources are considered as a=
-n object per se, and a greater attention is given to their mode of production=
- and their conditions of conservation, in order to better understand what the=
-y say. Then, is text analysis less relevant, or can it help us shed a new lig=
-ht on the document itself, its formal or material aspects, its genesis and it=
-s evolutions?2.2. Text analysis, big data, and the historianWith the statistical approach of textual analysis, a representative and fairl=
-y large corpus is needed in order to produce significant results. The ideal s=
-ize of such a corpus is an open question, but one can wonder how it is possib=
-le to study textual materials with different levels of magnification and comp=
-lementary methods (data mining on big corpora vs. focused analysis of a speci=
-fic lexicon, for example). Historians must reflect on this shift, now that th=
-e corpora of digitalized and born-digital sources (such as websites) are rapi=
-dly growing. How can they make those new materials their own, and what can th=
-ey say, armed with their critical knowledge of sources, about their constitut=
-ion and their use? Recent publications show this transformation can benefit h=
-istorians of all periods (Perreaux 2014 in medieval history, for example) and=
- that it redefines the geography of historical research (Putnam 2016).3. The development of the statistical toolkit of text analysis3.1. TemporalityCorpora with a diachronic structure raise specific issues. The problem of ana=
-chronism has long been tackled by historians working on such material (Prost =
-1988), while more recent works have focused on the visualization of temporali=
-ty (Ratinaud & Marchand 2014). In textual analysis, words can speak for thems=
-elves and reveal a useful periodization for the historian=E2=80=99s work. Som=
-e statistical methods (Factorial analysis, topic modeling) can show the evolu=
-tion of a lexicon, by highlighting words coming in and out of a corpus, but t=
-he changes in their meaning itself still are difficult to grasp. What are the=
- means to perceive those semantic transformations? Also, how can we make use =
-of discontinuous series of texts on a large timeframe? Such questions are imp=
-ortant to the historian, who works on temporality by definition, but they are=
- also especially relevant when one considers digital writings, in so far as t=
-hey are frequently organized chronologically (such as Facebook or Twitter pos=
-ts). =203.2. Innovative algorithms for text analysisSince the seminal book by Lebart and Salem (Lebart & Salem 1994), a common se=
-t of statistical concepts and tools has been used by researchers and implemen=
-ted in free softwares, but new methodologies offer innovative ways to analyze=
- a corpus. In addition to topic models (Barron et alii, 2018), a tool like Li=
-nkage (http://linkage.fr <http://linkage.fr/>) uses written exchanges to buil=
-d a classification of a social network, while some deep learning algorithms r=
-elying on word vectors (Embedding Layer, Word2Vec, GloVe) can provide a summa=
-ry and a comparison of documents very quickly (Levy & Goldberg, 2014). How ca=
-n those new methods be used by historians?3.2. Qualitative and quantitative approachesThe computer tools available to social scientists for linguistic investigatio=
-ns are not necessarily based on statistics. Softwares like Nooj make a precis=
-e formalization of natural languages possible, thus enriching the comprehensi=
-on of a language in a given state and through time.On a broader level, one must also acknowledge the role of qualitative approac=
-hes. Their association with quantitative methods is a fruitful one (Paveau 20=
-12) and they must be taken into account to fully address the possible relatio=
-nships between languages and history. Contributions illustrating and discussi=
-ng the benefits of those different methods in history will be most welcome.
-SUBMISSION GUIDELINESParticipants can submit an abstract for two types of presentation, in French =
-or in English, :a 20 mn presentation (5000 characters abstract)an A1-sized poster (2500 characters abstract)To submit a proposal for a presentation, please upload an abstract on https:/=
-/histlangtexto.sciencesconf.org/ <https://histlangtexto.sciencesconf.org/> by=
- June 22, 2018. Accepted papers will be notified on July 13. A detailed draft=
- will be asked to speakers by October 15, 2018. The papers will be considered=
- for publication in a volume of essays.Fundings for transportation may be available depending on the number of appli=
-cations.PGh0bWw+PGhlYWQ+PG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0
+Subject: [dm-l] CFP History and Text analysis (International conference in
+
+Dear members of the list,
+
+The PIREH (University Paris 1 Panthéon-Sorbonne) is organizing an international conference on History and Text analysis, at the Sorbonne in Paris on January 17-19 2019.
+
+We are looking for papers, in English or in French, showing how historians can use different methods of text analysis (computational linguistics, text mining, distant reading…) with a quantitative or qualitative approach (see the call for papers below and https://histlangtexto.sciencesconf.org/ <https://histlangtexto.sciencesconf.org/>).
+
+The deadline for the CFP is June the 22nd 2018 (see below).
+
+Stéphane Lamassé, Léo Dumont, Octave Julien
+
+@PirehP1
+http://pireh.univ-paris1.fr
+
+SCIENTIFIC COMMITTEE
+
+Benjamin Deruelle (Université du Québec à Montréal)
+Octave Julien (Université Paris 1 Panthéon Sorbonne)
+Stéphane Lamassé (Université Paris 1 Panthéon Sorbonne)
+Virgine Lethier (Université de Franche-Comté)
+Aude Mairey (Université Paris 1 - CNRS)
+Damon Mayaffre (Université Nice Sophia Antipolis)
+Ian Milligan (Université de Waterloo)
+Bénédicte Pincemin (CNRS - Université de Lyon)
+André Salem (Université Paris 3 Sorbonne Nouvelle)
+Max Silberztein (Université de Franche-Comté)
+
+CALL FOR PAPERS
+
+(French version) <https://histlangtexto.sciencesconf.org/?forward-action=index&forward-controller=index&lang=fr>
+Computational methods of text analysis (lexicometry, computational linguistics, text mining, distant reading...) are undergoing important developments in many scientific fields and in society as a whole. Such methods can help and interest many different sectors (private companies, public governance, intelligence, data-journalism, etc.). They are also assuming growing importance in the humanities, especially among researchers of the digital humanities. This has led to a number of conferences and regular scientific events, such as the French JADT (Journées d’Analyse des Données textuelles), and to several recent synthesis books (Léon & Loiseau 2016, Jenset & McGillivray 2017).
+
+In this movement, the position of historians appears to be paradoxical. Their work is largely based on texts used as sources and, following the evolutions of modern historiography, they showed a growing interest in the discourses and representations of societies and individuals of the past. In this regard, the methodologies of text analysis in history enjoyed a fair success and prominence in France as soon as the 1970s, especially at the Centre de lexicologie politique of the ENS Fontenay/Saint-Cloud. However, despite the influence of the linguistic turn and the development of more powerful and more accessible software, the use of text analysis in history have been less frequent lately, even though such methods continue to prove useful (Genet, 2011). The limited presence of historians at the JADT is symptomatic of that.
+
+Nowadays, text analysis is regaining momentum thanks to text mining, which can help with sorting the massive amounts of textual data produced by the digitalization of sources (such as the project Corpus of the Bibliothèque nationale de France – Moiraghi 2018).
+
+The aim of this conference is to understand the current uses of computational and statistical text analysis in history, at a time where the intellectual, social and technical context is changing. Several questions can be raised to better assess their use and their contribution to history.
+
+ 
+1. The historiography of text analysis
+
+For a long time, historians have thought about the way they can associate history, linguistics and statistics (Robin 1973 ; Guilhaumou, Maldidier, Robin 1994 ; Genet 2011 ; Léon 2015 ; Léon & Loiseau 2016), and this historiographical current is not closed. One can go back to the fruitful moments of this collaboration, such as the works of the center of political lexicology of the ENS Fontenay/Saint-Cloud, or those of the laboratory of statistical linguistics of the University of Nice. But it is worth asking why some scientific and intellectual enterprises that appeared promising at first did not eventually reach the same success, for example the works by Michel Pêcheux and Denise Maldidier. One can also consider the intellectual career of historians like Jacques Guilhaumou and Régine Robin, who began their research using lexical statistics before they turned their attention to methodologies closer to a more traditional conceptual history.
+
+ 
+2. New methods for new corpora
+
+2.1. The new sources and objects of text analysis
+
+In France, text analysis was originally used to analyze political and trade unions texts. While this field of study is still active (Mayaffre 2010) and can even reach a general audience (Alduy 2017 ; Souchard, Wanich & Cuminal 1998), it is worth considering which other types of sources can be analyzed in this way. Some languages have strong idiosyncrasies: the writing of charters, diplomatic cables, or legal texts, for example. Others are characterized by their specific context of production (orality, private or intimate writings, literary texts, etc.). Which questions and approaches are relevant for this kind of material?
+
+A language can also be treated as an historical object by itself, especially when it is a tool of empowerment or domination. This is what Serge Lusignan highlighted with a qualitative approach in his essays of sociolinguistic history (Lusignan 2004 and 2012). Similarly, the linguistic aspects of domination are central in gender history or in postcolonial studies. In this respect, what can text analysis offer ? How can such methods assist in grasping those discursive phenomenons?
+
+At the same time, a number of fields in history were deeply influenced by the archival turn (Clanchy 1979, and Chastang 2008 for example for the medieval history, or Guyotjeannin 1995). In this approach, sources are considered as an object per se, and a greater attention is given to their mode of production and their conditions of conservation, in order to better understand what they say. Then, is text analysis less relevant, or can it help us shed a new light on the document itself, its formal or material aspects, its genesis and its evolutions?
+
+
+
+2.2. Text analysis, big data, and the historian
+
+With the statistical approach of textual analysis, a representative and fairly large corpus is needed in order to produce significant results. The ideal size of such a corpus is an open question, but one can wonder how it is possible to study textual materials with different levels of magnification and complementary methods (data mining on big corpora vs. focused analysis of a specific lexicon, for example). Historians must reflect on this shift, now that the corpora of digitalized and born-digital sources (such as websites) are rapidly growing. How can they make those new materials their own, and what can they say, armed with their critical knowledge of sources, about their constitution and their use? Recent publications show this transformation can benefit historians of all periods (Perreaux 2014 in medieval history, for example) and that it redefines the geography of historical research (Putnam 2016).
+
+
+
+3. The development of the statistical toolkit of text analysis
+
+3.1. Temporality
+
+Corpora with a diachronic structure raise specific issues. The problem of anachronism has long been tackled by historians working on such material (Prost 1988), while more recent works have focused on the visualization of temporality (Ratinaud & Marchand 2014). In textual analysis, words can speak for themselves and reveal a useful periodization for the historian’s work. Some statistical methods (Factorial analysis, topic modeling) can show the evolution of a lexicon, by highlighting words coming in and out of a corpus, but the changes in their meaning itself still are difficult to grasp. What are the means to perceive those semantic transformations? Also, how can we make use of discontinuous series of texts on a large timeframe? Such questions are important to the historian, who works on temporality by definition, but they are also especially relevant when one considers digital writings, in so far as they are frequently organized chronologically (such as Facebook or Twitter posts).  
+
+3.2. Innovative algorithms for text analysis
+
+Since the seminal book by Lebart and Salem (Lebart & Salem 1994), a common set of statistical concepts and tools has been used by researchers and implemented in free softwares, but new methodologies offer innovative ways to analyze a corpus. In addition to topic models (Barron et alii, 2018), a tool like Linkage (http://linkage.fr <http://linkage.fr/>) uses written exchanges to build a classification of a social network, while some deep learning algorithms relying on word vectors (Embedding Layer, Word2Vec, GloVe) can provide a summary and a comparison of documents very quickly (Levy & Goldberg, 2014). How can those new methods be used by historians?
+
+
+
+3.2. Qualitative and quantitative approaches
+
+The computer tools available to social scientists for linguistic investigations are not necessarily based on statistics. Softwares like Nooj make a precise formalization of natural languages possible, thus enriching the comprehension of a language in a given state and through time.
+
+On a broader level, one must also acknowledge the role of qualitative approaches. Their association with quantitative methods is a fruitful one (Paveau 2012) and they must be taken into account to fully address the possible relationships between languages and history. Contributions illustrating and discussing the benefits of those different methods in history will be most welcome.
+
+SUBMISSION GUIDELINES
+
+Participants can submit an abstract for two types of presentation, in French or in English, :
+
+a 20 mn presentation (5000 characters abstract)
+
+an A1-sized poster (2500 characters abstract)
+
+To submit a proposal for a presentation, please upload an abstract on https://histlangtexto.sciencesconf.org/ <https://histlangtexto.sciencesconf.org/> by June 22, 2018. Accepted papers will be notified on July 13. A detailed draft will be asked to speakers by October 15, 2018. The papers will be considered for publication in a volume of essays.
+
+Fundings for transportation may be available depending on the number of applications.
+
+
+
+PGh0bWw+PGhlYWQ+PG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0
 L2h0bWwgY2hhcnNldD11dGYtOCI+PC9oZWFkPjxib2R5IHN0eWxlPSJ3b3JkLXdyYXA6IGJyZWFr
 LXdvcmQ7IC13ZWJraXQtbmJzcC1tb2RlOiBzcGFjZTsgLXdlYmtpdC1saW5lLWJyZWFrOiBhZnRl
 ci13aGl0ZS1zcGFjZTsiIGNsYXNzPSIiPkRlYXIgbWVtYmVycyBvZiB0aGUgbGlzdCw8ZGl2IGNs
@@ -452,4 +420,4 @@ PC9mb250PjwvZm9udD48L3A+PHAgc3R5bGU9InRleHQtYWxpZ246IGp1c3RpZnk7IHRleHQtaW5k
 ZW50OiAwY207IiBjbGFzcz0iIj48Zm9udCBmYWNlPSJUaW1lcyBOZXcgUm9tYW4iIGNsYXNzPSIi
 Pjxmb250IHN0eWxlPSJmb250LXNpemU6IDEycHQiIGNsYXNzPSIiPkZ1bmRpbmdzCmZvciB0cmFu
 c3BvcnRhdGlvbiBtYXkgYmUgYXZhaWxhYmxlIGRlcGVuZGluZyBvbiB0aGUgbnVtYmVyIG9mCmFw
-cGxpY2F0aW9ucy48L2ZvbnQ+PC9mb250PjwvcD48L2Rpdj48L2JvZHk+PC9odG1sPg==
+cGxpY2F0aW9ucy48L2ZvbnQ+PC9mb250PjwvcD48L2Rpdj48L2JvZHk+PC9odG1sPg

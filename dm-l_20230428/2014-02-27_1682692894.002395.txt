@@ -1,36 +1,58 @@
-Subject: [dm-l] xslt functions for roman dates and numeralsDear allI've written two XSL 2.0 functions which might be of some interest for =20
-digital medievalists.
-The first ("is_roman_number") checks if a given string is a correct =20
+Subject: [dm-l] xslt functions for roman dates and numerals
+
+Dear all
+
+I've written two XSL 2.0 functions which might be of some interest for  
+digital medievalists.
+
+The first ("is_roman_number") checks if a given string is a correct  
 Roman numeral or not (returning a boolean).
-E.g. <xsl:value-of select=3D"locfun:is_roman_number('xvi')"/> returns "true".
-The second ("convert_date") converts Roman dates (you know, something =20
-like 'XII Kalendas Decembris') into a string, containing the date in =20
-modern (english) format.The function expects four parameters:
-1. A string indicating the month in latin. The function is quite =20
+E.g. <xsl:value-of select="locfun:is_roman_number('xvi')"/> returns "true".
+
+The second ("convert_date") converts Roman dates (you know, something  
+like 'XII Kalendas Decembris') into a string, containing the date in  
+modern (english) format.
+
+The function expects four parameters:
+1. A string indicating the month in latin. The function is quite  
 tolerant here.
-2. A string indicating the part of the month: kalendae, nonae, idus. =20
+2. A string indicating the part of the month: kalendae, nonae, idus.  
 Again much spelling variation tolerance here.
-3. A string indicating the given number of the day in Roman numerals. =20
-If your date is exactly on a fix date (eg. "kalendibus"), just write =20
+3. A string indicating the given number of the day in Roman numerals.  
+If your date is exactly on a fix date (eg. "kalendibus"), just write  
 '' here.
-4. A boolean for the leap year. 'true()' means 'yes, we're in a leap year'.E.g. <xsl:value-of =20
-select=3D"locfun:convert_date('iunii','idus','III',false())"/> will =20
-return "June 11".Both functions use the xmlns:locfun=3D"urn:local-functions" namespace =20
-and the =20
-xmlns:own_t=3D"http://no-real-uri-here/arguments_and_document_node_variables_=
-of_Christian_Schwaderer" namespace for document node =20
-variables.You find the code file attached. You might use, edit, share it in =20
-whichever way you like!Best regards
-Christian
---Dr. Christian Schwaderer
-(Akademischer Mitarbeiter)Eberhard-Karls-Universit=C3=A4t T=C3=BCbingen
-Philosophische Fakult=C3=A4t
+4. A boolean for the leap year. 'true()' means 'yes, we're in a leap year'.
+
+E.g. <xsl:value-of  
+select="locfun:convert_date('iunii','idus','III',false())"/> will  
+return "June 11".
+
+Both functions use the xmlns:locfun="urn:local-functions" namespace  
+and the  
+xmlns:own_t="http://no-real-uri-here/arguments_and_document_node_variables_of_Christian_Schwaderer" namespace for document node  
+variables.
+
+You find the code file attached. You might use, edit, share it in  
+whichever way you like!
+
+Best regards
+Christian
+
+--
+
+Dr. Christian Schwaderer
+(Akademischer Mitarbeiter)
+
+Eberhard-Karls-Universität Tübingen
+Philosophische Fakultät
 Fachbereich Geschichtswissenschaft
-Seminar f=C3=BCr mittelalterliche Geschichte
-Wilhelmstra=C3=9Fe 36 (Hegelbau)=C2=B7 72074 T=C3=BCbingen =C2=B7 Germany
+Seminar für mittelalterliche Geschichte
+Wilhelmstraße 36 (Hegelbau)· 72074 Tübingen · Germany
 Zimmer 212
-Telefon +49 7071 29-72990=C2=B7 Telefax +49 7071 29-5905
-_redacted_(a)uni-tuebingen.dePD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHhzbDpzdHlsZXNoZWV0IHZl
+Telefon +49 7071 29-72990· Telefax +49 7071 29-5905
+_redacted_(a)uni-tuebingen.de
+
+PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHhzbDpzdHlsZXNoZWV0IHZl
 cnNpb249IjIuMCIKICAgIHhtbG5zOnhzbD0iaHR0cDovL3d3dy53My5vcmcvMTk5OS9YU0wvVHJh
 bnNmb3JtIiB4bWxuczp4cz0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEiCiAgICB4
 bWxuczpsb2NmdW49InVybjpsb2NhbC1mdW5jdGlvbnMiCiAgICB4bWxuczpvd25fdD0iaHR0cDov
@@ -1383,4 +1405,4 @@ ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
 ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPCEtLSBQYXNzaW5n
 IHRocm91Z2ggdGhlIGVycm9yIG1lc3NhZ2UuIElmIHRoZXJlIGlzIG5vIGVycm9yIG1lc3NhZ2Us
 IHRoZW4gd2UgdGhlcmUgaXMgbm8gbmVlZCBmb3IgdGhlIG1vbnQgcGFydC4gLS0+CiAgPC94c2w6
-ZnVuY3Rpb24+CiAgICAKPC94c2w6c3R5bGVzaGVldD4=
+ZnVuY3Rpb24+CiAgICAKPC94c2w6c3R5bGVzaGVldD4

@@ -1,16 +1,70 @@
-Subject: [dm-l] Software questionHi, folks- Please forgive if this is a pure newby question. I'm looking to do some analysis of a large body of poetry, and I'd like to
+Subject: [dm-l] Software question
+
+Hi, folks-
+
+ 
+
+Please forgive if this is a pure newby question.
+
+ 
+
+I'm looking to do some analysis of a large body of poetry, and I'd like to
 be able to sort according to individual words and then map those usages
 against other terms to map out their relationships. I'd also like to be able
 to tag the terms in a number of ways, especially according to date of
 appearance. I know I've run across references to software that allows this
 kind of thing (other than just fancy SQL programming), but I can't call any
-of it to mind. Anyone know of any easily accessible and not too expensive software that
-does this kind of thing? Or is my memory completely faulty? Thx, and best from Anchorage, Dan ____________________________________Daniel T. Kline, Ph.D.Associate Professor of EnglishU of Alaska Anchorage (PSB 212-C)3211 Providence Drive Anchorage, Alaska 99508_redacted_(a)uaa.alaska.eduThe Electronic Canterbury Tales:http://afdtk.uaa.alaska.edu/ect_main.htm  "Fortunately, I keep my feathers numbered for just such an emergency." 
---===============4009071839593323566==
-Content-Type: text/html
+of it to mind.
+
+ 
+
+Anyone know of any easily accessible and not too expensive software that
+does this kind of thing? Or is my memory completely faulty?
+
+ 
+
+Thx, and best from Anchorage,
+
+ 
+
+Dan
+
+ 
+
+____________________________________
+
+Daniel T. Kline, Ph.D.
+
+Associate Professor of English
+
+U of Alaska Anchorage (PSB 212-C)
+
+3211 Providence Drive 
+
+Anchorage, Alaska 99508
+
+_redacted_(a)uaa.alaska.edu
+
+The Electronic Canterbury Tales:
+
+http://afdtk.uaa.alaska.edu/ect_main.htm 
+
+ 
+
+"Fortunately, I keep my feathers numbered 
+
+for just such an emergency."
+
+ 
+
+
+
+--4009071839593323566Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWwgeG1sbnM6bz0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTpvZmZpY2U6b2ZmaWNlIiB4
+Content-Disposition: attachment; filenameúttachment.html"
+MIME-Version: 1.0
+
+PGh0bWwgeG1sbnM6bz0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTpvZmZpY2U6b2ZmaWNlIiB4
 bWxuczp3PSJ1cm46c2NoZW1hcy1taWNyb3NvZnQtY29tOm9mZmljZTp3b3JkIiB4bWxuczpzdDE9
 InVybjpzY2hlbWFzLW1pY3Jvc29mdC1jb206b2ZmaWNlOnNtYXJ0dGFncyIgeG1sbnM9Imh0dHA6
 Ly93d3cudzMub3JnL1RSL1JFQy1odG1sNDAiPgoKPGhlYWQ+CjxNRVRBIEhUVFAtRVFVSVY9IkNv
@@ -120,4 +174,4 @@ c3BhbiBzdHlsZT0nZm9udC1zaXplOgoxMi4wcHQnPmZvciBqdXN0IHN1Y2ggYW4gZW1lcmdlbmN5
 LiZxdW90Ozwvc3Bhbj48bzpwPjwvbzpwPjwvZm9udD48L3A+Cgo8cCBjbGFzcz1Nc29Ob3JtYWw+
 PGZvbnQgc2l6ZT0zIGZhY2U9IlRpbWVzIE5ldyBSb21hbiI+PHNwYW4gc3R5bGU9J2ZvbnQtc2l6
 ZToKMTIuMHB0Jz48bzpwPiZuYnNwOzwvbzpwPjwvc3Bhbj48L2ZvbnQ+PC9wPgoKPC9kaXY+Cgo8
-L2JvZHk+Cgo8L2h0bWw+Cg==
+L2JvZHk+Cgo8L2h0bWw+Cg

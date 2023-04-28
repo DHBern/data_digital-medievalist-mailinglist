@@ -1,14 +1,16 @@
-Subject: [dm-l] Seminar: Extracting the terminology of the Roman law of Digital Classicist London Seminar 2020Marton Ribary (Surrey) and Barbara McGillivray (Alan Turing Institute & Cambr=
-idge): =E2=80=9CThe thing is mine=E2=80=9D: Extracting the terminology of the=
- Roman law of =E2=80=9Cownership=E2=80=9D from Justinian=E2=80=99s DigestFriday, Jun 19, 2020, 16:30 UK time
+Subject: [dm-l] Seminar: Extracting the terminology of the Roman law of 
+
+Digital Classicist London Seminar 2020
+
+Marton Ribary (Surrey) and Barbara McGillivray (Alan Turing Institute & Cambridge): “The thing is mine”: Extracting the terminology of the Roman law of “ownership” from Justinian’s Digest
+
+Friday, Jun 19, 2020, 16:30 UK time
 Institute of Classical Studies, University of London
-Online seminar, streamed live and archived at: https://youtu.be/cG8sRps1s6QOur paper investigates the evolution of the concept of =E2=80=9Cownership=E2=
-=80=9D in Roman law using computational semantic methods. The work is based o=
-n a relational database of Justinian=E2=80=99s Digest (533 CE) arranging more=
- than twenty thousand text units excerpted from hundreds of otherwise lost le=
-gal works in a Python environment and shared on GitHub (mribary/pyDigest). We=
- present a thematic tree-map of Roman law based on hierarchical clustering of=
- sections. We use computational methods for terminology extraction and distri=
-butional semantic word representations to show how the semantic landscape ass=
-ociated with =E2=80=9Cownership=E2=80=9D changed over time.ALL WELCOME
---===============1098001839198032367==--
+Online seminar, streamed live and archived at: https://youtu.be/cG8sRps1s6Q
+
+Our paper investigates the evolution of the concept of “ownership” in Roman law using computational semantic methods. The work is based on a relational database of Justinian’s Digest (533 CE) arranging more than twenty thousand text units excerpted from hundreds of otherwise lost legal works in a Python environment and shared on GitHub (mribary/pyDigest). We present a thematic tree-map of Roman law based on hierarchical clustering of sections. We use computational methods for terminology extraction and distributional semantic word representations to show how the semantic landscape associated with “ownership” changed over time.
+
+ALL WELCOME
+
+--1098001839198032367-
+

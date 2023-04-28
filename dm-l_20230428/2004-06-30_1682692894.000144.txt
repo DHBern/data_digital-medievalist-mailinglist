@@ -1,4 +1,8 @@
-Subject: Re: Multiple Stylesheets (was Re: [dm-l] Hacks: an example)Hi there,You're very welcome to use any of the code you find on the 
+Subject: Re: Multiple Stylesheets (was Re: [dm-l] Hacks: an example)
+
+Hi there,
+
+You're very welcome to use any of the code you find on the 
 <http://web.uvic.ca/hrd/hulq/> pages related to the stylesheet handling and 
 the audio stuff. Neither Opera nor Safari actually allow manipulation of 
 the stylesheet array yet, so stylesheet switching doesn't work in those 
@@ -6,30 +10,52 @@ browsers; Firefox/Moz and Opera do let you switch between stylesheets
 manually in the browser itself, but they only let you choose one, rather 
 than allowing a cascade, so the effect isn't great because some of our 
 "presets" depend on several stylesheets being active together. Neither IE 
-nor Safari allow stylesheet selection in the browser.The head of the page contains this kind of thing:<link rel="stylesheet" title="Basic" type="text/css" href="../../style.css" />
-<link rel="stylesheet" title="Alternative" type="text/css" 
-href="../../alternative.css" />
-<link rel="stylesheet" title="NavLeft" type="text/css" 
-href="../../nav_left.css" />
-<link rel="stylesheet" title="NavRight" type="text/css" 
-href="../../nav_right.css" />
-<link rel="stylesheet" title="NavTextCaptions" type="text/css" 
-href="../../nav_text_captions.css" />
-<link rel="stylesheet" title="HideBottomNav" type="text/css" 
-href="../../hide_bottom_nav.css" />
-<link rel="stylesheet" title="HighContrast" type="text/css" 
-href="../../high_contrast.css" />
-<link rel="stylesheet" title="Print" type="text/css" href="../../print.css" />with the stylesheet switching stuff being handled here:<http://web.uvic.ca/hrd/hulq/script.js>The audio file format switching is handled here:<http://web.uvic.ca/hrd/hulq/audio.js>The Flash player for MP3s is something I wrote myself -- it's a little 
+nor Safari allow stylesheet selection in the browser.
+
+The head of the page contains this kind of thing:
+
+<link reltylesheet" titleûasic" typeext/css" href./../style.css" />
+<link reltylesheet" titleúlternative" typeext/css" 
+href./../alternative.css" />
+<link reltylesheet" titleavLeft" typeext/css" 
+href./../nav_left.css" />
+<link reltylesheet" titleavRight" typeext/css" 
+href./../nav_right.css" />
+<link reltylesheet" titleavTextCaptions" typeext/css" 
+href./../nav_text_captions.css" />
+<link reltylesheet" titleideBottomNav" typeext/css" 
+href./../hide_bottom_nav.css" />
+<link reltylesheet" titleighContrast" typeext/css" 
+href./../high_contrast.css" />
+<link reltylesheet" titlerint" typeext/css" href./../print.css" />
+
+with the stylesheet switching stuff being handled here:
+
+<http://web.uvic.ca/hrd/hulq/script.js>
+
+The audio file format switching is handled here:
+
+<http://web.uvic.ca/hrd/hulq/audio.js>
+
+The Flash player for MP3s is something I wrote myself -- it's a little 
 Flash movie that you can pass an mp3 file URL to using the object tag 
 parameters. The other players are standard, and they're all inserted using 
 object tags so we get valid XHTML. You're welcome to use the Flash audio 
 player too if you like -- it's designed to be as unobtrusive as possible, 
 and has only Play and Stop, with Play turning into Pause while playing. 
-There's a tutorial on how to use it in Hot Potatoes exercises here:<http://web.uvic.ca/hrd/hotpot/howto/audio.htm>The code explained in the tutorial is straight XHTML 1.1, so it's 
+There's a tutorial on how to use it in Hot Potatoes exercises here:
+
+<http://web.uvic.ca/hrd/hotpot/howto/audio.htm>
+
+The code explained in the tutorial is straight XHTML 1.1, so it's 
 generalizable to any modern Web page, and there are download links to the 
 Flash movie and the Flash project file, in case you want to make some 
-tweaks to the way it works.Cheers,
-MartinAt 08:28 AM 30/06/2004, you wrote:
+tweaks to the way it works.
+
+Cheers,
+Martin
+
+At 08:28 AM 30/06/2004, you wrote:
 >Content-Transfer-Encoding: 7bit
 >
 >This is neat. I was thinking of something very similar using cookies, 
@@ -130,7 +156,9 @@ _redacted_(a)uleth.ca>
 >dm-l mailing list
 _redacted_(a)uleth.ca
 >http://listserv.uleth.ca/mailman/listinfo/dm-l
->______________________________________
+>
+
+______________________________________
 Martin Holmes
 University of Victoria Humanities Computing and Media Centre
 _redacted_(a)uvic.ca
@@ -138,4 +166,7 @@ _redacted_(a)mholmes.com
 _redacted_(a)halfbakedsoftware.com
 http://www.mholmes.com
 http://web.uvic.ca/hcmc/
-http://www.halfbakedsoftware.com
+http://www.halfbakedsoftware.com
+
+
+

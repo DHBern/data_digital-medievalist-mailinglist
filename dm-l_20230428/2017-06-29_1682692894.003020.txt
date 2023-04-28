@@ -1,97 +1,102 @@
-Subject: Re: [dm-l] Plain text access to medieval manuscripts: 147 volumesDear Dominique,This does indeed look very interesting. I have a couple of=20
-questions.First, is the software (or some part of it) used to extract the text=20
-from the manuscripts going to be released under a free software=20
-license? While I'm sure there's plenty of domain-specific stuff=20
-there, I'm also sure it could be very useful to other projects which=20
-are doing similar things.I find it so frustrating when large publically funded projects=20
-funnel their money into proprietary software that can't be further=20
-developed and built upon by others. c.f. Transkribus. Here's hoping=20
-you're planning to release the code soon!Second question, is there a way to access the plain text directly,=20
-or is there only a search interface at the moment? Having direct=20
-plain text access can be useful for others to do various further=20
-analysis on the corpus.Anyway, great work, looks exciting, congratulations!Nick WhiteOn Tue, Jun 20, 2017 at 03:12:12PM +0200, Dominique Stutzmann wrote:
+Subject: Re: [dm-l] Plain text access to medieval manuscripts: 147 volumes
+
+Dear Dominique,
+
+This does indeed look very interesting. I have a couple of 
+questions.
+
+First, is the software (or some part of it) used to extract the text 
+from the manuscripts going to be released under a free software 
+license? While I'm sure there's plenty of domain-specific stuff 
+there, I'm also sure it could be very useful to other projects which 
+are doing similar things.
+
+I find it so frustrating when large publically funded projects 
+funnel their money into proprietary software that can't be further 
+developed and built upon by others. c.f. Transkribus. Here's hoping 
+you're planning to release the code soon!
+
+Second question, is there a way to access the plain text directly, 
+or is there only a search interface at the moment? Having direct 
+plain text access can be useful for others to do various further 
+analysis on the corpus.
+
+Anyway, great work, looks exciting, congratulations!
+
+Nick White
+
+On Tue, Jun 20, 2017 at 03:12:12PM +0200, Dominique Stutzmann wrote:
 > Dear all,
->=20
+> 
 > Within the HIMANIS project, funded by the Joint Programming Initiative on
-> Cultural Heritage and Global Change=E2=80=9D (JPI-CH) of the European Union=
-, the
+> Cultural Heritage and Global Change” (JPI-CH) of the European Union, the
 > partners are developing cost-effective solutions for querying large sets of
-> handwritten document images. With IRHT and A2iA (France), the Universities =
-of
+> handwritten document images. With IRHT and A2iA (France), the Universities of
 > Valencia (Spain) and Groningen (Netherlands) as well as the French National
 > Archive, it gathers Computer Science, Humanities and Cultural Heritage
 > institutions in order to produce technology to generate new, research-based
 > knowledge from historical manuscripts. As a challenging and particularly
-> interesting case study, we have indexed the large collection of the Tr=C3=
-=A9sor des
-> Chartes=E2=80=99 registers produced by the French royal chancery (Paris, Ar=
-chives
-> Nationales, JJ7 =E2=80=93 JJ209).=20
->=20
-> Now we are proud to announce that you can search the plain text in the Tr=
-=C3=A9sor
-> des Chartes=E2=80=99 registers and provide feedback: It is ready to be used=
- and tested
+> interesting case study, we have indexed the large collection of the Trésor des
+> Chartes’ registers produced by the French royal chancery (Paris, Archives
+> Nationales, JJ7 – JJ209). 
+> 
+> Now we are proud to announce that you can search the plain text in the Trésor
+> des Chartes’ registers and provide feedback: It is ready to be used and tested
 > by all interested users worldwide!
 > http://prhlt-kws.prhlt.upv.es/himanis/
->=20
-> =20
+> 
+>  
 > This is a prototype and beta version, which will be amended and will change
-> over the next months, with new functionalities (navigate through hits, disp=
-lay
-> of abstracts and editions) and with additional volumes to be indexed from t=
-he
+> over the next months, with new functionalities (navigate through hits, display
+> of abstracts and editions) and with additional volumes to be indexed from the
 > French National Library and the National Archive..
->=20
+> 
 > The project website is: http://www.himanis.org/
-> The search interface into the corpus: http://prhlt-kws.prhlt.upv.es/ himani=
-s/
-> Additional explanations about the interface: https://himanis.hypotheses. or=
-g/
+> The search interface into the corpus: http://prhlt-kws.prhlt.upv.es/ himanis/
+> Additional explanations about the interface: https://himanis.hypotheses. org/
 > 105
->=20
-> You can search with boolean operators and word sequences (for the syntax, c=
-heck
+> 
+> You can search with boolean operators and word sequences (for the syntax, check
 > on https://himanis.hypotheses. org/105)
->=20
+> 
 > You can help us measuring the precision of our results:
 > - please click on highlighted hits to confirm whether the word is correctly
 > spotted or not;
 > - please double click on a missed hit if you see it on the page (it will be
 > added to the index for all users to search from the next day)
->=20
+> 
 > Two simple examples as a beginning:
-> - "scriptor" within the whole corpus: http://prhlt-kws.prhlt.upv.es/ himani=
-s/
-> index.php?q=3Dscriptor& t=3D10&feedback=3D1
-> - "pelerinage" on one page : http://prhlt-kws.prhlt.upv.es/ himanis/index.p=
-hp/
-> ui/show/ chancery/147/853?q=3Dpelerinage& t=3D50&feedback=3D1
->=20
+> - "scriptor" within the whole corpus: http://prhlt-kws.prhlt.upv.es/ himanis/
+> index.php?q=scriptor& t=10&feedback=1
+> - "pelerinage" on one page : http://prhlt-kws.prhlt.upv.es/ himanis/index.php/
+> ui/show/ chancery/147/853?q=pelerinage& t=50&feedback=1
+> 
 > The complete indexing results from an automated, image analysis process. You
 > may find unexpected or false hits: for example, abbreviations are expanded
 > automatically and it is needless to say that they are error-prone; likewise
-> place and person names are slightly less well spotted. You can enhance the =
-hit
+> place and person names are slightly less well spotted. You can enhance the hit
 > list by setting the "confidence" rate (between 0 and 100).
->=20
-> We hope that you will be as thrilled as we are to present these results and=
- we
+> 
+> We hope that you will be as thrilled as we are to present these results and we
 > invite you to test, give feedback and send further comments, critics and
 _redacted_(a)irht.cnrs.fr!
->=20
+> 
 > Best regards
->=20
+> 
 > Dominique Stutzmann
-> =E2=80=93=E2=80=93
+> ––
 > M. Dominique Stutzmann
-> Charg=C3=A9 de recherche =C3=A0 l'Institut de Recherche et d'Histoire des T=
-extes (CNRS,
-> UPR 841)> Digital Medievalist --  http://www.digitalmedievalist.org/
+> Chargé de recherche à l'Institut de Recherche et d'Histoire des Textes (CNRS,
+> UPR 841)
+
+> Digital Medievalist --  http://www.digitalmedievalist.org/
 > Journal: http://www.digitalmedievalist.org/journal/
 > Journal Editors: editors _AT_ digitalmedievalist.org
 > News: https://digitalmedievalist.wordpress.com/news/
 > Twitter: http://twitter.com/digitalmedieval
-> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+> Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca
-> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+
+

@@ -1,15 +1,35 @@
-Subject: Re: [dm-l] Teaching the TEI: your practice?Dear Godfried,> Instead of teaching Perl from scratch I would give them working little prog=
-rams which they can then modify to suit their needs (a recipe book approach).although this seems to be perfectly reasonable,> I think that a procedural language like Perl is easier to grasp than XSLT a=
-nd to learn.I wonder how to prove this? Learning a (another) procedural language=20
-might be easier for someone who already learned a procedural language,=20
-but I find the way XSLT work so quite straight forward that once you=20
-understood how XML works it might be easy to understand XSLT too?! If=20
-you learned object oriented programming like Java, XML-processing with=20
-XSLT, XPath etc seems to be very similar?But I admit it might be only me estimating this?Best, Torsten--=20
+Subject: Re: [dm-l] Teaching the TEI: your practice?
+
+Dear Godfried,
+
+> Instead of teaching Perl from scratch I would give them working little programs which they can then modify to suit their needs (a recipe book approach).
+
+although this seems to be perfectly reasonable,
+
+> I think that a procedural language like Perl is easier to grasp than XSLT and to learn.
+
+I wonder how to prove this? Learning a (another) procedural language 
+might be easier for someone who already learned a procedural language, 
+but I find the way XSLT work so quite straight forward that once you 
+understood how XML works it might be easy to understand XSLT too?! If 
+you learned object oriented programming like Java, XML-processing with 
+XSLT, XPath etc seems to be very similar?
+
+But I admit it might be only me estimating this?
+
+Best, Torsten
+
+-- 
 Torsten Schassan
 Digitale Editionen
 Abteilung Handschriften und Sondersammlungen
 Herzog August Bibliothek, Postfach 1364, D-38299 Wolfenbuettel
-Tel.: +49-5331-808-130 (Fax -165), schassan {at} hab.dehttp://www.hab.de/forschung/projekte/europeana-regia.htm
-http://www.hab.de/forschung/projekte/weiss64.htm
---===============6782473386761562193==--
+Tel.: +49-5331-808-130 (Fax -165), schassan {at} hab.de
+
+http://www.hab.de/forschung/projekte/europeana-regia.htm
+http://www.hab.de/forschung/projekte/weiss64.htm
+
+
+
+--6782473386761562193-
+

@@ -1,22 +1,39 @@
-Subject:The University of Caen and Prof. Matthew J. Driscoll held a symposium about
-exploring and exploiting TEI encoded data (Caen, 27/01/2012)For digital medievalists:
+Subject:
+
+The University of Caen and Prof. Matthew J. Driscoll held a symposium about
+exploring and exploiting TEI encoded data (Caen, 27/01/2012)
+
+For digital medievalists:
 - papers given by *Alex Speed Kjeldsen* (Morpho-syntactic annotation of
 ancient languages: The case of Old Norse), *Matthew James Driscoll
 *(Quantitative
-codicology) and *Lou Burnard *(Linguistic annotation).- tools presented by Serge *Heiden* (open-source plateform *TXM*),
+codicology) and *Lou Burnard *(Linguistic annotation).
+
+- tools presented by Serge *Heiden* (open-source plateform *TXM*),
 Maud *Ingarao
 *(*BaseX*, XML database)** and Marie *Bisson* (*Juxta *– comparison of
-texts and *automated critical apparatus*).« Exploration et exploitation des sources encodées en TEI », Séminaire, *
+texts and *automated critical apparatus*).
+
+« Exploration et exploitation des sources encodées en TEI », Séminaire, *
 Calenda*, publié le lundi 02 janvier 2012,
-http://calenda.revues.org/nouvelle22190.htmlM. Dominique Stutzmann
+http://calenda.revues.org/nouvelle22190.html
+
+M. Dominique Stutzmann
 Chargé de recherche à l'Institut de Recherche et d'Histoire des Textes
 (CNRS, UPR 841).
 Section de paléographie
-http://www.irht.cnrs.frChargé de conférences à l'Ecole Pratique des Hautes Etudes
+http://www.irht.cnrs.fr
+
+Chargé de conférences à l'Ecole Pratique des Hautes Etudes
 http://www.ephe.sorbonne.fr
 Membre du bureau exécutif de Digital Medievalist
-http://www.digitalmedievalist.org/
- <http://www.irht.cnrs.fr/>VGhlIFVuaXZlcnNpdHkgb2YgQ2FlbiBhbmQgUHJvZi4gTWF0dGhldyBKLiBEcmlzY29sbCBoZWxk
+http://www.digitalmedievalist.org/
+
+ <http://www.irht.cnrs.fr/>
+
+
+
+VGhlIFVuaXZlcnNpdHkgb2YgQ2FlbiBhbmQgUHJvZi4gTWF0dGhldyBKLiBEcmlzY29sbCBoZWxk
 IGEgc3ltcG9zaXVtIGFib3V0IGV4cGxvcmluZyBhbmQgZXhwbG9pdGluZyBURUkgZW5jb2RlZCBk
 YXRhIChDYWVuLCAyNy8wMS8yMDEyKTxicj48YnI+Rm9yIGRpZ2l0YWwgbWVkaWV2YWxpc3RzOjxi
 cj4tIHBhcGVycyBnaXZlbiBieaA8Yj5BbGV4IFNwZWVkIEtqZWxkc2VuPC9iPiAoTW9ycGhvLXN5
@@ -43,4 +60,4 @@ PGJyPk1lbWJyZSBkdSBidXJlYXUgZXjpY3V0aWYgZGUgRGlnaXRhbCBNZWRpZXZhbGlzdCA8YnI+
 PGEgaHJlZj0iaHR0cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnLyIgdGFyZ2V0PSJfYmxh
 bmsiPmh0dHA6Ly93d3cuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy88L2E+PGJyPgoKPGJyPjxhIHJl
 bD0ibm9mb2xsb3ciIGhyZWY9Imh0dHA6Ly93d3cuaXJodC5jbnJzLmZyLyIgdGFyZ2V0PSJfYmxh
-bmsiPjxicj48L2E+PC9wcmU+PGJyPgo=
+bmsiPjxicj48L2E+PC9wcmU+PGJyPgo

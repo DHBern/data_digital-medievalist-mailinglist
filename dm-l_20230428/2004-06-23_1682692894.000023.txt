@@ -1,25 +1,53 @@
-Subject: [dm-l] Fonts . .  And damned fine fonts they are.  I'm hoping that, down the line, Peter, you'll keep us up to date on
+Subject: [dm-l] Fonts
+
+ . .  And damned fine fonts they are.  
+
+I'm hoping that, down the line, Peter, you'll keep us up to date on
 here regarding unicode and other font development.  Can you tell me
 whether MS-Word in its newest Macintosh iteration can run Junicode
-smoothly?--patPatrick W. Conner, Director
+smoothly?
+
+--pat
+
+Patrick W. Conner, Director
 West Virginia University Press
 P.O. Box 6295, West Virginia Univ.
-Morgantown, WV 26506-6295~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Morgantown, WV 26506-6295
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
    Voice: 304.293.8400 x491
    Fax: 304.293.5380
 _redacted_(a)wvu.edu
-   Web page: www.wvupress.com_redacted_(a)virginia.edu - 6/23/04 1:56 PM >>>
-[cut]Still, I have a higher opinion of the 
+   Web page: www.wvupress.com
+
+_redacted_(a)virginia.edu - 6/23/04 1:56 PM >>>
+[cut]
+
+Still, I have a higher opinion of the 
 abilities of XSLT than Peter does (I've been using it in font 
 development, of all things, so I look at it as pretty flexible), and 
 I'll bet it could handle the XML workarounds for overlapping
 hierarchies 
-such as the one proposed in the paper by Alexander Czmiel linked to byJames Cummings.[cut]Peter BakerMartin K. Foys wrote:>> At 08:49 AM 23/06/2004, Peter Robinson wrote:
+such as the one proposed in the paper by Alexander Czmiel linked to by
+
+James Cummings.
+
+[cut]
+
+Peter Baker
+
+Martin K. Foys wrote:
+
+>> At 08:49 AM 23/06/2004, Peter Robinson wrote:
 >> >If you can do it (and I have not yet seen this done,
->> >though I have heard lengthy explanations of how it *might* be done)>> >you can
+>> >though I have heard lengthy explanations of how it *might* be done)
+
+>> >you can
 >> >only do it with great difficulty with the standard tools.  The 
 >> >problem here
->> >is our old bugbear overlapping hierarchies, and XSLT etc just don't>> >have any
+>> >is our old bugbear overlapping hierarchies, and XSLT etc just don't
+
+>> >have any
 >> >easy answer to this -- and maybe no reliable answer at all.
 >>
 >
@@ -49,9 +77,12 @@ _redacted_(a)hood.edu
 _redacted_(a)uleth.ca
 > http://listserv.uleth.ca/mailman/listinfo/dm-l
 >
->
+>
+
 _______________________________________________
 dm-l mailing list
 _redacted_(a)uleth.ca
-http://listserv.uleth.ca/mailman/listinfo/dm-l
---===============0960674793261809003==--
+http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+--0960674793261809003-
+

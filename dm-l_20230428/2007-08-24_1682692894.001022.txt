@@ -1,6 +1,14 @@
-Subject:Hi Dan and all,Just a third vote for TortiseSVN. We use it for the SVN interface at RCH and
+Subject:
+
+Hi Dan and all,
+
+Just a third vote for TortiseSVN. We use it for the SVN interface at RCH and
 it's really simple for anyone familiar with the Windows interface. For
-non-techies, I wouldn't recommend anything else.Dot_redacted_(a)uni-koeln.de> wrote:
+non-techies, I wouldn't recommend anything else.
+
+Dot
+
+_redacted_(a)uni-koeln.de> wrote:
 >
 > Hi Dan,
 >
@@ -54,7 +62,11 @@ _redacted_(a)uleth.ca
 > dm-l mailing list
 _redacted_(a)uleth.ca
 > http://listserv.uleth.ca/mailman/listinfo/dm-l
->-- 
+>
+
+
+
+-- 
 ***************************************
 Dot Porter, University of Kentucky
 #####
@@ -65,7 +77,11 @@ _redacted_(a)uky.edu          859-257-9549
 Editorial Assistant, REVEAL Project
 Center for Visualization and Virtual Environments
 _redacted_(a)vis.uky.edu
-***************************************SGkgRGFuIGFuZCBhbGwsPGJyPjxicj5KdXN0IGEgdGhpcmQgdm90ZSBmb3IgVG9ydGlzZVNWTi4g
+***************************************
+
+
+
+SGkgRGFuIGFuZCBhbGwsPGJyPjxicj5KdXN0IGEgdGhpcmQgdm90ZSBmb3IgVG9ydGlzZVNWTi4g
 V2UgdXNlIGl0IGZvciB0aGUgU1ZOIGludGVyZmFjZSBhdCBSQ0ggYW5kIGl0JiMzOTtzIHJlYWxs
 eSBzaW1wbGUgZm9yIGFueW9uZSBmYW1pbGlhciB3aXRoIHRoZSBXaW5kb3dzIGludGVyZmFjZS4g
 Rm9yIG5vbi10ZWNoaWVzLCBJIHdvdWxkbiYjMzk7dCByZWNvbW1lbmQgYW55dGhpbmcgZWxzZS4K
@@ -131,4 +147,4 @@ Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7ODU5LTI1Ny05NTQ5PGJyPiMjIyMjPGJyPkVkaXRvcmlh
 bCBBc3Npc3RhbnQsIFJFVkVBTCBQcm9qZWN0PGJyPkNlbnRlciBmb3IgVmlzdWFsaXphdGlvbiBh
 bmQgVmlydHVhbCBFbnZpcm9ubWVudHMKPGJyPjxhIGhyZWY9Im1haWx0bzpwb3J0ZXJAdmlzLnVr
 eS5lZHUiPnBvcnRlckB2aXMudWt5LmVkdTwvYT48YnI+KioqKioqKioqKioqKioqKioqKioqKioq
-KioqKioqKioqKioqKioqCg==
+KioqKioqKioqKioqKioqCg

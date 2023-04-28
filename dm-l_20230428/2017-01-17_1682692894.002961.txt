@@ -1,9 +1,17 @@
-Subject: [dm-l] EpiDoc training workshop, London, April 2017*with apologies for cross-posting*Dear all,We invite applications to participate in a training workshop on digital
+Subject: [dm-l] EpiDoc training workshop, London, April 2017
+
+*with apologies for cross-posting*
+
+Dear all,
+
+We invite applications to participate in a training workshop on digital
 editing of papyrological and epigraphic texts, at the Institute of
 Classical Studies, London, April 3–7, 2017. The workshop will be taught by
 Gabriel Bodard and Lucia Vannini (ICS) and Simona Stoyanova (KCL). There
 will be no charge for the workshop, but participants should arrange their
-own travel and accommodation.EpiDoc (epidoc.sf.net) is a community of practice and guidance for using
+own travel and accommodation.
+
+EpiDoc (epidoc.sf.net) is a community of practice and guidance for using
 TEI XML for the encoding of inscriptions, papyri and other ancient texts.
 It has been used to publish digital projects including Inscriptions of
 Aphrodisias and Tripolitania, Duke Databank of Documentary Papyri, Digital
@@ -11,21 +19,31 @@ Corpus of Literary Papyri, and EAGLE Europeana Project. The workshop will
 introduce participants to the basics of XML markup and give hands-on
 experience of tagging textual features and object descriptions, identifying
 and linking to external person and place authorities, and use of the online
-Papyrological Editor tool.The workshop will assume knowledge of papyrology or epigraphy; Greek, Latin
+Papyrological Editor tool.
+
+The workshop will assume knowledge of papyrology or epigraphy; Greek, Latin
 or another ancient language; and the Leiden Conventions. No technical
 skills are required, and scholars of all levels, from students to
 _redacted_(a)sas.ac.uk
 with a brief description of your background and reason for application, by
 February 28, 2017.
 All the best,
-Simona-- 
+Simona
+
+-- 
 Simona Stoyanova
 Research Assistant in
-Classics and Digital HumanitiesDepartment of Digital Humanities
+Classics and Digital Humanities
+
+Department of Digital Humanities
 King's College London
 26-29 Drury Lane
 Strand Campus
-London WC2B 5RLPGRpdiBkaXI9Imx0ciI+PGRpdj4qd2l0aCBhcG9sb2dpZXMgZm9yIDxzcGFuIGNsYXNzPSJnbWFp
+London WC2B 5RL
+
+
+
+PGRpdiBkaXI9Imx0ciI+PGRpdj4qd2l0aCBhcG9sb2dpZXMgZm9yIDxzcGFuIGNsYXNzPSJnbWFp
 bC1pbCI+Y3Jvc3M8L3NwYW4+LTxzcGFuIGNsYXNzPSJnbWFpbC1pbCI+cG9zdGluZzwvc3Bhbj4q
 PGJyPjxicj5EZWFyIGFsbCw8YnI+PGJyPldlIGludml0ZSBhcHBsaWNhdGlvbnMgdG8gcGFydGlj
 aXBhdGUgaW4gYSB0cmFpbmluZyB3b3Jrc2hvcCBvbiBkaWdpdGFsIAplZGl0aW5nIG9mIHBhcHly
@@ -75,4 +93,5 @@ PGZvbnQgc2l6ZT0iMiIgY29sb3I9IiMyODI4MjgiIGZhY2U9ImFyaWFsLCBoZWx2ZXRpY2EsIHNh
 bnMtc2VyaWYiPlN0cmFuZCBDYW1wdXM8L2ZvbnQ+PC9kaXY+PGRpdj48Zm9udCBzaXplPSIyIiBj
 b2xvcj0iIzI4MjgyOCIgZmFjZT0iYXJpYWwsIGhlbHZldGljYSwgc2Fucy1zZXJpZiI+TG9uZG9u
 IFdDMkIgNVJMPC9mb250PjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2
-Pgo8L2Rpdj4K
+Pgo8L2Rpdj4K
+

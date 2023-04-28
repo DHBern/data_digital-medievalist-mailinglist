@@ -1,23 +1,41 @@
-Subject:-------- Original Message --------
+Subject:
+
+-------- Original Message --------
 Subject: ANN:  P5 Version 1.0 of the TEI Guidelines has been released
 Date: Tue, 6 Nov 2007 10:05:27 +0900
 _redacted_(a)kanji.zinbun.kyoto-u.ac.jp>
 _redacted_(a)kanji.zinbun.kyoto-u.ac.jp
 Organisation: Institute for Research in Humanities, Kyoto University
-_redacted_(a)listserv.brown.eduDear TEI users,After more than 6 years of, at times quite intensive, development, it is
+_redacted_(a)listserv.brown.edu
+
+Dear TEI users,
+
+After more than 6 years of, at times quite intensive, development, it is
 with great pleasure that I announce the release of version 1.0 of P5, the
 latest and greatest version of the Guidelines of the Text Encoding
 Initiative, which officially happened Nov. 2 at the TEI Members Meeting in
 Maryland.  You will find the new version online at
 http://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html; a PDF and
-even printed books are expected to appear in due time.The main development work has been carried out by the TEI Technical Council
+even printed books are expected to appear in due time.
+
+The main development work has been carried out by the TEI Technical Council
 and the Editors Lou Burnard and Syd Bauman.  I would like to take this
 opportunity to warmly thank all previous members of the Council but also
 especially the current members, who shared quite a big of the work, which
-magically increased as the release date was approaching:David Birnbaum, Tone Merete Bruvik, Arianna Ciula, James Cummings, Matthew
+magically increased as the release date was approaching:
+
+David Birnbaum, Tone Merete Bruvik, Arianna Ciula, James Cummings, Matthew
 Driscoll, Daniel O'Donnel, Dot Porter, Sebastian Rahtz Laurent Romary, Conal
-Tuohy, John Walsh.Christian WitternChair, TEI Technical Council
+Tuohy, John Walsh.
+
+Christian Wittern
+
+Chair, TEI Technical Council
+
 -- 
  Christian Wittern
  Institute for Research in Humanities, Kyoto University
- 47 Higashiogura-cho, Kitashirakawa, Sakyo-ku, Kyoto 606-8265, JAPAN
+ 47 Higashiogura-cho, Kitashirakawa, Sakyo-ku, Kyoto 606-8265, JAPAN
+
+
+

@@ -1,4 +1,6 @@
-Subject: Re: [dm-l] SDH 2011 Supporting Digital HumanitiesI remember hearing this same enthusiastic rhetoric about how new technology
+Subject: Re: [dm-l] SDH 2011 Supporting Digital Humanities
+
+I remember hearing this same enthusiastic rhetoric about how new technology
 would transform the humanities in 1979 when the latest in digital technology
 was a microfiche concordance.  The actual optical technology to read the
 carbonized papyri at Herculaneum or to optically reconstruct destroyed
@@ -12,8 +14,12 @@ humanities is fundamentally different from the old humanities in a new
 medium.  And this is not to denigrate new projects for new media, but to
 keep some historical perspective on the long term value of what scholars
 have been doing since ancient times.
-NancyOn Wed, Jun 22, 2011 at 1:23 PM, Peter Damian
-_redacted_(a)btinternet.com>wrote:> ** ************************
+Nancy
+
+On Wed, Jun 22, 2011 at 1:23 PM, Peter Damian
+_redacted_(a)btinternet.com>wrote:
+
+> ** ************************
 > >>Digital technologies have the potential to transform the types of
 > research questions that we ask in the Humanities
 >
@@ -52,8 +58,7 @@ _redacted_(a)uleth.ca>
 > ** **
 >
 > Following the first successful SDH conference in **Vienna** in 2010, the
-> CLARIN <http://www.clarin.eu/> and DARIAH <http://www.dariah.eu/>initiative=
-s have decided to jointly organise the second SDH conference in
+> CLARIN <http://www.clarin.eu/> and DARIAH <http://www.dariah.eu/>initiatives have decided to jointly organise the second SDH conference in
 > ****Copenhagen**, **Denmark**** in November 2011. The conference venue
 > will be at the ****University** of **Copenhagen****, a participant in both
 > CLARIN and DARIAH.****
@@ -94,12 +99,10 @@ s have decided to jointly organise the second SDH conference in
 >
 > ** **
 >
-> **=C2=B7        **Sound and movement =E2=80=93 music, spoken word, dance an=
-d theatre***
+> **·        **Sound and movement – music, spoken word, dance and theatre***
 > *
 >
-> **=C2=B7        **Text and things =E2=80=93 text, and the relationship betw=
-een text and
+> **·        **Text and things – text, and the relationship between text and
 > material artefacts, such as manuscript, stone or other carriers of text***
 > *
 >
@@ -140,21 +143,21 @@ een text and
 >
 > Helen Bailey, ****University of Bedfordshire**, **UK**** ****
 >
-> Tim Crawford, Goldsmith=E2=80=99s ****University of London**, **UK********
+> Tim Crawford, Goldsmith’s ****University of London**, **UK********
 >
 > Matthew Driscoll, ****University of Copenhagen**, **Denmark********
 >
 > Neil Fraistat, ****University of Maryland**, **United States********
 >
-> Erhard Hinrichs, ****T=C3=BCbingen University**, **Germany********
+> Erhard Hinrichs, ****Tübingen University**, **Germany********
 >
-> Fotis Jannidis, ****W=C3=BCrzburg University**, **Germany**** ****
+> Fotis Jannidis, ****Würzburg University**, **Germany**** ****
 >
 > Helen Katsiadakis, ****Academy of Athens**, **Greece**** ****
 >
-> Krister Lind=C3=A9n, ****Helsinki University**, **Finland********
+> Krister Lindén, ****Helsinki University**, **Finland********
 >
-> Heike Neuroth, **G=C3=B6ttingen** **State** and University ****Library**, **
+> Heike Neuroth, **Göttingen** **State** and University ****Library**, **
 > Germany**** ****
 >
 > Laurent Romary, INRIA, France****
@@ -180,7 +183,7 @@ een text and
 > News: http://www.digitalmedievalist.org/news/
 > Wiki: http://www.digitalmedievalist.org/wiki/
 > Twitter: http://twitter.com/digitalmedieval
-> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+> Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca
 > Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
 >
@@ -191,10 +194,14 @@ _redacted_(a)uleth.ca
 > News: http://www.digitalmedievalist.org/news/
 > Wiki: http://www.digitalmedievalist.org/wiki/
 > Twitter: http://twitter.com/digitalmedieval
-> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+> Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca
 > Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
->SSByZW1lbWJlciBoZWFyaW5nIHRoaXMgc2FtZSBlbnRodXNpYXN0aWMgcmhldG9yaWMgYWJvdXQg
+>
+
+
+
+SSByZW1lbWJlciBoZWFyaW5nIHRoaXMgc2FtZSBlbnRodXNpYXN0aWMgcmhldG9yaWMgYWJvdXQg
 aG93IG5ldyB0ZWNobm9sb2d5IHdvdWxkIHRyYW5zZm9ybSB0aGUgaHVtYW5pdGllcyBpbiAxOTc5
 IHdoZW4gdGhlIGxhdGVzdCBpbiBkaWdpdGFsIHRlY2hub2xvZ3kgd2FzIGEgbWljcm9maWNoZSBj
 b25jb3JkYW5jZS6gIFRoZSBhY3R1YWwgb3B0aWNhbCB0ZWNobm9sb2d5IHRvIHJlYWQgdGhlIGNh
@@ -598,4 +605,4 @@ biBsaXN0OiA8YSBocmVmPSJtYWlsdG86ZG0tbEB1bGV0aC5jYSI+ZG0tbEB1bGV0aC5jYTwvYT48
 YnI+CkNoYW5nZSBsaXN0IG9wdGlvbnM6IDxhIGhyZWY9Imh0dHA6Ly9saXN0c2Vydi51bGV0aC5j
 YS9tYWlsbWFuL2xpc3RpbmZvL2RtLWwiIHRhcmdldD0iX2JsYW5rIj5odHRwOi8vbGlzdHNlcnYu
 dWxldGguY2EvbWFpbG1hbi9saXN0aW5mby9kbS1sPC9hPjxicj48L2Jsb2NrcXVvdGU+PC9kaXY+
-PGJyPgo=
+PGJyPgo

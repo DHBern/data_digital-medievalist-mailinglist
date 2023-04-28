@@ -1,20 +1,31 @@
-Subject: Re: [dm-l] Autoinstall for fontsFirst, I am uneasy with the idea of installing anything automatically when 
+Subject: Re: [dm-l] Autoinstall for fonts
+
+First, I am uneasy with the idea of installing anything automatically when 
 a CD is loaded (I am assuming that by "loaded" you mean simply making the 
 CD accessible - ie, just putting it in the drive). At the very least I 
-would want to notify the user and provide the option of not doing it.Second, the procedure for installing fonts is very different on the various 
+would want to notify the user and provide the option of not doing it.
+
+Second, the procedure for installing fonts is very different on the various 
 operating systems, and so would require an installer for each target 
 system. For example, on Windows you only need to copy the appropriate files 
 to the Font folder (usually \windows\fonts); on Mac you (I think) use a 
 control panel. I very much doubt that you could have a single installer 
-that would work for all systems.Third, what happens when a CD is loaded is different on each system; for 
+that would work for all systems.
+
+Third, what happens when a CD is loaded is different on each system; for 
 example, Windows (if enabled to do so) executes a specific file on the CD 
 (usually called AutoRun), which contains instructions on what to do next 
 (which can be most anything - display an option menu, run an installer, 
 load a web page, etc.). I don't know how it works on Mac and Linux, but I 
 doubt it is the same. Once again, you would probably need a separate 
-process for each system.In short, you would probably need a way to detect the type of system the CD 
+process for each system.
+
+In short, you would probably need a way to detect the type of system the CD 
 is being loaded on, and react accordingly to install the fonts. I don't 
-know of any such existing facility, and I suspect it would not be easy to do.David
+know of any such existing facility, and I suspect it would not be easy to do.
+
+David
+
 At 09:53 AM 23/10/2004, you wrote:
 >Hello all,
 >         Does anybody know of an adaptable auto-install program that would 
@@ -31,6 +42,12 @@ At 09:53 AM 23/10/2004, you wrote:
 >Tel. (403) 329-2377
 >Fax. (403) 382-7191
 _redacted_(a)uleth.ca>
->Home Page <http://people.uleth.ca/~daniel.odonnell/>
-David Badkehttp://badke.ca/david
-http://bestiary.ca
+>Home Page <http://people.uleth.ca/~daniel.odonnell/>
+
+David Badke
+
+http://badke.ca/david
+http://bestiary.ca
+
+
+

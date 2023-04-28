@@ -1,51 +1,119 @@
-Subject: RE: [dm-l] TAN: Publishing screen shotsThanks very much. I've been trying to explain the resolution issue to them. I=
- spouse shrinking them to up the effective resolution is an option: they don'=
-t all need to be full screen size in the page layout.
-Sent from Samsung Mobile-------- Original message --------
+Subject: RE: [dm-l] TAN: Publishing screen shots
+
+Thanks very much. I've been trying to explain the resolution issue to them. I spouse shrinking them to up the effective resolution is an option: they don't all need to be full screen size in the page layout.
+
+Sent from Samsung Mobile
+
+
+
+-------- Original message --------
 _redacted_(a)cam.ac.uk>
 Date:
-_redacted_(a)ul=
-eth.ca>
-Subject: RE: [dm-l] TAN: Publishing screen shotsDear DanielGiven that you are taking screen shots, the optimal way to do this on Windows=
- would be using CTRL+ALT+prt sc which will capture the current window in focu=
-s to the clipboard and then you can cut and paste this to an imaging program =
-such as Photoshop, the full version of Acrobat which allows you to =E2=80=9Cc=
-reate a PDF from the clipboard=E2=80=9D or something similar. If you have Goo=
-gle Picasa3 running in background then it will pick up the fact you have capt=
-ured a screenshot to the clipboard and will allow you to manipulate it. Mac h=
-as its own equivalents and utilities for these sequences. See: http://guides.=
-macrumors.com/Taking_Screenshots_in_Mac_OS_X  I would recommend against using=
- a digital camera to photograph a display because you will have an inevitable=
- drop in quality of the final image compared to a screen grab.However, the thing to appreciate is that screen resolution is very low compar=
-ed to print resolution and depends on both the horizontal and vertical resolu=
-tion as well as the screen size. For example a typical wide laptop screen wit=
-h a resolution of 1600x900 would equate to only around 72dpi on a screen grab=
-. You will find this website useful in terms of telling you what your effecti=
-ve dpi is when you do a screen grab on your computer: http://members.ping.de/=
-~sven/dpi.htmlIf your publisher is saying they need 300dpi TIFF for screen shots, then it m=
-ay just be that they don=E2=80=99t understand what you want to achieve. Howev=
-er, it is certainly possible to achieve this by decreasing the physical size =
-of the image. As one example, a 1600x900 pixel screen grab image off a 22=E2=
-=80=9Dx12.5=E2=80=9D laptop display equates to ~72dpi. Change the image size =
-to 300dpi in Photoshop (use constrain proportions and do not use resampling) =
-and this gives you a 5=E2=80=9D x 3=E2=80=9D image. This might seem a bit wei=
-rd at first but probably the best way to think about this is that you are fit=
-ting more pixels into a smaller area which would probably suit an A5 (or USA =
-equivalent) size page.Probably the best thing to do initially is just to do a screen grab, convert =
-it to a TIFF or PDF using any one of the many utilities that exist to do this=
- and then email it to the publisher and see what they say. You=E2=80=99ll pro=
-bably find they also accept JPG. Most publishers do.Hope this helps.Best regardsTony Harris
-University of Cambridge-----Original Message-----
-_redacted_(a)uleth.ca] On Behalf Of D=
-aniel O'Donnell
+_redacted_(a)uleth.ca>
+Subject: RE: [dm-l] TAN: Publishing screen shots
+
+
+
+Dear Daniel
+
+
+
+Given that you are taking screen shots, the optimal way to do this on Windows would be using CTRL+ALT+prt sc which will capture the current window in focus to the clipboard and then you can cut and paste this to an imaging program such as Photoshop, the full version of Acrobat which allows you to “create a PDF from the clipboard” or something similar. If you have Google Picasa3 running in background then it will pick up the fact you have captured a screenshot to the clipboard and will allow you to manipulate it. Mac has its own equivalents and utilities for these sequences. See: http://guides.macrumors.com/Taking_Screenshots_in_Mac_OS_X  I would recommend against using a digital camera to photograph a display because you will have an inevitable drop in quality of the final image compared to a screen grab.
+
+
+
+However, the thing to appreciate is that screen resolution is very low compared to print resolution and depends on both the horizontal and vertical resolution as well as the screen size. For example a typical wide laptop screen with a resolution of 1600x900 would equate to only around 72dpi on a screen grab. You will find this website useful in terms of telling you what your effective dpi is when you do a screen grab on your computer: http://members.ping.de/~sven/dpi.html
+
+
+
+If your publisher is saying they need 300dpi TIFF for screen shots, then it may just be that they don’t understand what you want to achieve. However, it is certainly possible to achieve this by decreasing the physical size of the image. As one example, a 1600x900 pixel screen grab image off a 22”x12.5” laptop display equates to ~72dpi. Change the image size to 300dpi in Photoshop (use constrain proportions and do not use resampling) and this gives you a 5” x 3” image. This might seem a bit weird at first but probably the best way to think about this is that you are fitting more pixels into a smaller area which would probably suit an A5 (or USA equivalent) size page.
+
+
+
+Probably the best thing to do initially is just to do a screen grab, convert it to a TIFF or PDF using any one of the many utilities that exist to do this and then email it to the publisher and see what they say. You’ll probably find they also accept JPG. Most publishers do.
+
+
+
+Hope this helps.
+
+
+
+Best regards
+
+
+
+Tony Harris
+University of Cambridge
+
+
+
+-----Original Message-----
+_redacted_(a)uleth.ca] On Behalf Of Daniel O'Donnell
 Sent: 05 March 2013 18:54
 _redacted_(a)uleth.ca
-Subject: [dm-l] TAN: Publishing screen shotsHi all,I have a tangential topic: what is normal practice regarding screen shots in =
-print and PDF?I have an article coming out and the production manager wants 300 dpi TIFFs f=
-or my images. But the images are for the most part screen shots and, since I'=
-m talking /about/ navigation and representation issues in virtual environment=
-s, I can't go with the second option they offered me:giving URLs rather than presenting that actual images in the text.I'm sure I've seen screenshots in both print and PDFs before. What is normal =
-practice?-dan--Daniel Paul O'DonnellProfessor of EnglishUniversity of LethbridgeLethbridge AB T1K 3M4Canada+1 403 393-2539Digital Medievalist --  http://www.digitalmedievalist.org/Journal: http://www.digitalmedievalist.org/journal/Journal Editors: editors _AT_ digitalmedievalist.orgNews: http://www.digitalmedievalist.org/news/Wiki: http://www.digitalmedievalist.org/wiki/Twitter: http://twitter.com/digitalmedievalFacebook: http://www.facebook.com/group.php?gid=3D49320313760_redacted_(a)uleth.ca>Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-lPGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
+Subject: [dm-l] TAN: Publishing screen shots
+
+
+
+Hi all,
+
+
+
+I have a tangential topic: what is normal practice regarding screen shots in print and PDF?
+
+
+
+I have an article coming out and the production manager wants 300 dpi TIFFs for my images. But the images are for the most part screen shots and, since I'm talking /about/ navigation and representation issues in virtual environments, I can't go with the second option they offered me:
+
+giving URLs rather than presenting that actual images in the text.
+
+
+
+I'm sure I've seen screenshots in both print and PDFs before. What is normal practice?
+
+
+
+-dan
+
+--
+
+Daniel Paul O'Donnell
+
+Professor of English
+
+University of Lethbridge
+
+Lethbridge AB T1K 3M4
+
+Canada
+
+
+
++1 403 393-2539
+
+
+
+Digital Medievalist --  http://www.digitalmedievalist.org/
+
+Journal: http://www.digitalmedievalist.org/journal/
+
+Journal Editors: editors _AT_ digitalmedievalist.org
+
+News: http://www.digitalmedievalist.org/news/
+
+Wiki: http://www.digitalmedievalist.org/wiki/
+
+Twitter: http://twitter.com/digitalmedieval
+
+Facebook: http://www.facebook.com/group.php?gid=49320313760
+
+_redacted_(a)uleth.ca>
+
+Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+
+
+PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
 eHQvaHRtbDsgY2hhcnNldD1XaW5kb3dzLTEyNTIiPgo8c3R5bGU+CjwhLS0KQGZvbnQtZmFjZQoJ
 e2ZvbnQtZmFtaWx5OiJDYW1icmlhIE1hdGgifQpAZm9udC1mYWNlCgl7Zm9udC1mYW1pbHk6Q2Fs
 aWJyaX0KcC5Nc29Ob3JtYWwsIGxpLk1zb05vcm1hbCwgZGl2Lk1zb05vcm1hbAoJe21hcmdpbjow
@@ -180,4 +248,4 @@ PC9hPjwvcD4KPHAgY2xhc3M9Ik1zb1BsYWluVGV4dCI+Q2hhbmdlIGxpc3Qgb3B0aW9uczogPGEg
 aHJlZj0iaHR0cDovL2xpc3RzZXJ2LnVsZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0tbCI+Cjxz
 cGFuIHN0eWxlPSJjb2xvcjp3aW5kb3d0ZXh0OyB0ZXh0LWRlY29yYXRpb246bm9uZSI+aHR0cDov
 L2xpc3RzZXJ2LnVsZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0tbDwvc3Bhbj48L2E+PC9wPgo8
-L2Rpdj4KPC9kaXY+CjwvYm9keT4KPC9odG1sPgo=
+L2Rpdj4KPC9kaXY+CjwvYm9keT4KPC9odG1sPgo

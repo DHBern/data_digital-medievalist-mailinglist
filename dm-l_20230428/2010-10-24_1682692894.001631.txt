@@ -1,10 +1,22 @@
-Subject: [dm-l] Session at CAA2100,	Beijing: Digging with words: e-text and  With apologies for cross postings.Submissions are invited for the session, Digging with words: e-text and 
+Subject: [dm-l] Session at CAA2100,	Beijing: Digging with words: e-text and
+
+  With apologies for cross postings.
+
+Submissions are invited for the session, Digging with words: e-text and 
 e-archaeology, at Computer Applications and Archaeology 2011, Beijing, 
 April 12th-16th 2011. For further details, including author guidelines 
 and submission information, please go to 
 http://www.caa2011.org/#home|default 
-<http://www.caa2011.org/#home%7Cdefault>.Deadline is *15th November 2011.*Digging with words: e-text and e-archaeologyKeywords:
-text, digital libraries, text mining, grey literatureAbstract:
+<http://www.caa2011.org/#home%7Cdefault>.
+
+Deadline is *15th November 2011.*
+
+Digging with words: e-text and e-archaeology
+
+Keywords:
+text, digital libraries, text mining, grey literature
+
+Abstract:
 There are many complex ways in which archaeology is written about. 
 Formal publications in journals, books, site reports, so-called 'grey 
 literature', field notes, excavation daybooks, diaries and, latterly, 
@@ -36,7 +48,9 @@ questions as to how the digital medium can be used in their
 interpretation. This session will seek to explore these distinctions by 
 bringing together archaeologists with interests in textual evidence, 
 textual scholars, historians and philologists. Themes will include, but 
-are not limited to:* Theoretical considerations of the nature of textual and archaeological 
+are not limited to:
+
+* Theoretical considerations of the nature of textual and archaeological 
 evidence
 * The use of standards and mark-up schemas in digitized archaeology texts
 * Text mining and parsing (especially including geoparsing), and 
@@ -44,21 +58,35 @@ automatic entity extraction
 * Linking textual evidence with archaeological evidence using linked 
 data and semantic web technologies
 * Provision for non-Latin texts in digital libraries for archaeology, 
-with an emphasis on Chinese and other Asian scripts particularly encouraged-- 
+with an emphasis on Chinese and other Asian scripts particularly encouraged
+
+-- 
 Dr Stuart Dunn
 Research Fellow
 Centre for e-Research
-King's College Londonwww.ahessc.ac.uk/stuart-dunnTel +44 (0)207 848 2709
+King's College London
+
+www.ahessc.ac.uk/stuart-dunn
+
+Tel +44 (0)207 848 2709
 Fax +44 (0)207 848 1989
-_redacted_(a)kcl.ac.ukCentre for e-Research
+_redacted_(a)kcl.ac.uk
+
+Centre for e-Research
 26-29 Drury Lane
 London WC2B 5RL
-UKGeohash: http://geohash.org/gcpvj1zm7yp1
---===============3509302018122925280==
-Content-Type: text/html
+UK
+
+Geohash: http://geohash.org/gcpvj1zm7yp1
+
+
+
+--3509302018122925280Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMDEgVHJhbnNpdGlvbmFs
+Content-Disposition: attachment; filenameúttachment.html"
+MIME-Version: 1.0
+
+PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMDEgVHJhbnNpdGlvbmFs
 Ly9FTiI+CjxodG1sPgogIDxoZWFkPgoKICAgIDxtZXRhIGh0dHAtZXF1aXY9ImNvbnRlbnQtdHlw
 ZSIgY29udGVudD0idGV4dC9odG1sOyBjaGFyc2V0PUlTTy04ODU5LTEiPgogIDwvaGVhZD4KICA8
 Ym9keSBiZ2NvbG9yPSIjZmZmZmZmIiB0ZXh0PSIjMDAwMDAwIj4KICAgIFdpdGggYXBvbG9naWVz
@@ -134,4 +162,5 @@ bC5hYy51ayI+c3R1YXJ0LmR1bm5Aa2NsLmFjLnVrPC9hPgoKQ2VudHJlIGZvciBlLVJlc2VhcmNo
 CjI2LTI5IERydXJ5IExhbmUKTG9uZG9uIFdDMkIgNVJMClVLCgpHZW9oYXNoOiA8YSBjbGFzcz0i
 bW96LXR4dC1saW5rLWZyZWV0ZXh0IiBocmVmPSJodHRwOi8vZ2VvaGFzaC5vcmcvZ2Nwdmoxem03
 eXAxIj5odHRwOi8vZ2VvaGFzaC5vcmcvZ2Nwdmoxem03eXAxPC9hPgo8L3ByZT4KICA8L2JvZHk+
-CjwvaHRtbD4K
+CjwvaHRtbD4K
+

@@ -1,17 +1,25 @@
-Subject: [dm-l] Programmer required for DigiPal Project at DDH, King's CollegeA new vacancy has come up for a programmer on the DigiPal team (http:/digipal=
-.eu).The position is for 18 months and is for a developer with Python (ideally Dja=
-ngo) and relational database skills, preferably also
-with knowledge of JavaScript/JQuery and AJAX and an interest in interface des=
-ign, data modelling and medieval manuscripts.You will be working closely with the existing DigiPal team as the principal d=
-eveloper and will be responsible for most of the development
-work in practice.The appointment is for 100% (full time) and you will be based in the Departme=
-nt of Digital Humanities at King=E2=80=99s College London but dedicated
-to the DigiPal project .Applications close on 1 January 2013, with interviews planned for soon after =
-that. We are looking for an immediate start, though of course we
-understand that you may have other commitments. Although the formal contract =
-is 18 months, but an extension to 30 September 2014 is very
-likely in practice.For further details and to apply, see: http://www.digipal.eu/blogs/news/digip=
-al-developer-job-vacancy/PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
+Subject: [dm-l] Programmer required for DigiPal Project at DDH, King's College
+
+A new vacancy has come up for a programmer on the DigiPal team (http:/digipal.eu).
+
+The position is for 18 months and is for a developer with Python (ideally Django) and relational database skills, preferably also
+with knowledge of JavaScript/JQuery and AJAX and an interest in interface design, data modelling and medieval manuscripts.
+
+You will be working closely with the existing DigiPal team as the principal developer and will be responsible for most of the development
+work in practice.
+
+The appointment is for 100% (full time) and you will be based in the Department of Digital Humanities at King’s College London but dedicated
+to the DigiPal project .
+
+Applications close on 1 January 2013, with interviews planned for soon after that. We are looking for an immediate start, though of course we
+understand that you may have other commitments. Although the formal contract is 18 months, but an extension to 30 September 2014 is very
+likely in practice.
+
+For further details and to apply, see: http://www.digipal.eu/blogs/news/digipal-developer-job-vacancy/
+
+
+
+PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
 eHQvaHRtbDsgY2hhcnNldD1XaW5kb3dzLTEyNTIiPgo8L2hlYWQ+Cjxib2R5IHN0eWxlPSJ3b3Jk
 LXdyYXA6IGJyZWFrLXdvcmQ7IC13ZWJraXQtbmJzcC1tb2RlOiBzcGFjZTsgLXdlYmtpdC1saW5l
 LWJyZWFrOiBhZnRlci13aGl0ZS1zcGFjZTsgIj4KQSBuZXcgdmFjYW5jeSBoYXMgY29tZSB1cCBm
@@ -36,4 +44,5 @@ U2VwdGVtYmVyIDIwMTQgaXMgdmVyeSZuYnNwOzxicj4KbGlrZWx5IGluIHByYWN0aWNlLjxicj4K
 PGJyPgpGb3IgZnVydGhlciBkZXRhaWxzIGFuZCB0byBhcHBseSwgc2VlOiZuYnNwOzxhIGhyZWY9
 Imh0dHA6Ly93d3cuZGlnaXBhbC5ldS9ibG9ncy9uZXdzL2RpZ2lwYWwtZGV2ZWxvcGVyLWpvYi12
 YWNhbmN5LyI+aHR0cDovL3d3dy5kaWdpcGFsLmV1L2Jsb2dzL25ld3MvZGlnaXBhbC1kZXZlbG9w
-ZXItam9iLXZhY2FuY3kvPC9hPgo8L2JvZHk+CjwvaHRtbD4K
+ZXItam9iLXZhY2FuY3kvPC9hPgo8L2JvZHk+CjwvaHRtbD4K
+

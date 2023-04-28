@@ -1,4 +1,8 @@
-Subject: [dm-l] Teaching the TEI: your practice?Dear Digital Medievalists,I guess I can safely assume that several people here have an experience 
+Subject: [dm-l] Teaching the TEI: your practice?
+
+Dear Digital Medievalists,
+
+I guess I can safely assume that several people here have an experience 
 teaching the TEI, specifically to an audience of medievalists or 
 historians. After teaching some workshops, I feel more and more that it 
 is highly efficient to teach the TEI not alone, isolated, as a means to 
@@ -19,14 +23,26 @@ evident to introduce them to the subtleties of those technologies.
 Still, it's probably good if the students get some idea of how 
 technologies work together, instead of putting all their trust into the 
 magic IT people will work on their smartly encoded TEI documents to "put 
-them on the web" :)I would be interested in a feedback of your practice: do you, when you 
+them on the web" :)
+
+I would be interested in a feedback of your practice: do you, when you 
 teach the TEI, feel the need / manage to integrate notions about other 
 tools and technologies of the XML family? And if so, how do you do that 
 (proper introduction to XSLT? use of packaged tools like the v-machine? 
-etc.).Just curious :)Marjorie-- 
+etc.).
+
+Just curious :)
+
+Marjorie
+
+-- 
 Marjorie BURGHART
 EHESS (pôle de Lyon) / UMR 5648
 Histoire et Archéologie des Mondes Chrétiens et Musulmans Médiévaux
 18 quai Claude Bernard
-69007 Lyon - FRANCE
---===============2389306891796583385==--
+69007 Lyon - FRANCE
+
+
+
+--2389306891796583385-
+

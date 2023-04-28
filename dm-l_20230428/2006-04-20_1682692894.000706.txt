@@ -1,24 +1,40 @@
-Subject: [dm-l] Questions about JunicodeHi Peter and all fellow digivalists,
+Subject: [dm-l] Questions about Junicode
+
+Hi Peter and all fellow digivalists,
 I've got a couple of questions about Junicode, I'm posting here on DM-L
 as I think others might be interested in your answers. Thanks in
-advance.1. I casually noticed that a new version is out AND that there is an
+advance.
+
+1. I casually noticed that a new version is out AND that there is an
 announce mailing list: perhaps announcements of new releases could also
 be forwarded to dm-l? I subscribed to the announcement ml, but it could
-be useful for those on this list who haven't subscribed (yet).2. Installation under Linux: the instructions are very clear, but I
+be useful for those on this list who haven't subscribed (yet).
+
+2. Installation under Linux: the instructions are very clear, but I
 noticed that there is a file (/etc/defoma/hints/ttf-junicode.hints) in
 my installation not included in the zip archive, is this file created
 using the "fc-cache junicode" command? Doesn't seem the case at first
-look.3. I'm very glad to see that Junicode is slowly but surely becoming a
+look.
+
+3. I'm very glad to see that Junicode is slowly but surely becoming a
 fully MUFI compliant font, but what about characters not yet in MUFI?
 what's the best way to ask for their inclusion? filing a feature request
 to MUFI first (and putting you in CC:)? or you'd be glad to consider it
-first?4. I really like the (oldish) Beowulf-1 font, any plans to revamp it or
+first?
+
+4. I really like the (oldish) Beowulf-1 font, any plans to revamp it or
 include it inside Junicode's PUA (I would settle with that)? Hope this
-request doesn't sound too weird :)Again on Junicode under Linux: Debian offers excellent support, the
+request doesn't sound too weird :)
+
+Again on Junicode under Linux: Debian offers excellent support, the
 latest version is already available as a standard DEB package (unstable
 branch); for RPM based distros I built an RPM package which has been
 accepted in the Mandriva contrib repository, but it needs to be updated
-to the latest version (hence question n. 2).Ciao-- 
+to the latest version (hence question n. 2).
+
+Ciao
+
+-- 
  
 Roberto Rosselli Del Turco      roberto.rossellidelturco at unito.it
 Dipartimento di Scienze         rosselli at ling.unipi.it
@@ -26,5 +42,9 @@ del Linguaggio                  Then spoke the thunder  DA
 Universita' di Torino           Datta: what have we given?  (TSE)
  
   Hige sceal the heardra,     heorte the cenre,
-  mod sceal the mare,       the ure maegen litlath.  (Maldon 312-3)
---===============2934846405535778801==--
+  mod sceal the mare,       the ure maegen litlath.  (Maldon 312-3)
+
+
+
+--2934846405535778801-
+

@@ -1,4 +1,8 @@
-Subject: Re: [dm-l] Find Glyph InstallationA rather long post, which I hope will put to rest some fears...In my recent past as a professional programmer, I wrote several installer 
+Subject: Re: [dm-l] Find Glyph Installation
+
+A rather long post, which I hope will put to rest some fears...
+
+In my recent past as a professional programmer, I wrote several installer 
 scripts of the type being discussed here. What the "Find Glyph" installer 
 is doing is entirely normal practice; in fact, it is more polite than many 
 in warning you that it is going to install "system" files. Most major 
@@ -10,7 +14,9 @@ you are installing is not already on your computer, the installer script
 will put it there for you, since the program won't run without it. The 
 presence or absence of the DLL file is not necessarily related to what 
 version of Windows you have; you could have the most recent version and 
-still be missing DLL files required by some programs.DLL files are not always "operating system" files (most, in fact, are not), 
+still be missing DLL files required by some programs.
+
+DLL files are not always "operating system" files (most, in fact, are not), 
 and installing one that is not yet on your computer is not "modifying the 
 operating system." A new DLL file will not harm your system. However, 
 problems can arise when a badly-written installer script replaces a DLL 
@@ -20,15 +26,29 @@ case you could end up with an older version of the file, or a version not
 intended for your configuration; if this happens, the new program may run 
 just fine, but all the other programs that depended on the replaced DLL 
 file may no longer work. (This problem is known to Windows programmers as 
-"DLL Hell".)You should never install a program obtained from a source you do not trust. 
+"DLL Hell".)
+
+You should never install a program obtained from a source you do not trust. 
 If you trust the source, or others you trust verify the integrity of the 
 program, you can install it without worry. You should, of course, scan 
-every downloaded file for viruses.I have examined the files that "Find Glyph" installs; they are all standard 
+every downloaded file for viruses.
+
+I have examined the files that "Find Glyph" installs; they are all standard 
 Microsoft files required by programs created with Microsoft Visual Basic. 
 If they are not already on your system, it is only because you have not 
 previously installed this type of program. In my opinion, it is safe to 
-install Find Glyph.I would be willing to examine other "suspect" programs and report to the 
+install Find Glyph.
+
+I would be willing to examine other "suspect" programs and report to the 
 list. Perhaps we could create a set of links to "verified" programs that 
-are of use to digital medievalists.David
-David Badkehttp://badke.ca
-http://bestiary.ca
+are of use to digital medievalists.
+
+David
+
+David Badke
+
+http://badke.ca
+http://bestiary.ca
+
+
+

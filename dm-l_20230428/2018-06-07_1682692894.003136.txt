@@ -1,33 +1,44 @@
-Subject: [dm-l] Open call: Modeling Travels in History: an ORBIS-esque_redacted_@ Uni=20
-Vienna (July 18-20, 2018)Everyone is familiar with Google Maps=E2=80=94all of us are using it on a dai=
-ly=20
-basis. In 2012 a group of researchers at Stanford (led by Walter=20
-Scheidel), developed Orbis (http://orbis.stanford.edu/)[1], which, one=20
-may put, applied the same geographical principles to a particular=20
-historical context. Dubbed =E2=80=9Ca Google Maps for the Roman Empire=E2=80=
-=9D[2], this=20
-model became a popular historical online resource and an object of envy=20
-for scholars working in other historical contexts.Inspired by Orbis, the Uni-Wien DH Team is organizing a three-day=20
-hackathon at the University of Vienna on the theme of map visualisations=20
-for historical data. One specific objective of the hackathon will be to=20
-build a sort of =E2=80=9COrbis-in-a-Box=E2=80=9D=E2=80=94an open-source platf=
-orm that would=20
-allow others to model movements of people and objects in different=20
-historical and cultural contexts. (For more details on this particular=20
-idea, see: http://kgeographer.com/orbis-in-a-box/).We are inviting interested digital humanists with an inclination for=20
-coding to partake in this 3-day event in Vienna. We are able to offer=20
-small bursaries to offset traveling costs.If you would like to attend, please send a message to=20
-_redacted_(a)univie.ac.at with =E2=80=9CORBIS-esque Hackathon=E2=80=9D in =
-the subject=20
-by 30 June 2018, stating your current institutional affiliation (if any)=20
-and your motivation for participating in the hackathon. Please also=20
-specify whether you are applying for a bursary.Yours truly,
+Subject: [dm-l] Open call: Modeling Travels in History: an ORBIS-esque
+
+_redacted_@ Uni 
+Vienna (July 18-20, 2018)
+
+Everyone is familiar with Google Maps—all of us are using it on a daily 
+basis. In 2012 a group of researchers at Stanford (led by Walter 
+Scheidel), developed Orbis (http://orbis.stanford.edu/)[1], which, one 
+may put, applied the same geographical principles to a particular 
+historical context. Dubbed “a Google Maps for the Roman Empire”[2], this 
+model became a popular historical online resource and an object of envy 
+for scholars working in other historical contexts.
+
+Inspired by Orbis, the Uni-Wien DH Team is organizing a three-day 
+hackathon at the University of Vienna on the theme of map visualisations 
+for historical data. One specific objective of the hackathon will be to 
+build a sort of “Orbis-in-a-Box”—an open-source platform that would 
+allow others to model movements of people and objects in different 
+historical and cultural contexts. (For more details on this particular 
+idea, see: http://kgeographer.com/orbis-in-a-box/).
+
+We are inviting interested digital humanists with an inclination for 
+coding to partake in this 3-day event in Vienna. We are able to offer 
+small bursaries to offset traveling costs.
+
+If you would like to attend, please send a message to 
+_redacted_(a)univie.ac.at with “ORBIS-esque Hackathon” in the subject 
+by 30 June 2018, stating your current institutional affiliation (if any) 
+and your motivation for participating in the hackathon. Please also 
+specify whether you are applying for a bursary.
+
+Yours truly,
 Uni-Wien DH Team
-Tara Andrews, M=C3=A1ria Vargha, and Maxim Romanov
-http://ifg.univie.ac.at/en/about-us/staff/digital-humanities/Links & Notes
-[1]=20
+Tara Andrews, Mária Vargha, and Maxim Romanov
+http://ifg.univie.ac.at/en/about-us/staff/digital-humanities/
+
+Links & Notes
+[1] 
 https://onlinelibrary.wiley.com/doi/full/10.1002/bult.2015.1720410206
-[2]=20
-https://io9.gizmodo.com/5911640/behold-orbis-a-google-maps-for-the-roman-empi=
-re
---===============3439771576200769865==--
+[2] 
+https://io9.gizmodo.com/5911640/behold-orbis-a-google-maps-for-the-roman-empire
+
+--3439771576200769865-
+

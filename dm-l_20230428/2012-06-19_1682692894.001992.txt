@@ -1,4 +1,8 @@
-Subject: Re: [dm-l] best practice: photographc facsimile?_redacted_(a)pitt.edu> wrote:> Dear Digital Medievalist,
+Subject: Re: [dm-l] best practice: photographc facsimile?
+
+_redacted_(a)pitt.edu> wrote:
+
+> Dear Digital Medievalist,
 >
 > For a couple of new Internet editions of medieval manuscripts I've
 > procured high-resolution tiff images, which I'm publishing with a
@@ -6,18 +10,32 @@ Subject: Re: [dm-l] best practice: photographc facsimile?_redacted_(a)pitt.edu
 > the components of the page, including the images, resize to fit the
 > window dimensions. There's a sample at:
 >
-> http://suprasliensis.obdurodon.org/pages/supr001r.htmlHave you considered embedding images in the DjVu format?=20I guess it would not be possible to automatically resize the image,
-but there would be some other advantages.>
+> http://suprasliensis.obdurodon.org/pages/supr001r.html
+
+Have you considered embedding images in the DjVu format? 
+
+I guess it would not be possible to automatically resize the image,
+but there would be some other advantages.
+
+>
 > The current images were prepared quickly for a demo, and are not of
 > consistent size or resolution. I would now like to go back to get
 > this part of the site up to production quality, and I would be
 > grateful for advice about how to manage the images, an area where I
-> don't have much (=3D any) knowledge of best practice. I'd like small
-> image files that load quickly,=20Even big DjVu images should load quickly, that's what the format has
-been designed for.> and I think I don't mind slightly
+> don't have much (= any) knowledge of best practice. I'd like small
+> image files that load quickly, 
+
+Even big DjVu images should load quickly, that's what the format has
+been designed for.
+
+> and I think I don't mind slightly
 > lossy compression if that would reduce the file size
 > substantially--but if that's a mistake, I'd be grateful for a
-> warning. I think there are two questions:DjVu allows both lossy and lossless compression.>
+> warning. I think there are two questions:
+
+DjVu allows both lossy and lossless compression.
+
+>
 > 1. What's an appropriate file format and resolution (size, dpi,
 > color depth, etc.) for the base image, the one that is displayed in
 > full to the right of the transcription, and that resizes as the user
@@ -36,24 +54,42 @@ been designed for.> and I think I don't mind slightly
 > (about 2MB) to 284r (about 270k), where the magnification is much
 > greater in the former than the latter. I can set the level of
 > magnification anywhere I'd like, but is there any agreement about
-> best practice here?Using DjVu allows the user to select the size and magnification of the
-magnifying glass.>
+> best practice here?
+
+Using DjVu allows the user to select the size and magnification of the
+magnifying glass.
+
+>
 > By way of orientation in the question: the purpose of the full image
 > is to allow the user to see the image conveniently alongside the
-> transcription,=20Djvu allows to store the transciption as "hidden text". You can view
+> transcription, 
+
+Djvu allows to store the transciption as "hidden text". You can view
 it with the original scan as background, but the fragment pointed with
-mouse may be made visible also in the status line.> verifying any moments where our editorial judgment
+mouse may be made visible also in the status line.
+
+> verifying any moments where our editorial judgment
 > might appear surprising or questionable. The point of the magnified
 > inset is to let the user examine details that may not be visible at
 > lesser magnification, such as erasures, corrections, etc. My casual
 > impression is that 30v looks pretty good and loads reasonably
 > quickly (although quicker would be better), but I don't place great
-> confidence in my own casual impressions.The DjVu viewer allows user to choose the magnification of the image.Of course using DjVu has only some drawbacks, like the need to install
-the DjVu viewer and browser plugin.=20Best regardsJanusz--=20
-                           ,  =20
-Prof. dr hab. Janusz S. Bien -  Uniwersytet Warszawski (Katedra Lingwistyki F=
-ormalnej)
+> confidence in my own casual impressions.
+
+The DjVu viewer allows user to choose the magnification of the image.
+
+Of course using DjVu has only some drawbacks, like the need to install
+the DjVu viewer and browser plugin. 
+
+Best regards
+
+Janusz
+
+-- 
+                           ,   
+Prof. dr hab. Janusz S. Bien -  Uniwersytet Warszawski (Katedra Lingwistyki Formalnej)
 Prof. Janusz S. Bien - University of Warsaw (Formal Linguistics Department)
-_redacted_(a)mimuw.edu.pl, http://fleksem.klf.uw.edu.pl/~jsbi=
-en/
---===============3511133277808271681==--
+_redacted_(a)mimuw.edu.pl, http://fleksem.klf.uw.edu.pl/~jsbien/
+
+--3511133277808271681-
+

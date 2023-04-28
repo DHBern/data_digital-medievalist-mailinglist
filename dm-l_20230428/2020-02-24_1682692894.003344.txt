@@ -1,31 +1,32 @@
-Subject: [dm-l] Launch of "Mapping Manuscript Migrations" portalDear colleagues,
-The Mapping Manuscript Migrations portal was publicly launched on 30 January =
-2020 at the Digging into Data Conference at the National Science Foundation i=
-n Washington DC: https://mappingmanuscriptmigrations.org/
-The MMM portal enables users to track more than 216,000 medieval and Renaissa=
-nce manuscripts by origin, owner, author, and title. Users can also visualize=
- their journeys over the centuries from production to last known location.MMM uses Linked Open Data principles and technology to combine data from thre=
-e important manuscript databases:
-=E2=80=A2 Schoenberg Database of Manuscripts (https://sdbm.library.upenn.edu/)
-=E2=80=A2 Bibale (http://bibale.irht.cnrs.fr/)
-=E2=80=A2 Medieval Manuscripts in Oxford Libraries (https://medieval.bodleian=
-.ox.ac.uk/)The portal is the product of two and a half years=E2=80=99 work by the MMM pr=
-oject team, working across four partner institutions: the University of Oxfor=
-d (Oxford e-Research Centre and Bodleian Libraries), the University of Pennsy=
-lvania (Schoenberg Institute for Manuscript Studies), the Institut de recherc=
-he et d=E2=80=99histoire des textes (IRHT-CNRS), and Aalto University (Semant=
-ic Computing Research Group).The MMM project has been funded by the Trans-Atlantic Platform under Round 4 =
-of its Digging into Data Challenge (2017-2020). The national funding agencies=
- contributing to the project are the Economic and Social Research Council (UK=
-), the Institute of Museum and Library Services (US), the Agence nationale de=
- la recherche (France), and the Academy of Finland.Dr Toby Burrows
+Subject: [dm-l] Launch of "Mapping Manuscript Migrations" portal
+
+Dear colleagues,
+
+The Mapping Manuscript Migrations portal was publicly launched on 30 January 2020 at the Digging into Data Conference at the National Science Foundation in Washington DC: https://mappingmanuscriptmigrations.org/
+
+The MMM portal enables users to track more than 216,000 medieval and Renaissance manuscripts by origin, owner, author, and title. Users can also visualize their journeys over the centuries from production to last known location.
+
+MMM uses Linked Open Data principles and technology to combine data from three important manuscript databases:
+• Schoenberg Database of Manuscripts (https://sdbm.library.upenn.edu/)
+• Bibale (http://bibale.irht.cnrs.fr/)
+• Medieval Manuscripts in Oxford Libraries (https://medieval.bodleian.ox.ac.uk/)
+
+The portal is the product of two and a half years’ work by the MMM project team, working across four partner institutions: the University of Oxford (Oxford e-Research Centre and Bodleian Libraries), the University of Pennsylvania (Schoenberg Institute for Manuscript Studies), the Institut de recherche et d’histoire des textes (IRHT-CNRS), and Aalto University (Semantic Computing Research Group).
+
+The MMM project has been funded by the Trans-Atlantic Platform under Round 4 of its Digging into Data Challenge (2017-2020). The national funding agencies contributing to the project are the Economic and Social Research Council (UK), the Institute of Museum and Library Services (US), the Agence nationale de la recherche (France), and the Academy of Finland.
+
+Dr Toby Burrows
 Oxford e-Research Centre
-University of Oxford
---===============4209608113660159364==
-Content-Type: text/html
+University of Oxford
+
+
+
+--4209608113660159364Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWwgeG1sbnM6bz0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTpvZmZpY2U6b2ZmaWNlIiB4
+Content-Disposition: attachment; filename�ttachment.html"
+MIME-Version: 1.0
+
+PGh0bWwgeG1sbnM6bz0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTpvZmZpY2U6b2ZmaWNlIiB4
 bWxuczp3PSJ1cm46c2NoZW1hcy1taWNyb3NvZnQtY29tOm9mZmljZTp3b3JkIiB4bWxuczptPSJo
 dHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL29mZmljZS8yMDA0LzEyL29tbWwiIHhtbG5zPSJo
 dHRwOi8vd3d3LnczLm9yZy9UUi9SRUMtaHRtbDQwIj4NCjxoZWFkPg0KPG1ldGEgaHR0cC1lcXVp
@@ -117,4 +118,4 @@ dGljYWwtYWxpZ246YmFzZWxpbmUiPg0KPHNwYW4gc3R5bGU9ImNvbG9yOmJsYWNrIj5EciBUb2J5
 IEJ1cnJvd3M8YnI+DQpPeGZvcmQgZS1SZXNlYXJjaCBDZW50cmU8YnI+DQpVbml2ZXJzaXR5IG9m
 IE94Zm9yZDwvc3Bhbj48bzpwPjwvbzpwPjwvcD4NCjxwIGNsYXNzPSJNc29Ob3JtYWwiPjxzcGFu
 IHN0eWxlPSJmb250LXNpemU6MTEuMHB0O2NvbG9yOmJsYWNrIj4mbmJzcDs8L3NwYW4+PG86cD48
-L286cD48L3A+DQo8L2Rpdj4NCjwvYm9keT4NCjwvaHRtbD4NCg==
+L286cD48L3A+DQo8L2Rpdj4NCjwvYm9keT4NCjwvaHRtbD4NCg

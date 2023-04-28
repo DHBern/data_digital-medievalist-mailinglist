@@ -1,64 +1,70 @@
-Subject: Re: [dm-l] Layout of medieval poetry with CSSHi Peter,I'm relatively sure the line numbers in my edition of Caedmon were=20
-positioned by CSS. I believe a simple class declaration. You could check=20
-the CSS if it works for you.-danPeter Baker wrote:
-> Old English people on the list may have guessed: what I've been=20
-> working on is a prototype or proof-of-concept of my Old English=20
-> textbook as an e-book. You can seen it here (still partial; the=20
+Subject: Re: [dm-l] Layout of medieval poetry with CSS
+
+Hi Peter,
+
+I'm relatively sure the line numbers in my edition of Caedmon were 
+positioned by CSS. I believe a simple class declaration. You could check 
+the CSS if it works for you.
+
+-dan
+
+Peter Baker wrote:
+> Old English people on the list may have guessed: what I've been 
+> working on is a prototype or proof-of-concept of my Old English 
+> textbook as an e-book. You can seen it here (still partial; the 
 > easiest/free way to look at it is with the FireFox EPubReader add-on):
 >
 > http://faculty.virginia.edu/OldEnglish/secret/oeg.epub
 >
-> I'm wondering what medievalists here think of the textbook as e-book.=20
-> The iPad is bearing down on us; many e-readers are on the market;=20
-> sales of e-books are doubling every year. I love good old paper books,=20
+> I'm wondering what medievalists here think of the textbook as e-book. 
+> The iPad is bearing down on us; many e-readers are on the market; 
+> sales of e-books are doubling every year. I love good old paper books, 
 > but I've fascinated by the technology.
 >
 > Peter
 >
 >
 > Peter Baker wrote:
->> Thanks to everyone who has replied so far. Some great ideas here. So=20
->> far Travis's approach has worked best--with some little alterations=20
->> mainly for making lines wrap elegantly and for working around=20
+>> Thanks to everyone who has replied so far. Some great ideas here. So 
+>> far Travis's approach has worked best--with some little alterations 
+>> mainly for making lines wrap elegantly and for working around 
 >> problems with e-book readers. Here's the css:
 >>
 >> .verse-container div {margin-left: 7em; text-indent: -2em;}
->> .verse-container div span {display: block; float: left; margin-left:=20
+>> .verse-container div span {display: block; float: left; margin-left: 
 >> -5em;}
 >> .hypermetric div {margin-left: 6em; text-indent: -2em;}
 >> .hypermetric div span {display: block; float: left; margin-left: -4em;}
 >>
->> I substituted div for p because Stanza insists on its own formatting=20
->> for p. And I use em instead of px to scale better with the device. =20
+>> I substituted div for p because Stanza insists on its own formatting 
+>> for p. And I use em instead of px to scale better with the device.  
 >> The HTML looks like this:
 >>
->> <div class=3D"verse-container">
->>    <div>Oft him =C4=81nhaga     =C4=81re geb=C4=ABde=C3=B0,</div>
->>    <div>Metudes miltse,     =C3=BE=C4=93ah =C3=BEe h=C4=93 m=C5=8Ddcearig<=
-/div>
->>    <div>geond lagul=C4=81de     longe sceolde</div>
->>    <div>hr=C4=93ran mid hondum     hr=C4=ABmcealde s=C7=A3,</div>
->>    <div><span>5</span>wadan wr=C3=A6cl=C4=81stas.      Wyrd bi=C3=B0 ful =
-=C4=81r=C7=A3d.</div>
+>> <div class="verse-container">
+>>    <div>Oft him ānhaga     āre gebīdeð,</div>
+>>    <div>Metudes miltse,     þēah þe hē mōdcearig</div>
+>>    <div>geond lagulāde     longe sceolde</div>
+>>    <div>hrēran mid hondum     hrīmcealde sǣ,</div>
+>>    <div><span>5</span>wadan wræclāstas.      Wyrd bið ful ārǣd.</div>
 >> </div>
 >>
->> Nice and clean. The only remaining problem is that the Adobe Digital=20
->> Editions (ADE) e-book reader doesn't move the left margin of the span=20
->> as far left as the CSS tells it to do, and this causes collisions=20
->> between line number and line in the hypermetric verses, where the=20
->> left margin is narrower and there's less margin for error. So I've=20
->> had to make the left margin wider than I had it before to compensate.=20
->> It looks like a waste of space on an iPod screen, but in a browser=20
+>> Nice and clean. The only remaining problem is that the Adobe Digital 
+>> Editions (ADE) e-book reader doesn't move the left margin of the span 
+>> as far left as the CSS tells it to do, and this causes collisions 
+>> between line number and line in the hypermetric verses, where the 
+>> left margin is narrower and there's less margin for error. So I've 
+>> had to make the left margin wider than I had it before to compensate. 
+>> It looks like a waste of space on an iPod screen, but in a browser 
 >> window the spaciousness is rather pleasant.
 >>
->> Grant Simpson's approach looked to be working well, but it ran afoul=20
->> of a bug in the Stanza reader, which for some reason makes a block=20
->> containing a line number disappear unless it is inside the div for=20
->> the line. Don't ask me why: but as I've been haunting the mobileread=20
->> forums for a couple of weeks I can say that the CSS processing in=20
+>> Grant Simpson's approach looked to be working well, but it ran afoul 
+>> of a bug in the Stanza reader, which for some reason makes a block 
+>> containing a line number disappear unless it is inside the div for 
+>> the line. Don't ask me why: but as I've been haunting the mobileread 
+>> forums for a couple of weeks I can say that the CSS processing in 
 >> Stanza and ADE is well known to be flaky.
 >>
->> I expect the e-book reader in the iPad to be much better, as it will=20
+>> I expect the e-book reader in the iPad to be much better, as it will 
 >> presumably use the Safari layout engine.
 >>
 >> Thanks again to everyone,
@@ -74,15 +80,23 @@ the CSS if it works for you.-danPeter Baker wrote:
 > Twitter: http://twitter.com/digitalmedieval
 > Facebook: http://www.facebook.com/group.php?gidI320313760
 _redacted_(a)uleth.ca
-> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l--=20
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+-- 
 Daniel Paul O'Donnell
 Associate Professor of English
-University of LethbridgeChair and CEO, Text Encoding Initiative (http://www.tei-c.org/)
+University of Lethbridge
+
+Chair and CEO, Text Encoding Initiative (http://www.tei-c.org/)
 Co-Chair, Digital Initiatives Advisory Board, Medieval Academy of America
-President-elect (English), Society for Digital Humanities/Soci=C3=A9t=C3=A9 p=
-our l'=C3=A9tude des m=C3=A9dias interactifs (http://sdh-semi.org/)
-Founding Director (2003-2009), Digital Medievalist Project (http://www.digita=
-lmedievalist.org/)Vox: +1 403 329-2377
+President-elect (English), Society for Digital Humanities/Société pour l'étude des médias interactifs (http://sdh-semi.org/)
+Founding Director (2003-2009), Digital Medievalist Project (http://www.digitalmedievalist.org/)
+
+Vox: +1 403 329-2377
 Fax: +1 403 382-7191 (non-confidential)
-Home Page: http://people.uleth.ca/~daniel.odonnell/
---===============1960989038755483757==--
+Home Page: http://people.uleth.ca/~daniel.odonnell/
+
+
+
+--1960989038755483757-
+

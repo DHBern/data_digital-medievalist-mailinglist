@@ -1,18 +1,20 @@
-Subject: Re: [dm-l] What would people like to see in a primer and/or series ofI'd like to make sure that any primer included a section on metadata - what i=
-t is, what it can do, how to document it and how to present it to users. This=
- would probably be part of the project management primer (or section of prime=
-r) suggested by Kathryn Powell. [Metadata is "data about data": a library cat=
-alog record, descriptive and technical information about electronic files, de=
-scriptions of image processing, etc.]For the past year I've been putting together a metadata framework for the Ele=
-ctronic Boethius project (using METS, the Metadata Encoding and Transmission =
-Standard <http://www.loc.gov/standards/mets/>), and recently presented my fin=
-dings at the Joint International Conference of the Association for Literary a=
-nd Linguistic Computing and the Association for Computers and the Humanities,=
- so metadata is in the forefront of my mind at the moment!Dot Porter***************************************
+Subject: Re: [dm-l] What would people like to see in a primer and/or series of
+
+I'd like to make sure that any primer included a section on metadata - what it is, what it can do, how to document it and how to present it to users. This would probably be part of the project management primer (or section of primer) suggested by Kathryn Powell. [Metadata is "data about data": a library catalog record, descriptive and technical information about electronic files, descriptions of image processing, etc.]
+
+For the past year I've been putting together a metadata framework for the Electronic Boethius project (using METS, the Metadata Encoding and Transmission Standard <http://www.loc.gov/standards/mets/>), and recently presented my findings at the Joint International Conference of the Association for Literary and Linguistic Computing and the Association for Computers and the Humanities, so metadata is in the forefront of my mind at the moment!
+
+Dot Porter
+
+***************************************
 Dorothy Carr Porter, Program Coordinator
 Collaboratory for Research in Computing for Humanities
 University of Kentucky
 351 William T. Young Library
-Lexington, KY  40506_redacted_(a)uky.edu          859-257-9549
-***************************************
---===============3168440597908405170==--
+Lexington, KY  40506
+
+_redacted_(a)uky.edu          859-257-9549
+***************************************
+
+--3168440597908405170-
+

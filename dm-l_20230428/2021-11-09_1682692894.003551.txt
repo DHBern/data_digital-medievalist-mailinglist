@@ -1,53 +1,56 @@
-Subject: [dm-l] Looking for internships for our students
-Dear colleagues,
-As with every year, it is time to submit potential internships for the studen=
-ts of the Digital Technologies Applied to History (TNAH) master=E2=80=99s deg=
-ree at the =C3=89cole nationale des chartes. We apologize in advance for any =
-cross-posting.
-The TNAH master's degree aims to train engineers for heritage institutions, r=
-esearch laboratories and private companies with a foothold in the field of da=
-ta and data engineering. Our students then become engineers, project managers=
- or digital mission managers and often act as intermediaries between the vari=
-ous bodies of expertise. Our students are trained in Python, Javascript, data=
- processing and visualization, XML-TEI, XSLT, SQL, xQuery, EAD, SEDA and vari=
-ous archival standards, project management, OCR and HTR, etc. More details on=
- the curriculum can be found at http://www.chartes.psl.eu/fr/cursus/master-te=
-chnologies-numeriques-appliquees-histoire (=E2=80=9CScolarit=C3=A9=E2=80=9D t=
-ab) and the M2 syllabus at http://www.chartes.psl.eu/docs/2021-2022.html (lin=
-ks in French). The final projects of the 2019 Python course are demoed at thi=
-s address: http://tnah.chartes.psl.eu/2019/ Internship proposals can be sent =
-until the 31st of January, students start to apply to proposals in December.
-In order to complete their degree, students must complete an internship durin=
-g the second semester of their final year. The internships must allow them to=
- apply the technical skills they have acquired during their studies, which ca=
-n take the following forms, among others:  *   Analysis and assistance in the expression of needs for a digital project  *   Prototype of an application, digital edition, or data processing pipeli=
-ne  *   Production of a specification before implementing a digital projectThe work carried out during the internship feeds into a master=E2=80=99s thes=
-is which is defended between mid-September and mid-October. Remote presence i=
-s a possibility for our colleagues abroad. Due to administrative rules, the t=
-hesis and defence must be in French.
-Starting at the beginning of April, the internship lasts between 3 and 5 mont=
-hs, with a clear preference for a 4-month internship. It may include data ent=
-ry (transcription, cataloguing, etc.) but only for a maximum of 20% of workin=
-g time and if it helps them to better understand the issues at stake in the p=
-roject. The student is accompanied during the internship by a tutor from the =
-Ecole des chartes and a technical and scientific manager in your team. A comp=
-uter must be provided to the student. We do not expect any particular type of=
- host organization: private companies, archive services, libraries, media lib=
-raries, research laboratories, etc. are all institutions that can host our st=
-udents. Students choose their internship before the end of January and from t=
-he end of November. A standard application form is available at the following=
- address: http://www.chartes.psl.eu/sites/default/files/atoms/files/appel_a_s=
-tages_du_master_tnah.doc .
-Here are some examples of internships that took place in 2020-2021 (in bracke=
-ts, the type of host institution):  *   Processing chain for geohistorical data matching (University Laboratory)  *   Named Entity Recognition for HTR (Handwriting Recognition by Machine) t=
-exts (Research Laboratory)  *   Production of TEI documents from HTR models (Research lab)  *   Analysis of best practices and recommendations for the use of the ARK s=
-tandard in archives (Heritage institution)  *   Reflections on the digital archiving of e-mails (Public institution)  *   Digital edition of a corpus of 19th century manuscripts: from transcrip=
-tion to visualization (Research institution)  *   From clusters to catalogue: reflections on the patrimonialization of re=
-search data in heritage sciences (Heritage institution)The complete list of last year's courses is available at http://www.chartes.p=
-sl.eu/fr/actualite/soutenances-2021-du-master-technologies-numeriques-appliqu=
-ees-histoire
-Feel free to reach me if you have any questions,Thanking you for our students,
-Thank you very much,Thibault Cl=C3=A9ricePGh0bWw+DQo8aGVhZD4NCjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSIgY29udGVudD0i
+Subject: [dm-l] Looking for internships for our students
+
+Dear colleagues,
+
+As with every year, it is time to submit potential internships for the students of the Digital Technologies Applied to History (TNAH) master’s degree at the École nationale des chartes. We apologize in advance for any cross-posting.
+
+The TNAH master's degree aims to train engineers for heritage institutions, research laboratories and private companies with a foothold in the field of data and data engineering. Our students then become engineers, project managers or digital mission managers and often act as intermediaries between the various bodies of expertise. Our students are trained in Python, Javascript, data processing and visualization, XML-TEI, XSLT, SQL, xQuery, EAD, SEDA and various archival standards, project management, OCR and HTR, etc. More details on the curriculum can be found at http://www.chartes.psl.eu/fr/cursus/master-technologies-numeriques-appliquees-histoire (“Scolarité” tab) and the M2 syllabus at http://www.chartes.psl.eu/docs/2021-2022.html (links in French). The final projects of the 2019 Python course are demoed at this address: http://tnah.chartes.psl.eu/2019/ Internship proposals can be sent until the 31st of January, students start to apply to proposals in December.
+
+In order to complete their degree, students must complete an internship during the second semester of their final year. The internships must allow them to apply the technical skills they have acquired during their studies, which can take the following forms, among others:
+
+  *   Analysis and assistance in the expression of needs for a digital project
+
+  *   Prototype of an application, digital edition, or data processing pipeline
+
+  *   Production of a specification before implementing a digital project
+
+
+
+The work carried out during the internship feeds into a master’s thesis which is defended between mid-September and mid-October. Remote presence is a possibility for our colleagues abroad. Due to administrative rules, the thesis and defence must be in French.
+
+Starting at the beginning of April, the internship lasts between 3 and 5 months, with a clear preference for a 4-month internship. It may include data entry (transcription, cataloguing, etc.) but only for a maximum of 20% of working time and if it helps them to better understand the issues at stake in the project. The student is accompanied during the internship by a tutor from the Ecole des chartes and a technical and scientific manager in your team. A computer must be provided to the student. We do not expect any particular type of host organization: private companies, archive services, libraries, media libraries, research laboratories, etc. are all institutions that can host our students. Students choose their internship before the end of January and from the end of November. A standard application form is available at the following address: http://www.chartes.psl.eu/sites/default/files/atoms/files/appel_a_stages_du_master_tnah.doc .
+
+Here are some examples of internships that took place in 2020-2021 (in brackets, the type of host institution):
+
+  *   Processing chain for geohistorical data matching (University Laboratory)
+
+  *   Named Entity Recognition for HTR (Handwriting Recognition by Machine) texts (Research Laboratory)
+
+  *   Production of TEI documents from HTR models (Research lab)
+
+  *   Analysis of best practices and recommendations for the use of the ARK standard in archives (Heritage institution)
+
+  *   Reflections on the digital archiving of e-mails (Public institution)
+
+  *   Digital edition of a corpus of 19th century manuscripts: from transcription to visualization (Research institution)
+
+  *   From clusters to catalogue: reflections on the patrimonialization of research data in heritage sciences (Heritage institution)
+
+
+
+The complete list of last year's courses is available at http://www.chartes.psl.eu/fr/actualite/soutenances-2021-du-master-technologies-numeriques-appliquees-histoire
+
+Feel free to reach me if you have any questions,
+
+Thanking you for our students,
+
+Thank you very much,
+
+Thibault Clérice
+
+
+
+PGh0bWw+DQo8aGVhZD4NCjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSIgY29udGVudD0i
 dGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04Ij4NCjwvaGVhZD4NCjxib2R5Pg0KPGRpdiBzdHlsZT0i
 Ym9yZGVyOnNvbGlkICM2NDY0NjQgMS4wcHQ7cGFkZGluZzoyLjBwdCAyLjBwdCAyLjBwdCAyLjBw
 dDtiYWNrZ3JvdW5kOiNGRkVCOUMiPg0KPHAgY2xhc3M9Ik1zb05vcm1hbCIgc3R5bGU9ImxpbmUt
@@ -334,4 +337,4 @@ MXB0O2ZvbnQtZmFtaWx5OkFyaWFsO2NvbG9yOiMwMDAwMDA7YmFja2dyb3VuZC1jb2xvcjp0cmFu
 c3BhcmVudDtmb250LXdlaWdodDo0MDA7Zm9udC1zdHlsZTpub3JtYWw7Zm9udC12YXJpYW50Om5v
 cm1hbDt0ZXh0LWRlY29yYXRpb246bm9uZTt2ZXJ0aWNhbC1hbGlnbjpiYXNlbGluZTt3aGl0ZS1z
 cGFjZTpwcmU7d2hpdGUtc3BhY2U6cHJlLXdyYXA7Ij5UaGliYXVsdCBDbMOpcmljZTwvc3Bhbj48
-L3A+DQo8L2Rpdj4NCjwvYm9keT4NCjwvaHRtbD4NCg==
+L3A+DQo8L2Rpdj4NCjwvYm9keT4NCjwvaHRtbD4NCg

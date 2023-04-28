@@ -1,101 +1,127 @@
-Subject: Re: [dm-l] Proposed Changes to DMI think the only caveat that needs to be mentioned in all this is that=20
-the location of the journal is not a fully autonomous decision--or at=20
-least if it is, it potentially involves giving up as much as $7k+ a year=20
-in in-kind and cash funding.Currently the journal is managed within the Lethbridge journal=20
-incubator. This is a start up Open Access publisher that provides about=20
-$7k in in-kind funding in the form of managing assistance plus some cash=20
-for odd jobs.This has been by no means perfect--we had an assistant dean try to kill=20
-it this past year before she fully understood just how strongly her=20
-boss, the dean of the graduate school, stood behind it. The result was=20
-that she severely restricted our access to funds for several months=20
-until we were able to get her countermanded. And, frankly, we also had=20
-trouble finding the right balance in relations between the students we=20
-had been able to supply and the editorial board.The first of these issues has now been cleared up: we've been promised=20
-four positions a year for the foreseeable future and the incubator is=20
-moving from a prototype to an official and centrally supported Centre=20
-within the University in the course of the next six months.The second certainly improved somewhat during the past year, though that=20
-has been with me largely acting as the graduate student, since the=20
-previous student quit in the face of the pressure she was placed under=20
-(when a grad student turns down 7k, you know there is an issue).All this, however, is by-the-by. The issue now is whether the=20
-contribution from us is worth continuing and, if it is, how our ability=20
-to deliver it is affected by the system DM moves to (unlike all other=20
-journals in the system DM doesn't contribute anything back to the=20
-incubator, except, I had originally hoped, some willingness to help=20
-train the students in it).Another thing that I have suggested to the board is that there is a lot=20
-of hype around various platforms. While they can definitely be an=20
-improvement over DM's current handrolled site, they are often far less=20
-comprehensive than their developers claim. Stock OJS, for example,=20
-builds itself as a all-in-one solution, but it is actually a very heavy=20
-workflow manager and publication platform that doesn't necessarily=20
-support two essential aspects of DM's production: despite what many=20
-people seem to think, it does not support at all the=20
-word-processor-to-delivery-format conversion that lies at the heart of=20
-any journal (though a recent module apparently supports Word-to-NLM=20
-XML). It also needs to be hacked severly to support DM's model of=20
-rolling release with special clusters: stock OJS sees "issues" (i.e.=20
-clusters of papers) as a sequence and its automatic Table of Content=20
-generator doesn't allow two issues to be kept open at the same time=20
-(Digital Studies/Le champ Num=C3=A9rique, which takes a similar approach to=20
-issues as DM, but within OJS, has had to give up on the TOC generator=20
-entirely. Its front page is actually hand coded). A study by the Public=20
-Knowledge Partnership OJS's developer actually suggested, moreover, that=20
-the OJS workflow model may be better suited to larger journals than very=20
-small ones like DM.I understand that the core of revues.org is based on a modified OJS=20
-install. I don't know if it now supports automatic word to XML=20
-conversion (it didn't when we initially set up the Journal of the TEI)=20
-nor do I know if it has addressed the structural issue about how OJS=20
-handles issues. But what we did learn in setting both J-TEI up in=20
-revues.org and DSCN in an inherited OJS install was that both systems=20
-over-promised and under-delivered on what was the bit of the production=20
-workflow that people found most technically challenging.So research is absolutely required on this: I know of a couple of=20
-journals that switched to OJS because they thought it would address=20
-technical issues they were having, only to discover it solved everything=20
-but those technical issues. On the other hand, both systems are a vast=20
-improvement over the current in terms of improving discoverability.Anyway, this is a long way of saying that, having been involved now with=20
-at least four journals and professionally engaged as a researcher and=20
-member of the administration of force11.org, I've come to the conclusion=20
-that changing any journal's delivery, production, and workflow=20
-management systes can prove to be a very complicated undertaking. I=20
-agree wholeheartedly that it is time to reexamine what DM is doing. But=20
-I also know that people regularly under-estimate and misunderstand what=20
-the issues are, that systems that support journals (including, I=20
-acknowledge this past year, the incubator) regularly over-promise what=20
-they can do, and that the implications of the decision can be quite=20
-significant from both a funding and a bibliographic perspective.Having said all that, I will add that my one feelings about changing the=20
-journals are limited to a hope that the change is well-researched and=20
-fully understood, no matter what it is. If that means keeping the=20
-journal within our financing and management model, which is certainly=20
-compatible with OJS or home-rolled systems (the three journals we=20
-currently host use two completely different home-rolled systems and one=20
-OJS install), I'm all for it. If it means abandoning the current=20
-incubator model, I'm cool with that too. The important thing is that=20
-people realise the costs and benefits of whatever is proposed.-danOn 14-05-27 10:10 AM, Dot Porter wrote:
+Subject: Re: [dm-l] Proposed Changes to DM
+
+I think the only caveat that needs to be mentioned in all this is that 
+the location of the journal is not a fully autonomous decision--or at 
+least if it is, it potentially involves giving up as much as $7k+ a year 
+in in-kind and cash funding.
+
+Currently the journal is managed within the Lethbridge journal 
+incubator. This is a start up Open Access publisher that provides about 
+$7k in in-kind funding in the form of managing assistance plus some cash 
+for odd jobs.
+
+This has been by no means perfect--we had an assistant dean try to kill 
+it this past year before she fully understood just how strongly her 
+boss, the dean of the graduate school, stood behind it. The result was 
+that she severely restricted our access to funds for several months 
+until we were able to get her countermanded. And, frankly, we also had 
+trouble finding the right balance in relations between the students we 
+had been able to supply and the editorial board.
+
+The first of these issues has now been cleared up: we've been promised 
+four positions a year for the foreseeable future and the incubator is 
+moving from a prototype to an official and centrally supported Centre 
+within the University in the course of the next six months.
+
+The second certainly improved somewhat during the past year, though that 
+has been with me largely acting as the graduate student, since the 
+previous student quit in the face of the pressure she was placed under 
+(when a grad student turns down 7k, you know there is an issue).
+
+All this, however, is by-the-by. The issue now is whether the 
+contribution from us is worth continuing and, if it is, how our ability 
+to deliver it is affected by the system DM moves to (unlike all other 
+journals in the system DM doesn't contribute anything back to the 
+incubator, except, I had originally hoped, some willingness to help 
+train the students in it).
+
+Another thing that I have suggested to the board is that there is a lot 
+of hype around various platforms. While they can definitely be an 
+improvement over DM's current handrolled site, they are often far less 
+comprehensive than their developers claim. Stock OJS, for example, 
+builds itself as a all-in-one solution, but it is actually a very heavy 
+workflow manager and publication platform that doesn't necessarily 
+support two essential aspects of DM's production: despite what many 
+people seem to think, it does not support at all the 
+word-processor-to-delivery-format conversion that lies at the heart of 
+any journal (though a recent module apparently supports Word-to-NLM 
+XML). It also needs to be hacked severly to support DM's model of 
+rolling release with special clusters: stock OJS sees "issues" (i.e. 
+clusters of papers) as a sequence and its automatic Table of Content 
+generator doesn't allow two issues to be kept open at the same time 
+(Digital Studies/Le champ Numérique, which takes a similar approach to 
+issues as DM, but within OJS, has had to give up on the TOC generator 
+entirely. Its front page is actually hand coded). A study by the Public 
+Knowledge Partnership OJS's developer actually suggested, moreover, that 
+the OJS workflow model may be better suited to larger journals than very 
+small ones like DM.
+
+I understand that the core of revues.org is based on a modified OJS 
+install. I don't know if it now supports automatic word to XML 
+conversion (it didn't when we initially set up the Journal of the TEI) 
+nor do I know if it has addressed the structural issue about how OJS 
+handles issues. But what we did learn in setting both J-TEI up in 
+revues.org and DSCN in an inherited OJS install was that both systems 
+over-promised and under-delivered on what was the bit of the production 
+workflow that people found most technically challenging.
+
+So research is absolutely required on this: I know of a couple of 
+journals that switched to OJS because they thought it would address 
+technical issues they were having, only to discover it solved everything 
+but those technical issues. On the other hand, both systems are a vast 
+improvement over the current in terms of improving discoverability.
+
+Anyway, this is a long way of saying that, having been involved now with 
+at least four journals and professionally engaged as a researcher and 
+member of the administration of force11.org, I've come to the conclusion 
+that changing any journal's delivery, production, and workflow 
+management systes can prove to be a very complicated undertaking. I 
+agree wholeheartedly that it is time to reexamine what DM is doing. But 
+I also know that people regularly under-estimate and misunderstand what 
+the issues are, that systems that support journals (including, I 
+acknowledge this past year, the incubator) regularly over-promise what 
+they can do, and that the implications of the decision can be quite 
+significant from both a funding and a bibliographic perspective.
+
+Having said all that, I will add that my one feelings about changing the 
+journals are limited to a hope that the change is well-researched and 
+fully understood, no matter what it is. If that means keeping the 
+journal within our financing and management model, which is certainly 
+compatible with OJS or home-rolled systems (the three journals we 
+currently host use two completely different home-rolled systems and one 
+OJS install), I'm all for it. If it means abandoning the current 
+incubator model, I'm cool with that too. The important thing is that 
+people realise the costs and benefits of whatever is proposed.
+
+-dan
+
+On 14-05-27 10:10 AM, Dot Porter wrote:
 > Hi everyone,
 >
-> I think I'm going along with the majority of folks who have replied=20
-> thus far: I think it's a good idea to move the main site to Wordpress,=20
-> and I also think it's a good idea to move the journal to another=20
-> system (I know we've been in talks with revues.org=20
-> <http://revues.org>, we might also consider Indiana University=20
-> Bloomington's set-up which uses Open Journal System, they publish The=20
-> Medieval Review and many other journals as well, although I don't know=20
-> if there is anyone at IUB who would be willing to act as contact for=20
-> that). Off the shelf technology has improved vastly in the years since=20
-> DM was founded, and there's no reason for us not to take advantage of=20
-> that (rather than playing sysadmin and building code from scratch -=20
+> I think I'm going along with the majority of folks who have replied 
+> thus far: I think it's a good idea to move the main site to Wordpress, 
+> and I also think it's a good idea to move the journal to another 
+> system (I know we've been in talks with revues.org 
+> <http://revues.org>, we might also consider Indiana University 
+> Bloomington's set-up which uses Open Journal System, they publish The 
+> Medieval Review and many other journals as well, although I don't know 
+> if there is anyone at IUB who would be willing to act as contact for 
+> that). Off the shelf technology has improved vastly in the years since 
+> DM was founded, and there's no reason for us not to take advantage of 
+> that (rather than playing sysadmin and building code from scratch - 
 > which can be fun, but is time consuming)
 >
-> I think it would be great to have some kind of place to serve the type=20
-> of information that the wiki has traditionally served - definitions of=20
-> terms, lists of projects and tools, that kind of thing. Something that=20
-> isn't well served by a blog-type interface, or even a regular website=20
-> organization. I agree with Gabby that actually merging DM into the=20
-> Digital Classicist wiki is probably not the best approach, because=20
-> (let's be honest), medieval studies isn't classics. We could do well=20
-> to learn from them however - having a closed wiki would help with the=20
-> spam, and focusing on new methods for getting data into the wiki (as=20
-> DC is organizing wiki sprints). I wonder if there's another type of=20
-> site, not a wiki, that could be used for the same purpose? I can't=20
+> I think it would be great to have some kind of place to serve the type 
+> of information that the wiki has traditionally served - definitions of 
+> terms, lists of projects and tools, that kind of thing. Something that 
+> isn't well served by a blog-type interface, or even a regular website 
+> organization. I agree with Gabby that actually merging DM into the 
+> Digital Classicist wiki is probably not the best approach, because 
+> (let's be honest), medieval studies isn't classics. We could do well 
+> to learn from them however - having a closed wiki would help with the 
+> spam, and focusing on new methods for getting data into the wiki (as 
+> DC is organizing wiki sprints). I wonder if there's another type of 
+> site, not a wiki, that could be used for the same purpose? I can't 
 > think of anything.
 >
 > My $.02 fwiw
@@ -103,7 +129,7 @@ people realise the costs and benefits of whatever is proposed.-danOn 14-05-2
 > Dot
 >
 >
-> On Thu, May 22, 2014 at 12:17 PM, Roberto Rosselli Del Turco=20
+> On Thu, May 22, 2014 at 12:17 PM, Roberto Rosselli Del Turco 
 _redacted_(a)ling.unipi.it>> wrote:
 >
 >     Dear all,
@@ -146,7 +172,7 @@ _redacted_(a)ling.unipi.it>> wrote:
 >         of the Board, and so it has not been doing the job that we had
 >         hoped. Furthermore the website itself, which we have been
 >         hosting and coding ourselves (with substantial help from James
->         Cummings and Dan O=E2=80=99Donnell) is also proving increasingly
+>         Cummings and Dan O’Donnell) is also proving increasingly
 >         difficult to manage: it depends on the generosity of James and
 >         Dan to host and administer, even adding new pages is not
 >         trivial, and it has needed a dramatic overhaul for some time
@@ -191,9 +217,8 @@ _redacted_(a)digitalmedievalist.org> or any members of the
 >         Board directly. The next Board meeting is 4pm GMT+1 on Monday
 >         2 June, at which point any comments will be discussed, and any
 >         changes in the Byelaws will be presented to the membership for
->         vote shortly after that (as specified in =C2=A79 of the Byelaws:
->         <http://digitalmedievalist.wordpress.com/about/byelaws/#amendments>=
-).
+>         vote shortly after that (as specified in §9 of the Byelaws:
+>         <http://digitalmedievalist.wordpress.com/about/byelaws/#amendments>).
 >
 >         Thank you, and we look forward to receiving your comments.
 >
@@ -218,14 +243,14 @@ _redacted_(a)kcl.ac.uk>
 >         News: http://www.digitalmedievalist.org/news/
 >         Wiki: http://www.digitalmedievalist.org/wiki/
 >         Twitter: http://twitter.com/digitalmedieval
->         Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+>         Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca>
 >         Change list options:
 >         http://listserv.uleth.ca/mailman/listinfo/dm-l
 >
 >
 >
->     --=20
+>     -- 
 >
 >     Roberto Rosselli Del Turco      roberto.rossellidelturco at
 >     unito.it <http://unito.it>
@@ -245,14 +270,14 @@ _redacted_(a)uleth.ca>
 >     News: http://www.digitalmedievalist.org/news/
 >     Wiki: http://www.digitalmedievalist.org/wiki/
 >     Twitter: http://twitter.com/digitalmedieval
->     Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+>     Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca>
 >     Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
 >
 >
 >
 >
-> --=20
+> -- 
 > *~*~*~*~*~*~*~*~*~*~*
 > Dot Porter (MA, MSLS)
 > Digital Medievalist, Digital Librarian
@@ -260,7 +285,7 @@ _redacted_(a)gmail.com>
 > Personal blog: dotporterdigital.org <http://dotporterdigital.org>
 > Medieval Electronic Scholarly Alliance: http://www.mesa-medieval.org
 > MESA blog: http://mesamedieval.wordpress.com/
-> MESA on Facebook:=20
+> MESA on Facebook: 
 > https://www.facebook.com/MedievalElectronicScholarlyAlliance
 > *~*~*~*~*~*~*~*~*~*~*
 >
@@ -271,20 +296,28 @@ _redacted_(a)gmail.com>
 > News: http://www.digitalmedievalist.org/news/
 > Wiki: http://www.digitalmedievalist.org/wiki/
 > Twitter: http://twitter.com/digitalmedieval
-> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+> Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca
-> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l--=20
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+-- 
 ---
 Daniel Paul O'Donnell
 Professor of English
 University of Lethbridge
 Lethbridge AB T1K 3M4
-Canada+1 403 393-2539
---===============2241988855121799499==
-Content-Type: text/html
+Canada
+
++1 403 393-2539
+
+
+
+--2241988855121799499Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWw+CiAgPGhlYWQ+CiAgICA8bWV0YSBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9VVRG
+Content-Disposition: attachment; filename�ttachment.html"
+MIME-Version: 1.0
+
+PGh0bWw+CiAgPGhlYWQ+CiAgICA8bWV0YSBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9VVRG
 LTgiIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSI+CiAgICA8bGluayBocmVmPSJjaHJvbWU6Ly90
 cmFuc2xhdG9yL3NraW4vZmxvYXRpbmdQYW5lbC5jc3MiCiAgICAgIHR5cGU9InRleHQvY3NzIiBy
 ZWw9InN0eWxlc2hlZXQiPgogIDwvaGVhZD4KICA8Ym9keSBiZ2NvbG9yPSIjRkZGRkZGIiB0ZXh0
@@ -708,4 +741,4 @@ dXRvOyB0b3A6IDIyOHB4OwogICAgICBkaXNwbGF5OiBub25lOyIgY2xhc3M9InRyYW5zbGF0b3It
 dGhlbWUtZGVmYXVsdCIKICAgICAgaWQ9InRyYW5zbGF0b3ItZmxvYXRpbmctcGFuZWwiPgogICAg
 ICA8ZGl2IHRpdGxlPSJDbGljayB0byB0cmFuc2xhdGUiCiAgICAgICAgaWQ9InRyYW5zbGF0b3It
 ZmxvYXRpbmctcGFuZWwtYnV0dG9uIj48L2Rpdj4KICAgIDwvZGl2PgogIDwvYm9keT4KPC9odG1s
-Pgo=
+Pgo

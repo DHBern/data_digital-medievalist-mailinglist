@@ -1,14 +1,22 @@
-Subject: [dm-l] TEI page breaks, line breaksI'm sorry, but this is a bit of a technical question. Please delete if 
-you hate those.I wonder if anyone who has worked with using TEI P3-4 to encode 
+Subject: [dm-l] TEI page breaks, line breaks
+
+I'm sorry, but this is a bit of a technical question. Please delete if 
+you hate those.
+
+I wonder if anyone who has worked with using TEI P3-4 to encode 
 manuscript or printed book transcriptions or editions could tell me if a 
 local standard among medievalists is developing for the use of 
 "milestone" elements that have to do with the arrangement of the 
-physical object, such as line break, column break and page break tags.Specifically, I'm wondering if the attributes given to these tags (such 
+physical object, such as line break, column break and page break tags.
+
+Specifically, I'm wondering if the attributes given to these tags (such 
 as 'n') usually refer to the page (line, etc.) following or the page 
 (line, etc.) preceding the milestone element. My *guess* is that these 
 breaks are usually connected to the text following, but I don't see a 
 logic in the tags themselves that would require that and my experience 
-of what people do is pretty limited to my own narrow part of the field.I should comment that part of my doubt stems from the way pb, lb, and cb 
+of what people do is pretty limited to my own narrow part of the field.
+
+I should comment that part of my doubt stems from the way pb, lb, and cb 
 are described in the Guidelines. Both pb and cb say "marks the boundary 
 between one . . . [X] and the next in a standard reference system," 
 apparently indicating that there should be an X already there before the 
@@ -22,5 +30,9 @@ text) is intended in any strong sense--probably at all--by the editors,
 by the way. Several milestone elements (milestone itself, handshift, 
 etc.) do make reasonably clear, either in their Guidelines description 
 or in the examples given, that they are meant to be used at the 
-beginning of a section of text to which they refer .Murray McGillivray
---===============7597923936186389060==--
+beginning of a section of text to which they refer .
+
+Murray McGillivray
+
+--7597923936186389060-
+

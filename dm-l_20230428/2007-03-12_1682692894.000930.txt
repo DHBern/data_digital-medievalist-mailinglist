@@ -1,19 +1,35 @@
-Subject:(apologies for cross posting)Hi all,In keeping with the TEI Call for Papers for their member's meeting (1-3
+Subject:
+
+(apologies for cross posting)
+
+Hi all,
+
+In keeping with the TEI Call for Papers for their member's meeting (1-3
 November 2007, University of Maryland), I would like to put together a
 proposal for a session on Markup as a theory of text. This topic came up
 on TEI several months ago and received some expressions of interest.
-Basically, I am wondering about two types of questions:1) What are the theoretical implications of digital markup for editors,
+Basically, I am wondering about two types of questions:
+
+1) What are the theoretical implications of digital markup for editors,
 paleographers, book historians, literary critics, linguists, etc. Are
 they different from, similar to, or of a completely different order from
-previous print practice?2) Are markup schemas theories of the structure of a text in the way
+previous print practice?
+
+2) Are markup schemas theories of the structure of a text in the way
 that linguistic theories are theories of language or literary theories
 are theories about literature? Do they/should they have theoretical
-lives of their own?Of course I'm open to other understandings of the topic and papers do
+lives of their own?
+
+Of course I'm open to other understandings of the topic and papers do
 not need to concentrate specifically, exclusively, or at all on the TEI.
-They can be broad ranging or concentrate on specific smaller issues.To keep with the TEI submission guidelines, I'd like to have abstracts
+They can be broad ranging or concentrate on specific smaller issues.
+
+To keep with the TEI submission guidelines, I'd like to have abstracts
 _redacted_(a)uleth.ca (*not* the address I am using to
 post to this mailing list) by March 26th, so that I have sufficient time
-to come up with a slate before the TEI's April 6 deadline.-dan
+to come up with a slate before the TEI's April 6 deadline.
+
+-dan
 -- 
 Daniel Paul O'Donnell, PhD
 Chair, Text Encoding Initiative <http://www.tei-c.org/>
@@ -23,4 +39,7 @@ University of Lethbridge
 Lethbridge AB T1K 3M4
 Vox: +1 403 329 2378
 Fax: +1 403 382-7191
-Homepage: http://people.uleth.ca/~daniel.odonnell/
+Homepage: http://people.uleth.ca/~daniel.odonnell/
+
+
+

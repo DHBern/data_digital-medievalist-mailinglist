@@ -1,14 +1,21 @@
-Subject: [dm-l] New Book: "Narrative Information"NEW BOOK: Apologies for multiple postings.Gian Piero ZARRI
+Subject: [dm-l] New Book: "Narrative Information"
+
+NEW BOOK: Apologies for multiple postings.
+
+Gian Piero ZARRI
 Representation and Management of Narrative Information, Theoretical 
 Principles and Implementation
 Series: Advanced Information and Knowledge Processing
 2009, X, 302 p. 55 illus., Hardcover
 ISBN: 978-1-84800-077-3
 Springer-Verlag London
-http://www.springer.com/computer/artificial/book/978-1-84800-077-3
+http://www.springer.com/computer/artificial/book/978-1-84800-077-3
+
 A big amount of important, economically relevant information, is buried 
 within the huge mass of multimedia documents that correspond to some 
-form of 'narrative' description.Due to the ubiquity of these narrative resources, representing in a 
+form of 'narrative' description.
+
+Due to the ubiquity of these narrative resources, representing in a 
 general, accurate, and effective way their semantic content - i.e., 
 their key 'meaning' - is then both conceptually relevant and 
 economically important. In this book, we present the main properties of 
@@ -26,7 +33,11 @@ knowledge representation principles, it also constitutes a source of
 reference for practitioners, researchers and graduates in domains that 
 range over narrative theories, linguistics and computational 
 linguistics, artificial intelligence, knowledge bases, information 
-retrieval, and languages for the ontologies and the semantic web.Contents:- Narratology and NKRL.
+retrieval, and languages for the ontologies and the semantic web.
+
+Contents:
+
+- Narratology and NKRL.
 - The notion of 'event' in an NKRL context.
 - Knowledge representation and NKRL.
 - Architecture of NKRL, the four 'components'.
@@ -38,20 +49,27 @@ retrieval, and languages for the ontologies and the semantic web.Contents:- 
 - High-level inference procedures.
 - Technological enhancements and theoretical enhancements.
 - Appendix A: NKRL software.
-- Appendix B: Plural entities in NKRL.
-Professional address of the author from February 1st, 2009:Gian Piero Zarri
+- Appendix B: Plural entities in NKRL.
+
+Professional address of the author from February 1st, 2009:
+
+Gian Piero Zarri
 University Paris-Est - LISSI Laboratory
 120-122, rue Paul Armangot
 94400 Vitry-sur-Seine
 France
 Phone: 33-1-41807383
 Fax: 33-1-41807369
-_redacted_(a)univ-paris12.fr
---===============2328158583417803971==
-Content-Type: text/html
+_redacted_(a)univ-paris12.fr
+
+
+
+--2328158583417803971Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PCFET0NUWVBFIGh0bWwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMDEgVHJhbnNpdGlvbmFs
+Content-Disposition: attachment; filenameúttachment.html"
+MIME-Version: 1.0
+
+PCFET0NUWVBFIGh0bWwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMDEgVHJhbnNpdGlvbmFs
 Ly9FTiI+CjxodG1sPgo8aGVhZD4KPC9oZWFkPgo8Ym9keSBiZ2NvbG9yPSIjZmZmZmZmIiB0ZXh0
 PSIjMDAwMDAwIj4KPGJpZz5ORVcgQk9PSzogQXBvbG9naWVzIGZvciBtdWx0aXBsZSBwb3N0aW5n
 cy48YnI+Cjxicj4KR2lhbiBQaWVybyBaQVJSSTxicj4KUmVwcmVzZW50YXRpb24gYW5kIE1hbmFn
@@ -106,4 +124,4 @@ MzgzPGJyPgpGYXg6IDMzLTEtNDE4MDczNjk8YnI+CkVtYWlsOiA8YSBjbGFzcz0ibW96LXR4dC1s
 aW5rLWFiYnJldmlhdGVkIiBocmVmPSJtYWlsdG86emFycmlAbm9vcy5mciI+emFycmlAbm9vcy5m
 cjwvYT4sCjxhIGNsYXNzPSJtb3otdHh0LWxpbmstYWJicmV2aWF0ZWQiCiBocmVmPSJtYWlsdG86
 Z2lhbi1waWVyby56YXJyaUB1bml2LXBhcmlzMTIuZnIiPmdpYW4tcGllcm8uemFycmlAdW5pdi1w
-YXJpczEyLmZyPC9hPjxicj4KPGJyPgo8L2JpZz4KPC9ib2R5Pgo8L2h0bWw+Cg==
+YXJpczEyLmZyPC9hPjxicj4KPGJyPgo8L2JpZz4KPC9ib2R5Pgo8L2h0bWw+Cg

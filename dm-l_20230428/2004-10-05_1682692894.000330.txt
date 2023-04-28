@@ -1,21 +1,33 @@
-Subject: [dm-l] How's this for a model for the future? (was: CharacterHello all,
+Subject: [dm-l] How's this for a model for the future? (was: Character
+
+Hello all,
 	I've just tried summarising today's discussion in a wiki entry. I'd be 
 interested in what people think of this as an approach to capturing 
 collective knowledge. Obviously we wouldn't have the time to summarise 
 every thread, and all this information is available in the mailing list 
 archive. But sometimes if one has had particular help from the list, it 
-might be useful to try writing up an entry.	This model is also good because it is bad (well, not perfect). I 
+might be useful to try writing up an entry.
+
+	This model is also good because it is bad (well, not perfect). I 
 haven't gone through and got character and glyph right; I don't know 
 what the UTF-8 encoding of U+00E6 actually looks like; there are 
 certainly more resources or better ways of saying things. Fortunately 
 one expects these things to change over time. I would be interested in 
 knowing if people have suggesting for indicating confidence in an entry 
 (i.e. the author's confidence). Does one indicate in the discussion tab 
-that it is a first draft or point out errors, uncertainties one knows exist?	If we had a standard system, people could every so often troll through 
-looking for things they know how to correct.-danP.S. Somebody at work was asking me how we enforce spelling standards on 
+that it is a first draft or point out errors, uncertainties one knows exist?
+
+	If we had a standard system, people could every so often troll through 
+looking for things they know how to correct.
+
+-dan
+
+P.S. Somebody at work was asking me how we enforce spelling standards on 
 a wiki, given how weird I spell (i.e. all that uber-canadian -ise 
 stuff). I told him one doesn't unless it really bugs one, and then one 
-does it oneself.Dieter Köhler wrote:
+does it oneself.
+
+Dieter Köhler wrote:
 > Hello Dan,
 > 
 > You may use my Open XML Editor ("http://www.philo.de/xmledit/") to 
@@ -83,7 +95,9 @@ _redacted_(a)uleth.ca
 >> http://listserv.uleth.ca/mailman/listinfo/dm-l
 > 
 > 
-> -- 
+> 
+
+-- 
 Daniel Paul O'Donnell, PhD
 Associate Professor of English
 University of Lethbridge
@@ -91,4 +105,7 @@ Lethbridge AB T1K 3M4
 Tel. (403) 329-2377
 Fax. (403) 382-7191
 _redacted_(a)uleth.ca>
-Home Page <http://people.uleth.ca/~daniel.odonnell/>
+Home Page <http://people.uleth.ca/~daniel.odonnell/>
+
+
+

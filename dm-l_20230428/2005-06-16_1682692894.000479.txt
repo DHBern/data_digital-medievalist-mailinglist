@@ -1,22 +1,48 @@
-Subject: Re: [dm-l] Concordancing Queries_redacted_(a)postgrad.manchester.ac.uk 06/16/05 11:42 AM 
+Subject: Re: [dm-l] Concordancing Queries
+
+_redacted_(a)postgrad.manchester.ac.uk 06/16/05 11:42 AM 
 Compared to all of the other concordancing tools I think that Watt's is
 the
 simplest to use.  Also, what's great about it is that it can handle
 characters such as <thorn> and <eth>.  A nice feature in the program is
 that you can save the results as an html document, but the drawback is
-that you cannot save it in xml or any other format except as text.  >>>Are there any concordance programs that allow you to convert to xml?
-Abdullah AlgerThere are several RTF to XML conversion applications online including: RTF2F0 XML Converter 
-http://www.rtf2fo.com/features.html RTF to XML 
-http://www.rtf-to-xml.com/features.htmlRTF to XML 5.2.1
-http://www.programmersheaven.com/zone16/cat290/35143.htmI must admit I have not used these, so I cannot vouch for their
+that you cannot save it in xml or any other format except as text.  
+
+>>>Are there any concordance programs that allow you to convert to xml?
+Abdullah Alger
+
+There are several RTF to XML conversion applications online including: 
+
+RTF2F0 XML Converter 
+http://www.rtf2fo.com/features.html 
+
+RTF to XML 
+http://www.rtf-to-xml.com/features.html
+
+RTF to XML 5.2.1
+http://www.programmersheaven.com/zone16/cat290/35143.htm
+
+I must admit I have not used these, so I cannot vouch for their
 effectiveness (or lack thereof); however, opening a text file (from
 Watt's Concordance) in Word, saving as RTF, then using a converter to
-create an XML file might work.---LaurieLaurie Ringer
+create an XML file might work.
+
+---Laurie
+
+Laurie Ringer
 Assistant Professor of English
 Canadian University College
 Lacombe, AB T4L 2E5
 (phone) 403.782.3381, ext. 4085
-(fax) 403.782.0735 _redacted_(a)liverpool.ac.uk>:> Hi Laurie,
+(fax) 403.782.0735 
+
+
+
+
+
+_redacted_(a)liverpool.ac.uk>:
+
+> Hi Laurie,
 >
 > I am still using TACT 1.2 when I need a concordance and I am happy to
 > answer TACT queries if I can.
@@ -136,7 +162,11 @@ _redacted_(a)uleth.ca
 > dm-l mailing list
 _redacted_(a)uleth.ca
 > http://listserv.uleth.ca/mailman/listinfo/dm-l
->_______________________________________________
+>
+
+
+
+_______________________________________________
 Digital Medievalist Project
 Homepage: http://www.digitalmedievalist.org
 Journal (Spring 2005-): http://www.digitalmedievalist.org/journal.cfm
@@ -149,4 +179,7 @@ Submit RSS announcement: http://www.digitalmedievalist.org/newitem.cfm
 _redacted_(a)uleth.ca
 dm-l mailing list
 _redacted_(a)uleth.ca
-http://listserv.uleth.ca/mailman/listinfo/dm-l
+http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+
+

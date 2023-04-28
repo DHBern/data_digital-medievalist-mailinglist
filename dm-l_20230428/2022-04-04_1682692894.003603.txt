@@ -1,17 +1,20 @@
-Subject: [dm-l] Stemming code/list for 15th century Middle English
-Hello all, This is a bit of a hail mary and likely doesn't exist currently, b=
-ut I don't suppose someone has or knows of a bit of stemming code (or already=
- extant list of stems) for Middle English? In particular 15th century Middle =
-English? I have a feeling I'm going to need to make it for my project and I'd=
- really like to not have to repeat work if one already exists. All the best,Matt--
+Subject: [dm-l] Stemming code/list for 15th century Middle English
+
+Hello all, This is a bit of a hail mary and likely doesn't exist currently, but I don't suppose someone has or knows of a bit of stemming code (or already extant list of stems) for Middle English? In particular 15th century Middle English? I have a feeling I'm going to need to make it for my project and I'd really like to not have to repeat work if one already exists. All the best,
+
+Matt
+
+--
 Dr. Matthew Evan Davis
-ZKS-Lendrum Assistant Professor (Research) in the Scientific Study of Manuscr=
-ipts and Inscriptions
+ZKS-Lendrum Assistant Professor (Research) in the Scientific Study of Manuscripts and Inscriptions
 Durham University
 Editor, The Minor Works of John Lydgate (http:www.minorworksoflydgate.net)
-_redacted_(a)durham.=
-ac.uk>
-Pronouns: he/himPGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
+_redacted_(a)durham.ac.uk>
+Pronouns: he/him
+
+
+
+PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
 eHQvaHRtbDsgY2hhcnNldD11dGYtOCI+CjwvaGVhZD4KPGJvZHk+CjxkaXYgc3R5bGU9ImJvcmRl
 cjpzb2xpZCAjNjQ2NDY0IDEuMHB0O3BhZGRpbmc6Mi4wcHQgMi4wcHQgMi4wcHQgMi4wcHQ7YmFj
 a2dyb3VuZDojRkZFQjlDIj4KPHAgY2xhc3M9Ik1zb05vcm1hbCIgc3R5bGU9ImxpbmUtaGVpZ2h0
@@ -57,4 +60,5 @@ dy5taW5vcndvcmtzb2ZseWRnYXRlLm5ldCI+aHR0cDp3d3cubWlub3J3b3Jrc29mbHlkZ2F0ZS5u
 ZXQ8L2E+KQpBY2FkZW1pYyBlbWFpbDogPGEgY2xhc3M9Im1vei10eHQtbGluay1hYmJyZXZpYXRl
 ZCIgaHJlZj0ibWFpbHRvOm1hdHRoZXcuZGF2aXMyQGR1cmhhbS5hYy51ayI+bWF0dGhldy5kYXZp
 czJAZHVyaGFtLmFjLnVrPC9hPgpQcm9ub3VuczogaGUvaGltPC9wcmU+CjwvZGl2Pgo8L2JvZHk+
-CjwvaHRtbD4K
+CjwvaHRtbD4K
+

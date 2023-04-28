@@ -1,49 +1,92 @@
-Subject: [dm-l] Advanced XML/TEI technologies - IDE-meets-DiXiT-Spring-SchoolDear digital medievalists,the following announcement might be of interest for editors among you...Best wishes,
-Franz/
-***Apologies//for cross-posting***/We are very pleased to announce the *Spring School* on */Advanced=20
-XML/TEI technologies for Digital Scholarly Editions/* organized and=20
-endorsed by the the Institute//for Documentology//and Digital=20
-Editing//(IDE) and the Digital Scholarly Editions Initial Training=20
-Network (DiXiT). The spring school will be run and held at the at the=20
-*Centre for Information Modelling =E2=80=93 Austrian Centre for Digital=20
-Humanities at the University of Graz *from *13th to 17th April 2015*.The spring school is directed to participants with previous experience=20
-in XML/TEI editing who would like to involve themselves more intensively=20
-with the creation of digital scholarly editions based on the=20
-international encoding standard XML TEI P5. Besides addressing specific=20
-issues and use cases of text encoding, the participants will be trained=20
-what to do with the data once the encoding is done and how to process it=20
-further until the publication on the WWW. To this end the teaching will=20
-strongly focus on XPath, XSLT, HTML and CSS as technologies for the web=20
-publication of digital scholarly editions.Since the level of this spring school is advanced, previous knowledge of=20
-TEI practices is not only recommended but necessary for participation*.*The lectures will be held by experts from the field of Digital Scholarly=20
-Editing, related to the DiXiT network or the IDE (James Cummings, Franz=20
-Fischer, Ulrike Henny, Frederike Neuber, Torsten Scha=C3=9Fan, Martina=20
-Semlak, Magdalena Turska, Gunter Vasold, Georg Vogeler). Tara Andrews=20
-(Univ. of Bern) has agreed to give a keynote.The School will cover the following areas:  * issues when working with XML TEI P5 (to be proposed by the participants)
+Subject: [dm-l] Advanced XML/TEI technologies - IDE-meets-DiXiT-Spring-School
+
+Dear digital medievalists,
+
+the following announcement might be of interest for editors among you...
+
+Best wishes,
+Franz
+
+/
+***Apologies//for cross-posting***/
+
+We are very pleased to announce the *Spring School* on */Advanced 
+XML/TEI technologies for Digital Scholarly Editions/* organized and 
+endorsed by the the Institute//for Documentology//and Digital 
+Editing//(IDE) and the Digital Scholarly Editions Initial Training 
+Network (DiXiT). The spring school will be run and held at the at the 
+*Centre for Information Modelling – Austrian Centre for Digital 
+Humanities at the University of Graz *from *13th to 17th April 2015*.
+
+The spring school is directed to participants with previous experience 
+in XML/TEI editing who would like to involve themselves more intensively 
+with the creation of digital scholarly editions based on the 
+international encoding standard XML TEI P5. Besides addressing specific 
+issues and use cases of text encoding, the participants will be trained 
+what to do with the data once the encoding is done and how to process it 
+further until the publication on the WWW. To this end the teaching will 
+strongly focus on XPath, XSLT, HTML and CSS as technologies for the web 
+publication of digital scholarly editions.
+
+Since the level of this spring school is advanced, previous knowledge of 
+TEI practices is not only recommended but necessary for participation*.*
+
+The lectures will be held by experts from the field of Digital Scholarly 
+Editing, related to the DiXiT network or the IDE (James Cummings, Franz 
+Fischer, Ulrike Henny, Frederike Neuber, Torsten Schaßan, Martina 
+Semlak, Magdalena Turska, Gunter Vasold, Georg Vogeler). Tara Andrews 
+(Univ. of Bern) has agreed to give a keynote.
+
+The School will cover the following areas:
+
+  * issues when working with XML TEI P5 (to be proposed by the participants)
   * customization of the TEI schema
   * creating web pages with HTML/CSS and JavaScript and JQuery
   * transforming the TEI XML with XSLT/XPath
   * publishing frameworks for digital scholarly editions
-  * use cases for research on and with digital scholarly editionsThe *IDE-/meets-/DiXiT//Spring School* on */Advanced XML/TEI=20
-technologies for Digital Scholarly Editions/* is open to interested=20
-scholars**anywhere in the world with previous experience in digital=20
-scholarly editing with the TEI. As the course will strongly focus on=20
-practical exercise, we can accept only applications which can bring own=20
-material for the exercises. All teaching will be in English.The course offers 20 positions. Participants will be required to arrange=20
-their own accommodation and travel to Graz. The participation fee will=20
-be 100 EUR. A limited number of bursaries will be available for the=20
-participation fee, travel and accommodation in particular for=20
-participants from less developed countries and from Eastern Europe.*Application closes on 10**^st **February 2015*and early registration is=20
-highly recommended.For the application we need from you  * your name, address, e-mail, institutional affiliation (if applicable)
+  * use cases for research on and with digital scholarly editions
+
+The *IDE-/meets-/DiXiT//Spring School* on */Advanced XML/TEI 
+technologies for Digital Scholarly Editions/* is open to interested 
+scholars**anywhere in the world with previous experience in digital 
+scholarly editing with the TEI. As the course will strongly focus on 
+practical exercise, we can accept only applications which can bring own 
+material for the exercises. All teaching will be in English.
+
+The course offers 20 positions. Participants will be required to arrange 
+their own accommodation and travel to Graz. The participation fee will 
+be 100 EUR. A limited number of bursaries will be available for the 
+participation fee, travel and accommodation in particular for 
+participants from less developed countries and from Eastern Europe.
+
+*Application closes on 10**^st **February 2015*and early registration is 
+highly recommended.
+
+For the application we need from you
+
+  * your name, address, e-mail, institutional affiliation (if applicable)
   * a short description of your project
   * this online questionnaire
-    <https://docs.google.com/forms/d/1-ndve0PQrcFwjaU21lhhX-1oybtx4mYD5pz-WsE=
-PYZ0/viewform>If you want to be considered for the bursary please give indicate  * approximate amount for travel and accommodation expenses
+    <https://docs.google.com/forms/d/1-ndve0PQrcFwjaU21lhhX-1oybtx4mYD5pz-WsEPYZ0/viewform>
+
+If you want to be considered for the bursary please give indicate
+
+  * approximate amount for travel and accommodation expenses
   * do you need a reduction on the participation fee?
   * academic status (graduate student, PhD student, PostDoc, fully
-    trained scholar, other)Please send your application and any question you have to=20
-_redacted_(a)uni-graz.at>We will publish further information on the school at=20
-http://www.i-d-e.de/aktivitaeten/schools/spring-school-2015PGh0bWw+CiAgPGhlYWQ+CgogICAgPG1ldGEgaHR0cC1lcXVpdj0iY29udGVudC10eXBlIiBjb250
+    trained scholar, other)
+
+Please send your application and any question you have to 
+_redacted_(a)uni-graz.at>
+
+We will publish further information on the school at 
+http://www.i-d-e.de/aktivitaeten/schools/spring-school-2015
+
+
+
+
+
+PGh0bWw+CiAgPGhlYWQ+CgogICAgPG1ldGEgaHR0cC1lcXVpdj0iY29udGVudC10eXBlIiBjb250
 ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9VVRGLTgiPgogIDwvaGVhZD4KICA8Ym9keSB0ZXh0PSIj
 MDAwMDAwIiBiZ2NvbG9yPSIjRkZGRkZGIj4KICAgIERlYXIgZGlnaXRhbCBtZWRpZXZhbGlzdHMs
 IDxicj4KICAgIDxkaXYgY2xhc3M9Im1vei1mb3J3YXJkLWNvbnRhaW5lciI+PGZvbnQ+PGJyPgog
@@ -246,4 +289,4 @@ Zm9ybWF0aW9uIG9uIHRoZSBzY2hvb2wgYXQgPGEgbW96LWRvLW5vdC1zZW5kPSJ0cnVlIgogICAg
 ICAgICAgICAgICAgaHJlZj0iaHR0cDovL3d3dy5pLWQtZS5kZS9ha3Rpdml0YWV0ZW4vc2Nob29s
 cy9zcHJpbmctc2Nob29sLTIwMTUiPmh0dHA6Ly93d3cuaS1kLWUuZGUvYWt0aXZpdGFldGVuL3Nj
 aG9vbHMvc3ByaW5nLXNjaG9vbC0yMDE1PC9hPjwvc3Bhbj48L2ZvbnQ+PC9wPgogICAgICA8L2Rp
-dj4KICAgIDwvZGl2PgogICAgPGJyPgogIDwvYm9keT4KPC9odG1sPgo=
+dj4KICAgIDwvZGl2PgogICAgPGJyPgogIDwvYm9keT4KPC9odG1sPgo

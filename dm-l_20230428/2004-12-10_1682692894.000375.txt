@@ -1,84 +1,118 @@
-Subject: Re: [dm-l] TAN: XSLT QuestionHere are the fragments in question (I know this is not interesting to 
+Subject: Re: [dm-l] TAN: XSLT Question
+
+Here are the fragments in question (I know this is not interesting to 
 everybody on the list, but it seems to fall within our ambit and might 
 be of interest to some. At any event, they come from the stylesheet for 
-our soon-to-be appearing journal):1) Extra namespace in the header:XSLT:   <xsl:template match="teiHeader">
-     <head profile="http://dublincore.org/documents/dcq-html/">_redacted_@import
+our soon-to-be appearing journal):
+
+1) Extra namespace in the header:
+
+XSLT:
+
+   <xsl:template matcheiHeader">
+     <head profilettp://dublincore.org/documents/dcq-html/">
+
+_redacted_@import
        url(http://people.uleth.ca/~daniel.odonnell/styles/screen.css); 
-</style>_redacted_@import
+</style>
+
+_redacted_@import
        url(http://people.uleth.ca/~daniel.odonnell/styles/print.css); 
-</style>       <xsl:apply-templates mode="header"/>     </head>
-   </xsl:template>Produces (note the unasked for <meta http-equiv...>):    <head xmlns="" profile="http://dublincore.org/documents/dcq-html/">
-       <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</style>
+
+       <xsl:apply-templates modeeader"/>
+
+     </head>
+   </xsl:template>
+
+Produces (note the unasked for <meta http-equiv...>):
+
+    <head xmlns profilettp://dublincore.org/documents/dcq-html/">
+       <meta http-equivüontent-Type" contentext/html; charsetf-8">
 _redacted_@import
        url(http://people.uleth.ca/~daniel.odonnell/styles/screen.css); 
 _redacted_@import
        url(http://people.uleth.ca/~daniel.odonnell/styles/print.css); 
-</style>
-2) Loss of empty tag closureXSLT   <xsl:template match="publicationStmt/publisher" mode="header">
-     <meta name="DC.publisher" content="{.}"/>
-   </xsl:template>   <xsl:template match="editionStmt/edition" mode="header">
-     <meta name="DCTERM.hasVersion" content="{.}"/>
-   </xsl:template>   <xsl:template match="fileDesc/extent" mode="header">
-     <meta name="DCTERM.extent" content="{.}"/>
-   </xsl:template>
-Produces (order is different due to source document element order):       <meta name="DCTERM.hasVersion" content="Submission Copy">
-       <meta name="DCTERM.extent" content="21 numbered paragraphs">
-       <meta name="DC.publisher" content="Curriculum Redevelopment 
-Centre, University of Lethbridge">
-XSLT
-<xsl:template match="text">
+</style>
+
+2) Loss of empty tag closure
+
+XSLT
+
+   <xsl:template matchublicationStmt/publisher" modeeader">
+     <meta nameýC.publisher" content.}"/>
+   </xsl:template>
+
+   <xsl:template matchþditionStmt/edition" modeeader">
+     <meta nameýCTERM.hasVersion" content.}"/>
+   </xsl:template>
+
+   <xsl:template matchileDesc/extent" modeeader">
+     <meta nameýCTERM.extent" content.}"/>
+   </xsl:template>
+
+Produces (order is different due to source document element order):
+
+       <meta nameýCTERM.hasVersion" contentubmission Copy">
+       <meta nameýCTERM.extent" contentò1 numbered paragraphs">
+       <meta nameýC.publisher" contentüurriculum Redevelopment 
+Centre, University of Lethbridge">
+
+XSLT
+
+<xsl:template matchext">
    <body>
-     <div class="frontmatter">
-       <xsl:for-each select="../teiHeader//titleStmt/title">
+     <div classrontmatter">
+       <xsl:for-each select./teiHeader//titleStmt/title">
          <h1>
-           <xsl:apply-templates select="." mode="titlepage"/>
+           <xsl:apply-templates select" modeitlepage"/>
          </h1>
        </xsl:for-each>
-       <xsl:for-each select="../teiHeader//titleStmt/author">
-         <p class="byline">
-           <xsl:apply-templates select="." mode="titlepage"/>
+       <xsl:for-each select./teiHeader//titleStmt/author">
+         <p classûyline">
+           <xsl:apply-templates select" modeitlepage"/>
          </p>
        </xsl:for-each>
      </div>
-     <div class="colophon">
+     <div classüolophon">
        <ul>
-         <xsl:for-each select="../teiHeader//titleStmt/editor">
+         <xsl:for-each select./teiHeader//titleStmt/editor">
            <xsl:choose>
-_redacted_@role='acceptingeditor'">
+_redacted_@roleúcceptingeditor'">
                <li><strong>Peer-Reviewed submission</strong></li>
                <li>Accepting editor: <br/>
-               <xsl:apply-templates select="."/></li>
+               <xsl:apply-templates select"/></li>
              </xsl:when>
-_redacted_@role='approvingreader'">
+_redacted_@roleúpprovingreader'">
                <li>Approving reader: <br/>
-               <xsl:apply-templates select="."/></li>
+               <xsl:apply-templates select"/></li>
              </xsl:when>
-_redacted_@role='commissioningeditor'">
+_redacted_@roleüommissioningeditor'">
                <li><strong>Commissioned submission</strong></li>
                <li>Commissioning editor:<br/>
-               <xsl:apply-templates select="."/></li>
+               <xsl:apply-templates select"/></li>
              </xsl:when>
              <xsl:otherwise>
              </xsl:otherwise>
            </xsl:choose>
          </xsl:for-each>
-         <xsl:for-each select="../teiHeader//publicationStmt/date">
+         <xsl:for-each select./teiHeader//publicationStmt/date">
            <xsl:choose>
-_redacted_@n='received'">
+_redacted_@neceived'">
                <li>Date received:<br/>
-               <xsl:apply-templates select="." mode="titlepage"/></li>
+               <xsl:apply-templates select" modeitlepage"/></li>
              </xsl:when>
-_redacted_@n='revised'">
+_redacted_@nevised'">
                <li>Date revised:<br/>
-               <xsl:apply-templates select="."/></li>
+               <xsl:apply-templates select"/></li>
              </xsl:when>
-_redacted_@n='accepted'">
+_redacted_@núccepted'">
                <li>Date accepted:<br/>
-               <xsl:apply-templates select="."/></li>
+               <xsl:apply-templates select"/></li>
              </xsl:when>
-_redacted_@n='published'">
+_redacted_@nublished'">
                <li>Date published:<br/>
-               <xsl:apply-templates select="."/></li>
+               <xsl:apply-templates select"/></li>
              </xsl:when>
              <xsl:otherwise>
              </xsl:otherwise>
@@ -88,19 +122,31 @@ _redacted_@n='published'">
      </div>
      <xsl:apply-templates/>
    </body>
-</xsl:template>Produces (note the extra xmlns="" on body):    <body xmlns="">
-       <div class="frontmatter">          <h1>{{title omitted}}</span></h1>
-          <p class="byline">{{author omitted}}</p>
-          <p class="byline">{{author omitted}}</p>
+</xsl:template>
+
+Produces (note the extra xmlns on body):
+
+    <body xmlns>
+       <div classrontmatter">
+
+          <h1>{{title omitted}}</span></h1>
+          <p classûyline">{{author omitted}}</p>
+          <p classûyline">{{author omitted}}</p>
        </div>
-       <div class="colophon">
+       <div classüolophon">
           <ul>
-             <li><strong>Commissioned Report</strong></li>             <li>Commissioning editor:<br>Daniel Paul O'Donnell
+             <li><strong>Commissioned Report</strong></li>
+
+             <li>Commissioning editor:<br>Daniel Paul O'Donnell
              </li>
              <li>Date received:<br>November 6, 2004
              </li>
           </ul>
-       </div>-danPeter Baker wrote:
+       </div>
+
+-dan
+
+Peter Baker wrote:
 > Dan,
 > 
 > If you could share the XSLT script, I'd be glad to have a look.
@@ -119,20 +165,20 @@ _redacted_@n='published'">
 >> I want a stylesheet to reproduce the following html tags (i.e. this is 
 >> what is in my sheet):
 >>
->> <head profile="http://www.url.net">
+>> <head profilettp://www.url.net">
 >>
 >> <br/>
 >>
->> <meta content="some content"/>
+>> <meta contentome content"/>
 >>
 >>
 >> What I get as an output is:
 >>
->> <head xmlns="" profile="http://www.url.net"> [i.e. extra namespace]
+>> <head xmlns profilettp://www.url.net"> [i.e. extra namespace]
 >>
 >> <br> [i.e. no solidus]
 >>
->> <meta content="some content"> [i.e. no solidus]
+>> <meta contentome content"> [i.e. no solidus]
 >>
 >> Anybody know why this happens or how to turn it off? It is the only 
 >> thing stopping my files from validating.
@@ -143,7 +189,9 @@ _redacted_@n='published'">
 >>
 >>
 >>
-> -- 
+> 
+
+-- 
 Daniel Paul O'Donnell, PhD
 Associate Professor of English
 University of Lethbridge
@@ -152,4 +200,7 @@ Tel. (403) 329-2377
 Fax. (403) 382-7191
 _redacted_(a)uleth.ca>
 Home Page <http://people.uleth.ca/~daniel.odonnell/>
-The Digital Medievalist Project: <http://www.digitalmedievalist.org/>
+The Digital Medievalist Project: <http://www.digitalmedievalist.org/>
+
+
+

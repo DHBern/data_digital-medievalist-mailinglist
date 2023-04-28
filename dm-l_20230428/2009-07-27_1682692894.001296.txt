@@ -1,11 +1,17 @@
-Subject: [dm-l] Fwd: [MEDTEXTL] beyond besic codicologyBob Peckham posted this to MedTextL, but I'm forwarding it here
+Subject: [dm-l] Fwd: [MEDTEXTL] beyond besic codicology
+
+Bob Peckham posted this to MedTextL, but I'm forwarding it here
 because I expect folks on this list might have some suggestions for
 scientific developments. I'm not sure if Bob is on DM so I'm cc:ing
 him on this, in reply please make sure that you "reply all" so he
-receives suggestions too.My own suggestion is the Archimedes Palimpsest project website
+receives suggestions too.
+
+My own suggestion is the Archimedes Palimpsest project website
 (http://www.archimedespalimpsest.org/). The palimpsest is from a
 ninth-century manuscript and many different techniques were used to
-bring out the text.There's also interesting work happening in digital approaches to
+bring out the text.
+
+There's also interesting work happening in digital approaches to
 palaeography and codicology (both in classics and in medieval
 studies). A recent conference, Kodikologie und Paläographie im
 Digitalen Zeitalter — Codicology and Palaeography in the Digital Age,
@@ -13,9 +19,13 @@ organized by the Institute of Documentology and Scholarly Editing
 (IDE) at Ludwig-Maximilians-Universität München had as its output (or
 input, more properly) a collection of essays on the topic, but I'm not
 sure if the collection is available online (Malte, can you say a bit
-more?).The Digital Medievalist journal has published a few articles on
+more?).
+
+The Digital Medievalist journal has published a few articles on
 digital approaches to palaeography, and also illustrations on how
-technologies can be used for research. See:Peter A. Stokes, "Palaeography and Image-Processing: Some Solutions
+technologies can be used for research. See:
+
+Peter A. Stokes, "Palaeography and Image-Processing: Some Solutions
 and Problems" DM 3 (2007-2008)
 http://www.digitalmedievalist.org/journal/3/stokes/
 Arianna Ciula, "Digital palaeography: using the digital representation
@@ -23,15 +33,23 @@ of medieval script to support palaeographic analysis" DM 1.1 (Spring
 2005) http://www.digitalmedievalist.org/journal/1.1/ciula/
 Kevin Kiernan, "The source of the Napier fragment of Alfred's
 Boethius" DM 1.1 (Spring 2005)
-http://www.digitalmedievalist.org/journal/1.1/kiernan/For catalogues and cataloguing projects, see the ENRICH project
+http://www.digitalmedievalist.org/journal/1.1/kiernan/
+
+For catalogues and cataloguing projects, see the ENRICH project
 (enrich.manuscriptorium.eu), a project to create a European-wide
 manuscripts catalogue (using the TEI manuscript description schema).
-Others on this list can say more about it than I can.I'll copy this onto the MedTextL as well.Dot
+Others on this list can say more about it than I can.
+
+I'll copy this onto the MedTextL as well.
+
+Dot
+
 ---------- Forwarded message ----------
 _redacted_(a)utm.edu>
 Date: Sun, Jul 26, 2009 at 11:53 PM
 Subject: [MEDTEXTL] beyond besic codicology
-_redacted_(a)listserv.illinois.edu
+_redacted_(a)listserv.illinois.edu
+
 I am working on the section of the Any Holt Library which will be
 similar to what I have done with incunabula. This will be for medieval
 manuscripts. The first page will feature how scholars deal with
@@ -41,15 +59,25 @@ developments: techniques for identifying and examining a palimpsest,
 what DNA analysis id doing for manuscript study. Where do I go to find
 online material for these? I will include a page on catalogs and
 cataloging projects, and I will include the work I have already done
-withCONSULTING MEDIEVAL MANUSCRIPTS
-http://webpages.charter.net/tbob/medmss.htmlTBobRobert D. Peckham, Ph.D
+with
+
+CONSULTING MEDIEVAL MANUSCRIPTS
+http://webpages.charter.net/tbob/medmss.html
+
+TBob
+
+Robert D. Peckham, Ph.D
 Professor of French
 Chair, AATF Commission on Advocacy
 Director, Globe-Gate Intercultural Web Project
 Director, Andy Holt Virtual Library
 Department of English and Modern Foreign Languages
 Univ. of Tennessee at Martin / Martin TN 38238
-_redacted_(a)utm.edu-- 
+_redacted_(a)utm.edu
+
+
+
+-- 
 *~*~*~*~*~*~*~*~*~*~*
 Dot Porter (MA, MSLS)          Metadata Manager
 Digital Humanities Observatory (RIA), Regus House, 28-32 Upper
@@ -57,5 +85,7 @@ Pembroke Street, Dublin 2, Ireland
 -- A Project of the Royal Irish Academy --
 Phone: +353 1 234 2444        Fax: +353 1 234 2400
 _redacted_(a)gmail.com
-*~*~*~*~*~*~*~*~*~*~*
---===============7624350443247823070==--
+*~*~*~*~*~*~*~*~*~*~*
+
+--7624350443247823070-
+

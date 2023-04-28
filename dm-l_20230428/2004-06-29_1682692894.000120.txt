@@ -1,13 +1,23 @@
-Subject: Re: [dm-l] PDF markup?I'm also not aware of any direct XSLT or XSL-FO conversion to .pdf that 
+Subject: Re: [dm-l] PDF markup?
+
+I'm also not aware of any direct XSLT or XSL-FO conversion to .pdf that 
 doesn't require a processor, but that's true of any XSL transform, it's 
 just that Formatting Objects require something different. The Apache 
 conversion engine (FOP for Formatting Object Processor) is the best 
 known and is at http://xml.apache.org/fop/index.html. It takes an XML 
 document formatted using XSL-FO as its input. Apache FOP is also being 
 built into some other products, like the Oxygen XML editor--see 
-http://www.oxygenxml.com/doc/HowToCreatePDFUsingTEI.pdf You can look at any .pdf in a text editor and (depending on the 
+http://www.oxygenxml.com/doc/HowToCreatePDFUsingTEI.pdf 
+
+You can look at any .pdf in a text editor and (depending on the 
 complexity of the .pdf and the proportion that's encoded as 
-byte-streams) see much of the coding. Yikes.MurrayJeffrey Fisher wrote:> there are server utilities that convert html to pdf on the fly. i 
+byte-streams) see much of the coding. Yikes.
+
+Murray
+
+Jeffrey Fisher wrote:
+
+> there are server utilities that convert html to pdf on the fly. i 
 > don't think you can do that with a stylesheet.
 >
 > j
@@ -42,5 +52,9 @@ _redacted_(a)uleth.ca
 > _______________________________________________
 > dm-l mailing list
 _redacted_(a)uleth.ca
-> http://listserv.uleth.ca/mailman/listinfo/dm-l
---===============7469176432282095815==--
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+
+
+--7469176432282095815-
+

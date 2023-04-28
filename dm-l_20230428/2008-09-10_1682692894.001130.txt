@@ -1,38 +1,58 @@
-Subject: [dm-l] Postdoctoral Fellow in Early Modern Textual Studies andPostdoctoral Fellow in Early Modern Textual Studies and Digital Humanities
-(2009-11)The Electronic Textual Cultures Laboratory  (ETCL) [URL: <
+Subject: [dm-l] Postdoctoral Fellow in Early Modern Textual Studies and
+
+Postdoctoral Fellow in Early Modern Textual Studies and Digital Humanities
+(2009-11)
+
+The Electronic Textual Cultures Laboratory  (ETCL) [URL: <
 http://etcl.uvic.ca/ >] at the University of Victoria has an exciting
 two-year postdoctoral opportunity for a candidate with a background in early
 modern literary and textual studies, expertise in computing, and an interest
-in the digital humanities field.The postdoctoral fellow will be key in the development of a professional
+in the digital humanities field.
+
+The postdoctoral fellow will be key in the development of a professional
 reading environment designed to respond to the needs of those working with
 early modern books and manuscripts. Source material for this work will be
 derived from our work on the Devonshire Manuscript (BL Add MS 17,492) and
 our ongoing work with professional reading environments in number of related
-projects.The successful candidate will have skills and aptitudes in early modern
+projects.
+
+The successful candidate will have skills and aptitudes in early modern
 research, textual studies, and scholarly editing in a digital humanities
 context, including training or demonstrated experience working with TEI XML
 and digital editions. Organizational skills are essential. Interest and
 aptitude in research planning and management would be an asset. The ability
-to work in concert with our existing team is a critical requirement.Examples of technologies employed in related ETCL projects are as follows:
+to work in concert with our existing team is a critical requirement.
+
+Examples of technologies employed in related ETCL projects are as follows:
 TEI P5; XML, XSLT, XSL and XHTML encoding; XQuery; eXist XML databases;
 JavaScript; Ruby on Rails; PHP; CSS; and web-based SQL database projects
 using PostgresSQL and mySQL. Experience in some or all of these areas would
 be an asset, but is not a requirement, though aptitude with digital tools is
-required.Our current team members pride themselves on a passionate interest in both
+required.
+
+Our current team members pride themselves on a passionate interest in both
 the humanities and their computation engagement. Our ideal candidate is
 someone with similar passions who can introduce the team to new ideas and
-provide new perspectives on existing digital humanities issues.Salary for this position is competitive in the Canadian context, and is
+provide new perspectives on existing digital humanities issues.
+
+Salary for this position is competitive in the Canadian context, and is
 governed in part by SSHRC practices; combined with a local supplement, the
 annual salary for this position is expected to be $52,000, inclusive of
-benefits and travel allowances.Applications, comprising a brief cover letter, CV, and the names and contact
+benefits and travel allowances.
+
+Applications, comprising a brief cover letter, CV, and the names and contact
 information for three referees, may be sent electronically to
 _redacted_(a)gmail.com>.  Applications will be received and reviewed until
-the position is filled; the position can begin as early as January 2009.
---===============0203854262914612093==
-Content-Type: text/html
+the position is filled; the position can begin as early as January 2009.
+
+
+
+--0203854262914612093Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWwgeG1sbnM6dj0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTp2bWwiIHhtbG5zOm89InVy
+Content-Disposition: attachment; filenameúttachment.html"
+MIME-Version: 1.0
+
+PGh0bWwgeG1sbnM6dj0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTp2bWwiIHhtbG5zOm89InVy
 bjpzY2hlbWFzLW1pY3Jvc29mdC1jb206b2ZmaWNlOm9mZmljZSIgeG1sbnM6dz0idXJuOnNjaGVt
 YXMtbWljcm9zb2Z0LWNvbTpvZmZpY2U6d29yZCIgeG1sbnM6eD0idXJuOnNjaGVtYXMtbWljcm9z
 b2Z0LWNvbTpvZmZpY2U6ZXhjZWwiIHhtbG5zOnA9InVybjpzY2hlbWFzLW1pY3Jvc29mdC1jb206
@@ -131,4 +151,4 @@ cyB3aWxsIGJlIHJlY2VpdmVkIGFuZCByZXZpZXdlZCB1bnRpbCB0aGUgcG9zaXRpb24gaXMgZmls
 bGVkOyB0aGUgcG9zaXRpb24KY2FuIGJlZ2luIGFzIGVhcmx5IGFzIEphbnVhcnkgMjAwOS48L3Nw
 YW4+PC9mb250Pjxmb250IHNpemU9MiBmYWNlPUFyaWFsPjxzcGFuCnN0eWxlPSdmb250LXNpemU6
 MTAuMHB0O2ZvbnQtZmFtaWx5OkFyaWFsJz48bzpwPjwvbzpwPjwvc3Bhbj48L2ZvbnQ+PC9wPgoK
-PC9kaXY+Cgo8L2JvZHk+Cgo8L2h0bWw+Cg==
+PC9kaXY+Cgo8L2JvZHk+Cgo8L2h0bWw+Cg

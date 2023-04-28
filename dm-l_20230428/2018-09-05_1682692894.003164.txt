@@ -1,10 +1,27 @@
-Subject: [dm-l] CFP Graph Technologies in the Digital Humanities (18-19Dear Colleagues,I kindly would like to point you to the CFP for a conference on Graph
-Technologies in DH inlined below.The full call is also online and downloadable at
-https://graphentechnologien.hypotheses.org/tagungen/graphentechnologien-2019Apologies for possible cross posting.Kind regards
---Joris van Zundert
+Subject: [dm-l] CFP Graph Technologies in the Digital Humanities (18-19
+
+Dear Colleagues,
+
+I kindly would like to point you to the CFP for a conference on Graph
+Technologies in DH inlined below.
+
+The full call is also online and downloadable at
+https://graphentechnologien.hypotheses.org/tagungen/graphentechnologien-2019
+
+Apologies for possible cross posting.
+
+Kind regards
+--Joris van Zundert
+
 # Modellierung, Erschließung, Vergleich: Graphen in den Digitalen
-Geisteswissenschaften ### Call for papers (English version: see below)## Tagung am 18. und 19. Januar 2019 in der Akademie der Wissenschaften und
-der Literatur, MainzGraphdatenbanken werden seit einigen Jahren in Forschungsvorhaben zur
+Geisteswissenschaften #
+
+## Call for papers (English version: see below)
+
+## Tagung am 18. und 19. Januar 2019 in der Akademie der Wissenschaften und
+der Literatur, Mainz
+
+Graphdatenbanken werden seit einigen Jahren in Forschungsvorhaben zur
 Modellierung von Forschungsdaten und erschließendem Wissen genutzt.
 Infolgedessen sehen wir jetzt eine weit verbreitete Erforschung ihres
 Potenzials in den Geisteswissenschaften: Graphen werden verwendet um
@@ -14,14 +31,22 @@ relationale oder auch auf XML beruhende Forschungsdatenrepositorien. In den
 verschiedenen Anwendungszusammenhängen werden heterogene
 Modellierungsansätze verfolgt. Diese verschiedenen Modellierungsansätze
 sollen im Rahmen der Tagung als erster Schritt für eine denkbare
-Harmonisierung vorgestellt und diskutiert werden.Ziel der Tagung ist es, ein breites Spektrum an Möglichkeiten für
+Harmonisierung vorgestellt und diskutiert werden.
+
+Ziel der Tagung ist es, ein breites Spektrum an Möglichkeiten für
 graph-basierte Anwendungen in den Geisteswissenschaften aufzuzeigen. Dabei
 steht die Vielfalt der Modellierungsansätze und Anwendungen im Vordergrund,
 gleichzeitig soll die Möglichkeit der Generalisierung von Datenstrukturen
 für verschiedene Anwendungsbereiche untersucht werden. Die Konferenz wird
 sich daher sowohl auf eine Vielzahl von kreativen Ansätzen als auch auf die
 Identifizierung von Gemeinsamkeiten für die community-getriebene
-Entwicklung geisteswissenschaftlicher Graphmodelle konzentrieren.Die geplante Tagung widmet sich folgenden Schwerpunkten:1. Flexibilität versus Interoperabilität   Graphstrukturen ermöglichen es, hochspezifische Daten, Informationen und
+Entwicklung geisteswissenschaftlicher Graphmodelle konzentrieren.
+
+Die geplante Tagung widmet sich folgenden Schwerpunkten:
+
+1. Flexibilität versus Interoperabilität
+
+   Graphstrukturen ermöglichen es, hochspezifische Daten, Informationen und
 Interpretationen auszudrücken. Dies erleichtert die
 geisteswissenschaftliche Forschung, die sich durch heterogene Daten,
 situierte Interpretation, komplexe Forschungsfragen und projektspezifische
@@ -30,7 +55,9 @@ Forschungseinrichtungen, Datenrepositorien, Forschungsinfrastrukturen und
 digitale Archive eine Standardisierung der Daten und die Interoperabilität
 der Werkzeuge, um deren Nachhaltigkeit und Wiederverwendung zu erleichtern.
 Stehen diese beiden Merkmale grundsätzlich im Widerspruch zueinander, oder
-können sie unterschiedliche Seiten derselben Medaille sein?2. Generische Strukturen
+können sie unterschiedliche Seiten derselben Medaille sein?
+
+2. Generische Strukturen
    Der zweite Schwerpunkt schließt sich unmittelbar an und behandelt
 Erschließungsstrukturen im Graphen. Wie könnten möglichst einfache,
 generische Strukturen aussehen, aus denen heraus sich dann
@@ -38,7 +65,9 @@ disziplinenspezifische Annotationssysteme entwickeln lassen. Wie sieht eine
 minimale, nachhaltige geisteswissenschaftlich orientierte generische
 Graphendatenstruktur aus, und ist es mit einer solchen Struktur möglich,
 die hochspezifische Semantik zu unterstützen, die die
-geisteswissenschaftliche Forschungen erfordern?3. Recherchestrategien
+geisteswissenschaftliche Forschungen erfordern?
+
+3. Recherchestrategien
    Aus Sicht der Interoperabilität sind vergleichende Abfragestrategien für
 verschiedene Forschungsdatenrepositorien von größter Bedeutung. Es gibt
 mehrere graphenorientierte Abfragesprachen (z.B. GraphQL, OpenCypher,
@@ -46,15 +75,21 @@ Gremlin, SPARQL), aber welche Anforderungen sollten an eine speziell auf
 geisteswissenschaftliche Forschungsdaten und Fragestellungen ausgerichtete
 Graphenabfragesprache gestellt werden? Wie können solche Strategien
 aussehen? Gibt es Möglichkeiten hier disziplinübergreifende Ansätze zu
-finden?Im Mittelpunkt der Tagung stehen also der Austausch über
+finden?
+
+Im Mittelpunkt der Tagung stehen also der Austausch über
 Anwendungsszenarien von Graphentechnologien, nicht zuletzt um
 Doppelentwicklungen zu vermeiden und das Community-Building rund um
-Graphentechnologien.Insbesondere begrüßt werden Vorschläge zu theoretischen Ansätzen, die sich
+Graphentechnologien.
+
+Insbesondere begrüßt werden Vorschläge zu theoretischen Ansätzen, die sich
 im Wesentlichen mit einem dieser Schlüsselthemen befassen, sowie
 praxisorientierte Arbeiten, die die praktische Anwendung von
 Graphentechnologien auf geisteswissenschaftliche Forschungsarbeiten zu
 diesen Themen beschreiben bzw. praktische technische Lösungen und Ansätze
-zu diesen Schlüsselfragen oder verwandten Themen wie zum Beispiel:* Graphenbasierte Datenmodelle, theoretische und praktische Untersuchungen
+zu diesen Schlüsselfragen oder verwandten Themen wie zum Beispiel:
+
+* Graphenbasierte Datenmodelle, theoretische und praktische Untersuchungen
 * Anwendungen von Graphentechnologien in den Geisteswissenschaften
 * Text als Graph (TAG)
 * Lösungen zur Abfrage und zum Vergleich verschiedener Graphenmodelle
@@ -72,28 +107,48 @@ Analyse sozialer Netzwerke hinausgehen
 * Technische Lösungsansätze zur Analyse, Traversierung und Abfrage von
 graph-basierter Datenstrukturen in spezifischen geisteswissenschaftlichen
 Forschungskontexten
-* Vergleich und Interpretation von Graphen, Teilgraphen und graph traversalsInteressierte werden gebeten, ein kurzes Abstract in Deutsch oder Englisch
+* Vergleich und Interpretation von Graphen, Teilgraphen und graph traversals
+
+Interessierte werden gebeten, ein kurzes Abstract in Deutsch oder Englisch
 (ca. 300 bis max. 500 Wörter, exkl. Literaturhinweise) bis einschließlich
 _redacted_(a)adwmainz.de zu mailen. Eine
 Benachrichtigung über die Annahme des Beitrags wird bis zum 25.11.2018
 erfolgen. Die Autoren der angenommenen Beiträge werden gebeten eine
 20-minütige Präsentation vorzubereiten, an der sich eine kurze Diskussion
-anschließen kann.Die Keynote hält Prof. Dr. Thomas Stäcker, Direktor der Staats- und
-Universitätsbibliothek Darmstadt.Die Organisatoren der Konferenz bemühen sich um die Finanzierung der
+anschließen kann.
+
+Die Keynote hält Prof. Dr. Thomas Stäcker, Direktor der Staats- und
+Universitätsbibliothek Darmstadt.
+
+Die Organisatoren der Konferenz bemühen sich um die Finanzierung der
 Reisekosten für die Vortragenden jedes angenommenen Beitrags (ein
-Stipendium pro Beitrag).Die vorgestellten Beiträge werden online veröffentlicht, das
+Stipendium pro Beitrag).
+
+Die vorgestellten Beiträge werden online veröffentlicht, das
 Programmkomitee beabsichtigt jedoch, ausgewählte Beiträge in einer
-geeigneten Peer-Review-Publikation zu veröffentlichen.### Programmkomitee
+geeigneten Peer-Review-Publikation zu veröffentlichen.
+
+### Programmkomitee
 Prof. Dr. Tara Andrews (Universität Wien)
 Dr. Andreas Kuczera (Akademie der Wissenschaften und der Literatur Mainz)
 Dr. Thomas Efer (Universität Leipzig)
 Franziska Diehr (Stiftung Preußischer Kulturbesitz, Berlin)
 Dr. Elena Spadini (University of Lausanne)
 Drs. Joris van Zundert (Huygens Institute for the History of the
-Netherlands, Amsterdam)#### English Version# Graph Technologies in the Digital Humanities: Modelling, Access,
-Comparison## Call for papers for a two day international exploratory conference
+Netherlands, Amsterdam)
+
+
+
+#### English Version
+
+# Graph Technologies in the Digital Humanities: Modelling, Access,
+Comparison
+
+## Call for papers for a two day international exploratory conference
 organized by the Akademie der Wissenschaften und der Literatur in Mainz,
-18–19 January 2019.Although graph models as a computing technology are several decades old, it
+18–19 January 2019.
+
+Although graph models as a computing technology are several decades old, it
 is only through advancement of generally available computing capacity in
 the last few years that the application of graph models has become feasible
 for many humanities projects. As a result we are now seeing a widespread
@@ -105,14 +160,20 @@ The exploratory state of graph application in the humanities is marked by a
 great variety of modelling approaches and various understandings of graphs
 as data and information structures. These different modelling approaches
 are to be presented and discussed at the conference as a first step towards
-conceivable harmonisation.The purpose of this conference is to cast a wide net, soliciting
+conceivable harmonisation.
+
+The purpose of this conference is to cast a wide net, soliciting
 contributions that represent the many applications that humanities
 researchers are currently finding for graphs. While keeping the rich
 variation in modeling approaches and applications in the foreground, we aim
 at the same time to explore the possibility of generalizing data structures
 for different application domains. The conference will thus focus both on
 celebrating a multitude of creative approaches and on identifying common
-ground for community-driven development of humanities-specific graph models.Key topics of the conference include:1. Flexibility versus Interoperability
+ground for community-driven development of humanities-specific graph models.
+
+Key topics of the conference include:
+
+1. Flexibility versus Interoperability
    Graphs are versatile structures able to express highly specific data,
 information, and interpretation. This facilitates humanities research,
 marked as it is by heterogeneous data, situated interpretation, complex
@@ -121,25 +182,33 @@ same time research institutions, data repositories, research
 infrastructures, and digital archives require standardization of data and
 interoperability of tools to facilitate their sustainability and reuse. Are
 these two features fundamentally at odds with each other, or can they be
-different sides of the same coin?2. Generalization
+different sides of the same coin?
+
+2. Generalization
    Closely related to the first key topic is the question of modelling in
 graph structures and possibilities of generalization. Can we define generic
 terms, concepts, and structures  from which discipline-specific annotation
 systems can then be developed? What does a minimally-sustainable
 humanities-oriented generic graph data structure look like, and is it
 possible with such a structure to support the highly specific semantics
-required by most humanities research?3. Approaches to Querying and Access
+required by most humanities research?
+
+3. Approaches to Querying and Access
    To support different research strategies it is paramount that
 interoperable research data repositories support adaptable query and
 information retrieval approaches. Several graph-oriented query languages
 exist (e.g. GraphQL, OpenCypher, Gremlin, SPARQL), but what requirements
 should be set for a graph query language geared especially towards
 humanities research data and questions? What can such strategies look like?
-Are there opportunities to find interdisciplinary approaches here?We welcome proposals for theoretical papers that engage substantially with
+Are there opportunities to find interdisciplinary approaches here?
+
+We welcome proposals for theoretical papers that engage substantially with
 any of these key topics, as well as for practice-based papers that describe
 the practical application of graph technologies to humanities research work
 to these topics and/or argue practical engineering solutions and approaches
-to these key questions or related topics such as:* Graph-based data models, theoretical and practical explorations
+to these key questions or related topics such as:
+
+* Graph-based data models, theoretical and practical explorations
 * Applications of graph technologies in the humanities
 * Text-as-Graph (TAG)
 * Solutions for query and comparison of different graph models
@@ -155,23 +224,39 @@ information
 social network analysis
 * Engineering solutions to analysis, traversal, querying graph structure
 data in specific humanities research contexts
-* The comparison and interpretation of graphs, subgraphs, and traversalsProposals (between 300 and 500 words, excluding bibliographic references)
+* The comparison and interpretation of graphs, subgraphs, and traversals
+
+Proposals (between 300 and 500 words, excluding bibliographic references)
 _redacted_(a)adwmainz.de by 15 October 2018.
 Abstracts may be submitted in English or German. Notification of acceptance
 or rejection will be sent out on 25 November 2018. Authors of successful
 submissions will be allotted 20 minutes for their presentations, as well as
-a few minutes for discussion thereafter.A keynote by Prof. Dr. Thomas Stäcker, Director of the State and University
-Library in Darmstadt, will be presented at the conference.The organizers of the conference are seeking funding to support travel
-costs for the presenters of each accepted paper (one bursary per paper).Presented papers will be published on line at the very least, however the
+a few minutes for discussion thereafter.
+
+A keynote by Prof. Dr. Thomas Stäcker, Director of the State and University
+Library in Darmstadt, will be presented at the conference.
+
+The organizers of the conference are seeking funding to support travel
+costs for the presenters of each accepted paper (one bursary per paper).
+
+Presented papers will be published on line at the very least, however the
 program committee intends to publish selected papers in a suitable peer
-reviewed publication.### Program Committee:
+reviewed publication.
+
+### Program Committee:
 Prof. Dr. Tara Andrews (Universität Wien)
 Dr. Andreas Kuczera (Akademie der Wissenschaften und der Literatur Mainz)
 Dr. Thomas Efer (Universität Leipzig)
 Franziska Diehr (Stiftung Preußischer Kulturbesitz, Berlin)
 Dr. Elena Spadini (University of Lausanne)
 Drs. Joris van Zundert (Huygens Institute for the History of the
-Netherlands, Amsterdam)--PGRpdiBkaXI9Imx0ciI+PGRpdj5EZWFyIENvbGxlYWd1ZXMswqA8YnI+PC9kaXY+PGRpdj48YnI+
+Netherlands, Amsterdam)
+
+--
+
+
+
+PGRpdiBkaXI9Imx0ciI+PGRpdj5EZWFyIENvbGxlYWd1ZXMswqA8YnI+PC9kaXY+PGRpdj48YnI+
 PC9kaXY+PGRpdj5JIGtpbmRseSB3b3VsZCBsaWtlIHRvIHBvaW50IHlvdSB0byB0aGUgQ0ZQIGZv
 ciBhIGNvbmZlcmVuY2Ugb24gR3JhcGggVGVjaG5vbG9naWVzIGluIERIIGlubGluZWQgYmVsb3cu
 wqA8L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2PlRoZSBmdWxsIGNhbGwgaXMgYWxzbyBvbmxpbmUg
@@ -424,4 +509,4 @@ KTwvZGl2PjxkaXY+RnJhbnppc2thIERpZWhyIChTdGlmdHVuZyBQcmV1w59pc2NoZXIgS3VsdHVy
 YmVzaXR6LCBCZXJsaW4pPC9kaXY+PGRpdj5Eci4gRWxlbmEgU3BhZGluaSAoVW5pdmVyc2l0eSBv
 ZiBMYXVzYW5uZSk8L2Rpdj48ZGl2PkRycy4gSm9yaXMgdmFuIFp1bmRlcnQgKEh1eWdlbnMgSW5z
 dGl0dXRlIGZvciB0aGUgSGlzdG9yeSBvZiB0aGUgTmV0aGVybGFuZHMsIEFtc3RlcmRhbSk8L2Rp
-dj48ZGl2Pjxicj48L2Rpdj48ZGl2Pi0tPC9kaXY+PGRpdj48YnI+PC9kaXY+PC9kaXY+Cg==
+dj48ZGl2Pjxicj48L2Rpdj48ZGl2Pi0tPC9kaXY+PGRpdj48YnI+PC9kaXY+PC9kaXY+Cg

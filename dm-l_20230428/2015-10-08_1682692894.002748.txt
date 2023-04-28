@@ -1,5 +1,17 @@
-Subject:**Apologies for cross-posting & please distribute freely and widely!** Programmer Analyst for the Schoenberg Database of ManuscriptsSchoenberg Institute for Manuscript Studies at the University of
-Pennsylvania Libraries With a growing collection of over 225,000 records representing
+Subject:
+
+**Apologies for cross-posting & please distribute freely and widely!**
+
+ 
+
+Programmer Analyst for the Schoenberg Database of Manuscripts
+
+Schoenberg Institute for Manuscript Studies at the University of
+Pennsylvania Libraries
+
+ 
+
+With a growing collection of over 225,000 records representing
 approximately 100,000 manuscripts, the Schoenberg Database of Manuscripts
 (SDBM <http://dla.library.upenn.edu/dla/schoenberg/index.html> ) is the
 largest freely available repository of data on manuscript books produced
@@ -16,13 +28,31 @@ providing web, mobile, and application interfaces for the discovery,
 access, and entry of manuscript data, using the Ruby on Rails framework,
 jQuery, Blacklight, and AngularJS. The PA will also work with Library
 Technology Services (LTS) to integrate the New SDBM with the Library's
-Digital Library Architecture (DLA).For more information on requirements and salary and to apply, go to:
-https://jobs.hr.upenn.edu/postings/13447(IT Graded Rank: B; Ref. no: 50-21143)    
---===============3033257489353563317==
-Content-Type: text/html
+Digital Library Architecture (DLA).
+
+
+
+For more information on requirements and salary and to apply, go to:
+https://jobs.hr.upenn.edu/postings/13447
+
+(IT Graded Rank: B; Ref. no: 50-21143)
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+--3033257489353563317Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWwgeG1sbnM6dj0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTp2bWwiIHhtbG5zOm89InVy
+Content-Disposition: attachment; filenameúttachment.html"
+MIME-Version: 1.0
+
+PGh0bWwgeG1sbnM6dj0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTp2bWwiIHhtbG5zOm89InVy
 bjpzY2hlbWFzLW1pY3Jvc29mdC1jb206b2ZmaWNlOm9mZmljZSIgeG1sbnM6dz0idXJuOnNjaGVt
 YXMtbWljcm9zb2Z0LWNvbTpvZmZpY2U6d29yZCIgeG1sbnM6bT0iaHR0cDovL3NjaGVtYXMubWlj
 cm9zb2Z0LmNvbS9vZmZpY2UvMjAwNC8xMi9vbW1sIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcv
@@ -97,4 +127,5 @@ PSdjb2xvcjpibGFjayc+KElUIEdyYWRlZCBSYW5rOiBCOyBSZWYuIG5vOiA8L3NwYW4+NTAtMjEx
 NDMpPG86cD48L286cD48L3A+PHAgY2xhc3M9TXNvTm9ybWFsPjxvOnA+Jm5ic3A7PC9vOnA+PC9w
 PjxwIGNsYXNzPU1zb05vcm1hbD48bzpwPiZuYnNwOzwvbzpwPjwvcD48cCBjbGFzcz1Nc29Ob3Jt
 YWw+PG86cD4mbmJzcDs8L286cD48L3A+PHAgY2xhc3M9TXNvTm9ybWFsPjxvOnA+Jm5ic3A7PC9v
-OnA+PC9wPjwvZGl2PjwvYm9keT48L2h0bWw+
+OnA+PC9wPjwvZGl2PjwvYm9keT48L2h0bWw+
+

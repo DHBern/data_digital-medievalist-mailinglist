@@ -1,24 +1,50 @@
-Subject: [dm-l] CFP : "Ancient documents and automatic handwritingDear all,We are pleased to announce the opening of our call for proposals for the symp=
-osium "Ancient documents and automatic handwriting recognition", June 23 and =
-24, 2022 at the =C3=89cole nationale des chartes in Paris.This symposium will propose to discuss HTR while articulating it to scientifi=
-c problems of constitution and/or exploitation of corpora. We wish to questio=
-n the practical aspects of this technology (development of HTR engines, trans=
-cription interface, user interface to use and train models, etc.), while rais=
-ing its methodological issues and its impact on research data.You can send us your proposals until February 28 via the dedicated platform. =
-The proposals should be between 750 and 1000 words (excluding bibliography an=
-d figures). They can be written in French or in English.You will find the complete call  at the following address: https://dahtr.scie=
-ncesconf.org.For any information request, you can contact us at the following address: dah=
-_redacted_(a)sciencesconf.org>Do not hesitate to share this information,Yours sincerely,Ariane Pinche for the organizing committeeAriane Pinche
-Docteure en langue et litt=C3=A9rature m=C3=A9di=C3=A9vales
-Postdoctorante =E2=80=A2 Projet CREMMALAB
-=C3=89cole nationale des chartes =E2=80=A2 INRIA
-Centre Jean Mabillon =E2=80=A2 CIHAM (UMR 5648 )
-_redacted_(a)chartes.psl.eu>
---===============3654132783555770056==
-Content-Type: text/html
+Subject: [dm-l] CFP : "Ancient documents and automatic handwriting
+
+Dear all,
+
+We are pleased to announce the opening of our call for proposals for the symposium "Ancient documents and automatic handwriting recognition", June 23 and 24, 2022 at the École nationale des chartes in Paris.
+
+This symposium will propose to discuss HTR while articulating it to scientific problems of constitution and/or exploitation of corpora. We wish to question the practical aspects of this technology (development of HTR engines, transcription interface, user interface to use and train models, etc.), while raising its methodological issues and its impact on research data.
+
+You can send us your proposals until February 28 via the dedicated platform. The proposals should be between 750 and 1000 words (excluding bibliography and figures). They can be written in French or in English.
+
+You will find the complete call  at the following address: https://dahtr.sciencesconf.org.
+
+For any information request, you can contact us at the following address: dah_redacted_(a)sciencesconf.org>
+
+Do not hesitate to share this information,
+
+Yours sincerely,
+
+Ariane Pinche for the organizing committee
+
+Ariane Pinche
+Docteure en langue et littérature médiévales
+Postdoctorante • Projet CREMMALAB
+École nationale des chartes • INRIA
+Centre Jean Mabillon • CIHAM (UMR 5648 )
+_redacted_(a)chartes.psl.eu>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--3654132783555770056Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
+Content-Disposition: attachment; filename�ttachment.html"
+MIME-Version: 1.0
+
+PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
 eHQvaHRtbDsgY2hhcnNldD11dGYtOCI+CjwvaGVhZD4KPGJvZHkgc3R5bGU9IndvcmQtd3JhcDog
 YnJlYWstd29yZDsgLXdlYmtpdC1uYnNwLW1vZGU6IHNwYWNlOyBsaW5lLWJyZWFrOiBhZnRlci13
 aGl0ZS1zcGFjZTsiIGNsYXNzPSIiPgo8ZGl2IHN0eWxlPSJib3JkZXI6c29saWQgIzY0NjQ2NCAx
@@ -169,4 +195,5 @@ ZXJjaGFuZ2UtbmV3bGluZSI+CjwvZGl2Pgo8YnIgY2xhc3M9IkFwcGxlLWludGVyY2hhbmdlLW5l
 d2xpbmUiPgo8L2Rpdj4KPGJyIGNsYXNzPSJBcHBsZS1pbnRlcmNoYW5nZS1uZXdsaW5lIj4KPC9k
 aXY+CjxiciBjbGFzcz0iQXBwbGUtaW50ZXJjaGFuZ2UtbmV3bGluZSI+CjxiciBjbGFzcz0iQXBw
 bGUtaW50ZXJjaGFuZ2UtbmV3bGluZSI+CjwvZGl2Pgo8YnIgY2xhc3M9IiI+CjwvZGl2Pgo8L2Jv
-ZHk+CjwvaHRtbD4K
+ZHk+CjwvaHRtbD4K
+

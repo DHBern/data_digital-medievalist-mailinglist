@@ -1,67 +1,50 @@
-Subject: RE: [dm-l] Best practices for "scholar's own" digitization?A special case is the Digital Historical Archive of Cologne where everybody i=
-s invited to share any kind of digital reproduction of items that are now des=
-troyed or buried under the ruins of the archive, collapsed 3 March 2009:
-http://www.historischesarchivkoeln.de/index.php?id=3D&lang=3DenFranz
+Subject: RE: [dm-l] Best practices for "scholar's own" digitization?
+
+A special case is the Digital Historical Archive of Cologne where everybody is invited to share any kind of digital reproduction of items that are now destroyed or buried under the ruins of the archive, collapsed 3 March 2009:
+http://www.historischesarchivkoeln.de/index.php?id=&lang=en
+
+Franz
+
 > -----Original Message-----
-_redacted_(a)uleth.ca] On Behalf Of=
- Peter
+_redacted_(a)uleth.ca] On Behalf Of Peter
 > Stokes
 > Sent: 28 October 2010 16:43
 > To: Gabriel Bodard
 _redacted_(a)uleth.ca
 > Subject: Re: [dm-l] Best practices for "scholar's own" digitization?
->=20
-> The technological aspects of such a repository wouldn't take a lot, but as =
-Neven
-> wrote the issue isn't technological, it's social and legal, at least for ma=
-nuscripts.
-> Personally I'd be amazed if libraries allowed it, not so much because of lo=
-st
-> revenue and control (though that would be a factor), but more because they'=
-re
-> concerned about quality of images. If we publish less-than-fully-profession=
-al
-> images from a library, then the assumption tends to be that it was the libr=
-ary who
-> took the photos and therefore the imperfections are their 'fault'. That ass=
-umption
-> may not seem valid, but (from what I understand) it's a very big concern fo=
-r them.
->=20
-> The legalities are extremely complicated, not just in terms of copyright in=
- all the
-> relevant countries but also contract law. You may or may not have copyright=
- over
-> your photo, but even if you do there was probably something in the fine pri=
-nt saying
-> that one condition of bringing in a camera is that you can't distribute the=
- photos that
-> you take, and that condition will be legally binding. That doesn't mean we =
-shouldn't
-> try, but it needs to be done carefully. Wikimedia Commons is an excellent e=
-xample
-> of how *not* to do it, in my opinion. There's some interesting discussion f=
-rom the
-> Max Planck Institute on the topic, including a possibly surprising level of=
- openness
+> 
+> The technological aspects of such a repository wouldn't take a lot, but as Neven
+> wrote the issue isn't technological, it's social and legal, at least for manuscripts.
+> Personally I'd be amazed if libraries allowed it, not so much because of lost
+> revenue and control (though that would be a factor), but more because they're
+> concerned about quality of images. If we publish less-than-fully-professional
+> images from a library, then the assumption tends to be that it was the library who
+> took the photos and therefore the imperfections are their 'fault'. That assumption
+> may not seem valid, but (from what I understand) it's a very big concern for them.
+> 
+> The legalities are extremely complicated, not just in terms of copyright in all the
+> relevant countries but also contract law. You may or may not have copyright over
+> your photo, but even if you do there was probably something in the fine print saying
+> that one condition of bringing in a camera is that you can't distribute the photos that
+> you take, and that condition will be legally binding. That doesn't mean we shouldn't
+> try, but it needs to be done carefully. Wikimedia Commons is an excellent example
+> of how *not* to do it, in my opinion. There's some interesting discussion from the
+> Max Planck Institute on the topic, including a possibly surprising level of openness
 > from librarians, at least in principle. See http://www.mpiwg-
 > berlin.mpg.de/en/news/features/feature4.
->=20
-> Looking at the ICMA Flickr stream, in practice it appears to be entirely ar=
-chitectural
-> (despite their heading), not manuscript art. By my understanding, the legal=
-ities of
+> 
+> Looking at the ICMA Flickr stream, in practice it appears to be entirely architectural
+> (despite their heading), not manuscript art. By my understanding, the legalities of
 > photographing architecture are *very* much simpler than paintings or books.
->=20
-> Again, I'm certainly not saying this isn't a good idea and worth trying, bu=
-t we can't
+> 
+> Again, I'm certainly not saying this isn't a good idea and worth trying, but we can't
 > forget that the social aspect is very complicated indeed.
->=20
+> 
 > Peter
->=20
->=20
+> 
+> 
 > On 28 Oct 2010, at 16:15, Gabriel Bodard wrote:
->=20
+> 
 > > The HumSlides project at KCL used Flickr as a platform, I believe. Isn't
 > > the digital image collection at the Institute for the Study of the
 > > Ancient World at NYU doing something similar? I don't know anything
@@ -75,7 +58,7 @@ t we can't
 > >> phase of collecting and sharing personal images of medieval art and
 > >> architecture, using Flickr:
 > >>
-> >> http://medievalart.org/?page_id=3D185
+> >> http://medievalart.org/?page_id=185
 > >>
 > >> I haven't checked in with this project for some time, so I don't know
 > >> whether it has been successful or not...
@@ -109,53 +92,38 @@ _redacted_(a)gmail.com>:
 _redacted_(a)ffzg.hr>:
 > >>>> Fred Gibbs touched an important topic:
 > >>>>
-> >>>> "how to create and utilize an open access image repository (perhaps mo=
-re
-> >>>> of a social challenge than a technical one) rather than the logistics =
-of
+> >>>> "how to create and utilize an open access image repository (perhaps more
+> >>>> of a social challenge than a technical one) rather than the logistics of
 > >>>> producing images in the first place. Though by no means do I mean to
-> >>>> minimize the challenges of digitization. Indeed, the discussion of how=
- to
-> >>>> meet the threshold of utility in image creation is a crucial first ste=
-p.
+> >>>> minimize the challenges of digitization. Indeed, the discussion of how to
+> >>>> meet the threshold of utility in image creation is a crucial first step.
 > >>>> But a larger (and somewhat utopian) vision of manuscript image access,
-> >>>> even with a latitude of image quality, is perhaps worth bearing in min=
-d as
+> >>>> even with a latitude of image quality, is perhaps worth bearing in mind as
 > >>>> best
 > >>>> practices are worked out."
 > >>>>
-> >>>> One question is: what do we need the images for?  Another question is:=
- are
+> >>>> One question is: what do we need the images for?  Another question is: are
 > >>>> we allowed to share the images?
 > >>>>
-> >>>> Fred's vision is not only beautiful, it is something that comes natura=
-lly
+> >>>> Fred's vision is not only beautiful, it is something that comes naturally
 > >>>> to researchers. The libraries, however, have different priorities,
-> >>>> especially as regards sharing of their material (or images thereof).  =
-To
+> >>>> especially as regards sharing of their material (or images thereof).  To
 > >>>> put manuscript images in a repository, I have to ask for permission the
-> >>>> library or the archive whose manuscript I photographed; at this point =
-the
-> >>>> institutions usually get uncomfortable, for all kinds of reasons; and =
-if I
+> >>>> library or the archive whose manuscript I photographed; at this point the
+> >>>> institutions usually get uncomfortable, for all kinds of reasons; and if I
 > >>>> do something without permission, I'll be in trouble next time I have to
 > >>>> visit that place.  Yes, I know that a public institution *should* allow
-> >>>> the public to make its treasures public, but I also know that it's, we=
-ll,
+> >>>> the public to make its treasures public, but I also know that it's, well,
 > >>>> complicated.
 > >>>>
 > >>>> We are discussing open data here. The data should be open, and we could
-> >>>> all do much, much more with a shared repository for our manuscript ima=
-ges.
-> >>>>  But such a repository would at the moment have to function in a gueri=
-lla
-> >>>> way (I know of such repositories for Southern Slavic history, for exam=
-ple;
+> >>>> all do much, much more with a shared repository for our manuscript images.
+> >>>>  But such a repository would at the moment have to function in a guerilla
+> >>>> way (I know of such repositories for Southern Slavic history, for example;
 > >>>> a nice approach is also<http://www.flickr.com/photos/uofglibrary/>, for
 > >>>> printed matter).
 > >>>>
-> >>>> What do others think? Would such a repository be possible? Does it exi=
-st
+> >>>> What do others think? Would such a repository be possible? Does it exist
 > >>>> somewhere outside of institutional digitizing projects?
 > >>>>
 > >>>> Yours,
@@ -226,7 +194,7 @@ _redacted_(a)kcl.ac.uk
 > > Facebook: http://www.facebook.com/group.php?gidI320313760
 _redacted_(a)uleth.ca
 > > Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
->=20
+> 
 > --
 > Dr Peter Stokes
 > Centre for Computing in Humanities
@@ -236,8 +204,8 @@ _redacted_(a)uleth.ca
 > London, WC2B 5RL
 > Tel: +44 (0)20 7848 2813
 > Fax: +44 (0)20 7848 2980
->=20
->=20
+> 
+> 
 > Digital Medievalist --  http://www.digitalmedievalist.org/
 > Journal: http://www.digitalmedievalist.org/journal/
 > Journal Editors: editors _AT_ digitalmedievalist.org
@@ -246,5 +214,7 @@ _redacted_(a)uleth.ca
 > Twitter: http://twitter.com/digitalmedieval
 > Facebook: http://www.facebook.com/group.php?gidI320313760
 _redacted_(a)uleth.ca
-> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
---===============7915237028429253829==--
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+--7915237028429253829-
+

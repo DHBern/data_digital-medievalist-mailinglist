@@ -1,30 +1,56 @@
-Subject: Re: [dm-l] Help in customizing the TEI DTDIl giorno lun, 25-04-2005 alle 12:04 +0100, Lou Burnard ha scritto:
+Subject: Re: [dm-l] Help in customizing the TEI DTD
+
+Il giorno lun, 25-04-2005 alle 12:04 +0100, Lou Burnard ha scritto:
 > 
 > Roma is currently under active development, and we hope to unveil a new 
 > and much improved version within a month or so; we are also actively 
 > trying to develop  training material to accompany it (there's a very 
-> preliminary initial draft at http://www.tei-c.org/Drafts/edw88.xml)Got it, thanks.> The version of Roma online at http://www.tei-c.org/Roma should be 
+> preliminary initial draft at http://www.tei-c.org/Drafts/edw88.xml)
+
+Got it, thanks.
+
+> The version of Roma online at http://www.tei-c.org/Roma should be 
 > reasonably stable however and I will do my best to sort out any problems 
-> that are reported using it.I think that it should definitely be the preferred way to produce custom
+> that are reported using it.
+
+I think that it should definitely be the preferred way to produce custom
 views/versions of the TEI DTD/Schema, especially for inexperienced users
 like me. IMHO the UI should be modified to become a sort of "wizard" (if
-you want I can expand on this).> Roma is very definitely intended to generate DTDs as well as schemas, 
-> and we have never suggested that it was a "schema-only" tool. That was my assumption, mainly because I found a short tutorial on
-tei-c.uk only mentioning schema production.> However, 
+you want I can expand on this).
+
+> Roma is very definitely intended to generate DTDs as well as schemas, 
+> and we have never suggested that it was a "schema-only" tool. 
+
+That was my assumption, mainly because I found a short tutorial on
+tei-c.uk only mentioning schema production.
+
+> However, 
 > there are (in the nature of things) some things which DTDs cannot do and 
 > schemas  can, which in turn has led to some bugs in the DTD generation 
-> part of the current online version.Hmmm, that also brings to mind another interesting question: should I
+> part of the current online version.
+
+Hmmm, that also brings to mind another interesting question: should I
 stay with P4 or move to P5 (and possibly schema?). Going to ask this
-same question on the TEI ml.> At present Roma's author, Sebastian Rahtz, is in a part of  the world 
+same question on the TEI ml.
+
+> At present Roma's author, Sebastian Rahtz, is in a part of  the world 
 > blessed with only sporadic email contact, which means that bugs don't 
 > get fixed quite as rapidly as they would if he were here, nor when fixed 
 > do they necessarily get propagated to the publicly accessible servers as 
-> rapidly as they would if I didn't have 99 other jobs to do as well.I can understand that :)> Nevertheless, if you would like to send me a copy of the misbehaving ODD 
+> rapidly as they would if I didn't have 99 other jobs to do as well.
+
+I can understand that :)
+
+> Nevertheless, if you would like to send me a copy of the misbehaving ODD 
 > you mention, I'd be very glad to advise. Just make the modifications you 
 > want, and then press the Save button (rather than the Schema button): 
 > this will save your modification specification as an ODD in XML format. 
-> Send me that.Alas, the disk partition holding my unsuccessful attempts has long moved
-to the Digital Heavens of Reformatted Hardware-- 
+> Send me that.
+
+Alas, the disk partition holding my unsuccessful attempts has long moved
+to the Digital Heavens of Reformatted Hardware
+
+-- 
  
 Roberto Rosselli Del Turco      roberto.rossellidelturco at unito.it
 Dipartimento di Scienze         rosselli at ling.unipi.it
@@ -32,5 +58,9 @@ del Linguaggio                  Then spoke the thunder  DA
 Universita' di Torino           Datta: what have we given?  (TSE)
  
   Hige sceal the heardra,     heorte the cenre,
-  mod sceal the mare,       the ure maegen litlath.  (Maldon 312-3)
---===============5136599232507456235==--
+  mod sceal the mare,       the ure maegen litlath.  (Maldon 312-3)
+
+
+
+--5136599232507456235-
+

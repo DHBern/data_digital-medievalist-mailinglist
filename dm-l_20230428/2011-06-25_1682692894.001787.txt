@@ -1,5 +1,9 @@
-Subject: Re: [dm-l] SDH 2011 Supporting Digital HumanitiesOn Sat, Jun 25, 2011 at 8:18 AM, Peter Damian
-_redacted_(a)btinternet.com>wrote:>  Of course I forgot to add the link which is:
+Subject: Re: [dm-l] SDH 2011 Supporting Digital Humanities
+
+On Sat, Jun 25, 2011 at 8:18 AM, Peter Damian
+_redacted_(a)btinternet.com>wrote:
+
+>  Of course I forgot to add the link which is:
 >>> http://jeffreycwitt.com/plaoul
 >>>
 >>
@@ -19,7 +23,10 @@ it can provide any kind of output (although you'd have to provide an output
 script - there is documentation on how to do this on the site). As of Monday
 of this week there was work being done on the Auto Line Recognizer plugin
 (that's the piece of TILE that does to auto line recognition) however
-version 1.0 should be out any day now if it's not already.Dot
+version 1.0 should be out any day now if it's not already.
+
+Dot
+
 > Two comments, Jeffrey, and a preliminary remark.  Preliminary remark: the
 _redacted_(a)
 > accredition - giving an author recognition for the work they have put in (b)
@@ -58,16 +65,13 @@ _redacted_(a)
 > negligible (I was told by a good friend who works).  The value provided is
 > in distributing the work to archivists - university libraries - who pay
 > handsomely for this. The critical edition I am using for my current
-> translation project cost =C2=A380, of which the main labour - the writing a=
-nd
-> peer review - was free, and the printing cost probably =C2=A35.  The rest g=
-oes to
+> translation project cost £80, of which the main labour - the writing and
+> peer review - was free, and the printing cost probably £5.  The rest goes to
 > the publisher.  And this odd state of affairs will continue until some
 > organisation provides a very large server onto which all such material can
 > be uploaded, for the use of everyone.  But no one has an incentive to go to
 > this expense, because it will be unpaid.  (A university library, which costs
-> between =C2=A35m and =C2=A310m a year to run, will go to this expense, beca=
-use of the
+> between £5m and £10m a year to run, will go to this expense, because of the
 > value it provides to the university, which will bear the cost. The value to
 > the university, in turn, is to provide access to the library in return for a
 > portion of the tuition fees.
@@ -75,28 +79,29 @@ use of the
 >
 >
 >
-> Digital Medievalist --  http://www.digitalmedievalist.**org/<http://www.dig=
-italmedievalist.org/>
-> Journal: http://www.digitalmedievalist.**org/journal/<http://www.digitalmed=
-ievalist.org/journal/>
+> Digital Medievalist --  http://www.digitalmedievalist.**org/<http://www.digitalmedievalist.org/>
+> Journal: http://www.digitalmedievalist.**org/journal/<http://www.digitalmedievalist.org/journal/>
 > Journal Editors: editors _AT_ digitalmedievalist.org
-> News: http://www.digitalmedievalist.**org/news/<http://www.digitalmedievali=
-st.org/news/>
-> Wiki: http://www.digitalmedievalist.**org/wiki/<http://www.digitalmedievali=
-st.org/wiki/>
-> Twitter: http://twitter.com/**digitalmedieval<http://twitter.com/digitalmed=
-ieval>
-> Facebook: http://www.facebook.com/group.**php?gid=3D49320313760<http://www.=
-facebook.com/group.php?gid=3D49320313760>
+> News: http://www.digitalmedievalist.**org/news/<http://www.digitalmedievalist.org/news/>
+> Wiki: http://www.digitalmedievalist.**org/wiki/<http://www.digitalmedievalist.org/wiki/>
+> Twitter: http://twitter.com/**digitalmedieval<http://twitter.com/digitalmedieval>
+> Facebook: http://www.facebook.com/group.**php?gid=49320313760<http://www.facebook.com/group.php?gid=49320313760>
 _redacted_(a)uleth.ca
-> Change list options: http://listserv.uleth.ca/**mailman/listinfo/dm-l<http:=
-//listserv.uleth.ca/mailman/listinfo/dm-l>
->--=20
+> Change list options: http://listserv.uleth.ca/**mailman/listinfo/dm-l<http://listserv.uleth.ca/mailman/listinfo/dm-l>
+>
+
+
+
+-- 
 *~*~*~*~*~*~*~*~*~*~*
 Dot Porter (MA, MSLS)
 Digital Medievalist, Digital Librarian
 _redacted_(a)gmail.com
-*~*~*~*~*~*~*~*~*~*~*PGJyPjxicj48ZGl2IGNsYXNzPSJnbWFpbF9xdW90ZSI+T24gU2F0LCBKdW4gMjUsIDIwMTEgYXQg
+*~*~*~*~*~*~*~*~*~*~*
+
+
+
+PGJyPjxicj48ZGl2IGNsYXNzPSJnbWFpbF9xdW90ZSI+T24gU2F0LCBKdW4gMjUsIDIwMTEgYXQg
 ODoxOCBBTSwgUGV0ZXIgRGFtaWFuIDxzcGFuIGRpcj0ibHRyIj4mbHQ7PGEgaHJlZj0ibWFpbHRv
 OnBldGVyLmRhbWlhbkBidGludGVybmV0LmNvbSI+cGV0ZXIuZGFtaWFuQGJ0aW50ZXJuZXQuY29t
 PC9hPiZndDs8L3NwYW4+IHdyb3RlOjxicj48YmxvY2txdW90ZSBjbGFzcz0iZ21haWxfcXVvdGUi
@@ -213,4 +218,5 @@ dj48YnI+PGJyIGNsZWFyPSJhbGwiPjxicj4tLSA8YnI+Kn4qfip+Kn4qfip+Kn4qfip+Kn4qPGJy
 PkRvdCBQb3J0ZXIgKE1BLCBNU0xTKaAgoCCgIKAgPGJyPkRpZ2l0YWwgTWVkaWV2YWxpc3QsIERp
 Z2l0YWwgTGlicmFyaWFuPGJyPkVtYWlsOiA8YSBocmVmPSJtYWlsdG86ZG90LnBvcnRlckBnbWFp
 bC5jb20iPmRvdC5wb3J0ZXJAZ21haWwuY29tPC9hPjxicj4KCip+Kn4qfip+Kn4qfip+Kn4qfip+
-Kjxicj4K
+Kjxicj4K
+

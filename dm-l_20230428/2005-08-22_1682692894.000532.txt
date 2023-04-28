@@ -1,15 +1,25 @@
-Subject: Re: [dm-l] TEI and concurrent hierarchiesDan O'Donnell wrote:>We should also add (I don't think I've seen it) that Dot Porter at
+Subject: Re: [dm-l] TEI and concurrent hierarchies
+
+Dan O'Donnell wrote:
+
+>We should also add (I don't think I've seen it) that Dot Porter at
 >Kentucky has been doing a lot with multiple hierarchies in TEI P4. I
 >believe the Kentucky group have a couple of articles on the subject out.
 >
 >-d
 >  
 >
-Hi Dan and all,Sorry, I was on vacation last week and have only been going through my 
-inbox this morning.Marjorie, I believe that the articles listed on the TEI Overlapping 
+Hi Dan and all,
+
+Sorry, I was on vacation last week and have only been going through my 
+inbox this morning.
+
+Marjorie, I believe that the articles listed on the TEI Overlapping 
 Markup SIG website provide a good overview of the various approaches to 
 handling overlapping markup/overlapping hierarchies: 
-http://www.tei-c.org/wiki/index.php/SIG:OverlapFor work done at UK specifically, click down to "Kentucky Goddag." These 
+http://www.tei-c.org/wiki/index.php/SIG:Overlap
+
+For work done at UK specifically, click down to "Kentucky Goddag." These 
 are very technical papers, and mainly touch on methods for querying 
 concurrent hierarchies rather than how to represent the concurrent 
 hierarchies in markup. The Edition Production Technology, electronic 
@@ -17,16 +27,33 @@ editing software developed at UK by Kevin Kiernan through the Electronic
 Boethius and ARCHway projects, with continuing development through eBo, 
 expresses overlapping markup through the use of empty elements. It looks 
 a bit like HORSE/CLIX, but instead of only "breaking" the elements when 
-there is an overlap, all elements are expressed as empty tags, so<p>...</p>becomes<p __tag_type="START"/>...<p __tag_type="END"/>This works well within the context of EPT, but if you're working with 
+there is an overlap, all elements are expressed as empty tags, so
+
+<p>...</p>
+
+becomes
+
+<p __tag_typeTART"/>...<p __tag_typeþND"/>
+
+This works well within the context of EPT, but if you're working with 
 oXygen (for example), it would be easier to follow James' advice and 
 select one hierarchy to take precedence, with the other expressed in 
 empty tags. I look forward to HORSE/CLIX's inclusion in P5, it would be 
-great to have a canonical method for handling overlaps.Thanks,
-Dot-- 
+great to have a canonical method for handling overlaps.
+
+Thanks,
+Dot
+
+-- 
 ***************************************
 Dorothy Carr Porter, Program Coordinator
 Collaboratory for Research in Computing for Humanities
 University of Kentucky
 351 William T. Young Library
-Lexington, KY  40506_redacted_(a)uky.edu          859-257-9549
-***************************************
+Lexington, KY  40506
+
+_redacted_(a)uky.edu          859-257-9549
+***************************************
+
+
+

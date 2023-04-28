@@ -1,15 +1,31 @@
-Subject: Re: [dm-l] Refworks (and Wikindx)Hi Jesse,Searching around on refworks today, I see that this was already the
+Subject: Re: [dm-l] Refworks (and Wikindx)
+
+Hi Jesse,
+
+Searching around on refworks today, I see that this was already the
 subject of a thread by you on dm-l. Sorry I didn't see it earlier (and
-forgot that this had come up).I've spent the day playing with it, and I must say it looks pretty good:
+forgot that this had come up).
+
+I've spent the day playing with it, and I must say it looks pretty good:
 the format is more or less as detailed as ProCite (which seems to be
 better than end note), and it does everything one might want. It took a
 bit of work to import ProCite without losing information (the output
 styles they want you to use have terrible information loss), but onceI
-built a Procite > RefWorks stylesheet it went really well.Apart from the fact that it is totally non-standards based (but then
+built a Procite > RefWorks stylesheet it went really well.
+
+Apart from the fact that it is totally non-standards based (but then
 reference managers don't seem to have an official standard as far as I
-can tell), it seems really good.It seems to have the same, or perhaps slightly better, field division
+can tell), it seems really good.
+
+It seems to have the same, or perhaps slightly better, field division
 than refdb (refdb.sourceforge.net), and I've never been able to get
-refdb working right. I'm off to try wikindx now.-dOn Tue, 2006-21-02 at 19:23 -0700, Jesse Hurlbut wrote:
+refdb working right. I'm off to try wikindx now.
+
+-d
+
+
+
+On Tue, 2006-21-02 at 19:23 -0700, Jesse Hurlbut wrote:
 > My university has an institutional license for Refworks. I've recently
 > started using it. I used Endnote briefly and this seems like a product
 > with similar features except that it runs entirely on line (as opposed
@@ -58,4 +74,7 @@ refdb working right. I'm off to try wikindx now.-dOn Tue, 2006-21-02 at 19
 > bibliography manager at this point. 
 > 
 > Jesse
-_redacted_(a)byu.edu
+_redacted_(a)byu.edu
+
+
+

@@ -1,29 +1,42 @@
-Subject: Re: [dm-l] XML DatabaseWhat type of server are you running it on? It is a pretty simple thing whethe=
-r=20
-you use xml/xslt or a straight db connection and serverside script.If you email the specifics, I can write up a quick howto.Travis
-_redacted_(a)postgrad=
-.manchester.ac.uk>=20
-on Wed, 23 Feb 2005 19:40:37 +0000.> The Digital Medievalist List (see end of message for contact information=20> and project URLs).
->=20
+Subject: Re: [dm-l] XML Database
+
+What type of server are you running it on? It is a pretty simple thing whether 
+you use xml/xslt or a straight db connection and serverside script.
+
+If you email the specifics, I can write up a quick howto.
+
+Travis
+
+_redacted_(a)postgrad.manchester.ac.uk> 
+on Wed, 23 Feb 2005 19:40:37 +0000.
+
+> The Digital Medievalist List (see end of message for contact information 
+
+> and project URLs).
+> 
 > ----------------------------------
-> I have a couple of questions about XML.  Actually, I am not sure if XML=20
+> I have a couple of questions about XML.  Actually, I am not sure if XML 
 is
 > the right programming language to use.
->=20
+> 
 > I have a database ready to go, but I would like to put it on the web for
 > people to use.  I was thinking about linking the db to an xml file then
-> creating an html page that will pull the information from the xml file.=20> But something tells me that this is not the simplest way to do things.
->=20
-> I know another way I can do things, which would be completly different=20
+> creating an html page that will pull the information from the xml file. 
+
+> But something tells me that this is not the simplest way to do things.
+> 
+> I know another way I can do things, which would be completly different 
 and
 > more complex, using a db and C# linking it to an html page extracting the
 > C# and the db from a few lines of javascript.  Not pretty!
->=20
-> If anyone has some suggestions or knows a good tutorial I am all ears!!!=20> or
+> 
+> If anyone has some suggestions or knows a good tutorial I am all ears!!! 
+
+> or
 > eyes actually :)
->=20
+> 
 > Abdullah
->=20
+> 
 > _______________________________________________
 > Digital Medievalist Project
 > Homepage: http://www.digitalmedievalist.org
@@ -37,4 +50,7 @@ _redacted_(a)uleth.ca
 _redacted_(a)uleth.ca
 > http://listserv.uleth.ca/mailman/listinfo/dm-l
 > .
->=20
+> 
+
+
+

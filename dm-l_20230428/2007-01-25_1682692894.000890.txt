@@ -1,4 +1,6 @@
-Subject: [dm-l] Dictionary of Old English on LinuxI'm wondering if anyone on this list has done anything about getting the 
+Subject: [dm-l] Dictionary of Old English on Linux
+
+I'm wondering if anyone on this list has done anything about getting the 
 material on the Dictionary of Old English CD (I'm talking about the 
 dictionary proper, not the corpus or other materials) running under 
 Linux. I've made a basic index with links to the entries, so it's sort 
@@ -7,4 +9,9 @@ put this index in the order used in Old English dictionaries, and even
 get some of the search functionality now enjoyed by Internet Explorer 
 users, I'm not terribly eager to do it myself. If there's a nice index 
 and/or some Linux programming out there for the DOE, and someone's in a 
-sharing mood, I'd be terribly grateful.Peter Baker
+sharing mood, I'd be terribly grateful.
+
+Peter Baker
+
+
+

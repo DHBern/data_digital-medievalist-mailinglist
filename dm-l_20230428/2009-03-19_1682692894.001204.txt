@@ -1,20 +1,34 @@
-Subject: [dm-l] The Future of Digital EditingDear List,I posted this message to the AnsaxNet listserv yesterday (as part of a
+Subject: [dm-l] The Future of Digital Editing
+
+Dear List,
+
+I posted this message to the AnsaxNet listserv yesterday (as part of a
 thread about, well, digital editing), but I think it really belongs
 here. I'm quick to point out there is nothing here that is really new
 or that no-one has said before, but I like thinking about it it such
-concrete terms. Thoughts?Dot**********My own vision of the future of digital editions depends first on all
+concrete terms. Thoughts?
+
+Dot
+
+**********
+
+My own vision of the future of digital editions depends first on all
 data (text and images) being released under Open Access licenses,
 allowing for reuse and repurposing of that data (with acknowledgment
 given to those involved in the development of that data), and second
 on the continuing innovation in technologies (open-source and non) for
 working with that data - interfaces, visualizations, search engines,
-etc. etc.In my ideal future, one day I'll release a little edition of a text
+etc. etc.
+
+In my ideal future, one day I'll release a little edition of a text
 from manuscript Y. Because I have limited time, I'll just show the
 text and pages facing one another. I'm really interested in the
 paleography of this particular manuscript, so I'll take special care
 to mark all the special scribal elements in the TEI, give users the
 option to view those, and I'll include a separate paleographical
-description as well.Two years from then, another scholar interested in the text from
+description as well.
+
+Two years from then, another scholar interested in the text from
 manuscript Y creates an edition of that text, comparing the readings
 from manuscript Y with those from mss L and Q. He'll use the
 transcriptions I made for manuscript Y as the basis for his other
@@ -28,8 +42,12 @@ Since I released my edition a new open-source interface was released
 that makes it easier to view textual variants, so this scholar
 presents his edition through that interface. He includes my original
 license statement and acknowledges the portion of the data he is
-repurposing.The next year, images for ms L become available and are plugged into
-this edition.The next year, a new editing tool becomes available (open source) that
+repurposing.
+
+The next year, images for ms L become available and are plugged into
+this edition.
+
+The next year, a new editing tool becomes available (open source) that
 enables the automated linking of lines of encoded text with lines from
 manuscript images. Another scholar takes the data from the latest
 version of the edition and runs everything through this tool. He is
@@ -43,13 +61,17 @@ by the editing tool developers - but the interface is commercial and
 he has to pay a license fee (they have to make their money somewhere;
 even so, eight months from now an open-source interface is released
 that can also present the links, and it's even better than the one
-provided by the tool developers).Now, four years after I released my little edition, there are three
+provided by the tool developers).
+
+Now, four years after I released my little edition, there are three
 very different editions available dealing with rather different
 aspects of the text, each building on and adding to the last. I didn't
 anticipate any of this when I put out my edition - I only did what I
 wanted to do, and trusted that those who came after me would add what
 they need. I also trusted that they would respect my license and
-acknowledge my original work.There are still questions of course - four years later, will my lovely
+acknowledge my original work.
+
+There are still questions of course - four years later, will my lovely
 simple and standard code still run on the same browsers, or will
 someone (probably not me - I've moved on by this point) need to do
 something to keep it running? One could argue it's a moot point,
@@ -59,11 +81,15 @@ original interface and methods for working with that data will
 probably be different. But then, if someone finds the existing
 interfaces unreasonable for their own use, they are free to take my
 data and feed them through any available interface or visualization
-system. In my future, programming experience is not required.Ten years later, computers have changed entirely. The browsers and
+system. In my future, programming experience is not required.
+
+Ten years later, computers have changed entirely. The browsers and
 other interfaces that ran these editions six years ago don't work on
 today's computers. We'll need to build new browsers and new interfaces
 - but that's all we need to do, because the edition data is standard
-and expected. We just need to build them and plug that data in.It's possible this sounds crazy, and it does require that editors be
+and expected. We just need to build them and plug that data in.
+
+It's possible this sounds crazy, and it does require that editors be
 willing to release their editorial data under Open Access licenses. I
 honestly don't know if this is reasonable, but it would be the ideal.
 It also requires that all this editorial data be encoded using the
@@ -73,11 +99,15 @@ TEI. And it won't be *easy*, it will take community involvement and,
 of course, people willing to build those interfaces and visualization
 tools. But there are already digital humanities scholars and
 programmers working on that... I think with cooperation it could be
-done. If I'm not the only person who would want something like this.-- 
+done. If I'm not the only person who would want something like this.
+
+-- 
 Dot Porter (MA, MSLS)          Metadata Manager
 Digital Humanities Observatory (RIA), Regus House, 28-32 Upper
 Pembroke Street, Dublin 2, Ireland
 -- A Project of the Royal Irish Academy --
 Phone: +353 1 234 2444        Fax: +353 1 234 2400
-_redacted_(a)gmail.com
---===============2880252353278654838==--
+_redacted_(a)gmail.com
+
+--2880252353278654838-
+

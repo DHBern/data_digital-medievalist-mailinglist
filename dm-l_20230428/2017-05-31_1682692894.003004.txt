@@ -1,19 +1,34 @@
-Subject: [dm-l] Seminar: Linked Data and Ancient World Research: studying pastInstitute of Classical Studies
+Subject: [dm-l] Seminar: Linked Data and Ancient World Research: studying past
+
+Institute of Classical Studies
 Senate House, Malet Street, London WC1E 7HU
-Friday June 2, 2017 at 16:30 in room 234*Sarah Middle (Open University)*Linked Data and Ancient World Research: studying past projects from a user pe=
-rspectiveLinked Data connects digital objects based on common features, and has the po=
-tential to transform Ancient World research; however, this approach is still =
-not widely used, and my research explores why this might be the case. This pa=
-per explains how I converted publicly-available data on AHRC-funded projects =
-to Linked Data, facilitating detailed queries to identify potential case stud=
-ies. I will discuss several of these (Pelagios 4, SNAP:DRGN, and STAR, STELLA=
-R and SENESCHAL) from a user perspective, as well as evaluating the usability=
- of the linked AHRC data. Additionally, I will present my initial findings an=
-d their potential implications for future projects.digitalclassicist.org/wip/wip2017-01sm.htmlALL WELCOMEValeria Vitale
+Friday June 2, 2017 at 16:30 in room 234
+
+*Sarah Middle (Open University)*
+
+Linked Data and Ancient World Research: studying past projects from a user perspective
+
+Linked Data connects digital objects based on common features, and has the potential to transform Ancient World research; however, this approach is still not widely used, and my research explores why this might be the case. This paper explains how I converted publicly-available data on AHRC-funded projects to Linked Data, facilitating detailed queries to identify potential case studies. I will discuss several of these (Pelagios 4, SNAP:DRGN, and STAR, STELLAR and SENESCHAL) from a user perspective, as well as evaluating the usability of the linked AHRC data. Additionally, I will present my initial findings and their potential implications for future projects.
+
+digitalclassicist.org/wip/wip2017-01sm.html
+
+ALL WELCOME
+
+Valeria Vitale
 Institute of Classical Studies, Research Fellow
 Senate House, Malet Street
-London WC1E 7HUPelagios Commons Community Manager
-commons.pelagios.org<http://commons.pelagios.org/>PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
+London WC1E 7HU
+
+Pelagios Commons Community Manager
+commons.pelagios.org<http://commons.pelagios.org/>
+
+
+
+
+
+
+
+PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
 eHQvaHRtbDsgY2hhcnNldD1pc28tODg1OS0xIj4KPHN0eWxlIHR5cGU9InRleHQvY3NzIiBzdHls
 ZT0iZGlzcGxheTpub25lOyI+PCEtLSBQIHttYXJnaW4tdG9wOjA7bWFyZ2luLWJvdHRvbTowO30g
 LS0+PC9zdHlsZT4KPC9oZWFkPgo8Ym9keSBkaXI9Imx0ciI+CjxkaXYgaWQ9ImRpdnRhZ2RlZmF1
@@ -155,7 +170,8 @@ cGFuIGlkPSJMUE5vTFAiIHN0eWxlPSJmb250LXNpemU6IDEwcHQ7Ij5jb21tb25zLnBlbGFnaW9z
 Lm9yZzwvc3Bhbj48L2ZvbnQ+PC9hPjwvZGl2Pgo8L2ZvbnQ+CjxkaXYgc3R5bGU9Im1hcmdpbi10
 b3A6IDBweDsgbWFyZ2luLWJvdHRvbTogMHB4OyI+PC9kaXY+CjwvZGl2Pgo8L2Rpdj4KPHA+PGJy
 PgombmJzcDs8L3A+CjxkaXY+PGJyPgo8L2Rpdj4KPGRpdj48YnI+CjwvZGl2Pgo8L2Rpdj4KPC9i
-b2R5Pgo8L2h0bWw+Cg==UEsDBBQABgAIAAAAIQCj77sdZQEAAFIFAAATAAgCW0NvbnRlbnRfVHlwZXNdLnhtbCCiBAIooAAC
+b2R5Pgo8L2h0bWw+Cg
+UEsDBBQABgAIAAAAIQCj77sdZQEAAFIFAAATAAgCW0NvbnRlbnRfVHlwZXNdLnhtbCCiBAIooAAC
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -28034,4 +28050,4 @@ hSYYAGRvY1Byb3BzL2NvcmUueG1sUEsBAi0AFAAGAAgAAAAhANAGeU5zDQAACogAAA8AAAAAAAAA
 AAAAAAAANikYAHdvcmQvc3R5bGVzLnhtbFBLAQItABQABgAIAAAAIQBQJUvk+wEAAAkHAAASAAAA
 AAAAAAAAAAAAANY2GAB3b3JkL2ZvbnRUYWJsZS54bWxQSwECLQAUAAYACAAAACEAvDRMqt0BAADf
 AwAAEAAAAAAAAAAAAAAAAAABORgAZG9jUHJvcHMvYXBwLnhtbFBLBQYAAAAADQANAEcDAAAUPBgA
-AAA=
+AAA

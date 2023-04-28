@@ -1,33 +1,38 @@
-Subject: Re: Fwd: [dm-l] Jan 2013: 256 BAV MSs accessible on-lineTaking Marjorie's suggestion one step further, the BnF is also supporting
+Subject: Re: Fwd: [dm-l] Jan 2013: 256 BAV MSs accessible on-line
+
+Taking Marjorie's suggestion one step further, the BnF is also supporting
 persistent links to details of images for embedding - even supplying the
-code.  I haven't seen this advertised broadly either, but:1. From the zoom view of a folio
+code.  I haven't seen this advertised broadly either, but:
+
+1. From the zoom view of a folio
 1a. Zoom to the desired resolution
 2. Click on the "Select a part of the image" button in the upper right-hand
 part of the screen
 3. Highlight the part of the image you wish to save
 4. Copy the embed code from the pop-up box
 5. Example:
-<a href=3D'http://gallica.bnf.fr/ark:/12148/btv1b8449032x/f9.item'
-title=3D'Lien vers le document' target=3D'_blank'><img src=3D'
-http://gallica.bnf.fr/proxy?method=3DR&ark=3Dbtv1b8449032x.f9&l=3D4&r=3D1464,=
-204,194,187'
-alt=3D'Po=C3=A9sies [de GUILLAUME DE MACHAUT]'/><br/>Po=C3=A9sies [de GUILLAU=
-ME DE
+<a href='http://gallica.bnf.fr/ark:/12148/btv1b8449032x/f9.item'
+title='Lien vers le document' target='_blank'><img src='
+http://gallica.bnf.fr/proxy?method=R&ark=btv1b8449032x.f9&l=4&r=1464,204,194,187'
+alt='Poésies [de GUILLAUME DE MACHAUT]'/><br/>Poésies [de GUILLAUME DE
 MACHAUT]<br/> Source: gallica.bnf.fr</a>
 5a. Register this snippet if you want with Gallica
 6. Embed this in your blog or other site
 7. Or simply use the img src URL to show friends the detail you're
 interested in:
-http://gallica.bnf.fr/proxy?method=3DR&ark=3Dbtv1b8449032x.f9&l=3D4&r=3D1464,=
-204,194,187Best, Ben
+http://gallica.bnf.fr/proxy?method=R&ark=btv1b8449032x.f9&l=4&r=1464,204,194,187
+
+Best, Ben
+
 On Mon, Feb 4, 2013 at 2:02 PM, Marjorie Burghart <
-_redacted_(a)ehess.fr> wrote:> Talking about baby steps, things are really moving in the right direction
+_redacted_(a)ehess.fr> wrote:
+
+> Talking about baby steps, things are really moving in the right direction
 > at the French national library (BnF): few people have noticed, but now
 > images from the Gallica portal are royalty-free for any non-commercial use.
 > I don' think the news is very widespread, but just go on Gallica, look for
 > instance for a digitized manuscript (example "Latin 12584"), choose any
-> folio and click on "t=C3=A9l=C3=A9charger / imprimer" (download / print), a=
-nd you'll
+> folio and click on "télécharger / imprimer" (download / print), and you'll
 > find a link to the non-commercial and commercial use policies.
 > Best regards, Marjorie
 >
@@ -37,10 +42,14 @@ nd you'll
 > News: http://www.digitalmedievalist.org/news/
 > Wiki: http://www.digitalmedievalist.org/wiki/
 > Twitter: http://twitter.com/digitalmedieval
-> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+> Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca
 > Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
->PGRpdiBkaXI9Imx0ciI+PGRpdj48ZGl2PjxkaXY+PGRpdj48ZGl2PjxkaXY+PGRpdj48ZGl2PlRh
+>
+
+
+
+PGRpdiBkaXI9Imx0ciI+PGRpdj48ZGl2PjxkaXY+PGRpdj48ZGl2PjxkaXY+PGRpdj48ZGl2PlRh
 a2luZyBNYXJqb3JpZSYjMzk7cyBzdWdnZXN0aW9uIG9uZQogc3RlcCBmdXJ0aGVyLCB0aGUgQm5G
 IGlzIGFsc28gc3VwcG9ydGluZyBwZXJzaXN0ZW50IGxpbmtzIHRvIGRldGFpbHMgb2YKIGltYWdl
 cyBmb3IgZW1iZWRkaW5nIC0gZXZlbiBzdXBwbHlpbmcgdGhlIGNvZGUuoCBJIGhhdmVuJiMzOTt0
@@ -106,4 +115,4 @@ RGlzY3Vzc2lvbiBsaXN0OiA8YSBocmVmPSJtYWlsdG86ZG0tbEB1bGV0aC5jYSI+ZG0tbEB1bGV0
 aC5jYTwvYT48YnI+CkNoYW5nZSBsaXN0IG9wdGlvbnM6IDxhIGhyZWY9Imh0dHA6Ly9saXN0c2Vy
 di51bGV0aC5jYS9tYWlsbWFuL2xpc3RpbmZvL2RtLWwiIHRhcmdldD0iX2JsYW5rIj5odHRwOi8v
 bGlzdHNlcnYudWxldGguY2EvbWFpbG1hbi9saXN0aW5mby9kbS1sPC9hPjxicj48L2Jsb2NrcXVv
-dGU+PC9kaXY+PGJyPjwvZGl2Pgo=
+dGU+PC9kaXY+PGJyPjwvZGl2Pgo

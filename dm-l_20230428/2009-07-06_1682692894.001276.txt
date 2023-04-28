@@ -1,9 +1,17 @@
-Subject: Re: [dm-l] Manuscript Imaging QuestionDear everyone,This is the first thing I thought of as well, but the afaik materials
+Subject: Re: [dm-l] Manuscript Imaging Question
+
+Dear everyone,
+
+This is the first thing I thought of as well, but the afaik materials
 would have to be re-scanned using special multi-spectral imaging
 equipment. However, if the inks are different enough in colour and
 tone, I'd think that you could build a process into regular image
 processing software (such as Photoshop) that could differentiate
-between the two inks. Not that I've ever done this myself.Dot_redacted_(a)umich.edu> wrote:
+between the two inks. Not that I've ever done this myself.
+
+Dot
+
+_redacted_(a)umich.edu> wrote:
 > Dear all,
 >
 > This is similar to, if not the same as, the technology Dr. Zinn was
@@ -17,8 +25,7 @@ between the two inks. Not that I've ever done this myself.Dot_redacted_(a)um
 >
 > I know this works best if the two inks on top of each other are made of
 > different compounds, so that one is enhanced as the other one fades (some
-> work best with infrared rays, some with UV, etc). =C2=A0However, I don't th=
-ink
+> work best with infrared rays, some with UV, etc).  However, I don't think
 > this technology could be applied to scanned images--the leaves would have to
 > be imaged again using the multi-spectral filters.
 >
@@ -29,19 +36,15 @@ _redacted_(a)oberlin.edu>:
 >
 >> Dear Dr. Wisnicki and All,
 >>
->> I'm not sure if this is totally relevant, but I think that it is. =C2=A0In
+>> I'm not sure if this is totally relevant, but I think that it is.  In
 >> dealing with the Greek manuscripts that were discovered at St. Catherine's
 >> (the Sinai) a couple of decades ago (I think), James Charlesworth (of
->> Princeton Theological Seminary) was able to use imaging technology from NA=
-SA
->> (I believe) to recover images in palimpsest leaves. =C2=A0(He talked about=
- this
->> while he was at Oberlin =C2=A0giving the Haskell Lectures).
+>> Princeton Theological Seminary) was able to use imaging technology from NASA
+>> (I believe) to recover images in palimpsest leaves.  (He talked about this
+>> while he was at Oberlin  giving the Haskell Lectures).
 >>
->> I'll try to follow up on this a bit. =C2=A0(And this technology may be wid=
-ely
->> known by now.) =C2=A0It seems like it would work to distinguish between th=
-e "two
+>> I'll try to follow up on this a bit.  (And this technology may be widely
+>> known by now.)  It seems like it would work to distinguish between the "two
 >> texts".
 >>
 >> Best regards
@@ -64,16 +67,13 @@ _redacted_(a)oberlin.edu
 >>> Hi all,
 >>>
 >>> I thought I'd pass this on to our list and digital classicist, since some
->>> of us may have had experience with similar techniques (I'm relatively sur=
-e I
->>> saw a talk on the question recently). Please make sure you cc Dr. Wisnick=
-i,
+>>> of us may have had experience with similar techniques (I'm relatively sure I
+>>> saw a talk on the question recently). Please make sure you cc Dr. Wisnicki,
 >>> since he may not hang out in our circles!
 >>>
->>> I=E2=80=99ve come across a textual issue that I=E2=80=99m not sure how to=
- resolve, and
->>> I=E2=80=99m hoping that someone on the list might have some suggestions or
->>> even the answer. I=E2=80=99m currently doing some research on the final
+>>> I’ve come across a textual issue that I’m not sure how to resolve, and
+>>> I’m hoping that someone on the list might have some suggestions or
+>>> even the answer. I’m currently doing some research on the final
 >>> African diaries of David Livingstone, the missionary and explorer.
 >>> While keeping these diaries, Livingstone was often short of paper and,
 >>> as a result, resorted to various expedients to keep the diaries going.
@@ -81,16 +81,13 @@ i,
 >>> newspapers, and, by turning the pages 90 degrees, to write his diary
 >>> over the printed text, but perpendicular to it. Although perhaps
 >>> legible at the time, these diary entries now are often difficult to
->>> decipher: Livingstone=E2=80=99s ink has faded and the printed text obscur=
-es
+>>> decipher: Livingstone’s ink has faded and the printed text obscures
 >>> what remains.
 >>>
 >>> So, in other words, the diary entries have two layers of text: printed
->>> matter which runs horizontally across the page, and Livingstone=E2=80=99s
->>> entries which run vertically. I=E2=80=99ve scanned some of these pages an=
-d was
->>> wondering if there=E2=80=99s a way (or, perhaps, a program) by which I mi=
-ght
+>>> matter which runs horizontally across the page, and Livingstone’s
+>>> entries which run vertically. I’ve scanned some of these pages and was
+>>> wondering if there’s a way (or, perhaps, a program) by which I might
 >>> remove the printed layer so as to make the handwritten layer
 >>> freestanding and so more legible. Has anyone on the list dealt with
 >>> (and resolved) a similar issue? If so, please email me at
@@ -111,9 +108,8 @@ _redacted_(a)yahoo.com -- any suggestions would be very much appreciated.
 >>>
 >>> Chair and CEO, Text Encoding Initiative (http://www.tei-c.org/)
 >>> Co-Chair, Digital Initiatives Advisory Board, Medieval Academy of America
->>> President-elect (English), Society for Digital Humanities/Soci=C3=A9t=C3=
-=A9 pour
->>> l'=C3=A9tude des m=C3=A9dias interactifs (http://sdh-semi.org/)
+>>> President-elect (English), Society for Digital Humanities/Société pour
+>>> l'étude des médias interactifs (http://sdh-semi.org/)
 >>> Founding Director (2003-2009), Digital Medievalist Project
 >>> (http://www.digitalmedievalist.org/)
 >>>
@@ -123,7 +119,7 @@ _redacted_(a)yahoo.com -- any suggestions would be very much appreciated.
 >>>
 >>>
 >>>
->>> Digital Medievalist -- =C2=A0http://www.digitalmedievalist.org/
+>>> Digital Medievalist --  http://www.digitalmedievalist.org/
 >>> Journal: http://www.digitalmedievalist.org/journal/
 >>> Journal Editors: editors _AT_ digitalmedievalist.org
 >>> News: http://www.digitalmedievalist.org/news/
@@ -132,7 +128,7 @@ _redacted_(a)uleth.ca
 >>> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
 >>
 >>
->> Digital Medievalist -- =C2=A0http://www.digitalmedievalist.org/
+>> Digital Medievalist --  http://www.digitalmedievalist.org/
 >> Journal: http://www.digitalmedievalist.org/journal/
 >> Journal Editors: editors _AT_ digitalmedievalist.org
 >> News: http://www.digitalmedievalist.org/news/
@@ -150,14 +146,18 @@ _redacted_(a)uleth.ca
 > School of Information, University of Michigan
 _redacted_(a)umich.edu
 >
-> Digital Medievalist -- =C2=A0http://www.digitalmedievalist.org/
+> Digital Medievalist --  http://www.digitalmedievalist.org/
 > Journal: http://www.digitalmedievalist.org/journal/
 > Journal Editors: editors _AT_ digitalmedievalist.org
 > News: http://www.digitalmedievalist.org/news/
 > Wiki: http://www.digitalmedievalist.org/wiki/
 _redacted_(a)uleth.ca
 > Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
->--=20
+>
+
+
+
+-- 
 *~*~*~*~*~*~*~*~*~*~*
 Dot Porter (MA, MSLS)          Metadata Manager
 Digital Humanities Observatory (RIA), Regus House, 28-32 Upper
@@ -165,5 +165,7 @@ Pembroke Street, Dublin 2, Ireland
 -- A Project of the Royal Irish Academy --
 Phone: +353 1 234 2444        Fax: +353 1 234 2400
 _redacted_(a)gmail.com
-*~*~*~*~*~*~*~*~*~*~*
---===============2329402306643703367==--
+*~*~*~*~*~*~*~*~*~*~*
+
+--2329402306643703367-
+

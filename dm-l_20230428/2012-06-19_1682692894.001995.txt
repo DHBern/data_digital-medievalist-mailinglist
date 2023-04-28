@@ -1,108 +1,49 @@
-Subject: [dm-l] RE: best practice: photographc facsimile?Hi DavidThis is a really good question. I came into academia with an established back=
-ground as an digital imaging scientist and as far as I can see at the moment,=
- there are no real standards for image digitation or reproduction in the acad=
-emic world that can be used effectively by scholars. For example TEI says a l=
-ot about how you reference your images but (unsurprisingly) doesn't attempt t=
-o give any guidance on how you get them into an appropriate resolution or col=
-our depth in the first place. JISC also give some guidance here but many of t=
-heir project specifications often seem to favour 4800dpi in 24bit colour. Not=
- very helpful if (for example) you are scanning First World War black and whi=
-te photographs which have a relatively low lines per inch resolution (search =
-for lpi to dpi calculators online) or if you are using a scanner which has a =
-maximum optical resolution of (say) 2400dpi and everything else is interpolat=
-ed resolution. These things will of course differ from project to project whi=
-ch is why it is so difficult to lay down accurate guidelines.I ran a workshop at Kalamazoo which dealt with some of these issues ('Digital=
- Imaging for Medievalists'). Interestingly enough I scanned and printed some =
-conventional (pre-digital) black and white and colour photographs at various =
-resolutions and colour depths and not one person out of the 30 people who cam=
-e to the session correctly identified which ones were which out of each set. =
-In my view, what we really need are some standards and accurate guidelines an=
-d I am researching this area at the moment. For example, not many people real=
-ise that some pre-digital transparencies are between 2,000 and 4,000 lines re=
-solution (lpi) which puts many digital cameras in the shade.Moving to your question, I think the important thing to understand is that sc=
-reen resolutions are still extremely low when compared with (say) printer res=
-olutions. For example a typical laptop screen at 1024x768 is between 75dpi an=
-d 100dpi depending on the physical screen size. Many modern mobile phone/smar=
-t phone dpi tends to be around 150dpi. Of course these are all generalisation=
-s and there are many web based calculators such as http://tiporama.com/tools/=
-pixels_inches.html which can give you a better idea of resolution capability =
-on a device by device basis. Compare that with an EPSON printer at 1440dpi ho=
-rizontal resolution and you will understand and appreciate the comparison. So=
- it is important to understand that the image you display at any one time on =
-the screen can be relatively low (for performance reasons), but the underlyin=
-g source image (the original scan) needs to be high and lossless to allow the=
- best level of zoom as you move closer and closer into the page. As a palaeog=
-rapher, I want to be able to see 'the big picture' (i.e. the whole page) at a=
-ny one time but then I also want to be able to zoom into sections of the manu=
-script and then down to the individual characters (without pixellation)  to d=
-etermine if that character really is an "S" or an "A" (palaeographers will ge=
-t the joke here). The problem with most lossy compressions is that the 'big p=
-icture' is great but, as you zoom in, you start to see significant degradatio=
-n of the image (a by-product of the way the compression is done) which gets i=
-n the way of scholarly interpretation. For example take a high resolution TIF=
-F image, compress it at various JPG levels and then print it full page on a h=
-igh resolution printer. You will find that all the samples are virtually indi=
-stinguishable from each other until you bring out a magnifying glass and then=
- all will become depressingly clear in terms of the drop in image quality/fid=
-elity at the lowest file sizes.As other contributors have indicated, there are various solutions (e.g. http:=
-//djvu.org/resources/whatisdjvu.php and Virtual Vellum) which can also help, =
-but the resolution, compression and colour depth of the underlying image is s=
-till key. As James implies, it is also important to select a software solutio=
-n that has longevity and is not going to disappear or change once your resear=
-ch project is completed. There are a number of Flash based viewers around but=
- (as James also implies), Adobe's track record at maintaining backward compat=
-ibility (and even retaining technology) has not been that great in the past. =
-Having said that, Adobe Flash has installations that run into at least the te=
-ns of millions so it is unlikely to disappear overnight but we all know Apple=
-'s stance on Adobe Flash!So in closing, I think the most important thing to ensure, for any manuscript=
- project at least, is that the underlying image is at the highest resolution =
-possible (lossless) and the capabilities to zoom into 'snapshots' of that ima=
-ge are flexible in terms of the zoom factors allowed. However, the image 'sna=
-pshot' that gets displayed at any one time on the screen can be relatively lo=
-w for optimal performance but it still needs to be an accurate subset of the =
-original image and as a result downscaling resolution from a lossy compressed=
- original is unlikely to work very well. As I recall, this downscaling is som=
-ething that Virtual Vellum does well as does Photoshop of course but to ident=
-ify one of the many tools and plug-in's which operate in a similar and approp=
-riate way for your particular needs and custom website will of course need yo=
-ur further research.Hope this helpsBest regardsTony Harris
-Kellogg College, Oxford-----Original Message-----
-_redacted_(a)uleth.ca] On Behalf Of B=
-irnbaum, David J
+Subject: [dm-l] RE: best practice: photographc facsimile?
+
+Hi David
+
+This is a really good question. I came into academia with an established background as an digital imaging scientist and as far as I can see at the moment, there are no real standards for image digitation or reproduction in the academic world that can be used effectively by scholars. For example TEI says a lot about how you reference your images but (unsurprisingly) doesn't attempt to give any guidance on how you get them into an appropriate resolution or colour depth in the first place. JISC also give some guidance here but many of their project specifications often seem to favour 4800dpi in 24bit colour. Not very helpful if (for example) you are scanning First World War black and white photographs which have a relatively low lines per inch resolution (search for lpi to dpi calculators online) or if you are using a scanner which has a maximum optical resolution of (say) 2400dpi and everything else is interpolated resolution. These things will of course differ from project to project which is why it is so difficult to lay down accurate guidelines.
+
+I ran a workshop at Kalamazoo which dealt with some of these issues ('Digital Imaging for Medievalists'). Interestingly enough I scanned and printed some conventional (pre-digital) black and white and colour photographs at various resolutions and colour depths and not one person out of the 30 people who came to the session correctly identified which ones were which out of each set. In my view, what we really need are some standards and accurate guidelines and I am researching this area at the moment. For example, not many people realise that some pre-digital transparencies are between 2,000 and 4,000 lines resolution (lpi) which puts many digital cameras in the shade.
+
+Moving to your question, I think the important thing to understand is that screen resolutions are still extremely low when compared with (say) printer resolutions. For example a typical laptop screen at 1024x768 is between 75dpi and 100dpi depending on the physical screen size. Many modern mobile phone/smart phone dpi tends to be around 150dpi. Of course these are all generalisations and there are many web based calculators such as http://tiporama.com/tools/pixels_inches.html which can give you a better idea of resolution capability on a device by device basis. Compare that with an EPSON printer at 1440dpi horizontal resolution and you will understand and appreciate the comparison. So it is important to understand that the image you display at any one time on the screen can be relatively low (for performance reasons), but the underlying source image (the original scan) needs to be high and lossless to allow the best level of zoom as you move closer and closer into the page. As a palaeographer, I want to be able to see 'the big picture' (i.e. the whole page) at any one time but then I also want to be able to zoom into sections of the manuscript and then down to the individual characters (without pixellation)  to determine if that character really is an "S" or an "A" (palaeographers will get the joke here). The problem with most lossy compressions is that the 'big picture' is great but, as you zoom in, you start to see significant degradation of the image (a by-product of the way the compression is done) which gets in the way of scholarly interpretation. For example take a high resolution TIFF image, compress it at various JPG levels and then print it full page on a high resolution printer. You will find that all the samples are virtually indistinguishable from each other until you bring out a magnifying glass and then all will become depressingly clear in terms of the drop in image quality/fidelity at the lowest file sizes.
+
+As other contributors have indicated, there are various solutions (e.g. http://djvu.org/resources/whatisdjvu.php and Virtual Vellum) which can also help, but the resolution, compression and colour depth of the underlying image is still key. As James implies, it is also important to select a software solution that has longevity and is not going to disappear or change once your research project is completed. There are a number of Flash based viewers around but (as James also implies), Adobe's track record at maintaining backward compatibility (and even retaining technology) has not been that great in the past. Having said that, Adobe Flash has installations that run into at least the tens of millions so it is unlikely to disappear overnight but we all know Apple's stance on Adobe Flash!
+
+So in closing, I think the most important thing to ensure, for any manuscript project at least, is that the underlying image is at the highest resolution possible (lossless) and the capabilities to zoom into 'snapshots' of that image are flexible in terms of the zoom factors allowed. However, the image 'snapshot' that gets displayed at any one time on the screen can be relatively low for optimal performance but it still needs to be an accurate subset of the original image and as a result downscaling resolution from a lossy compressed original is unlikely to work very well. As I recall, this downscaling is something that Virtual Vellum does well as does Photoshop of course but to identify one of the many tools and plug-in's which operate in a similar and appropriate way for your particular needs and custom website will of course need your further research.
+
+Hope this helps
+
+Best regards
+
+Tony Harris
+Kellogg College, Oxford
+
+-----Original Message-----
+_redacted_(a)uleth.ca] On Behalf Of Birnbaum, David J
 Sent: 19 June 2012 01:42
 _redacted_(a)uleth.ca
-Subject: [dm-l] best practice: photographc facsimile?Dear Digital Medievalist,For a couple of new Internet editions of medieval manuscripts I've procured h=
-igh-resolution tiff images, which I'm publishing with a "magnifying glass" ov=
-erlay. This is in a "responsive" context, so the components of the page, incl=
-uding the images, resize to fit the window dimensions. There's a sample at:http://suprasliensis.obdurodon.org/pages/supr001r.htmlThe current images were prepared quickly for a demo, and are not of consisten=
-t size or resolution. I would now like to go back to get this part of the sit=
-e up to production quality, and I would be grateful for advice about how to m=
-anage the images, an area where I don't have much (=3D any) knowledge of best=
- practice. I'd like small image files that load quickly, and I think I don't =
-mind slightly lossy compression if that would reduce the file size substantia=
-lly--but if that's a mistake, I'd be grateful for a warning. I think there ar=
-e two questions:1. What's an appropriate file format and resolution (size, dpi, color depth, =
-etc.) for the base image, the one that is displayed in full to the right of t=
-he transcription, and that resizes as the user resizes the window? Currently =
-the image files are in jpg format and vary in size from about 2M down to 250k=
-. I can regenerate them all at a common size, resolution, color depth, etc. f=
-rom the original tiffs, but I don't know whether there is any sense of best p=
-ractice concerning what that size should be. If I go the lossy route, what's =
-a reasonable value?2. What's an appropriate degree of magnification for the magnifying-glass ins=
-et view? Currently the magnifying glass inset always shows the image at 200% =
-of the actual file size (not the size of the page as displayed without magnif=
-ication in the browser window!). You can see the difference by comparing, say=
-, folio 30v (about 2MB) to 284r (about 270k), where the magnification is much=
- greater in the former than the latter. I can set the level of magnification =
-anywhere I'd like, but is there any agreement about best practice here?By way of orientation in the question: the purpose of the full image is to al=
-low the user to see the image conveniently alongside the transcription, verif=
-ying any moments where our editorial judgment might appear surprising or ques=
-tionable. The point of the magnified inset is to let the user examine details=
- that may not be visible at lesser magnification, such as erasures, correctio=
-ns, etc. My casual impression is that 30v looks pretty good and loads reasona=
-bly quickly (although quicker would be better), but I don't place great confi=
-dence in my own casual impressions.Thanks,David
-_redacted_(a)pitt.edu
+Subject: [dm-l] best practice: photographc facsimile?
+
+Dear Digital Medievalist,
+
+For a couple of new Internet editions of medieval manuscripts I've procured high-resolution tiff images, which I'm publishing with a "magnifying glass" overlay. This is in a "responsive" context, so the components of the page, including the images, resize to fit the window dimensions. There's a sample at:
+
+http://suprasliensis.obdurodon.org/pages/supr001r.html
+
+The current images were prepared quickly for a demo, and are not of consistent size or resolution. I would now like to go back to get this part of the site up to production quality, and I would be grateful for advice about how to manage the images, an area where I don't have much (= any) knowledge of best practice. I'd like small image files that load quickly, and I think I don't mind slightly lossy compression if that would reduce the file size substantially--but if that's a mistake, I'd be grateful for a warning. I think there are two questions:
+
+1. What's an appropriate file format and resolution (size, dpi, color depth, etc.) for the base image, the one that is displayed in full to the right of the transcription, and that resizes as the user resizes the window? Currently the image files are in jpg format and vary in size from about 2M down to 250k. I can regenerate them all at a common size, resolution, color depth, etc. from the original tiffs, but I don't know whether there is any sense of best practice concerning what that size should be. If I go the lossy route, what's a reasonable value?
+
+2. What's an appropriate degree of magnification for the magnifying-glass inset view? Currently the magnifying glass inset always shows the image at 200% of the actual file size (not the size of the page as displayed without magnification in the browser window!). You can see the difference by comparing, say, folio 30v (about 2MB) to 284r (about 270k), where the magnification is much greater in the former than the latter. I can set the level of magnification anywhere I'd like, but is there any agreement about best practice here?
+
+By way of orientation in the question: the purpose of the full image is to allow the user to see the image conveniently alongside the transcription, verifying any moments where our editorial judgment might appear surprising or questionable. The point of the magnified inset is to let the user examine details that may not be visible at lesser magnification, such as erasures, corrections, etc. My casual impression is that 30v looks pretty good and loads reasonably quickly (although quicker would be better), but I don't place great confidence in my own casual impressions.
+
+Thanks,
+
+David
+_redacted_(a)pitt.edu
+
 Digital Medievalist --  http://www.digitalmedievalist.org/
 Journal: http://www.digitalmedievalist.org/journal/
 Journal Editors: editors _AT_ digitalmedievalist.org
@@ -111,5 +52,7 @@ Wiki: http://www.digitalmedievalist.org/wiki/
 Twitter: http://twitter.com/digitalmedieval
 Facebook: http://www.facebook.com/group.php?gidI320313760
 _redacted_(a)uleth.ca
-Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
---===============4385893560819730662==--
+Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+--4385893560819730662-
+

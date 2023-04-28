@@ -1,19 +1,36 @@
-Subject: [dm-l] glossing Janus/P5On Tue, 29 Jun 2004, Binkley, Peter wrote:> For those of us who are new to TEI (ok, just me, then), would someone care
-> to gloss this? P5? Janus tags?The "P" numbers are the versions of the published TEI spec. I can't
+Subject: [dm-l] glossing Janus/P5
+
+On Tue, 29 Jun 2004, Binkley, Peter wrote:
+
+> For those of us who are new to TEI (ok, just me, then), would someone care
+> to gloss this? P5? Janus tags?
+
+The "P" numbers are the versions of the published TEI spec. I can't
 now remember what it stands for ('proposal'?). P3 ('the green books')
 is for most purposes the reigning version, since P4 ('the slate-blue
 books?') is really only a kind of bug-fix update of P3. P5 promises
-to be a much more radical revision.'Janus tags,' I think, is TEI slang for two-faced tags--pairs of tags
+to be a much more radical revision.
+
+'Janus tags,' I think, is TEI slang for two-faced tags--pairs of tags
 that show one face and hide the other as an attribute, or vice 
 versa, of which the most used is probably the SIC/CORR pair. An erroneous
-word (say 'medievil') could be captured optionally as<SIC CORR="mediaeval">medievil</SIC>  or
-<CORR SIC="medievil">mediaeval</CORR>The former preserves the attested form in the text and relegates
+word (say 'medievil') could be captured optionally as
+
+<SIC CORRediaeval">medievil</SIC>  or
+<CORR SICedievil">mediaeval</CORR>
+
+The former preserves the attested form in the text and relegates
 the correction to the attribute; the latter does the opposite.
 The proposal is to do away with such things since preserving
 literal text in attributes makes it impossible to include
-features that need to be marked up.pfs
+features that need to be marked up.
+
+pfs
 -- 
 --------------------------------------------------------------------
 _redacted_(a)umich.edu | http://www-personal.umich.edu/~pfs/
 316 Hatcher Library N, Univ. of Michigan, Ann Arbor MI 48109-1205
---------------------------------------------------------------------
+--------------------------------------------------------------------
+
+
+

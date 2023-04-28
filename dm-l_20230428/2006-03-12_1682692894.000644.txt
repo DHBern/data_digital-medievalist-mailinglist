@@ -1,4 +1,6 @@
-Subject: Re: [dm-l] TEI/XML manuscript markup initiatives?Martin K. Foys wrote:
+Subject: Re: [dm-l] TEI/XML manuscript markup initiatives?
+
+Martin K. Foys wrote:
 > Dear DM's
 > 
 > I looking for a bit of an update on current initiatives for encoding 
@@ -10,7 +12,11 @@ Subject: Re: [dm-l] TEI/XML manuscript markup initiatives?Martin K. Foys wrote
 > Manuscript Description, the MARC initiative, the MASTER  program, and of 
 > course, EPT), but what ones (those and others) should be considered as 
 > still active and working -- leading the charge, if you will, towards the 
-> markup of medieval MSS?Hi Martin,I would of course recommend using TEI P5 and its Manuscript 
+> markup of medieval MSS?
+
+Hi Martin,
+
+I would of course recommend using TEI P5 and its Manuscript 
 Description module.[1]  This is really the outcome of the most recent 
 work, based on the work of the groups you note and provides some very 
 good ways to record all the metadata one might about a manuscript.[2] 
@@ -18,8 +24,14 @@ good ways to record all the metadata one might about a manuscript.[2]
 <choice> and <g>) which are a boon to the transcription of primary 
 sources, means that if one was starting an edition of a manuscript, 
 then this is what I'd choose.  (In fact, what I have chosen for one 
-I'm currently working on.)-James[1] See the text of the guidelines for this module at 
+I'm currently working on.)
+
+-James
+
+[1] See the text of the guidelines for this module at 
 http://www.tei-c.org/release/doc/tei-p5-doc/html/MS.html
 [2] There is an article on TEI's Manuscript Description module in the 
-upcoming issue of the Digital Medievalist journal.
---===============3269942228947692260==--
+upcoming issue of the Digital Medievalist journal.
+
+--3269942228947692260-
+

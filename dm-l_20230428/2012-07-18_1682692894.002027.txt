@@ -1,7 +1,14 @@
-Subject: Re: [dm-l] Getting Latin Spell Check for Word 2011 ON A MACMany thanks for the suggestions everyone.
+Subject: Re: [dm-l] Getting Latin Spell Check for Word 2011 ON A MAC
+
+Many thanks for the suggestions everyone.
 Installing Latin dictionary is so easy in OpenOffice, I sure hope Microsoft
-can get its act together someday.jw_redacted_(a)gmail.com>wr=
-ote:>
+can get its act together someday.
+
+jw
+
+_redacted_(a)gmail.com>wrote:
+
+>
 > Best regards,
 > Maxim G. Romanov
 >
@@ -12,14 +19,12 @@ ote:>
 >
 >
 >
-_redacted_(a)gmail.com>=
-wrote:
+_redacted_(a)gmail.com>wrote:
 >
 >> Dear Jeffery,
 >>
 >> Another alternative is to use virtualization software like Parallels
->> <http://www.parallels.com/products/desktop/>or VMware Fusion<http://www.vm=
-ware.com/products/fusion/overview.html>,
+>> <http://www.parallels.com/products/desktop/>or VMware Fusion<http://www.vmware.com/products/fusion/overview.html>,
 >> which will allow you to run Windows programs from within Mac OS (Using
 >> BootCamp, you will have to reboot, so that is not very convenient and kind
 >> of defeats the purpose of switching to Mac). I was particularly impressed
@@ -45,11 +50,9 @@ _redacted_(a)regents.ox.ac.uk> wrote:
 >>> ** **
 >>>
 >>> This is an MS Windows program and therefore it will not run under MacOS
->>> which is a different operating system and different architecture. Dependi=
-ng
+>>> which is a different operating system and different architecture. Depending
 >>> on your Mac (intel based plus enough memory) you may be able to install a
->>> version of Windows on it. For more details refer to Apple=E2=80=99s help =
-notes on
+>>> version of Windows on it. For more details refer to Apple’s help notes on
 >>> this at: http://support.apple.com/kb/HT3986****
 >>>
 >>> ** **
@@ -76,8 +79,7 @@ notes on
 >>>
 >>> ** **
 >>>
-_redacted_(a)uleth.ca] *On Beha=
-lf
+_redacted_(a)uleth.ca] *On Behalf
 >>> Of *Jeffrey C. Witt
 >>> *Sent:* 18 July 2012 15:26
 _redacted_(a)uleth.ca
@@ -104,11 +106,9 @@ _redacted_(a)uleth.ca
 >>> ** **
 >>>
 >>> I've downloaded the newest release of COL - Correcteur Orthographique de
->>> Latin - Correttore Ortografico di Latino - Corrector Ortogr=C3=A1fico de =
-Lat=C3=ADn
+>>> Latin - Correttore Ortografico di Latino - Corrector Ortográfico de Latín
 >>> from
->>> http://www.drouizig.org/index.php?option=3Dcom_content&view=3Darticle&id=
-=3D75%3Acol&catid=3D38%3Adifazier&Itemid=3D68&lang=3Den
+>>> http://www.drouizig.org/index.php?option=com_content&view=article&id=75%3Acol&catid=38%3Adifazier&Itemid=68&lang=en
 >>> ****
 >>>
 >>> ** **
@@ -145,20 +145,25 @@ Lat=C3=ADn
 >>> News: http://www.digitalmedievalist.org/news/
 >>> Wiki: http://www.digitalmedievalist.org/wiki/
 >>> Twitter: http://twitter.com/digitalmedieval
->>> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+>>> Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca
 >>> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
 >>>
 >>
 >>
->
---=20
+>
+
+-- 
 Dr. Jeffrey C. Witt
 Philosophy Department
 Loyola University Maryland
 4501 N. Charles St.
 Baltimore, MD 21210
-www.jeffreycwitt.comTWFueSB0aGFua3MgZm9yIHRoZSBzdWdnZXN0aW9ucyBldmVyeW9uZS48ZGl2Pkluc3RhbGxpbmcg
+www.jeffreycwitt.com
+
+
+
+TWFueSB0aGFua3MgZm9yIHRoZSBzdWdnZXN0aW9ucyBldmVyeW9uZS48ZGl2Pkluc3RhbGxpbmcg
 TGF0aW4gZGljdGlvbmFyeSBpcyBzbyBlYXN5IGluIE9wZW5PZmZpY2UsIEkgc3VyZSBob3BlIE1p
 Y3Jvc29mdCBjYW4gZ2V0IGl0cyBhY3QgdG9nZXRoZXIgc29tZWRheS48L2Rpdj48ZGl2Pjxicj48
 L2Rpdj48ZGl2Pmp3PGJyPjxkaXY+PGJyPjxkaXYgY2xhc3M9ImdtYWlsX3F1b3RlIj5PbiBXZWQs
@@ -374,4 +379,4 @@ YnI+PGRpdj5Eci4gSmVmZnJleSBDLiBXaXR0PC9kaXY+PGRpdj5QaGlsb3NvcGh5IERlcGFydG1l
 bnQ8L2Rpdj48ZGl2PkxveW9sYSBVbml2ZXJzaXR5IE1hcnlsYW5kPC9kaXY+PGRpdj40NTAxIE4u
 IENoYXJsZXMgU3QuPC9kaXY+QmFsdGltb3JlLCBNRCAyMTIxMDxkaXY+PGEgaHJlZj0iaHR0cDov
 L3d3dy5qZWZmcmV5Y3dpdHQuY29tIiB0YXJnZXQ9Il9ibGFuayI+d3d3LmplZmZyZXljd2l0dC5j
-b208L2E+PC9kaXY+Cjxicj4KPC9kaXY+PC9kaXY+Cg==
+b208L2E+PC9kaXY+Cjxicj4KPC9kaXY+PC9kaXY+Cg

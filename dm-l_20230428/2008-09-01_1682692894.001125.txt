@@ -1,9 +1,19 @@
-Subject: Re: [dm-l] Searching for a search engineIn haste...Lucene will do fuzzy matching based on Levenshtein distance (http://en.wikipe=
-dia.org/wiki/Levenshtein_distance=20
-), which might work for you.  You'd have to figure out whether the =20
-defaults work for you or whether you'd have to figure out your own.You might look for any work on phonetic algorithms (http://en.wikipedia.org/w=
-iki/Phonetic_algorithm=20
-) for Latin.  I'm not aware of any.HOn Sep 1, 2008, at 8:01 AM, Dot Porter wrote:> [apologies for the slightly redundant subject line. It's not even =20
+Subject: Re: [dm-l] Searching for a search engine
+
+In haste...
+
+Lucene will do fuzzy matching based on Levenshtein distance (http://en.wikipedia.org/wiki/Levenshtein_distance 
+), which might work for you.  You'd have to figure out whether the  
+defaults work for you or whether you'd have to figure out your own.
+
+You might look for any work on phonetic algorithms (http://en.wikipedia.org/wiki/Phonetic_algorithm 
+) for Latin.  I'm not aware of any.
+
+H
+
+On Sep 1, 2008, at 8:01 AM, Dot Porter wrote:
+
+> [apologies for the slightly redundant subject line. It's not even  
 > very funny.]
 >
 > I'm looking for a search engine to handle what I guess is termed
@@ -24,7 +34,7 @@ iki/Phonetic_algorithm=20
 > within single transcriptions, and across multiple transcriptions
 > (potentially across the entire corpus).
 >
-> Is anyone on-list familiar with any existing search engines or =20
+> Is anyone on-list familiar with any existing search engines or  
 > frameworks that
 > suit our needs, or that might be modified to suit them?
 >
@@ -37,4 +47,7 @@ iki/Phonetic_algorithm=20
 > News: http://www.digitalmedievalist.org/news/
 > Wiki: http://www.digitalmedievalist.org/wiki/
 _redacted_(a)uleth.ca
-> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+
+

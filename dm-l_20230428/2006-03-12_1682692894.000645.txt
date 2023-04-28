@@ -1,10 +1,23 @@
-Subject: [dm-l] Switching XSL on the web (Lazy question)Hi all,I have a question that I'm sure could be answered by some research, but
+Subject: [dm-l] Switching XSL on the web (Lazy question)
+
+Hi all,
+
+I have a question that I'm sure could be answered by some research, but
 I thought I'd ask here first in case somebody has some code, or so that
-I can get the low down right away.Is there a good way of building links in an xml document so that a
+I can get the low down right away.
+
+Is there a good way of building links in an xml document so that a
 browser pointed at the file can change XSL on the same file. I.e. If I
 have file.xsl and I have three different views of that data
 (default.xsl, view2.xsl, and view3.xsl) is there a good way of setting
 up file.xsl so that a browser pointed at it will be able to change among
-views?I want to do this with a TEI-encoded runic file that has filesheets for
+views?
+
+I want to do this with a TEI-encoded runic file that has filesheets for
 editorial or diplomatic presentation, and each of these in runic or
-roman letters.-d
+roman letters.
+
+-d
+
+
+

@@ -1,10 +1,18 @@
-Subject: Re: [dm-l] Image Content in Digital Projects and MetadataAt Penn we also use TEI msDesc with <decoDesc> and <decoNote> to describe
+Subject: Re: [dm-l] Image Content in Digital Projects and Metadata
+
+At Penn we also use TEI msDesc with <decoDesc> and <decoNote> to describe
 manuscript illustrations (we're actually in the process of converting MARC
 records and an internal database of illustration descriptions into TEI
 msDesc). Although msDesc is "manuscript description" the definition,
 "contains a description of a single identifiable manuscript or other
-text-bearing object," so it can be used to describe printed books.If TEI isn't your thing, you could use METS to describe the book structure,
-with embedded VRA to describe illustrations, I think.Dot_redacted_(a)uni-koeln.de>
+text-bearing object," so it can be used to describe printed books.
+
+If TEI isn't your thing, you could use METS to describe the book structure,
+with embedded VRA to describe illustrations, I think.
+
+Dot
+
+_redacted_(a)uni-koeln.de>
 wrote:
 >
 > Dear Harriet,
@@ -102,7 +110,7 @@ http://www.mossercatalogue.net) CV (http://mosser.vtcath.org)
 >> News: http://www.digitalmedievalist.org/news/
 >> Wiki: http://www.digitalmedievalist.org/wiki/
 >> Twitter: http://twitter.com/digitalmedieval
->> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+>> Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca
 >> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
 >>
@@ -112,7 +120,7 @@ _redacted_(a)uleth.ca
 >> News: http://www.digitalmedievalist.org/news/
 >> Wiki: http://www.digitalmedievalist.org/wiki/
 >> Twitter: http://twitter.com/digitalmedieval
->> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+>> Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca
 >> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
 >>
@@ -122,13 +130,12 @@ _redacted_(a)uleth.ca
 > --
 > Dr. Franz Fischer
 > Cologne Center for eHumanities
-> Universit=C3=A4t zu K=C3=B6ln, Universit=C3=A4tsstr. 22, D-50923 K=C3=B6ln
+> Universität zu Köln, Universitätsstr. 22, D-50923 Köln
 > Telefon: +49 - (0)221 - 470 - 4056
 _redacted_(a)uni-koeln.de
 >
 >
------------------------------------------------------------------------------=
----
+--------------------------------------------------------------------------------
 > http://www.cceh.uni-koeln.de
 > http://www.i-d-e.de
 > http://www.thomasinstitut.uni-koeln.de
@@ -145,9 +152,12 @@ _redacted_(a)uni-koeln.de
 > News: http://www.digitalmedievalist.org/news/
 > Wiki: http://www.digitalmedievalist.org/wiki/
 > Twitter: http://twitter.com/digitalmedieval
-> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+> Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca
-> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+
+
 --
 *~*~*~*~*~*~*~*~*~*~*
 Dot Porter (MA, MSLS)
@@ -158,7 +168,11 @@ Medieval Electronic Scholarly Alliance: http://www.mesa-medieval.org
 MESA blog: http://mesamedieval.wordpress.com/
 MESA on Facebook:
 https://www.facebook.com/MedievalElectronicScholarlyAlliance
-*~*~*~*~*~*~*~*~*~*~*PGRpdiBkaXI9Imx0ciI+QXQgUGVubiB3ZSBhbHNvIHVzZSBURUkgbXNEZXNjIHdpdGggJmx0O2Rl
+*~*~*~*~*~*~*~*~*~*~*
+
+
+
+PGRpdiBkaXI9Imx0ciI+QXQgUGVubiB3ZSBhbHNvIHVzZSBURUkgbXNEZXNjIHdpdGggJmx0O2Rl
 Y29EZXNjJmd0OyBhbmQgJmx0O2RlY29Ob3RlJmd0OyB0byBkZXNjcmliZSBtYW51c2NyaXB0IGls
 bHVzdHJhdGlvbnMgKHdlJiMzOTtyZSBhY3R1YWxseSBpbiB0aGUgcHJvY2VzcyBvZiBjb252ZXJ0
 aW5nIE1BUkMgcmVjb3JkcyBhbmQgYW4gaW50ZXJuYWwgZGF0YWJhc2Ugb2YgaWxsdXN0cmF0aW9u
@@ -332,4 +346,4 @@ cy5jb20vIj5odHRwOi8vbWVzYW1lZGlldmFsLndvcmRwcmVzcy5jb20vPC9hPjxicj5NRVNBIG9u
 IEZhY2Vib29rOiA8YSBocmVmPSJodHRwczovL3d3dy5mYWNlYm9vay5jb20vTWVkaWV2YWxFbGVj
 dHJvbmljU2Nob2xhcmx5QWxsaWFuY2UiPmh0dHBzOi8vd3d3LmZhY2Vib29rLmNvbS9NZWRpZXZh
 bEVsZWN0cm9uaWNTY2hvbGFybHlBbGxpYW5jZTwvYT48YnI+Kn4qfip+Kn4qfip+Kn4qfip+Kn4q
-PGJyPjxkaXYgY2xhc3M9ImdtYWlsX2V4dHJhIj4KPC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+Cg==
+PGJyPjxkaXYgY2xhc3M9ImdtYWlsX2V4dHJhIj4KPC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+Cg

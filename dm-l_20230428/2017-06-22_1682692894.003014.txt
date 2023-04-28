@@ -1,24 +1,22 @@
-Subject:Dear digital medievalists,
-The president and members of the Royal Historical Commission of Belgium are h=
-appy to announce the updated version of the online charter database Diplomata=
- Belgica, now available at http://www.diplomata-belgica.be?Diplomata Belgica offers a critical survey of all the diplomatic sources, edi=
-ted or still unpublished, and issued by both natural persons and legal bodies=
- from the medieval Southern Low Countries. Diplomata Belgica covers present d=
-ay Belgium as well as those areas which belonged historically to the Southern=
- Low Countries but are part now of France (French Flanders, French Hainault),=
- the Netherlands (parts of the provinces of Zeeland, Noord-Brabant, Limburg),=
- the Grand Duchy of Luxembourg, or Germany (parts of the Rhineland). At this =
-stage, Diplomata Belgica contains metadata of about 35,000 charters and deeds=
- in Latin, Old-French, Middle Dutch and Middle High German, almost 19,000 ful=
-l text transcriptions and 5,000 photographs of original charters. As for the =
-seals, the database also provides links to the online corpus of seal moulds d=
-eveloped by the National Archives of Belgium. Diplomata Belgica aims at exhau=
-stivity for the period before 1250 and will, in the future, also include late=
- medieval diplomatic material, without striving after completeness.Diplomata Belgica. The Diplomatic Sources from the Medieval Southern Low Coun=
-tries, ed. by Th=C3=A9r=C3=A8se de Hemptinne, Jeroen Deploige, Jean-Louis Kup=
-per and Walter Prevenier (Brussels: Royal Historical Commission, since 2015).=
- URL: http://www.diplomata-belgica.beAttached you find the user guide (in French).Please feel free and welcome to address any comments or feedback to diplomata=
-_redacted_(a)UGent.be.Sincerely,Els De Paermentier----
+Subject:
+
+Dear digital medievalists,
+
+The president and members of the Royal Historical Commission of Belgium are happy to announce the updated version of the online charter database Diplomata Belgica, now available at http://www.diplomata-belgica.be?
+
+Diplomata Belgica offers a critical survey of all the diplomatic sources, edited or still unpublished, and issued by both natural persons and legal bodies from the medieval Southern Low Countries. Diplomata Belgica covers present day Belgium as well as those areas which belonged historically to the Southern Low Countries but are part now of France (French Flanders, French Hainault), the Netherlands (parts of the provinces of Zeeland, Noord-Brabant, Limburg), the Grand Duchy of Luxembourg, or Germany (parts of the Rhineland). At this stage, Diplomata Belgica contains metadata of about 35,000 charters and deeds in Latin, Old-French, Middle Dutch and Middle High German, almost 19,000 full text transcriptions and 5,000 photographs of original charters. As for the seals, the database also provides links to the online corpus of seal moulds developed by the National Archives of Belgium. Diplomata Belgica aims at exhaustivity for the period before 1250 and will, in the future, also include late medieval diplomatic material, without striving after completeness.
+
+Diplomata Belgica. The Diplomatic Sources from the Medieval Southern Low Countries, ed. by Thérèse de Hemptinne, Jeroen Deploige, Jean-Louis Kupper and Walter Prevenier (Brussels: Royal Historical Commission, since 2015). URL: http://www.diplomata-belgica.be
+
+Attached you find the user guide (in French).
+
+Please feel free and welcome to address any comments or feedback to diplomata_redacted_(a)UGent.be.
+
+Sincerely,
+
+Els De Paermentier
+
+----
 Prof. dr. Els De Paermentier
 Ghent University
 Dept. of History (Middle Ages)
@@ -27,7 +25,11 @@ B-9000 Ghent (Belgium)
 T +32.9.331.02.20
 research.flw.ugent.be/en/els.depaermentier
 www.pirenne.ugent.be<http://www.pirenne.ugent.be>
-https://digitalmedievalist.wordpress.com/PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
+https://digitalmedievalist.wordpress.com/
+
+
+
+PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
 eHQvaHRtbDsgY2hhcnNldD1pc28tODg1OS0xIj4KPHN0eWxlIHR5cGU9InRleHQvY3NzIiBzdHls
 ZT0iZGlzcGxheTpub25lIj48IS0tIFAgeyBtYXJnaW4tdG9wOiAwcHg7IG1hcmdpbi1ib3R0b206
 IDBweDsgfSBwIHsgbWFyZ2luLXRvcDogMHB4OyBtYXJnaW4tYm90dG9tOiAwcHg7IH0tLT48L3N0
@@ -149,7 +151,9 @@ ZW50LmJlPC9mb250PjwvYT48L2Rpdj4KPGRpdj48YSB0YWJpbmRleD0iMCIgaHJlZj0iaHR0cHM6
 Ly9kaWdpdGFsbWVkaWV2YWxpc3Qud29yZHByZXNzLmNvbS8iIGlkPSJOb0xQIj48Zm9udCBmYWNl
 PSInU2Vnb2UgVUknLFNhbnMtU2VyaWYiIHNpemU9IjIiPmh0dHBzOi8vZGlnaXRhbG1lZGlldmFs
 aXN0LndvcmRwcmVzcy5jb20vPC9mb250PjwvYT48L2Rpdj4KPC9kaXY+CjwvZGl2Pgo8L2JvZHk+
-CjwvaHRtbD4KJVBERi0xLjMKJcTl8uXrp/Og0MTGCjQgMCBvYmoKPDwgL0xlbmd0aCA1IDAgUiAvRmlsdGVyIC9G
+CjwvaHRtbD4K
+
+JVBERi0xLjMKJcTl8uXrp/Og0MTGCjQgMCBvYmoKPDwgL0xlbmd0aCA1IDAgUiAvRmlsdGVyIC9G
 bGF0ZURlY29kZSA+PgpzdHJlYW0KeAG9XcmuG0ty3fMraK/aC7FrHgDjLTzgwb1r+AJeGF48qSU0
 DD8bz174933OiciIzGJRLV5RFnAhsobMGE8MmVX87frH62/X7trdum4ZxmUcluu8z7dhv25Tf9vW
 db7+9+frv1z/k5fddvyb9oU3tN/y9sunX69/93bdb36ZPozrbdmu87bdlvX69uv19z/31/769uX6
@@ -54127,4 +54131,4 @@ MDMwNjYyNjMgMDAwMDAgbiAKMDAwMzA2NjMxNyAwMDAwMCBuIAowMDAzMDY2MzUwIDAwMDAwIG4g
 CjAwMDMwNjYzOTMgMDAwMDAgbiAKMDAwMzA2NjQxMyAwMDAwMCBuIAp0cmFpbGVyCjw8IC9TaXpl
 IDUwMSAvUm9vdCAzMzkgMCBSIC9JbmZvIDEgMCBSIC9JRCBbIDw5NDE2MTZmZWYyZGYxZWQ2M2I5
 OGY0OTMyYjc2MjlhNz4KPDk0MTYxNmZlZjJkZjFlZDYzYjk4ZjQ5MzJiNzYyOWE3PiBdID4+CnN0
-YXJ0eHJlZgozMDY2NTg1CiUlRU9GCg==
+YXJ0eHJlZgozMDY2NTg1CiUlRU9GCg

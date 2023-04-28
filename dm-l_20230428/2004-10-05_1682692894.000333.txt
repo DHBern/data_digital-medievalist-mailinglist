@@ -1,25 +1,46 @@
-Subject: Re: [dm-l] Character reference conversions: help?At 10:56 PM 05/10/2004, you wrote:>XML character references like "&#937;" allow for the representation of 
+Subject: Re: [dm-l] Character reference conversions: help?
+
+At 10:56 PM 05/10/2004, you wrote:
+
+>XML character references like "&#937;" allow for the representation of 
 >Unicode scalar values which are not supported by the character encoding 
 >scheme used to serialize an XML document.  They are a sort of 
 >meta-serialization.  The character reference "&#937;" advises an XML 
 >processor to replace this reference with a representation of the Unicode 
 >scalar value 937 (which stands for the Greek upper-case Omega abstract 
->character).  This is equivalent to the XML character reference "&#x3A9;"Are you saying that the entity "&#937", which is the Greek upper-case Omega 
+>character).  This is equivalent to the XML character reference "&#x3A9;"
+
+Are you saying that the entity "&#937", which is the Greek upper-case Omega 
 abstract character in Unicode, is not the Greek upper-case Omega abstract 
 character in UCS-4? In other words, that the 937 code point refers to 
 different abstract characters in Unicode vs. UCS, that the two standards 
 map the same code point to different characters? If so, it appears (to me, 
 at least) to be a very bad design choice; conversion would certainly be 
 needed in this case. If not, then UCS &#937 is exactly the same as Unicode 
-&#937, and no conversion of the entity coding is needed.There must be a character chart somewhere comparing UCS and Unicode code 
-points...>"Fonts" are again from a different level of abstraction.  A font is a set 
+&#937, and no conversion of the entity coding is needed.
+
+There must be a character chart somewhere comparing UCS and Unicode code 
+points...
+
+>"Fonts" are again from a different level of abstraction.  A font is a set 
 >of so-called "glyph images" used for the visualization of characters.  A 
 >character may be represented by different glyph images, and the same glyph 
->image might represent different characters.Exactly. So if the font in use had no glyph at code point &#937, or had 
+>image might represent different characters.
+
+Exactly. So if the font in use had no glyph at code point &#937, or had 
 some other glyph there, you would not see the Greek upper-case Omega with 
 that font. My badly-stated point was that while the entity &#937 always 
 means the Greek upper-case Omega abstract character in the Unicode 
 standard, the glyph you actually see depends on the font in use. A 
 Unicode-compliant font should show the Omega glyph, but whether it does or 
-not is up to the font creator.DavidDavid Badkehttp://badke.ca/david
-http://bestiary.ca
+not is up to the font creator.
+
+David
+
+David Badke
+
+http://badke.ca/david
+http://bestiary.ca
+
+
+

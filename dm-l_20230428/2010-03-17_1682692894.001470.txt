@@ -1,71 +1,87 @@
-Subject: Re: [dm-l] Layout of medieval poetry with CSSDear Peter,How about the following:<div class=3D"vl">
-hr=C4=93ran mid hondum hr=C4=ABmcealde s=C7=A3,
+Subject: Re: [dm-l] Layout of medieval poetry with CSS
+
+Dear Peter,
+
+How about the following:
+
+<div class="vl">
+hrēran mid hondum hrīmcealde sǣ,
 </div>
-<div class=3D"n">5</div>
-<div class=3D"vl">
- wadan wr=C3=A6cl=C4=81stas. Wyrd bi=C3=B0 ful =C4=81r=C7=A3d.
-</div>div.vl {margin-left:6em; text-indent: -2em;}
+<div class="n">5</div>
+<div class="vl">
+ wadan wræclāstas. Wyrd bið ful ārǣd.
+</div>
+
+div.vl {margin-left:6em; text-indent: -2em;}
 div.n {
 	float: left;
-}This way, all the verse lines have the same class and the number div is befor=
-e the line it applies to, not in it.I tried it on IE 8, FF 3.6, Chrome 5, Safari 4, and Safari on the iPhone.  Wo=
-rked with no problem.  If you'd like me to check it with IE 7, I can tomorrow=
-.  I wouldn't worry about IE 6.Best,
+}
+
+This way, all the verse lines have the same class and the number div is before the line it applies to, not in it.
+
+I tried it on IE 8, FF 3.6, Chrome 5, Safari 4, and Safari on the iPhone.  Worked with no problem.  If you'd like me to check it with IE 7, I can tomorrow.  I wouldn't worry about IE 6.
+
+Best,
 Grant Simpson
 Senior Analyst/Programmer, Office of the Registrar
 Doctoral Student, Department of English
-Indiana University Bloomington
-On Mar 17, 2010, at 4:20 PM, Peter Baker wrote:> I've been struggling with the problem of laying out medieval poetry in=20
-> HTML using just CSS. The problem is with line numbers, which usually=20
-> appear to the left (sometimes to the right) of the poem; yet the left=20
-> margin of the poem should remain even, and lines should wrap nicely,=20
+Indiana University Bloomington
+
+On Mar 17, 2010, at 4:20 PM, Peter Baker wrote:
+
+> I've been struggling with the problem of laying out medieval poetry in 
+> HTML using just CSS. The problem is with line numbers, which usually 
+> appear to the left (sometimes to the right) of the poem; yet the left 
+> margin of the poem should remain even, and lines should wrap nicely, 
 > with extra space on the left after a wrap.
->=20
-> Much, perhaps most of the poetry I've seen on the web is laid out with=20
-> tables, which is a bad hack, and less than ideal in several different=20
-> ways. For my online Old English anthology site I worked out a system=20
-> which is just barely okay: but it tends to fall apart under stress--i.e.=20
-> when a browser window is made too narrow. Since I've been trying to=20
-> format poetry so it displays well on an iPhone or other small screen,=20
+> 
+> Much, perhaps most of the poetry I've seen on the web is laid out with 
+> tables, which is a bad hack, and less than ideal in several different 
+> ways. For my online Old English anthology site I worked out a system 
+> which is just barely okay: but it tends to fall apart under stress--i.e. 
+> when a browser window is made too narrow. Since I've been trying to 
+> format poetry so it displays well on an iPhone or other small screen, 
 > this will not do.
->=20
-> Here's my solution, with a screenshot. It still seems less than ideal,=20
-> and my question for anyone who has struggled to present medieval poetry=20
-> well on screen, is whether you have a system that is better and are=20
+> 
+> Here's my solution, with a screenshot. It still seems less than ideal, 
+> and my question for anyone who has struggled to present medieval poetry 
+> well on screen, is whether you have a system that is better and are 
 > willing to share it here.
->=20
-> My current solution involves enclosing each line in a div with class=20
-> "vl" (verse-line). *Numbered* lines, on the other hand, go in a div with=20
-> class "vln" (numbered-verse-line). The <div class=3D"vln"> lines start=20
+> 
+> My current solution involves enclosing each line in a div with class 
+> "vl" (verse-line). *Numbered* lines, on the other hand, go in a div with 
+> class "vln" (numbered-verse-line). The <div class="vln"> lines start 
 > with a div containing the line number. So here:
->=20
-> <div class=3D"vl">
-> hr=C4=93ran mid hondum hr=C4=ABmcealde s=C7=A3,
+> 
+> <div class="vl">
+> hrēran mid hondum hrīmcealde sǣ,
 > </div>
-> <div class=3D"vln">
-> <div>5</div> wadan wr=C3=A6cl=C4=81stas. Wyrd bi=C3=B0 ful =C4=81r=C7=A3d.
+> <div class="vln">
+> <div>5</div> wadan wræclāstas. Wyrd bið ful ārǣd.
 > </div>
->=20
+> 
 > Now the CSS:
->=20
+> 
 > div.vl {margin-left:6em; text-indent: -2em;}
 > div.vln {margin-left:6em; text-indent: -6em;}
 > div.vln div {float:left; width:4em; color:black;}
->=20
-> And that gives you something like the attached: good on an iPhone or a=20
-> computer (Firefox, Safari, Opera, *probably* IE but I haven't tested=20
-> there yet). I also have a variant for Old English hypermetric lines but=20
+> 
+> And that gives you something like the attached: good on an iPhone or a 
+> computer (Firefox, Safari, Opera, *probably* IE but I haven't tested 
+> there yet). I also have a variant for Old English hypermetric lines but 
 > won't bore you with that.
->=20
-> Things I don't like: having different classes for lines with and without=20
-> line numbers; having the line-number div inside the line div (the=20
-> alternatives I've tried tend to break *somewhere*). It would be nice if=20
-> the line numbers somehow escaped being copied to the clipboard with the=20
+> 
+> Things I don't like: having different classes for lines with and without 
+> line numbers; having the line-number div inside the line div (the 
+> alternatives I've tried tend to break *somewhere*). It would be nice if 
+> the line numbers somehow escaped being copied to the clipboard with the 
 > text, but that would surely be asking too much.
->=20
+> 
 > If anyone is interested in sharing solutions, I'd be very grateful!
->=20
+> 
 > Peter Baker
->=20
-> <iphone.jpg><ATT00001..txt>
---===============7818285692392784159==--
+> 
+> <iphone.jpg><ATT00001..txt>
+
+--7818285692392784159-
+

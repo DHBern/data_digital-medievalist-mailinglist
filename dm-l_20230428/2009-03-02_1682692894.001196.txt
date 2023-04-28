@@ -1,34 +1,45 @@
-Subject: Re: [dm-l] Ideal informatics training [TAN, maybe]
-Dear Dan,Over here in Cologne, Germany, we have a special chair for "Humanities=20
-Computer Science" which is involved in a number of BA/MA programs. Beside=20
-these, it offers an "IT Certificate" for students in the humanities faculty=20
-(students from the specialized degree programs, i.e., media informatics,=20
-digital media and cultural heritage studies, and information processing in=20
-the humanities are excluded).The certificate for the "normal" humanities student includes the following=20
+Subject: Re: [dm-l] Ideal informatics training [TAN, maybe]
+
+Dear Dan,
+
+Over here in Cologne, Germany, we have a special chair for "Humanities 
+Computer Science" which is involved in a number of BA/MA programs. Beside 
+these, it offers an "IT Certificate" for students in the humanities faculty 
+(students from the specialized degree programs, i.e., media informatics, 
+digital media and cultural heritage studies, and information processing in 
+the humanities are excluded).
+
+The certificate for the "normal" humanities student includes the following 
 four courses:
-         - Course 1, common technologies I: operating systems, office=20
-applications (e.g. open office), image processing, webserver (installation,=20
+         - Course 1, common technologies I: operating systems, office 
+applications (e.g. open office), image processing, webserver (installation, 
 configuration, maintenance)
-         - Course 2, common technologies II: networks, internet=20
-technologies, html/css/javascript, programming by example (PHP), online=20
-databases by example (MySQL) - all applied in a hands-on course project=20
-("transform a humanities information resource (a.k.a. "book") into an=20
+         - Course 2, common technologies II: networks, internet 
+technologies, html/css/javascript, programming by example (PHP), online 
+databases by example (MySQL) - all applied in a hands-on course project 
+("transform a humanities information resource (a.k.a. "book") into an 
 online database")
-         - Course 3, dedicated systems: CMS by example (Typo3), digital=20
+         - Course 3, dedicated systems: CMS by example (Typo3), digital 
 repository systems by example (DSpace)
-         - Course 4, data- and metadata standards: XML (with Schema and=20
-XPath), XSLT, metadata theory, data standards in the humanities and the=20
-cultural heritage sector, DC, TEI, METS/MODS, EAD, CDWA, semantic web, RDF,=20
-OWL - X-technologies and TEI applied in a hands-on course project=20
-("transform a humanities information resource (a.k.a. "book") into a=20
-markup-based and XSLT-generated online presentation").You can find further information here:
-http://www.hki.uni-koeln.de/lehrveranstaltungenBest, Patrick Sahle
+         - Course 4, data- and metadata standards: XML (with Schema and 
+XPath), XSLT, metadata theory, data standards in the humanities and the 
+cultural heritage sector, DC, TEI, METS/MODS, EAD, CDWA, semantic web, RDF, 
+OWL - X-technologies and TEI applied in a hands-on course project 
+("transform a humanities information resource (a.k.a. "book") into a 
+markup-based and XSLT-generated online presentation").
+
+You can find further information here:
+http://www.hki.uni-koeln.de/lehrveranstaltungen
+
+Best, Patrick Sahle
+
 Lecturer in Humanities IT, University of Cologne, Germany
-Historisch-Kulturwissenschaftliche Informationsverarbeitung, Universit=C3=A4t=
- zu=20
-K=C3=B6ln
-Universit=C3=A4tsstra=C3=9Fe 22, D-50923 K=C3=B6ln, +49 - (0)221 - 470 1750
------------------------------------------------------------------------------=
----------------------------------------
-Institute for Documentology and Scholarly Editing / Institut f=C3=BCr=20
-Dokumentologie und Editorik: http://www.i-d-e.de
+Historisch-Kulturwissenschaftliche Informationsverarbeitung, Universität zu 
+Köln
+Universitätsstraße 22, D-50923 Köln, +49 - (0)221 - 470 1750
+--------------------------------------------------------------------------------------------------------------------
+Institute for Documentology and Scholarly Editing / Institut für 
+Dokumentologie und Editorik: http://www.i-d-e.de
+
+
+

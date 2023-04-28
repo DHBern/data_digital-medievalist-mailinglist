@@ -1,34 +1,41 @@
-Subject: [dm-l] Mingana onlineDear everyone
-Today we are launching the first phase of the Virtual Manuscript Room, =20
-with full sets of digital images for 71 manuscripts from the Mingana =20
-collection (some 13000 images).  You can find the site at http://www.vmr.bham=
-.ac.uk=20
-.  Among other things, the site has images of one of the oldest copies =20
-of the Qur'an in existence, Mingana Islamic Arabic 1572, recently =20
-dated as possibly 7th century.The site has some interesting features.  Firstly, it is completely =20
-integrated with the university's institutional repository: see http://epapers=
-.bham.ac.uk/=20
-  (the manuscripts are at http://epapers.bham.ac.uk/view/series/Mingana.html)=
-=20
-.  This gives them a presence in the online catalogues, which means =20
-they can be found by Google,and also provides a secure long-term =20
-maintenance strategy.  Secondly, we developed a new image viewer, =20
-using the 'Open Layers' software.  This is not finished yet, but =20
-already offers some nice developments: it does not use Flash (it is =20
-entirely javascript based); the viewer resizes horizontally as the =20
-window resizes; it has a 'carousel' which allows you to browse =20
-thumbnails of all the manuscript pages within the viewer.  Finally, =20
-following my well-known philosophy, it is low-cost: the imaging cost =20
-around 50 pence a page; the whole cost of the site was a few pounds a =20
-page.  Note that the imaging was done a few years ago and lacks some =20
-things (rulers, colour bars) which we should now include.Enjoy!
+Subject: [dm-l] Mingana online
+
+Dear everyone
+Today we are launching the first phase of the Virtual Manuscript Room,  
+with full sets of digital images for 71 manuscripts from the Mingana  
+collection (some 13000 images).  You can find the site at http://www.vmr.bham.ac.uk 
+.  Among other things, the site has images of one of the oldest copies  
+of the Qur'an in existence, Mingana Islamic Arabic 1572, recently  
+dated as possibly 7th century.
+
+The site has some interesting features.  Firstly, it is completely  
+integrated with the university's institutional repository: see http://epapers.bham.ac.uk/ 
+  (the manuscripts are at http://epapers.bham.ac.uk/view/series/Mingana.html) 
+.  This gives them a presence in the online catalogues, which means  
+they can be found by Google,and also provides a secure long-term  
+maintenance strategy.  Secondly, we developed a new image viewer,  
+using the 'Open Layers' software.  This is not finished yet, but  
+already offers some nice developments: it does not use Flash (it is  
+entirely javascript based); the viewer resizes horizontally as the  
+window resizes; it has a 'carousel' which allows you to browse  
+thumbnails of all the manuscript pages within the viewer.  Finally,  
+following my well-known philosophy, it is low-cost: the imaging cost  
+around 50 pence a page; the whole cost of the site was a few pounds a  
+page.  Note that the imaging was done a few years ago and lacks some  
+things (rulers, colour bars) which we should now include.
+
+Enjoy!
 all the best
-Peter
---===============8734153779440030514==
-Content-Type: text/html
+Peter
+
+
+
+--8734153779440030514Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWw+PGJvZHkgc3R5bGU9IndvcmQtd3JhcDogYnJlYWstd29yZDsgLXdlYmtpdC1uYnNwLW1v
+Content-Disposition: attachment; filenameúttachment.html"
+MIME-Version: 1.0
+
+PGh0bWw+PGJvZHkgc3R5bGU9IndvcmQtd3JhcDogYnJlYWstd29yZDsgLXdlYmtpdC1uYnNwLW1v
 ZGU6IHNwYWNlOyAtd2Via2l0LWxpbmUtYnJlYWs6IGFmdGVyLXdoaXRlLXNwYWNlOyAiPkRlYXIg
 ZXZlcnlvbmU8ZGl2PlRvZGF5IHdlIGFyZSBsYXVuY2hpbmcgdGhlIGZpcnN0IHBoYXNlIG9mIHRo
 ZSBWaXJ0dWFsIE1hbnVzY3JpcHQgUm9vbSwgd2l0aCBmdWxsIHNldHMgb2YgZGlnaXRhbCBpbWFn
@@ -61,4 +68,5 @@ Jm5ic3A7Tm90ZSB0aGF0IHRoZSBpbWFnaW5nIHdhcyBkb25lIGEgZmV3IHllYXJzIGFnbyBhbmQg
 bGFja3Mgc29tZSB0aGluZ3MgKHJ1bGVycywgY29sb3VyIGJhcnMpIHdoaWNoIHdlIHNob3VsZCBu
 b3cgaW5jbHVkZS48L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2PkVuam95ITwvZGl2PjxkaXY+YWxs
 IHRoZSBiZXN0PC9kaXY+PGRpdj5QZXRlcjwvZGl2PjxkaXY+PGJyPjwvZGl2PjwvYm9keT48L2h0
-bWw+
+bWw+
+

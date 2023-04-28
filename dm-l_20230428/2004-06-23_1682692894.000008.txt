@@ -1,9 +1,15 @@
-Subject: Re: [dm-l] Re: Experience using Microsoft's XSLT?Well, let us start off with a little minor controversy.In the midst of converts to and enthusiasts for XSLT and that family of
+Subject: Re: [dm-l] Re: Experience using Microsoft's XSLT?
+
+Well, let us start off with a little minor controversy.
+
+In the midst of converts to and enthusiasts for XSLT and that family of
 tools, here is my two pennysworth.  I suggest that a serious and full-scale
 electronic edition of a typical medieval work, with the (now!) standard
 requirement that it integrate text transcription/edition and images, to a
 standard satisfactory for a scholarly user, cannot be made by these tools
-from an XML base.There are two reasons for this.  The first reason is that it seems to me the
+from an XML base.
+
+There are two reasons for this.  The first reason is that it seems to me the
 fundamental requirement of such an edition is that it should present a
 single page of a manuscript transciption alongside a single manuscript image
 (or, in variants of this, a single column alongside the image, etc).  Given
@@ -14,7 +20,9 @@ very tricky indeed.  If you can do it (and I have not yet seen this done,
 though I have heard lengthy explanations of how it *might* be done) you can
 only do it with great difficulty with the standard tools.  The problem here
 is our old bugbear overlapping hierarchies, and XSLT etc just don't have any
-easy answer to this -- and maybe no reliable answer at all.The second reason is to do with the nature of the XSLT programming language
+easy answer to this -- and maybe no reliable answer at all.
+
+The second reason is to do with the nature of the XSLT programming language
 and the kind of things we want to do with our displays, even in situations
 where the problem of overlapping hierarchies does not hit us.  Take a single
 word in (for example) a line of transcription of a manuscript of the
@@ -36,15 +44,25 @@ to take to cope with the messiness of manuscript life, so the programmer
 needs a responsive and transparent programming environment, where it is easy
 to diagnose what is going wrong, where, as the displays are built.  I sure
 would hate to try to do this in XSLT etc. While XML is fine for many things,
-it does not look a great environment for programming to me.The question is germane because it now seems that a lot of effort is going
+it does not look a great environment for programming to me.
+
+The question is germane because it now seems that a lot of effort is going
 in to persuading humanities scholars, like us, that:
 A. we put all our data into XML, preferable the TEI variety
 B. we use XML programming tools like XSLT to get it to the reader
 I think the first proposition is unquestionably right: that battle has been
 won.  But XML's victory in the first does not mean that XML is the right
-answer for the second. Indeed, I don't think it is.So, over to you all.  I have set people this challenge before but here it is
+answer for the second. Indeed, I don't think it is.
+
+So, over to you all.  I have set people this challenge before but here it is
 again: someone, try to duplicate a typical single page say of our Hengwrt
-Digital Facsimile from our XML source.  And good luck to you.All the best
+Digital Facsimile from our XML source.  And good luck to you.
+
+All the best
 Peter Robinson
--- 
---===============0575637487481124472==--
+-- 
+
+
+
+--0575637487481124472-
+

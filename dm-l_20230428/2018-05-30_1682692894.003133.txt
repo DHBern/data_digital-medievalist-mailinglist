@@ -1,69 +1,56 @@
-Subject: [dm-l] Postdoctoral Fellowship in Digital Cultural Heritage and theVanderbilt University invites applications for a postdoctoral fellowship in T=
-EI/MEI as part of the Digital Cultural Heritage Research Cluster<https://www.=
-vanderbilt.edu/strategicplan/trans-institutional-programs/tips-2018/digital-c=
-ultural-heritage.php> situated within the Vanderbilt University Center for Di=
-gital Humanities<https://www.vanderbilt.edu/digitalhumanities/>.
-Applicants are invited from any relevant discipline including the humanities,=
- library science, museum studies, or data science. We are looking for a talen=
-ted scholar who will train and foster the growing community of students and f=
-aculty at Vanderbilt interested in the application of XML encoding to cultura=
-l heritage preservation and research. The successful applicant will be an eff=
-ective teacher experienced in introducing beginners to the guidelines of the =
-Text Encoding Initiative (TEI)<http://tei-c.org/> and also able to collaborat=
-e with scholars in the advanced application of the TEI in research. The ideal=
- applicant will also be familiar with the Music Encoding Initiative (MEI)<htt=
-p://music-encoding.org/> or willing to learn and teach its guidelines as part=
- of the fellowship.This fellow will join a new research cluster in Digital Cultural Heritage at =
-Vanderbilt. Inspired by UNESCO=E2=80=99s mission to protect cultural heritage=
- in danger of destruction, this cluster unites expertise across multiple disc=
-iplines (French, History, Computer Science, Religious Studies, Classics, Musi=
-cology, History of Art, Anthropology) and maintains interests in a variety of=
- cultural expressions (archeological sites, artifacts and monuments, texts, m=
-usic). Within and beyond the cluster, Vanderbilt is home to a number of activ=
-e projects employing TEI XML. Several projects use a jointly developed TEI cu=
-stomization for historical geography and architecture including Syriaca.org<h=
-ttp://syriaca.org/>, Architectura Sinica<https://architecturasinica.org/>, an=
-d LOGAR: Linked Open Gazetteer of the Andean Region<http://www.logarandes.org=
-/>. Other projects include a focus on text corpora such as The Digital Syriac=
- Corpus<https://syriaccorpus.org/>, Digital Corpus Baudelaire<https://github.=
-com/HeardLibrary/corpus-baudelaire>, and Hannah Arendt: Complete Works<https:=
-//as.vanderbilt.edu/grees/arendt/arendt.php>. In 2014, Vanderbilt hosted the =
-NEH funded XQuery Summer Institute [http://xqueryinstitute.org/] which focuse=
-d on the use of the TEI extensively.The term of appointment is one year, beginning in August 2018, with the possi=
-bility of renewal for a second year, pending approval of funding and satisfac=
-tory performance. The salary is $50,000 a year, plus benefits and the possibi=
-lity of funding for conference related travel and expenses. The fellow will j=
-oin a cohort of other postdoctoral fellows hosted at the Vanderbilt Universit=
-y Center for Digital Humanities and have access to the professional developme=
-nt support of the Office of Postdoctoral Affairs<https://gradschool.vanderbil=
-t.edu/postdoctoral/about.php>. We offer regular training in XQuery<https://he=
-ardlibrary.github.io/xquery-working-group/>.
-During the period of the fellowship, the fellow is expected to be in residenc=
-e. The fellow=E2=80=99s responsibilities include collaborating with faculty o=
-n research projects with opportunities for joint publications. The fellow wil=
-l work with the director of the research cluster to define both formal and in=
-formal teaching duties to train undergraduates, graduate students, and facult=
-y in the use of TEI and MEI XML. The fellow will also have opportunity to con=
-duct their own research and will be expected to participate in the seminars a=
-nd academic community of the research cluster and the Center for Digital Huma=
-nities.
-QualificationsRequired:1. A PhD in a field relevant to the broad aims of the research cluster.2. Experience with the guidelines of the Text Encoding Initiative.
-Desired:1. Familiarity with or willingness to learn the guidelines of the Music Encod=
-ing Initiative
-2. Familiarity with XSLT, XQuery, TEI schemas, TEI tools such as Roma and OxG=
-arage, or other skill sets related to working with data in XML.3. Broad experience in the digital humanities.
-How to ApplyA complete application will include the following materials in digital format:1. A cover letter indicating applicant=E2=80=99s qualifications;2. A current curriculum vitae;3. A scholarly publication, dissertation chapter, or digital project represen=
-ting the applicant's scholarly work related to XML encoding;4. Letters of recommendation sent directly by two references who can speak to=
- the themes of the postdoctoral fellowship.Review of applications will begin immediately. Applications will be accepted =
-until the position is filled. Priority consideration will be given to applica=
-tions received by June 31, 2018.
-Applications, letters, and inquiries should be sent to Lynn Ramey, Professor =
-_redacted_(a)vanderbilt.edu<mailto:lynn.ram=
-_redacted_(a)vanderbilt.edu>.Vanderbilt University is an equal opportunity, affirmative action employer.  =
-Women, minorities, people with disabilities and protected veterans are encour=
-aged to apply.Lynn Ramey | Professor | French | Vanderbilt University
-_redacted_(a)vanderbilt.edu> | 615.322.6900 | website<http://my.=
-vanderbilt.edu/lynnramey/>PGh0bWwgZGlyPSJsdHIiPgo8aGVhZD4KPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBj
+Subject: [dm-l] Postdoctoral Fellowship in Digital Cultural Heritage and the
+
+Vanderbilt University invites applications for a postdoctoral fellowship in TEI/MEI as part of the Digital Cultural Heritage Research Cluster<https://www.vanderbilt.edu/strategicplan/trans-institutional-programs/tips-2018/digital-cultural-heritage.php> situated within the Vanderbilt University Center for Digital Humanities<https://www.vanderbilt.edu/digitalhumanities/>.
+
+Applicants are invited from any relevant discipline including the humanities, library science, museum studies, or data science. We are looking for a talented scholar who will train and foster the growing community of students and faculty at Vanderbilt interested in the application of XML encoding to cultural heritage preservation and research. The successful applicant will be an effective teacher experienced in introducing beginners to the guidelines of the Text Encoding Initiative (TEI)<http://tei-c.org/> and also able to collaborate with scholars in the advanced application of the TEI in research. The ideal applicant will also be familiar with the Music Encoding Initiative (MEI)<http://music-encoding.org/> or willing to learn and teach its guidelines as part of the fellowship.
+
+This fellow will join a new research cluster in Digital Cultural Heritage at Vanderbilt. Inspired by UNESCO’s mission to protect cultural heritage in danger of destruction, this cluster unites expertise across multiple disciplines (French, History, Computer Science, Religious Studies, Classics, Musicology, History of Art, Anthropology) and maintains interests in a variety of cultural expressions (archeological sites, artifacts and monuments, texts, music). Within and beyond the cluster, Vanderbilt is home to a number of active projects employing TEI XML. Several projects use a jointly developed TEI customization for historical geography and architecture including Syriaca.org<http://syriaca.org/>, Architectura Sinica<https://architecturasinica.org/>, and LOGAR: Linked Open Gazetteer of the Andean Region<http://www.logarandes.org/>. Other projects include a focus on text corpora such as The Digital Syriac Corpus<https://syriaccorpus.org/>, Digital Corpus Baudelaire<https://github.com/HeardLibrary/corpus-baudelaire>, and Hannah Arendt: Complete Works<https://as.vanderbilt.edu/grees/arendt/arendt.php>. In 2014, Vanderbilt hosted the NEH funded XQuery Summer Institute [http://xqueryinstitute.org/] which focused on the use of the TEI extensively.
+
+The term of appointment is one year, beginning in August 2018, with the possibility of renewal for a second year, pending approval of funding and satisfactory performance. The salary is $50,000 a year, plus benefits and the possibility of funding for conference related travel and expenses. The fellow will join a cohort of other postdoctoral fellows hosted at the Vanderbilt University Center for Digital Humanities and have access to the professional development support of the Office of Postdoctoral Affairs<https://gradschool.vanderbilt.edu/postdoctoral/about.php>. We offer regular training in XQuery<https://heardlibrary.github.io/xquery-working-group/>.
+
+During the period of the fellowship, the fellow is expected to be in residence. The fellow’s responsibilities include collaborating with faculty on research projects with opportunities for joint publications. The fellow will work with the director of the research cluster to define both formal and informal teaching duties to train undergraduates, graduate students, and faculty in the use of TEI and MEI XML. The fellow will also have opportunity to conduct their own research and will be expected to participate in the seminars and academic community of the research cluster and the Center for Digital Humanities.
+
+Qualifications
+
+Required:
+
+1. A PhD in a field relevant to the broad aims of the research cluster.
+
+2. Experience with the guidelines of the Text Encoding Initiative.
+
+Desired:
+
+1. Familiarity with or willingness to learn the guidelines of the Music Encoding Initiative
+2. Familiarity with XSLT, XQuery, TEI schemas, TEI tools such as Roma and OxGarage, or other skill sets related to working with data in XML.
+
+3. Broad experience in the digital humanities.
+
+How to Apply
+
+A complete application will include the following materials in digital format:
+
+1. A cover letter indicating applicant’s qualifications;
+
+2. A current curriculum vitae;
+
+3. A scholarly publication, dissertation chapter, or digital project representing the applicant's scholarly work related to XML encoding;
+
+4. Letters of recommendation sent directly by two references who can speak to the themes of the postdoctoral fellowship.
+
+Review of applications will begin immediately. Applications will be accepted until the position is filled. Priority consideration will be given to applications received by June 31, 2018.
+
+Applications, letters, and inquiries should be sent to Lynn Ramey, Professor _redacted_(a)vanderbilt.edu<mailto:lynn.ram_redacted_(a)vanderbilt.edu>.
+
+
+
+Vanderbilt University is an equal opportunity, affirmative action employer.  Women, minorities, people with disabilities and protected veterans are encouraged to apply.
+
+Lynn Ramey | Professor | French | Vanderbilt University
+_redacted_(a)vanderbilt.edu> | 615.322.6900 | website<http://my.vanderbilt.edu/lynnramey/>
+
+
+
+PGh0bWwgZGlyPSJsdHIiPgo8aGVhZD4KPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBj
 b250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9V2luZG93cy0xMjUyIj4KPHN0eWxlIHR5cGU9InRl
 eHQvY3NzIiBpZD0ib3dhUGFyYVN0eWxlIj48L3N0eWxlPjxzdHlsZSBjbGFzcz0iZ3JfX3N0eWxl
 Ij4KQGZvbnQtZmFjZSB7CiAgZm9udC1mYW1pbHk6ICdXb3JrIFNhbnMnOwogIGZvbnQtc3R5bGU6
@@ -35291,4 +35278,4 @@ Q2hpbGQoZGYpOwogICAgICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChlKSB7fQogICAgICAg
 ICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICB9IGNhdGNoIChl
 KSB7fQogICAgICAgIH0KICAgIH0pKGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoIltkYXRhLWdyYW1t
 X2lkPSc3ZjY0MjJlZi1iNTMwLWFkZDktYmRmNS0wNDRlNzg2YmM4Y2YnXSIpKSB9KSgpPC9zY3Jp
-cHQ+CjwvYm9keT4KPC9odG1sPgo=
+cHQ+CjwvYm9keT4KPC9odG1sPgo

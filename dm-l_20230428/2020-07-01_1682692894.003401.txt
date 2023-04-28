@@ -1,37 +1,59 @@
-Subject: Re: [dm-l] EVT 2 beta 2 releasedPeter BakerProfessor and Director of Graduate Admissions
+Subject: Re: [dm-l] EVT 2 beta 2 released
+
+Peter Baker
+
+Professor and Director of Graduate Admissions
 Department of English
 University of Virginia
 P.O. Box 400121
 Charlottesville, Virginia 22904-4121
 ________________________________
-_redacted_(a)uleth.ca> on behalf of Roberto Rosselli Del Turco =
-_redacted_(a)fileli.unipi.it>
+_redacted_(a)uleth.ca> on behalf of Roberto Rosselli Del Turco _redacted_(a)fileli.unipi.it>
 Sent: Wednesday, July 1, 2020 5:42 AM
 _redacted_(a)uleth.ca>
-Subject: [dm-l] EVT 2 beta 2 releasedDear all,
+Subject: [dm-l] EVT 2 beta 2 released
+
+Dear all,
 after a couple of years of continued development, EVT 2 beta2 is finally
 available! There are lots of exciting new features in this version:
 support for diplomatic editions, new image viewer, new text search
 engine, VisColl and 3DHOP integration, and more. Please let us know what
 you think of this version, your feedback will help us in developing a
-stable and feature complete version 1.0.Full announce available at
-https://visualizationtechnology.wordpress.com/2020/06/30/announcing-the-secon=
-d-beta-version-of-evt-2/.Download and live demo page at http://evt.labcd.unipi.it/.
+stable and feature complete version 1.0.
+
+Full announce available at
+https://visualizationtechnology.wordpress.com/2020/06/30/announcing-the-second-beta-version-of-evt-2/.
+
+Download and live demo page at http://evt.labcd.unipi.it/.
 Direct download here:
 https://sourceforge.net/projects/evt-project/files/evt2-beta2.zip/download.
-GitHub repository: https://github.com/evt-project/evt-viewer.R--
+GitHub repository: https://github.com/evt-project/evt-viewer.
+
+R
+
+--
 Roberto Rosselli Del Turco   roberto.rossellidelturco at unito.it
 Dip. di Studi Umanistici     roberto.rossellidelturco at fileli.unipi.it
 Universita' di Torino        VBD: http://vbd.humnet.unipi.it/beta2/
-EVT: http://bit.ly/24D9kdE   VC: http://www.visionarycross.org/  Hige sceal the heardra,     heorte the cenre,
-  mod sceal the mare,       the ure maegen litlath.  (Maldon 312-3)<shamelessPlug>Holidays in Tuscany http://www.imoricci.it/</shamelessPlug>Digital Medievalist --  http://www.digitalmedievalist.org/
+EVT: http://bit.ly/24D9kdE   VC: http://www.visionarycross.org/
+
+  Hige sceal the heardra,     heorte the cenre,
+  mod sceal the mare,       the ure maegen litlath.  (Maldon 312-3)
+
+<shamelessPlug>Holidays in Tuscany http://www.imoricci.it/</shamelessPlug>
+
+Digital Medievalist --  http://www.digitalmedievalist.org/
 Journal: https://journal.digitalmedievalist.org/
 Journal Editors: https://journal.digitalmedievalist.org/contact/
 News: https://digitalmedievalist.wordpress.com/news/
 Twitter: http://twitter.com/digitalmedieval
-Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca
-Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-lPGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
+Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+
+
+PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
 eHQvaHRtbDsgY2hhcnNldD1XaW5kb3dzLTEyNTIiPgo8c3R5bGUgdHlwZT0idGV4dC9jc3MiIHN0
 eWxlPSJkaXNwbGF5Om5vbmU7Ij4gUCB7bWFyZ2luLXRvcDowO21hcmdpbi1ib3R0b206MDt9IDwv
 c3R5bGU+CjwvaGVhZD4KPGJvZHkgZGlyPSJsdHIiPgo8ZGl2IHN0eWxlPSJib3JkZXI6c29saWQg
@@ -130,4 +152,4 @@ d3cuZmFjZWJvb2suY29tL2dyb3VwLnBocD9naWQ9NDkzMjAzMTM3NjA8L2E+PGJyPgpEaXNjdXNz
 aW9uIGxpc3Q6IGRtLWxAdWxldGguY2E8YnI+CkNoYW5nZSBsaXN0IG9wdGlvbnM6IDxhIGhyZWY9
 Imh0dHA6Ly9saXN0c2Vydi51bGV0aC5jYS9tYWlsbWFuL2xpc3RpbmZvL2RtLWwiPmh0dHA6Ly9s
 aXN0c2Vydi51bGV0aC5jYS9tYWlsbWFuL2xpc3RpbmZvL2RtLWw8L2E+PGJyPgo8L2Rpdj4KPC9z
-cGFuPjwvZm9udD48L2Rpdj4KPC9kaXY+CjwvYm9keT4KPC9odG1sPgo=
+cGFuPjwvZm9udD48L2Rpdj4KPC9kaXY+CjwvYm9keT4KPC9odG1sPgo

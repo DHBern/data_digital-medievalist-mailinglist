@@ -1,53 +1,63 @@
-Subject: Re: [dm-l] Geospatial/Geodetic mapping of MSSDan Mosser -I want to second the other Dan's request. I've toyed around with aggregating =
-IMEV and LALME data for fully-digitized manuscripts, and also discussed using=
- Google maps (with varying degrees of location specificity) for those entries=
- with some people here on campus.  Originally, I had high hopes for aggregati=
-ng data from Edinburgh's e-LALME site, which had promised a release last year=
-. The project seems to still be delayed, unfortunately, otherwise one could u=
-se proper xml ID's for LPs and avoid duplicating large amounts of work.Kind regards,
-Matthew
+Subject: Re: [dm-l] Geospatial/Geodetic mapping of MSS
+
+Dan Mosser -
+
+I want to second the other Dan's request. I've toyed around with aggregating IMEV and LALME data for fully-digitized manuscripts, and also discussed using Google maps (with varying degrees of location specificity) for those entries with some people here on campus.  Originally, I had high hopes for aggregating data from Edinburgh's e-LALME site, which had promised a release last year. The project seems to still be delayed, unfortunately, otherwise one could use proper xml ID's for LPs and avoid duplicating large amounts of work.
+
+Kind regards,
+Matthew
+
 Matthew Fisher
 Assistant Professor
 Department of English
-University of California, Los Angeles_redacted_(a)ULETH.CA<mai=
-_redacted_(a)ULETH.CA>> wrote:I wonder if your correspondents would mind your sharing their replies? This i=
-s a very interesting and current topic.
+University of California, Los Angeles
+
+
+
+_redacted_(a)ULETH.CA<mai_redacted_(a)ULETH.CA>> wrote:
+
+I wonder if your correspondents would mind your sharing their replies? This is a very interesting and current topic.
 ________________________________________
-_redacted_(a)uleth.ca> [dm-l-bounces(a=
-_redacted_(a)uleth.ca>] on behalf of Dan Mosser [dmosser(a=
-_redacted_(a)vt.edu>]
+_redacted_(a)uleth.ca> [dm-l-bounces(a_redacted_(a)uleth.ca>] on behalf of Dan Mosser [dmosser(a_redacted_(a)vt.edu>]
 Sent: August-23-12 7:02
 To: dm-l, MailList
-Subject: [dm-l] Geospatial/Geodetic mapping of MSSThanks to all who have replied (off list, I think) to my query about linguist=
-ic mapping of Middle English MSS.Dan O'Donnell asked for a sample of the markup. The DIMEV is an xml-based pro=
-ject. I haven't added mapping information as yet, but here is a straightforwa=
-rd example of the MS file with the <lang> entry:<item xml:id=3D"PhilUPEng8">
+Subject: [dm-l] Geospatial/Geodetic mapping of MSS
+
+Thanks to all who have replied (off list, I think) to my query about linguistic mapping of Middle English MSS.
+
+Dan O'Donnell asked for a sample of the markup. The DIMEV is an xml-based project. I haven't added mapping information as yet, but here is a straightforward example of the MS file with the <lang> entry:
+
+<item xml:id="PhilUPEng8">
        <loc>Philadelphia</loc>
        <repos>University of Pennsylvania</repos>
        <desc>MS Codex 218 [formerly Eng. 8; <i>olim</i> Stonor Park]</desc>
-       <lang><biblio key=3D"LALME">LALME</biblio> LP 559 (<place country=3D"E=
-ngland" county=3D"Isle of Ely">Ely</place>: Hand A, ff. 1-146v); LP 551 (<pla=
-ce country=3D"England" county=3D"Lincolnshire">Lincs</place>:
+       <lang><biblio key="LALME">LALME</biblio> LP 559 (<place country="England" county="Isle of Ely">Ely</place>: Hand A, ff. 1-146v); LP 551 (<place country="England" county="Lincolnshire">Lincs</place>:
            Hand B, ff. 147-195v)</lang>
-   </item>The LALME and LAEME keys are linked to full entries in the bibliography. I'm =
-waiting for my coder to fit some time in for the style-sheet updates for this=
- information.Since I haven't, as yet, constructed a tagging structure for the mapping coor=
-dinates, I'm happy to have suggestions. Dan mentioned KML and Google maps, an=
-d that might be an easy way to proceed.=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=
-=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=
-=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=9C=CB=
-=9C=CB=9C=CB=9C=CB=9C=CB=9C
+   </item>
+
+The LALME and LAEME keys are linked to full entries in the bibliography. I'm waiting for my coder to fit some time in for the style-sheet updates for this information.
+
+Since I haven't, as yet, constructed a tagging structure for the mapping coordinates, I'm happy to have suggestions. Dan mentioned KML and Google maps, and that might be an easy way to proceed.
+
+˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜
 Dan Mosser
 _redacted_(a)vt.edu>
-Office: Shanks 229Snailmail:
+Office: Shanks 229
+
+Snailmail:
 Director of Graduate Studies
 English Department 0112
 Shanks Hall
 180 Turner Street NW
-Blacksburg, VA 24061VOICE: (540) 231-7753
-FAX: (540) 231-5692http://www.dimev.net
+Blacksburg, VA 24061
+
+VOICE: (540) 231-7753
+FAX: (540) 231-5692
+
+http://www.dimev.net
 http://www.gravell.org
-http://wiz.cath.vt.edu/Mosser/wiz/dwmcv/mossercv.html
+http://wiz.cath.vt.edu/Mosser/wiz/dwmcv/mossercv.html
+
 Digital Medievalist --  http://www.digitalmedievalist.org/
 Journal: http://www.digitalmedievalist.org/journal/
 Journal Editors: editors _AT_ digitalmedievalist.org
@@ -56,7 +66,9 @@ Wiki: http://www.digitalmedievalist.org/wiki/
 Twitter: http://twitter.com/digitalmedieval
 Facebook: http://www.facebook.com/group.php?gidI320313760
 _redacted_(a)uleth.ca
-Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-lDigital Medievalist --  http://www.digitalmedievalist.org/
+Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+Digital Medievalist --  http://www.digitalmedievalist.org/
 Journal: http://www.digitalmedievalist.org/journal/
 Journal Editors: editors _AT_ digitalmedievalist.org
 News: http://www.digitalmedievalist.org/news/
@@ -64,12 +76,16 @@ Wiki: http://www.digitalmedievalist.org/wiki/
 Twitter: http://twitter.com/digitalmedieval
 Facebook: http://www.facebook.com/group.php?gidI320313760
 _redacted_(a)uleth.ca
-Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
---===============1381480553187284567==
-Content-Type: text/html
+Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+
+
+--1381480553187284567Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
+Content-Disposition: attachment; filename�ttachment.html"
+MIME-Version: 1.0
+
+PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
 eHQvaHRtbDsgY2hhcnNldD1XaW5kb3dzLTEyNTIiPgo8L2hlYWQ+Cjxib2R5IHN0eWxlPSJ3b3Jk
 LXdyYXA6IGJyZWFrLXdvcmQ7IC13ZWJraXQtbmJzcC1tb2RlOiBzcGFjZTsgLXdlYmtpdC1saW5l
 LWJyZWFrOiBhZnRlci13aGl0ZS1zcGFjZTsgIj4KRGFuIE1vc3NlciAtJm5ic3A7CjxkaXY+PGJy
@@ -163,4 +179,4 @@ cDovL3R3aXR0ZXIuY29tL2RpZ2l0YWxtZWRpZXZhbDxicj4KRmFjZWJvb2s6IGh0dHA6Ly93d3cu
 ZmFjZWJvb2suY29tL2dyb3VwLnBocD9naWRJMzIwMzEzNzYwPGJyPgpEaXNjdXNzaW9uIGxpc3Q6
 IGRtLWxAdWxldGguY2E8YnI+CkNoYW5nZSBsaXN0IG9wdGlvbnM6IGh0dHA6Ly9saXN0c2Vydi51
 bGV0aC5jYS9tYWlsbWFuL2xpc3RpbmZvL2RtLWw8YnI+CjwvYmxvY2txdW90ZT4KPC9kaXY+Cjxi
-cj4KPC9kaXY+CjwvYm9keT4KPC9odG1sPgo=
+cj4KPC9kaXY+CjwvYm9keT4KPC9odG1sPgo

@@ -1,16 +1,28 @@
-Subject: Re: [dm-l] Weird windows problemI have installed some new software, but the problem predates that--and 
+Subject: Re: [dm-l] Weird windows problem
+
+I have installed some new software, but the problem predates that--and 
 my spy and virus software is running and up-to-date. I have been 
 wondering if that's maybe the issue, though if it is it seems to be 
 buried deeper than spybot and norton can find. I've also backed up a 
 couple of restore points, so my system should be operating as it was 
-last week sometime.The reason I asked on the list was to see if there was a common issue I 
+last week sometime.
+
+The reason I asked on the list was to see if there was a common issue I 
 wasn't aware of before I start really ripping things apart to find the 
-problem.The problem seems to manifesting itself in very interesting ways: 
+problem.
+
+The problem seems to manifesting itself in very interesting ways: 
 firefox reads the directory the java is writing; ie and opera change the 
 directory name to the expected form (with spaces). Since the two 
 directories are out of sync, it means that files written by my java are 
-now invisible to opera and ie.Thanks Peter. It is days (I hope) til I dumpt the whole windows thing 
-and get with Linux. Well maybe weeks.-danPeter Baker wrote:
+now invisible to opera and ie.
+
+Thanks Peter. It is days (I hope) til I dumpt the whole windows thing 
+and get with Linux. Well maybe weeks.
+
+-dan
+
+Peter Baker wrote:
 > Dan,
 > 
 > I'm no Windows expert (of course), but the first things the techs here 
@@ -58,7 +70,9 @@ and get with Linux. Well maybe weeks.-danPeter Baker wrote:
 >> -dan
 > 
 > 
-> -- 
+> 
+
+-- 
 Daniel Paul O'Donnell, PhD
 Associate Professor of English
 University of Lethbridge
@@ -67,4 +81,7 @@ Tel. (403) 329-2377
 Fax. (403) 382-7191
 _redacted_(a)uleth.ca>
 Home Page <http://people.uleth.ca/~daniel.odonnell/>
-The Digital Medievalist Project: <http://www.digitalmedievalist.org/>
+The Digital Medievalist Project: <http://www.digitalmedievalist.org/>
+
+
+

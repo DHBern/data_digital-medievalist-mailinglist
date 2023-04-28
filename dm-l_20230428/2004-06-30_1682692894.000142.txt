@@ -1,9 +1,15 @@
-Subject: Re: Multiple Stylesheets (was Re: [dm-l] Hacks: an example)This is neat. I was thinking of something very similar using cookies, 
+Subject: Re: Multiple Stylesheets (was Re: [dm-l] Hacks: an example)
+
+This is neat. I was thinking of something very similar using cookies, 
 though I hadn't thought of using a form to allow users to select several 
 options (my plan had been to offer a selection of different sheets: 
 large screen, small screen, accessibility). Are there generalisable 
 scripts on this project that might usable by other members of the list?
--danMartin Holmes wrote:> Hi there,
+-dan
+
+Martin Holmes wrote:
+
+> Hi there,
 >
 > At 01:40 AM 30/06/2004, you wrote:
 >
@@ -74,7 +80,8 @@ _redacted_(a)halfbakedsoftware.com
 > _______________________________________________
 > dm-l mailing list
 _redacted_(a)uleth.ca
-> http://listserv.uleth.ca/mailman/listinfo/dm-l
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+
 -- 
 Daniel Paul O'Donnell, PhD
 Associate Professor of English
@@ -83,4 +90,9 @@ Lethbridge AB T1K 3M4
 Tel. (403) 329-2377
 Fax. (403) 382-7191
 _redacted_(a)uleth.ca>
-Home Page <http://people.uleth.ca/~daniel.odonnell/>
+Home Page <http://people.uleth.ca/~daniel.odonnell/>
+
+
+
+
+

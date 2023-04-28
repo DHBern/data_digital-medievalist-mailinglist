@@ -1,9 +1,16 @@
-Subject: [dm-l] TEI Hackathon DH2014 workshop (7 July 2014)FYI
-===
+Subject: [dm-l] TEI Hackathon DH2014 workshop (7 July 2014)
+
+FYI
+
 With apologies for the cross posting and with a request to please forward
-along to other lists and groups.Call for ParticipationWe are inviting applications to participate in the TEI Hackathon full day
+along to other lists and groups.
+
+Call for Participation
+
+We are inviting applications to participate in the TEI Hackathon full day
 workshop that will be held on July 7, 2014, as a pre-conference session at
-DH2014 (http://dh2014.org/).
+DH2014 (http://dh2014.org/).
+
 Digital humanists, librarians, publishers, and many others use the Text
 Encoding Initiative (TEI) Guidelines to mark up electronic texts, and over
 time have created a critical mass of XML — some conforming to known subsets
@@ -14,8 +21,16 @@ text. The fruits of this labor are most often destined for display online
 or on paper (!), indexing, and more rarely, visualisation. Techniques of
 processing this markup beyond display and indexing are less well-understood
 and not accessible to the broad community of users, however, and
-programmers sometimes regard TEI XML as over-complex and hard to process.What We’ll DoThe goal of the hackathon is to make significant progress on a few projects
-during one day of work (from 9am to roughly 5.30pm).Possible projects might include but are not limited to:* applying visualisation to TEI documents or schemas/ODDs (e.g. visualizing
+programmers sometimes regard TEI XML as over-complex and hard to process.
+
+What We’ll Do
+
+The goal of the hackathon is to make significant progress on a few projects
+during one day of work (from 9am to roughly 5.30pm).
+
+Possible projects might include but are not limited to:
+
+* applying visualisation to TEI documents or schemas/ODDs (e.g. visualizing
 the TEI conceptual model)
 * mining a large corpus of texts for some data facet and visualising the
 results
@@ -24,43 +39,95 @@ results
 * extending existing TEI software to take advantage of external resources
 such as Zotero
 * adding a TEI mode to a web editor
-* Programming for multilingual resourcesAll participants will begin discussing the projects that have been proposed
+* Programming for multilingual resources
+
+All participants will begin discussing the projects that have been proposed
 before the hackathon, and select a small number to be worked on. More
 concrete discussion about tools and specs will take place before the date
 of the hackathon so participants can hit the ground running during the
 hackathon. On the day of the hackathon, participants will form groups, and
 work on their projects. Workshop organizers and invited experts will be on
-hand to consult on TEI details and strategies of dealing with them.The organisers will provide refreshments during the day, will make sample
+hand to consult on TEI details and strategies of dealing with them.
+
+The organisers will provide refreshments during the day, will make sample
 texts available if needed, and will help with software setup where
-possible. Participants will need to bring their own laptop computersParticipantsThis workshop is intended for reasonably experienced DH practitioners, who
+possible. Participants will need to bring their own laptop computers
+
+Participants
+
+This workshop is intended for reasonably experienced DH practitioners, who
 may not hitherto have experimented with TEI XML, as well as those who have
 already been using TEI and developing TEI tools. If you don’t fall into
 either of these categories, but you have a project that is appropriate for
-the hackathon, please apply or contact us directly.Application processApplicants will email their application with the following information to
-_redacted_(a)tei-c.org.   Name
+the hackathon, please apply or contact us directly.
+
+Application process
+
+Applicants will email their application with the following information to
+_redacted_(a)tei-c.org.
+
+   Name
    Affiliation
    Contact information (email)
    Skills and experience (to help select projects)
    One or two suggested projects. These don’t have to be described in great
-detail, as they will be discussed and shaped further in June.Deadline: Midnight (EST) April 17 (applications received after this date
-will be considered on a rolling basis only if space remains available)Notification: by April 30The selection will be carried out by the programme committee based on
+detail, as they will be discussed and shaped further in June.
+
+Deadline: Midnight (EST) April 17 (applications received after this date
+will be considered on a rolling basis only if space remains available)
+
+Notification: by April 30
+
+The selection will be carried out by the programme committee based on
 variety of expertise, interest in challenges with broad application,
-geographical and gender balance.Organizers and ExpertsPlease don’t hesitate to contact the organizers if you have any questions.Programme committee:_redacted_(a)duke.edu), TEI Technical Council - Research
-programmer for the Duke Collaboratory for Classics Computing_redacted_(a)roehampton.ac.uk), TEI Board of Directors -
-Research Facilitator (Humanities) at the University of Roehampton_redacted_(a)it.ox.ac.uk), TEI Technical Council (chair)
+geographical and gender balance.
+
+Organizers and Experts
+
+Please don’t hesitate to contact the organizers if you have any questions.
+
+Programme committee:
+
+_redacted_(a)duke.edu), TEI Technical Council - Research
+programmer for the Duke Collaboratory for Classics Computing
+
+_redacted_(a)roehampton.ac.uk), TEI Board of Directors -
+Research Facilitator (Humanities) at the University of Roehampton
+
+_redacted_(a)it.ox.ac.uk), TEI Technical Council (chair)
 -  Senior Digital Research Specialist in Academic IT at University of
-Oxford’s IT Services_redacted_(a)brown.edu), TEI Technical Council - Senior
-Digital Humanities Librarian at Brown University_redacted_(a)it.ox.ac.uk), TEI Technical Council -
-Director of Academic IT at University of  Oxford’s IT ServicesOther TEI and DH experts participating:Syd Bauman, Senior XML programmer analyst at Northeastern University
-Digital Scholarship GroupAlexander Czmiel, researcher in Digital Humanities at the
-Berlin-Brandenburg Academy of Sciences and Humanities
-Follow upParticipants will have the option of applying for a grant of up to $1000
+Oxford’s IT Services
+
+_redacted_(a)brown.edu), TEI Technical Council - Senior
+Digital Humanities Librarian at Brown University
+
+_redacted_(a)it.ox.ac.uk), TEI Technical Council -
+Director of Academic IT at University of  Oxford’s IT Services
+
+Other TEI and DH experts participating:
+
+Syd Bauman, Senior XML programmer analyst at Northeastern University
+Digital Scholarship Group
+
+Alexander Czmiel, researcher in Digital Humanities at the
+Berlin-Brandenburg Academy of Sciences and Humanities
+
+Follow up
+
+Participants will have the option of applying for a grant of up to $1000
 from the Text Encoding Initiative Consortium to allow them to finish their
 work and make it available to others. Details for this competition will be
-provided after the workshop has taken place.This workshop is being sponsored by the TEI Consortium (
-http://www.tei-c.org/) which will provide lunch, coffee and snacks.
+provided after the workshop has taken place.
+
+This workshop is being sponsored by the TEI Consortium (
+http://www.tei-c.org/) which will provide lunch, coffee and snacks.
+
 Thank you,
---elliPGRpdiBkaXI9Imx0ciI+PGRpdiBjbGFzcz0iIiBsYW5nPSJ4LXVuaWNvZGUiPjxkaXYgZGlyPSJs
+--elli
+
+
+
+PGRpdiBkaXI9Imx0ciI+PGRpdiBjbGFzcz0iIiBsYW5nPSJ4LXVuaWNvZGUiPjxkaXYgZGlyPSJs
 dHIiPjxkaXY+RllJPC9kaXY+PGRpdj49PT08L2Rpdj48ZGl2PldpdGggYXBvbG9naWVzIGZvciB0
 aGUgY3Jvc3MgcG9zdGluZyBhbmQgd2l0aCBhIHJlcXVlc3QgdG8gcGxlYXNlIGZvcndhcmQgYWxv
 bmcgdG8gb3RoZXIgbGlzdHMgYW5kIGdyb3Vwcy48L2Rpdj48ZGl2Pjxicj48L2Rpdj5DYWxsIGZv
@@ -164,4 +231,5 @@ cCBpcyBiZWluZyBzcG9uc29yZWQgYnkgdGhlIFRFSSBDb25zb3J0aXVtICg8YSBocmVmPSJodHRw
 Oi8vd3d3LnRlaS1jLm9yZy8iPmh0dHA6Ly93d3cudGVpLWMub3JnLzwvYT4pIHdoaWNoIHdpbGwg
 cHJvdmlkZSBsdW5jaCwgY29mZmVlIGFuZCBzbmFja3MuCjxkaXY+PGJyPjwvZGl2PjxkaXY+PGJy
 PjwvZGl2PjxkaXY+VGhhbmsgeW91LCDCoCDCoDwvZGl2PjxkaXY+LS1lbGxpPC9kaXY+PC9kaXY+
-Cgo8L2Rpdj48L2Rpdj4K
+Cgo8L2Rpdj48L2Rpdj4K
+

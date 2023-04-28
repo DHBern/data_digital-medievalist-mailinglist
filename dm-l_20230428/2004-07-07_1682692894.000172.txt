@@ -1,6 +1,8 @@
-Subject: Re: [dm-l] [Fwd: encoding  maps, graphics with text?]I didn't get round to downloading Firefox 0.9.1, will do soon and report
-:-)=20
-=20
+Subject: Re: [dm-l] [Fwd: encoding  maps, graphics with text?]
+
+I didn't get round to downloading Firefox 0.9.1, will do soon and report
+:-) 
+ 
 In Firefox 0.7 it seems that the farther down the page you browse the
 higher in the browser window a yellow popup is positioned. So if I
 scroll down to the very bottom of a page and hover the cursor above e.g.
@@ -10,21 +12,34 @@ question). Sometimes in such a case I can't see the the yellow popup,
 because it's seems to be depicted somewhere beyond the top of my browser
 window. A minor detail I guess, thought I'd mention it anyhow. Hope it's
 helpfull.
-=20
+ 
 I'm gonna call it a day now (it's 6.30 PM overhere ;-)
-=20
+ 
 s.y.,
-Joris_redacted_(a)uvic.ca 7/7/04 18:15:45 >>>Hi there,At 08:26 AM 07/07/2004, you wrote:
+Joris
+
+_redacted_(a)uvic.ca 7/7/04 18:15:45 >>>
+
+Hi there,
+
+At 08:26 AM 07/07/2004, you wrote:
 >Yes, it's up and running. Nice site too. I'm browsing with Mozilla
-Firefox=20
+Firefox 
 >0.7. Site seems to display itself correctly, though the javascript
-that=20
->pops up the yellow help tags has some positioning problems.I'm glad someone can see it! Our own researcher is having trouble
-accessing=20
-it from Paris (and is doing a presentation on it soon...)The yellow popups work fine for me in Firefox 0.9.1 -- I wonder if it's
-the=20
-older Firefox that's problematic? What problems do you see?Cheers,
-Martin
+that 
+>pops up the yellow help tags has some positioning problems.
+
+I'm glad someone can see it! Our own researcher is having trouble
+accessing 
+it from Paris (and is doing a presentation on it soon...)
+
+The yellow popups work fine for me in Firefox 0.9.1 -- I wonder if it's
+the 
+older Firefox that's problematic? What problems do you see?
+
+Cheers,
+Martin
+
 _redacted_(a)uvic.ca 7/7/04 17:13:46 >>>
 >At 01:34 AM 07/07/2004, you wrote:
 > >Content-Transfer-Encoding: 7bit
@@ -52,10 +67,9 @@ telegrams
 accessible
 > > > through an eXist/Cocoon interface here:
 > > >
-> > >=20
+> > > 
 >
-<<http://lingo.dcf.uvic.ca:8080/exist/graves/index.xml>http://lingo.dcf.uvic.=
-ca:8080/exist/graves/index.xml>
+<<http://lingo.dcf.uvic.ca:8080/exist/graves/index.xml>http://lingo.dcf.uvic.ca:8080/exist/graves/index.xml>
 > > >
 > > > Cheers,
 > > > Martin
@@ -96,10 +110,9 @@ digitized
 > > >> Tel. (403) 329-2377
 > > >> Fax. (403) 382-7191
 _redacted_(a)uleth.ca>
-> > >> Home Page=20
+> > >> Home Page 
 >
-<<http://people.uleth.ca/~daniel.odonnell/>http://people.uleth.ca/~daniel.odo=
-nnell/>
+<<http://people.uleth.ca/~daniel.odonnell/>http://people.uleth.ca/~daniel.odonnell/>
 > > >>
 > > >>
 > > >>
@@ -107,10 +120,9 @@ nnell/>
 > > >> _______________________________________________
 > > >> dm-l mailing list
 _redacted_(a)uleth.ca
-> > >>=20
+> > >> 
 >
-<http://listserv.uleth.ca/mailman/listinfo/dm-l>http://listserv.uleth.ca/mail=
-man/listinfo/dm-l
+<http://listserv.uleth.ca/mailman/listinfo/dm-l>http://listserv.uleth.ca/mailman/listinfo/dm-l
 > > >>
 > > >
 > > > ______________________________________
@@ -128,16 +140,15 @@ _redacted_(a)halfbakedsoftware.com
 > > > _______________________________________________
 > > > dm-l mailing list
 _redacted_(a)uleth.ca
-> > >=20
+> > > 
 >
-<http://listserv.uleth.ca/mailman/listinfo/dm-l>http://listserv.uleth.ca/mail=
-man/listinfo/dm-l
+<http://listserv.uleth.ca/mailman/listinfo/dm-l>http://listserv.uleth.ca/mailman/listinfo/dm-l
 > > >
 > >
 > >--
-> >Centre for Technology and the Arts,=20
+> >Centre for Technology and the Arts, 
 > <http://www.cta.dmu.ac.uk>www.cta.dmu.ac.uk
-> >The Canterbury Tales Project,=20
+> >The Canterbury Tales Project, 
 >
 <http://www.cta.dmu.ac.uk/projects/ctp>www.cta.dmu.ac.uk/projects/ctp
 > >
@@ -145,7 +156,9 @@ man/listinfo/dm-l
 > >_______________________________________________
 _redacted_(a)uleth.ca
 >
-><http://listserv.uleth.ca/mailman/listinfo/dm-l>http://listserv.uleth.ca/> mailman/listinfo/dm-l
+><http://listserv.uleth.ca/mailman/listinfo/dm-l>http://listserv.uleth.ca/
+
+> mailman/listinfo/dm-l
 >
 >______________________________________
 >Martin Holmes
@@ -161,15 +174,16 @@ _redacted_(a)halfbakedsoftware.com
 >_______________________________________________
 >dm-l mailing list
 _redacted_(a)uleth.ca
-><http://listserv.uleth.ca/mailman/listinfo/dm-l>http://listserv.uleth.ca/mai=
-lman/listinfo/dm-l
+><http://listserv.uleth.ca/mailman/listinfo/dm-l>http://listserv.uleth.ca/mailman/listinfo/dm-l
 >Content-Transfer-Encoding: 7bit
 >Content-Disposition: inline
 >
 >_______________________________________________
 >dm-l mailing list
 _redacted_(a)uleth.ca
->http://listserv.uleth.ca/mailman/listinfo/dm-l______________________________________
+>http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+______________________________________
 Martin Holmes
 University of Victoria Humanities Computing and Media Centre
 _redacted_(a)uvic.ca
@@ -177,16 +191,21 @@ _redacted_(a)mholmes.com
 _redacted_(a)halfbakedsoftware.com
 http://www.mholmes.com
 http://web.uvic.ca/hcmc/
-http://www.halfbakedsoftware.com
+http://www.halfbakedsoftware.com
+
 _______________________________________________
 dm-l mailing list
 _redacted_(a)uleth.ca
-http://listserv.uleth.ca/mailman/listinfo/dm-l
---===============9072041099746722050==
-Content-Type: text/html
+http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+
+
+--9072041099746722050Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PEhUTUw+PEhFQUQ+CjxNRVRBIGh0dHAtZXF1aXY9Q29udGVudC1UeXBlIGNvbnRlbnQ9InRleHQv
+Content-Disposition: attachment; filenameúttachment.html"
+MIME-Version: 1.0
+
+PEhUTUw+PEhFQUQ+CjxNRVRBIGh0dHAtZXF1aXY9Q29udGVudC1UeXBlIGNvbnRlbnQ9InRleHQv
 aHRtbDsgY2hhcnNldD1pc28tODg1OS0xIj4KPE1FVEEgY29udGVudD0iTVNIVE1MIDYuMDAuMjgw
 MC4xNDAwIiBuYW1lPUdFTkVSQVRPUj48L0hFQUQ+CjxCT0RZIHN0eWxlPSJNQVJHSU46IDRweCA0
 cHggMXB4OyBGT05UOiAxMHB0IEFyaWFsOyBDT0xPUjogIzAwMDAwMCI+CjxESVY+SSBkaWRuJ3Qg
@@ -350,4 +369,4 @@ PjxCUj48QlI+PEJSPl9fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19f
 X19fPEJSPmRtLWwgbWFpbGluZyBsaXN0PEJSPmRtLWxAdWxldGguY2E8QlI+PEEgaHJlZj0iaHR0
 cDovL2xpc3RzZXJ2LnVsZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0tbCI+aHR0cDovL2xpc3Rz
 ZXJ2LnVsZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0tbDwvQT48QlI+PC9ESVY+PC9CT0RZPjwv
-SFRNTD4=
+SFRNTD4

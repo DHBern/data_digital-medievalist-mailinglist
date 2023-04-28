@@ -1,9 +1,17 @@
-Subject: [dm-l] Personal Web site maintenanceActually, there's a module called Liquid if you want to have wikis
+Subject: [dm-l] Personal Web site maintenance
+
+Actually, there's a module called Liquid if you want to have wikis
 with Drupal: http://drupal.org/project/liquid . I haven't tried this
 particular module, but I've now been using Drupal for two months on
 the website I maintain (http://www.arlima.net) and it's exceeded all
 expectations. It seems that there's very little that you can't do with
-Drupal.Best,Laurent_redacted_(a)uleth.ca> wrote:
+Drupal.
+
+Best,
+
+Laurent
+
+_redacted_(a)uleth.ca> wrote:
 > So far, textpattern looks like the closest to what I've wanted, though
 > indeed drupal looks more developed and better supported. Textpattern
 > uses textile, a wiki-style editor, that allows you to flip back and
@@ -64,5 +72,7 @@ _redacted_(a)uleth.ca
 > dm-l mailing list
 _redacted_(a)uleth.ca
 > http://listserv.uleth.ca/mailman/listinfo/dm-l
->
---===============7432078934562114478==--
+>
+
+--7432078934562114478-
+

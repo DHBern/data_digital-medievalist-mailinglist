@@ -1,53 +1,62 @@
-Subject: Re: [dm-l] [Technical]: Suggestions for a replacement for	Subversion?Dear Daniel,I am not sure if this is the kind of input you'd like, but I use Google=20
-Drive and Google Docs with teams frequently.  They have proven to be=20
-invaluable tools.  I am not sure what software you are using to edit=20
-your documents, but Google Docs records history of every single change=20
-and you can switch between "Edit" and "Suggest Edit" mode, the latter is=20
-extremely useful with multiple editor.  I am not sure if Drive, just as=20
-a file share, will version documents for you.  One aspect of Drive that=20
-doesn't work well at all is "Offline" mode.  I have often 'pinned' a=20
-document to my device before embarking on a long flight only to find,=20
-when I attempt to open the document, an error stating, "no valid=20
-internet connection."  Drives me crazy.Anyway, my 2c.Troy
+Subject: Re: [dm-l] [Technical]: Suggestions for a replacement for	Subversion?
+
+Dear Daniel,
+
+I am not sure if this is the kind of input you'd like, but I use Google 
+Drive and Google Docs with teams frequently.  They have proven to be 
+invaluable tools.  I am not sure what software you are using to edit 
+your documents, but Google Docs records history of every single change 
+and you can switch between "Edit" and "Suggest Edit" mode, the latter is 
+extremely useful with multiple editor.  I am not sure if Drive, just as 
+a file share, will version documents for you.  One aspect of Drive that 
+doesn't work well at all is "Offline" mode.  I have often 'pinned' a 
+document to my device before embarking on a long flight only to find, 
+when I attempt to open the document, an error stating, "no valid 
+internet connection."  Drives me crazy.
+
+Anyway, my 2c.
+
+Troy
+
 On 12/29/2014 09:29 PM, Daniel O'Donnell wrote:
-> Maybe I should reask it. Is there a reason for not just using dropbox=20
+> Maybe I should reask it. Is there a reason for not just using dropbox 
 > or drive?
 >
-> I ask this not to disparage the advice for github, but because when I=20
-> switch, I need something that really eliminates this problem (that is=20
-> to say: be easily trainable to skittish people) rather something than=20
-> replaces it with something else. I don't mean eliminating it in my=20
-> research projects; only a project where there is a lot of turnover and=20
+> I ask this not to disparage the advice for github, but because when I 
+> switch, I need something that really eliminates this problem (that is 
+> to say: be easily trainable to skittish people) rather something than 
+> replaces it with something else. I don't mean eliminating it in my 
+> research projects; only a project where there is a lot of turnover and 
 > people who need only brief access.
 >
 >
 >
 >
 > On 14-12-29 05:39 PM, Abdullah Alger wrote:
->> Well, Github doesn't cause problems, it's really the user who messes=20
+>> Well, Github doesn't cause problems, it's really the user who messes 
 >> it up.
 >>
->> However, if you get the idea of doing work on branches, then it is=20
->> easy to delete a branch, or reset a branch if it's not pushed to the=20
->> master branch. This might be a little confusing, but it's pretty easy=20
->> to follow once you've done it a few times. As long as people are=20
->> working on different branches and not messing with the master branch,=20
->> then you should be fine. If they mess up their own branches, then=20
->> there are ways they can move back to previous versions, or pull in=20
+>> However, if you get the idea of doing work on branches, then it is 
+>> easy to delete a branch, or reset a branch if it's not pushed to the 
+>> master branch. This might be a little confusing, but it's pretty easy 
+>> to follow once you've done it a few times. As long as people are 
+>> working on different branches and not messing with the master branch, 
+>> then you should be fine. If they mess up their own branches, then 
+>> there are ways they can move back to previous versions, or pull in 
 >> the master again to their own project.
 >>
->> That's basically how Git works. As long as students cannot push to=20
->> the master branch, you should be fine. They can always fork the main=20
->> project and make pull requests to add to the master branch, which=20
->> could be set up so that each commit (or modified file) to the master=20
->> has to be approved. That way you always know what's being added to=20
->> the master. Once a commit has been added to the master, then they are=20
->> able to pull the new material into their projects so everyone is up=20
+>> That's basically how Git works. As long as students cannot push to 
+>> the master branch, you should be fine. They can always fork the main 
+>> project and make pull requests to add to the master branch, which 
+>> could be set up so that each commit (or modified file) to the master 
+>> has to be approved. That way you always know what's being added to 
+>> the master. Once a commit has been added to the master, then they are 
+>> able to pull the new material into their projects so everyone is up 
 >> to date.
 >>
 >> I hope I didn't make this too confusing.
 >>
->> On Tue, Dec 30, 2014 at 1:09 AM, Daniel O'Donnell=20
+>> On Tue, Dec 30, 2014 at 1:09 AM, Daniel O'Donnell 
 _redacted_(a)uleth.ca>> wrote:
 >>
 >>     A question I'd have is how easy is it for github to cock up?
@@ -78,8 +87,7 @@ _redacted_(a)uleth.ca>> wrote:
 >>>
 >>>
 >>>     On Monday, December 29, 2014, Daniel O'Donnell
-_redacted_(a)uleth.ca>> wrot=
-e:
+_redacted_(a)uleth.ca>> wrote:
 >>>
 >>>         Hi all,
 >>>
@@ -108,7 +116,7 @@ e:
 >>>
 >>>         -dan
 >>>
->>>         --=20
+>>>         -- 
 >>>         From my Ubuntu notebook
 >>>
 >>>         Daniel Paul O'Donnell
@@ -128,8 +136,8 @@ e:
 >>>         News: http://www.digitalmedievalist.org/news/
 >>>         Wiki: http://www.digitalmedievalist.org/wiki/
 >>>         Twitter: http://twitter.com/digitalmedieval
->>>         Facebook: http://www.facebook.com/group.php?gid=3D49320313760
->>>         <http://www.facebook.com/group.php?gid=3D49320313760>
+>>>         Facebook: http://www.facebook.com/group.php?gid=49320313760
+>>>         <http://www.facebook.com/group.php?gid=49320313760>
 _redacted_(a)uleth.ca
 >>>         Change list options:
 >>>         http://listserv.uleth.ca/mailman/listinfo/dm-l
@@ -137,10 +145,10 @@ _redacted_(a)uleth.ca
 >>>
 >>>
 >>>
->>>     --=20
+>>>     -- 
 >>>     Sent from my iPhone
 >>
->>     --=20
+>>     -- 
 >>      From my Ubuntu notebook
 >>
 >>     Daniel Paul O'Donnell
@@ -160,11 +168,11 @@ _redacted_(a)uleth.ca
 >> News:http://www.digitalmedievalist.org/news/
 >> Wiki:http://www.digitalmedievalist.org/wiki/
 >> Twitter:http://twitter.com/digitalmedieval
->> Facebook:http://www.facebook.com/group.php?gid=3D49320313760
+>> Facebook:http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca
 >> Change list options:http://listserv.uleth.ca/mailman/listinfo/dm-l
 >
-> --=20
+> -- 
 >  From my Ubuntu notebook
 >
 > Daniel Paul O'Donnell
@@ -182,14 +190,18 @@ _redacted_(a)uleth.ca
 > News: http://www.digitalmedievalist.org/news/
 > Wiki: http://www.digitalmedievalist.org/wiki/
 > Twitter: http://twitter.com/digitalmedieval
-> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+> Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca
-> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
---===============2379037640534960018==
-Content-Type: text/html
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+
+
+--2379037640534960018Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWw+CiAgPGhlYWQ+CiAgICA8bWV0YSBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9d2lu
+Content-Disposition: attachment; filenameúttachment.html"
+MIME-Version: 1.0
+
+PGh0bWw+CiAgPGhlYWQ+CiAgICA8bWV0YSBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9d2lu
 ZG93cy0xMjUyIgogICAgICBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiPgogIDwvaGVhZD4KICA8
 Ym9keSBiZ2NvbG9yPSIjRkZGRkZGIiB0ZXh0PSIjMDAwMDAwIj4KICAgIERlYXIgRGFuaWVsLDxi
 cj4KICAgIDxicj4KICAgIEkgYW0gbm90IHN1cmUgaWYgdGhpcyBpcyB0aGUga2luZCBvZiBpbnB1
@@ -458,4 +470,5 @@ aW5rLWFiYnJldmlhdGVkIiBocmVmPSJtYWlsdG86ZG0tbEB1bGV0aC5jYSI+ZG0tbEB1bGV0aC5j
 YTwvYT4KQ2hhbmdlIGxpc3Qgb3B0aW9uczogPGEgY2xhc3M9Im1vei10eHQtbGluay1mcmVldGV4
 dCIgaHJlZj0iaHR0cDovL2xpc3RzZXJ2LnVsZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0tbCI+
 aHR0cDovL2xpc3RzZXJ2LnVsZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0tbDwvYT48L3ByZT4K
-ICAgIDwvYmxvY2txdW90ZT4KICAgIDxicj4KICA8L2JvZHk+CjwvaHRtbD4K
+ICAgIDwvYmxvY2txdW90ZT4KICAgIDxicj4KICA8L2JvZHk+CjwvaHRtbD4K
+

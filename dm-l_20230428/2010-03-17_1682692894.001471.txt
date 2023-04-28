@@ -1,20 +1,32 @@
-Subject: Re: [dm-l] Layout of medieval poetry with CSSThanks, Grant! This is just the sort of thing I want. I'll test it  
+Subject: Re: [dm-l] Layout of medieval poetry with CSS
+
+Thanks, Grant! This is just the sort of thing I want. I'll test it  
 too. An additional requirement I've got is that I want it to work in e- 
 book readers (specifically epub) as well as browsers. So Stanza, Adobe  
 Digital Editions, the Firefox EpubReader add-on. This may let out  
 counters for the time being, since these apps seem to run behind the  
-others in implementing CSS goodies.  I'm not trying to be difficult: these are the constraints I'm  
+others in implementing CSS goodies.
+
+  I'm not trying to be difficult: these are the constraints I'm  
 actually working with. I'm testing in a pretty long list of apps. (But  
-I don't care about IE7.)PeterSent from my iPod_redacted_(a)indiana.edu 
- > wrote:> Dear Peter,
+I don't care about IE7.)
+
+Peter
+
+Sent from my iPod
+
+_redacted_(a)indiana.edu 
+ > wrote:
+
+> Dear Peter,
 >
 > How about the following:
 >
-> <div class="vl">
+> <div classl">
 > hrēran mid hondum hrīmcealde sǣ,
 > </div>
-> <div class="n">5</div>
-> <div class="vl">
+> <div class">5</div>
+> <div classl">
 > wadan wræclāstas. Wyrd bið ful ārǣd.
 > </div>
 >
@@ -66,13 +78,13 @@ I don't care about IE7.)PeterSent from my iPod_redacted_(a)indiana.edu
 >> My current solution involves enclosing each line in a div with class
 >> "vl" (verse-line). *Numbered* lines, on the other hand, go in a div  
 >> with
->> class "vln" (numbered-verse-line). The <div class="vln"> lines start
+>> class "vln" (numbered-verse-line). The <div classln"> lines start
 >> with a div containing the line number. So here:
 >>
->> <div class="vl">
+>> <div classl">
 >> hrēran mid hondum hrīmcealde sǣ,
 >> </div>
->> <div class="vln">
+>> <div classln">
 >> <div>5</div> wadan wræclāstas. Wyrd bið ful ārǣd.
 >> </div>
 >>
@@ -103,5 +115,7 @@ I don't care about IE7.)PeterSent from my iPod_redacted_(a)indiana.edu
 >> Peter Baker
 >>
 >> <iphone.jpg><ATT00001..txt>
->
---===============0643607066455590854==--
+>
+
+--0643607066455590854-
+

@@ -1,14 +1,22 @@
-Subject:Very interesting - I am used to reading English manuscripts from exactly the 
-same period and the style is quite different, though not unreadable.However the software did not work at all on my browser.  The image on the 
+Subject:
+
+Very interesting - I am used to reading English manuscripts from exactly the 
+same period and the style is quite different, though not unreadable.
+
+However the software did not work at all on my browser.  The image on the 
 top left matches the transcription, but the square on the main image do not 
 match.  I've had this problem on stuff I have done, it is something to do 
 with the metric assumed for the image I think.  Until the image itself is 
-separable into segments, this will always be a problem.Edward Buckner
+separable into segments, this will always be a problem.
+
+Edward Buckner
+
 ----- Original Message ----- 
 _redacted_(a)ehess.fr>
 _redacted_(a)uleth.ca>
 Sent: Sunday, January 03, 2010 8:50 PM
-Subject: [dm-l] Online paleography exercises created with Image Markup Tool
+Subject: [dm-l] Online paleography exercises created with Image Markup Tool
+
 Dear list,
 I'm pleased to announce that Castellanie.net, a website publishing
 images and soon transcriptions of the XIIIth century account rolls of
@@ -17,20 +25,30 @@ exercices to help students and beginners to learn how to read those
 accounts. Four exercices are available now, with more to come. They can
 be accessed from the main website (www.castellanie.net) or directly at
 this URL:
-http://paleographie.castellanie.netWhat may also be of interest to some of you is that those exercices are
+http://paleographie.castellanie.net
+
+What may also be of interest to some of you is that those exercices are
 generated directly from Image Markup Tool, thanks to a customized XSL,
 CSS and Javascript, making it very easy to create new exercices,
 including for scholars with zero web design skills.
 I plan to make the XSL / CSS / Javascript available online very soon,
 after just a little bit of polishing.
 Besides, as we plan to extend the collection of exercices, any feedback
-about the interface, functionalities, etc. will be most welcome :)Best regards, an Happy New Year!
-Marjorie-- 
+about the interface, functionalities, etc. will be most welcome :)
+
+Best regards, an Happy New Year!
+Marjorie
+
+-- 
 Marjorie BURGHART
 EHESS (pôle de Lyon) / UMR 5648
 Histoire et Archéologie des Mondes Chrétiens et Musulmans Médiévaux
 18 quai Claude Bernard
-69007 Lyon - FRANCEDigital Medievalist --  http://www.digitalmedievalist.org/
+69007 Lyon - FRANCE
+
+
+
+Digital Medievalist --  http://www.digitalmedievalist.org/
 Journal: http://www.digitalmedievalist.org/journal/
 Journal Editors: editors _AT_ digitalmedievalist.org
 News: http://www.digitalmedievalist.org/news/
@@ -38,4 +56,7 @@ Wiki: http://www.digitalmedievalist.org/wiki/
 Twitter: http://twitter.com/digitalmedieval
 Facebook: http://www.facebook.com/group.php?gidI320313760
 _redacted_(a)uleth.ca
-Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l 
+Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l 
+
+
+

@@ -1,25 +1,38 @@
-Subject:Dear Digital Medievalists,
+Subject:
+
+Dear Digital Medievalists,
 I would like to bring this message to your attention, for two reasons: 
 the first is that, with the rather heavy traffic on TEI-L these days, it 
 may have slipped your attention. The second is that maybe some people 
 interested and/or involved in TEI digital editions may be DM subscribers 
 while not following closely the discussions on TEI-L.
 Please jump in and contribute :)
-Best wishes, Marjorie
+Best wishes, Marjorie
+
 -------- Message original --------
 Sujet: 	IMPORTANT: towards a revision of the Critical Apparatus module
 Date : 	Fri, 2 Sep 2011 17:23:45 +0200
 _redacted_(a)ehess.fr>
 _redacted_(a)ehess.fr>
-_redacted_(a)listserv.brown.eduDear TEI community members,We have been talking a lot of the Future of the TEI recently, and I'd
+_redacted_(a)listserv.brown.edu
+
+
+
+Dear TEI community members,
+
+We have been talking a lot of the Future of the TEI recently, and I'd
 like to offer you an oportunity to make this future better by
-contributing to the revision of a very important module :)During a workshop of the latest TEI MM in Zadar, it was decided, in the
+contributing to the revision of a very important module :)
+
+During a workshop of the latest TEI MM in Zadar, it was decided, in the
 work plan of the SIG for 2011, to start a special workgroup on the
 critical apparatus chapter / module. This workgroup, which I've been
 convening, has been discussing the issues of this module, trying to
 identify its shortcomings and the ways it could be improved. We have
 produced a document on the TEI Wiki, summarizing our email discussions:
-http://wiki.tei-c.org/index.php/Critical_Apparatus_WorkgroupThere have been several threads on the list, recently, about problems
+http://wiki.tei-c.org/index.php/Critical_Apparatus_Workgroup
+
+There have been several threads on the list, recently, about problems
 related to the Critical Apparatus module. I would like to invite all
 those who use the module, or would like to use it, to seize this
 oportunity to share on the list (and/or on the wiki page) their feedback
@@ -27,25 +40,35 @@ on the Crit. App. module and chapter, the issues they have had while
 working on TEI critical editions, or the good points they want to stress
 in the module. Suggestions for improvement are, of course, welcome. The
 outcome of the discussion will be discussed further during the SIG
-meeting at the TEIMM 2011 in Würzburg.It strikes me that many people feel unhappy with this crucial module,
+meeting at the TEIMM 2011 in Würzburg.
+
+It strikes me that many people feel unhappy with this crucial module,
 each time thinking that it's because the module has been designed with
 other usages / users in mind: scholars interested in "born-digital"
 editions representing the variance of a text complain that the module
 has been designed with print editions in mind, while scholars wo
 endeavour to encode a print edition complain that it's not adequate
 either. There must be some way to make everybody happy - at least, why
-not give it a try? ;)Best wishes,
-Marjorie-- 
+not give it a try? ;)
+
+Best wishes,
+Marjorie
+
+-- 
 Marjorie BURGHART
 EHESS (pôle de Lyon) / UMR 5648
 Histoire et Archéologie des Mondes Chrétiens et Musulmans Médiévaux
 18 quai Claude Bernard
-69007 Lyon - FRANCE
---===============1129351232931488891==
-Content-Type: text/html
+69007 Lyon - FRANCE
+
+
+
+--1129351232931488891Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMDEgVHJhbnNpdGlvbmFs
+Content-Disposition: attachment; filename�ttachment.html"
+MIME-Version: 1.0
+
+PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMDEgVHJhbnNpdGlvbmFs
 Ly9FTiI+CjxodG1sPgogIDxoZWFkPgoKICAgIDxtZXRhIGh0dHAtZXF1aXY9ImNvbnRlbnQtdHlw
 ZSIgY29udGVudD0idGV4dC9odG1sOyBjaGFyc2V0PUlTTy04ODU5LTEiPgogIDwvaGVhZD4KICA8
 Ym9keSB0ZXh0PSIjMDAwMDAwIiBiZ2NvbG9yPSIjZmZmZmZmIj4KICAgIERlYXIgRGlnaXRhbCBN
@@ -118,4 +141,4 @@ dCBsZWFzdCwgd2h5IApub3QgZ2l2ZSBpdCBhIHRyeT8gOykKCkJlc3Qgd2lzaGVzLApNYXJqb3Jp
 ZQoKLS0gCk1hcmpvcmllIEJVUkdIQVJUCkVIRVNTIChwJm9jaXJjO2xlIGRlIEx5b24pIC8gVU1S
 IDU2NDgKSGlzdG9pcmUgZXQgQXJjaCZlYWN1dGU7b2xvZ2llIGRlcyBNb25kZXMgQ2hyJmVhY3V0
 ZTt0aWVucyBldCBNdXN1bG1hbnMgTSZlYWN1dGU7ZGkmZWFjdXRlO3ZhdXgKMTggcXVhaSBDbGF1
-ZGUgQmVybmFyZAo2OTAwNyBMeW9uIC0gRlJBTkNFCjwvcHJlPgogIDwvYm9keT4KPC9odG1sPgo=
+ZGUgQmVybmFyZAo2OTAwNyBMeW9uIC0gRlJBTkNFCjwvcHJlPgogIDwvYm9keT4KPC9odG1sPgo

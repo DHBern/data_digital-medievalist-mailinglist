@@ -1,7 +1,11 @@
-Subject: Re: [dm-l] numbering linesWhy not encode your poem in TEI usind the <l> (or any other element) and
+Subject: Re: [dm-l] numbering lines
+
+Why not encode your poem in TEI usind the <l> (or any other element) and
 output line numbers using XSLT and <xsl:number>?
 Best,
-Notis_redacted_(a)postgrad.manchester.ac.uk>
+Notis
+
+_redacted_(a)postgrad.manchester.ac.uk>
 wrote:
 >
 > I've done this in Excel for my own concordance.  You can put the lines in
@@ -86,9 +90,17 @@ _redacted_(a)uleth.ca
 > dm-l mailing list
 _redacted_(a)uleth.ca
 > http://listserv.uleth.ca/mailman/listinfo/dm-l
->-- 
+>
+
+
+
+-- 
 http://www.early-modern-greek.org
-http://www.mml.cam.ac.uk/greek/grammarofmedievalgreek/V2h5IG5vdCBlbmNvZGUgeW91ciBwb2VtIGluIFRFSSB1c2luZCB0aGUgJmx0O2wmZ3Q7IChvciBh
+http://www.mml.cam.ac.uk/greek/grammarofmedievalgreek/
+
+
+
+V2h5IG5vdCBlbmNvZGUgeW91ciBwb2VtIGluIFRFSSB1c2luZCB0aGUgJmx0O2wmZ3Q7IChvciBh
 bnkgb3RoZXIgZWxlbWVudCkgYW5kIG91dHB1dCBsaW5lIG51bWJlcnMgdXNpbmcgWFNMVCBhbmQg
 Jmx0O3hzbDpudW1iZXImZ3Q7Pzxicj5CZXN0LDxicj5Ob3Rpczxicj48YnI+PGRpdj48c3BhbiBj
 bGFzcz0iZ21haWxfcXVvdGUiPk9uIDExLzE1LzA2LCA8YiBjbGFzcz0iZ21haWxfc2VuZGVybmFt
@@ -190,4 +202,4 @@ dGU+PC9kaXY+PGJyPjxiciBjbGVhcj0iYWxsIj48YnI+LS0gPGJyPjxhIGhyZWY9Imh0dHA6Ly93
 d3cuZWFybHktbW9kZXJuLWdyZWVrLm9yZyI+aHR0cDovL3d3dy5lYXJseS1tb2Rlcm4tZ3JlZWsu
 b3JnCjwvYT48YnI+PGEgaHJlZj0iaHR0cDovL3d3dy5tbWwuY2FtLmFjLnVrL2dyZWVrL2dyYW1t
 YXJvZm1lZGlldmFsZ3JlZWsvIj5odHRwOi8vd3d3Lm1tbC5jYW0uYWMudWsvZ3JlZWsvZ3JhbW1h
-cm9mbWVkaWV2YWxncmVlay88L2E+Cg==
+cm9mbWVkaWV2YWxncmVlay88L2E+Cg

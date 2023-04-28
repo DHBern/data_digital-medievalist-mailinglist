@@ -1,5 +1,9 @@
-Subject: Re: [dm-l] [Technical]: Suggestions for a replacement for Subversion?_redacted_(a)gmail.com> (Wed 31 Dec =20
-2014 11:01:56 AM CET):> Project and individual preferences are pretty much what drives us to use
+Subject: Re: [dm-l] [Technical]: Suggestions for a replacement for Subversion?
+
+_redacted_(a)gmail.com> (Wed 31 Dec  
+2014 11:01:56 AM CET):
+
+> Project and individual preferences are pretty much what drives us to use
 > various version control systems. Mercurial and Git are similar, but I
 > prefer Git because I use it daily and the people I collaborate with use it.
 > I've seen companies use both systems, and Google has built their own
@@ -7,13 +11,25 @@ Subject: Re: [dm-l] [Technical]: Suggestions for a replacement for Subversion?
 > projects. The point I was trying to make was to use a version control
 > system that works well for code. I don't think it matters which one, but as
 > long as there is one that does a good job, that's what matters. Whether you
-> use Git or Mercurial shouldn't matter.Agreed. "The best tool is the tool you know best." (author unknown).> They are both better than Dropbox or
-> Google Drive for code.But what is "code"? Any text files can be considered "code" for this =20
-purpose if it is important for you to document and monitor changes.Best regardsJanusz--=20
-Prof. dr hab. Janusz S. Bie=C5=84 -  Uniwersytet Warszawski (Katedra =20
+> use Git or Mercurial shouldn't matter.
+
+Agreed. "The best tool is the tool you know best." (author unknown).
+
+> They are both better than Dropbox or
+> Google Drive for code.
+
+But what is "code"? Any text files can be considered "code" for this  
+purpose if it is important for you to document and monitor changes.
+
+Best regards
+
+Janusz
+
+-- 
+Prof. dr hab. Janusz S. Bień -  Uniwersytet Warszawski (Katedra  
 Lingwistyki Formalnej)
-Prof. Janusz S. Bie=C5=84 - University of Warsaw (Formal Linguistics Departme=
-nt)
-_redacted_(a)mimuw.edu.pl, http://fleksem.klf.uw.edu.pl/~jsbi=
-en/
---===============6736906186606348214==--
+Prof. Janusz S. Bień - University of Warsaw (Formal Linguistics Department)
+_redacted_(a)mimuw.edu.pl, http://fleksem.klf.uw.edu.pl/~jsbien/
+
+--6736906186606348214-
+

@@ -1,9 +1,18 @@
-Subject: Re: [dm-l] open source XML-editor?I tried vex and hated it, but then I'm an emacs kind of chap...For a project not unlike the one you describe, we have found xmlmind to 
+Subject: Re: [dm-l] open source XML-editor?
+
+I tried vex and hated it, but then I'm an emacs kind of chap...
+
+For a project not unlike the one you describe, we have found xmlmind to 
 offer very good features for customization. It's not open source, but it 
 does have a very good scripting engine which can be used with a free 
-component.Also not open source, but currently flavour of the month with many, is 
-Oxygen, which has comparable features.
-Roberto Rosselli Del Turco wrote:> Hi Benjamin!
+component.
+
+Also not open source, but currently flavour of the month with many, is 
+Oxygen, which has comparable features.
+
+Roberto Rosselli Del Turco wrote:
+
+> Hi Benjamin!
 > 
 > Il giorno ven, 25/11/2005 alle 19.01 +0100, Benjamin Burkard ha scritto:
 > 
@@ -68,5 +77,9 @@ Roberto Rosselli Del Turco wrote:> Hi Benjamin!
 > sheets.
 > 
 > Ciao
-> 
---===============2824053722462955331==--
+> 
+
+
+
+--2824053722462955331-
+

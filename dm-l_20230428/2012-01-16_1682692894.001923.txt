@@ -1,4 +1,6 @@
-Subject: Re: [dm-l] Junicode 0.7.1Il 16/01/2012 13:53, Peter Baker ha scritto:
+Subject: Re: [dm-l] Junicode 0.7.1
+
+Il 16/01/2012 13:53, Peter Baker ha scritto:
 > One more note by the way. If you have a *very* recent version of Firefox
 > you can see the new advanced typography support in that browser
 > tested/demonstrated with Junicode here:
@@ -8,9 +10,21 @@ Subject: Re: [dm-l] Junicode 0.7.1Il 16/01/2012 13:53, Peter Baker ha scritto:
 > Insular letter-shapes, true small caps, historical forms, and more,
 > including (my personal favorite) reversed and mirrored runes. I hope
 > very much that this kind of typography will eventually be supported in
-> all the major browsers.Awesome work, Peter, thanks a lot!	Roberto-- Roberto Rosselli Del Turco      roberto.rossellidelturco at unito.it
+> all the major browsers.
+
+Awesome work, Peter, thanks a lot!
+
+	Roberto
+
+-- 
+
+Roberto Rosselli Del Turco      roberto.rossellidelturco at unito.it
 Dipartimento di Scienze         rosselli at ling.unipi.it
 del Linguaggio                  Then spoke the thunder  DA
-Universita' di Torino           Datta: what have we given?  (TSE)  Hige sceal the heardra,     heorte the cenre,
-  mod sceal the mare,       the ure maegen litlath.  (Maldon 312-3)
---===============8936642102156916762==--
+Universita' di Torino           Datta: what have we given?  (TSE)
+
+  Hige sceal the heardra,     heorte the cenre,
+  mod sceal the mare,       the ure maegen litlath.  (Maldon 312-3)
+
+--8936642102156916762-
+

@@ -1,8 +1,16 @@
-Subject: Re: [dm-l] The time has come to make some <choice>sHi James,Are you actually marking up the markup? For example, are you taking an SGML 
+Subject: Re: [dm-l] The time has come to make some <choice>s
+
+Hi James,
+
+Are you actually marking up the markup? For example, are you taking an SGML 
 text and marking it up (SGML code included) in TEI, or are you mainly 
 concerned with converting prior markup formats to current ones? I don't 
-believe I've ever seen one tag-based markup system marked up in another.Cheers,
-MartinAt 11:56 AM 30/06/2004, you wrote:
+believe I've ever seen one tag-based markup system marked up in another.
+
+Cheers,
+Martin
+
+At 11:56 AM 30/06/2004, you wrote:
 >On Wed, 30 Jun 2004, Martin Holmes wrote:
 >
 > > Hi all,
@@ -44,7 +52,9 @@ MartinAt 11:56 AM 30/06/2004, you wrote:
 >_______________________________________________
 >dm-l mailing list
 _redacted_(a)uleth.ca
->http://listserv.uleth.ca/mailman/listinfo/dm-l______________________________________
+>http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+______________________________________
 Martin Holmes
 University of Victoria Humanities Computing and Media Centre
 _redacted_(a)uvic.ca
@@ -52,4 +62,7 @@ _redacted_(a)mholmes.com
 _redacted_(a)halfbakedsoftware.com
 http://www.mholmes.com
 http://web.uvic.ca/hcmc/
-http://www.halfbakedsoftware.com
+http://www.halfbakedsoftware.com
+
+
+

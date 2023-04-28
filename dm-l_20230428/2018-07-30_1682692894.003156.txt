@@ -1,59 +1,50 @@
-Subject:Dear colleagues,We are looking for two (2) Computational Linguist / Natural Language Processi=
-ng developers for the ERC research project POSTDATA http://postdata.linhd.es/=
-. The project, born at the Digital Humanities Innovation Lab from UNED, LINHD=
-, is a Digital Humanities project which deals with poetry analysis, standardi=
-zation and classification. It combines semantic web technologies, natural lan=
-guage processing and digital scholarship editing with the analysis of more th=
-an 30 poetry projects and databases in different European languages. The team=
- is an interdisciplinary group of high-qualified researchers from different d=
-isciplines, from linguistics, philology and literature to computer science, m=
-athematics and semantic web engineers.Requirements for this position are:
-  *   Knowledge of Natural Language processing (NLP) or Computational Linguis=
-tics
+Subject:
+
+Dear colleagues,
+
+We are looking for two (2) Computational Linguist / Natural Language Processing developers for the ERC research project POSTDATA http://postdata.linhd.es/. The project, born at the Digital Humanities Innovation Lab from UNED, LINHD, is a Digital Humanities project which deals with poetry analysis, standardization and classification. It combines semantic web technologies, natural language processing and digital scholarship editing with the analysis of more than 30 poetry projects and databases in different European languages. The team is an interdisciplinary group of high-qualified researchers from different disciplines, from linguistics, philology and literature to computer science, mathematics and semantic web engineers.
+
+Requirements for this position are:
+
+  *   Knowledge of Natural Language processing (NLP) or Computational Linguistics
   *   Knowledge of NLP toolkits
   *   Experience using language technology in the Humanities
   *   Good programming skills in Python or Java
   *   Languages: Spanish and English
   *   Demonstrable good writing skills in English
   *   Experience with software version control (git)
-  *   Autonomy combined with good communication and collaboration skills, tea=
-m-orientedCandidates must sent a short CV (maximum 4 pages) and a motivation letter (ma=
-ximum 2 pages) explaining why they fit for the position, with references to p=
-revious projects developed.
-Mandatory SUBJECT of email message: POSTDATA Developer Application _ LastName=
-, Name
-_redacted_(a)linhd.uned.es>The positions will be filled as soon as we find a candidate suitable for it. =
-Don't wait for the last minute!More information here https://euraxess.ec.europa.eu/jobs/327747Warm regards from the coordinator of this issue,Elena Gonz=C3=A1lez-Blanco
+  *   Autonomy combined with good communication and collaboration skills, team-oriented
+
+Candidates must sent a short CV (maximum 4 pages) and a motivation letter (maximum 2 pages) explaining why they fit for the position, with references to previous projects developed.
+Mandatory SUBJECT of email message: POSTDATA Developer Application _ LastName, Name
+_redacted_(a)linhd.uned.es>
+
+The positions will be filled as soon as we find a candidate suitable for it. Don't wait for the last minute!
+
+More information here https://euraxess.ec.europa.eu/jobs/327747
+
+Warm regards from the coordinator of this issue,
+
+Elena González-Blanco
+
 Luciana Ayciriex
 R&D Project Manager
-Laboratorio de Innovaci=C3=B3n en Humanidades Digitales
-Escuela T=C3=A9cnica Superior de Ingenier=C3=ADa Inform=C3=A1tica, UNED
+Laboratorio de Innovación en Humanidades Digitales
+Escuela Técnica Superior de Ingeniería Informática, UNED
 Juan del Rosal, 16
 28040 MADRID
-tel. 913988239
-[1495805924928_linhd_signature.png]                         [1487162382233_PO=
-STDATA]
-              www.linhd.es<http://linhd.es/>                                 =
-         www.postdata.linhd.es<http://postdata.linhd.es/>
-AVISO LEGAL. Este mensaje puede contener informaci=C3=B3n reservada y confide=
-ncial. Si usted no es el destinatario no est=C3=A1 autorizado a copiar, repro=
-ducir o distribuir este mensaje ni su contenido. Si ha recibido este mensaje =
-por error, le rogamos que lo notifique al remitente.
-Le informamos de que sus datos personales, que puedan constar en este mensaje=
-, ser=C3=A1n tratados en calidad de responsable de tratamiento por la UNIVERS=
-IDAD NACIONAL DE EDUCACI=C3=93N A DISTANCIA (UNED) c/ Bravo Murillo, 38, 2801=
-5-MADRID-, con la finalidad de mantener el contacto con usted. La base jur=C3=
-=ADdica que legitima este tratamiento, ser=C3=A1 su consentimiento, el inter=
-=C3=A9s leg=C3=ADtimo o la necesidad para gestionar una relaci=C3=B3n contrac=
-tual o similar. En cualquier momento podr=C3=A1 ejercer sus derechos de acces=
-o, rectificaci=C3=B3n, supresi=C3=B3n, oposici=C3=B3n, limitaci=C3=B3n al tra=
-tamiento o portabilidad de los datos, ante la UNED, Departamento de Pol=C3=AD=
-tica Jur=C3=ADdica de Seguridad de la Informaci=C3=B3n<http://portal.uned.es/=
-portal/page?_pageid=3D93,24432769,93_24432770&_dad=3Dportal&_schema=3DPORTAL>=
-, o a trav=C3=A9s de la Sede electr=C3=B3nica<https://sede.uned.es/> de la Un=
-iversidad.
-Para m=C3=A1s informaci=C3=B3n visite nuestra Pol=C3=ADtica de Privacidad<htt=
-ps://descargas.uned.es/publico/pdf/Politica_privacidad_UNED.pdf>.PGh0bWwgeG1sbnM6dj0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTp2bWwiIHhtbG5zOm89InVy
+tel. 913988239
+
+[1495805924928_linhd_signature.png]                         [1487162382233_POSTDATA]
+              www.linhd.es<http://linhd.es/>                                          www.postdata.linhd.es<http://postdata.linhd.es/>
+
+AVISO LEGAL. Este mensaje puede contener información reservada y confidencial. Si usted no es el destinatario no está autorizado a copiar, reproducir o distribuir este mensaje ni su contenido. Si ha recibido este mensaje por error, le rogamos que lo notifique al remitente.
+Le informamos de que sus datos personales, que puedan constar en este mensaje, serán tratados en calidad de responsable de tratamiento por la UNIVERSIDAD NACIONAL DE EDUCACIÓN A DISTANCIA (UNED) c/ Bravo Murillo, 38, 28015-MADRID-, con la finalidad de mantener el contacto con usted. La base jurídica que legitima este tratamiento, será su consentimiento, el interés legítimo o la necesidad para gestionar una relación contractual o similar. En cualquier momento podrá ejercer sus derechos de acceso, rectificación, supresión, oposición, limitación al tratamiento o portabilidad de los datos, ante la UNED, Departamento de Política Jurídica de Seguridad de la Información<http://portal.uned.es/portal/page?_pageid=93,24432769,93_24432770&_dad=portal&_schema=PORTAL>, o a través de la Sede electrónica<https://sede.uned.es/> de la Universidad.
+Para más información visite nuestra Política de Privacidad<https://descargas.uned.es/publico/pdf/Politica_privacidad_UNED.pdf>.
+
+
+
+PGh0bWwgeG1sbnM6dj0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTp2bWwiIHhtbG5zOm89InVy
 bjpzY2hlbWFzLW1pY3Jvc29mdC1jb206b2ZmaWNlOm9mZmljZSIgeG1sbnM6dz0idXJuOnNjaGVt
 YXMtbWljcm9zb2Z0LWNvbTpvZmZpY2U6d29yZCIgeG1sbnM6bT0iaHR0cDovL3NjaGVtYXMubWlj
 cm9zb2Z0LmNvbS9vZmZpY2UvMjAwNC8xMi9vbW1sIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcv
@@ -312,7 +303,8 @@ bnQtc2l6ZTogOHB0OyBjb2xvcjogIzc2OTIzQzsgZm9udC1mYW1pbHk6ICdDYWxpYnJpJyxzYW5z
 LXNlcmlmOyI+UGFyYSBt4XMgaW5mb3JtYWNp824gdmlzaXRlIG51ZXN0cmEKPGEgaHJlZj0iaHR0
 cHM6Ly9kZXNjYXJnYXMudW5lZC5lcy9wdWJsaWNvL3BkZi9Qb2xpdGljYV9wcml2YWNpZGFkX1VO
 RUQucGRmIj5Qb2ztdGljYSBkZSBQcml2YWNpZGFkPC9hPi4KPC9kaXY+CjwvYm9keT4KPC9odG1s
-Pgo=iVBORw0KGgoAAAANSUhEUgAAAIIAAABHCAIAAABERAitAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAK
+Pgo
+iVBORw0KGgoAAAANSUhEUgAAAIIAAABHCAIAAABERAitAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAK
 TWlDQ1BQaG90b3Nob3AgSUNDIHByb2ZpbGUAAHjanVN3WJP3Fj7f92UPVkLY8LGXbIEAIiOsCMgQ
 WaIQkgBhhBASQMWFiApWFBURnEhVxILVCkidiOKgKLhnQYqIWotVXDjuH9yntX167+3t+9f7vOec
 5/zOec8PgBESJpHmomoAOVKFPDrYH49PSMTJvYACFUjgBCAQ5svCZwXFAADwA3l4fnSwP/wBr28A
@@ -533,7 +525,8 @@ rUCSmSCJFBnFQaSzLt3dG5Il9TggR+8miQGOiI4/eibxEhFiIlIkIgJKN3UqIaVklRQmMEcECWad
 PiIJKcEqBIgkQ/Tc8hrFvJqIAUlmDUwsSOCCuobO2RIQpUyp202BGQIxPkpnj/Xz8LtBE8d6iqJc
 k74FQ98KEN0cQDq/yoKj2tZpVr1xKMpLg3Wb0xlJdPQxCJCnm3p1aEzEDCJmiCiSjcJeyQBYEMXo
 5h7PE3O9+rNJ/dFYPw9An4b6h9ObnwmQBJJMRFHynBA9FSK6X4Gkvu+EJDFJ8cX2+69qhovyfykX
-DwD9r5D/NwCdYscuM6rzCQAAAABJRU5ErkJggg==iVBORw0KGgoAAAANSUhEUgAAAJYAAAAwCAYAAADzRIMRAAAACXBIWXMAAC4jAAAuIwF4pT92AAAK
+DwD9r5D/NwCdYscuM6rzCQAAAABJRU5ErkJggg
+iVBORw0KGgoAAAANSUhEUgAAAJYAAAAwCAYAAADzRIMRAAAACXBIWXMAAC4jAAAuIwF4pT92AAAK
 T2lDQ1BQaG90b3Nob3AgSUNDIHByb2ZpbGUAAHjanVNnVFPpFj333vRCS4iAlEtvUhUIIFJCi4AU
 kSYqIQkQSoghodkVUcERRUUEG8igiAOOjoCMFVEsDIoK2AfkIaKOg6OIisr74Xuja9a89+bN/rXX
 Pues852zzwfACAyWSDNRNYAMqUIeEeCDx8TG4eQuQIEKJHAAEAizZCFz/SMBAPh+PDwrIsAHvgAB
@@ -705,4 +698,4 @@ UYnXZJGHYxed3xxBcH2yAPg3irDXD6Rt98ui+YUI1vVHW2MRiW+tEpN2epF50GLbVwoGGDioRvgu
 f8u9u2BrCRbeK+k4DK/z0aL7R3s3QvT9DzHRYg8V3fNoEX4t9exy7S32dDcUOW5HjW4oVe6VT524
 t3UyaNsZ+92iI1Gp9vHMGJ5hFs3LoGaYI4MfYqfT5FOqhO92eoX/esUpIVTvWeZ9tNJdQuIPoyiU
 9iUoXJK0DN+R8CUxvaVeYrFbVP31ZVar8PrH/svAe0Gw3u1yE0G0/Wzhw2oEO2wW4PnasSn94yjq
-2L+VO1aORvl/AwA0hh3KKxmdfgAAAABJRU5ErkJggg==
+2L+VO1aORvl/AwA0hh3KKxmdfgAAAABJRU5ErkJggg

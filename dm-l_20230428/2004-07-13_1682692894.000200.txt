@@ -1,29 +1,37 @@
-Subject: Re: [dm-l] Junius 11 CD, cost, markup, MS IENot to sound judgmental or anything, but: ick.PeterMartin K. Foys wrote:>
+Subject: Re: [dm-l] Junius 11 CD, cost, markup, MS IE
+
+Not to sound judgmental or anything, but: ick.
+
+Peter
+
+Martin K. Foys wrote:
+
+>
 > Excerpt of Junius 11 markup
 > <---->
 > <table
-> cellpadding=2 cellspacing=0 border=0 class="poemTable"> <tr><td
-> align=right valign=top><a href='javascript://' title='Go to page 157 in
-> the MS' class=clsPoemFolio onClick="folioGoto('157')">157</a></td><td
-> align=right valign=top><a href='javascript://' class=poemN title='Point
+> cellpaddingcellspacingborderclassoemTable"> <tr><td
+> alignght valignp><a hrefavascript://' titleo to page 157 in
+> the MS' classsPoemFolio onClickolioGoto('157')">157</a></td><td
+> alignght valignp><a hrefavascript://' classemN titleoint
 > to line 1 in the MS'
-> onClick="tLineClick('line','157','1',469,403)">1</a></td><td align=right
-> valign=top></td><td valign=top><div class=poemT><span
-> id=poemText157_1>Hof &eth;a for hergum hlude stefne
-> lifigendra</span></div></td></tr> <tr><td align=right
-> valign=top></td><td align=right valign=top><a href='javascript://'
-> class=poemN title='Point to line 2 in the MS'
-> onClick="tLineClick('line','157','2',471,423)">2</a></td><td align=right
-> valign=top></td><td valign=top><div class=poemT><span
-> id=poemText157_2>&thorn;eod, &thorn;a he to leodum spr&aelig;c:
-> &quot;Hw&aelig;t, ge nu <nobr>eagum <a href='javascript://' title='Show
-> this line's textual annotation in the Note Window' class=clsPoemFoot
-> onClick="blurbOpen('footnote',157,'2a',true)">*</a></nobr></span></div><
-> /td></tr> <tr><td align=right valign=top></td><td align=right
-> valign=top><a href='javascript://' class=poemN title='Point to line 3 in
-> the MS' onClick="tLineClick('line','157','3',472,440)">3</a></td><td
-> align=right valign=top></td><td valign=top><div class=poemT><span
-> id=poemText157_3>to on locia&eth;, folca leofost, f&aelig;rwundra
+> onClickLineClick('line','157','1',469,403)">1</a></td><td alignght
+> valignp></td><td valignp><div classemT><span
+> idemText157_1>Hof &eth;a for hergum hlude stefne
+> lifigendra</span></div></td></tr> <tr><td alignght
+> valignp></td><td alignght valignp><a hrefavascript://'
+> classemN titleoint to line 2 in the MS'
+> onClickLineClick('line','157','2',471,423)">2</a></td><td alignght
+> valignp></td><td valignp><div classemT><span
+> idemText157_2>&thorn;eod, &thorn;a he to leodum spr&aelig;c:
+> &quot;Hw&aelig;t, ge nu <nobr>eagum <a hrefavascript://' titlehow
+> this line's textual annotation in the Note Window' classsPoemFoot
+> onClickûlurbOpen('footnote',157,'2a',true)">*</a></nobr></span></div><
+> /td></tr> <tr><td alignght valignp></td><td alignght
+> valignp><a hrefavascript://' classemN titleoint to line 3 in
+> the MS' onClickLineClick('line','157','3',472,440)">3</a></td><td
+> alignght valignp></td><td valignp><div classemT><span
+> idemText157_3>to on locia&eth;, folca leofost, f&aelig;rwundra
 > <nobr>sum . .  .
 >
 > etc. etc.
@@ -34,4 +42,7 @@ Subject: Re: [dm-l] Junius 11 CD, cost, markup, MS IENot to sound judgmental o
 _redacted_(a)uleth.ca
 > http://listserv.uleth.ca/mailman/listinfo/dm-l
 > Project web site: http://www.digitalmedievalist.org/
->
+>
+
+
+

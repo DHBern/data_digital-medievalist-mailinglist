@@ -1,7 +1,13 @@
-Subject: Re: [dm-l] [Fwd: MGH]To bad the quality of the scans is a little on the low side. With a tiny
+Subject: Re: [dm-l] [Fwd: MGH]
+
+To bad the quality of the scans is a little on the low side. With a tiny
 bit of training, an OCR could produce JSTOR style and quality PDF over
 Text scans (i.e. not really that great, but better than nothing). And
-the scanning is the real cost intensive thing if you don't proof.-dOn Thu, 2006-16-03 at 16:46 -0330, Bill Schipper wrote:
+the scanning is the real cost intensive thing if you don't proof.
+
+-d
+
+On Thu, 2006-16-03 at 16:46 -0330, Bill Schipper wrote:
 > 
 > It doesn't like like it is searchable.    The collection consists of
 > scanned images of each page.   But it's very clear, and every jot and
@@ -71,7 +77,7 @@ _redacted_(a)list.tcnj.edu>; Thu, 16 Mar 2006 09:55:19 -0500
 _redacted_(a)list.tcnj.edu
 _redacted_(a)english.umass.edu>
 > > Content-Type: multipart/alternative;
-> > boundary=Apple-Mail-4-1004961613
+> > boundaryple-Mail-4-1004961613
 _redacted_(a)english.umass.edu>
 > > Subject: MGH
 > > Date: Thu, 16 Mar 2006 09:55:18 -0500
@@ -84,9 +90,9 @@ _redacted_(a)list.tcnj.edu
 > > X-Spam-Checker-Version: SpamAssassin 3.0.4 (2005-06-05) on
 > > bellatrix.uleth.ca
 > > X-Spam-Level: 
-> > X-Spam-Status: No, score=-2.6 required=5.0
-> > tests=BAYES_00,HTML_90_100,
-> >          HTML_MESSAGE autolearn=no version=3.0.4
+> > X-Spam-Status: No, scoreò.6 required0
+> > testsºYES_00,HTML_90_100,
+> >          HTML_MESSAGE autolearn version0.4
 > > 
 > > It appears that the MGH is now on-line  for free:
 > > http://www.dmgh.de/index.html 
@@ -123,4 +129,7 @@ _redacted_(a)list.tcnj.edu
 _redacted_(a)uleth.ca
 > > dm-l mailing list
 _redacted_(a)uleth.ca
-> > http://listserv.uleth.ca/mailman/listinfo/dm-l
+> > http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+
+

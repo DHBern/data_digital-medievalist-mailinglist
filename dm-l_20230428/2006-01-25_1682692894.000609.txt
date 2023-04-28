@@ -1,48 +1,102 @@
-Subject: [dm-l] brief report on DIGIMEDDear all, I would like to report briefly on the DIGIMED conference
-(http://web-linux.unisi.it/tdtc/digimed/) held last week in Arezzo - Italy. The University of Siena-Arezzo (specifically the Dipartimento di Teoria e
+Subject: [dm-l] brief report on DIGIMED
+
+Dear all,
+
+ 
+
+I would like to report briefly on the DIGIMED conference
+(http://web-linux.unisi.it/tdtc/digimed/) held last week in Arezzo - Italy.
+
+ 
+
+The University of Siena-Arezzo (specifically the Dipartimento di Teoria e
 Documentazione delle Tradizioni Culturali and the Centro Interdipantimentale
 di Studi sui Beni Librari e Archivistici) and the Centre for Computing in
 the Humanities, King's College London were involved as European partners
 (together with the Italian foundation Fondazione Ezio Franceschini) in the
 organisation of the international seminar entitled "Digital Philology and
-Medieval Texts". The event has been successful on different levels and from different
-perspectives: -          first of all the programme itself was rich and combined both
+Medieval Texts".
+
+ 
+
+The event has been successful on different levels and from different
+perspectives:
+
+ 
+
+-          first of all the programme itself was rich and combined both
 scholars presenting the most advanced humanities computing approaches to
-philology and scholars keen on the traditional methods of philology.Many presentations and discussions revealed that the latter - the
+philology and scholars keen on the traditional methods of philology.
+
+Many presentations and discussions revealed that the latter - the
 traditional methods of philology  - are very much perceived as not
 adequately represented by the available digital resources and tools. In some
 cases, these critics are the results of a basic misunderstanding: is up to
 the philologist as such to develop a "proper" (whatever this means for the
 editor itself) digital edition. The dichotomy between "us" as philologists
 and "you" as computer scientists or whoever else is never fruitful as we all
-know.However, it is necessary to acknowledge that digital philology as a
+know.
+
+However, it is necessary to acknowledge that digital philology as a
 discipline is not mature at all both in principles - as the debates at the
 conference stressed out - and in practices (where the discipline itself
 seems to enlarge and become a "transdiscipline"). Some talks though excelled
 in showing that this is not always true. Ambitions are high both in the
 development of new tools and in the contextualisation of the discipline in a
-specific theoretical framework.-          the attendance was very much over the organisers' expectations
+specific theoretical framework.
+
+-          the attendance was very much over the organisers' expectations
 and most importantly, besides the big names in the field, featured a crowd
 of young people (undergraduate and postgraduate students as well as young
 researches from all over Italy and, in some cases, from other European
-countries).Their subscriptions to the workshop exceeded the available seats. However,
+countries).
+
+Their subscriptions to the workshop exceeded the available seats. However,
 they didn't intervene at the open discussion itself. What does this mean?
 Would the debate been different if lead by a younger generation? Do they
 prefer doing rather than talking? Do they privilege the direct experience
 and then model the theory on it? Do they see less the discrepancies and more
-the challenges?-          the debate at the round table was passionate and stimulating.Being all compressed in one afternoon, the discussion became rather abstract
+the challenges?
+
+-          the debate at the round table was passionate and stimulating.
+
+Being all compressed in one afternoon, the discussion became rather abstract
 and intense, detached from the single presentations. Rather than concentrate
 on the single implementation and ideas, the juice of the substantial issues
-came out leaving the audience, or at least me, immobilised by the flood.-          even if dominated by the Italian language, the multilingual (and
+came out leaving the audience, or at least me, immobilised by the flood.
+
+-          even if dominated by the Italian language, the multilingual (and
 multicultural) aspect of the conference emerged during the presentations,
 the discussions and the social moments, reminding us of a wider challenge
-beyond the one of digital philology itself.Another occasion for creating bounds and think of future collaborations. Some of the materials related to the presentations are already available on
-the conference website.  All the best, Arianna 
---===============2795041142223111693==
-Content-Type: text/html
+beyond the one of digital philology itself.
+
+Another occasion for creating bounds and think of future collaborations.
+
+ 
+
+Some of the materials related to the presentations are already available on
+the conference website.
+
+ 
+
+ 
+
+All the best,
+
+ 
+
+Arianna
+
+ 
+
+
+
+--2795041142223111693Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWwgeG1sbnM6dj0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTp2bWwiIHhtbG5zOm89InVy
+Content-Disposition: attachment; filenameúttachment.html"
+MIME-Version: 1.0
+
+PGh0bWwgeG1sbnM6dj0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTp2bWwiIHhtbG5zOm89InVy
 bjpzY2hlbWFzLW1pY3Jvc29mdC1jb206b2ZmaWNlOm9mZmljZSIgeG1sbnM6dz0idXJuOnNjaGVt
 YXMtbWljcm9zb2Z0LWNvbTpvZmZpY2U6d29yZCIgeG1sbnM6c3QxPSJ1cm46c2NoZW1hcy1taWNy
 b3NvZnQtY29tOm9mZmljZTpzbWFydHRhZ3MiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy9UUi9S
@@ -248,4 +302,5 @@ MiBmYWNlPUFyaWFsPjxzcGFuIGxhbmc9RU4tR0Igc3R5bGU9J2ZvbnQtc2l6ZToKMTAuMHB0O2Zv
 bnQtZmFtaWx5OkFyaWFsJz5Bcmlhbm5hPG86cD48L286cD48L3NwYW4+PC9mb250PjwvcD4KCjxw
 IGNsYXNzPU1zb05vcm1hbD48Zm9udCBzaXplPTIgZmFjZT1BcmlhbD48c3BhbiBzdHlsZT0nZm9u
 dC1zaXplOjEwLjBwdDsKZm9udC1mYW1pbHk6QXJpYWwnPjxvOnA+Jm5ic3A7PC9vOnA+PC9zcGFu
-PjwvZm9udD48L3A+Cgo8L2Rpdj4KCjwvYm9keT4KCjwvaHRtbD4K
+PjwvZm9udD48L3A+Cgo8L2Rpdj4KCjwvYm9keT4KCjwvaHRtbD4K
+

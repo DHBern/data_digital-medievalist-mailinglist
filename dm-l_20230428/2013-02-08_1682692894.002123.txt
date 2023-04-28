@@ -1,23 +1,141 @@
-Subject: [dm-l] Bursaries available for EpiDoc workshopA reminder that we are inviting applications for a training event indigital encoding of epigraphy and papyrology at the Institute forClassical Studies, London, April 22-5, 2013 (see full announcementbelow). Thanks to the generosity of the British Epigraphy Society, wenow have a limited number of bursaries available to assist students withattending this workshop.
-If you would like to apply for financial support in attending the EpiDocworkshop, please note in your application email that you would like tobe considered for a bursary, approximately how much you expect the tripto cost you, and what other sources of funding you have. If you havealready applied for the training, please just send an additional emailasking to be considered, and we'll add a note to this effect to yourapplication. A decision will be made shortly after the closing date onMarch 1st.-------- Original Message --------Subject: EpiDoc Workshop, London, April 22-25, 2013
-We invite applications for a 4-day training workshop on digitaltext-markup for epigraphic and papyrological editing, to be held in theInstitute for Classical Studies, London. The workshop will be taught byGabriel Bodard (KCL), James Cowey (Heidelberg), Simona Stoyanova (KCL)and Charlotte Tupman (KCL). There will be no charge for the teaching,but participants will have to arrange their own travel andaccommodation.
-EpiDoc (epidoc.sf.net) is a set of guidelines for using TEI XML(tei-c.org) for the encoding of inscriptions, papyri and other ancientdocumentary texts. It has been used to publish digital projectsincluding the Inscriptions of Aphrodisias and Tripolitania, the USEpigraphy Project, Vindolanda Tablets Online and Curse Tablets fromRoman Britain, Pandektis (inscriptions of Macedonia and Thrace), and theDuke Databank of Documentary Papyri. The workshop will introduceparticipants to the basics of XML and markup and give hands-onexperience of tagging textual features and object description in EpiDocas well as use of the tags-free Papyrological Editor (papyri.info/editor).
-No technical skills are required to apply, but a working knowledge ofGreek or Latin, epigraphy or papyrology and the Leiden Conventions willbe assumed. The workshop is open to participants of all levels, fromgraduate students to professors or professionals.
-To apply for a place on this workshop please email_redacted_(a)kcl.ac.uk with a brief description of your reason forinterest and summarising your relevant skills and background, by FridayMarch 1st, 2013.
---Dr Gabriel BODARDResearcher in Digital Epigraphy
-Digital HumanitiesKing's College London26-29 Drury LaneLondon WC2B 5RL
-T: +44 (0)20 7848 1388_redacted_(a)kcl.ac.uk
-http://www.digitalclassicist.org/http://www.currentepigraphy.org/
---EpiDoc Collaborative for Epigraphic Documents in TEI XMLhttp://epidoc.sf.net
-Markup List Archives:http://lsv.uky.edu/archives/markup.html
-The Stoa Consortium:http://www.stoa.org/--
+Subject: [dm-l] Bursaries available for EpiDoc workshop
+
+A reminder that we are inviting applications for a training event in
+
+digital encoding of epigraphy and papyrology at the Institute for
+
+Classical Studies, London, April 22-5, 2013 (see full announcement
+
+below). Thanks to the generosity of the British Epigraphy Society, we
+
+now have a limited number of bursaries available to assist students with
+
+attending this workshop.
+
+If you would like to apply for financial support in attending the EpiDoc
+
+workshop, please note in your application email that you would like to
+
+be considered for a bursary, approximately how much you expect the trip
+
+to cost you, and what other sources of funding you have. If you have
+
+already applied for the training, please just send an additional email
+
+asking to be considered, and we'll add a note to this effect to your
+
+application. A decision will be made shortly after the closing date on
+
+March 1st.
+
+
+
+-------- Original Message --------
+
+Subject: EpiDoc Workshop, London, April 22-25, 2013
+
+We invite applications for a 4-day training workshop on digital
+
+text-markup for epigraphic and papyrological editing, to be held in the
+
+Institute for Classical Studies, London. The workshop will be taught by
+
+Gabriel Bodard (KCL), James Cowey (Heidelberg), Simona Stoyanova (KCL)
+
+and Charlotte Tupman (KCL). There will be no charge for the teaching,
+
+but participants will have to arrange their own travel and
+
+accommodation.
+
+EpiDoc (epidoc.sf.net) is a set of guidelines for using TEI XML
+
+(tei-c.org) for the encoding of inscriptions, papyri and other ancient
+
+documentary texts. It has been used to publish digital projects
+
+including the Inscriptions of Aphrodisias and Tripolitania, the US
+
+Epigraphy Project, Vindolanda Tablets Online and Curse Tablets from
+
+Roman Britain, Pandektis (inscriptions of Macedonia and Thrace), and the
+
+Duke Databank of Documentary Papyri. The workshop will introduce
+
+participants to the basics of XML and markup and give hands-on
+
+experience of tagging textual features and object description in EpiDoc
+
+as well as use of the tags-free Papyrological Editor (papyri.info/editor).
+
+No technical skills are required to apply, but a working knowledge of
+
+Greek or Latin, epigraphy or papyrology and the Leiden Conventions will
+
+be assumed. The workshop is open to participants of all levels, from
+
+graduate students to professors or professionals.
+
+To apply for a place on this workshop please email
+
+_redacted_(a)kcl.ac.uk with a brief description of your reason for
+
+interest and summarising your relevant skills and background, by Friday
+
+March 1st, 2013.
+
+
+
+--
+
+Dr Gabriel BODARD
+
+Researcher in Digital Epigraphy
+
+Digital Humanities
+
+King's College London
+
+26-29 Drury Lane
+
+London WC2B 5RL
+
+T: +44 (0)20 7848 1388
+
+_redacted_(a)kcl.ac.uk
+
+http://www.digitalclassicist.org/
+
+http://www.currentepigraphy.org/
+
+--
+
+EpiDoc Collaborative for Epigraphic Documents in TEI XML
+
+http://epidoc.sf.net
+
+Markup List Archives:
+
+http://lsv.uky.edu/archives/markup.html
+
+The Stoa Consortium:
+
+http://www.stoa.org/
+
+--
 Dr. Charlotte Tupman
 Project Research Associate
 Department of Digital Humanities
 King's College London
 26-29 Drury Lane
 London
-WC2B 5RLTel: +44 (0)20 7848 7145PGh0bWwgZGlyPSJsdHIiPgo8aGVhZD4KPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBj
+WC2B 5RL
+
+Tel: +44 (0)20 7848 7145
+
+
+
+PGh0bWwgZGlyPSJsdHIiPgo8aGVhZD4KPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBj
 b250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9aXNvLTg4NTktMSI+CjxzdHlsZSB0eXBlPSJ0ZXh0
 L2NzcyIgaWQ9Im93YVBhcmFTdHlsZSI+PC9zdHlsZT4KPC9oZWFkPgo8Ym9keSBmcHN0eWxlPSIx
 IiBvY3NpPSIwIj4KPGRpdiBzdHlsZT0iZGlyZWN0aW9uOiBsdHI7Zm9udC1mYW1pbHk6IFRhaG9t
@@ -114,4 +232,4 @@ cm9qZWN0IFJlc2VhcmNoIEFzc29jaWF0ZTxicj4KRGVwYXJ0bWVudCBvZiBEaWdpdGFsIEh1bWFu
 aXRpZXM8YnI+CktpbmcncyBDb2xsZWdlIExvbmRvbjxicj4KMjYtMjkgRHJ1cnkgTGFuZTxicj4K
 TG9uZG9uPGJyPgpXQzJCIDVSTDxicj4KPGJyPgpUZWw6ICYjNDM7NDQgKDApMjAgNzg0OCA3MTQ1
 PC9kaXY+CjwvZm9udD48L2Rpdj4KPC9kaXY+CjwvZGl2Pgo8L2Rpdj4KPC9kaXY+CjwvYm9keT4K
-PC9odG1sPgo=
+PC9odG1sPgo

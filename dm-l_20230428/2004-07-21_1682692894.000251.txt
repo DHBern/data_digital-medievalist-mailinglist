@@ -1,11 +1,23 @@
-Subject: Re: [dm-l] OTA Corpus_redacted_(a)computing-services.oxford.ac.uk>:> You can't run XSLT on SGML files, so this is not a very sensible 
+Subject: Re: [dm-l] OTA Corpus
+
+_redacted_(a)computing-services.oxford.ac.uk>:
+
+> You can't run XSLT on SGML files, so this is not a very sensible 
 > question as phrased. However, migrating SGML to XML is very easily done 
 > using a nifty utility called osx, of which we have just done a windows 
 > port (sorry, but the Mac version is still a glint in someone else's 
-> eye). You may not be talking about the same thing, but I've been very happily 
+> eye). 
+
+You may not be talking about the same thing, but I've been very happily 
 converting SGML to XML using osx on my Powerbook for months. I installed it 
 from the opensp3 package using fink (google fink for details). Wouldn't work 
-on OS9, of course...I'm not really familiar with everything that goes on in the background with 
-SGML catalogs and so forth, but it certainly can work on a mac.David Mimno
-Perseus Project
---===============4253025642439553903==--
+on OS9, of course...
+
+I'm not really familiar with everything that goes on in the background with 
+SGML catalogs and so forth, but it certainly can work on a mac.
+
+David Mimno
+Perseus Project
+
+--4253025642439553903-
+

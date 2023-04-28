@@ -1,5 +1,11 @@
-Subject: RE: [dm-l] Weird Firefox errorYes. All the machines have the same directory structure and the files
-are kept in sync on all three.-d_redacted_(a)lacuna.ca wrote:
+Subject: RE: [dm-l] Weird Firefox error
+
+Yes. All the machines have the same directory structure and the files
+are kept in sync on all three.
+
+-d
+
+_redacted_(a)lacuna.ca wrote:
 > Is the stylesheet in the same location on each machine?
 > 
 > -----Original Message-----
@@ -27,10 +33,10 @@ _redacted_(a)uleth.ca] On Behalf Of
 > machines. In any event, here is the beginning of the file:
 > 
 > 
-> > <?xml version="1.0" encoding="utf-8"?>
-> > <?xml-stylesheet type="text/xsl"
-> href="file:/home/dan/documents/xml/xslt/dm1_2.xsl"?>
-> > <TEI.2 rend="article">
+> > <?xml versionñ.0" encodingtf-8"?>
+> > <?xml-stylesheet typeext/xsl"
+> hrefile:/home/dan/documents/xml/xslt/dm1_2.xsl"?>
+> > <TEI.2 rendúrticle">
 > > 
 > (I've also tried text/xml and application/xml and application/xsl).
 > 
@@ -72,6 +78,14 @@ Director, Digital Medievalist Project
 Department of English
 University of Lethbridge
 Lethbridge AB T1K 3M4
-CanadaVox +1 403 329-2377
-Fax +1 403 382-7191_redacted_@caedmon/ubuntu
---===============5527365542866450341==--
+Canada
+
+Vox +1 403 329-2377
+Fax +1 403 382-7191
+
+_redacted_@caedmon/ubuntu
+
+
+
+--5527365542866450341-
+

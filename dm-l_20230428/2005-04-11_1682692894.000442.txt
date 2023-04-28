@@ -1,12 +1,20 @@
-Subject: RE: [dm-l] Question about CSS and IEI think you're in the grey zone where IE just hasn't implemented
+Subject: RE: [dm-l] Question about CSS and IE
+
+I think you're in the grey zone where IE just hasn't implemented
 generated text in CSS. There may be help in the demo files here:
 http://www.xhtmlchef.com/stc2004.asp . Also, since the French and
-Italian quotes work, have you tried q:lang(ENG)?By the way, XHTML 2 seems to be dropping the <q> tag and replacing it
+Italian quotes work, have you tried q:lang(ENG)?
+
+By the way, XHTML 2 seems to be dropping the <q> tag and replacing it
 with <quote>, which explicitly requires the author and not the browser
 to provide the quotation marks
 (http://www.w3.org/TR/2004/WD-xhtml2-20040722/mod-text.html#sec_9.8. ).
 So I don't suppose we'll see support for CSS-specified quotation marks
 added to browsers that don't already support them. 
  
- Peter
---===============7050969292887698305==--
+ Peter
+
+
+
+--7050969292887698305-
+

@@ -1,4 +1,5 @@
-Subject: [dm-l] Les historiens et =?utf-8?q?l=E2=80=99informatique_=3A_un_m?=Hi!
+Subject: [dm-l] Les historiens et tf-8?q?l’informatique_:_un_m?
+Hi!
 Here's the program of a symposium soon to be held in Rome, at the Ecole 
 française de Rome. It is organized jointly by French and Italian 
 medievalists (from the Ecole française de Rome, LAMOP, and Reti 
@@ -6,7 +7,9 @@ Medievali), yet it is not restricted to the Middle Ages. Papers will be
 given in French and Italian.
 If you want to attend, please contact Marilyn Nicoud or Grazia Parrino, 
 _redacted_(a)efrome.it
-Best wishes, Marjorie*Les historiens et l’informatique : un métier à réinventer
+Best wishes, Marjorie
+
+*Les historiens et l’informatique : un métier à réinventer
 *
 *Jeudi 4 décembre – 14 h 30
 *Marilyn Nicoud (École française de Rome)
@@ -29,7 +32,9 @@ pour la recherche
 /Stefano Vitali (Archivio di Stato di Firenze)
 /I mutamenti nel mondo degli archivi
 /
-17 h 45-18 h 45 : Discussion*Vendredi 5 décembre – 9 h 00
+17 h 45-18 h 45 : Discussion
+
+*Vendredi 5 décembre – 9 h 00
 **Éditer
 *Michele Ansani (Università di Pavia) et Antonella Ghignoli (Università 
 di Firenze)
@@ -41,7 +46,9 @@ de Caen)
 /Autour de l’édition électronique et des digital humanities : nouvelle 
 érudition, nouvelle critique ?
 /
-10 h 30-11 h 00 : Discussion*Enseigner
+10 h 30-11 h 00 : Discussion
+
+*Enseigner
 *Rolando Minuti (Università di Firenze)
 /Insegnare storia al tempo del web 2.0 : considerazioni su esperienze e 
 problemi aperti
@@ -49,21 +56,27 @@ problemi aperti
 /Métier d’historiens, métiers d’historien : les impératifs d’une 
 formation ouverte
 /
-12 h 45-13 h 15 : Discussion*Communiquer* - 15 h 00
+12 h 45-13 h 15 : Discussion
+
+*Communiquer* - 15 h 00
 Pietro Corrao (Università di Palermo)
 /L’esperienza di Reti Medievali
 /Christine Ducourtieux (Université de Paris I) et Marc Smith (École 
 nationale des Chartes),
 /L’expérience de Ménestrel
 /
-16 h 00 - 16 h. 30 Discussion*Les nouveaux horizons du métier d’historien
+16 h 00 - 16 h. 30 Discussion
+
+*Les nouveaux horizons du métier d’historien
 *Aude Mairey (CESCM, CNRS-Université de Poitiers)
 /Quelles perspectives pour la textométrie ?
 /Julien Alerini (Université de Paris I) et Stéphane Lamassé (Université 
 de Paris I)
 /Données et statistiques : l’avenir du travail en ligne pour l’historien
 /
-17 h 45-18 h 15 : Discussion*Samedi 6 décembre – 9 h 00
+17 h 45-18 h 15 : Discussion
+
+*Samedi 6 décembre – 9 h 00
 *François Giligny (Université de Paris I)
 /L’informatique en archéologie : une révolution tranquille ?
 /Jean-Luc Arnaud (Telemme, CNRS-Université de Provence)
@@ -72,7 +85,9 @@ spatiale en histoire
 /Margherita Azzari (Università di Firenze)
 /Geographic Information Systems and Science. Stato dell’arte, sfide future
 /
-10 h-30-11 h 00 : Discussion*L’historien et l’outil informatique
+10 h-30-11 h 00 : Discussion
+
+*L’historien et l’outil informatique
 *Serge Noiret (European University Institute)
 /Fare storia a più mani con il web 2.0 : cosa cambia nelle pratiche 
 degli storici ?
@@ -83,7 +98,13 @@ réseau
 /Peut-on penser le futur d’une communauté scientifique sans tenir compte 
 de l’économie de l’innovation et de la créativité ?
 /
-12 h 45-13 h 30 : Discussion*Conclusions d’Andrea Zorzi (Università di Firenze)*PCFET0NUWVBFIGh0bWwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMDEgVHJhbnNpdGlvbmFs
+12 h 45-13 h 30 : Discussion
+
+*Conclusions d’Andrea Zorzi (Università di Firenze)*
+
+
+
+PCFET0NUWVBFIGh0bWwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMDEgVHJhbnNpdGlvbmFs
 Ly9FTiI+CjxodG1sPgo8aGVhZD4KICA8bWV0YSBjb250ZW50PSJ0ZXh0L2h0bWw7Y2hhcnNldD13
 aW5kb3dzLTEyNTIiCiBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiPgo8L2hlYWQ+Cjxib2R5IGJn
 Y29sb3I9IiNmZmZmZmYiIHRleHQ9IiMwMDAwMDAiPgpIaSEgPGJyPgpIZXJlJ3MgdGhlIHByb2dy
@@ -161,4 +182,4 @@ dCBNYXJpZSBDdXJpZSwgUGFyaXMgVkkpPGJyPgo8aT5QZXV0LW9uIHBlbnNlciBsZSBmdXR1ciBk
 knVuZSBjb21tdW5hdXTpIHNjaWVudGlmaXF1ZSBzYW5zIHRlbmlyCmNvbXB0ZSBkZSBskuljb25v
 bWllIGRlIGySaW5ub3ZhdGlvbiBldCBkZSBsYSBjculhdGl2aXTpID88YnI+CjwvaT48YnI+CjEy
 IGggNDUtMTMgaCAzMCA6IERpc2N1c3Npb248YnI+Cjxicj4KPGI+Q29uY2x1c2lvbnMgZJJBbmRy
-ZWEgWm9yemkgKFVuaXZlcnNpdOAgZGkgRmlyZW56ZSk8L2I+CjwvYm9keT4KPC9odG1sPgo=
+ZWEgWm9yemkgKFVuaXZlcnNpdOAgZGkgRmlyZW56ZSk8L2I+CjwvYm9keT4KPC9odG1sPgo

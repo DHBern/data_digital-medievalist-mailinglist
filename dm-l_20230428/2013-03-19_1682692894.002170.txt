@@ -1,74 +1,117 @@
-Subject: Re: [dm-l] New article on "Medievalists and the ScholarlyDear all,I am the software architect at the Institut f=C3=BCr Neutestamentliche=20
-Textforschung.  I've been following this thread with great interest. =20
-The question which I believe is essential and still unagreed upon in the=20
-community is, "What is a digital edition?"I believe we can all agree on some things-- well, at least one thing=20
-which I believe should be at the core of any definition of "digital=20
-edition":collection, annotation, preservation and presentation of the raw dataBeyond that, scholars will continue to rightly argue about what a=20
-*critical* digital edition actually is.  But my goal as a software=20
-architect is to build solid, quality tools for problems I know need to=20
-be solved.We've been building now for the past 2 years, in collaboration with=20
-Huygens and Tara Andrews mentioned earlier, and the EU Interedition=20
-participants, a collaborative community portal software product built=20
-on, as Tony suggests, common off the shelf components when they are=20
-available-- which all have 'free' editions, and we are building our=20
-custom components, specific to our field, to live among and interact=20
-with these off the shelf products.We went live with our software about a year ago, with about 150=20
-'internal' users.  We've been polishing it up and hope to have a=20
-'public' announcement of the tools by the end of April.I believe we've done some good work and I would certainly love for=20
-others to take advantage of our tools. Building critical mass for a=20
-software system can only improve its features and longevity.If you're at all interested, let me give you some details with some=20
-links to try so you know we're not just talk:100% web based
-WYSIWYG TEI Editor with Paleography Assistance, Transcription Version=20
-Control, and Merge Reconciliation Assistance between multiple initial=20
+Subject: Re: [dm-l] New article on "Medievalists and the Scholarly
+
+Dear all,
+
+I am the software architect at the Institut für Neutestamentliche 
+Textforschung.  I've been following this thread with great interest.  
+The question which I believe is essential and still unagreed upon in the 
+community is, "What is a digital edition?"
+
+I believe we can all agree on some things-- well, at least one thing 
+which I believe should be at the core of any definition of "digital 
+edition":
+
+collection, annotation, preservation and presentation of the raw data
+
+Beyond that, scholars will continue to rightly argue about what a 
+*critical* digital edition actually is.  But my goal as a software 
+architect is to build solid, quality tools for problems I know need to 
+be solved.
+
+We've been building now for the past 2 years, in collaboration with 
+Huygens and Tara Andrews mentioned earlier, and the EU Interedition 
+participants, a collaborative community portal software product built 
+on, as Tony suggests, common off the shelf components when they are 
+available-- which all have 'free' editions, and we are building our 
+custom components, specific to our field, to live among and interact 
+with these off the shelf products.
+
+We went live with our software about a year ago, with about 150 
+'internal' users.  We've been polishing it up and hope to have a 
+'public' announcement of the tools by the end of April.
+
+I believe we've done some good work and I would certainly love for 
+others to take advantage of our tools. Building critical mass for a 
+software system can only improve its features and longevity.
+
+If you're at all interested, let me give you some details with some 
+links to try so you know we're not just talk:
+
+100% web based
+WYSIWYG TEI Editor with Paleography Assistance, Transcription Version 
+Control, and Merge Reconciliation Assistance between multiple initial 
 transcripts.
-(type any Greek letters in the paleography assistance box at the bottom=20
-of the transcription editor to get assistance for ligatures that contain=20
+(type any Greek letters in the paleography assistance box at the bottom 
+of the transcription editor to get assistance for ligatures that contain 
 those letters)
-http://ntvmr.uni-muenster.de/transcribing?docid=3D10001&pageid=3D10Feature tagging, and image annotation, with permalink features for=20
+http://ntvmr.uni-muenster.de/transcribing?docid=10001&pageid=10
+
+Feature tagging, and image annotation, with permalink features for 
 returning readers back to the exact view of a folio:
-http://ntvmr.uni-muenster.de/community/modules/papyri/?zoom=3D300&left=3D-201=
-7&top=3D-2192&box=3D834.33/804.66/157.66/27.33/&site=3DINTF&image=3D10001/101=
-58/10/10/1Project management, worker coordination. and status:
-http://ntvmr.uni-muenster.de/indexingstatusMultifaceted search, including parameters for user tagged attributes:
-http://ntvmr.uni-muenster.de/listePermalinks for search criteria:
-e.g., all folios between the 9th and 11th century with Illuminations and=20
+http://ntvmr.uni-muenster.de/community/modules/papyri/?zoom=300&left=-2017&top=-2192&box=834.33/804.66/157.66/27.33/&site=INTF&image=10001/10158/10/10/1
+
+Project management, worker coordination. and status:
+http://ntvmr.uni-muenster.de/indexingstatus
+
+Multifaceted search, including parameters for user tagged attributes:
+http://ntvmr.uni-muenster.de/liste
+
+Permalinks for search criteria:
+e.g., all folios between the 9th and 11th century with Illuminations and 
 which have any text from the Gospel of John
-http://ntvmr.uni-muenster.de/manuscript-workspace?featureCode=3DIlluminations=
-&biblicalContent=3DJohn&dateMin=3D800&dateMax=3D1099&searchType=3DpagesCollation and Variant Graph of all witnesses to a section of text, with=20
+http://ntvmr.uni-muenster.de/manuscript-workspace?featureCode=Illuminations&biblicalContent=John&dateMin=800&dateMax=1099&searchType=pages
+
+Collation and Variant Graph of all witnesses to a section of text, with 
 team regularization:
-http://ntvmr.uni-muenster.de/web/test/collation?key=3DJohn.3.16&collate=3Dgra=
-ph
-(mouse wheel or two finger swipe up and down to zoom in and out in the=20
-graph)Full witness, folio, and image management tools (these require admin=20
-permission so I can't send a link)Forums, Blogs, Calendars, Team Collaboration, all provided by the off=20
-the shelf portal software with which we integrate.Programmatic Web Services API for external sights to interact with the=20
+http://ntvmr.uni-muenster.de/web/test/collation?key=John.3.16&collate=graph
+(mouse wheel or two finger swipe up and down to zoom in and out in the 
+graph)
+
+Full witness, folio, and image management tools (these require admin 
+permission so I can't send a link)
+
+Forums, Blogs, Calendars, Team Collaboration, all provided by the off 
+the shelf portal software with which we integrate.
+
+Programmatic Web Services API for external sights to interact with the 
 repository:
-http://ntvmr.uni-muenster.de/community/vmr/api/In short, technically, we've created a suite of digital edition=20
-components as Google Gadgets that will run in any Google OpenSocial=20
-portal.  We use Liferay inhouse as our portal of choice, as it the most=20
-mature portal we could find which supports OpenSocial.  We get so many=20
-advantages from off the self software-- more features than our scholars=20
-could ask for, which lets us focus on the domain specific tasks for=20
-digital editions.Hope this is of interest to some.  Please feel free to contact me if you=20
-would like more information.  We're not quite ready to 'shrink wrap'=20
-this for easy install, general purpose critical digital edition=20
-construction, but we're working toward that.Best wishes,Troy A. Griffitts
+http://ntvmr.uni-muenster.de/community/vmr/api/
+
+In short, technically, we've created a suite of digital edition 
+components as Google Gadgets that will run in any Google OpenSocial 
+portal.  We use Liferay inhouse as our portal of choice, as it the most 
+mature portal we could find which supports OpenSocial.  We get so many 
+advantages from off the self software-- more features than our scholars 
+could ask for, which lets us focus on the domain specific tasks for 
+digital editions.
+
+Hope this is of interest to some.  Please feel free to contact me if you 
+would like more information.  We're not quite ready to 'shrink wrap' 
+this for easy install, general purpose critical digital edition 
+construction, but we're working toward that.
+
+Best wishes,
+
+Troy A. Griffitts
+
+
+
 On 03/19/2013 12:24 PM, Tony Harris wrote:
 > Hi Godfried
 >
-> My apologies. I didn't explain myself well enough. My PDF Shakespeare=20
-> digital edition is fully interactive and quite 'whizzy'. More=20
-> impressively, as OS and hardware functionality has advanced, so it has=20
-> kept step remarkably well. Acrobat is a lot more powerful than we=20
-> sometimes give it credit for. My comment about being 'too clever' was=20
-> more directed at the use of obscure non commercial (sometimes open=20
-> source systems) almost seemingly to spite equivalent commercial=20
-> systems which are readily available and provide equivalent or better=20
-> functionality. Such 'free' systems, although attractive on the surface=20
-> because they /are/ free, and you have access to source code, are often=20
-> poorly maintained into the future. The other mistake in my opinion is=20
-> to seek to reinvent the wheel in the name of research. A recently=20
-> funded piece of software (which shall be nameless) springs to mind=20
+> My apologies. I didn't explain myself well enough. My PDF Shakespeare 
+> digital edition is fully interactive and quite 'whizzy'. More 
+> impressively, as OS and hardware functionality has advanced, so it has 
+> kept step remarkably well. Acrobat is a lot more powerful than we 
+> sometimes give it credit for. My comment about being 'too clever' was 
+> more directed at the use of obscure non commercial (sometimes open 
+> source systems) almost seemingly to spite equivalent commercial 
+> systems which are readily available and provide equivalent or better 
+> functionality. Such 'free' systems, although attractive on the surface 
+> because they /are/ free, and you have access to source code, are often 
+> poorly maintained into the future. The other mistake in my opinion is 
+> to seek to reinvent the wheel in the name of research. A recently 
+> funded piece of software (which shall be nameless) springs to mind 
 > which bears a remarkable similarity to Adobe Acrobat :-).
 >
 > I feel a conference coming on :-).
@@ -79,187 +122,187 @@ On 03/19/2013 12:24 PM, Tony Harris wrote:
 >
 > Sent from my iPhone.
 >
-> On 19 Mar 2013, at 10:58, "Croenen, Godfried"=20
+> On 19 Mar 2013, at 10:58, "Croenen, Godfried" 
 _redacted_(a)liverpool.ac.uk>> wrote:
 >
 >> Dear Tony,
 >>
->> Of course PDF is a very good choice as a fall-back, but as far as I=20
->> can see it only produces 'digitised' editions, not 'digital'=20
->> editions. What we are talking about is the longevity of what Dot has=20
->> called 'digital' editions, that is editions which fully exploit the=20
->> possibilities of the interactive medium (which you seem to refer to=20
+>> Of course PDF is a very good choice as a fall-back, but as far as I 
+>> can see it only produces 'digitised' editions, not 'digital' 
+>> editions. What we are talking about is the longevity of what Dot has 
+>> called 'digital' editions, that is editions which fully exploit the 
+>> possibilities of the interactive medium (which you seem to refer to 
 >> as 'trying to be too clever').
 >>
->> The difficulty is that there is an inverse correlation between the=20
->> level to which authors of 'digital' editions engage with and exploit=20
->> these possibilities, thereby making their editions more 'digital' and=20
->> less 'digitised', on the one hand, and the ease with which the=20
->> functionality they are building can be maintained over the medium to=20
->> long term, on the other. I am sure libraries will commit to=20
->> maintaining servers etc. , as well as databases in which they have a=20
->> vested interest, but I am not sure they will want to take on the=20
->> commitment of having to maintain or completely rewrite the code for=20
->> user interfaces for the 'digital' editions we are producing now, say,=20
->> in  50 or 80 or 100 years time when those editions based on current=20
->> technology (which right now may be standard, open-source, etc., and=20
->> widely used) will not be compatible anymore with the hardware and=20
->> software that will inevitably have moved on. At that point the cost=20
->> in understanding the project documentation and project data, as well=20
->> as the investment needed for producing new interfaces which recreate=20
->> the same functionality of the no-longer-usable digital editions is=20
->> going to be considerable, if only for the simple reason that few or=20
->> none of the original project staff with the detailed expert knowledge=20
+>> The difficulty is that there is an inverse correlation between the 
+>> level to which authors of 'digital' editions engage with and exploit 
+>> these possibilities, thereby making their editions more 'digital' and 
+>> less 'digitised', on the one hand, and the ease with which the 
+>> functionality they are building can be maintained over the medium to 
+>> long term, on the other. I am sure libraries will commit to 
+>> maintaining servers etc. , as well as databases in which they have a 
+>> vested interest, but I am not sure they will want to take on the 
+>> commitment of having to maintain or completely rewrite the code for 
+>> user interfaces for the 'digital' editions we are producing now, say, 
+>> in  50 or 80 or 100 years time when those editions based on current 
+>> technology (which right now may be standard, open-source, etc., and 
+>> widely used) will not be compatible anymore with the hardware and 
+>> software that will inevitably have moved on. At that point the cost 
+>> in understanding the project documentation and project data, as well 
+>> as the investment needed for producing new interfaces which recreate 
+>> the same functionality of the no-longer-usable digital editions is 
+>> going to be considerable, if only for the simple reason that few or 
+>> none of the original project staff with the detailed expert knowledge 
 >> will be around anymore.
 >>
->> I think it is a little naive to think that current standards like=20
->> CSS, HTML 5 and XML 2 will continue to be usuable for a very long=20
->> time (and as a medievalist I am counting here in centuries, not=20
->> decades). One only has to think of PostScript and SGML, standards=20
->> that were recommended for very similar reasons not that long ago.=20
->> Same is true for commercial companies (Dynatext is actually a case in=20
->> point). And while it is true that files in SGML format can still be=20
->> fairly easily converted, editions based on SGML are not going to be=20
+>> I think it is a little naive to think that current standards like 
+>> CSS, HTML 5 and XML 2 will continue to be usuable for a very long 
+>> time (and as a medievalist I am counting here in centuries, not 
+>> decades). One only has to think of PostScript and SGML, standards 
+>> that were recommended for very similar reasons not that long ago. 
+>> Same is true for commercial companies (Dynatext is actually a case in 
+>> point). And while it is true that files in SGML format can still be 
+>> fairly easily converted, editions based on SGML are not going to be 
 >> functional anymore.
 >>
 >> Best,
 >>
 >> Godfried Croenen
 >>
-_redacted_(a)uleth.ca>=20
+_redacted_(a)uleth.ca> 
 _redacted_(a)uleth.ca] *On Behalf Of *Tony Harris
 >> *Sent:* 19 March 2013 09:55
 >> *To:* Jan Burgers; Center for Comparative Studies; MailList dm-l
->> *Subject:* RE: [dm-l] New article on "Medievalists and the Scholarly=20
+>> *Subject:* RE: [dm-l] New article on "Medievalists and the Scholarly 
 >> DigitalEdition" -- who has actually been using these editions?
 >>
 >> Dear All
 >>
->> I came from the computer industry before I came into academia and I=20
->> think the problem with digital authoring (at least as I have=20
->> experienced it within the academic community), is that sometimes=20
->> digital authors either try to be too clever or to avoid all=20
->> commercial packages like the plague. This causes them to opt=20
->> sometimes for obscure readers/encoders that although 'free' probably=20
->> disappeared soon after the edition was created. For example, a=20
->> digital edition of Chaucer was authored around 1999 and used=20
->> Dynatext, an SGML authoring tool. Inso the owners of Dynatext went=20
->> out of business in 2002 and so of course the digital edition is=20
->> largely unusable on later PCs and operating systems. In this case,=20
->> the error perhaps was not converting to PDF when the writing was on=20
->> the wall for Dynatext although the installed base of Dynatext was=20
->> modest compared to PDF even at that time. This raises the issue of=20
+>> I came from the computer industry before I came into academia and I 
+>> think the problem with digital authoring (at least as I have 
+>> experienced it within the academic community), is that sometimes 
+>> digital authors either try to be too clever or to avoid all 
+>> commercial packages like the plague. This causes them to opt 
+>> sometimes for obscure readers/encoders that although 'free' probably 
+>> disappeared soon after the edition was created. For example, a 
+>> digital edition of Chaucer was authored around 1999 and used 
+>> Dynatext, an SGML authoring tool. Inso the owners of Dynatext went 
+>> out of business in 2002 and so of course the digital edition is 
+>> largely unusable on later PCs and operating systems. In this case, 
+>> the error perhaps was not converting to PDF when the writing was on 
+>> the wall for Dynatext although the installed base of Dynatext was 
+>> modest compared to PDF even at that time. This raises the issue of 
 >> ongoing maintenance of course but see my comments later.
 >>
->> By comparison, digital versions of a Shakespeare Octavo and the=20
->> Sonnets that I purchased on CDs from the Folger library in 2000 are=20
->> still working today. The PDFs are locked/encrypted to protect the=20
->> authors but they are searchable, are interactive and there are=20
->> various scholarly resources that are associated with the editions and=20
->> which still operate just as they did when I bought them. They have=20
->> worked on everything from Windows 2000, through XP through Windows 8=20
->> and various Macs and versions of MacOS without problem and without=20
->> change. Given that the installed base of PDF documents runs into=20
->> multiple billions, PDF is unlikely to disappear anytime soon and=20
->> given that PDF is largely a published specification (which you can=20
->> conform to), even if Adobe were to disappear tomorrow (unlikely), we=20
+>> By comparison, digital versions of a Shakespeare Octavo and the 
+>> Sonnets that I purchased on CDs from the Folger library in 2000 are 
+>> still working today. The PDFs are locked/encrypted to protect the 
+>> authors but they are searchable, are interactive and there are 
+>> various scholarly resources that are associated with the editions and 
+>> which still operate just as they did when I bought them. They have 
+>> worked on everything from Windows 2000, through XP through Windows 8 
+>> and various Macs and versions of MacOS without problem and without 
+>> change. Given that the installed base of PDF documents runs into 
+>> multiple billions, PDF is unlikely to disappear anytime soon and 
+>> given that PDF is largely a published specification (which you can 
+>> conform to), even if Adobe were to disappear tomorrow (unlikely), we 
 >> could still read the documents into the future.
 >>
->> TEI is excellent because it is a general purpose and extremely=20
->> flexible encoding system which can be used as a base to target all=20
->> sorts of output formats (including PDF). Where TEI tends to fall down=20
->> is that its output filters are not always that strong and a lot more=20
->> could be done to improve them so as to take advantage of the features=20
->> and facilities (modern interactive graphics) that commercial=20
->> standards like PDF and ePUB have to offer. The general response from=20
->> the TEI group (as I have heard it expressed) is that they don't=20
->> really see these filters as their job (the ones provided are largely=20
->> examples). However, the reality is that for all authoring systems, it=20
->> is the final output users see which colours their perception of any=20
->> underlying authoring system. Of course for the development of such=20
->> filters, funding is always an issue but it seems to me that companies=20
->> like Adobe could be approached to assist as it would be in their=20
->> interest to enhance the standing of PDF within the academic=20
->> community. Rather than treating such companies as 'the devil=20
->> incarnate', it seems to me that more could be done to cooperate with=20
->> them. To be fair, they have a lot more experience with developing=20
->> file formats and encoding systems that have longevity than the=20
->> academic community does. Of course Adobe have had false starts along=20
->> the way, but PDF seems a good bet now as it's been around for twenty=20
->> years and they aren't going to drop it anytime soon if they want to=20
->> remain in business because they use it throughout their product=20
->> lines. It is also used by governments around the world as well as by=20
+>> TEI is excellent because it is a general purpose and extremely 
+>> flexible encoding system which can be used as a base to target all 
+>> sorts of output formats (including PDF). Where TEI tends to fall down 
+>> is that its output filters are not always that strong and a lot more 
+>> could be done to improve them so as to take advantage of the features 
+>> and facilities (modern interactive graphics) that commercial 
+>> standards like PDF and ePUB have to offer. The general response from 
+>> the TEI group (as I have heard it expressed) is that they don't 
+>> really see these filters as their job (the ones provided are largely 
+>> examples). However, the reality is that for all authoring systems, it 
+>> is the final output users see which colours their perception of any 
+>> underlying authoring system. Of course for the development of such 
+>> filters, funding is always an issue but it seems to me that companies 
+>> like Adobe could be approached to assist as it would be in their 
+>> interest to enhance the standing of PDF within the academic 
+>> community. Rather than treating such companies as 'the devil 
+>> incarnate', it seems to me that more could be done to cooperate with 
+>> them. To be fair, they have a lot more experience with developing 
+>> file formats and encoding systems that have longevity than the 
+>> academic community does. Of course Adobe have had false starts along 
+>> the way, but PDF seems a good bet now as it's been around for twenty 
+>> years and they aren't going to drop it anytime soon if they want to 
+>> remain in business because they use it throughout their product 
+>> lines. It is also used by governments around the world as well as by 
 >> high-end publishers and other users too numerous to mention here.
 >>
->> It seems to me that we need to accept that commercial standards like=20
->> PDF, given their huge installed base are here to stay for the=20
->> long-term, have proved their worth in industry and commerce and=20
->> perhaps we should reconsider using them for digital authoring. Either=20
->> that, or let's really put some serious work into the TEI export=20
->> systems so that digital editions exported from a TEI base reflect the=20
->> full functionality of the target format and the interactive graphical=20
+>> It seems to me that we need to accept that commercial standards like 
+>> PDF, given their huge installed base are here to stay for the 
+>> long-term, have proved their worth in industry and commerce and 
+>> perhaps we should reconsider using them for digital authoring. Either 
+>> that, or let's really put some serious work into the TEI export 
+>> systems so that digital editions exported from a TEI base reflect the 
+>> full functionality of the target format and the interactive graphical 
 >> features of the hardware platforms that are available at the time.
 >>
 >> Tony Harris
 >>
-_redacted_(a)uleth.ca>=20
+_redacted_(a)uleth.ca> 
 _redacted_(a)uleth.ca] *On Behalf Of *Jan Burgers
 >> *Sent:* 19 March 2013 08:08
 >> *To:* Center for Comparative Studies; MailList dm-l
->> *Subject:* RE: [dm-l] New article on "Medievalists and the Scholarly=20
+>> *Subject:* RE: [dm-l] New article on "Medievalists and the Scholarly 
 >> DigitalEdition" -- who has actually been using these editions?
 >>
 >> Dear medievalists,
 >>
->> Perhaps I may add one consideration to the discussion. I am an editor=20
->> of sources who has published paper as well as digital editions, and I=20
->> see the advantages of the latter for the user. Of course, text=20
->> editions are a special type of publications: edited by specialists,=20
->> meant to last for decades or even centuries (it is not that rare for=20
->> a medievalist to use a seventeenth-century edition of a medieval=20
->> chronicle), and in fact only consulted by other specialists (no=20
->> matter how often a casual passerby has a peak in a bookstore or on a=20
+>> Perhaps I may add one consideration to the discussion. I am an editor 
+>> of sources who has published paper as well as digital editions, and I 
+>> see the advantages of the latter for the user. Of course, text 
+>> editions are a special type of publications: edited by specialists, 
+>> meant to last for decades or even centuries (it is not that rare for 
+>> a medievalist to use a seventeenth-century edition of a medieval 
+>> chronicle), and in fact only consulted by other specialists (no 
+>> matter how often a casual passerby has a peak in a bookstore or on a 
 >> website).
 >>
->> But I am also a historian, and therefore I know that all things must=20
->> pass, although some things are more durable than others. I think we=20
->> can safely assume that a text edition printed on paper will be on=20
->> library book shelves all over the world a hundred years from now; I=20
->> strongly suspect that our modern digital products by then will have=20
->> evaporated, or will be inaccessible for the ordinary user. I am aware=20
->> that durability is high on the agenda these days, but we all know how=20
->> fast the technological developments go. I suspect that in the near=20
->> future it will be increasingly difficult to have enough commitment=20
->> and money from the decision makers and the scholarly community to=20
+>> But I am also a historian, and therefore I know that all things must 
+>> pass, although some things are more durable than others. I think we 
+>> can safely assume that a text edition printed on paper will be on 
+>> library book shelves all over the world a hundred years from now; I 
+>> strongly suspect that our modern digital products by then will have 
+>> evaporated, or will be inaccessible for the ordinary user. I am aware 
+>> that durability is high on the agenda these days, but we all know how 
+>> fast the technological developments go. I suspect that in the near 
+>> future it will be increasingly difficult to have enough commitment 
+>> and money from the decision makers and the scholarly community to 
 >> store the old digital stuff and keep it working on the new machines.
 >>
 >> Jan Burgers.
 >>
-_redacted_(a)uleth.ca>=20
-_redacted_(a)uleth.ca] *On Behalf Of *Center for Comparative=20
+_redacted_(a)uleth.ca> 
+_redacted_(a)uleth.ca] *On Behalf Of *Center for Comparative 
 >> Studies
 >> *Sent:* maandag 18 maart 2013 9:53
 >> *To:* MailList dm-l
->> *Subject:* Re: [dm-l] New article on "Medievalists and the Scholarly=20
+>> *Subject:* Re: [dm-l] New article on "Medievalists and the Scholarly 
 >> DigitalEdition" -- who has actually been using these editions?
 >>
 >> Dear Peter,
 >>
->> I thank you very much for the extremely useful figures you have=20
->> collected. I am an out-and-out supporter of digital editions, and yet=20
->> I am afraid you underestimate the "contacts" a book can have in a=20
->> library or even in a bookstore. I suppose that the figures of use of=20
->> paper books, if we could count them, and mainly the number of actual=20
->> readers (not just "visits", that can come many times from the same=20
->> user) would and will be bigger than the figures of equivalent digital=20
->> editions, but I have no evidence of that. So the only data we can=20
+>> I thank you very much for the extremely useful figures you have 
+>> collected. I am an out-and-out supporter of digital editions, and yet 
+>> I am afraid you underestimate the "contacts" a book can have in a 
+>> library or even in a bookstore. I suppose that the figures of use of 
+>> paper books, if we could count them, and mainly the number of actual 
+>> readers (not just "visits", that can come many times from the same 
+>> user) would and will be bigger than the figures of equivalent digital 
+>> editions, but I have no evidence of that. So the only data we can 
 >> correctly compare are the sold copies.
 >>
->> That said, we all have to do digital editions, whatever it may mean,=20
->> and given the anarchy that is distinctive of the web, no one can=20
->> determine what a digital edition must be: we can just  propose=20
->> methodological requirements for what we would accept to=20
->> call *critical* digital editions and see which models become=20
+>> That said, we all have to do digital editions, whatever it may mean, 
+>> and given the anarchy that is distinctive of the web, no one can 
+>> determine what a digital edition must be: we can just  propose 
+>> methodological requirements for what we would accept to 
+>> call *critical* digital editions and see which models become 
 >> successful or authoritative.
 >>
 >> All the best,
@@ -324,121 +367,121 @@ _redacted_(a)uleth.ca>
 >>
 >>     Publication
 >>
->>     =09
+>>     	
 >>
 >>     Date
 >>
->>     =09
+>>     	
 >>
 >>     Copies sold (approx)
 >>
 >>     Hengwrt Chaucer Digital Facsimile
 >>
->>     =09
+>>     	
 >>
 >>     25/10/2000
 >>
->>     =09
+>>     	
 >>
 >>     320
 >>
 >>     Bayeux Tapestry Digital Edition
 >>
->>     =09
+>>     	
 >>
 >>     31/10/2002
 >>
->>     =09
+>>     	
 >>
 >>     2500
 >>
 >>     Hengwrt Chaucer Standard Edition
 >>
->>     =09
+>>     	
 >>
 >>     3/11/2003
 >>
->>     =09
+>>     	
 >>
 >>     80
 >>
 >>     Caxton's Canterbury Tales
 >>
->>     =09
+>>     	
 >>
 >>     8/10/2003
 >>
->>     =09
+>>     	
 >>
 >>     150
 >>
 >>     Miller's Tale
 >>
->>     =09
+>>     	
 >>
 >>     5/5/2004
 >>
->>     =09
+>>     	
 >>
 >>     110
 >>
 >>     Parliament Rolls of Medieval England
 >>
->>     =09
+>>     	
 >>
 >>     5/5/2005
 >>
->>     =09
+>>     	
 >>
 >>     560
 >>
 >>     Nun's Priest's Tale
 >>
->>     =09
+>>     	
 >>
 >>     3/5/2006
 >>
->>     =09
+>>     	
 >>
 >>     70
 >>
 >>     Monarchia
 >>
->>     =09
+>>     	
 >>
 >>     3/5/2006
 >>
->>     =09
+>>     	
 >>
 >>     60
 >>
 >>     Leiden Armenian Lexical Textbase (internet)
 >>
->>     =09
+>>     	
 >>
 >>     21/2/2008
 >>
->>     =09
+>>     	
 >>
 >>     36
 >>
 >>     Canterbury Tales Digital Catalogue
 >>
->>     =09
+>>     	
 >>
 >>     10/5/2010
 >>
->>     =09
+>>     	
 >>
 >>     16
 >>
 >>     Commedia
 >>
->>     =09
+>>     	
 >>
 >>     1/12/2010
 >>
->>     =09
+>>     	
 >>
 >>     16
 >>
@@ -495,8 +538,7 @@ _redacted_(a)uleth.ca>
 >>             - the distinction between digitized and digital scholarly
 >>             editions (DSE) is an important aspect in the definition
 >>             of scholarly digital editions (SDE); see most recently
->>             http://prezi.com/mdt8efbe3o3a/patrick-sahle-what-is-a-scholarl=
-y-digital-edition/
+>>             http://prezi.com/mdt8efbe3o3a/patrick-sahle-what-is-a-scholarly-digital-edition/
 >>             (hope to elaborate on that in a forthcoming article); the
 >>             main point here is, that there is a fundamental paradigm
 >>             shift in thinking the scholarly edition in a typographic
@@ -566,8 +608,7 @@ y-digital-edition/
 >>             http://elec.enc.sorbonne.fr/ -
 >>             http://www.sd-editions.com/index.html
 >>             <http://www.sd-editions.com/index.html> -
->>             http://www.hab.de/de/home/bibliothek/digitale-bibliothek-wdb/d=
-igitale-editionen.html
+>>             http://www.hab.de/de/home/bibliothek/digitale-bibliothek-wdb/digitale-editionen.html
 >>             - http://www.rc.umd.edu/editions/
 >>
 >>                 - "Delving into academic politics, publishers hate
@@ -606,32 +647,28 @@ igitale-editionen.html
 >>                 folks on the list (and constructive criticism,
 >>                 directly to me to to the list, is most welcome!)
 >>
->>                 http://www.scholarlyediting.org/2013/essays/essay.porter.h=
-tml
+>>                 http://www.scholarlyediting.org/2013/essays/essay.porter.html
 >>
 >>                 Dot
 >>
 >>
->>                 --=20
+>>                 -- 
 >>                 *~*~*~*~*~*~*~*~*~*~*
 >>                 Dot Porter (MA, MSLS)
 >>                 Digital Medievalist, Digital Librarian
-_redacted_(a)gmail.c=
-om>
+_redacted_(a)gmail.com>
 >>                 Personal blog: dotporterdigital.org
 >>                 <http://dotporterdigital.org/>
 >>                 MESA blog: http://www.dlib.indiana.edu/projects/mesa/
 >>                 MESA on Facebook:
->>                 https://www.facebook.com/MedievalElectronicScholarlyAllian=
-ce
+>>                 https://www.facebook.com/MedievalElectronicScholarlyAlliance
 >>                 *~*~*~*~*~*~*~*~*~*~*
 >>
 >>                 Digital Medievalist --http://www.digitalmedievalist.org/
 >>
 >>                 Journal:http://www.digitalmedievalist.org/journal/
 >>
->>                 Journal Editors: editors _AT_digitalmedievalist.org  <http=
-://digitalmedievalist.org>
+>>                 Journal Editors: editors _AT_digitalmedievalist.org  <http://digitalmedievalist.org>
 >>
 >>                 News:http://www.digitalmedievalist.org/news/
 >>
@@ -639,18 +676,15 @@ ce
 >>
 >>                 Twitter:http://twitter.com/digitalmedieval
 >>
->>                 Facebook:http://www.facebook.com/group.php?gid=3D493203137=
-60
+>>                 Facebook:http://www.facebook.com/group.php?gid=49320313760
 >>
 _redacted_(a)uleth.ca>
 >>
->>                 Change list options:http://listserv.uleth.ca/mailman/listi=
-nfo/dm-l
+>>                 Change list options:http://listserv.uleth.ca/mailman/listinfo/dm-l
 >>
->>             --=20
+>>             -- 
 >>
->>             --------------------------------------------------------------=
-----------
+>>             ------------------------------------------------------------------------
 >>
 >>             New Book(s) out now: Patrick Sahle, Digitale
 >>             Editionsformen -
@@ -661,17 +695,16 @@ nfo/dm-l
 >>             Arts and Humanities) <http://de.dariah.eu/> (Mitarbeiter)
 >>             C) Humanities Computer Science, University of Cologne
 >>             <http://www.hki.uni-koeln.de/> (Mitarbeiter)
->>             D) Institut f=C3=BCr Dokumentologie und Editorik
+>>             D) Institut für Dokumentologie und Editorik
 >>             <http://www.i-d-e.de/> (Mitglied)
 >>
 >>             Post: Historisch-Kulturwissenschaftliche
->>             Informationsverarbeitung, Universit=C3=A4t zu K=C3=B6ln,
->>             Albertus-Magnus-Platz, D-50923 K=C3=B6ln
->>             B=C3=BCro: Universit=C3=A4tsstr. 22, Dachgeschoss links
+>>             Informationsverarbeitung, Universität zu Köln,
+>>             Albertus-Magnus-Platz, D-50923 Köln
+>>             Büro: Universitätsstr. 22, Dachgeschoss links
 >>             Telefon: +49 - (0)221 - 470 1750
 >>
->>             --------------------------------------------------------------=
-----------
+>>             ------------------------------------------------------------------------
 >>
 >>             Zur Person: http://www.uni-koeln.de/~ahz26
 >>             <http://www.uni-koeln.de/%7Eahz26>
@@ -680,8 +713,7 @@ nfo/dm-l
 >>
 >>             Journal:http://www.digitalmedievalist.org/journal/
 >>
->>             Journal Editors: editors _AT_digitalmedievalist.org  <http://d=
-igitalmedievalist.org>
+>>             Journal Editors: editors _AT_digitalmedievalist.org  <http://digitalmedievalist.org>
 >>
 >>             News:http://www.digitalmedievalist.org/news/
 >>
@@ -689,12 +721,11 @@ igitalmedievalist.org>
 >>
 >>             Twitter:http://twitter.com/digitalmedieval
 >>
->>             Facebook:http://www.facebook.com/group.php?gid=3D49320313760
+>>             Facebook:http://www.facebook.com/group.php?gid=49320313760
 >>
 _redacted_(a)uleth.ca>
 >>
->>             Change list options:http://listserv.uleth.ca/mailman/listinfo/=
-dm-l
+>>             Change list options:http://listserv.uleth.ca/mailman/listinfo/dm-l
 >>
 >>         Digital Medievalist -- http://www.digitalmedievalist.org/
 >>         Journal: http://www.digitalmedievalist.org/journal/
@@ -703,7 +734,7 @@ dm-l
 >>         News: http://www.digitalmedievalist.org/news/
 >>         Wiki: http://www.digitalmedievalist.org/wiki/
 >>         Twitter: http://twitter.com/digitalmedieval
->>         Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+>>         Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca>
 >>         Change list options:
 >>         http://listserv.uleth.ca/mailman/listinfo/dm-l
@@ -717,8 +748,7 @@ _redacted_(a)uleth.ca>
 >>     9 Campus Drive, University of Saskatchewan
 >>     Saskatoon SK S7N 5A5, Canada
 >>
->>     ----------------------------------------------------------------------=
---
+>>     ------------------------------------------------------------------------
 >>
 >>     Digital Medievalist -- http://www.digitalmedievalist.org/
 >>     <http://www.digitalmedievalist.org/>
@@ -728,7 +758,7 @@ _redacted_(a)uleth.ca>
 >>     News: http://www.digitalmedievalist.org/news/
 >>     Wiki: http://www.digitalmedievalist.org/wiki/
 >>     Twitter: http://twitter.com/digitalmedieval
->>     Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+>>     Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca>
 >>     Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
 >>
@@ -740,14 +770,18 @@ _redacted_(a)uleth.ca>
 > News: http://www.digitalmedievalist.org/news/
 > Wiki: http://www.digitalmedievalist.org/wiki/
 > Twitter: http://twitter.com/digitalmedieval
-> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+> Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca
-> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
---===============7134412475726080711==
-Content-Type: text/html
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+
+
+--7134412475726080711Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWw+CiAgPGhlYWQ+CiAgICA8bWV0YSBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9SVNP
+Content-Disposition: attachment; filename�ttachment.html"
+MIME-Version: 1.0
+
+PGh0bWw+CiAgPGhlYWQ+CiAgICA8bWV0YSBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9SVNP
 LTg4NTktMSIKICAgICAgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIj4KICA8L2hlYWQ+CiAgPGJv
 ZHkgYmdjb2xvcj0iI0ZGRkZGRiIgdGV4dD0iIzAwMDAwMCI+CiAgICA8ZGl2IGNsYXNzPSJtb3ot
 Y2l0ZS1wcmVmaXgiPkRlYXIgYWxsLDxicj4KICAgICAgPGJyPgogICAgICBJIGFtIHRoZSBzb2Z0
@@ -2366,4 +2400,4 @@ dGguY2EiPmRtLWxAdWxldGguY2E8L2E+CkNoYW5nZSBsaXN0IG9wdGlvbnM6IDxhIGNsYXNzPSJt
 b3otdHh0LWxpbmstZnJlZXRleHQiIGhyZWY9Imh0dHA6Ly9saXN0c2Vydi51bGV0aC5jYS9tYWls
 bWFuL2xpc3RpbmZvL2RtLWwiPmh0dHA6Ly9saXN0c2Vydi51bGV0aC5jYS9tYWlsbWFuL2xpc3Rp
 bmZvL2RtLWw8L2E+PC9wcmU+CiAgICA8L2Jsb2NrcXVvdGU+CiAgICA8YnI+CiAgPC9ib2R5Pgo8
-L2h0bWw+Cg==
+L2h0bWw+Cg

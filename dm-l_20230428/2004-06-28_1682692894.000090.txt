@@ -1,15 +1,21 @@
-Subject: [dm-l] Experience with Full Text SearchingHello all,
+Subject: [dm-l] Experience with Full Text Searching
+
+Hello all,
     I have another question for the collective wisdom. What are people's 
 experience with full text searching. We are building an xml-ised 
 database of original journal articles. These will be retrievable using 
 metadata tags like issue, author, key words, subjects, etc. The problem 
 is that building full text retrieval capabilities into the same search 
-engine will ultimately affect display times. I guess I have two questions:a) is full text searching of academic articles a sine qua non? I used to 
+engine will ultimately affect display times. I guess I have two questions:
+
+a) is full text searching of academic articles a sine qua non? I used to 
 think everybody did it, but I've been looking a bit more and see it is 
 less usual than I thought in the case of larger libraries.
 b) have people suggestions for incorporating full text searching into a 
 document database.
--dan-- 
+-dan
+
+-- 
 Daniel Paul O'Donnell, PhD
 Associate Professor of English
 University of Lethbridge
@@ -17,4 +23,9 @@ Lethbridge AB T1K 3M4
 Tel. (403) 329-2377
 Fax. (403) 382-7191
 _redacted_(a)uleth.ca>
-Home Page <http://people.uleth.ca/~daniel.odonnell/>
+Home Page <http://people.uleth.ca/~daniel.odonnell/>
+
+
+
+
+

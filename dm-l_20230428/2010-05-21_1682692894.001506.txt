@@ -1,23 +1,39 @@
-Subject: [dm-l] JSTOR and PDF Sizes (TAN)Hi have a question somebody here may know the answer to.A colleague of mine is scanning back issues of journal she edits for=20
-online publication. She is using PDF with OCR to provide full-text=20
-searchability a la JSTOR. The issue is that the file sizes are really=20
-quite different. A 30pp article from a 1920s issue of Speculum, for=20
-example, seems to come in about 1.5-2.0 MB; 5-6 page article in my=20
-colleagues journals are coming in about the same size, and other files=20
-are well over 4 MB.I haven't seen the settings used for the scanning or OCR yet, but the=20
-JSTOR and her files appear to be about the same resolution (eyeballing=20
-the page size when things are set to 100%). They look like they are=20
-being scanned in B&W, but I haven't checked (perhaps a colour channel is=20
-adding to the bulk?). Any other suggestions for things that might be=20
-causing the files to be abnormally large?-dan--=20
+Subject: [dm-l] JSTOR and PDF Sizes (TAN)
+
+Hi have a question somebody here may know the answer to.
+
+A colleague of mine is scanning back issues of journal she edits for 
+online publication. She is using PDF with OCR to provide full-text 
+searchability a la JSTOR. The issue is that the file sizes are really 
+quite different. A 30pp article from a 1920s issue of Speculum, for 
+example, seems to come in about 1.5-2.0 MB; 5-6 page article in my 
+colleagues journals are coming in about the same size, and other files 
+are well over 4 MB.
+
+I haven't seen the settings used for the scanning or OCR yet, but the 
+JSTOR and her files appear to be about the same resolution (eyeballing 
+the page size when things are set to 100%). They look like they are 
+being scanned in B&W, but I haven't checked (perhaps a colour channel is 
+adding to the bulk?). Any other suggestions for things that might be 
+causing the files to be abnormally large?
+
+-dan
+
+-- 
 Daniel Paul O'Donnell
 Professor of English
-University of LethbridgeChair and CEO, Text Encoding Initiative (http://www.tei-c.org/)
+University of Lethbridge
+
+Chair and CEO, Text Encoding Initiative (http://www.tei-c.org/)
 Co-Chair, Digital Initiatives Advisory Board, Medieval Academy of America
-President-elect (English), Society for Digital Humanities/Soci=C3=A9t=C3=A9 p=
-our l'=C3=A9tude des m=C3=A9dias interactifs (http://sdh-semi.org/)
-Founding Director (2003-2009), Digital Medievalist Project (http://www.digita=
-lmedievalist.org/)Vox: +1 403 329-2377
+President-elect (English), Society for Digital Humanities/Société pour l'étude des médias interactifs (http://sdh-semi.org/)
+Founding Director (2003-2009), Digital Medievalist Project (http://www.digitalmedievalist.org/)
+
+Vox: +1 403 329-2377
 Fax: +1 403 382-7191 (non-confidential)
-Home Page: http://people.uleth.ca/~daniel.odonnell/
---===============3352744367287309693==--
+Home Page: http://people.uleth.ca/~daniel.odonnell/
+
+
+
+--3352744367287309693-
+

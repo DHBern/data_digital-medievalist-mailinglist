@@ -1,33 +1,30 @@
-Subject:Dear DM community,In April this year, I informed you about the beta launch of the Innovating Kn=
-owledge database. This database contains information about all surviving and =
-identified early medieval manuscripts transmitting the Etymologiae of Isidore=
- of Seville, fully or partially. Today, I am glad to inform you that the fina=
-l version of the database was released at: db.innovatingknowledge.nl<http://d=
-b.innovatingknowledge.nl/>. Introduction to the database and explanatory text=
-s can be found at the Innovating Knowledge website<https://innovatingknowledg=
-e.nl/?page_id=3D33>.This final version describes 478 manuscripts, giving us for the first time a =
-good overview of how popular and widespread work the Etymologiae was in the e=
-arly Middle Ages. It is almost certainly not the final count as new witnesses=
- of Isidore's text from the early Middle Ages continue to be identified. The =
-database can be, hopefully, curated for at least a few more years and new man=
-uscripts can be added to it. If more funding can be secured for the database,=
- one day it can be hopefully expanded to contain also post-1000 manuscripts o=
-f the most important medieval Latin encyclopaedia.The final version of the database also contains images of 270 of the manuscri=
-pts. As a novel feature, the database has an integrated Mirador viewer, which=
- allows you to open and browse through all manuscripts equipped with a IIIF m=
-anifest (there are 264 of them) directly via the database. We also improved o=
-ur free text search and filters and added two new formats (XML and Excel) to =
-download options.Together with the database, the project also releases the data behind the dat=
-abase for reuse by other projects. They can be found here<https://zenodo.org/=
-record/5564441>.I sincerely hope the Innovating Knowledge database will be a welcomed additio=
-n to the tools available to the Digital Medievalist community. We at the Inno=
-vating Knowledge project also welcome any tips for new manuscripts to include=
- into the growing list of early medieval witnesses of the Etymologiae and als=
-o any corrections and additions of the extant entries in the database.Best wishes,Evina Steinova
+Subject:
+
+Dear DM community,
+
+In April this year, I informed you about the beta launch of the Innovating Knowledge database. This database contains information about all surviving and identified early medieval manuscripts transmitting the Etymologiae of Isidore of Seville, fully or partially. Today, I am glad to inform you that the final version of the database was released at: db.innovatingknowledge.nl<http://db.innovatingknowledge.nl/>. Introduction to the database and explanatory texts can be found at the Innovating Knowledge website<https://innovatingknowledge.nl/?page_id=33>.
+
+This final version describes 478 manuscripts, giving us for the first time a good overview of how popular and widespread work the Etymologiae was in the early Middle Ages. It is almost certainly not the final count as new witnesses of Isidore's text from the early Middle Ages continue to be identified. The database can be, hopefully, curated for at least a few more years and new manuscripts can be added to it. If more funding can be secured for the database, one day it can be hopefully expanded to contain also post-1000 manuscripts of the most important medieval Latin encyclopaedia.
+
+The final version of the database also contains images of 270 of the manuscripts. As a novel feature, the database has an integrated Mirador viewer, which allows you to open and browse through all manuscripts equipped with a IIIF manifest (there are 264 of them) directly via the database. We also improved our free text search and filters and added two new formats (XML and Excel) to download options.
+
+Together with the database, the project also releases the data behind the database for reuse by other projects. They can be found here<https://zenodo.org/record/5564441>.
+
+I sincerely hope the Innovating Knowledge database will be a welcomed addition to the tools available to the Digital Medievalist community. We at the Innovating Knowledge project also welcome any tips for new manuscripts to include into the growing list of early medieval witnesses of the Etymologiae and also any corrections and additions of the extant entries in the database.
+
+Best wishes,
+
+Evina Steinova
 https://homomodernus.net/
-https://evinasteinova.academia.edu/Postdoctoral Researcher
+https://evinasteinova.academia.edu/
+
+Postdoctoral Researcher
 NWO VENI project Innovating Knowledge<http://innovatingknowledge.nl>
-Huygens ING, Dutch Royal Academy of Arts and Sciences, AmsterdamPGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
+Huygens ING, Dutch Royal Academy of Arts and Sciences, Amsterdam
+
+
+
+PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
 eHQvaHRtbDsgY2hhcnNldD11dGYtOCI+CjwvaGVhZD4KPGJvZHk+CjxkaXYgc3R5bGU9ImJvcmRl
 cjpzb2xpZCAjNjQ2NDY0IDEuMHB0O3BhZGRpbmc6Mi4wcHQgMi4wcHQgMi4wcHQgMi4wcHQ7YmFj
 a2dyb3VuZDojRkZFQjlDIj4KPHAgY2xhc3M9Ik1zb05vcm1hbCIgc3R5bGU9ImxpbmUtaGVpZ2h0
@@ -96,4 +93,4 @@ dj5OV08gVkVOSSBwcm9qZWN0IDxhIGhyZWY9Imh0dHA6Ly9pbm5vdmF0aW5na25vd2xlZGdlLm5s
 IiB0YXJnZXQ9Il9ibGFuayI+SW5ub3ZhdGluZyBLbm93bGVkZ2U8L2E+PGJyPgo8L2Rpdj4KSHV5
 Z2VucyBJTkcsIER1dGNoIFJveWFsIEFjYWRlbXkgb2YgQXJ0cyBhbmQgU2NpZW5jZXMsIEFtc3Rl
 cmRhbTxicj4KPC9kaXY+CjwvZGl2Pgo8L2Rpdj4KPC9kaXY+CjwvZGl2Pgo8L2Rpdj4KPC9kaXY+
-CjwvZGl2Pgo8L2Rpdj4KPC9kaXY+CjwvYm9keT4KPC9odG1sPgo=
+CjwvZGl2Pgo8L2Rpdj4KPC9kaXY+CjwvYm9keT4KPC9odG1sPgo

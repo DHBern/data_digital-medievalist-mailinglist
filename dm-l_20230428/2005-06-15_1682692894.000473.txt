@@ -1,15 +1,29 @@
-Subject: Re: [dm-l] Concordancing QueriesI transcribed Hall's Chronicle (1550) into tables in Word but I only had 
+Subject: Re: [dm-l] Concordancing Queries
+
+I transcribed Hall's Chronicle (1550) into tables in Word but I only had 
 to create the table once.  When I finished a page, I copied it, pasted 
 it below, then highlighted and deleted the text, leaving a blank table.  
 A two-row, multi-column data table at the top of each transcribed page 
-had details on the page, work notes, etc.Later on, however, when I contemplated using Watt's Concordance, I 
+had details on the page, work notes, etc.
+
+Later on, however, when I contemplated using Watt's Concordance, I 
 realized that line numbers  wouldn't be adequate by themselves, so I 
 used some macros to add the page numbers.  If I were doing running text 
 with continuous line numbers, I'd get Excel to do it automatically, 
 using the Edit / Fill / Series (Column, Linear, 1 to whatever) function, 
-then copy and paste into a Word table.I faithfully hyphenated as Hall's compositors did but I wish I hadn't, 
+then copy and paste into a Word table.
+
+I faithfully hyphenated as Hall's compositors did but I wish I hadn't, 
 for it hinders searching for those words and would make a Watt-created 
 concordance unreliable.  I may spin off one transcription version with 
-hyphenation and create another without broken words.Cheers,
-Al Magary
---===============3947443150028719295==--
+hyphenation and create another without broken words.
+
+Cheers,
+Al Magary
+
+
+
+
+
+--3947443150028719295-
+

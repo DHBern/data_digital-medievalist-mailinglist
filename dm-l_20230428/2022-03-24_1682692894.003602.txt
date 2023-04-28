@@ -1,21 +1,28 @@
-Subject:Object Detection Challenge in computational humanitiesICPR 2022 ODeuropa Competition on Olfactory Object Recognition (ODOR)We are proud to announce the launch of the ICPR 2022 (ODOR) ODeuropa Competit=
-ion on Olfactory Object Recognition, the world's first competition for the de=
-tection on olfactory objects on historical artworks. Work with a training set=
- of >24000 object annotations in 87 categories on ~3000 images and create inn=
-ovative solutions to detect a wide range of objects in the challenging domain=
- of artworks.Info: https://odor-challenge.github.io/2022/
-Challenge Registration and Data:  https://codalab.lisn.upsaclay.fr/competitio=
-ns/1939
+Subject:
+
+Object Detection Challenge in computational humanities
+
+ICPR 2022 ODeuropa Competition on Olfactory Object Recognition (ODOR)
+
+We are proud to announce the launch of the ICPR 2022 (ODOR) ODeuropa Competition on Olfactory Object Recognition, the world's first competition for the detection on olfactory objects on historical artworks. Work with a training set of >24000 object annotations in 87 categories on ~3000 images and create innovative solutions to detect a wide range of objects in the challenging domain of artworks.
+
+Info: https://odor-challenge.github.io/2022/
+Challenge Registration and Data:  https://codalab.lisn.upsaclay.fr/competitions/1939
+
 --
 -------------------------
 Regards,
 Ronak Kosti, PhD
 Post Doc Researcher
 Pattern Recognition Lab,
-Friedrich-Alexander-Universit=C3=A4t, Erlangen-N=C3=BCrnberg
+Friedrich-Alexander-Universität, Erlangen-Nürnberg
 _redacted_(a)fau.de>
 Web: https://lme.tf.fau.de/person/kosti
-_redacted_@r_rkostiPGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
+_redacted_@r_rkosti
+
+
+
+PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
 eHQvaHRtbDsgY2hhcnNldD11dGYtOCI+CjwvaGVhZD4KPGJvZHk+CjxkaXYgc3R5bGU9ImJvcmRl
 cjpzb2xpZCAjNjQ2NDY0IDEuMHB0O3BhZGRpbmc6Mi4wcHQgMi4wcHQgMi4wcHQgMi4wcHQ7YmFj
 a2dyb3VuZDojRkZFQjlDIj4KPHAgY2xhc3M9Ik1zb05vcm1hbCIgc3R5bGU9ImxpbmUtaGVpZ2h0
@@ -66,4 +73,5 @@ IiB0YXJnZXQ9Il9ibGFuayI+aHR0cHM6Ly9sbWUudGYuZmF1LmRlL3BlcnNvbi9rb3N0aTwvYT4K
 VHdpdHRlcjogQHJfcmtvc3RpPC9wcmU+CjxzcGFuPjxzcGFuPjxzcGFuIGRpcj0ibHRyIj48L3Nw
 YW4+PC9zcGFuPjwvc3Bhbj48L2Rpdj4KPHNwYW4+PHNwYW4+PHNwYW4gZGlyPSJsdHIiPjwvc3Bh
 bj48L3NwYW4+PC9zcGFuPjwvZGl2Pgo8L2Rpdj4KPC9kaXY+CjwvZGl2Pgo8L2JvZHk+CjwvaHRt
-bD4K
+bD4K
+

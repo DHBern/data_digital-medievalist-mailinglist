@@ -1,4 +1,20 @@
-Subject: [dm-l] D+MECH, the DEEDS Project new charter dating program*DOCUMENTS OF EARLY **ENGLAND** DATA SET**(DEEDS PROJECT)**Directed by**Michael Gervers, PhD**University** of **Toronto**** ** *For several decades, the DEEDS Project has had as its major research 
+Subject: [dm-l] D+MECH, the DEEDS Project new charter dating program
+
+*DOCUMENTS OF EARLY **ENGLAND** DATA SET*
+
+*(DEEDS PROJECT)*
+
+*Directed by*
+
+*Michael Gervers, PhD*
+
+*University** of **Toronto***
+
+* *
+
+* *
+
+For several decades, the DEEDS Project has had as its major research 
 objective the development of a computer program to provide chronological 
 context for undated English private charters issued after the Norman 
 Conquest in 1066 and before the reign of Edward II in 1307. During this 
@@ -7,20 +23,37 @@ dates. Only after the start of the 14^th century was internal dating
 regularly applied to conveyances. The program which has been developed, 
 and is now available on line, produces a date based on the comparison of 
 word-strings in the test document with similar word-strings in a 
-database of 10,000 dated charters. We would like to invite you to test this program using Latin texts from 
-the period. You will find the site at:http://scriptor.deeds.utoronto.ca:7777/d_mechOnce at the home page, click on "Go" at the bottom centre. Paste your 
+database of 10,000 dated charters.
+
+ 
+
+We would like to invite you to test this program using Latin texts from 
+the period. You will find the site at:
+
+http://scriptor.deeds.utoronto.ca:7777/d_mech
+
+Once at the home page, click on "Go" at the bottom centre. Paste your 
 document to be dated in the empty rectangle and click on "next". If you 
 wish, edit your text. This entails exchanging personal or place name 
 with the letter "P" (& note also what appears under "DOCUM" on the home 
 page). Continue to click "next" and finally "Date it".  The result will 
 appear in Roman numerals in the upper left of your screen, and in Arabic 
-numerals at the lower right. Generally speaking, these machine-generated dates provide accuracy 
+numerals at the lower right.
+
+ 
+
+Generally speaking, these machine-generated dates provide accuracy 
 within Â± 10 years about 65% of the time. To bring the remaining 35% in 
-line, we will need to develop additional algorithms.
+line, we will need to develop additional algorithms.
+
 The statistical background for the program was developed by Professor 
 Andrey Feuerverger of the Department of Statistics, and his PhD student, 
 Gelila Tilahun. The dating program, and the website, were created by 
-Rodolfo Fiallos of the DEEDS Project. Based on tests using the dated documents in the DEEDS corpus, the 
+Rodolfo Fiallos of the DEEDS Project.
+
+ 
+
+Based on tests using the dated documents in the DEEDS corpus, the 
 program can provide reasonable accuracy from about 1160; before that 
 time there are very few dated documents available to serve as 
 comparative material. We are always looking for documents to add to the 
@@ -29,25 +62,61 @@ examples from sources other than those we have already searched (about
 190 printed sources up to this point). In fact, our efforts would 
 benefit greatly from the collaboration of interested colleagues, both in 
 providing us with the texts of transcribed documents on the one hand, 
-and in testing the dating program with them on the other.We also have a search engine which provides access to the content of the 
+and in testing the dating program with them on the other.
+
+We also have a search engine which provides access to the content of the 
 10,000 documents in the manner of a concordance. By this means, the 
 database is fully searchable, and each column can be arranged in 
-alphabetical or numeric order by clicking at the top of the column:http://res.deeds.utoronto.ca:49838/research/Click on Medieval Latin Charters > SearchPlace a word or word-string into the "Query" box. Click on the bullet 
+alphabetical or numeric order by clicking at the top of the column:
+
+http://res.deeds.utoronto.ca:49838/research/
+
+Click on Medieval Latin Charters > Search
+
+Place a word or word-string into the "Query" box. Click on the bullet 
 "Context". Enter the no. of words you would like to find at either end 
-of your chosen string. Click on "Execute". This is a beta program. We have worked long and hard to develop it, 
+of your chosen string. Click on "Execute".
+
+ 
+
+This is a beta program. We have worked long and hard to develop it, 
 while at the same time knowing that there is always room for greater 
 accuracy and improvement. We hope you will find it useful and that you 
-will send us your reactions. Michael Gervers_redacted_(a)utoronto.ca> Rodolfo Fiallos_redacted_(a)utoronto.ca> Toronto,8 June 2008-- 
+will send us your reactions.
+
+ 
+
+Michael Gervers
+
+_redacted_(a)utoronto.ca>
+
+ 
+
+Rodolfo Fiallos
+
+_redacted_(a)utoronto.ca>
+
+ 
+
+Toronto,
+
+8 June 2008
+
+-- 
 Rodolfo Fiallos
 Research Network/Database Administrator
 The DEEDS Project, University of Toronto
 www.utoronto.ca/deeds
-Tel./Fax: 416-978-4882
---===============0138422043160198300==
-Content-Type: text/html
+Tel./Fax: 416-978-4882
+
+
+
+--0138422043160198300Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PCFET0NUWVBFIGh0bWwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMDEgVHJhbnNpdGlvbmFs
+Content-Disposition: attachment; filenameúttachment.html"
+MIME-Version: 1.0
+
+PCFET0NUWVBFIGh0bWwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMDEgVHJhbnNpdGlvbmFs
 Ly9FTiI+CjxodG1sPgo8aGVhZD4KPC9oZWFkPgo8Ym9keSBiZ2NvbG9yPSIjZmZmZmZmIiB0ZXh0
 PSIjMDAwMDAwIj4KPHAgY2xhc3M9Ik1zb05vcm1hbCIgc3R5bGU9InRleHQtYWxpZ246IGNlbnRl
 cjsiIGFsaWduPSJjZW50ZXIiPjxiCiBzdHlsZT0iIj5ET0NVTUVOVFMgT0YgRUFSTFkgPC9iPjxz
@@ -151,4 +220,4 @@ MiI+LS0gClJvZG9sZm8gRmlhbGxvcwpSZXNlYXJjaCBOZXR3b3JrL0RhdGFiYXNlIEFkbWluaXN0
 cmF0b3IKVGhlIERFRURTIFByb2plY3QsIFVuaXZlcnNpdHkgb2YgVG9yb250bwo8YSBjbGFzcz0i
 bW96LXR4dC1saW5rLWFiYnJldmlhdGVkIiBocmVmPSJodHRwOi8vd3d3LnV0b3JvbnRvLmNhL2Rl
 ZWRzIj53d3cudXRvcm9udG8uY2EvZGVlZHM8L2E+ClRlbC4vRmF4OiA0MTYtOTc4LTQ4ODIKPC9w
-cmU+CjwvYm9keT4KPC9odG1sPgo=
+cmU+CjwvYm9keT4KPC9odG1sPgo

@@ -1,4 +1,6 @@
-Subject: Re: [dm-l] fontsI absolutely hate workarounds like using images or substituting "3" for 
+Subject: Re: [dm-l] fonts
+
+I absolutely hate workarounds like using images or substituting "3" for 
 yogh. Like James, I like UTF-8 for web pages. It makes for smaller 
 files/faster downloads than entities, and IE (always the problem child) 
 seems to handle UTF-8 better than it does entities for some reason. But 
@@ -9,8 +11,16 @@ what's best for the long haul, but Murray's solution seems very good to
 me. I'll just add that the Medieval Unicode Font Initiative 
 (http://helmer.aksis.uib.no/mufi/) suggests entity names for all the 
 Unicode characters it recognizes as useful for medievalists, and also 
-for all the code points is claims in the Private Use Area.And Murray--if you have questions about whether particular characters 
-are present in the Unicode standard I may be able to help.PeterMurray McGillivray wrote:>
+for all the code points is claims in the Private Use Area.
+
+And Murray--if you have questions about whether particular characters 
+are present in the Unicode standard I may be able to help.
+
+Peter
+
+Murray McGillivray wrote:
+
+>
 > James Cummings wrote:
 >
 >> So what is best? Obviously encoding your webpages as
@@ -54,4 +64,7 @@ are present in the Unicode standard I may be able to help.PeterMurray McGill
 > dm-l mailing list
 _redacted_(a)uleth.ca
 > http://listserv.uleth.ca/mailman/listinfo/dm-l
->
+>
+
+
+

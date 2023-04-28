@@ -1,24 +1,33 @@
-Subject: Re: [dm-l] Re: Experience using Microsoft's XSLT?
+Subject: Re: [dm-l] Re: Experience using Microsoft's XSLT?
+
 > Given
 > the standard XML architecture of these editions as these have evolved,
 > whereby textual divisions are set in the content of elements but pages are
 > marked with empty anchor elements (eg <pb/>) this is just what XSLT etc find
 > very tricky indeed.  If you can do it (and I have not yet seen this done,
 > though I have heard lengthy explanations of how it *might* be done) you can
-> only do it with great difficulty with the standard tools.  At the Constantijn Huijgens Instituut we have done this (more or less). 
+> only do it with great difficulty with the standard tools.  
+
+At the Constantijn Huijgens Instituut we have done this (more or less). 
 Our edition of the 'Geraardsbergse handschrift' (Geraardsbergen 
 Miscellany) is based on a TEI encoded XML file where text structure is 
 used to define the hierarchy, and pages are encoded as pb-elements 
-(milestones). Nevertheless, we present our edition on a page by page basis.The edition is available at 
+(milestones). Nevertheless, we present our edition on a page by page basis.
+
+The edition is available at 
 http://www.chi.knaw.nl/epub/mvn/geraardsbergen/index.html. I'm afraid 
 everything is in Dutch right now, but from the 'Inleiding' 
 (introduction) option, the xml and xslt source files are available. The 
 edition pages can be accessed from the 'editie' (edition) or 'inhoud' 
 (contents) option. On some pages (e.g. 
 http://www.chi.knaw.nl/epub/mvn/geraardsbergen/f109r.html), there's also 
-a facsimile.(We'll create full facsimile-cum-transcription editions in the future; 
+a facsimile.
+
+(We'll create full facsimile-cum-transcription editions in the future; 
 this one is a book based publication, converted into digital form 
-recently).In the present edition, performance is not an issue, as the pages 
+recently).
+
+In the present edition, performance is not an issue, as the pages 
 contain static html. If I were to write this stylesheet again, in the 
 interest of performance and clarity, I would separate the milestone 
 handling from producing the final output. I'd use an intermediate 
@@ -26,5 +35,9 @@ stylesheet to transform the milestone elements into full page elements
 at the highest level of the hierarchy. These page elements would contain 
 those segments of the text, div, p (etc.) elements that the associated 
 page contains. The resulting XML file, would, I'm sure, perform 
-beautifully in a dynamic environment.Peter
---===============8393994896991969239==--
+beautifully in a dynamic environment.
+
+Peter
+
+--8393994896991969239-
+

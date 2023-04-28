@@ -1,53 +1,74 @@
-Subject: Re: [dm-l] Medieval font dumpI=E2=80=99d like to second Lisa Fagin Davis=E2=80=99s thanks for your work on=
- these fonts. #MedievalTwitter is, indeed, losing its collective mind over Jo=
-scelyn and not *just* because folks are in various versions of isolation. I t=
-oo am rhapsodizing about ligatures. There are already many uses for these fon=
-ts; there will be more. I=E2=80=99m not telling you anything you don=E2=80=99=
-t know. But I would just like to add my Huzzah to those of others!Cheers,
+Subject: Re: [dm-l] Medieval font dump
+
+I’d like to second Lisa Fagin Davis’s thanks for your work on these fonts. #MedievalTwitter is, indeed, losing its collective mind over Joscelyn and not *just* because folks are in various versions of isolation. I too am rhapsodizing about ligatures. There are already many uses for these fonts; there will be more. I’m not telling you anything you don’t know. But I would just like to add my Huzzah to those of others!
+
+Cheers,
 [signature_1461926666]
 BA (ANU) MA PhD (Melb) Grad.Dip.Mod.Lang. (UWA)
 Senior Honorary Research Fellow
 University of Western Australia
 _redacted_(a)virginia.edu>
 Date: Thursday, 2 April 2020 at 4:12 am
-_redacted_(a)lists.illinois.edu" <med=
-_redacted_(a)lists.illinois.edu>
-Subject: [dm-l] Medieval font dumpI haven't made releases for these, but each repository has a "font" folder. T=
-o get the font, click on that folder, then click on the name of the file, the=
-n find and click the "Download" button.Here are the fonts:BeowulfOTThis is an update of my Beowulf1 font, which has been out and about just abou=
-t forever, and which you see in lots of places from websites to book covers t=
-o TV titles. This version, never before released, has a modern mode (legible =
-to modern readers) and a historical mode (for teachers and purists). Unlike t=
-he original version, it has ligatures and a number of other OpenType features.https://github.com/psb1558/BeowulfOT-fontEaduiA reproduction of the English Caroline minuscule hand of the great eleventh-c=
-entury Canterbury scribe Eadui Basan. It has modern and historical modes and =
-numerous contextual alternates and other cool features. It has been available=
- on various websites for years, though it is not as well known as Beowulf1.https://github.com/psb1558/Eadui-FontCissanthemosBased on the ninth-century Royal Bible, BL MS Royal 1 E. VI, a splendid examp=
-le of insular hybrid minuscule. It contains caps in three different styles, o=
-ne of which has long been available as the font "Anglo-Saxon Caps" (from 1993=
-!), which you see everywhere. Cissanthemos has modern and historical modes an=
-d a very large number of contextual alternates, giving it an irregular, hand-=
-made look.https://github.com/psb1558/Cissanthemos-fontParkerChronicleBased on the first hand of Corpus Christi College, Cambridge, MS 173, "The Pa=
-rker Chronicle." The font is named after the book because I haven't yet thoug=
-ht up a better name for it. With modern and historical modes and plenty of Op=
-enType goodies. This has been seen in public precisely once, when I gave a co=
-py to the proprietor of Blue Mountain Brewery to use on the label of "Adambeo=
-r," an Old English-themed craft beer that you can sample if you ever find you=
-rself, post-pandemic, driving through Afton, Virginia. (He paid me for my hel=
-p and the font with two cases of his really excellent beer.)https://github.com/psb1558/ParkerChronicle-fontJoscelynThe secretary hand font, mentioned here a few days ago.https://github.com/psb1558/Joscelyn-fontElstobA modern variable font mainly for web use. If you don't know what a variable =
-font is, visit https://psb1558.github.io/Elstob-font/ and play around. There =
-are lots of OpenType features, outlined in an accompanying document, and thes=
-e are also available in a desktop version, ElstobD. This has been submitted t=
-o Google Fonts, but they're so backed up, I don't know when they'll get to it=
-, if ever.Repository: https://github.com/psb1558/Elstob-font
-Releases: https://github.com/psb1558/Elstob-font/releasesFinally there's Junicode-new (https://github.com/psb1558/Junicode-New), a lon=
-g-term project to expand, modernize and improve my rather long-in-the-tooth J=
-unicode font, but there are no usable fonts in that repository yet.May we all dodge the virus and come through the next few harrowing months san=
-e and in good health!PeterPeter S. Baker
+_redacted_(a)lists.illinois.edu" <med_redacted_(a)lists.illinois.edu>
+Subject: [dm-l] Medieval font dump
+
+I haven't made releases for these, but each repository has a "font" folder. To get the font, click on that folder, then click on the name of the file, then find and click the "Download" button.
+
+Here are the fonts:
+
+BeowulfOT
+
+This is an update of my Beowulf1 font, which has been out and about just about forever, and which you see in lots of places from websites to book covers to TV titles. This version, never before released, has a modern mode (legible to modern readers) and a historical mode (for teachers and purists). Unlike the original version, it has ligatures and a number of other OpenType features.
+
+https://github.com/psb1558/BeowulfOT-font
+
+Eadui
+
+A reproduction of the English Caroline minuscule hand of the great eleventh-century Canterbury scribe Eadui Basan. It has modern and historical modes and numerous contextual alternates and other cool features. It has been available on various websites for years, though it is not as well known as Beowulf1.
+
+https://github.com/psb1558/Eadui-Font
+
+Cissanthemos
+
+Based on the ninth-century Royal Bible, BL MS Royal 1 E. VI, a splendid example of insular hybrid minuscule. It contains caps in three different styles, one of which has long been available as the font "Anglo-Saxon Caps" (from 1993!), which you see everywhere. Cissanthemos has modern and historical modes and a very large number of contextual alternates, giving it an irregular, hand-made look.
+
+https://github.com/psb1558/Cissanthemos-font
+
+ParkerChronicle
+
+Based on the first hand of Corpus Christi College, Cambridge, MS 173, "The Parker Chronicle." The font is named after the book because I haven't yet thought up a better name for it. With modern and historical modes and plenty of OpenType goodies. This has been seen in public precisely once, when I gave a copy to the proprietor of Blue Mountain Brewery to use on the label of "Adambeor," an Old English-themed craft beer that you can sample if you ever find yourself, post-pandemic, driving through Afton, Virginia. (He paid me for my help and the font with two cases of his really excellent beer.)
+
+https://github.com/psb1558/ParkerChronicle-font
+
+Joscelyn
+
+The secretary hand font, mentioned here a few days ago.
+
+https://github.com/psb1558/Joscelyn-font
+
+Elstob
+
+A modern variable font mainly for web use. If you don't know what a variable font is, visit https://psb1558.github.io/Elstob-font/ and play around. There are lots of OpenType features, outlined in an accompanying document, and these are also available in a desktop version, ElstobD. This has been submitted to Google Fonts, but they're so backed up, I don't know when they'll get to it, if ever.
+
+Repository: https://github.com/psb1558/Elstob-font
+Releases: https://github.com/psb1558/Elstob-font/releases
+
+Finally there's Junicode-new (https://github.com/psb1558/Junicode-New), a long-term project to expand, modernize and improve my rather long-in-the-tooth Junicode font, but there are no usable fonts in that repository yet.
+
+May we all dodge the virus and come through the next few harrowing months sane and in good health!
+
+Peter
+
+Peter S. Baker
 Professor and Director of Graduate Admissions
 Department of English
 University of Virginia
 P.O. Box 400121
-Charlottesville, Virginia 22904-4121PGh0bWwgeG1sbnM6dj0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTp2bWwiIHhtbG5zOm89InVy
+Charlottesville, Virginia 22904-4121
+
+
+
+PGh0bWwgeG1sbnM6dj0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTp2bWwiIHhtbG5zOm89InVy
 bjpzY2hlbWFzLW1pY3Jvc29mdC1jb206b2ZmaWNlOm9mZmljZSIgeG1sbnM6dz0idXJuOnNjaGVt
 YXMtbWljcm9zb2Z0LWNvbTpvZmZpY2U6d29yZCIgeG1sbnM6bT0iaHR0cDovL3NjaGVtYXMubWlj
 cm9zb2Z0LmNvbS9vZmZpY2UvMjAwNC8xMi9vbW1sIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcv
@@ -326,7 +347,8 @@ LiBCb3ggNDAwMTIxPG86cD48L286cD48L3NwYW4+PC9wPg0KPC9kaXY+DQo8ZGl2Pg0KPHAgY2xh
 c3M9Ik1zb05vcm1hbCI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZToxMi4wcHQ7Y29sb3I6YmxhY2si
 PkNoYXJsb3R0ZXN2aWxsZSwgVmlyZ2luaWEgMjI5MDQtNDEyMTxvOnA+PC9vOnA+PC9zcGFuPjwv
 cD4NCjwvZGl2Pg0KPC9kaXY+DQo8L2Rpdj4NCjwvZGl2Pg0KPC9kaXY+DQo8L2Rpdj4NCjwvYm9k
-eT4NCjwvaHRtbD4NCg==iVBORw0KGgoAAAANSUhEUgAAAKEAAAAvCAYAAACL66oeAAAYWWlDQ1BJQ0MgUHJvZmlsZQAAWIWV
+eT4NCjwvaHRtbD4NCg
+iVBORw0KGgoAAAANSUhEUgAAAKEAAAAvCAYAAACL66oeAAAYWWlDQ1BJQ0MgUHJvZmlsZQAAWIWV
 eQc4lt8b/3med7+89t6yyd5k771nKq+96bVVEpKoJCOFFCoatENCRkqyslKkEEqlYZP/Y9Tv+/v+
 ruv/v/7nus7zfN773OceZ93nfl4AOBPIYWFBMB0AwSERFFsjXT5nF1c+3DiAAT2gBTRAnuwZHqZj
 bW0OkPLn/d9lvh9AG+9Xkhuy/rf9/1rovbzDPQGArBHs4RXuGYzgewCgkz3DKBEAYFUQukB0RNgG
@@ -500,4 +522,4 @@ zuTvrPARlJjDnm7U4DrgwP854NeVJAdEspI34tx5Lioe5NHkRIjp1cmbcc2JCqnJ+h0rwPtvccD3
 Tmhe2Fbz5s1Tps6oTD02mQ6bCFGZd4cVAQg5QJPotbuhOaqVDDe4EXDAzQFfQmgK/sq8o2rbmQMD
 yhwGVZjdAAIOxIMDvgITc6TKGcu8pG0DEOdGcBFw4DY54GsnJB2D8JmjTTYweeSRR25z2KB5wIEk
 DvgSwiT04CrgQPw54Mscx3/YoMeAA0kcCIQwiRfBVYI4EAhhghgfDJvEgUAIk3gRXCWIA4EQJojx
-wbBJHAiEMIkXwVWCOBAIYYIYHwybxIFACJN4EVwliAP/A3WZarCTihqsAAAAAElFTkSuQmCCAAA=
+wbBJHAiEMIkXwVWCOBAIYYIYHwybxIFACJN4EVwliAP/A3WZarCTihqsAAAAAElFTkSuQmCCAAA

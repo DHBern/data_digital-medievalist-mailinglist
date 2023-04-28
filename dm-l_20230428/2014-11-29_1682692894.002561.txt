@@ -1,36 +1,17 @@
-Subject: [dm-l] new study: "Diagnosis of a =?utf-8?q?=C5=92Plague=C2=B9?=Dear DM-L Colleagues,I and two colleagues have just published a study correcting a =E2=80=9Cmisdia=
-gnosed=E2=80=9D plague image from the 14th century:  Monica H. Green, Kathlee=
-n Walker-Meikle, and Wolfgang M=C3=BCller, =E2=80=9CDiagnosis of a =E2=80=98P=
-lague=E2=80=99 Image: A Digital Cautionary Tale,=E2=80=9D in Pandemic Disease=
- in the Medieval World: Rethinking the Black Death, inaugural issue of The Me=
-dieval Globe 1 (Fall 2014), 309-26, available open-access at: http://scholarw=
-orks.wmich.edu/medieval_globe/1/.  (Open-access funding was underwritten in t=
-his case by the World History Center at the University of Pittsburgh.)I=E2=80=99m sending notification to this list because this study may have imp=
-lications for the wider Digital Medievalist community. What we argue is that =
-a mistaken label was attached to an image being sold in the British Library=
-=E2=80=99s =E2=80=9CImages Online=E2=80=9D database (where high-quality image=
-s are sold for a fee): the BL labels it =E2=80=9CPlague victims blessed by pr=
-iest." As far as we were able to determine, the misinformation originated wit=
-h the staff of the BL and did not come from earlier scholarly misinterpretati=
-ons. We argue that in fact it is clearly an image of leprosy=E2=80=94a =E2=80=
-=9Creading=E2=80=9D of the image supported both by medieval iconographic trad=
-itions and, more importantly, by the text which surrounds the image in its or=
-iginal manuscript context.  (We provide a full edition and translation of the=
- Latin text in our study.)The British Library has been apprised of our study, and they responded that t=
-hey do intend to alter the meta-data attached to the image in their databases=
-. I assume that also means that they will cease to market it as a =E2=80=9Cpl=
-ague=E2=80=9D image. (Images Online is the fee-based distribution office of t=
-he BL; the image is also available, at a lower resolution, in the BL Illumina=
-ted Manuscripts catalogue, where it is under a CC0 license.) Even if they cor=
-rect the metadata, however, there is no way to =E2=80=9Ctake back=E2=80=9D al=
-l the incorrect uses of the image, given how widely it has already been disse=
-minated into popular culture with the mistaken interpretation. (Most recently=
-, in the BBC=E2=80=99s History magazine, October 2014, p. 90.)I am not a coder myself and have only a user=E2=80=99s appreciation of the te=
-chnical side of Digital Humanities.  Still, given that metadata might well be=
- seen as having a comparable value to the medieval texts and images we are co=
-ncerned to digitize and/or analyze digitally, I thought this might be a case =
-that people might find instructive._redacted_(a)asu.edu) should you h=
-ave any further questions about the image or our study.--
+Subject: [dm-l] new study: "Diagnosis of a tf-8?q?ŒPlague¹?
+Dear DM-L Colleagues,
+
+I and two colleagues have just published a study correcting a “misdiagnosed” plague image from the 14th century:  Monica H. Green, Kathleen Walker-Meikle, and Wolfgang Müller, “Diagnosis of a ‘Plague’ Image: A Digital Cautionary Tale,” in Pandemic Disease in the Medieval World: Rethinking the Black Death, inaugural issue of The Medieval Globe 1 (Fall 2014), 309-26, available open-access at: http://scholarworks.wmich.edu/medieval_globe/1/.  (Open-access funding was underwritten in this case by the World History Center at the University of Pittsburgh.)
+
+I’m sending notification to this list because this study may have implications for the wider Digital Medievalist community. What we argue is that a mistaken label was attached to an image being sold in the British Library’s “Images Online” database (where high-quality images are sold for a fee): the BL labels it “Plague victims blessed by priest." As far as we were able to determine, the misinformation originated with the staff of the BL and did not come from earlier scholarly misinterpretations. We argue that in fact it is clearly an image of leprosy—a “reading” of the image supported both by medieval iconographic traditions and, more importantly, by the text which surrounds the image in its original manuscript context.  (We provide a full edition and translation of the Latin text in our study.)
+
+The British Library has been apprised of our study, and they responded that they do intend to alter the meta-data attached to the image in their databases. I assume that also means that they will cease to market it as a “plague” image. (Images Online is the fee-based distribution office of the BL; the image is also available, at a lower resolution, in the BL Illuminated Manuscripts catalogue, where it is under a CC0 license.) Even if they correct the metadata, however, there is no way to “take back” all the incorrect uses of the image, given how widely it has already been disseminated into popular culture with the mistaken interpretation. (Most recently, in the BBC’s History magazine, October 2014, p. 90.)
+
+I am not a coder myself and have only a user’s appreciation of the technical side of Digital Humanities.  Still, given that metadata might well be seen as having a comparable value to the medieval texts and images we are concerned to digitize and/or analyze digitally, I thought this might be a case that people might find instructive.
+
+_redacted_(a)asu.edu) should you have any further questions about the image or our study.
+
+--
 Monica Green
 Professor of History
 School of Historical, Philosophical, and Religious Studies
@@ -41,12 +22,15 @@ Tempe, AZ  85287-4302
 U.S.A.
 _redacted_(a)asu.edu>
 http://www.nytimes.com/2014/07/01/science/leprosy-still-claiming-victims.html
-Pandemic Disease in the Medieval World:  Rethinking the Black Death - inaugur=
-al issue of
+Pandemic Disease in the Medieval World:  Rethinking the Black Death - inaugural issue of
 The Medieval Globe (published 21 November 2014)
 http://scholarworks.wmich.edu/medieval_globe/1/
 https://asu.academia.edu/MonicaHGreen
-https://webapp4.asu.edu/directory/person/384868PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
+https://webapp4.asu.edu/directory/person/384868
+
+
+
+PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
 eHQvaHRtbDsgY2hhcnNldD1XaW5kb3dzLTEyNTIiPgo8L2hlYWQ+Cjxib2R5IHN0eWxlPSJ3b3Jk
 LXdyYXA6IGJyZWFrLXdvcmQ7IC13ZWJraXQtbmJzcC1tb2RlOiBzcGFjZTsgLXdlYmtpdC1saW5l
 LWJyZWFrOiBhZnRlci13aGl0ZS1zcGFjZTsgZm9udC1mYW1pbHk6IENhbGlicmksIHNhbnMtc2Vy
@@ -444,4 +428,4 @@ LzwvYT48L2Rpdj4KPGRpdj48YSBocmVmPSJodHRwczovL2FzdS5hY2FkZW1pYS5lZHUvTW9uaWNh
 SEdyZWVuIj5odHRwczovL2FzdS5hY2FkZW1pYS5lZHUvTW9uaWNhSEdyZWVuPC9hPjwvZGl2Pgo8
 ZGl2PjxhIGhyZWY9Imh0dHBzOi8vd2ViYXBwNC5hc3UuZWR1L2RpcmVjdG9yeS9wZXJzb24vMzg0
 ODY4Ij5odHRwczovL3dlYmFwcDQuYXN1LmVkdS9kaXJlY3RvcnkvcGVyc29uLzM4NDg2ODwvYT48
-L2Rpdj4KPC9kaXY+CjwvZGl2Pgo8L2Rpdj4KPC9ib2R5Pgo8L2h0bWw+Cg==
+L2Rpdj4KPC9kaXY+CjwvZGl2Pgo8L2Rpdj4KPC9ib2R5Pgo8L2h0bWw+Cg

@@ -1,5 +1,9 @@
-Subject:Let me second Peter's points here, especially about the scandalously 
-underused aspect of repositories.Something else to think about, which a number of journals are now in the 
+Subject:
+
+Let me second Peter's points here, especially about the scandalously 
+underused aspect of repositories.
+
+Something else to think about, which a number of journals are now in the 
 process of considering, is /publishing/ your data. At Digital 
 Medievalist and at Digital Studies (two journals I'm associated with) 
 the editorial boards are trying to work out the best way of doing this, 
@@ -9,7 +13,9 @@ started publishing datasets (and in fact I have an action item on me to
 find out how they've resolved some of these issues). The Journal of Open 
 Archaeology Data (JOAD) is a commercial project that is already handling 
 things like transcriptions, visualisation sets, scans, and the like, 
-though I'm told they have pretty significant page charges.Publishing data means that it is citable as well as reusable, and the 
+though I'm told they have pretty significant page charges.
+
+Publishing data means that it is citable as well as reusable, and the 
 journals that are publishing them are using adherence to archival 
 standards as a refereeing criteria. JOAD requires you to have put your 
 data in a repository and received a DOI (Digital Object Identifier), 
@@ -18,17 +24,22 @@ give datasets DOIs (ours doesn't, unfortunately), an alternative is to
 submit your datasets to figshare.com, which is a free repository service 
 that will give out DOIs. My only concern about figshare is that is is 
 run by a recent postdoc and I'm not sure what his long-term preservation 
-strategy is.One reason for publishing datasets is that it means they are 
+strategy is.
+
+One reason for publishing datasets is that it means they are 
 discoverable: I heard a talk by a data librarian at Beyond the PDF2 this 
 past Spring in Amsterdam that examined all references to publicly 
 available datasets mentioned in articles since 1990 or so in some 
 specific natural science discipline: 90% were now irrecoverable, mostly 
 because the URLs were broken: the PIs had died, changed institutions, or 
-reorganised their webspace, without indicating where the material had moved.If somebody is interested in publishing citable datasets along the lines 
+reorganised their webspace, without indicating where the material had moved.
+
+If somebody is interested in publishing citable datasets along the lines 
 of JOAD, I believe that both DM-J (the Digital Medievalist Journal) and 
 Digital Studies are interested in experimenting. This is a very hot 
 topic in publishing circles, and it is gaining some traction in DH, 
-where we lag behind the natural scientists.
+where we lag behind the natural scientists.
+
 On 13-06-21 11:05 AM, Peter Robinson wrote:
 > HI David
 > I think you are hitting upon a very sore point in the DH/editorial 
@@ -129,7 +140,7 @@ On 13-06-21 11:05 AM, Peter Robinson wrote:
 >> News: http://www.digitalmedievalist.org/news/
 >> Wiki: http://www.digitalmedievalist.org/wiki/
 >> Twitter: http://twitter.com/digitalmedieval
->> Facebook: http://www.facebook.com/group.php?gid=49320313760
+>> Facebook: http://www.facebook.com/group.php?gidI320313760
 _redacted_(a)uleth.ca>
 >> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
 >
@@ -156,20 +167,28 @@ _redacted_(a)uleth.ca>
 > News: http://www.digitalmedievalist.org/news/
 > Wiki: http://www.digitalmedievalist.org/wiki/
 > Twitter: http://twitter.com/digitalmedieval
-> Facebook: http://www.facebook.com/group.php?gid=49320313760
+> Facebook: http://www.facebook.com/group.php?gidI320313760
 _redacted_(a)uleth.ca
-> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l-- 
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+-- 
 ---
 Daniel Paul O'Donnell
 Professor of English
 University of Lethbridge
 Lethbridge AB T1K 3M4
-Canada+1 403 393-2539
---===============8034940360618172458==
-Content-Type: text/html
+Canada
+
++1 403 393-2539
+
+
+
+--8034940360618172458Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWw+CiAgPGhlYWQ+CiAgICA8bWV0YSBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9VVRG
+Content-Disposition: attachment; filenameúttachment.html"
+MIME-Version: 1.0
+
+PGh0bWw+CiAgPGhlYWQ+CiAgICA8bWV0YSBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9VVRG
 LTgiIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSI+CiAgPC9oZWFkPgogIDxib2R5IGJnY29sb3I9
 IiNGRkZGRkYiIHRleHQ9IiMwMDAwMDAiPgogICAgTGV0IG1lIHNlY29uZCBQZXRlcidzIHBvaW50
 cyBoZXJlLCBlc3BlY2lhbGx5IGFib3V0IHRoZSBzY2FuZGFsb3VzbHkKICAgIHVuZGVydXNlZCBh
@@ -496,4 +515,5 @@ L2xpc3RpbmZvL2RtLWw8L2E+PC9wcmU+CiAgICA8L2Jsb2NrcXVvdGU+CiAgICA8YnI+CiAgICA8
 cHJlIGNsYXNzPSJtb3otc2lnbmF0dXJlIiBjb2xzPSI3MiI+LS0gCi0tLSAKRGFuaWVsIFBhdWwg
 TydEb25uZWxsClByb2Zlc3NvciBvZiBFbmdsaXNoClVuaXZlcnNpdHkgb2YgTGV0aGJyaWRnZQpM
 ZXRoYnJpZGdlIEFCIFQxSyAzTTQKQ2FuYWRhCgorMSA0MDMgMzkzLTI1Mzk8L3ByZT4KICA8L2Jv
-ZHk+CjwvaHRtbD4K
+ZHk+CjwvaHRtbD4K
+

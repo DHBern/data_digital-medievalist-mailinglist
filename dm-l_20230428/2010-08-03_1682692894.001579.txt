@@ -1,46 +1,43 @@
-Subject: Re: [dm-l] Question about preservation of digital contentHi Daniel,=20I have been haunting this listserv for six years now, and this is one questio=
-n that I can help answer!=20I am the digital initiatives coordinator at a special collections library, an=
-d the field and theory of digital preservation is changing rapidly.Terms you'll want to define and liberally use in your article include, but ar=
-e not limited to:Bitstream copying: this is what you do when you back up your files onto an ex=
-ternal hard drive; bitstream copying is the most basic level of digital prese=
-rvation, and although it is necessary, it misses a lot about information itse=
-lf.=20-Digital sustainability: incorporates a number of actions intended to preserv=
-e digital artifacts to be accessible to an nth year.  The best rule of thumb =
-I've heard someone use is 10 years: "If I create this JPEG now, will its form=
-at be sustainable and readable ten years from now?" =20-Digital encapsulation: this refers to two things, the digital artifact itsel=
-f and its descriptive information. For instance, what good is a JPEG image of=
- a cuneiform tablet if there is no descriptive information--metadata--attache=
-d to it?  Encapsulation is the idea that information must always accompany th=
-e item.  (In addition encapsulation includes preservation metadata, which tra=
-cks file integrity information (like checksums).=20-Migration: implies copying information from one technology to another; this =
-copying includes both the digital artifact itself and any metadata attached t=
-o it. =20
--Emulation: If you have that doc file, and you need a system that reads it, y=
-ou eventually will find an emulator to be useful. Emulation provides a simula=
-crum of a digital object's original software environment, which not only allo=
-ws access to the file, but it also preserves the original digital experience.=
- Emulation and migration are often discussed as oppositional ideas, but they =
-both play an important role in digital preservation.-Standards and normalization, consistency: Standards are key to good digital =
-preservation strategy.  Normalization is the dedicated adherence to those sta=
-ndards.  Consistency is always key to digital repositories and their preserva=
-tion.
-This will get you started. I'd recommend taking a listen to the new(ish) Libr=
-ary of Congress digital preservation podcast series: http://www.loc.gov/podca=
-sts/digitalpreservation/index.html=20Best of luck.=20
+Subject: Re: [dm-l] Question about preservation of digital content
+
+Hi Daniel, 
+
+I have been haunting this listserv for six years now, and this is one question that I can help answer! 
+
+I am the digital initiatives coordinator at a special collections library, and the field and theory of digital preservation is changing rapidly.
+
+Terms you'll want to define and liberally use in your article include, but are not limited to:
+
+Bitstream copying: this is what you do when you back up your files onto an external hard drive; bitstream copying is the most basic level of digital preservation, and although it is necessary, it misses a lot about information itself. 
+
+-Digital sustainability: incorporates a number of actions intended to preserve digital artifacts to be accessible to an nth year.  The best rule of thumb I've heard someone use is 10 years: "If I create this JPEG now, will its format be sustainable and readable ten years from now?"  
+
+-Digital encapsulation: this refers to two things, the digital artifact itself and its descriptive information. For instance, what good is a JPEG image of a cuneiform tablet if there is no descriptive information--metadata--attached to it?  Encapsulation is the idea that information must always accompany the item.  (In addition encapsulation includes preservation metadata, which tracks file integrity information (like checksums). 
+
+-Migration: implies copying information from one technology to another; this copying includes both the digital artifact itself and any metadata attached to it.  
+
+-Emulation: If you have that doc file, and you need a system that reads it, you eventually will find an emulator to be useful. Emulation provides a simulacrum of a digital object's original software environment, which not only allows access to the file, but it also preserves the original digital experience. Emulation and migration are often discussed as oppositional ideas, but they both play an important role in digital preservation.
+
+-Standards and normalization, consistency: Standards are key to good digital preservation strategy.  Normalization is the dedicated adherence to those standards.  Consistency is always key to digital repositories and their preservation.
+
+This will get you started. I'd recommend taking a listen to the new(ish) Library of Congress digital preservation podcast series: http://www.loc.gov/podcasts/digitalpreservation/index.html 
+
+Best of luck. 
 Best,
-Ana Krahmer    Dear Digital Medievalists and TEI members,
+Ana Krahmer
+
+
+
+    Dear Digital Medievalists and TEI members,
 >>
 >>
 >>     I have a question about preservation of digital content
 >>     especially medieval manuscripts. I am writing a small article on
 >>     the topic and I have consulted a lot sources (papers, handbooks)
->>     but most of them do not say anything about the =E2=80=9Clife span=E2=
-=80=9D of the
->>     data in specific formats. To clarify this =E2=80=93 a .doc file crated=
- in
+>>     but most of them do not say anything about the “life span” of the
+>>     data in specific formats. To clarify this – a .doc file crated in
 >>     1995. Will be most likely unreadable  in 2010.  What about other
->>     formats? Has anyone done some research on =E2=80=9Clife span=E2=80=9D =
-of a
+>>     formats? Has anyone done some research on “life span” of a
 >>     specific version of digital formats and when it becomes clear
 >>     that the new version and the old one are not compatible anymore?
 >>     And here I am talking about pdf, rtf, doc (and all office files),
@@ -63,10 +60,13 @@ of a
 >>
 >>     Thank you in advance
 >>
->>     Daniel Mondekar
+>>     Daniel Mondekar
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~
-"Is this really the time for Donkey Kong?"=20
-~~Buffy,=20
+"Is this really the time for Donkey Kong?" 
+~~Buffy, 
 "Buffy the Vampire Slayer"
-~~~~~~~~~~~~~~~~~~~~~~~~~
---===============4987387475407081320==--
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+--4987387475407081320-
+

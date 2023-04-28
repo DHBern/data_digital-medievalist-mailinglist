@@ -1,9 +1,15 @@
-Subject: Re: [dm-l] Character reference conversions: help?Hello Dan,You may use my Open XML Editor ("http://www.philo.de/xmledit/") to 
+Subject: Re: [dm-l] Character reference conversions: help?
+
+Hello Dan,
+
+You may use my Open XML Editor ("http://www.philo.de/xmledit/") to 
 transcode XML documents from UCS-4 to UTF-8.  The editor currently supports 
 a couple of input formats, but only UTF-8 as output format.  Loading the 
 document and using the "save as ..." function should do the job.  Be 
 careful: just saving the document will replace the original with a UTF-8 
-version.Note also that this is not a simple character by character 
+version.
+
+Note also that this is not a simple character by character 
 transformation.  Instead, a model of the XML document is internally built 
 and this model is then serialized.  This implies that
 - the transformation might not work if the input XML document is not 
@@ -12,11 +18,19 @@ wellformed,
 particular: whitespace between markup in the XML prolog, i.e. before the 
 first tag, is normalized to line breaks, empty elements are expanded, e.g. 
 <foo/> becomes <foo></foo>, and character references are expanded),
-- external entities are not transcoded.A step-by-step explanation in German how the transformation from UCS-4 into 
+- external entities are not transcoded.
+
+A step-by-step explanation in German how the transformation from UCS-4 into 
 UTF-8 works is included in my draft about "Zahlen- und Zeichencodierung", 
 available at "http://philo.de/lv/multimedia/codierung.html".  Non-German 
 speakers may find some useful links to English Web-pages about this topic 
-there as well.Dieter KöhlerAt 12:53 05.10.2004 -0600, Daniel O'Donnell wrote:
+there as well.
+
+Dieter Köhler
+
+
+
+At 12:53 05.10.2004 -0600, Daniel O'Donnell wrote:
 >Digital Medievalist Journal (Inaugural Issue Fall 2004). Call for papers: 
 >http://www.digitalmedievalist.org/cfp.htm
 >----------------
@@ -49,5 +63,9 @@ _redacted_(a)uleth.ca>
 >Project web site: http://www.digitalmedievalist.org/
 >dm-l mailing list
 _redacted_(a)uleth.ca
->http://listserv.uleth.ca/mailman/listinfo/dm-l
---===============6358556283177294900==--
+>http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+
+
+--6358556283177294900-
+

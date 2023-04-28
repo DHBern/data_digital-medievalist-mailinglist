@@ -1,7 +1,8 @@
-Subject: Re: [dm-l] what xslt can't do..?Peter Robinson wrote:
-> The Digital Medievalist List (see end of message for contact information an=
-d project URLs).
->=20
+Subject: Re: [dm-l] what xslt can't do..?
+
+Peter Robinson wrote:
+> The Digital Medievalist List (see end of message for contact information and project URLs).
+> 
 > ----------------------------------
 > Peter (Binkley) has already pointed out the problems with the XSLT
 > approach he took.
@@ -13,23 +14,33 @@ d project URLs).
 > to create
 > the node sets for ALL pages, just so you could extract the node set for
 > just one,
-> every time).Is this necessarily the case?  Couldn't you simply output these=20
-fragments as individual page files - so only having to do the process=20
-once?  I agree with you whole-heartedly that XSLT is problematic for=20
-choosing to display from one arbitrary point to another arbitrary point=20
-in the XML, but your points aren't arbitrary.  Page breaks will be the=20
-same each time, so I don't see the need to do this dynamically.  Store=20
-your full versions of Hengwrt, and also store files created for each=20
-page, searching the former, but displaying the latter.  Just because we=20
-*can* dynamically pull out a single page from the whole of a large XML=20
-file doesn't mean we *have* to.> I don't have a prejudice against XSLT, which seems a fine tool for doing
+> every time).
+
+Is this necessarily the case?  Couldn't you simply output these 
+fragments as individual page files - so only having to do the process 
+once?  I agree with you whole-heartedly that XSLT is problematic for 
+choosing to display from one arbitrary point to another arbitrary point 
+in the XML, but your points aren't arbitrary.  Page breaks will be the 
+same each time, so I don't see the need to do this dynamically.  Store 
+your full versions of Hengwrt, and also store files created for each 
+page, searching the former, but displaying the latter.  Just because we 
+*can* dynamically pull out a single page from the whole of a large XML 
+file doesn't mean we *have* to.
+
+> I don't have a prejudice against XSLT, which seems a fine tool for doing
 > most of the things one wants to do with XML.  But that does not mean it
 > can do *everything* equally easily (which is how this whole thread
 > started, with musings on its limits as a typesetting language).  Some
 > things certainly Anastasia does much easier, and that is no surprise -- it
 > was designed just for that.  She is open source.  Go look at her on
-> http://anastasia.sourceforge.netI'd of course encourage people to do so as well, Anastasia is a great=20
-tool and it is wonderful that it has been made open source.--=20
+> http://anastasia.sourceforge.net
+
+I'd of course encourage people to do so as well, Anastasia is a great 
+tool and it is wonderful that it has been made open source.
+
+-- 
 Dr James Cummings, Oxford Text Archive, University of Oxford
-James dot Cummings at oucs dot ox dot ac dot uk
---===============3836064540417992119==--
+James dot Cummings at oucs dot ox dot ac dot uk
+
+--3836064540417992119-
+

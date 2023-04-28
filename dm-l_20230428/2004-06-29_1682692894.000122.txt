@@ -1,10 +1,20 @@
-Subject: Re: [dm-l] palaeography and computingArianna:"can be described" meant "can be described using words and images," not 
+Subject: Re: [dm-l] palaeography and computing
+
+Arianna:
+
+"can be described" meant "can be described using words and images," not 
 "can be described using special-purpose tags." The thing that would be 
 most helpful, actually, is a universally accepted "controlled 
 vocabulary" for paleographic description, either verbal or in terms of 
 graphical metrics (or ideally both), on which we could build descriptive 
 structures in XML or whatever. I don't think paleographers are close to 
-having that.MurrayArianna Ciula wrote:>So, when you say
+having that.
+
+Murray
+
+Arianna Ciula wrote:
+
+>So, when you say
 >"where each glyph used in the manuscript 
 >including ligatures or junctures (sorted by hand and script) can be 
 >described, linked to a typical image or more and a transcription and 
@@ -14,4 +24,7 @@ having that.MurrayArianna Ciula wrote:>So, when you say
 >described"? 
 >
 >  
->
+>
+
+
+

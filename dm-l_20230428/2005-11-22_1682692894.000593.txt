@@ -1,4 +1,6 @@
-Subject: RE: [dm-l] re: Relational database and TEIThank you Peter, 
+Subject: RE: [dm-l] re: Relational database and TEI
+
+Thank you Peter, 
 This is very useful indeed, and yes, I did have a look at eXist, but not
 sure I'd be prepared to use this software for the project without
 specific technical support.
@@ -14,15 +16,31 @@ for Web access on the university SQL server. I am some how hesitant
 about using  Access as it does not seem to have any flexibility in
 exporting the data, a part from SQL and XML. FileMaker Pro 8 seems to
 have more flexibility at this hand exporting in PDF, SQL, XML and excel.
-A similar method was used by the PASE project, I think.I am digressing here, anyway, we would still want to export the data in
+A similar method was used by the PASE project, I think.
+
+I am digressing here, anyway, we would still want to export the data in
 XML and clearly there are standards which may not be ignored. Thus my
 question relating to a possible correlation between TEI and relational
-databases. I look forward to the West Midland Catalogue. All the best,Orietta
-_________________________________redacted_(a)uleth.ca] On Behalf Of
+databases. 
+
+I look forward to the West Midland Catalogue.
+
+ 
+
+All the best,
+
+Orietta
+
+
+
+________________________________
+
+_redacted_(a)uleth.ca] On Behalf Of
 Peter Robinson
 Sent: 22 November 2005 15:33
 _redacted_(a)uleth.ca
-Subject: [dm-l] re: Relational database and TEI
+Subject: [dm-l] re: Relational database and TEI
+
 In fact, this is not quite what Scriptorium does.  Scriptorium was
 actually originally built as a relational database, using Access indeed,
 and I believe that this is still what it is, at base.  The Scriptorium
@@ -58,21 +76,46 @@ Scase's West Midland Manuscripts project is also  coming your way,
 again, done with Anastasia.  This is
 http://www.sd-editions.com/AnaServer?MWM+0+start.anv.  This website is
 currently being updated and should look much nicer in a few days.  But
-what is here, gives some idea of what can be doneall the best
-Peter
-***original messageDear all, Does anybody know about electronic manuscript projects which are
+what is here, gives some idea of what can be done
+
+all the best
+Peter
+
+***original message
+
+Dear all, 
+
+Does anybody know about electronic manuscript projects which are
 using/have used relational databases following the TEI guidelines for
-'Manuscript description'?Scriptorium seems to have done it, any other similar project? If so, do
-you know of any related publication?I'd be very grateful for any advice, pitfall etc.Best wishes, OriettaDr Orietta Da Rold
+'Manuscript description'?
+
+Scriptorium seems to have done it, any other similar project? If so, do
+you know of any related publication?
+
+I'd be very grateful for any advice, pitfall etc.
+
+Best wishes, 
+
+Orietta
+
+Dr Orietta Da Rold
 Research Fellow
 English Department
 University of Leicester
 University Road
-LE1 7RHTel. +44 (0)116 252 2778
+LE1 7RH
+
+Tel. +44 (0)116 252 2778
 e-mail: odr1 at le.ac.uk
-<http://listserv.uleth.ca/mailman/listinfo/dm-l> The Production and Use of English Manuscripts
+<http://listserv.uleth.ca/mailman/listinfo/dm-l> 
+
+The Production and Use of English Manuscripts
 http://www.le.ac.uk/ee/em1060to1220/index.htm
-<http://www.le.ac.uk/ee/em1060to1220/index.htm> PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMCBUcmFuc2l0aW9uYWwv
+<http://www.le.ac.uk/ee/em1060to1220/index.htm> 
+
+
+
+PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMCBUcmFuc2l0aW9uYWwv
 L0VOIj4KPEhUTUw+PEhFQUQ+CjxNRVRBIGh0dHAtZXF1aXY9Q29udGVudC1UeXBlIGNvbnRlbnQ9
 InRleHQvaHRtbDsgY2hhcnNldD11cy1hc2NpaSI+CjxNRVRBIGNvbnRlbnQ9Ik1TSFRNTCA2LjAw
 LjI5MDAuMjc2OSIgbmFtZT1HRU5FUkFUT1I+PC9IRUFEPgo8Qk9EWSAKc3R5bGU9IldPUkQtV1JB
@@ -268,4 +311,5 @@ IApocmVmPSJodHRwOi8vd3d3LmxlLmFjLnVrL2VlL2VtMTA2MHRvMTIyMC9pbmRleC5odG0iPjxG
 T05UIApjbGFzcz1BcHBsZS1zdHlsZS1zcGFuIGZhY2U9Q291cmllciBzaXplPTM+PFNQQU4gY2xh
 c3M9QXBwbGUtc3R5bGUtc3BhbiAKc3R5bGU9IkZPTlQtU0laRTogMTNweCI+aHR0cDovL3d3dy5s
 ZS5hYy51ay9lZS9lbTEwNjB0bzEyMjAvaW5kZXguaHRtPC9TUEFOPjwvRk9OVD48L0E+PC9ESVY+
-PC9CT0RZPjwvSFRNTD4K
+PC9CT0RZPjwvSFRNTD4K
+

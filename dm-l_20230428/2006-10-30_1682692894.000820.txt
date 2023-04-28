@@ -1,14 +1,25 @@
-Subject: Re: [dm-l] Access or ExcelHI Abdullah,You said 'data crunching'. It looks like I should interpret that as
+Subject: Re: [dm-l] Access or Excel
+
+HI Abdullah,
+
+You said 'data crunching'. It looks like I should interpret that as
 'counting and computing numbers'. If so, stick to Excel. Access is a
 database. Databases are about describing/modeling, categorising, searching
 and selecting data. Spreadsheets are the things of use if you actually want
-to count things and apply statistics.That said, you could do it in Access - but it would take a considerable
+to count things and apply statistics.
+
+That said, you could do it in Access - but it would take a considerable
 amount of additional VBA-scripting to get Access to count your phenomena
 properly. Excel should provide standard functions and solutions in most
-cases.If you're talking about really vast amounts of data, consider using more
-advanced statistical tools like SPSS or Stata.Hope this helps,
+cases.
+
+If you're talking about really vast amounts of data, consider using more
+advanced statistical tools like SPSS or Stata.
+
+Hope this helps,
 y.s.,
-Joris van Zundert
+Joris van Zundert
+
 _redacted_(a)postgrad.manchester.ac.uk>
 wrote:
 >
@@ -53,11 +64,23 @@ _redacted_(a)uleth.ca
 > dm-l mailing list
 _redacted_(a)uleth.ca
 > http://listserv.uleth.ca/mailman/listinfo/dm-l
->-- 
+>
+
+
+
+-- 
 Mr. Joris J. van Zundert (MA)
 Huygens Institute
-Royal Academy of Arts and SciencesContact information can be found at http://www.brandaen.orgA disclaimer is applicable to this e-mail, please refer to
-http://www.brandaen.org/emaildisclaimer for more informationSEkgQWJkdWxsYWgsPGJyPjxicj5Zb3Ugc2FpZCAnZGF0YSBjcnVuY2hpbmcnLiBJdCBsb29rcyBs
+Royal Academy of Arts and Sciences
+
+Contact information can be found at http://www.brandaen.org
+
+A disclaimer is applicable to this e-mail, please refer to
+http://www.brandaen.org/emaildisclaimer for more information
+
+
+
+SEkgQWJkdWxsYWgsPGJyPjxicj5Zb3Ugc2FpZCAnZGF0YSBjcnVuY2hpbmcnLiBJdCBsb29rcyBs
 aWtlIEkgc2hvdWxkIGludGVycHJldCB0aGF0IGFzICdjb3VudGluZyBhbmQgY29tcHV0aW5nIG51
 bWJlcnMnLiBJZiBzbywgc3RpY2sgdG8gRXhjZWwuIEFjY2VzcyBpcyBhIGRhdGFiYXNlLiBEYXRh
 YmFzZXMgYXJlIGFib3V0IGRlc2NyaWJpbmcvbW9kZWxpbmcsIGNhdGVnb3Jpc2luZywgc2VhcmNo
@@ -121,4 +144,5 @@ bWF0aW9uIGNhbiBiZSBmb3VuZCBhdCA8YSBocmVmPSJodHRwOi8vd3d3LmJyYW5kYWVuLm9yZyI+
 aHR0cDovL3d3dy5icmFuZGFlbi5vcmc8L2E+PGJyPjxicj5BIGRpc2NsYWltZXIgaXMgYXBwbGlj
 YWJsZSB0byB0aGlzIGUtbWFpbCwgcGxlYXNlIHJlZmVyIHRvIDxhIGhyZWY9Imh0dHA6Ly93d3cu
 YnJhbmRhZW4ub3JnL2VtYWlsZGlzY2xhaW1lciI+Cmh0dHA6Ly93d3cuYnJhbmRhZW4ub3JnL2Vt
-YWlsZGlzY2xhaW1lcjwvYT4gZm9yIG1vcmUgaW5mb3JtYXRpb24K
+YWlsZGlzY2xhaW1lcjwvYT4gZm9yIG1vcmUgaW5mb3JtYXRpb24K
+

@@ -1,37 +1,55 @@
-Subject: [dm-l] TEI Workshops @ KalamazooThe Medieval Academy of America Committee on Electronic Resources is
+Subject: [dm-l] TEI Workshops @ Kalamazoo
+
+The Medieval Academy of America Committee on Electronic Resources is
 pleased to announce two TEI workshops to be held at the International
 Medieval Congress, Kalamazoo, MI, in May 2007. Both workshops will be
 on Thursday, May 10 (sessions 32 and 138; see
 http://www.wmich.edu/medieval/congress/sessions.html for complete
-conference schedule).1) XML and the Text Encoding Initiative Workshop I: Introduction to TEI Encod=
-ingThis workshop offers an introduction to best practices for digital
+conference schedule).
+
+1) XML and the Text Encoding Initiative Workshop I: Introduction to TEI Encoding
+
+This workshop offers an introduction to best practices for digital
 scholarship, taught by a
 medievalist, James C. Cummings, specifically for medievalists.
 Instruction includes introductory-level XML and structural encoding,
 as well as new TEI P5 standards and guidelines, markup concerns for
 medieval transcription, and a brief consideration of XML Editors.
-Assignments will be completed during the following clinic.2) XML and the Text Encoding Initiative Workshop II: Advanced TEI Encoding and
-CustomizationThis workshop offers advanced instruction in advanced topics in TEI encoding =
-and
+Assignments will be completed during the following clinic.
+
+2) XML and the Text Encoding Initiative Workshop II: Advanced TEI Encoding and
+Customization
+
+This workshop offers advanced instruction in advanced topics in TEI encoding and
 the customization of the TEI for an individual project's needs, taught
 by a medievalist,
-James C. Cummings, specifically for medievalists. Instruction includes metada=
-ta
+James C. Cummings, specifically for medievalists. Instruction includes metadata
 for medieval manuscript description, advanced-level concepts of TEI P5
 modularization, schema generation and customization for individual
 projects, and a
 brief survey of related technologies. Assignments will be completed during the
-following clinic.Dr. Cummings works for the Oxford Text Archive, University of Oxford.
+following clinic.
+
+Dr. Cummings works for the Oxford Text Archive, University of Oxford.
 He holds a PhD from the University of Leeds, and he has extensive
-experience leading TEI workshops.Both workshops are limited to 14 participants, and registration is required.The fee *per workshop* is $45/$60 (Medieval Academy
+experience leading TEI workshops.
+
+Both workshops are limited to 14 participants, and registration is required.
+
+The fee *per workshop* is $45/$60 (Medieval Academy
 members/nonmembers) for pre-registration, $55/$70 for walk-ins
-(pending available space).Please send contact information and a check payable to Medieval
-Academy of America c/oDorothy Carr Porter
+(pending available space).
+
+Please send contact information and a check payable to Medieval
+Academy of America c/o
+
+Dorothy Carr Porter
 RCH
 351/352 William T. Young Library
 Univ. of Kentucky
-Lexington, KY 40506-0456.
---=20
+Lexington, KY 40506-0456.
+
+-- 
 ***************************************
 Dot Porter, University of Kentucky
 #####
@@ -42,5 +60,7 @@ _redacted_(a)uky.edu          859-257-9549
 Editorial Assistant, REVEAL Project
 Center for Visualization and Virtual Environments
 _redacted_(a)vis.uky.edu
-***************************************
---===============6634007290541498464==--
+***************************************
+
+--6634007290541498464-
+

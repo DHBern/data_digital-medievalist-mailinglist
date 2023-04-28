@@ -1,4 +1,8 @@
-Subject: [dm-l] TEI Text and Graphics SIG: Announcement and Meeting[excuse cross posting, and forward at will]The Text and Graphics special interest group of the Text Encoding
+Subject: [dm-l] TEI Text and Graphics SIG: Announcement and Meeting
+
+[excuse cross posting, and forward at will]
+
+The Text and Graphics special interest group of the Text Encoding
 Initiative will be convening during the TEI Member's Meeting in
 November. The TEI Guidelines are used to encode many diverse,
 graphically rich documents, including illuminated manuscripts,
@@ -7,20 +11,32 @@ and graphic novels, and so on.  These types of graphically rich
 documents present special concerns, considerations, and challenges,
 both conceptually at the encoding level and technically at the
 transformation, presentation, and publishing layers of digital
-document development.The purpose of this SIG will be to discuss, develop, and document
+document development.
+
+The purpose of this SIG will be to discuss, develop, and document
 various strategies and best practices for implementing the digital
 facsimile structures available in TEI P5, especially as relates
 tovgraphically rich texts, and for developing methods to extend the
-TEI when existing structures are not suitable.We are organizing a session of graphics-focused papers for the
+TEI when existing structures are not suitable.
+
+We are organizing a session of graphics-focused papers for the
 member's meeting as well. If you would like to participate, please
 _redacted_(a)uky.edu> by April 25. Details about the
 member's meeting at
-http://www.cch.kcl.ac.uk/cocoon/tei2008/index.html.Discussions leading up to the meeting in November will be held on the
+http://www.cch.kcl.ac.uk/cocoon/tei2008/index.html.
+
+Discussions leading up to the meeting in November will be held on the
 SIG listserv. To join the listserv, visit
-http://listserv.brown.edu/?A0=TEI-GRAPHICS-SIG.The Text & Graphics SIG wiki page can be found at
-http://www.tei-c.org/wiki/index.php/SIG:Text%26Graphic.Thank you,
+http://listserv.brown.edu/?A0þI-GRAPHICS-SIG.
+
+The Text & Graphics SIG wiki page can be found at
+http://www.tei-c.org/wiki/index.php/SIG:Text%26Graphic.
+
+Thank you,
 John Walsh and Dot Porter
-T&G SIG Conveners --
+T&G SIG Conveners
+
+ --
  ***************************************
  Dot Porter, University of Kentucky
  #####
@@ -30,7 +46,11 @@ T&G SIG Conveners --
  Center for Visualization and Virtual Environments
  http://www.vis.uky.edu
 _redacted_(a)uky.edu 859-257-1257 x.82115
- ***************************************-- 
+ ***************************************
+
+
+
+-- 
 ***************************************
 Dot Porter, University of Kentucky
 #####
@@ -40,5 +60,7 @@ http://www.rch.uky.edu
 Center for Visualization and Virtual Environments
 http://www.vis.uky.edu
 _redacted_(a)uky.edu 859-257-1257 x.82115
-***************************************
---===============3719090641416801097==--
+***************************************
+
+--3719090641416801097-
+

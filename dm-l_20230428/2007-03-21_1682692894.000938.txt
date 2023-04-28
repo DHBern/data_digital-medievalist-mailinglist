@@ -1,4 +1,6 @@
-Subject: Re: [dm-l] Electronic scholarship, Peer Review and TenureFirst of all, do you know of the MLA report on the topic (in part):
+Subject: Re: [dm-l] Electronic scholarship, Peer Review and Tenure
+
+First of all, do you know of the MLA report on the topic (in part):
 http://www.mla.org/pdf/task_force_tenure_promotio.pdf. There was also a
 discussion of the issue about a month or so ago on humanist-l. And at
 the TEI members meeting last October in Victoria, Stephen Ramsay at the
@@ -7,13 +9,19 @@ his new contract in the Digital Humanities there. I'm in the beginning
 stages of building a bibliography on the issue (the *very* beginning
 stages) so don't have as much to hand as I'd like. But if you troll
 Google looking for tenure and electronic resources you come up with some
-gems under all the rubbish.There are basically two questions in my view: venue and what is
-appropriate work.=20Although I think you are right about electronic journals not really
+gems under all the rubbish.
+
+There are basically two questions in my view: venue and what is
+appropriate work. 
+
+Although I think you are right about electronic journals not really
 being an issue, the MLA report a depressing bias against them in tenure
 committees in the US. But that will change. A bigger problem in my mind
 are the novel forms of publication: self-publication by large and
 not-so-large electronic projects, publication in novel types of fora,
-such as Wikis, and novel types of work, such as information management.Self-publishing is now extremely common for large electronic
+such as Wikis, and novel types of work, such as information management.
+
+Self-publishing is now extremely common for large electronic
 projects--in fact it is the dominant mode, I'd say. Abdullah is right
 that many of these have a board as a kind of day-to-day check on their
 scholarship, but that is still not a check on large scale questions: by
@@ -21,16 +29,20 @@ definition, board members believe in the overall aims and approach of
 the project and they are not going to reject a project as unworkable or
 not very useful the way a grant reader might. On the other hand, this
 situation is not unprecedented: the same issue exists with really large
-print projects that have been commissioned by presses.=20I suppose for the really large projects, funding is evidence that they
+print projects that have been commissioned by presses. 
+
+I suppose for the really large projects, funding is evidence that they
 have been vetted at a fundamental level. But I am reluctant to allow
 granting agencies to become the gatekeepers: some projects just don't
-apply for funding (my edition of C=C3=A6dmon's Hymn was funded by odds and
+apply for funding (my edition of Cædmon's Hymn was funded by odds and
 ends but refereed the traditional way by a press), and the funding
 agencies themselves are having trouble with the whole peer-review
 process: the NEH has recently given up asking for outside opinion in
 competitions for documentary editions (a group of projects that fit
 exactly into this category of "large self-published electronic
-projects").I am also not all that sure that boards are really an absolute sine qua
+projects").
+
+I am also not all that sure that boards are really an absolute sine qua
 non certification either: first of all, they are not peer-reviewers in
 the way that the Canadian Social Science and Humanities Research Council
 (at least) defines them: arms-length reviewers who do not have a close
@@ -40,22 +52,27 @@ supposed to do. One board might review material very differently from
 another, and we'd never know. And sometimes the granting agencies don't
 like them. On our last application for funding for one project, we were
 asked to remove their expenses because the readers thought it looked
-like a sinecure.Material published in participatory projects like the wikipedia is by
+like a sinecure.
+
+Material published in participatory projects like the wikipedia is by
 and large unrefereed even when it is refereed: I have a featured article
-in the wikipedia on C=C3=A6dmon. It is "peer-reviewed" in the Wikipedia's
+in the wikipedia on Cædmon. It is "peer-reviewed" in the Wikipedia's
 sense of the term, but "peer-reviewed" in their sense is not the same as
 ours: I'd describe it more as very vigorous copy editing by amateurs of
 unequal skill. I'm about to argue in Heroic Age that we need to see
 contributions to things like the Wikipedia as a different order of
 professional activity--more like the pro bono work of lawyers rather
 than billable hours (a draft of the article is here:
-http://people.uleth.ca/~daniel.odonnell/Research/if-i-were-you-how-academics-=
-can-stop-worrying-and-learn-to-love-the-encyclopedia-that-anyone-can-editI think that participation in such projects actually should be rewarded:
+http://people.uleth.ca/~daniel.odonnell/Research/if-i-were-you-how-academics-can-stop-worrying-and-learn-to-love-the-encyclopedia-that-anyone-can-edit
+
+I think that participation in such projects actually should be rewarded:
 it is extremely important to our professional survival, in my opinion,
 that we take this work seriously and help improve it. But by and large
 this kind of work shouldn't be exclusive: unless somebody's research
 programme focusses on the participatory web, I'd say this is like
-encyclopedia work or lectures--good evidence of basic activity.The nature of the activity is also an interesting question: in print, we
+encyclopedia work or lectures--good evidence of basic activity.
+
+The nature of the activity is also an interesting question: in print, we
 basically write content and give it to somebody else to format--or let
 Word do it. The thing we are judged on is the content; in good digital
 work, information design and management is often half the battle.
@@ -63,88 +80,83 @@ Marking up a structurally encoded edition is not the same as
 typesetting: there are significant intellectual decisions to be made. It
 took me six months work to figure out what an apparatus was in
 structural and database terms before I could properly encode the
-apparatus in my edition of C=C3=A6dmon's Hymn, for example, and projects face
-many of these decisions--usually smaller--on a daily basis.Fortunately there are increasingly fora for publishing the results of
+apparatus in my edition of Cædmon's Hymn, for example, and projects face
+many of these decisions--usually smaller--on a daily basis.
+
+Fortunately there are increasingly fora for publishing the results of
 this kind of research--DM was set up precisely to provide one--but there
 are people who tend to specialise in this hidden kind of work in much
 the same way you have experimental scientists who build the machines for
 others' experiments. If I understood Stephen Ramsey's talk aright, his
 contract includes a system for reviewing and rewarding this kind of
 work. But it is still uncommon. Maybe we need to look more at how the
-experimental scientists and computer scientists do it.So what do you do if you are faced with Jerome McGann's Rossetti
+experimental scientists and computer scientists do it.
+
+So what do you do if you are faced with Jerome McGann's Rossetti
 Archive? I guess it has to be evaluated on its own terms--maybe for
 important career milestones departments need to bring in their own
-reviewers.
--danOn Wed, 2007-03-21 at 09:56 +0000, Abdullah Alger wrote:
+reviewers.
+
+-dan
+
+On Wed, 2007-03-21 at 09:56 +0000, Abdullah Alger wrote:
 > I think something similar came up in a discussion on the list some time ago
 > having to do with wikipedia.  I know that Dan has posted an entry on Caedmon
-> there, but I am not sure about any 'academic' regulators going out and look=
-ing
+> there, but I am not sure about any 'academic' regulators going out and looking
 > at the quality of any electronic publication - unless it is peer reviewed.
->=20
-> TEI should have something to say about this. (http://www.tei-c.org/)=20
+> 
+> TEI should have something to say about this. (http://www.tei-c.org/) 
 > Dan is the
 > one to talk to .  However, the TEI guidelines are a good place to start, I
 > think.
->=20
+> 
 > However, for academic quality, I don't know if there any people going out of
 > their way to assess the quality of websites.  I am an Anglo-Saxonist, and I
-> know that there are many websites about the subject.  Some people stick to =
-the
-> reliable ones by know academics.  For example, there is one by Simon Keynes=
-, a
-> prominent historian from Cambridge, but many of the links he provides to ot=
-her
-> pages don't work.  Also, there are many sites which have electronic texts a=
-nd
+> know that there are many websites about the subject.  Some people stick to the
+> reliable ones by know academics.  For example, there is one by Simon Keynes, a
+> prominent historian from Cambridge, but many of the links he provides to other
+> pages don't work.  Also, there are many sites which have electronic texts and
 > study guides, like Peter Baker's Old English website, which is basically a
 > digital version of his book for free.
->=20
+> 
 > I tend to think that electronic projects, compared to traditional ones, are
 > sometimes looked down upon simply because many people are not computer
-> literate, or they do not have enough resources in their departments to do t=
-he
-> project well.  I do think, though, that electronic projects are becoming mo=
-re
-> collaborative due to the expertise of others, the costs, and the=20
+> literate, or they do not have enough resources in their departments to do the
+> project well.  I do think, though, that electronic projects are becoming more
+> collaborative due to the expertise of others, the costs, and the 
 > prestige.  For
-> example, we have a 3/4 million pound project at Manchester on medieval=20
+> example, we have a 3/4 million pound project at Manchester on medieval 
 > textiles
-> which is collaboration with Birmingham and Manchester Met., there is the PA=
-CE
-> project in London which is a collaboration with King's College and Cambridg=
-e,
+> which is collaboration with Birmingham and Manchester Met., there is the PACE
+> project in London which is a collaboration with King's College and Cambridge,
 > and the LangScapes project which is another King's College project, and the
 > 12th century manuscripts project with Leicester and Leeds universities.
->=20
+> 
 > I think that what also makes these projects 'accepted' by the scholarly
 > community is that many of them have an advisory board which is made of of a
 > number of academics from various universities.
->=20
+> 
 > I probably didn't answer any of your questions, but there you go.
->=20
+> 
 > Best,
 > Abdullah Alger
->=20
->=20
->=20
->=20
->=20
->=20
+> 
+> 
+> 
+> 
+> 
+> 
 _redacted_(a)slu.edu>:
->=20
+> 
 > > My dept has begun a review of tenure requirements and one of the questions
 > > posed is whether (or how) electronic scholarship could become part of the
 > > research components of our tenure requirements.  Peer review is the
 > > cornerstone of qualifying research production and so my colleagues are
 > > wondering if there are any established guidelines for peer review of
-> > web-based projects,  or stand alone applications, that are not published =
-by
-> > a traditional publisher.  The issue is NOT about e-journals which retain =
-the
+> > web-based projects,  or stand alone applications, that are not published by
+> > a traditional publisher.  The issue is NOT about e-journals which retain the
 > > standard peer review process, but rather projects or applications that do
-> > not normally go through standard scholarly evaluations (although they oft=
-en
+> > not normally go through standard scholarly evaluations (although they often
 > > undergo more severe critique by the Academy in an informal manner).
 > >
 > > Has anyone addressed this in their department or university?  I am simply
@@ -156,7 +168,7 @@ en
 > > Jim
 > >
 > >
-> > --=20
+> > -- 
 > > --------------------
 > > Dr James R. Ginther, PhD
 > > Assoc. Professor of Medieval Theology
@@ -171,10 +183,10 @@ _redacted_(a)slu.edu
 > > "Research is what I'm doing when I don't know what I'm doing."
 > > -Wernher von Braun
 > >
->=20
->=20
->=20
->=20
+> 
+> 
+> 
+> 
 > _______________________________________________
 > Digital Medievalist Project
 > Homepage: http://www.digitalmedievalist.org
@@ -187,14 +199,19 @@ _redacted_(a)uleth.ca
 > dm-l mailing list
 _redacted_(a)uleth.ca
 > http://listserv.uleth.ca/mailman/listinfo/dm-l
---=20
+-- 
 Daniel Paul O'Donnell, PhD
 Department Chair and Associate Professor of English
 Director, Digital Medievalist Project http://www.digitalmedievalist.org/
-Chair, Text Encoding Initiative http://www.tei-c.org/Department of English
+Chair, Text Encoding Initiative http://www.tei-c.org/
+
+Department of English
 University of Lethbridge
 Lethbridge AB T1K 3M4
 Vox +1 403 329-2377
 Fax +1 403 382-7191
 _redacted_(a)uleth.ca
-WWW: http://people.uleth.ca/~daniel.odonnell/
+WWW: http://people.uleth.ca/~daniel.odonnell/
+
+
+

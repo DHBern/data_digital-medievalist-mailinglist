@@ -1,15 +1,34 @@
-Subject: [dm-l] Workshop =?utf-8?q?=E2=80=9CHistorical?= Documents in theWorkshop =E2=80=9CHistorical Documents in the Digital Age=E2=80=9D, 25th-26th=
- October 2012
-=E2=80=93 University of Rouen <http://www.docexplore.eu/?p=3D328>*******************************************************CALL FOR PARTICIPATION / APPEL A PARTICIPATIONHistorical Documents in the Digital Age25th-26th october 2012 =E2=80=93 University of Rouenhttp://hdda2012.sciencesconf.org/*******************************************************(French version below / Version fran=C3=A7aise ci-dessous)**PurposeThe aim of the Workshop is to bring together those whose professional work
+Subject: [dm-l] Workshop tf-8?q?“Historical?
+Workshop “Historical Documents in the Digital Age”, 25th-26th October 2012
+– University of Rouen <http://www.docexplore.eu/?p=328>
+
+*******************************************************
+
+CALL FOR PARTICIPATION / APPEL A PARTICIPATION
+
+Historical Documents in the Digital Age
+
+25th-26th october 2012 – University of Rouen
+
+http://hdda2012.sciencesconf.org/
+
+*******************************************************
+
+(French version below / Version française ci-dessous)
+
+**Purpose
+
+The aim of the Workshop is to bring together those whose professional work
 involves the study of historical documents or who have a responsibility for
 increasing their accessibility, with technologists developing techniques to
 support the analysis and management of digital documents. The Workshop will
 encourage a greater understanding of how these two communities can work
 productively together and how crossing the traditional disciplinary
 boundaries can create opportunities for supporting better historical
-research while also increasing the general public =E2=80=98s awareness of the=
-ir
-rich cultural heritage.This workshop should be interesting for:
+research while also increasing the general public ‘s awareness of their
+rich cultural heritage.
+
+This workshop should be interesting for:
 * Historians and others interested in sharing their experiences of document
 analysis with scientists developing computer-based tools to support such
 activities.
@@ -19,128 +38,181 @@ research and detailed study, and the general public seeking to benefit from
 the rich cultural legacy embodied by such documents.
 * Scientists and engineers developing advanced technologies in areas such
 as image processing, pattern recognition and digital media engineering
-relevant to document analysis.The workshop will provide an opportunity for a diverse range of researchers
+relevant to document analysis.
+
+The workshop will provide an opportunity for a diverse range of researchers
 and other professionals, including end users, to share experiences and
 explore ideas at the crossroads of traditional disciplinary boundaries,
 otherwise barriers to rapid progress in improving the accessibility of
 documents which can contribute so fundamentally to an understanding of our
-cultural heritage.For each session of the workshop, we invited European specialists of the
+cultural heritage.
+
+For each session of the workshop, we invited European specialists of the
 field to share their experience of the domain, as an opening for an open
 debate with all attendants. The workshop is opened to all, we only require
 those wishing to attend to freely register on the website before October
 17th in order to manage the logistical constraints of the venue. The
 languages of the workshop will be French and English, with simultaneous
-translation provided.**Program
-Session 1 : La gestion des collections =C3=A0 l'=C3=A8re du num=C3=A9rique / =
-Libraries and
+translation provided.
+
+**Program
+Session 1 : La gestion des collections à l'ère du numérique / Libraries and
 archives in the Digital Age
  * Matthieu Bonicel, BNF, Paris
- * Jean-Fran=C3=A7ois Moufflet, Archives de France, Paris
- * Alixe Bovey, CMEMS, University of Kent or Cressida Williams, CCASession 2 : Des outils informatiques pour transcrire et indexer / Digital
+ * Jean-François Moufflet, Archives de France, Paris
+ * Alixe Bovey, CMEMS, University of Kent or Cressida Williams, CCA
+
+Session 2 : Des outils informatiques pour transcrire et indexer / Digital
 tools for  annotating and indexing
  * Alison Wiggins, CELL, Glasgow
- * Mar=C3=A7al Rusinol, CVC, Barcelona
+ * Marçal Rusinol, CVC, Barcelona
  * Frank Lebourgeois, LIRIS, Lyon
- * St=C3=A9phane Nicolas, LITIS, RouenSession 3 : Pal=C3=A9ographie num=C3=A9rique / Digital paleography
+ * Stéphane Nicolas, LITIS, Rouen
+
+Session 3 : Paléographie numérique / Digital paleography
  * Marc Smith, Ecole des Chartes
- * V=C3=A9ronique Eglin, LIRIS, Lyon
+ * Véronique Eglin, LIRIS, Lyon
  * Elisabeth Lalou, GRHIS, Rouen
- * Richard Guest, EDA, University of KentSession 4 : Les nouvelles modalit=C3=A9s pour la valorisation du patrimoine /
+ * Richard Guest, EDA, University of Kent
+
+Session 4 : Les nouvelles modalités pour la valorisation du patrimoine /
 ICT in Cultural Heritage
  * Clive Izard, British Library, London
  * Oliver Hitchcock, VirtuaSense, Rouen
  * Alexandre Chautemps, labo BnF, Paris
- * Clotilde Vaissaire-Agard, CF2IDSession 5: Les humanit=C3=A9s num=C3=A9riques: r=C3=A9alit=C3=A9 ou fiction ?=
- / Digital
+ * Clotilde Vaissaire-Agard, CF2ID
+
+Session 5: Les humanités numériques: réalité ou fiction ? / Digital
 Humanities: present and future
  * Dominique Stutzmann, IRHT, Paris
  * Melissa Terras, UCL, London
  * Alison Wiggins, CELL, Glasgow
- * discussion ouverte / round table**Registration
+ * discussion ouverte / round table
+
+**Registration
 The workshop is opened to all, we only require those wishing to attend to
 freely register on the website before October 17th in order to manage the
 logistical constraints of the venue. The languages of the workshop will be
-French and English, with simultaneous translation provided.**Organizing committeeThe workshop is organized by the InterReg IVa DocExplore project (
+French and English, with simultaneous translation provided.
+
+**Organizing committee
+
+The workshop is organized by the InterReg IVa DocExplore project (
 www.docexplore.eu <http://www.docexplore.eu/www.docexplore.eu>), a
 collaboration between computer scientists, historians and archivists, on
 both sides of the Channel, to build a software suite. This suite is aimed
 at both historians and librarians, providing transcription and multimedia
 annotation functionalities, from which interactive books can be produced to
-reach a broader audience._redacted_(a)sci=
-encesconf.org>*******************************************************APPEL =C3=80 PARTICIPATIONHistorical Documents in the Digital Age
-Documents historiques =C3=A0 l=E2=80=99=C3=A8re num=C3=A9rique25-26 octobre 2012 =E2=80=93 Universit=C3=A9 de Rouenhttp://hdda2012.sciencesconf.org/*********************************************************ProposComment plonger les documents historiques  dans l=E2=80=99=C3=A8re num=C3=A9r=
-ique ?Les photographier est une premi=C3=A8re =C3=A9tape non triviale mais claireme=
-nt
-insuffisante. Comment =C3=A0 partir des masses d=E2=80=99images ainsi produit=
-es obtenir
-des documents num=C3=A9riques ? Comment les annoter, les transcrire, analyser
-leur structure ? Comment g=C3=A9rer leur nombre, comment am=C3=A9liorer leur
-accessibilit=C3=A9 ?Le but du s=C3=A9minaire *Historical Documents in the Digital Age* est de fai=
-re
-un point entre historiens, conservateurs, biblioth=C3=A9caires, et
+reach a broader audience.
+
+_redacted_(a)sciencesconf.org>
+
+
+
+*******************************************************
+
+APPEL À PARTICIPATION
+
+Historical Documents in the Digital Age
+Documents historiques à l’ère numérique
+
+25-26 octobre 2012 – Université de Rouen
+
+http://hdda2012.sciencesconf.org/
+
+*******************************************************
+
+**Propos
+
+Comment plonger les documents historiques  dans l’ère numérique ?
+
+Les photographier est une première étape non triviale mais clairement
+insuffisante. Comment à partir des masses d’images ainsi produites obtenir
+des documents numériques ? Comment les annoter, les transcrire, analyser
+leur structure ? Comment gérer leur nombre, comment améliorer leur
+accessibilité ?
+
+Le but du séminaire *Historical Documents in the Digital Age* est de faire
+un point entre historiens, conservateurs, bibliothécaires, et
 informaticiens sur ces questions complexes. Pour ce faire, nous avons
-invit=C3=A9 diff=C3=A9rents sp=C3=A9cialistes europ=C3=A9ens de ces probl=C3=
-=A8mes =C3=A0 faire le bilan
-de leurs exp=C3=A9riences, d=E2=80=99une mani=C3=A8re accessible =C3=A0 tous.=
- Ces expos=C3=A9s seront
-un pr=C3=A9lude =C3=A0 des discussions th=C3=A9matiques que nous souhaitons f=
-ructueuses,
-confrontant les diff=C3=A9rentes perceptions des participants sur ces probl=
-=C3=A8mes
-communs.
-**ProgrammeSession 1 : La gestion des collections =C3=A0 l'=C3=A8re du num=C3=A9rique / =
-Libraries and
+invité différents spécialistes européens de ces problèmes à faire le bilan
+de leurs expériences, d’une manière accessible à tous. Ces exposés seront
+un prélude à des discussions thématiques que nous souhaitons fructueuses,
+confrontant les différentes perceptions des participants sur ces problèmes
+communs.
+
+**Programme
+
+Session 1 : La gestion des collections à l'ère du numérique / Libraries and
 archives in the Digital Age
  * Matthieu Bonicel, BNF, Paris
- * Jean-Fran=C3=A7ois Moufflet, Archives de France, Paris
- * Alixe Bovey, CMEMS, University of Kent or Cressida Williams, CCASession 2 : Des outils informatiques pour transcrire et indexer / Digital
+ * Jean-François Moufflet, Archives de France, Paris
+ * Alixe Bovey, CMEMS, University of Kent or Cressida Williams, CCA
+
+Session 2 : Des outils informatiques pour transcrire et indexer / Digital
 tools for  annotating and indexing
  * Alison Wiggins, CELL, Glasgow
- * Mar=C3=A7al Rusinol, CVC, Barcelona
+ * Marçal Rusinol, CVC, Barcelona
  * Frank Lebourgeois, LIRIS, Lyon
- * St=C3=A9phane Nicolas, LITIS, RouenSession 3 : Pal=C3=A9ographie num=C3=A9rique / Digital paleography
+ * Stéphane Nicolas, LITIS, Rouen
+
+Session 3 : Paléographie numérique / Digital paleography
  * Marc Smith, Ecole des Chartes
- * V=C3=A9ronique Eglin, LIRIS, Lyon
+ * Véronique Eglin, LIRIS, Lyon
  * Elisabeth Lalou, GRHIS, Rouen
- * Richard Guest, EDA, University of KentSession 4 : Les nouvelles modalit=C3=A9s pour la valorisation du patrimoine /
+ * Richard Guest, EDA, University of Kent
+
+Session 4 : Les nouvelles modalités pour la valorisation du patrimoine /
 ICT in Cultural Heritage
  * Clive Izard, British Library, London
  * Oliver Hitchcock, VirtuaSense, Rouen
  * Alexandre Chautemps, labo BnF, Paris
- * Clotilde Vaissaire-Agard, CF2IDSession 5: Les humanit=C3=A9s num=C3=A9riques: r=C3=A9alit=C3=A9 ou fiction ?=
- / Digital
+ * Clotilde Vaissaire-Agard, CF2ID
+
+Session 5: Les humanités numériques: réalité ou fiction ? / Digital
 Humanities: present and future
  * Dominique Stutzmann, IRHT, Paris
  * Melissa Terras, UCL, London
  * Alison Wiggins, CELL, Glasgow
- * discussion ouverte / round table**InscriptionPour assister =C3=A0 cette conf=C3=A9rence, vous devez vous inscrire gratuite=
-ment sur
-le site web de la conf=C3=A9rence avant le *17 octobre*. Repas et pauses caf=
-=C3=A9s
-vous sont offertes, mais nous avons besoin d'un nombre ferme et d=C3=A9finitif
-suffisamment longtemps =C3=A0 l'avance pour pouvoir passer commande.Si vous ne vous =C3=AAtes pas inscrits avant le 17 octobre, vous ne pourrez p=
-as
-participer aux repas. Le campus fournit n=C3=A9anmoins de nombreuses
-possibilit=C3=A9s de restauration par vos propres moyens.**Comit=C3=A9 d'organisationCe s=C3=A9minaire est organis=C3=A9 par le projet Interreg IVa DocExplore (
-www.docexplore.eu), auquel participent des historiens, des biblioth=C3=A9cair=
-es
-et des informaticiens, fran=C3=A7ais et anglais, qui vise =C3=A0 la construct=
-ion
-d=E2=80=99une suite logicielle. Cette suite est destin=C3=A9e aux historiens =
-comme aux
-biblioth=C3=A9caires, elle facilite annotations multim=C3=A9dia et transcript=
-ions,
-mais permet =C3=A9galement =C3=A0 partir de celles-ci la cr=C3=A9ation de feu=
-illeteurs =C3=A0
-destination par exemple d'un plus grand public._redacted_(a)sciencesconf.orgM. Dominique Stutzmann
-Charg=C3=A9 de recherche =C3=A0 l'Institut de Recherche et d'Histoire des Tex=
-tes
+ * discussion ouverte / round table
+
+**Inscription
+
+Pour assister à cette conférence, vous devez vous inscrire gratuitement sur
+le site web de la conférence avant le *17 octobre*. Repas et pauses cafés
+vous sont offertes, mais nous avons besoin d'un nombre ferme et définitif
+suffisamment longtemps à l'avance pour pouvoir passer commande.
+
+Si vous ne vous êtes pas inscrits avant le 17 octobre, vous ne pourrez pas
+participer aux repas. Le campus fournit néanmoins de nombreuses
+possibilités de restauration par vos propres moyens.
+
+**Comité d'organisation
+
+Ce séminaire est organisé par le projet Interreg IVa DocExplore (
+www.docexplore.eu), auquel participent des historiens, des bibliothécaires
+et des informaticiens, français et anglais, qui vise à la construction
+d’une suite logicielle. Cette suite est destinée aux historiens comme aux
+bibliothécaires, elle facilite annotations multimédia et transcriptions,
+mais permet également à partir de celles-ci la création de feuilleteurs à
+destination par exemple d'un plus grand public.
+
+_redacted_(a)sciencesconf.org
+
+
+
+M. Dominique Stutzmann
+Chargé de recherche à l'Institut de Recherche et d'Histoire des Textes
 (CNRS, UPR 841)
 http://www.irht.cnrs.fr
-Charg=C3=A9 de conf=C3=A9rences =C3=A0 l'Ecole Pratique des Hautes Etudes
+Chargé de conférences à l'Ecole Pratique des Hautes Etudes
 http://www.ephe.sorbonne.fr
-Membre du bureau ex=C3=A9cutif de Digital Medievalist
-http://www.digitalmedievalist.org/PGZvbnQ+PGEgaHJlZj0iaHR0cDovL3d3dy5kb2NleHBsb3JlLmV1Lz9wPTMyOCIgdGl0bGU9IlBl
+Membre du bureau exécutif de Digital Medievalist
+http://www.digitalmedievalist.org/
+
+
+
+PGZvbnQ+PGEgaHJlZj0iaHR0cDovL3d3dy5kb2NleHBsb3JlLmV1Lz9wPTMyOCIgdGl0bGU9IlBl
 cm1hbGluayB0byBXb3Jrc2hvcCCTSGlzdG9yaWNhbCBEb2N1bWVudHMgaW4gdGhlIERpZ2l0YWwg
 QWdllCwgMjV0aC0yNnRoIG9jdG9iZXIgMjAxMiCWIFVuaXZlcnNpdHkgb2YgUm91ZW4iIHJlbD0i
 Ym9va21hcmsiPldvcmtzaG9wIJNIaXN0b3JpY2FsIERvY3VtZW50cyBpbiB0aGUgRGlnaXRhbCBB
@@ -309,4 +381,4 @@ PGEgaHJlZj0iaHR0cDovL3d3dy5lcGhlLnNvcmJvbm5lLmZyIiB0YXJnZXQ9Il9ibGFuayI+aHR0
 cDovL3d3dy5lcGhlLnNvcmJvbm5lLmZyPC9hPjxicj5NZW1icmUgZHUgYnVyZWF1IGV46WN1dGlm
 IGRlIERpZ2l0YWwgTWVkaWV2YWxpc3QgPGJyPjxhIGhyZWY9Imh0dHA6Ly93d3cuZGlnaXRhbG1l
 ZGlldmFsaXN0Lm9yZy8iIHRhcmdldD0iX2JsYW5rIj5odHRwOi8vd3d3LmRpZ2l0YWxtZWRpZXZh
-bGlzdC5vcmcvPC9hPjxicj4KCjxicj48YnI+Cg==
+bGlzdC5vcmcvPC9hPjxicj4KCjxicj48YnI+Cg

@@ -1,12 +1,21 @@
-Subject: Re: [dm-l] Getting Latin Spell Check for Word 2011 ON A MACDear Dr Witt,You might also be interested to know that there is a way to install
+Subject: Re: [dm-l] Getting Latin Spell Check for Word 2011 ON A MAC
+
+Dear Dr Witt,
+
+You might also be interested to know that there is a way to install
 the OpenOffice/LibreOffice Latin dictionary system-wide in Mac OS X
 (i.e. in Mail, TextEdit, BBEdit, etc., though it doesn't apply to
 Word). Change the extension of the OpenOffice file to zip (it's
 actually an archive), uncompress it, and place the aff and dic files
 in Library/Spelling/. This works for any Hunspell dictionary. (For
 Latin, be sure to get either the 'universal' or 'classical' version,
-depending on what you want: see the read me within the archive.)All best,Andrew Dunning_redacted_(a)gmail.com> w=
-rote:
+depending on what you want: see the read me within the archive.)
+
+All best,
+
+Andrew Dunning
+
+_redacted_(a)gmail.com> wrote:
 > Many thanks for the suggestions everyone.
 > Installing Latin dictionary is so easy in OpenOffice, I sure hope Microsoft
 > can get its act together someday.
@@ -33,13 +42,10 @@ _redacted_(a)gmail.com>
 >>> Dear Jeffery,
 >>>
 >>> Another alternative is to use virtualization software like Parallels or
->>> VMware Fusion, which will allow you to run Windows programs from within M=
-ac
->>> OS (Using BootCamp, you will have to reboot, so that is not very convenie=
-nt
+>>> VMware Fusion, which will allow you to run Windows programs from within Mac
+>>> OS (Using BootCamp, you will have to reboot, so that is not very convenient
 >>> and kind of defeats the purpose of switching to Mac). I was particularly
->>> impressed with VMware Fusion, since it fuses MacOS and Windows visually a=
-nd
+>>> impressed with VMware Fusion, since it fuses MacOS and Windows visually and
 >>> you get the smoothest experience. With all that said, you will have to use
 >>> the same Windows text editor as well.
 >>>
@@ -61,18 +67,15 @@ _redacted_(a)regents.ox.ac.uk> wrote:
 >>>>
 >>>>
 >>>> This is an MS Windows program and therefore it will not run under MacOS
->>>> which is a different operating system and different architecture. Depend=
-ing
+>>>> which is a different operating system and different architecture. Depending
 >>>> on your Mac (intel based plus enough memory) you may be able to install a
->>>> version of Windows on it. For more details refer to Apple=E2=80=99s help=
- notes on
+>>>> version of Windows on it. For more details refer to Apple’s help notes on
 >>>> this at: http://support.apple.com/kb/HT3986
 >>>>
 >>>>
 >>>>
 >>>> Once you have a running version of Windows you will be able to install
->>>> the MSI. The important thing to realise is that you will either be runni=
-ng
+>>>> the MSI. The important thing to realise is that you will either be running
 >>>> MacOS OR you will be running Windows.
 >>>>
 >>>>
@@ -93,8 +96,7 @@ ng
 >>>>
 >>>>
 >>>>
-_redacted_(a)uleth.ca] On Behalf=
- Of
+_redacted_(a)uleth.ca] On Behalf Of
 >>>> Jeffrey C. Witt
 >>>> Sent: 18 July 2012 15:26
 _redacted_(a)uleth.ca
@@ -121,17 +123,14 @@ _redacted_(a)uleth.ca
 >>>>
 >>>>
 >>>> I've downloaded the newest release of COL - Correcteur Orthographique de
->>>> Latin - Correttore Ortografico di Latino - Corrector Ortogr=C3=A1fico de=
- Lat=C3=ADn
+>>>> Latin - Correttore Ortografico di Latino - Corrector Ortográfico de Latín
 >>>> from
->>>> http://www.drouizig.org/index.php?option=3Dcom_content&view=3Darticle&id=
-=3D75%3Acol&catid=3D38%3Adifazier&Itemid=3D68&lang=3Den
+>>>> http://www.drouizig.org/index.php?option=com_content&view=article&id=75%3Acol&catid=38%3Adifazier&Itemid=68&lang=en
 >>>>
 >>>>
 >>>>
 >>>> However, the download is an .msi file, which is a windows file ext. So
->>>> is it possible for me to get this working on mac? Has one else done this=
-? Is
+>>>> is it possible for me to get this working on mac? Has one else done this? Is
 >>>> there a better solution?
 >>>>
 >>>>
@@ -163,7 +162,7 @@ _redacted_(a)uleth.ca
 >>>> News: http://www.digitalmedievalist.org/news/
 >>>> Wiki: http://www.digitalmedievalist.org/wiki/
 >>>> Twitter: http://twitter.com/digitalmedieval
->>>> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+>>>> Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca
 >>>> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
 >>>
@@ -187,11 +186,17 @@ _redacted_(a)uleth.ca
 > News: http://www.digitalmedievalist.org/news/
 > Wiki: http://www.digitalmedievalist.org/wiki/
 > Twitter: http://twitter.com/digitalmedieval
-> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+> Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca
-> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l--=20
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+
+
+-- 
 Andrew Dunning
 PhD Student, Collaborative Program in Editing Medieval Texts
 Centre for Medieval Studies
-University of Toronto
---===============4664819309506064998==--
+University of Toronto
+
+--4664819309506064998-
+

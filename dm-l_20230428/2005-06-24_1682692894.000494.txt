@@ -1,7 +1,11 @@
-Subject: Re: [dm-l] Are markup languages obsolete?I confess to having read parts of this thread rather quickly, as I'm
+Subject: Re: [dm-l] Are markup languages obsolete?
+
+I confess to having read parts of this thread rather quickly, as I'm
 still catching up on mail after a month-and-a-half-long absense.  But
 I did notice one thing:  generally, "TEI" and "XML" have been used
-interchangeably.The two are not equivalent; TEI is an initiative that has guidelines,
+interchangeably.
+
+The two are not equivalent; TEI is an initiative that has guidelines,
 and is not a markup language.  Nor is "semantic encoding" (which is at
 least partly what we're really talking about when we discuss digital
 editions) equivalent to "XML."  It is quite possible to create, say, a
@@ -9,16 +13,28 @@ digital edition of a literary work without looking at the TEI
 Guidelines at all.  In order to allow it to "talk" with other
 editions, and with some emerging tools, the creators might want to
 then translate it -- not "into TEI" but into another set of elements
-and attributes, one that is in accordance with the TEI Guidelines.TEI has been absolutely essential in promoting dialogue and framing
+and attributes, one that is in accordance with the TEI Guidelines.
+
+TEI has been absolutely essential in promoting dialogue and framing
 our thinking about digitized texts, no doubt.  But it is not essential
 for doing humanities computing, or for encoding, just like a food
-processor is not essential for making bread.I'm not qualified to speak to other issues raised in the thread (such
+processor is not essential for making bread.
+
+I'm not qualified to speak to other issues raised in the thread (such
 as the relative value of facsimile and/or encoded digital editions);
 just wanted to point out what I see as a fairly major element in
-understanding humanities computing.-Vika-- 
+understanding humanities computing.
+
+-Vika
+
+-- 
 Vika Zafrin
 Director, Virtual Humanities Lab
-http://www.brown.edu/Departments/Italian_Studies/vhl/Brown University Box 1942
+http://www.brown.edu/Departments/Italian_Studies/vhl/
+
+Brown University Box 1942
 Providence, RI 02912 USA
-(401)863-3984
---===============2607220600047523593==--
+(401)863-3984
+
+--2607220600047523593-
+

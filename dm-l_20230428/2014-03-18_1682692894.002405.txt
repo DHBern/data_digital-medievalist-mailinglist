@@ -1,35 +1,71 @@
-Subject: [dm-l] CeRch Seminar: Clotho: Network Analysis and Distant Reading onDear all,Apologies for cross-posting.Please find below the details of next week's CeRch seminar:Date: Tuesday, 25th March 2014, from 6.15pm to 7.30pm (GMT)Location: Anatomy Museum Space, 6th Floor, King's College London (Strand Camp=
-us)http://www.kcl.ac.uk/campuslife/campuses/strand/Strand.aspxAttendance is free and open to all, but registration is requested:https://www.eventbrite.com/e/cerch-seminar-clotho-sentiment-analysis-and-dist=
-ant-reading-on-a-latin-corpus-thibault-clerice-tickets-10115264027The seminar will be followed by wine and nibbles.All the best,Valentina Asciutti?Abstract: Clotho is born from a simple need: doing distant reading on a Latin=
- corpus. Why should we do distant reading? We can see many reasons including =
-word sense induction, sentiment analysis, network analysis which were the one=
- we were looking for.            Through we think sentiment analysis stricto sensu is not possible=
- in Latin, we aim to provide a way to do that quantitatively through context =
-and network analysis. This does not replace the meme of conventional scholars=
-hip; where an expert reader parses a text and pronounces on the nature of its=
- sentiment. Rather, we think that the proper nature of the Latin exemplum and=
- auctoritas is liable to support interpretation by polarizing words according=
- to their strict meaning(s). The Clotho project is divided in two tools. The =
-first one is based on python software, which enables the distant reading of t=
-he corpus and the export of its results. The other is a PHP platform which en=
-ables a team or a crowd to annotate and clean the results. Both are relativel=
-y easy to install and fully open source so new functionalities of wide applic=
-ation can be added.            For this project, there have been two outputs:                        - the first one is Cicero's Network which has been re=
-alised with an earlier version of Clotho's Python interface                        - the second one is Lasciva Roma, a project which wil=
-l be launched during the seminar, whose aim is to annotate the Latin semantic=
- field of sexuality.Speakers:Anthony GlaiseFormer MA student at Paris-IV Sorbonne, preparing Agr?gation's exams at Paris=
- IV-Sorbonne and at Ecole Normale Sup?rieure. Anthony worked on the Greek Chr=
-istian literature of the 4th century and more precisely on anti-Judaic works =
-by John Chrysostom.Thibault Clerice            Research Developer at the Center for e-Research, Kings College Lo=
-ndon, and MA student at the Ecole des Chartes ( Paris ). Thibault's works foc=
-us on both crowd-sourcing and Ancient Rome genders and sexuality. His current=
- MA Thesis topic tries to enlighten the possibilities of digital methods in L=
-atin onomastics and anthropology.
---===============1351985999828753496==
-Content-Type: text/html
+Subject: [dm-l] CeRch Seminar: Clotho: Network Analysis and Distant Reading on
+
+Dear all,
+
+Apologies for cross-posting.
+
+
+
+Please find below the details of next week's CeRch seminar:
+
+Date: Tuesday, 25th March 2014, from 6.15pm to 7.30pm (GMT)
+
+Location: Anatomy Museum Space, 6th Floor, King's College London (Strand Campus)
+
+http://www.kcl.ac.uk/campuslife/campuses/strand/Strand.aspx
+
+
+
+Attendance is free and open to all, but registration is requested:
+
+https://www.eventbrite.com/e/cerch-seminar-clotho-sentiment-analysis-and-distant-reading-on-a-latin-corpus-thibault-clerice-tickets-10115264027
+
+The seminar will be followed by wine and nibbles.
+
+
+
+All the best,
+
+Valentina Asciutti
+
+?
+
+Abstract: Clotho is born from a simple need: doing distant reading on a Latin corpus. Why should we do distant reading? We can see many reasons including word sense induction, sentiment analysis, network analysis which were the one we were looking for.
+
+
+
+            Through we think sentiment analysis stricto sensu is not possible in Latin, we aim to provide a way to do that quantitatively through context and network analysis. This does not replace the meme of conventional scholarship; where an expert reader parses a text and pronounces on the nature of its sentiment. Rather, we think that the proper nature of the Latin exemplum and auctoritas is liable to support interpretation by polarizing words according to their strict meaning(s). The Clotho project is divided in two tools. The first one is based on python software, which enables the distant reading of the corpus and the export of its results. The other is a PHP platform which enables a team or a crowd to annotate and clean the results. Both are relatively easy to install and fully open source so new functionalities of wide application can be added.
+
+
+
+            For this project, there have been two outputs:
+
+                        - the first one is Cicero's Network which has been realised with an earlier version of Clotho's Python interface
+
+                        - the second one is Lasciva Roma, a project which will be launched during the seminar, whose aim is to annotate the Latin semantic field of sexuality.
+
+
+
+
+
+Speakers:
+
+Anthony Glaise
+
+Former MA student at Paris-IV Sorbonne, preparing Agr?gation's exams at Paris IV-Sorbonne and at Ecole Normale Sup?rieure. Anthony worked on the Greek Christian literature of the 4th century and more precisely on anti-Judaic works by John Chrysostom.
+
+Thibault Clerice
+
+            Research Developer at the Center for e-Research, Kings College London, and MA student at the Ecole des Chartes ( Paris ). Thibault's works focus on both crowd-sourcing and Ancient Rome genders and sexuality. His current MA Thesis topic tries to enlighten the possibilities of digital methods in Latin onomastics and anthropology.
+
+
+
+--1351985999828753496Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
+Content-Disposition: attachment; filenameúttachment.html"
+MIME-Version: 1.0
+
+PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
 eHQvaHRtbDsgY2hhcnNldD11cy1hc2NpaSI+CjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyIgc3R5bGU9
 ImRpc3BsYXk6bm9uZSI+PCEtLVB7bWFyZ2luLXRvcDowO21hcmdpbi1ib3R0b206MDt9IC5tcy1j
 dWktbWVudSB7YmFja2dyb3VuZC1jb2xvcjojZmZmZmZmO2JvcmRlcjoxcHggcmdiKDE3MSwgMTcx
@@ -147,4 +183,4 @@ cyB3b3JrcyBmb2N1cyBvbiBib3RoIGNyb3dkLXNvdXJjaW5nIGFuZCBBbmNpZW50IFJvbWUgZ2Vu
 ZGVycyBhbmQgc2V4dWFsaXR5LiBIaXMgY3VycmVudCBNQSBUaGVzaXMgdG9waWMgdHJpZXMKIHRv
 IGVubGlnaHRlbiB0aGUgcG9zc2liaWxpdGllcyBvZiBkaWdpdGFsIG1ldGhvZHMgaW4gTGF0aW4g
 b25vbWFzdGljcyBhbmQgYW50aHJvcG9sb2d5Ljxicj4KPC9wPgo8cD48YnI+CjwvcD4KPC9kaXY+
-CjwvYm9keT4KPC9odG1sPgo=
+CjwvYm9keT4KPC9odG1sPgo

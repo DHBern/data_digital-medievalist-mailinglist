@@ -1,12 +1,19 @@
-Subject:Apologies for cross-posting.---------- Forwarded message ----------
+Subject:
+
+Apologies for cross-posting.
+
+---------- Forwarded message ----------
 From: *Chad Nelson*
 Date: Friday, November 22, 2013
 Subject: [PhillyDigitalHumanities] GLAM Hack Philly - Feb 1-2, 2014
-_redacted_(a)googlegroups.com>
+_redacted_(a)googlegroups.com>
+
    GLAM Hack Philly is a free, weekend-long hackathon focused on building
 apps with open data from Galleries, Libraries, Archives, and Museums. It
 will take place the weekend of February 1-2, 2012 at the University of
-Pennsylvania=E2=80=99s Kislak Center for Special Collections.The event will bring together programmers, curators, librarians, designers,
+Pennsylvania’s Kislak Center for Special Collections.
+
+The event will bring together programmers, curators, librarians, designers,
 archivists, and anyone else with a passion for GLAM data, to build fun and
 interesting apps with the tremendous amount of GLAM data that is openly and
 freely available. On the morning of Saturday, February 1st, participants
@@ -15,40 +22,68 @@ GLAM-related applications. This could be anything from creating Omeka
 plug-ins to building a virtual city tour app using local digital
 collections. Small groups will form and participants will begin working on
 their projects through Sunday, with a goal to present a working prototype
-by Sunday afternoon.
-Challenges and DataWe are seeking proposals of Data Challenges for teams to work on during the
+by Sunday afternoon.
+
+Challenges and Data
+
+We are seeking proposals of Data Challenges for teams to work on during the
 hackathon. Challenges can be as simple as a dataset and a vague idea of
 what could be done with that data, or could be an already identified
-problem with your data that you are seeking help to solve.The only requirements for proposing a challenge are:   -   Someone from your organization commits to participating in the event.
+problem with your data that you are seeking help to solve.
+
+The only requirements for proposing a challenge are:
+
+   -
+
+   Someone from your organization commits to participating in the event.
    They will help steward teams who take up that challenge by giving context
    to your data.
-   -   If you r challange includes a dataset, that data should be made
+   -
+
+   If you r challange includes a dataset, that data should be made
    available for use and reuse. Providing your data openly means that anyone
    can build applications with your data before, during, and after the
-   hackathon.
-Submit a Challenge Now <http://bit.ly/1bp5xpV>If you=E2=80=99re not sure how your organization's data could be used or want=
- some
+   hackathon.
+
+Submit a Challenge Now <http://bit.ly/1bp5xpV>
+
+If you’re not sure how your organization's data could be used or want some
 help brainstorming a challenge, just get in touch with
 _redacted_(a)gmail.com <javascript:_e({}, 'cvml',
-_redacted_(a)gmail.com');>, we're happy to help.You can also submit your dataset without proposing a
+_redacted_(a)gmail.com');>, we're happy to help.
+
+You can also submit your dataset without proposing a
 challenge<http://bit.ly/1cg6bEr>.
-We'll highlight your dataset on our website for attendees consideration.But I'm not a programmer -- can I participate?The input of content specialists like museum curators, librarians,
+We'll highlight your dataset on our website for attendees consideration.
+
+But I'm not a programmer -- can I participate?
+
+The input of content specialists like museum curators, librarians,
 archivists, catalogers,GLA researchers and others who know the data
 produced by GLAM organizations, is crucial to creating successful projects.
-We don't just want your participation, we need it!You can find more information on http://glamhack.comThanks,
-Philly GLAM Hack organizers --
+We don't just want your participation, we need it!
+
+You can find more information on http://glamhack.com
+
+Thanks,
+Philly GLAM Hack organizers
+
+ --
 You received this message because you are subscribed to the Google Groups
 "Greater Philadelphia Digital Humanities Group" group.
 To unsubscribe from this group and stop receiving emails from it, send an
-_redacted_(a)googlegroups.com<javascript:_e=
-({},
+_redacted_(a)googlegroups.com<javascript:_e({},
 'cvml',
 _redacted_(a)googlegroups.com');>.
 To post to this group, send email to
 _redacted_(a)googlegroups.com <javascript:_e({}, 'cvml',
 _redacted_(a)googlegroups.com');>.
 Visit this group at http://groups.google.com/group/PhillyDigitalHumanities.
-For more options, visit https://groups.google.com/groups/opt_out.--=20
+For more options, visit https://groups.google.com/groups/opt_out.
+
+
+
+-- 
 *~*~*~*~*~*~*~*~*~*~*
 Dot Porter (MA, MSLS)
 Digital Medievalist, Digital Librarian
@@ -58,7 +93,11 @@ Medieval Electronic Scholarly Alliance: http://www.mesa-medieval.org
 MESA blog: http://mesamedieval.wordpress.com/
 MESA on Facebook:
 https://www.facebook.com/MedievalElectronicScholarlyAlliance
-*~*~*~*~*~*~*~*~*~*~*QXBvbG9naWVzIGZvciBjcm9zcy1wb3N0aW5nLjxicj48YnI+LS0tLS0tLS0tLSBGb3J3YXJkZWQg
+*~*~*~*~*~*~*~*~*~*~*
+
+
+
+QXBvbG9naWVzIGZvciBjcm9zcy1wb3N0aW5nLjxicj48YnI+LS0tLS0tLS0tLSBGb3J3YXJkZWQg
 bWVzc2FnZSAtLS0tLS0tLS0tPGJyPkZyb206IDxiPkNoYWQgTmVsc29uPC9iPiA8YnI+RGF0ZTog
 RnJpZGF5LCBOb3ZlbWJlciAyMiwgMjAxMzxicj5TdWJqZWN0OiBbUGhpbGx5RGlnaXRhbEh1bWFu
 aXRpZXNdIEdMQU0gSGFjayBQaGlsbHkgLSBGZWIgMS0yLCAyMDE0PGJyPlRvOiBwaGlsbHlkaCAm
@@ -234,4 +273,5 @@ YmxhbmsiPmh0dHA6Ly9tZXNhbWVkaWV2YWwud29yZHByZXNzLmNvbS88L2E+PGJyPk1FU0Egb24g
 RmFjZWJvb2s6IDxhIGhyZWY9Imh0dHBzOi8vd3d3LmZhY2Vib29rLmNvbS9NZWRpZXZhbEVsZWN0
 cm9uaWNTY2hvbGFybHlBbGxpYW5jZSIgdGFyZ2V0PSJfYmxhbmsiPmh0dHBzOi8vd3d3LmZhY2Vi
 b29rLmNvbS9NZWRpZXZhbEVsZWN0cm9uaWNTY2hvbGFybHlBbGxpYW5jZTwvYT48YnI+Cip+Kn4q
-fip+Kn4qfip+Kn4qfip+KjwvZGl2Pjxicj4K
+fip+Kn4qfip+Kn4qfip+KjwvZGl2Pjxicj4K
+

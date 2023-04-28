@@ -1,37 +1,39 @@
-Subject: Re: [dm-l] Announcing VCEditor, a tool for modeling and visualizingThanks to everyone who has signed up for a VCEditor account, the response has=
- been great! I've scheduled a workshop on Wednesday, October 27, at 12pm ET, =
-for people who are interested in finding out more about how VCEditor works. T=
-his workshop will walk through the process of setting up a project, how to bu=
-ild a collation model, how to upload and attach images to the model, and how =
-to download different visualizations of the model.Register here: https://libcal.library.upenn.edu/event/8430035If you want to come but that date and time doesn't work for you please let me=
- know, I'm open to scheduling more workshops at times people can attend and p=
-erhaps focusing on particular elements or uses of VCEditor.Thank you,
-Dot Porter_redacted_(a)gmai=
-_redacted_(a)gmail.com>> wrote:
-Caution: This email was sent from someone outside of the University of Lethbr=
-idge. Do not click on links or open attachments unless you know they are safe=
-_redacted_(a)uleth.ca<mailto:phishin=
-_redacted_(a)uleth.ca>.The VisColl team at the Schoenberg Institute for Manuscript Studies, Universi=
-ty of Pennsylvania, are pleased to announce the launch of VCEditor. Use VCEdi=
-tor to model and visualize medieval manuscripts and books in codex format in =
-general. We welcome your feedback! https://vceditor.library.upenn.edu<https:/=
-/vceditor.library.upenn.edu/>
+Subject: Re: [dm-l] Announcing VCEditor, a tool for modeling and visualizing
+
+Thanks to everyone who has signed up for a VCEditor account, the response has been great! I've scheduled a workshop on Wednesday, October 27, at 12pm ET, for people who are interested in finding out more about how VCEditor works. This workshop will walk through the process of setting up a project, how to build a collation model, how to upload and attach images to the model, and how to download different visualizations of the model.
+
+Register here: https://libcal.library.upenn.edu/event/8430035
+
+If you want to come but that date and time doesn't work for you please let me know, I'm open to scheduling more workshops at times people can attend and perhaps focusing on particular elements or uses of VCEditor.
+
+Thank you,
+Dot Porter
+
+_redacted_(a)gmai_redacted_(a)gmail.com>> wrote:
+Caution: This email was sent from someone outside of the University of Lethbridge. Do not click on links or open attachments unless you know they are safe_redacted_(a)uleth.ca<mailto:phishin_redacted_(a)uleth.ca>.
+
+The VisColl team at the Schoenberg Institute for Manuscript Studies, University of Pennsylvania, are pleased to announce the launch of VCEditor. Use VCEditor to model and visualize medieval manuscripts and books in codex format in general. We welcome your feedback! https://vceditor.library.upenn.edu<https://vceditor.library.upenn.edu/>
+
 [viscoll-collations-mode-01.png]
-VCEditor is based on the VisColl specification https://viscoll.org<https://vi=
-_redacted_@oldbooksnewsci (=
-https://github.com/utlib/VisualCollation).For help, see our 'How to page' (https://viscoll.org/help/) and the project W=
-iki (https://github.com/KislakCenter/VisualCollation/wiki).Please share the news and let us know how we can improve this for your needs!Thank you,
+VCEditor is based on the VisColl specification https://viscoll.org<https://vi_redacted_@oldbooksnewsci (https://github.com/utlib/VisualCollation).
+
+For help, see our 'How to page' (https://viscoll.org/help/) and the project Wiki (https://github.com/KislakCenter/VisualCollation/wiki).
+
+Please share the news and let us know how we can improve this for your needs!
+
+Thank you,
 Alberto Campagnolo
 Digital Medievalist --  http://www.digitalmedievalist.org/
 Journal: https://journal.digitalmedievalist.org/
 Journal Editors: https://journal.digitalmedievalist.org/contact/
 News: https://digitalmedievalist.wordpress.com/news/
 Twitter: http://twitter.com/digitalmedieval
-Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca>
-Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l*Please note: Posts to this unmoderated list do not imply endorsement by Digi=
-tal Medievalist or by any members of its Executive Board of content expressed=
- therein.
+Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+*Please note: Posts to this unmoderated list do not imply endorsement by Digital Medievalist or by any members of its Executive Board of content expressed therein.
+
 --
 *~*~*~*~*~*~*~*~*~*~*
 Dot Porter (MA, MSLS)
@@ -39,7 +41,11 @@ Digital Medievalist, Digital Librarian
 _redacted_(a)gmail.com>
 Penn Manuscripts on Tumblr: http://upennmanuscripts.tumblr.com/
 MESA: http://mesa-medieval.org
-*~*~*~*~*~*~*~*~*~*~*PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
+*~*~*~*~*~*~*~*~*~*~*
+
+
+
+PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
 eHQvaHRtbDsgY2hhcnNldD11dGYtOCI+CjwvaGVhZD4KPGJvZHk+CjxkaXYgc3R5bGU9ImJvcmRl
 cjpzb2xpZCAjNjQ2NDY0IDEuMHB0O3BhZGRpbmc6Mi4wcHQgMi4wcHQgMi4wcHQgMi4wcHQ7YmFj
 a2dyb3VuZDojRkZFQjlDIj4KPHAgY2xhc3M9Ik1zb05vcm1hbCIgc3R5bGU9ImxpbmUtaGVpZ2h0
@@ -217,7 +223,8 @@ cy50dW1ibHIuY29tLzwvYT48L2Rpdj4KPGRpdiBzdHlsZT0iZm9udC1zaXplOnNtYWxsIj5NRVNB
 OiA8YSBocmVmPSJodHRwOi8vbWVzYS1tZWRpZXZhbC5vcmciIHRhcmdldD0iX2JsYW5rIj4KaHR0
 cDovL21lc2EtbWVkaWV2YWwub3JnPC9hPjwvZGl2Pgo8ZGl2IHN0eWxlPSJmb250LXNpemU6c21h
 bGwiPip+Kn4qfip+Kn4qfip+Kn4qfip+KjwvZGl2Pgo8L2Rpdj4KPC9kaXY+CjwvZGl2Pgo8L2Rp
-dj4KPC9kaXY+CjwvYm9keT4KPC9odG1sPgo=iVBORw0KGgoAAAANSUhEUgAAAlgAAAF0CAYAAAD/4EcMAAAMaGlDQ1BJQ0MgUHJvZmlsZQAASImV
+dj4KPC9kaXY+CjwvYm9keT4KPC9odG1sPgo
+iVBORw0KGgoAAAANSUhEUgAAAlgAAAF0CAYAAAD/4EcMAAAMaGlDQ1BJQ0MgUHJvZmlsZQAASImV
 VwdUU8kanluSkJDQAhGQEnoTpBNASggtgIBUwUZIAgklhoSgYi+LCq5dRLCiqyK21RWQtSD2sgj2
 vlhQUdZFXRRF5U1IQNd95bz/nLnz5Zt//nZncmcA0O7lSaV5qA4A+ZJCWUJECHNsWjqT1AFQoAvI
 gAUQHl8uZcfHxwAog/3f5d0NgCj7q85KW/8c/6+iJxDK+QAg4yHOFMj5+RA3AYCv50tlhQAQlbzV
@@ -1973,4 +1980,4 @@ ZjHC0Dif3p4j2KDB9IXi5dJg84vYLEfhadcvsCnDPNd90wzzWpZvecyyJq9lG+bYlDHHpjzzXfNc
 93mOLyRUaVwq0NCeI1ItelR/PGo8IHL3Pkz6xAbNjee+ucmuD4FrGZ7nOTIf13os4wVHqn7eQ3CP
 sMoSx+SdXAVIHtObjJDXtslSwFKgf1HA8A/DEU3vTb45BssB/yBvcnIUs2Cf0nL8NcV6fMt+uPbF
 dd/wQcMveXHX8y2PTbmWZXq807ZBt6OAufeuHTPPgdnyXF5engbq5j498Bt14v8HJasEnnbLWpsA
-AAAASUVORK5CYII=
+AAAASUVORK5CYII

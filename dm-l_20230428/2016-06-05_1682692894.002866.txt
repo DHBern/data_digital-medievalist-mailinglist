@@ -1,24 +1,44 @@
-Subject: [dm-l] DiXiT workshop "Code and Collation: training textual scholars[On behalf of Elli Bleeker]Dear digital medievalists,**with apologies for the inevitable cross-posting**We are pleased to announce a three-day workshop "Code and Collation: 
+Subject: [dm-l] DiXiT workshop "Code and Collation: training textual scholars
+
+[On behalf of Elli Bleeker]
+
+Dear digital medievalists,
+
+**with apologies for the inevitable cross-posting**
+
+We are pleased to announce a three-day workshop "Code and Collation: 
 Training Textual Scholars" that takes place in Amsterdam (The 
 Netherlands) from 2 - 4 November 2016. The event is part of the DiXiT 
 network <http://dixit.uni-koeln.de/> and is hosted by the Huygens 
 Institute for the History of the Netherlands 
-<https://www.huygens.knaw.nl/?lang=en>. It brings together a group of 
+<https://www.huygens.knaw.nl/?lang>. It brings together a group of 
 international experts from the fields of textual scholarship and 
-computer science.The workshop engages with the theory and practice of semi-automated 
+computer science.
+
+The workshop engages with the theory and practice of semi-automated 
 collation and provides an intense training in the open source collation 
 program CollateX. Participants will learn how to prepare source 
 materials, how to perform semi-automated collation using CollateX, and 
 how to inspect and modify the results; they will acquire or improve 
 computational skills relevant to textual criticism and in particular to 
-the production of scholarly editions.Registration is now open and free of charge. Early registration is 
+the production of scholarly editions.
+
+Registration is now open and free of charge. Early registration is 
 recommended since there are limited places available. Detailed 
 information can be found at the website: 
 https://sites.google.com/site/dixitcodingcollation/. For all questions, 
-do not hesitate to get in touch at dixitcollation[at]gmail[dot]com.We are looking forward to welcoming you in Amsterdam!On behalve of the organising committee,
+do not hesitate to get in touch at dixitcollation[at]gmail[dot]com.
+
+We are looking forward to welcoming you in Amsterdam!
+
+On behalve of the organising committee,
 --Elli Bleeker
 University of Antwerp
-Centre for Manuscript GeneticsPGh0bWw+CiAgPGhlYWQ+CiAgICA8bWV0YSBodHRwLWVxdWl2PSJjb250ZW50LXR5cGUiIGNvbnRl
+Centre for Manuscript Genetics
+
+
+
+PGh0bWw+CiAgPGhlYWQ+CiAgICA8bWV0YSBodHRwLWVxdWl2PSJjb250ZW50LXR5cGUiIGNvbnRl
 bnQ9InRleHQvaHRtbDsgY2hhcnNldD11dGYtOCI+CiAgPC9oZWFkPgogIDxib2R5IGJnY29sb3I9
 IiNGRkZGRkYiIHRleHQ9IiMwMDAwMDAiPgogICAgPHA+W09uIGJlaGFsZiBvZiBFbGxpIEJsZWVr
 ZXJdPGJyPgogICAgPC9wPgogICAgPGRpdiBjbGFzcz0ibW96LWZvcndhcmQtY29udGFpbmVyIj5E
@@ -64,4 +84,4 @@ IEFtc3RlcmRhbSE8L2Rpdj4KICAgICAgICA8ZGl2Pjxicj4KICAgICAgICA8L2Rpdj4KICAgICAg
 ICA8ZGl2Pk9uIGJlaGFsdmUgb2YgdGhlIG9yZ2FuaXNpbmcgY29tbWl0dGVlLDwvZGl2PgogICAg
 ICAgIDxkaXY+LS1FbGxpIEJsZWVrZXI8L2Rpdj4KICAgICAgICA8ZGl2PlVuaXZlcnNpdHkgb2Yg
 QW50d2VycDwvZGl2PgogICAgICAgIDxkaXY+Q2VudHJlIGZvciBNYW51c2NyaXB0IEdlbmV0aWNz
-PC9kaXY+CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgPC9ib2R5Pgo8L2h0bWw+Cg==
+PC9kaXY+CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgPC9ib2R5Pgo8L2h0bWw+Cg

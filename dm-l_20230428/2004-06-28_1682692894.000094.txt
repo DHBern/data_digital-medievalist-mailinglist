@@ -1,4 +1,6 @@
-Subject: Re: [dm-l] Hacks: an example.Il lun, 2004-06-28 alle 17:58, Jeffrey Fisher ha scritto:
+Subject: Re: [dm-l] Hacks: an example.
+
+Il lun, 2004-06-28 alle 17:58, Jeffrey Fisher ha scritto:
 > On Monday, June 28, 2004, at 10:34 AM, Daniel O'Donnell wrote:
 > 
 > >  I am beginning to wonder if it is not better, however, to design a 
@@ -10,18 +12,32 @@ Subject: Re: [dm-l] Hacks: an example.Il lun, 2004-06-28 alle 17:58, Jeffrey F
 > just remember that most users will use whatever you've got set as the 
 > default. i would just rather see user choice for the sake of the users 
 > than users having the choice of fixing their browser's poor 
-> implementation of standards.I fully agree. Leaving the users a "choice", in this case, means that
+> implementation of standards.
+
+I fully agree. Leaving the users a "choice", in this case, means that
 the developer doesn't dare make a choice himself. Good user interface
 design often simply means choosing sensible defaults, and not bothering
 the user with the notion of different stylesheets for different, non
-standard complying, browsers. In an ideal world, at least ... :)I've heard that MS finally decided to revive the IE development group,
+standard complying, browsers. In an ideal world, at least ... :)
+
+I've heard that MS finally decided to revive the IE development group,
 and that the main developer has shown some willingness to listen to
 suggestions, provided that they're not as generic as "better compliance
-to web standards": I wonder why he chose this particular example! Ciao-- Roberto Rosselli Del Turco	roberto.rossellidelturco at unito.it
+to web standards": I wonder why he chose this particular example! 
+
+Ciao
+
+-- 
+
+Roberto Rosselli Del Turco	roberto.rossellidelturco at unito.it
 Dipartimento di Scienze		rosselli at ling.unipi.it
 del Linguaggio			Then spoke the thunder	DA
 Universita' di Torino		Datta: what have we given?  (TSE)
  
   Hige sceal the heardra,     heorte the cenre,
-  mod sceal the mare,       the ure maegen litlath.  (Maldon 312-3)
---===============0565135606924938135==--
+  mod sceal the mare,       the ure maegen litlath.  (Maldon 312-3)
+
+
+
+--0565135606924938135-
+

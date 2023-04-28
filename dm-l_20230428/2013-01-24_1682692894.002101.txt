@@ -1,8 +1,10 @@
-Subject: Re: [dm-l] e-sequence - a multimedia editionThanks for the information, Francesco.I also got an email concerning the "Barfly" system for encoding modern chant =
-notation (see http://www.barfly.dial.pipex.com/bfgregorian.html). This is a p=
-art of, or an extension to, the ABC encoding standard.  More on that at http:=
-//abc.sourceforge.net/.  My thanks go to John McChesney-Young for bringing th=
-is to my attention.Michael
+Subject: Re: [dm-l] e-sequence - a multimedia edition
+
+Thanks for the information, Francesco.
+
+I also got an email concerning the "Barfly" system for encoding modern chant notation (see http://www.barfly.dial.pipex.com/bfgregorian.html). This is a part of, or an extension to, the ABC encoding standard.  More on that at http://abc.sourceforge.net/.  My thanks go to John McChesney-Young for bringing this to my attention.
+
+Michael
 /***************************************
  * Michael L. Norton, Ph.D.
  * Associate Professor
@@ -13,31 +15,34 @@ is to my attention.Michael
  * Harrisonburg  VA  23807
  * 540-568-2777
 _redacted_(a)jmu.edu>
- **************************************/On Jan 24, 2013, at 4:11 PM, Center for Comparative Studies <centrostudicompa=
-_redacted_(a)libero.it>> wrote:Dear Michael, some years ago Sam Barrett (Cambridge University) for the digit=
-al edition of the "Corpus Rhythmorum Musicum" (partial version in www.corimu.=
-unisi.it<http://www.corimu.unisi.it>) has invented a kind of alphanumeric tra=
-nscription of neumes  and neumatic melodies that is searchable by the softwar=
-e and by every search engine. It isn't a standard, but a practical way to enc=
-ode neumes.(see Neume table under Tables Menu).
+ **************************************/
+
+On Jan 24, 2013, at 4:11 PM, Center for Comparative Studies <centrostudicompa_redacted_(a)libero.it>> wrote:
+
+Dear Michael, some years ago Sam Barrett (Cambridge University) for the digital edition of the "Corpus Rhythmorum Musicum" (partial version in www.corimu.unisi.it<http://www.corimu.unisi.it>) has invented a kind of alphanumeric transcription of neumes  and neumatic melodies that is searchable by the software and by every search engine. It isn't a standard, but a practical way to encode neumes.(see Neume table under Tables Menu).
 Best wishes
 Francesco Stella
-Universita di Siena----- Original Message ----- From: "Norton, Michael Lee - nortonml" <nortonml=
-_redacted_(a)jmu.edu>>
+Universita di Siena
+
+----- Original Message ----- From: "Norton, Michael Lee - nortonml" <nortonml_redacted_(a)jmu.edu>>
 _redacted_(a)hab.de>>
-_redacted_(a)uleth.ca>>; "Christoph Flueler" <christoph=
-_redacted_(a)unifr.ch>>; <stefan.morent(a=
-_redacted_(a)uni-tuebingen.de>>
+_redacted_(a)uleth.ca>>; "Christoph Flueler" <christoph_redacted_(a)unifr.ch>>; <stefan.morent(a_redacted_(a)uni-tuebingen.de>>
 Sent: Thursday, January 24, 2013 7:08 PM
-Subject: Re: [dm-l] e-sequence - a multimedia edition
-Neven and others,Last I looked MEI (and MusicXML) could not be used to handle neumes, as these=
- were pitch-based rather than sign-based.The only system for encoding neumes that I know of is Louis Barton's "Neume N=
-otation Project," which is XML based  I don't know if this is ready for prime=
- time yet.  You can find info at the following URL:http://www.scribeserver.com/medieval/'Kate Helsen and others are working on a neume transcription project (neume ca=
-pture from digital images) as well, although I don't know how far along they =
-are on this.  I am working on a similar project that intersects these two, al=
-though progress will depend on me getting release time next year to focus on =
-this.Michael/***************************************
+Subject: Re: [dm-l] e-sequence - a multimedia edition
+
+Neven and others,
+
+Last I looked MEI (and MusicXML) could not be used to handle neumes, as these were pitch-based rather than sign-based.
+
+The only system for encoding neumes that I know of is Louis Barton's "Neume Notation Project," which is XML based  I don't know if this is ready for prime time yet.  You can find info at the following URL:
+
+http://www.scribeserver.com/medieval/'
+
+Kate Helsen and others are working on a neume transcription project (neume capture from digital images) as well, although I don't know how far along they are on this.  I am working on a similar project that intersects these two, although progress will depend on me getting release time next year to focus on this.
+
+Michael
+
+/***************************************
 * Michael L. Norton, Ph.D.
 * Associate Professor
 * Dept. of Computer Science
@@ -47,27 +52,51 @@ this.Michael/***************************************
 * Harrisonburg  VA  23807
 * 540-568-2777
 _redacted_(a)jmu.edu
-**************************************/_redacted_(a)hab.de> wrote:Dear Neven, dear all,first of all, thank you for your interest but all these questions are best ad=
-dressed to the editors (Cc).(And I haven't got a good answer to your question: What would be the "standar=
-d" encoding for neumes today? MEI?)Best, Torsten
-Am 24.01.2013 17:33, schrieb "Neven Jovanovi=C4=87":
-Dear Torsten,thank you for directing us towards this very interesting edition.Do you know, by any chance, why haven't the neumas been transcribed?Best,NevenNeven Jovanovic
-Zagreb, Croatia
+**************************************/
+
+_redacted_(a)hab.de> wrote:
+
+Dear Neven, dear all,
+
+first of all, thank you for your interest but all these questions are best addressed to the editors (Cc).
+
+(And I haven't got a good answer to your question: What would be the "standard" encoding for neumes today? MEI?)
+
+Best, Torsten
+
+Am 24.01.2013 17:33, schrieb "Neven JovanoviÄ‡":
+Dear Torsten,
+
+thank you for directing us towards this very interesting edition.
+
+Do you know, by any chance, why haven't the neumas been transcribed?
+
+Best,
+
+Neven
+
+Neven Jovanovic
+Zagreb, Croatia
+
 --
 Torsten Schassan
 Digitale Editionen
 Abteilung Handschriften und Sondersammlungen
 Herzog August Bibliothek, Postfach 1364, D-38299 Wolfenbuettel
-Tel.: +49-5331-808-130 (Fax -165), schassan {at} hab.deHandschriftendatenbank: http://diglib.hab.de/?db=3Dmss
+Tel.: +49-5331-808-130 (Fax -165), schassan {at} hab.de
+
+Handschriftendatenbank: http://diglib.hab.de/?db=mss
+
 Digital Medievalist --  http://www.digitalmedievalist.org/
 Journal: http://www.digitalmedievalist.org/journal/
 Journal Editors: editors _AT_ digitalmedievalist.org
 News: http://www.digitalmedievalist.org/news/
 Wiki: http://www.digitalmedievalist.org/wiki/
 Twitter: http://twitter.com/digitalmedieval
-Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca
-Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+
 Digital Medievalist --  http://www.digitalmedievalist.org/
 Journal: http://www.digitalmedievalist.org/journal/
 Journal Editors: editors _AT_ digitalmedievalist.org
@@ -76,12 +105,16 @@ Wiki: http://www.digitalmedievalist.org/wiki/
 Twitter: http://twitter.com/digitalmedieval
 Facebook: http://www.facebook.com/group.php?gidI320313760
 _redacted_(a)uleth.ca
-Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
---===============1436900602744222132==
-Content-Type: text/html
+Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+
+
+--1436900602744222132Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
+Content-Disposition: attachment; filenameúttachment.html"
+MIME-Version: 1.0
+
+PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
 eHQvaHRtbDsgY2hhcnNldD1pc28tODg1OS0yIj4KPC9oZWFkPgo8Ym9keSBzdHlsZT0id29yZC13
 cmFwOiBicmVhay13b3JkOyAtd2Via2l0LW5ic3AtbW9kZTogc3BhY2U7IC13ZWJraXQtbGluZS1i
 cmVhazogYWZ0ZXItd2hpdGUtc3BhY2U7ICI+ClRoYW5rcyBmb3IgdGhlIGluZm9ybWF0aW9uLCBG
@@ -190,4 +223,5 @@ VHdpdHRlcjogaHR0cDovL3R3aXR0ZXIuY29tL2RpZ2l0YWxtZWRpZXZhbDxicj4KRmFjZWJvb2s6
 IGh0dHA6Ly93d3cuZmFjZWJvb2suY29tL2dyb3VwLnBocD9naWRJMzIwMzEzNzYwPGJyPgpEaXNj
 dXNzaW9uIGxpc3Q6IGRtLWxAdWxldGguY2E8YnI+CkNoYW5nZSBsaXN0IG9wdGlvbnM6IGh0dHA6
 Ly9saXN0c2Vydi51bGV0aC5jYS9tYWlsbWFuL2xpc3RpbmZvL2RtLWwgPGJyPgo8L2Jsb2NrcXVv
-dGU+CjwvZGl2Pgo8YnI+CjwvZGl2Pgo8L2JvZHk+CjwvaHRtbD4K
+dGU+CjwvZGl2Pgo8YnI+CjwvZGl2Pgo8L2JvZHk+CjwvaHRtbD4K
+

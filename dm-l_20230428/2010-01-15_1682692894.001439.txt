@@ -1,50 +1,98 @@
-Subject: [dm-l] new on arts-humanities.net[with apologies for cross-posting]arts-humanities.net gives you access to a wide range of resources for=20
-research and teaching in the digital arts and humanities. These include:=20
-a catalogue of digital A&H projects; a calendar of upcoming workshops,=20
-conferences and events; guidance on creating digital resources; a=20
-directory of experts working in the field; a job portal; briefing=20
-papers, case studies and much more!http://www.arts-humanities.net/
-SPOTLIGHT on NEW PROJECTSHigh Throughput Humanities e-Research (HiTHeR) and FReSH (Forging=20
-Restful Services for e-Humanities)HiTHeR created a prototype system for analysing the Nineteenth Century=20
-Serials Edition (NCSE) corpus that contains approximately 430,000=20
-articles digitised from several 19th Century periodicals. The follow-on=20
-project, FReSH expands upon this work by incorporating tools that=20
-support deep analysis of the textual content.http://www.arts-humanities.net/projects/high_throughput_humanities_e_research=
-_hither
-Mapping Medieval ChesterThe project asks questions about how medieval inhabitants imagined and=20
-represented the urban space around them. A key aspect of the project is=20
-to integrate geographical and literary mappings of medieval Chester=20
-using cartographic and textual sources and to understand more how about=20
-urban landscapes were navigated by inhabitants.http://www.arts-humanities.net/projects/mapping_medieval_chester
-Read more on these and over 300 other projects in our projecs catalogue,=20
-including information on the digital resources created and the methods=20
-and tools used in the research.URL: http://www.arts-humanities.net/project
-RSS: http://www.arts-humanities.net/project/feed
-The EVENTS CALENDAR lists over 50 upcoming events related to the digital=20
-arts and humanities. You can also access an archive of several hundred=20
-past events. We provide a RSS feeds and an iCal feed that you can plug=20
-directly into your calendar or website.URL: http://www.arts-humanities.net/events
-iCal: http://www.arts-humanities.net/event/ical/
+Subject: [dm-l] new on arts-humanities.net
+
+[with apologies for cross-posting]
+
+arts-humanities.net gives you access to a wide range of resources for 
+research and teaching in the digital arts and humanities. These include: 
+a catalogue of digital A&H projects; a calendar of upcoming workshops, 
+conferences and events; guidance on creating digital resources; a 
+directory of experts working in the field; a job portal; briefing 
+papers, case studies and much more!
+
+http://www.arts-humanities.net/
+
+SPOTLIGHT on NEW PROJECTS
+
+High Throughput Humanities e-Research (HiTHeR) and FReSH (Forging 
+Restful Services for e-Humanities)
+
+HiTHeR created a prototype system for analysing the Nineteenth Century 
+Serials Edition (NCSE) corpus that contains approximately 430,000 
+articles digitised from several 19th Century periodicals. The follow-on 
+project, FReSH expands upon this work by incorporating tools that 
+support deep analysis of the textual content.
+
+http://www.arts-humanities.net/projects/high_throughput_humanities_e_research_hither
+
+Mapping Medieval Chester
+
+The project asks questions about how medieval inhabitants imagined and 
+represented the urban space around them. A key aspect of the project is 
+to integrate geographical and literary mappings of medieval Chester 
+using cartographic and textual sources and to understand more how about 
+urban landscapes were navigated by inhabitants.
+
+http://www.arts-humanities.net/projects/mapping_medieval_chester
+
+Read more on these and over 300 other projects in our projecs catalogue, 
+including information on the digital resources created and the methods 
+and tools used in the research.
+
+URL: http://www.arts-humanities.net/project
+RSS: http://www.arts-humanities.net/project/feed
+
+
+
+The EVENTS CALENDAR lists over 50 upcoming events related to the digital 
+arts and humanities. You can also access an archive of several hundred 
+past events. We provide a RSS feeds and an iCal feed that you can plug 
+directly into your calendar or website.
+
+URL: http://www.arts-humanities.net/events
+iCal: http://www.arts-humanities.net/event/ical/
+
 FEATURED EVENT: 2010 DHO Summer School
-http://www.arts-humanities.net/event/2010_dho_summer_schoolThe third annual Digital Humanities Observatory (DHO) Summer School will=20
-take place in Dublin from 28 June to 2 July. The event will see workshop=20
-strands such as: a practical introduction to the Text Encoding=20
-Initiative or data visualisation for the humanities.
-FEATURED EVENT: Digital Futures Academy: From Digitization to Delivery:=20
+http://www.arts-humanities.net/event/2010_dho_summer_school
+
+The third annual Digital Humanities Observatory (DHO) Summer School will 
+take place in Dublin from 28 June to 2 July. The event will see workshop 
+strands such as: a practical introduction to the Text Encoding 
+Initiative or data visualisation for the humanities.
+
+FEATURED EVENT: Digital Futures Academy: From Digitization to Delivery: 
 Sydney, Australia
-http://www.arts-humanities.net/event/digital_futures_academy_digitization_del=
-ivery_sydney_australiaDigital Futures focuses on the creation, delivery and preservation of=20
-digital resources from cultural and memory institutions. Lasting 5 days,=20
-Digital Futures is aimed at managers and other practitioners from the=20
-library, museum, heritage, media and cultural sectors.NEW USER GROUPThe London Digital Humanities GroupA network of London-based early career scholars working in the digital=20
-humanitites.http://www.arts-humanities.net/london_digital_humantities_grouparts-humanities.net is hosted by the Centre for e-Research at King's=20
-College London and is developed in collaboration with several groups and=20
-projects, including the UK Network of Expert Centres. It is funded by=20
-the JISC.--=20
+http://www.arts-humanities.net/event/digital_futures_academy_digitization_delivery_sydney_australia
+
+Digital Futures focuses on the creation, delivery and preservation of 
+digital resources from cultural and memory institutions. Lasting 5 days, 
+Digital Futures is aimed at managers and other practitioners from the 
+library, museum, heritage, media and cultural sectors.
+
+
+
+NEW USER GROUP
+
+The London Digital Humanities Group
+
+A network of London-based early career scholars working in the digital 
+humanitites.
+
+http://www.arts-humanities.net/london_digital_humantities_group
+
+
+
+arts-humanities.net is hosted by the Centre for e-Research at King's 
+College London and is developed in collaboration with several groups and 
+projects, including the UK Network of Expert Centres. It is funded by 
+the JISC.
+
+-- 
 Dr. Torsten Reimer
 Development Manager
 Community Infrastructures and e-Learning
 http://www.arts-humanities.net
 Centre for e-Research, King's College London
-http://kcl.ac.uk/iss/cerch/
---===============1686669078025538121==--
+http://kcl.ac.uk/iss/cerch/
+
+--1686669078025538121-
+

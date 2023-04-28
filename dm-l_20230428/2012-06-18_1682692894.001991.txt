@@ -1,32 +1,23 @@
-Subject: [dm-l] best practice: photographc facsimile?Dear Digital Medievalist,For a couple of new Internet editions of medieval manuscripts I've procured h=
-igh-resolution tiff images, which I'm publishing with a "magnifying glass" ov=
-erlay. This is in a "responsive" context, so the components of the page, incl=
-uding the images, resize to fit the window dimensions. There's a sample at:http://suprasliensis.obdurodon.org/pages/supr001r.htmlThe current images were prepared quickly for a demo, and are not of consisten=
-t size or resolution. I would now like to go back to get this part of the sit=
-e up to production quality, and I would be grateful for advice about how to m=
-anage the images, an area where I don't have much (=3D any) knowledge of best=
- practice. I'd like small image files that load quickly, and I think I don't =
-mind slightly lossy compression if that would reduce the file size substantia=
-lly--but if that's a mistake, I'd be grateful for a warning. I think there ar=
-e two questions:1. What's an appropriate file format and resolution (size, dpi, color depth, =
-etc.) for the base image, the one that is displayed in full to the right of t=
-he transcription, and that resizes as the user resizes the window? Currently =
-the image files are in jpg format and vary in size from about 2M down to 250k=
-. I can regenerate them all at a common size, resolution, color depth, etc. f=
-rom the original tiffs, but I don't know whether there is any sense of best p=
-ractice concerning what that size should be. If I go the lossy route, what's =
-a reasonable value?2. What's an appropriate degree of magnification for the magnifying-glass ins=
-et view? Currently the magnifying glass inset always shows the image at 200% =
-of the actual file size (not the size of the page as displayed without magnif=
-ication in the browser window!). You can see the difference by comparing, say=
-, folio 30v (about 2MB) to 284r (about 270k), where the magnification is much=
- greater in the former than the latter. I can set the level of magnification =
-anywhere I'd like, but is there any agreement about best practice here?By way of orientation in the question: the purpose of the full image is to al=
-low the user to see the image conveniently alongside the transcription, verif=
-ying any moments where our editorial judgment might appear surprising or ques=
-tionable. The point of the magnified inset is to let the user examine details=
- that may not be visible at lesser magnification, such as erasures, correctio=
-ns, etc. My casual impression is that 30v looks pretty good and loads reasona=
-bly quickly (although quicker would be better), but I don't place great confi=
-dence in my own casual impressions.Thanks,David
-_redacted_(a)pitt.edu
+Subject: [dm-l] best practice: photographc facsimile?
+
+Dear Digital Medievalist,
+
+For a couple of new Internet editions of medieval manuscripts I've procured high-resolution tiff images, which I'm publishing with a "magnifying glass" overlay. This is in a "responsive" context, so the components of the page, including the images, resize to fit the window dimensions. There's a sample at:
+
+http://suprasliensis.obdurodon.org/pages/supr001r.html
+
+The current images were prepared quickly for a demo, and are not of consistent size or resolution. I would now like to go back to get this part of the site up to production quality, and I would be grateful for advice about how to manage the images, an area where I don't have much (= any) knowledge of best practice. I'd like small image files that load quickly, and I think I don't mind slightly lossy compression if that would reduce the file size substantially--but if that's a mistake, I'd be grateful for a warning. I think there are two questions:
+
+1. What's an appropriate file format and resolution (size, dpi, color depth, etc.) for the base image, the one that is displayed in full to the right of the transcription, and that resizes as the user resizes the window? Currently the image files are in jpg format and vary in size from about 2M down to 250k. I can regenerate them all at a common size, resolution, color depth, etc. from the original tiffs, but I don't know whether there is any sense of best practice concerning what that size should be. If I go the lossy route, what's a reasonable value?
+
+2. What's an appropriate degree of magnification for the magnifying-glass inset view? Currently the magnifying glass inset always shows the image at 200% of the actual file size (not the size of the page as displayed without magnification in the browser window!). You can see the difference by comparing, say, folio 30v (about 2MB) to 284r (about 270k), where the magnification is much greater in the former than the latter. I can set the level of magnification anywhere I'd like, but is there any agreement about best practice here?
+
+By way of orientation in the question: the purpose of the full image is to allow the user to see the image conveniently alongside the transcription, verifying any moments where our editorial judgment might appear surprising or questionable. The point of the magnified inset is to let the user examine details that may not be visible at lesser magnification, such as erasures, corrections, etc. My casual impression is that 30v looks pretty good and loads reasonably quickly (although quicker would be better), but I don't place great confidence in my own casual impressions.
+
+Thanks,
+
+David
+_redacted_(a)pitt.edu
+
+
+

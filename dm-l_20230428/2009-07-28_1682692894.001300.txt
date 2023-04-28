@@ -1,4 +1,6 @@
-Subject: Re: [dm-l] Use of wikis for transcription_redacted_(a)btinternet.com> wrote:
+Subject: Re: [dm-l] Use of wikis for transcription
+
+_redacted_(a)btinternet.com> wrote:
 > 7.  Some here have commented on the use of character recognition, which I
 > find bizarre.  I studied optical pattern recognition in the 1980's and it
 > was accepted then, and it is still true I think, that machines cannot
@@ -6,7 +8,8 @@ Subject: Re: [dm-l] Use of wikis for transcription_redacted_(a)btinternet.com>
 <snip/>
 > 9.  I did try out my OCR on a manuscript, but it was completely hopeless.
 > Only humans will ever be able to read these things.
-<snip/>
+<snip/>
+
 I believe you may be thinking about this the wrong way.  Yes,
 straightforward boundary-mapping OCR is almost always going to be
 doomed to failure on the wide and various nature of human handwriting.
@@ -25,6 +28,12 @@ transcription.  If a computer can provide a list of 100 fragments of
 for a human to confirm, then that is a big step forward in
 transcription.  (Especially if it then occasionally mixes back in ones
 you've already approved but look slightly different to most just to
-double-check.)I remember seeing a project that was doing just this for a particular
-manuscript several years ago at the DRH (now DRHA) conference I think.-James
---===============6700875751314446573==--
+double-check.)
+
+I remember seeing a project that was doing just this for a particular
+manuscript several years ago at the DRH (now DRHA) conference I think.
+
+-James
+
+--6700875751314446573-
+

@@ -1,10 +1,25 @@
-Subject: Re: [dm-l] Character reference conversions: help?The TEI Guidelines (P5 edition) contain two chapters about character 
-encoding issues, specifically revised to address the use of Unicode.You can read the current drafts at 
+Subject: Re: [dm-l] Character reference conversions: help?
+
+The TEI Guidelines (P5 edition) contain two chapters about character 
+encoding issues, specifically revised to address the use of Unicode.
+
+You can read the current drafts at 
 http://www.tei-c.org/Activities/CE/FASC-ch.pdf (overview of character 
 encoding issues)
 and
 http://www.tei-c.org/Activities/CE/FASC-wd.pdf (recommendations for 
-encoding non-Unicode characters and glyphsComments on these preliminary drafts from the digiterati on this list 
-would be particularly welcome.Also, if you have specific proposals for changes or additions to the 
+encoding non-Unicode characters and glyphs
+
+Comments on these preliminary drafts from the digiterati on this list 
+would be particularly welcome.
+
+Also, if you have specific proposals for changes or additions to the 
 proposals, please visit http://tei.sourceforge.net and make a "feature 
-request"!Lou Burnard
+request"!
+
+Lou Burnard
+
+
+
+
+

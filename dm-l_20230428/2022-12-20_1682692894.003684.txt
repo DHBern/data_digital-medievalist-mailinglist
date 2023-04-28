@@ -1,76 +1,85 @@
-Subject: [dm-l] IEEE CiSt'23 "Digital Preservation and Processing TechnologyDear digital medievalists,The 3rd Conference on Digital Preservation and Processing Technology of Writt=
-en Heritage will be held in conjunction with the 7th IEEE International Congr=
-ess on Information Science and Technology (IEEE CiSt'23) the week of December=
- 16th =E2=80=93 22th 2023 in Agadir - Essaouira, Morocco.Written cultural heritage is constituted by an immense and constantly growing=
- number of texts conveyed by books, manuscripts, documents, and any supportin=
-g medium. They are a means of communication and transmission of knowledge and=
- traditions, cultures and beliefs, literature and law, across space and time.=
- Written cultural heritage gives witness to the evolution of humanity, scienc=
-es, and arts. It is considered as guardian of speech and language.Preservation, accessibility and exploration of written heritage are core task=
-s of heritage institutions such as archives, libraries and museums as well as=
- of universities and other academic bodies. Digital technologies provide new =
-and more comprehensive approaches for safeguarding texts and historical docum=
-ents as well as for enabling meaningful engagement with our written heritage =
-not only by expert curators but also by citizen scientists and the general pu=
-blic.More recent enhancements of digisiation technologies and computational tools =
-allow for considerable advances in classification, archiving, analysis and in=
-terpretation of documents. However, the transformation of the textual heritag=
-e into digital assets gives rise to many concerns and challenges. The digitiz=
-ation process of handwritten texts, prints and historical documents represent=
-s a paramount task. The loss of information issue from acquisition of an orig=
-inal object is but one of many problems to handle.The digital turn not only presents technological challenges. Methodological a=
-nd theoretical implications question traditional ways of perceiving and defin=
-ing texts and textuality, including the mechanisms and means of textual trans=
-mission. Digitally transformed ecosystems of knowledge are based on the digit=
-al representations of texts and text bearing objects, with the potential of a=
-llowing a more efficient preservation and, potentially, a more accurate compr=
-ehension of their history and tradition which may help to better understand t=
-he present and plan for the future.The conference aims to serve as a valuable venue for researchers and practiti=
-oners to exchange their insights, experiences, and best practices.
-The conference will focus on various aspects related to the preservation stra=
-tegies and workflows, digital content management and automatic processing sys=
-tems as well as infrastructures, frameworks and tools used for preserving and=
- making accessible written heritage.TOPICSWe solicit submissions of original ideas and papers describing significant re=
-sults and developments in the digital curation of written cultural heritage f=
-ocussing but not restricted to the following topics:
+Subject: [dm-l] IEEE CiSt'23 "Digital Preservation and Processing Technology
+
+Dear digital medievalists,
+
+The 3rd Conference on Digital Preservation and Processing Technology of Written Heritage will be held in conjunction with the 7th IEEE International Congress on Information Science and Technology (IEEE CiSt'23) the week of December 16th – 22th 2023 in Agadir - Essaouira, Morocco.
+
+Written cultural heritage is constituted by an immense and constantly growing number of texts conveyed by books, manuscripts, documents, and any supporting medium. They are a means of communication and transmission of knowledge and traditions, cultures and beliefs, literature and law, across space and time. Written cultural heritage gives witness to the evolution of humanity, sciences, and arts. It is considered as guardian of speech and language.
+
+Preservation, accessibility and exploration of written heritage are core tasks of heritage institutions such as archives, libraries and museums as well as of universities and other academic bodies. Digital technologies provide new and more comprehensive approaches for safeguarding texts and historical documents as well as for enabling meaningful engagement with our written heritage not only by expert curators but also by citizen scientists and the general public.
+
+More recent enhancements of digisiation technologies and computational tools allow for considerable advances in classification, archiving, analysis and interpretation of documents. However, the transformation of the textual heritage into digital assets gives rise to many concerns and challenges. The digitization process of handwritten texts, prints and historical documents represents a paramount task. The loss of information issue from acquisition of an original object is but one of many problems to handle.
+
+The digital turn not only presents technological challenges. Methodological and theoretical implications question traditional ways of perceiving and defining texts and textuality, including the mechanisms and means of textual transmission. Digitally transformed ecosystems of knowledge are based on the digital representations of texts and text bearing objects, with the potential of allowing a more efficient preservation and, potentially, a more accurate comprehension of their history and tradition which may help to better understand the present and plan for the future.
+
+The conference aims to serve as a valuable venue for researchers and practitioners to exchange their insights, experiences, and best practices.
+The conference will focus on various aspects related to the preservation strategies and workflows, digital content management and automatic processing systems as well as infrastructures, frameworks and tools used for preserving and making accessible written heritage.
+
+TOPICS
+
+We solicit submissions of original ideas and papers describing significant results and developments in the digital curation of written cultural heritage focussing but not restricted to the following topics:
+
   *   Digitisation workflows, tools and infrastructures
   *   Heritagization criteria and practices
   *   Born digital textual heritage
   *   Page segmentation, layout analysis and classification
-  *   Image/video preprocessing (incl. multiview geometry, 3D computer vision=
-) and analysis
-  *   Handwritten text recognition (HTR), optical character recognition (OCR)=
- and manual transcription
+  *   Image/video preprocessing (incl. multiview geometry, 3D computer vision) and analysis
+  *   Handwritten text recognition (HTR), optical character recognition (OCR) and manual transcription
   *   Digital representation of texts: standards and formats
   *   Annotation, indexing and search
   *   Textual authenticity, fidelity and reliability
   *   Licenses and legal issues
   *   Knowledge representation: accumulation, integration, management
-  *   Accessibility, usability and impact of digital resources
-CHAIRSDr. Ouafae Nahli, ILC CNR, Pisa, Italy
-Dr. Franz Fischer, VeDPH, Universit=C3=A0 Ca' Foscari Venezia, Italy
-Dr. Angelo Mario Del Grosso, ILC CNR, Pisa, ItalyPAPER SUBMISSIONProspective authors should submit, by using EDAS online paper submission plat=
-form<https://edas.info/newPaper.php?c=3D29962&track=3D113637>, a paper of 4 t=
-o 6 pages maximum, including references in scholarly English and describing t=
-heir original work using the IEEE template<https://www.ieee.org/conferences_e=
-vents/conferences/publishing/templates.html>.PUBLICATIONAccepted papers will be published in the proceeding and submitted to IEEE Xpl=
-ore Library, Scopus and DBLP. Furthermore, Authors of high quality papers wil=
-l be invited to submit an extended version of their work for publication in a=
- special issue/section of an international journal.IMPORTANT DATES  *   Paper Submission: May 07, 2023
+  *   Accessibility, usability and impact of digital resources
+
+CHAIRS
+
+Dr. Ouafae Nahli, ILC CNR, Pisa, Italy
+Dr. Franz Fischer, VeDPH, Università Ca' Foscari Venezia, Italy
+Dr. Angelo Mario Del Grosso, ILC CNR, Pisa, Italy
+
+PAPER SUBMISSION
+
+Prospective authors should submit, by using EDAS online paper submission platform<https://edas.info/newPaper.php?c=29962&track=113637>, a paper of 4 to 6 pages maximum, including references in scholarly English and describing their original work using the IEEE template<https://www.ieee.org/conferences_events/conferences/publishing/templates.html>.
+
+
+
+PUBLICATION
+
+Accepted papers will be published in the proceeding and submitted to IEEE Xplore Library, Scopus and DBLP. Furthermore, Authors of high quality papers will be invited to submit an extended version of their work for publication in a special issue/section of an international journal.
+
+
+
+IMPORTANT DATES
+
+  *   Paper Submission: May 07, 2023
   *   Acceptance Notification: June 25, 2023
   *   Camera-ready Submission: July 30, 2023
   *   Author's Registration: September 13, 2023
-  *   Conference Dates: December 16-22, 2023CONTACT INFORMATION_redacted_(a)ieee.ma>
+  *   Conference Dates: December 16-22, 2023
+
+
+
+CONTACT INFORMATION
+
+_redacted_(a)ieee.ma>
+
 --
 Franz Fischer
 Direttore, Venice Centre for Digital & Public Humanities (VeDPH)
 Dipartimento di Studi Umanistici
-Universit=C3=A0 Ca' Foscari
-Palazzo Malcanton Marcor=C3=A0
-Dorsoduro 3484/D - 30123 VeneziaTel.: +39 041 234 6266 (ufficio), +39 041 234 9863 (segreteria del centro)
+Università Ca' Foscari
+Palazzo Malcanton Marcorà
+Dorsoduro 3484/D - 30123 Venezia
+
+Tel.: +39 041 234 6266 (ufficio), +39 041 234 9863 (segreteria del centro)
 https://www.unive.it/vedph
 https://www.i-d-e.de/
-https://journal.digitalmedievalist.org/PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
+https://journal.digitalmedievalist.org/
+
+
+
+PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
 eHQvaHRtbDsgY2hhcnNldD11dGYtOCI+CjwvaGVhZD4KPGJvZHk+CjxkaXYgc3R5bGU9ImJvcmRl
 cjpzb2xpZCAjNjQ2NDY0IDEuMHB0O3BhZGRpbmc6Mi4wcHQgMi4wcHQgMi4wcHQgMi4wcHQ7YmFj
 a2dyb3VuZDojRkZFQjlDIj4KPHAgY2xhc3M9Ik1zb05vcm1hbCIgc3R5bGU9ImxpbmUtaGVpZ2h0
@@ -191,4 +200,4 @@ Il9ibGFuayI+aHR0cHM6Ly93d3cudW5pdmUuaXQvdmVkcGg8L2E+PGJyPgo8YSBocmVmPSJodHRw
 czovL3d3dy5pLWQtZS5kZS8iIHRhcmdldD0iX2JsYW5rIj5odHRwczovL3d3dy5pLWQtZS5kZS88
 L2E+PGJyPgo8YSBocmVmPSJodHRwczovL2pvdXJuYWwuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy8i
 IHRhcmdldD0iX2JsYW5rIj5odHRwczovL2pvdXJuYWwuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy88
-L2E+PC9mb250PjwvZGl2Pgo8L2Rpdj4KPC9kaXY+CjwvYm9keT4KPC9odG1sPgo=
+L2E+PC9mb250PjwvZGl2Pgo8L2Rpdj4KPC9kaXY+CjwvYm9keT4KPC9odG1sPgo

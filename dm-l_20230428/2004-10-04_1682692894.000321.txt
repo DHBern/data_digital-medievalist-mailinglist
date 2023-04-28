@@ -1,31 +1,55 @@
-Subject: [dm-l] A proposal for a commissionHello all,
+Subject: [dm-l] A proposal for a commission
+
+Hello all,
 	Now that the website is up and running, I'd like to propose a 
 commission for the list: let's start writing a primer on humanities 
-computing for medievalists.	What I'm thinking of is using the wiki to write individual "chapters" 
+computing for medievalists.
+
+	What I'm thinking of is using the wiki to write individual "chapters" 
 and then combine them using a table of content wiki entry. This would 
 also allow us to reuse "chapters" in different contexts (e.g. someone 
 could add a TOC for "encoding medieval music" and reuse several already 
-existing chapters).	Since this would be a collaborative effort, the precise contents would 
+existing chapters).
+
+	Since this would be a collaborative effort, the precise contents would 
 be a fluid and collective decision. I can only know what I'd like to see 
-(or wish I had seen some time in the past):-imaging: what it involves, whether I should/can scan from slides (what 
-format), how much sharpening or colour-adjustment I ought to do, etc.-Fonts: what is unicode? how do I access it? are there other systems? 
+(or wish I had seen some time in the past):
+
+-imaging: what it involves, whether I should/can scan from slides (what 
+format), how much sharpening or colour-adjustment I ought to do, etc.
+
+-Fonts: what is unicode? how do I access it? are there other systems? 
 where do I find fonts? are their standards? how do I encode fonts in my 
-web pages (not I am being deliberately naive here).-Markup: structural vs. display vs. wordprocessing vs. text files: 
+web pages (not I am being deliberately naive here).
+
+-Markup: structural vs. display vs. wordprocessing vs. text files: 
 what's the difference? What should I keep in mind if I start a project? 
 Why should I bother distinguishing between different types of italics 
-using structural markup? Do I *have* to learn TEI?-Project management: what is the typical life of a medieval computing 
+using structural markup? Do I *have* to learn TEI?
+
+-Project management: what is the typical life of a medieval computing 
 project? what kind of funding and/or expertise would I need? Can I do it 
 on my own? are there resources/books I should know about? Is there 
-advice for publishing out the other end?There are obviously many more questions and sub-questions one could ask.Is this something people would be interested in? Any suggestions for 
-possible topics? Volunteers to start writing?The only thing I would ask if you are willing is that you sign your 
+advice for publishing out the other end?
+
+There are obviously many more questions and sub-questions one could ask.
+
+Is this something people would be interested in? Any suggestions for 
+possible topics? Volunteers to start writing?
+
+The only thing I would ask if you are willing is that you sign your 
 contributions by signing into the Wiki before editing. You don't have 
 to, but this isn't a pure wiki: we are a collection of largely 
 professional scholars whose business depends on responsibility. This 
 would also allow us, if we were extremely pleased with the results, to 
 publish a parallel version in some other format--assuming that's not a 
-bad idea in some way I can't see.I am willing to coordinate activities to the extent that that is 
+bad idea in some way I can't see.
+
+I am willing to coordinate activities to the extent that that is 
 necessary. My first inclination, however, is to propose the project and 
-see what happens. Other ideas? Suggestions for getting started?-dan
+see what happens. Other ideas? Suggestions for getting started?
+
+-dan
 -- 
 Daniel Paul O'Donnell, PhD
 Associate Professor of English
@@ -34,4 +58,7 @@ Lethbridge AB T1K 3M4
 Tel. (403) 329-2377
 Fax. (403) 382-7191
 _redacted_(a)uleth.ca>
-Home Page <http://people.uleth.ca/~daniel.odonnell/>
+Home Page <http://people.uleth.ca/~daniel.odonnell/>
+
+
+

@@ -1,4 +1,8 @@
-Subject: Re: [dm-l] Best practices for "scholar's own" digitization?Hi,This can quite efficiently done without engaging control via PC. I am using
+Subject: Re: [dm-l] Best practices for "scholar's own" digitization?
+
+Hi,
+
+This can quite efficiently done without engaging control via PC. I am using
 two Canon 12 megapixel point-and-shoot cameras (SD 780). I am not convinced
 that you need a DSLR camera for this (they are way to expensive and do not
 necessarily provide a better image quality). I use them in combination with
@@ -13,7 +17,17 @@ folder and they are automatically arranged. Then, for processing images I
 found an excellent freeware program, ScanTailor, that does a great job -
 most of it automatically - processing images into nice looking pages (
 http://scantailor.sourceforge.net/), which then can be combined into a very
-nice looking PDF.Maxim_redacted_(a)ffzg.hr>> Hi,
+nice looking PDF.
+
+Maxim
+
+
+
+
+
+_redacted_(a)ffzg.hr>
+
+> Hi,
 >
 > a short technical afterthought on cameras.
 >
@@ -47,7 +61,11 @@ _redacted_(a)uleth.ca
 > Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
 >
 >
->PGRpdiBkaXI9Imx0ciI+PGZvbnQgY2xhc3M9IkFwcGxlLXN0eWxlLXNwYW4iIGZhY2U9Imdlb3Jn
+>
+
+
+
+PGRpdiBkaXI9Imx0ciI+PGZvbnQgY2xhc3M9IkFwcGxlLXN0eWxlLXNwYW4iIGZhY2U9Imdlb3Jn
 aWEsIHNlcmlmIj48c3BhbiBjbGFzcz0iQXBwbGUtc3R5bGUtc3BhbiIgc3R5bGU9ImZvbnQtc2l6
 ZTogbGFyZ2U7Ij5IaSw8L3NwYW4+PC9mb250PjxkaXY+PGZvbnQgY2xhc3M9IkFwcGxlLXN0eWxl
 LXNwYW4iIGZhY2U9Imdlb3JnaWEsIHNlcmlmIj48c3BhbiBjbGFzcz0iQXBwbGUtc3R5bGUtc3Bh
@@ -129,4 +147,4 @@ YWlsdG86ZG0tbEB1bGV0aC5jYSI+ZG0tbEB1bGV0aC5jYTwvYT48YnI+CkNoYW5nZSBsaXN0IG9w
 dGlvbnM6IDxhIGhyZWY9Imh0dHA6Ly9saXN0c2Vydi51bGV0aC5jYS9tYWlsbWFuL2xpc3RpbmZv
 L2RtLWwiIHRhcmdldD0iX2JsYW5rIj5odHRwOi8vbGlzdHNlcnYudWxldGguY2EvbWFpbG1hbi9s
 aXN0aW5mby9kbS1sPC9hPjxicj4KPGJyPgo8YnI+CjwvYmxvY2txdW90ZT48L2Rpdj48YnI+PC9k
-aXY+PC9kaXY+Cg==
+aXY+PC9kaXY+Cg

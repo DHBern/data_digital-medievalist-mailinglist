@@ -1,9 +1,15 @@
-Subject: Re: [dm-l] xsltproc and xslIt's the xslt processor that the libxml2 library provides (
+Subject: Re: [dm-l] xsltproc and xsl
+
+It's the xslt processor that the libxml2 library provides (
 http://xmlsoft.org/XSLT/). It's written in C and is pretty fast. It also
 includes EXSLT and some of saxon's extensions. (Saxon may provide EXSLT too:
 it's been awhile since I've looked at its features.) I've used it with good
 results, but if I were comfortable with saxon and didn't need libxslt's
-extra features, I don't know that I'd switch.Eric_redacted_(a)uleth.ca> wrote:
+extra features, I don't know that I'd switch.
+
+Eric
+
+_redacted_(a)uleth.ca> wrote:
 >
 > Hi all, I just discovered xsltproc in linux. Does anybody know what XSL
 > process it is? It seems quite good. Is there a reason not to prefer it
@@ -24,9 +30,17 @@ _redacted_(a)uleth.ca
 > dm-l mailing list
 _redacted_(a)uleth.ca
 > http://listserv.uleth.ca/mailman/listinfo/dm-l
->--
+>
+
+
+
+--
 I have a cunning plan!
---BaldricSXQncyB0aGUgeHNsdCBwcm9jZXNzb3IgdGhhdCB0aGUgbGlieG1sMiBsaWJyYXJ5IHByb3ZpZGVz
+--Baldric
+
+
+
+SXQncyB0aGUgeHNsdCBwcm9jZXNzb3IgdGhhdCB0aGUgbGlieG1sMiBsaWJyYXJ5IHByb3ZpZGVz
 Cig8YSBocmVmPSJodHRwOi8veG1sc29mdC5vcmcvWFNMVC8iPmh0dHA6Ly94bWxzb2Z0Lm9yZy9Y
 U0xULzwvYT4pLiBJdCdzIHdyaXR0ZW4gaW4gQyBhbmQgaXMgcHJldHR5IGZhc3QuIEl0CmFsc28g
 aW5jbHVkZXMgRVhTTFQgYW5kIHNvbWUgb2Ygc2F4b24ncyBleHRlbnNpb25zLiAoU2F4b24gbWF5
@@ -66,4 +80,5 @@ ZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0tbDwvYT48YnI+PC9ibG9ja3F1b3RlPjwvZGl2Pjxi
 cj48YnIgY2xlYXI9ImFsbCI+PGJyPi0tIDxicj5JIGhhdmUgYSBjdW5uaW5nIHBsYW4hPGJyPiZu
 YnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNw
 OyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZu
-YnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOwotLUJhbGRyaWMK
+YnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOwotLUJhbGRyaWMK
+

@@ -1,4 +1,6 @@
-Subject: Re: [dm-l] TEI/XML manuscript markup initiatives?Dot Porter ha scritto:
+Subject: Re: [dm-l] TEI/XML manuscript markup initiatives?
+
+Dot Porter ha scritto:
 > As part of my presentation at Kalamazoo last year I described how (for
 > Electronic Boethius) I modified some of the manuscript description
 > elements for use in transcription (for example, marking rubrics in the
@@ -12,17 +14,25 @@ Subject: Re: [dm-l] TEI/XML manuscript markup initiatives?Dot Porter ha scritt
 > the TEI council), because the interests of the TEI are quite general.
 > But if the DM were to support an effort - a "Manuscript Encoding
 > Initiative" - incorporating manuscript description and transcription
-> (including codicology)...Dot,
+> (including codicology)...
+
+Dot,
 you raise an interesting issue here (using description elements in 
 transcription; BTW what would be the problem with using them "to both 
-describe and transcribe a text in the same document"???).As for reviving discussion on ms transcription, however, I doubt a 
+describe and transcribe a text in the same document"???).
+
+As for reviving discussion on ms transcription, however, I doubt a 
 DM-supported initiative would be feasible: if you think about it, the 
 SIGs are a way to have non-TEI people work on TEI-related issues, so 
 it's already "not from within the TEI". The problem lies in the fact 
 that the "manuscript transcription community", and that includes me of 
 course, didn't manage to keep the SIG alive during the last year. Simply 
 renaming a working group from TEI SIG to DM Manuscript Transcription 
-Initiative wouldn't help much IMHO: it's the same people after all.What should we do then? My 0.02€:* the last SIG meeting (Baltimore, 23 October 2004) hinted at work to be 
+Initiative wouldn't help much IMHO: it's the same people after all.
+
+What should we do then? My 0.02€:
+
+* the last SIG meeting (Baltimore, 23 October 2004) hinted at work to be 
 done on time based encoding and Chapter 18 (Transcription of Primary 
 Sources) revision: if something has been done by anyone, please put it 
 on the wiki and let's start discussion on the SIG mailing list;
@@ -31,9 +41,18 @@ ones (graphical words vs semantical words, marginalia, etc.) should be
 discussed to arrive to a proposal before P5 is finalized: a good start, 
 as I wrote in a previous message, would be looking at what solutions 
 people adopted for their own projects (again on the SIG ml + wiki);
-* this very discussion should be moved to the SIG ml :)Ciao-- 
+* this very discussion should be moved to the SIG ml :)
+
+Ciao
+
+-- 
 Roberto Rosselli Del Turco      roberto.rossellidelturco at unito.it
 Dipartimento di Scienze         rosselli at ling.unipi.it
 del Linguaggio                  Then spoke the thunder  DA
-Universita' di Torino           Datta: what have we given?  (TSE)    Hige sceal the heardra,     heorte the cenre,
-    mod sceal the mare,       the ure maegen litlath.  (Maldon 312-3)
+Universita' di Torino           Datta: what have we given?  (TSE)
+
+    Hige sceal the heardra,     heorte the cenre,
+    mod sceal the mare,       the ure maegen litlath.  (Maldon 312-3)
+
+
+

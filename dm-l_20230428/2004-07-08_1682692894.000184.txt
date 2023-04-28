@@ -1,13 +1,27 @@
-Subject: Re: [dm-l] [Fwd: encoding  maps,	graphics with text?] ProblemswithDear PeterHave a look at:https://engineering.purdue.edu/ECN/Resources/KnowledgeBase/Docs/20030707094951If you have your OS X firewall enabled, it probably has port 8080 blocked.
-This page tells you how to open it up.Regards,Tom Chadwin
-www.the-minds-eye.co.uk
+Subject: Re: [dm-l] [Fwd: encoding  maps,	graphics with text?] Problemswith
+
+Dear Peter
+
+Have a look at:
+
+https://engineering.purdue.edu/ECN/Resources/KnowledgeBase/Docs/20030707094951
+
+If you have your OS X firewall enabled, it probably has port 8080 blocked.
+This page tells you how to open it up.
+
+Regards,
+
+Tom Chadwin
+www.the-minds-eye.co.uk
+
 ----- Original Message ----- 
 _redacted_(a)dmu.ac.uk>
 _redacted_(a)ota.ahds.ac.uk, Digital Medievalist Community mailing
 _redacted_(a)uleth.ca>
 Sent: Thursday, July 08, 2004 10:55 AM
 Subject: Re: [dm-l] [Fwd: encoding maps, graphics with text?] Problemswith
-port 8080??
+port 8080??
+
 > I have tried with various browsers, but all naturally in Mac OS X, and
 from
 > different places, and just cannot get through.  I get 'the operation timed
@@ -32,5 +46,7 @@ bar
 > dm-l mailing list
 _redacted_(a)uleth.ca
 > http://listserv.uleth.ca/mailman/listinfo/dm-l
->
---===============5204914441006030798==--
+>
+
+--5204914441006030798-
+

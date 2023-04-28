@@ -1,81 +1,64 @@
-Subject:Dear Colleagues,On 27-29 October 2021, the ERC Project PASSIM (Patristic Sermons in the Middl=
-e Ages<https://www.mf.surf.net/canit/urlproxy.php?_q=3DaHR0cHM6Ly9hcHBsZWphY2=
-suc2NpZW5jZS5ydS5ubC9wYXNzaW1wcm9qZWN0Lz9wYWdlPWNvbnRhY3Q%3D&_s=3Dcy5ib29kdHN=
-AbGV0LnJ1Lm5s&_c=3D3b76480a&_r=3DcnU%3D>, Radboud University Nijmegen) will o=
-rganize the international Workshop:On the Way to the Future of Digital Manuscript Studies
-Nijmegen, 27-29 October 2021Over the last decades, the ability to exploit digital potential has radically=
- impacted research in the field of manuscript studies. From the most basic fa=
-cilities, such as the increasing availability of digitized images and documen=
-ts, to sophisticated attempts at automatizing the entire process of critical =
-editing, the development of digital tools is extraordinary: it has created un=
-precedented opportunities to mine the data, achieve innovative results, and d=
-isplay them, in ways which previously could only be imagined. In such a dynam=
-ic context, the number of valuable enterprises continues to grow: the time is=
- ripe for a consideration of the achievements already obtained, and of the fo=
-undations that our current work is laying for long-term development of the fi=
-eld. Through the organization of this workshop, the ERC Project PASSIM seeks =
-to provide an occasion to pursue this goal.Scientific Committee: Mariken Teeuwen (Utrecht Universiteit - Huygens ING-KNA=
-W), Olivier Hekster (Radboud Universiteit - KNAW), Shari Boodts (Radboud Univ=
-ersiteit), Gleb Schmidt (Radboud Universiteit), Riccardo Macchioro (Radboud U=
-niversiteit).
-Confirmed Speakers: Marjorie Burghart, Mike Kestemont, Thomas K=C3=B6ntges, I=
-nka Moilanen, Elena Pierazzo, Matthieu Pignot, Philipp Roelli, Dominique Stut=
-zmann, Mariken Teeuwen, Anne-Marie Turcan-Verkerk, Martin Wallraff.Venue. The workshop will be held on 27-29 October 2021, either on location in=
- Nijmegen (ideally), in a hybrid form, or online depending on the development=
- of the Covid-emergency. Board and lodging expenses will be borne by the Orga=
-nization; unfortunately, we are unable to guarantee coverage of travel costs =
-at this time.
-Proceedings. We plan to publish the Proceedings as quickly as possible after =
-the workshop as a volume or special issue of a relevant journal.CALL FOR PAPERS
-We are glad to announce the opening of the Call for Papers for 25 minutes lon=
-g presentations.Abstract Submission
-If you would like to present a lecture at the Workshop, please send an applic=
-ation consisting of a short abstract (ca. 350 words) and concise CV (max. 1 p=
-ag.) to:
-_redacted_(a)let.ru.nl>) =
-_redacted_(a)ru.nl>).
-Abstract submission deadline: 10 May 2021. Acceptance will be communicated sh=
-ortly after, by 15 May 2021.
-Early career scientists and scholars (Ph.D., Post-Doc) are especially encoura=
-ged to apply.TOPICS
-Three key areas are crucial for the advancement of digital manuscript studies=
-: 1) the contribution of research projects with a specific goal to the field =
-as a whole; 2) the capacity to expand their (web)application(s) to other disc=
-iplines rooted in textual source-material (such as history, philology, cultur=
-al studies, and more), and vice-versa; 3) the challenges entailed in developi=
-ng and implementing common/universal standards and data models (e.g. for data=
- structuring, storage, and interoperability). Taking into account this overal=
-l framework, the main focus of the contributions can be on the scholarly prob=
-lems, as well as on the technical issues involved.Possible topics include (without being limited to):Digital approaches to historical phenomena: evaluation of the social impact o=
-f a given literary corpus; the reconstruction of disintegrated manuscripts; t=
-he digital restoration of dispersed medieval libraries; how digital framework=
-s enhance the study of the interaction between the materiality of manuscript =
-objects and intellectual concepts like content and organization.Data management, sustainability, interoperability: construction of big reposi=
-tories of searchable metadata; the building of shared standards to encode met=
-adata on manuscripts; networking, sustainability of structuring standards, in=
-teroperability and reusability of the data accumulated.Digital stemmatology: translation of stemmatic principles into reception stud=
-ies; approaches to stemmatology from a digital point of view; automatic group=
-ing of manuscripts; approaches to overabundant manuscript traditions by means=
- of automatic collation tools.Computational approaches: deep learning and/or machine learning techniques fo=
-r computational analysis (script identification, full-text analysis, authorsh=
-ip attribution, =E2=80=A6); search for a balance between accuracy, exhaustivi=
-ty, and serendipity, while programming and processing computational-statistic=
-al analysis; development and employment of OCR transcription tools.Interaction between the machine and the human scholar: harmonization of (digi=
-tal) phylogenetics with the exigency of a not (too) mechanic evaluation of th=
-e data; strategies to evaluate and classify the results obtained by launching=
- queries on huge amounts of data.Visualization strategies and tools: interpretation of the results of overarch=
-ing queries; representation of connections between complex objects such as co=
-llections of texts; innovative digital editions.
-For any questions or further information, please do not hesitate to contact u=
-s:
-_redacted_(a)let.ru.nl>; =
-_redacted_(a)ru.nl>.On behalf of the Scientific Committee,
-Yours sincerelyRiccardo Macchioro, Gleb Schmidt
---===============8639869262940735766==
-Content-Type: text/html
+Subject:
+
+Dear Colleagues,
+
+On 27-29 October 2021, the ERC Project PASSIM (Patristic Sermons in the Middle Ages<https://www.mf.surf.net/canit/urlproxy.php?_q=aHR0cHM6Ly9hcHBsZWphY2suc2NpZW5jZS5ydS5ubC9wYXNzaW1wcm9qZWN0Lz9wYWdlPWNvbnRhY3Q%3D&_s=cy5ib29kdHNAbGV0LnJ1Lm5s&_c=3b76480a&_r=cnU%3D>, Radboud University Nijmegen) will organize the international Workshop:
+
+On the Way to the Future of Digital Manuscript Studies
+Nijmegen, 27-29 October 2021
+
+Over the last decades, the ability to exploit digital potential has radically impacted research in the field of manuscript studies. From the most basic facilities, such as the increasing availability of digitized images and documents, to sophisticated attempts at automatizing the entire process of critical editing, the development of digital tools is extraordinary: it has created unprecedented opportunities to mine the data, achieve innovative results, and display them, in ways which previously could only be imagined. In such a dynamic context, the number of valuable enterprises continues to grow: the time is ripe for a consideration of the achievements already obtained, and of the foundations that our current work is laying for long-term development of the field. Through the organization of this workshop, the ERC Project PASSIM seeks to provide an occasion to pursue this goal.
+
+Scientific Committee: Mariken Teeuwen (Utrecht Universiteit - Huygens ING-KNAW), Olivier Hekster (Radboud Universiteit - KNAW), Shari Boodts (Radboud Universiteit), Gleb Schmidt (Radboud Universiteit), Riccardo Macchioro (Radboud Universiteit).
+Confirmed Speakers: Marjorie Burghart, Mike Kestemont, Thomas Köntges, Inka Moilanen, Elena Pierazzo, Matthieu Pignot, Philipp Roelli, Dominique Stutzmann, Mariken Teeuwen, Anne-Marie Turcan-Verkerk, Martin Wallraff.
+
+Venue. The workshop will be held on 27-29 October 2021, either on location in Nijmegen (ideally), in a hybrid form, or online depending on the development of the Covid-emergency. Board and lodging expenses will be borne by the Organization; unfortunately, we are unable to guarantee coverage of travel costs at this time.
+Proceedings. We plan to publish the Proceedings as quickly as possible after the workshop as a volume or special issue of a relevant journal.
+
+CALL FOR PAPERS
+We are glad to announce the opening of the Call for Papers for 25 minutes long presentations.
+
+Abstract Submission
+If you would like to present a lecture at the Workshop, please send an application consisting of a short abstract (ca. 350 words) and concise CV (max. 1 pag.) to:
+_redacted_(a)let.ru.nl>) _redacted_(a)ru.nl>).
+Abstract submission deadline: 10 May 2021. Acceptance will be communicated shortly after, by 15 May 2021.
+Early career scientists and scholars (Ph.D., Post-Doc) are especially encouraged to apply.
+
+TOPICS
+Three key areas are crucial for the advancement of digital manuscript studies: 1) the contribution of research projects with a specific goal to the field as a whole; 2) the capacity to expand their (web)application(s) to other disciplines rooted in textual source-material (such as history, philology, cultural studies, and more), and vice-versa; 3) the challenges entailed in developing and implementing common/universal standards and data models (e.g. for data structuring, storage, and interoperability). Taking into account this overall framework, the main focus of the contributions can be on the scholarly problems, as well as on the technical issues involved.
+
+Possible topics include (without being limited to):
+
+Digital approaches to historical phenomena: evaluation of the social impact of a given literary corpus; the reconstruction of disintegrated manuscripts; the digital restoration of dispersed medieval libraries; how digital frameworks enhance the study of the interaction between the materiality of manuscript objects and intellectual concepts like content and organization.
+
+Data management, sustainability, interoperability: construction of big repositories of searchable metadata; the building of shared standards to encode metadata on manuscripts; networking, sustainability of structuring standards, interoperability and reusability of the data accumulated.
+
+Digital stemmatology: translation of stemmatic principles into reception studies; approaches to stemmatology from a digital point of view; automatic grouping of manuscripts; approaches to overabundant manuscript traditions by means of automatic collation tools.
+
+Computational approaches: deep learning and/or machine learning techniques for computational analysis (script identification, full-text analysis, authorship attribution, …); search for a balance between accuracy, exhaustivity, and serendipity, while programming and processing computational-statistical analysis; development and employment of OCR transcription tools.
+
+Interaction between the machine and the human scholar: harmonization of (digital) phylogenetics with the exigency of a not (too) mechanic evaluation of the data; strategies to evaluate and classify the results obtained by launching queries on huge amounts of data.
+
+Visualization strategies and tools: interpretation of the results of overarching queries; representation of connections between complex objects such as collections of texts; innovative digital editions.
+
+For any questions or further information, please do not hesitate to contact us:
+_redacted_(a)let.ru.nl>; _redacted_(a)ru.nl>.
+
+On behalf of the Scientific Committee,
+Yours sincerely
+
+Riccardo Macchioro, Gleb Schmidt
+
+
+
+
+
+--8639869262940735766Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
+Content-Disposition: attachment; filename�ttachment.html"
+MIME-Version: 1.0
+
+PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
 eHQvaHRtbDsgY2hhcnNldD11dGYtOCI+CjwvaGVhZD4KPGJvZHkgc3R5bGU9IndvcmQtd3JhcDog
 YnJlYWstd29yZDsgLXdlYmtpdC1uYnNwLW1vZGU6IHNwYWNlOyBsaW5lLWJyZWFrOiBhZnRlci13
 aGl0ZS1zcGFjZTsiIGNsYXNzPSIiPgo8ZGl2IHN0eWxlPSJib3JkZXI6c29saWQgIzY0NjQ2NCAx
@@ -326,7 +309,8 @@ OyB0ZXh0LWFsaWduOiBqdXN0aWZ5OyIgY2xhc3M9IiI+PHNwYW4gbGFuZz0iRU4tVVMiIGNsYXNz
 PSIiPjwvc3Bhbj48YnIgY2xhc3M9IndlYmtpdC1ibG9jay1wbGFjZWhvbGRlciI+CjwvZGl2Pgo8
 ZGl2IGNsYXNzPSIiPlJpY2NhcmRvIE1hY2NoaW9ybywgR2xlYiBTY2htaWR0PC9kaXY+CjwvZGl2
 Pgo8L2Rpdj4KPGRpdiBjbGFzcz0iIj48YnIgY2xhc3M9IiI+CjwvZGl2Pgo8ZGl2IGNsYXNzPSIi
-PjwvZGl2Pgo8L2Rpdj4KPC9kaXY+CjwvYm9keT4KPC9odG1sPgo=JVBERi0xLjMKJcTl8uXrp/Og0MTGCjQgMCBvYmoKPDwgL0xlbmd0aCA1IDAgUiAvRmlsdGVyIC9G
+PjwvZGl2Pgo8L2Rpdj4KPC9kaXY+CjwvYm9keT4KPC9odG1sPgo
+JVBERi0xLjMKJcTl8uXrp/Og0MTGCjQgMCBvYmoKPDwgL0xlbmd0aCA1IDAgUiAvRmlsdGVyIC9G
 bGF0ZURlY29kZSA+PgpzdHJlYW0KeAHFnXtzJMeR2P/Hpxg+QGKXg8H09PtELm5JSitS3JXW3vO9
 9uxwMCSfHZJtSfb39y+rOqurO2uA6ppR+BRHgACYk5WV71f9efd+9+ddOxy64/E47Ia6PQzjOO7+
 tKv6+jAej9X8sz/OP+u7/tDK3/0x/Lc30c/+ffePu/8pv6lPO/lx3e2qqj10w64bDsOw+8vv3R88
@@ -5954,8 +5938,10 @@ MDU4ODUgMDAwMDAgbiAKMDAwMDMwNjU4MyAwMDAwMCBuIAowMDAwMzA2MTUyIDAwMDAwIG4gCjAw
 MDAzMDY1NjMgMDAwMDAgbiAKMDAwMDMwNjgzNCAwMDAwMCBuIAowMDAwMzE4Nzk3IDAwMDAwIG4g
 CnRyYWlsZXIKPDwgL1NpemUgODEgL1Jvb3QgMzcgMCBSIC9JbmZvIDEgMCBSIC9JRCBbIDxhMGE5
 ZjYyMzlkZTJlZDg5OGVhYTM2ZGU2OTE4MzFmZT4KPGEwYTlmNjIzOWRlMmVkODk4ZWFhMzZkZTY5
-MTgzMWZlPiBdID4+CnN0YXJ0eHJlZgozMTkwNTMKJSVFT0YKPGh0bWw+PGhlYWQ+PG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0
+MTgzMWZlPiBdID4+CnN0YXJ0eHJlZgozMTkwNTMKJSVFT0YK
+
+PGh0bWw+PGhlYWQ+PG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0
 L2h0bWw7IGNoYXJzZXQ9dXMtYXNjaWkiPjwvaGVhZD48Ym9keSBzdHlsZT0id29yZC13cmFwOiBi
 cmVhay13b3JkOyAtd2Via2l0LW5ic3AtbW9kZTogc3BhY2U7IGxpbmUtYnJlYWs6IGFmdGVyLXdo
 aXRlLXNwYWNlOyIgY2xhc3M9IiI+PGRpdiBkaXI9Imx0ciIgY2xhc3M9IiI+PGRpdiBjbGFzcz0i
-Ij48L2Rpdj48L2Rpdj48L2JvZHk+PC9odG1sPg==
+Ij48L2Rpdj48L2Rpdj48L2JvZHk+PC9odG1sPg

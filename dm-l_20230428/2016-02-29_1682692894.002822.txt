@@ -1,50 +1,62 @@
-Subject: [dm-l] =?utf-8?b?4oCcSmVkbGk6?= A Textual Analysis Toolbox forDear colleagues,The team of the ERC project =E2=80=9CThe Early Islamic Empire at Work=E2=80=
-=9D based =20
-at Hamburg are very pleased to announce the publication of the second =20
-issue of the Early Islamic Empire Working Paper Series. =E2=80=9CJedli: A =20
-Textual Analysis Toolbox for Digitized Arabic Texts=E2=80=9D by Jos=C3=A9 Har=
-o =20
-Peralta and Peter Verkinderen is now available for download at =20
-https://www.islamic-empire.uni-hamburg.de/en/publications-tools/publications/=
-working-paper-series.html. The working paper contains a detailed manual of ho=
-w to use Jedli, a toolbox developed by the two authors to help scholars make =
-use of digitized Arabic texts more quickly and =20
-efficiently.Scholars working with Arabic texts are often confronted with an =20
-extraordinary number of sources at their disposal. Manually =20
-researching these texts can take an inordinate amount of time. =20
-Although many of the primary sources in Arabic have been available in =20
-digital form for some time now, the potential inherent in this =20
-development has not been fully realized yet. Inspired by the advent of =20
-digital humanities, the project team have started developing a number =20
-of tools for text mining and data analysis that more fully take =20
-advantage of the digitization of Arabic sources.Jedli is a toolbox that currently contains three distinct search =20
-functions: the indexer, the highlighter, and the context search. The =20
-indexer enables you to produce a custom index of any word in a text =20
-(or any number of words in any number of texts at the same time), =20
-complete with references to the specific volume and page number of =20
-each occurrence, and a user-defined amount of context around the =20
-search word. The highlighter marks any number of search terms in =20
-different colors according to a user-defined color scheme, to help you =20
-identify relevant text segments more quickly. The context search =20
-allows you to restrict search results to contexts pertinent to your =20
-research through the combination of customized (lists of) search terms.The current version of Jedli can now be downloaded for free from our =20
-website at =20
-https://www.islamic-empire.uni-hamburg.de/en/publications-tools/digital-tools=
-/jedli.html. We also provide a directory containing a collection of digitized=
- Arabic texts that we have already converted into the format required for Jed=
-li to work =20
-(.txt).The current version only runs on Windows platforms, but we are working =20
-to ensure that it will run on other operating systems in the near =20
-future as well. If you encounter any bugs or problems during the =20
-execution of the program, or have requests for additional features, =20
-_redacted_(a)gmail.com and/or =20
-_redacted_(a)uni-hamburg.de.With best wishes from Hamburg,
-Hannah HagemannDr. Hannah-Lena Hagemann
+Subject: [dm-l] tf-8?b?4oCcSmVkbGk6?
+Dear colleagues,
+
+The team of the ERC project “The Early Islamic Empire at Work” based  
+at Hamburg are very pleased to announce the publication of the second  
+issue of the Early Islamic Empire Working Paper Series. “Jedli: A  
+Textual Analysis Toolbox for Digitized Arabic Texts” by José Haro  
+Peralta and Peter Verkinderen is now available for download at  
+https://www.islamic-empire.uni-hamburg.de/en/publications-tools/publications/working-paper-series.html. The working paper contains a detailed manual of how to use Jedli, a toolbox developed by the two authors to help scholars make use of digitized Arabic texts more quickly and  
+efficiently.
+
+Scholars working with Arabic texts are often confronted with an  
+extraordinary number of sources at their disposal. Manually  
+researching these texts can take an inordinate amount of time.  
+Although many of the primary sources in Arabic have been available in  
+digital form for some time now, the potential inherent in this  
+development has not been fully realized yet. Inspired by the advent of  
+digital humanities, the project team have started developing a number  
+of tools for text mining and data analysis that more fully take  
+advantage of the digitization of Arabic sources.
+
+Jedli is a toolbox that currently contains three distinct search  
+functions: the indexer, the highlighter, and the context search. The  
+indexer enables you to produce a custom index of any word in a text  
+(or any number of words in any number of texts at the same time),  
+complete with references to the specific volume and page number of  
+each occurrence, and a user-defined amount of context around the  
+search word. The highlighter marks any number of search terms in  
+different colors according to a user-defined color scheme, to help you  
+identify relevant text segments more quickly. The context search  
+allows you to restrict search results to contexts pertinent to your  
+research through the combination of customized (lists of) search terms.
+
+The current version of Jedli can now be downloaded for free from our  
+website at  
+https://www.islamic-empire.uni-hamburg.de/en/publications-tools/digital-tools/jedli.html. We also provide a directory containing a collection of digitized Arabic texts that we have already converted into the format required for Jedli to work  
+(.txt).
+
+The current version only runs on Windows platforms, but we are working  
+to ensure that it will run on other operating systems in the near  
+future as well. If you encounter any bugs or problems during the  
+execution of the program, or have requests for additional features,  
+_redacted_(a)gmail.com and/or  
+_redacted_(a)uni-hamburg.de.
+
+With best wishes from Hamburg,
+Hannah Hagemann
+
+
+
+Dr. Hannah-Lena Hagemann
 Research Associate, ERC Project "The Early Islamic Empire at Work -
 The View From the Regions Toward the Center"
-Universit=C3=A4t Hamburg, Asien-Afrika-Institut
+Universität Hamburg, Asien-Afrika-Institut
 Edmund-Siemers-Allee 1, Rm 16
 20146 Hamburg, Germany
 T: +49 40 42838 3095
 _redacted_(a)uni-hamburg.de
-W: https://www.islamic-empire.uni-hamburg.de/
+W: https://www.islamic-empire.uni-hamburg.de/
+
+
+

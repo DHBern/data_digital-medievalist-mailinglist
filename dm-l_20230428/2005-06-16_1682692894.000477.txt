@@ -1,28 +1,15 @@
-Subject: [dm-l] Searching Latin texts and orthographical variantsI am the project director of the Electronic Grosseteste, a research resource =
-that provides access to electronic medieval Latin texts and an integrated bib=
-liography.  The textbase is composed of a variety of Latin texts (most of the=
-m under copyright but still searchable).  Right now the search engine is pret=
-ty primitive, and one enhancement I would like to make is to account for orth=
-ographical variants in the texts.  Some texts were classicized, while other e=
-ditors followed either the orthography of a single manuscript or attempted to=
- follow some sort of convention based generally on Latin texts in later medie=
-val England (these are the facts, and this post is not about the joy of debat=
-ing editorial practice).  Ideally, I would like to allow searches to include =
-returns for classical and "medieval" spellings.  For example, if a user queri=
-ed "scientia" the engine would return matches for "scientia" and "sciencia". =
-(wildcards are permitted, btw).=20Now I work in Perl5, and so my initial thought was to create a set of hash ta=
-bles that would map these variants since hashes would allow for more than one=
- variant per entity, and the engine would then perform a lookup for each quer=
-y element.  Now I suppose coding into the engine the "orthographical rules" i=
-s another option, but I'll be honest and admit that computational linguistics=
- has never been my thing.  And, the beauty of hashes in Perl is that they are=
- compiled very quickly, and don't eat too much memory.=20Now before I go and reinvent the wheel with these hash tables, does anyone kn=
-ow of an open-source method or resource that addresses this kind of problem (=
-I know that Brepols--pardon me, Brepolis...yeesh---has this all figured out b=
-ut they don't play will with others, so that's a closed door.).  My limited s=
-couring of the web has yielded no joy, and so I seek the sage advice of this =
-community. =20Many thanks
-Jim--------------------
+Subject: [dm-l] Searching Latin texts and orthographical variants
+
+I am the project director of the Electronic Grosseteste, a research resource that provides access to electronic medieval Latin texts and an integrated bibliography.  The textbase is composed of a variety of Latin texts (most of them under copyright but still searchable).  Right now the search engine is pretty primitive, and one enhancement I would like to make is to account for orthographical variants in the texts.  Some texts were classicized, while other editors followed either the orthography of a single manuscript or attempted to follow some sort of convention based generally on Latin texts in later medieval England (these are the facts, and this post is not about the joy of debating editorial practice).  Ideally, I would like to allow searches to include returns for classical and "medieval" spellings.  For example, if a user queried "scientia" the engine would return matches for "scientia" and "sciencia". (wildcards are permitted, btw). 
+
+Now I work in Perl5, and so my initial thought was to create a set of hash tables that would map these variants since hashes would allow for more than one variant per entity, and the engine would then perform a lookup for each query element.  Now I suppose coding into the engine the "orthographical rules" is another option, but I'll be honest and admit that computational linguistics has never been my thing.  And, the beauty of hashes in Perl is that they are compiled very quickly, and don't eat too much memory. 
+
+Now before I go and reinvent the wheel with these hash tables, does anyone know of an open-source method or resource that addresses this kind of problem (I know that Brepols--pardon me, Brepolis...yeesh---has this all figured out but they don't play will with others, so that's a closed door.).  My limited scouring of the web has yielded no joy, and so I seek the sage advice of this community.  
+
+Many thanks
+Jim
+
+--------------------
 Dr James R. Ginther, PhD
 Assoc. Professor of Medieval Theology
 & Director of Graduate Studies
@@ -31,7 +18,11 @@ St Louis University
 _redacted_(a)slu.edu
 ---------------------------------
 dept: http://theology.slu.edu/
-research: http://www.grosseteste.com/PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMCBUcmFuc2l0aW9uYWwv
+research: http://www.grosseteste.com/
+
+
+
+PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMCBUcmFuc2l0aW9uYWwv
 L0VOIj4KPEhUTUw+PEhFQUQ+CjxNRVRBIGh0dHAtZXF1aXY9Q29udGVudC1UeXBlIGNvbnRlbnQ9
 InRleHQvaHRtbDsgY2hhcnNldD1pc28tODg1OS0xIj4KPE1FVEEgY29udGVudD0iTVNIVE1MIDYu
 MDAuMjgwMC4xNDk4IiBuYW1lPUdFTkVSQVRPUj4KPFNUWUxFPjwvU1RZTEU+CjwvSEVBRD4KPEJP
@@ -86,4 +77,4 @@ YWlsdG86Z2ludGhlakBzbHUuZWR1Ij5naW50aGVqQHNsdS5lZHU8L0E+PEJSPi0tLS0tLS0tLS0t
 LS0tLS0tLS0tLS0tLS0tLS0tLS0tLTxCUj5kZXB0OiAKPEEgaHJlZj0iaHR0cDovL3RoZW9sb2d5
 LnNsdS5lZHUvIj5odHRwOi8vdGhlb2xvZ3kuc2x1LmVkdS88L0E+PEJSPnJlc2VhcmNoOiA8QSAK
 aHJlZj0iaHR0cDovL3d3dy5ncm9zc2V0ZXN0ZS5jb20vIj5odHRwOi8vd3d3Lmdyb3NzZXRlc3Rl
-LmNvbS88L0E+PC9GT05UPjwvRElWPjwvQk9EWT48L0hUTUw+Cg==
+LmNvbS88L0E+PC9GT05UPjwvRElWPjwvQk9EWT48L0hUTUw+Cg

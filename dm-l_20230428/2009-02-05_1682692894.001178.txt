@@ -1,7 +1,17 @@
-Subject: Re: [dm-l] Open Office and WordThere is a Sun plugin for MS Office that allows Office programs to  
+Subject: Re: [dm-l] Open Office and Word
+
+There is a Sun plugin for MS Office that allows Office programs to  
 read OpenOffice files.  Office 2007 requires SP1.  Office 2003 should  
-also work.http://www.sun.com/software/star/odf_plugin/index.jspIt doesn't look as if there is support for the Mac (Office 2004 or  
-2008).Mike/***************************************
+also work.
+
+http://www.sun.com/software/star/odf_plugin/index.jsp
+
+It doesn't look as if there is support for the Mac (Office 2004 or  
+2008).
+
+Mike
+
+/***************************************
   * Michael L. Norton, Ph.D.
   * Associate Professor
   * Dept. of Computer Science
@@ -11,7 +21,11 @@ also work.http://www.sun.com/software/star/odf_plugin/index.jspIt doesn't lo
   * Harrisonburg  VA  23807
   * 540-568-2777
 _redacted_(a)cisat.jmu.edu
-  **************************************/On Feb 5, 2009, at 11:24 AM, Dan O'Donnell wrote:> Hi all,
+  **************************************/
+
+On Feb 5, 2009, at 11:24 AM, Dan O'Donnell wrote:
+
+> Hi all,
 >
 > I just heard news that shook my lack of faith in mankind. Does anybody
 > know if it is true that Word reads Open Office files? I'm fully linux,
@@ -31,4 +45,7 @@ _redacted_(a)cisat.jmu.edu
 > News: http://www.digitalmedievalist.org/news/
 > Wiki: http://www.digitalmedievalist.org/wiki/
 _redacted_(a)uleth.ca
-> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+
+

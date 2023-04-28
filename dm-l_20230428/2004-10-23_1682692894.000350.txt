@@ -1,10 +1,18 @@
-Subject: Re: [dm-l] Autoinstall for fontsDear Dan,
+Subject: Re: [dm-l] Autoinstall for fonts
+
+Dear Dan,
          I don't know of anything for Macs, Linux, etc., but for Windows, 
 you might look at http://www.jrsoftware.org/isinfo.php. I've found that 
 easy to work with. We're using this for the forthcoming editions of 
 Bodleian Library's MS Laud 581 and BL, MS Additional 35287 in the Piers 
-Plowman Electronic Archive.Best,
-DugAt 10:53 AM 10/23/2004 -0600, you wrote:
+Plowman Electronic Archive.
+
+Best,
+Dug
+
+
+
+At 10:53 AM 10/23/2004 -0600, you wrote:
 >Hello all,
 >         Does anybody know of an adaptable auto-install program that would 
 > install fonts when a CD is loaded? I'm looking for something that ideally 
@@ -27,7 +35,11 @@ _redacted_(a)uleth.ca>
 >Project web site: http://www.digitalmedievalist.org/
 >dm-l mailing list
 _redacted_(a)uleth.ca
->http://listserv.uleth.ca/mailman/listinfo/dm-lPGh0bWw+Cjxib2R5PgpEZWFyIERhbiw8YnI+Cjx4LXRhYj4mbmJzcDsmbmJzcDsmbmJzcDsmbmJz
+>http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+
+
+PGh0bWw+Cjxib2R5PgpEZWFyIERhbiw8YnI+Cjx4LXRhYj4mbmJzcDsmbmJzcDsmbmJzcDsmbmJz
 cDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDs8L3gtdGFiPkkgZG9uJ3QKa25vdyBvZiBhbnl0aGlu
 ZyBmb3IgTWFjcywgTGludXgsIGV0Yy4sIGJ1dCBmb3IgV2luZG93cywgeW91IG1pZ2h0IGxvb2sK
 YXQKPGEgaHJlZj0iaHR0cDovL3d3dy5qcnNvZnR3YXJlLm9yZy9pc2luZm8ucGhwIiBldWRvcmE9
@@ -58,4 +70,4 @@ cDovL3d3dy5kaWdpdGFsbWVkaWV2YWxpc3Qub3JnLzwvYT48YnI+CmRtLWwgbWFpbGluZyBsaXN0
 PGJyPgpkbS1sQHVsZXRoLmNhPGJyPgo8YSBocmVmPSJodHRwOi8vbGlzdHNlcnYudWxldGguY2Ev
 bWFpbG1hbi9saXN0aW5mby9kbS1sIiBldWRvcmE9ImF1dG91cmwiPmh0dHA6Ly9saXN0c2Vydi51
 bGV0aC5jYS9tYWlsbWFuL2xpc3RpbmZvL2RtLWw8L2E+PGJyPgo8L2Jsb2NrcXVvdGU+PC9ib2R5
-Pgo8L2h0bWw+Cg==
+Pgo8L2h0bWw+Cg

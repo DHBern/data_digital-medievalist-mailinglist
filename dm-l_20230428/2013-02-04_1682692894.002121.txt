@@ -1,4 +1,10 @@
-Subject: Re: Fwd: [dm-l] Jan 2013: 256 BAV MSs accessible on-lineI've started using this method to "scrapbook" details from the BNF:jessehurlbut.net_redacted_(a)gmail.com> wrote:
+Subject: Re: Fwd: [dm-l] Jan 2013: 256 BAV MSs accessible on-line
+
+I've started using this method to "scrapbook" details from the BNF:
+
+jessehurlbut.net
+
+_redacted_(a)gmail.com> wrote:
 > Taking Marjorie's suggestion one step further, the BnF is also supporting
 > persistent links to details of images for embedding - even supplying the
 > code.  I haven't seen this advertised broadly either, but:
@@ -10,20 +16,16 @@ Subject: Re: Fwd: [dm-l] Jan 2013: 256 BAV MSs accessible on-lineI've started 
 > 3. Highlight the part of the image you wish to save
 > 4. Copy the embed code from the pop-up box
 > 5. Example:
-> <a href=3D'http://gallica.bnf.fr/ark:/12148/btv1b8449032x/f9.item' title=3D=
-'Lien
-> vers le document' target=3D'_blank'><img
-> src=3D'http://gallica.bnf.fr/proxy?method=3DR&ark=3Dbtv1b8449032x.f9&l=3D4&=
-r=3D1464,204,194,187'
-> alt=3D'Po=C3=A9sies [de GUILLAUME DE MACHAUT]'/><br/>Po=C3=A9sies [de GUILL=
-AUME DE
+> <a href='http://gallica.bnf.fr/ark:/12148/btv1b8449032x/f9.item' title='Lien
+> vers le document' target='_blank'><img
+> src='http://gallica.bnf.fr/proxy?method=R&ark=btv1b8449032x.f9&l=4&r=1464,204,194,187'
+> alt='Poésies [de GUILLAUME DE MACHAUT]'/><br/>Poésies [de GUILLAUME DE
 > MACHAUT]<br/> Source: gallica.bnf.fr</a>
 > 5a. Register this snippet if you want with Gallica
 > 6. Embed this in your blog or other site
 > 7. Or simply use the img src URL to show friends the detail you're
 > interested in:
-> http://gallica.bnf.fr/proxy?method=3DR&ark=3Dbtv1b8449032x.f9&l=3D4&r=3D146=
-4,204,194,187
+> http://gallica.bnf.fr/proxy?method=R&ark=btv1b8449032x.f9&l=4&r=1464,204,194,187
 >
 > Best, Ben
 >
@@ -36,8 +38,7 @@ _redacted_(a)ehess.fr> wrote:
 >> images from the Gallica portal are royalty-free for any non-commercial use.
 >> I don' think the news is very widespread, but just go on Gallica, look for
 >> instance for a digitized manuscript (example "Latin 12584"), choose any
->> folio and click on "t=C3=A9l=C3=A9charger / imprimer" (download / print), =
-and you'll
+>> folio and click on "télécharger / imprimer" (download / print), and you'll
 >> find a link to the non-commercial and commercial use policies.
 >> Best regards, Marjorie
 >>
@@ -47,7 +48,7 @@ and you'll
 >> News: http://www.digitalmedievalist.org/news/
 >> Wiki: http://www.digitalmedievalist.org/wiki/
 >> Twitter: http://twitter.com/digitalmedieval
->> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+>> Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca
 >> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
 >
@@ -59,7 +60,9 @@ _redacted_(a)uleth.ca
 > News: http://www.digitalmedievalist.org/news/
 > Wiki: http://www.digitalmedievalist.org/wiki/
 > Twitter: http://twitter.com/digitalmedieval
-> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+> Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca
-> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
---===============3692460202255675444==--
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+--3692460202255675444-
+

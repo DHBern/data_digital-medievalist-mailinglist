@@ -1,4 +1,10 @@
-Subject: [dm-l] Question about preservation of digital contentDear Digital Medievalists and TEI members, I have a question about preservation of digital content especially medieval
+Subject: [dm-l] Question about preservation of digital content
+
+Dear Digital Medievalists and TEI members,
+
+ 
+
+I have a question about preservation of digital content especially medieval
 manuscripts. I am writing a small article on the topic and I have consulted
 a lot sources (papers, handbooks) but most of them do not say anything about
 the "life span" of the data in specific formats. To clarify this - a .doc
@@ -7,17 +13,37 @@ other formats? Has anyone done some research on "life span" of a specific
 version of digital formats and when it becomes clear that the new version
 and the old one are not compatible anymore? And here I am talking about pdf,
 rtf, doc (and all office files), djvu, tiff, jpg , mpg etc. (texts and
-images especially) In my work I am also making a small remark on XML as a data container since
+images especially) 
+
+In my work I am also making a small remark on XML as a data container since
 it is, in my opinion, the best way to go and the standard will surely be
 around for years. But what kind of steps do you make to ensure the
-preservation of documents that have been encoded in xmlI would also like to hear if there are opposing views on xml.I also have the same question about the media. I found some research about
+preservation of documents that have been encoded in xml
+
+I would also like to hear if there are opposing views on xml.
+
+I also have the same question about the media. I found some research about
 the longevity of CDs and DVDs but I am also interested in other media like
-older hard disks, zip drives and magnetic media.I am sorry to bother you with this, but I can use any help I can get Thank you in advanceDaniel Mondekar  
---===============3501407830056976512==
-Content-Type: text/html
+older hard disks, zip drives and magnetic media.
+
+I am sorry to bother you with this, but I can use any help I can get 
+
+Thank you in advance
+
+Daniel Mondekar
+
+ 
+
+ 
+
+
+
+--3501407830056976512Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWwgeG1sbnM6dj0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTp2bWwiIHhtbG5zOm89InVy
+Content-Disposition: attachment; filenameúttachment.html"
+MIME-Version: 1.0
+
+PGh0bWwgeG1sbnM6dj0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTp2bWwiIHhtbG5zOm89InVy
 bjpzY2hlbWFzLW1pY3Jvc29mdC1jb206b2ZmaWNlOm9mZmljZSIgeG1sbnM6dz0idXJuOnNjaGVt
 YXMtbWljcm9zb2Z0LWNvbTpvZmZpY2U6d29yZCIgeG1sbnM6bT0iaHR0cDovL3NjaGVtYXMubWlj
 cm9zb2Z0LmNvbS9vZmZpY2UvMjAwNC8xMi9vbW1sIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcv
@@ -81,4 +107,5 @@ IGFkdmFuY2U8bzpwPjwvbzpwPjwvc3Bhbj48L3A+Cgo8cCBjbGFzcz1Nc29Ob3JtYWw+PHNwYW4g
 bGFuZz1FTi1HQj5EYW5pZWwgTW9uZGVrYXI8bzpwPjwvbzpwPjwvc3Bhbj48L3A+Cgo8cCBjbGFz
 cz1Nc29Ob3JtYWw+PHNwYW4gbGFuZz1FTi1HQj48bzpwPiZuYnNwOzwvbzpwPjwvc3Bhbj48L3A+
 Cgo8cCBjbGFzcz1Nc29Ob3JtYWw+PHNwYW4gbGFuZz1FTi1HQj48bzpwPiZuYnNwOzwvbzpwPjwv
-c3Bhbj48L3A+Cgo8L2Rpdj4KCjwvYm9keT4KCjwvaHRtbD4K
+c3Bhbj48L3A+Cgo8L2Rpdj4KCjwvYm9keT4KCjwvaHRtbD4K
+

@@ -1,19 +1,28 @@
-Subject: Re: [dm-l] [Technical]: Suggestions for a replacement	for	Subversion?Th context here is a little different in that the students are not necessaril=
-y DH students, though the programme is funded because it teaches digital (and=
- publishing) skills to HSS students. So we have to balance ease and interest =
-with our mandate.
+Subject: Re: [dm-l] [Technical]: Suggestions for a replacement	for	Subversion?
+
+Th context here is a little different in that the students are not necessarily DH students, though the programme is funded because it teaches digital (and publishing) skills to HSS students. So we have to balance ease and interest with our mandate.
+
 --
-Sent from my phone using swipe typographical error production technology.Daniel Paul O'Donnell
+Sent from my phone using swipe typographical error production technology.
+
+Daniel Paul O'Donnell
 Department of English
-University of Lethbridge-------- Original message --------
+University of Lethbridge
+
+
+
+-------- Original message --------
 _redacted_(a)durham.ac.uk>
 Date: 2014-12-30 13:52 (GMT-07:00)
 _redacted_(a)uleth.ca>
-Subject: Re: [dm-l] [Technical]: Suggestions for a replacement for Subversion?
+Subject: Re: [dm-l] [Technical]: Suggestions for a replacement for Subversion?
+
 On 12/30/2014 11:30 AM, Abdullah Alger wrote:
 > Saying that, if your students are working on digital humanities projects
 > and are coding, they should learn Git. It's an essential tool that
-> professionals use every day.I was traveling all day and thus the recommendations I would've made have
+> professionals use every day.
+
+I was traveling all day and thus the recommendations I would've made have
 already been made by other people, but I cannot pass up the opportunity
 to second this, very strongly.  Properly implemented, git can be extremely
 user friendly to use (my DMNES project linked in my sig involves a lot
@@ -24,21 +33,32 @@ documentation and help out there for those who are willing to put in a
 little bit (i.e., an afternoon) of time into learning it.  Learning how
 to use git should be considered a requirement of someone who intends to
 work in digital humanities, just as learning LaTeX is one for anyone
-working in math or logic.-Sara--
+working in math or logic.
+
+-Sara
+
+
+
+--
 Dr. Sara L. Uckelman
 Department of Philosophy
 Durham University
-https://www.dur.ac.uk/philosophy/staff/?id=3D12928
-http://dmnes.wordpress.com/
+https://www.dur.ac.uk/philosophy/staff/?id=12928
+http://dmnes.wordpress.com/
+
 Digital Medievalist --  http://www.digitalmedievalist.org/
 Journal: http://www.digitalmedievalist.org/journal/
 Journal Editors: editors _AT_ digitalmedievalist.org
 News: http://www.digitalmedievalist.org/news/
 Wiki: http://www.digitalmedievalist.org/wiki/
 Twitter: http://twitter.com/digitalmedieval
-Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca
-Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-lPGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
+Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+
+
+PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
 eHQvaHRtbDsgY2hhcnNldD11cy1hc2NpaSI+CjxtZXRhIG5hbWU9IkdlbmVyYXRvciIgY29udGVu
 dD0iTWljcm9zb2Z0IEV4Y2hhbmdlIFNlcnZlciI+CjwhLS0gY29udmVydGVkIGZyb20gdGV4dCAt
 LT48c3R5bGU+PCEtLSAuRW1haWxRdW90ZSB7IG1hcmdpbi1sZWZ0OiAxcHQ7IHBhZGRpbmctbGVm
@@ -100,4 +120,5 @@ MCI+aHR0cDovL3d3dy5mYWNlYm9vay5jb20vZ3JvdXAucGhwP2dpZD00OTMyMDMxMzc2MDwvYT48
 YnI+CkRpc2N1c3Npb24gbGlzdDogZG0tbEB1bGV0aC5jYTxicj4KQ2hhbmdlIGxpc3Qgb3B0aW9u
 czogPGEgaHJlZj0iaHR0cDovL2xpc3RzZXJ2LnVsZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0t
 bCI+aHR0cDovL2xpc3RzZXJ2LnVsZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0tbDwvYT48YnI+
-CjwvZGl2Pgo8L3NwYW4+PC9mb250Pgo8L2JvZHk+CjwvaHRtbD4K
+CjwvZGl2Pgo8L3NwYW4+PC9mb250Pgo8L2JvZHk+CjwvaHRtbD4K
+

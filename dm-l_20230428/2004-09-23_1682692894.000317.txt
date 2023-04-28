@@ -1,37 +1,49 @@
-Subject:Marjorie Burghart a =C3=A9crit:Dear colleagues,
+Subject:
+
+Marjorie Burghart a écrit:
+
+Dear colleagues,
 We've just launched BibliOnline, a new Open Source bibliographic database
 software with a built in Z3950 client. The Z3950 part has to be improved (the
 next major development effort will be directed to extend the possibilities of
 this built-in client), but it's already up and running. Alas, we still don't
 have an english transltaion (all volunteers are welcome), so you'll have to
-practice french if you're interested in this application.This is the application homepage :
-http://biblionline.mom.fr/With my best regards,
-Marjorie Burghart
-Daniel O'Donnell a =C3=A9crit:Digital Medievalist Journal (Inaugural Issue Fall 2004). Call for papers:
+practice french if you're interested in this application.
+
+This is the application homepage :
+http://biblionline.mom.fr/
+
+With my best regards,
+Marjorie Burghart
+
+Daniel O'Donnell a écrit:
+
+Digital Medievalist Journal (Inaugural Issue Fall 2004). Call for papers:
 http://www.digitalmedievalist.org/cfp.htm
 ----------------
 Hello all,
    I use Procite (<http://www.procite.com/> to keep my bibliography, mostly
 because it has a good Z39.5 client. Z39.50 <http://www.loc.gov/z3950/agency/>
-is an international standard used by many libraries (though not the Royal Dut=
-ch
-Library, duizend bliksembommen!)  for data interchange. In the case of procit=
-e,
-what this means is that I can download book information, including call numbe=
-rs
-and subject fields directly from various libraries. Amongst other things, it =
-has
-made it quite easy to rearrange my personal library using LoC call numbers (n=
-ot
-a perfect system, of course, but since it comes ready made, I can't complain).   Anyway, I want now to built an on-line catalogue of my stuff, so I can che=
-ck
-if I own something when I am in a foreign library. Originally, I was just goi=
-ng
+is an international standard used by many libraries (though not the Royal Dutch
+Library, duizend bliksembommen!)  for data interchange. In the case of procite,
+what this means is that I can download book information, including call numbers
+and subject fields directly from various libraries. Amongst other things, it has
+made it quite easy to rearrange my personal library using LoC call numbers (not
+a perfect system, of course, but since it comes ready made, I can't complain).
+
+   Anyway, I want now to built an on-line catalogue of my stuff, so I can check
+if I own something when I am in a foreign library. Originally, I was just going
 to dumpt the procite format to a database (it is built on a 45 field database)
 and use PHP and MySQL to built a simple front end. But then I began to wonder
 if perhaps an open source system already existed. Does anybody know of one?
 Basically what I need is a robust bibliographic database with a Z39.50 client
-built in.   -dan--
+built in.
+
+   -dan
+
+--
 Marjorie Burghart
-Universit=C3=A9 Lyon II
---===============1875903025234108238==--
+Université Lyon II
+
+--1875903025234108238-
+

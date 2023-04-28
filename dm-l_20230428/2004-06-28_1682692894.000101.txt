@@ -1,57 +1,65 @@
-Subject: Re: Re: [dm-l] palaeography and computingArianna,-----Original Message-----
+Subject: Re: Re: [dm-l] palaeography and computing
+
+Arianna,
+
+-----Original Message-----
 _redacted_(a)kcl.ac.uk>
 Date: Mon, 28 Jun 2004 18:05:17 +0100
-Subject: Re: [dm-l] palaeography and computingHi Dorothy,thank-you for all the information. I was at the ALLC/ACh conference in=20
-Sweden and I had ettended your talk of course, which I enjoied a lot.=20D: Thank you!By the way, what I'm curious about it's exactly what you call "encoding=20
-paleographical descriptions using a simple template interface".D: Rather than entering markup into the text by hand (think NoteTab Pro), the=
- editor uses a template to compare the letter to be described with other (exa=
-mple) letters and selects descriptive elements from drop-down menus - the mar=
-kup is entered automatically (and you don't need to look at the tags if you d=
-on't want to). It's a very user-friendly approach.DotLooking forward your publications,
-Best wishes,Arianna Ciula
-On Mon, 28 Jun 2004 11:52:40 -0400 "Dorothy C. Porter"=20
-_redacted_(a)uky.edu> wrote:> Arianna,
->=20
-> We (Research in Computing for Humanities at the University of Kentucky) are=
- working on DTD and tool (called "DucType") for paleographical description. B=
-riefly, it will enable to editor to view a manuscript image alongside a trans=
-cript, and encode paleographical descriptions using a simple template interfa=
-ce. It's still under development, although Kevin Kiernan, PI on the projects,=
- has shown several demonstrations, including one at Kzoo in May.=20
->=20
-> Look for our forthcoming article in Literary and Linguistic Computing (the =
-proceedings from last year's ACH/ALLC meeting - July or August 2004). We also=
- have a short article coming out in the July DigiCULT Newsletter [http://www.=
-digicult.info/pages/index.php] that gives a bit of history and briefly descri=
-bes DucType and our other editing tools.=20
->=20
+Subject: Re: [dm-l] palaeography and computing
+
+Hi Dorothy,
+
+thank-you for all the information. I was at the ALLC/ACh conference in 
+Sweden and I had ettended your talk of course, which I enjoied a lot. 
+
+D: Thank you!
+
+By the way, what I'm curious about it's exactly what you call "encoding 
+paleographical descriptions using a simple template interface".
+
+D: Rather than entering markup into the text by hand (think NoteTab Pro), the editor uses a template to compare the letter to be described with other (example) letters and selects descriptive elements from drop-down menus - the markup is entered automatically (and you don't need to look at the tags if you don't want to). It's a very user-friendly approach.
+
+Dot
+
+Looking forward your publications,
+Best wishes,
+
+Arianna Ciula
+On Mon, 28 Jun 2004 11:52:40 -0400 "Dorothy C. Porter" 
+_redacted_(a)uky.edu> wrote:
+
+> Arianna,
+> 
+> We (Research in Computing for Humanities at the University of Kentucky) are working on DTD and tool (called "DucType") for paleographical description. Briefly, it will enable to editor to view a manuscript image alongside a transcript, and encode paleographical descriptions using a simple template interface. It's still under development, although Kevin Kiernan, PI on the projects, has shown several demonstrations, including one at Kzoo in May. 
+> 
+> Look for our forthcoming article in Literary and Linguistic Computing (the proceedings from last year's ACH/ALLC meeting - July or August 2004). We also have a short article coming out in the July DigiCULT Newsletter [http://www.digicult.info/pages/index.php] that gives a bit of history and briefly describes DucType and our other editing tools. 
+> 
 > You can find out more on our project websites:
->=20
-> Electronic Boethius - http://beowulf.engl.uky.edu/~kiernan/eBoethius/inlad.=
-htm
+> 
+> Electronic Boethius - http://beowulf.engl.uky.edu/~kiernan/eBoethius/inlad.htm
 > ARCHway - http://beowulf.engl.uky.edu/~kiernan/ARCHway/entrance.htm
->=20
+> 
 > Hope this helps,
->=20
+> 
 > Dot
->=20
+> 
 > Arianna Ciula wrote:
->=20
+> 
 > >Dear all,
 > >
-> >as a Ph.D. student working on palaeography and computing, I find this=20
+> >as a Ph.D. student working on palaeography and computing, I find this 
 > >mailing list very useful and I start my contribution with a question.
 > >
-> >Is there any sort of DTD designed with the purpose of describing a=20
-> >medieval manuscript, not just in its physical features as a global=20
+> >Is there any sort of DTD designed with the purpose of describing a 
+> >medieval manuscript, not just in its physical features as a global 
 > >object, but in its palaeographical features?
 > >
-> >I mean any kind of XML grill and hierarchy able to encounter=20
-> >description and comments on the shape of letters, of ligatures and so=20
+> >I mean any kind of XML grill and hierarchy able to encounter 
+> >description and comments on the shape of letters, of ligatures and so 
 > >on, even related just to one period and one handwritten style.
 > >
 > >I know the TEI guidelines and the efforts of some specific projects such
-> >as Digital Scriptorium, but none of them seems to me to go into the=20
+> >as Digital Scriptorium, but none of them seems to me to go into the 
 > >image with the granularity needed for a palaeographical analysis.
 > >
 > >Cheers,
@@ -70,7 +78,7 @@ _redacted_(a)uleth.ca
 > >http://listserv.uleth.ca/mailman/listinfo/dm-l
 > >
 > >
->=20
+> 
 > --
 > Daniel Paul O'Donnell, PhD
 > Associate Professor of English
@@ -80,38 +88,47 @@ _redacted_(a)uleth.ca
 > Fax. (403) 382-7191
 _redacted_(a)uleth.ca>
 > Home Page <http://people.uleth.ca/~daniel.odonnell/>
->=20
->=20
->=20
->=20
+> 
+> 
+> 
+> 
 > _______________________________________________
 > dm-l mailing list
 _redacted_(a)uleth.ca
 > http://listserv.uleth.ca/mailman/listinfo/dm-l
->=20
->=20
+> 
+> 
 > ***************************************
 > Dorothy Carr Porter, Program Coordinator
 > Collaboratory for Research in Computing for Humanities
 > University of Kentucky
 > 351 William T. Young Library
 > Lexington, KY  40506
->=20
+> 
 _redacted_(a)uky.edu          859-257-9549
 > ***************************************
->=20
+> 
 > _______________________________________________
 > dm-l mailing list
 _redacted_(a)uleth.ca
 > http://listserv.uleth.ca/mailman/listinfo/dm-l
->=20----------------------
+> 
+
+----------------------
 Arianna Ciula
-_redacted_(a)kcl.ac.uk
+_redacted_(a)kcl.ac.uk
+
+
+
 ***************************************
 Dorothy Carr Porter, Program Coordinator
 Collaboratory for Research in Computing for Humanities
 University of Kentucky
 351 William T. Young Library
-Lexington, KY  40506_redacted_(a)uky.edu          859-257-9549
-***************************************
---===============8848959262531811111==--
+Lexington, KY  40506
+
+_redacted_(a)uky.edu          859-257-9549
+***************************************
+
+--8848959262531811111-
+

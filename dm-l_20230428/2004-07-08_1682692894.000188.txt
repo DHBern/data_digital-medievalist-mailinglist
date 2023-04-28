@@ -1,7 +1,15 @@
-Subject: Re: [dm-l] [Fwd: encoding  maps, graphics with text?] Problems	withAt www.iath.virginia.edu, where my anthology is hosted, they have Tomcat 
+Subject: Re: [dm-l] [Fwd: encoding  maps, graphics with text?] Problems	with
+
+At www.iath.virginia.edu, where my anthology is hosted, they have Tomcat 
 on port 8090; perhaps this is why. I've never gotten any complaints from 
 people who can't reach it. Still, I wish they'd run Tomcat inside 
-Apache, as it would be much more robust that way.PeterMartin Holmes wrote:> From the reactions yesterday, it became apparent them many 
+Apache, as it would be much more robust that way.
+
+Peter
+
+Martin Holmes wrote:
+
+> From the reactions yesterday, it became apparent them many 
 > institutions and systems worldwide are blocking port 8080 traffic. For 
 > the current Graves project that's not a problem, because it's in early 
 > phases and not really "public" yet, but it did surprise me; it's the 
@@ -62,4 +70,7 @@ _redacted_(a)halfbakedsoftware.com
 > dm-l mailing list
 _redacted_(a)uleth.ca
 > http://listserv.uleth.ca/mailman/listinfo/dm-l
->
+>
+
+
+

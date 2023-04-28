@@ -1,4 +1,6 @@
-Subject: [dm-l] re: Relational database and TEIIn fact, this is not quite what Scriptorium does.  Scriptorium was  
+Subject: [dm-l] re: Relational database and TEI
+
+In fact, this is not quite what Scriptorium does.  Scriptorium was  
 actually originally built as a relational database, using Access  
 indeed, and I believe that this is still what it is, at base.  The  
 Scriptorium people were indeed heavily involved in the drafting of  
@@ -34,19 +36,44 @@ Scase's West Midland Manuscripts project is also  coming your way,
 again, done with Anastasia.  This is http://www.sd-editions.com/ 
 AnaServer?MWM+0+start.anv.  This website is currently being updated  
 and should look much nicer in a few days.  But what is here, gives  
-some idea of what can be doneall the best
-Peter
-***original messageDear all,Does anybody know about electronic manuscript projects which are
+some idea of what can be done
+
+all the best
+Peter
+
+***original message
+
+Dear all,
+
+Does anybody know about electronic manuscript projects which are
 using/have used relational databases following the TEI guidelines for
-'Manuscript description'?Scriptorium seems to have done it, any other similar project? If so, do
-you know of any related publication?I'd be very grateful for any advice, pitfall etc.Best wishes,OriettaDr Orietta Da Rold
+'Manuscript description'?
+
+Scriptorium seems to have done it, any other similar project? If so, do
+you know of any related publication?
+
+I'd be very grateful for any advice, pitfall etc.
+
+Best wishes,
+
+Orietta
+
+Dr Orietta Da Rold
 Research Fellow
 English Department
 University of Leicester
 University Road
-LE1 7RHTel. +44 (0)116 252 2778
-e-mail: odr1 at le.ac.ukThe Production and Use of English Manuscripts
-http://www.le.ac.uk/ee/em1060to1220/index.htmPEhUTUw+PEJPRFkgc3R5bGU9IndvcmQtd3JhcDogYnJlYWstd29yZDsgLWtodG1sLW5ic3AtbW9k
+LE1 7RH
+
+Tel. +44 (0)116 252 2778
+e-mail: odr1 at le.ac.uk
+
+The Production and Use of English Manuscripts
+http://www.le.ac.uk/ee/em1060to1220/index.htm
+
+
+
+PEhUTUw+PEJPRFkgc3R5bGU9IndvcmQtd3JhcDogYnJlYWstd29yZDsgLWtodG1sLW5ic3AtbW9k
 ZTogc3BhY2U7IC1raHRtbC1saW5lLWJyZWFrOiBhZnRlci13aGl0ZS1zcGFjZTsgIj48RElWPklu
 IGZhY3QsIHRoaXMgaXMgbm90IHF1aXRlIHdoYXQgU2NyaXB0b3JpdW0gZG9lcy6gIFNjcmlwdG9y
 aXVtIHdhcyBhY3R1YWxseSBvcmlnaW5hbGx5IGJ1aWx0IGFzIGEgcmVsYXRpb25hbCBkYXRhYmFz
@@ -213,4 +240,4 @@ cDovL3d3dy5sZS5hYy51ay9lZS9lbTEwNjB0bzEyMjAvaW5kZXguaHRtIj48Rk9OVCBjbGFzcz0i
 QXBwbGUtc3R5bGUtc3BhbiIgZmFjZT0iQ291cmllciIgc2l6ZT0iMyI+PFNQQU4gY2xhc3M9IkFw
 cGxlLXN0eWxlLXNwYW4iIHN0eWxlPSJmb250LXNpemU6IDEzcHg7Ij5odHRwOi8vd3d3LmxlLmFj
 LnVrL2VlL2VtMTA2MHRvMTIyMC9pbmRleC5odG08L1NQQU4+PC9GT05UPjwvQT48L0RJVj48L0JP
-RFk+PC9IVE1MPg==
+RFk+PC9IVE1MPg

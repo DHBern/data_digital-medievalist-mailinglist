@@ -1,13 +1,23 @@
-Subject: Re: [dm-l] Mac helpConal Tuohy built a little checker for Windows many years ago. And you 
+Subject: Re: [dm-l] Mac help
+
+Conal Tuohy built a little checker for Windows many years ago. And you 
 can use any of the modern browsers to see if the character is on your 
 system at all. I wonder could you use rich pasting into a word-processor 
-or similar to discover the font name?E.g. create a page with the point, load it up in Firefox, if a character 
+or similar to discover the font name?
+
+E.g. create a page with the point, load it up in Firefox, if a character 
 appears, copy and paste it into a wordprocessor and hope that font 
-information has been preserved?I appreciate all the advice on utilities for SVN and the like: I don't 
+information has been preserved?
+
+I appreciate all the advice on utilities for SVN and the like: I don't 
 have a Mac and have never really used one, so I'm happy to have names I 
 can throw around. I find that the command line can be scary to people, 
 so when I'm introducing lots of new concepts and techniques, I'm always 
-happy if there is GUI-based software available at least initially!-danOn 11-02-06 01:29 PM, Simpson, Grant Leyton wrote:
+happy if there is GUI-based software available at least initially!
+
+-dan
+
+On 11-02-06 01:29 PM, Simpson, Grant Leyton wrote:
 > Thanks for those references, John. I will have to check them out. As far
 > as determining which font contains which characters, I feel your pain. I
 > tend to install Junicode and trust that it has the characters I need.
@@ -48,8 +58,10 @@ _redacted_(a)uleth.ca>  wrote in part:
 >> News: http://www.digitalmedievalist.org/news/
 >> Wiki: http://www.digitalmedievalist.org/wiki/
 >> Twitter: http://twitter.com/digitalmedieval
->> Facebook: http://www.facebook.com/group.php?gid=49320313760
+>> Facebook: http://www.facebook.com/group.php?gidI320313760
 _redacted_(a)uleth.ca
 >> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
->
---===============2579627847005095128==--
+>
+
+--2579627847005095128-
+

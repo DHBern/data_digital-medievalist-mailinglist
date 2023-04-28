@@ -1,9 +1,17 @@
-Subject:Hi Dan,We use Subversion at the Emblem Project Utrecht. There's a wonderful 
+Subject:
+
+Hi Dan,
+
+We use Subversion at the Emblem Project Utrecht. There's a wonderful 
 windows client, Tortoise, that implements the calls to Subversion 
 functionality through the context menu. I didn't set this up myself, but 
 as a user I like it. You can see what this looks like at 
-http://tortoisesvn.tigris.org/ExplorerIntegration.html.Best,
-PeterDaniel O'Donnell wrote:
+http://tortoisesvn.tigris.org/ExplorerIntegration.html.
+
+Best,
+Peter
+
+Daniel O'Donnell wrote:
 > Hi all,
 > 
 > I am helping a project that is working on a really interesting text.
@@ -33,4 +41,7 @@ _redacted_(a)uleth.ca
 _redacted_(a)uleth.ca
 > http://listserv.uleth.ca/mailman/listinfo/dm-l
 > 
-> 
+> 
+
+
+

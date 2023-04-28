@@ -1,18 +1,33 @@
-Subject: [dm-l] EVT 2 beta 2 releasedDear all,
+Subject: [dm-l] EVT 2 beta 2 released
+
+Dear all,
 after a couple of years of continued development, EVT 2 beta2 is finally
 available! There are lots of exciting new features in this version:
 support for diplomatic editions, new image viewer, new text search
 engine, VisColl and 3DHOP integration, and more. Please let us know what
 you think of this version, your feedback will help us in developing a
-stable and feature complete version 1.0.Full announce available at
-https://visualizationtechnology.wordpress.com/2020/06/30/announcing-the-secon=
-d-beta-version-of-evt-2/.Download and live demo page at http://evt.labcd.unipi.it/.
+stable and feature complete version 1.0.
+
+Full announce available at
+https://visualizationtechnology.wordpress.com/2020/06/30/announcing-the-second-beta-version-of-evt-2/.
+
+Download and live demo page at http://evt.labcd.unipi.it/.
 Direct download here:
 https://sourceforge.net/projects/evt-project/files/evt2-beta2.zip/download.
-GitHub repository: https://github.com/evt-project/evt-viewer.R--
+GitHub repository: https://github.com/evt-project/evt-viewer.
+
+R
+
+--
 Roberto Rosselli Del Turco   roberto.rossellidelturco at unito.it
 Dip. di Studi Umanistici     roberto.rossellidelturco at fileli.unipi.it
 Universita' di Torino        VBD: http://vbd.humnet.unipi.it/beta2/
-EVT: http://bit.ly/24D9kdE   VC: http://www.visionarycross.org/  Hige sceal the heardra,     heorte the cenre,
-  mod sceal the mare,       the ure maegen litlath.  (Maldon 312-3)<shamelessPlug>Holidays in Tuscany http://www.imoricci.it/</shamelessPlug>
---===============2422964238229544496==--
+EVT: http://bit.ly/24D9kdE   VC: http://www.visionarycross.org/
+
+  Hige sceal the heardra,     heorte the cenre,
+  mod sceal the mare,       the ure maegen litlath.  (Maldon 312-3)
+
+<shamelessPlug>Holidays in Tuscany http://www.imoricci.it/</shamelessPlug>
+
+--2422964238229544496-
+

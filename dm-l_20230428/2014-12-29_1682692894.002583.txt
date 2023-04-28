@@ -1,14 +1,17 @@
-Subject: Re: [dm-l] [Technical]: Suggestions for a replacement for	Subversion?This sounds like music. Ifttt?
+Subject: Re: [dm-l] [Technical]: Suggestions for a replacement for	Subversion?
+
+This sounds like music. Ifttt?
+
 On 14-12-29 09:39 PM, Stuart A. Yeates wrote:
-> Answering in a completely different way, it may not be a choice=20
-> between them. Ifttt should let you write a trigger that commits=20
-> Dropbox or drive files to GitHub. That way your users see Dropbox and=20
+> Answering in a completely different way, it may not be a choice 
+> between them. Ifttt should let you write a trigger that commits 
+> Dropbox or drive files to GitHub. That way your users see Dropbox and 
 > your backend sees GitHub.
 >
 > Cheers
 > Stuart
 >
-> On Tuesday, December 30, 2014, Daniel O'Donnell=20
+> On Tuesday, December 30, 2014, Daniel O'Donnell 
 _redacted_(a)uleth.ca>> wrote:
 >
 >     Maybe I should reask it. Is there a reason for not just using
@@ -113,7 +116,7 @@ _redacted_(a)uleth.ca');>>
 >>>
 >>>             -dan
 >>>
->>>             --=20
+>>>             -- 
 >>>             From my Ubuntu notebook
 >>>
 >>>             Daniel Paul O'Donnell
@@ -135,8 +138,8 @@ _redacted_(a)uleth.ca');>>
 >>>             Wiki: http://www.digitalmedievalist.org/wiki/
 >>>             Twitter: http://twitter.com/digitalmedieval
 >>>             Facebook:
->>>             http://www.facebook.com/group.php?gid=3D49320313760
->>>             <http://www.facebook.com/group.php?gid=3D49320313760>
+>>>             http://www.facebook.com/group.php?gid=49320313760
+>>>             <http://www.facebook.com/group.php?gid=49320313760>
 _redacted_(a)uleth.ca
 >>>             Change list options:
 >>>             http://listserv.uleth.ca/mailman/listinfo/dm-l
@@ -144,10 +147,10 @@ _redacted_(a)uleth.ca
 >>>
 >>>
 >>>
->>>         --=20
+>>>         -- 
 >>>         Sent from my iPhone
 >>
->>         --=20
+>>         -- 
 >>          From my Ubuntu notebook
 >>
 >>         Daniel Paul O'Donnell
@@ -163,17 +166,15 @@ _redacted_(a)uleth.ca
 >>
 >>     Digital Medievalist --http://www.digitalmedievalist.org/
 >>     Journal:http://www.digitalmedievalist.org/journal/
->>     Journal Editors: editors _AT_digitalmedievalist.org  <http://digitalme=
-dievalist.org>
+>>     Journal Editors: editors _AT_digitalmedievalist.org  <http://digitalmedievalist.org>
 >>     News:http://www.digitalmedievalist.org/news/
 >>     Wiki:http://www.digitalmedievalist.org/wiki/
 >>     Twitter:http://twitter.com/digitalmedieval
->>     Facebook:http://www.facebook.com/group.php?gid=3D49320313760
-_redacted_(a)=
-uleth.ca');>
+>>     Facebook:http://www.facebook.com/group.php?gid=49320313760
+_redacted_(a)uleth.ca');>
 >>     Change list options:http://listserv.uleth.ca/mailman/listinfo/dm-l
 >
->     --=20
+>     -- 
 >      From my Ubuntu notebook
 >
 >     Daniel Paul O'Donnell
@@ -186,19 +187,29 @@ uleth.ca');>
 >
 >
 >
-> --=20
+> -- 
 > --
-> ...let us be heard from red core to black sky--=20
- From my Ubuntu notebookDaniel Paul O'Donnell
+> ...let us be heard from red core to black sky
+
+-- 
+ From my Ubuntu notebook
+
+Daniel Paul O'Donnell
 Professor of English
 University of Lethbridge
 Lethbridge AB T1K 3M4
-Canada+1 403 393-2539
---===============3496457948737603478==
-Content-Type: text/html
+Canada
+
++1 403 393-2539
+
+
+
+--3496457948737603478Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWw+CiAgPGhlYWQ+CiAgICA8bWV0YSBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9dXRm
+Content-Disposition: attachment; filenameúttachment.html"
+MIME-Version: 1.0
+
+PGh0bWw+CiAgPGhlYWQ+CiAgICA8bWV0YSBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9dXRm
 LTgiIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSI+CiAgPC9oZWFkPgogIDxib2R5IGJnY29sb3I9
 IiNGRkZGRkYiIHRleHQ9IiMwMDAwMDAiPgogICAgVGhpcyBzb3VuZHMgbGlrZSBtdXNpYy4gSWZ0
 dHQ/PGJyPgogICAgPGJyPgogICAgPGJyPgogICAgPGRpdiBjbGFzcz0ibW96LWNpdGUtcHJlZml4
@@ -473,4 +484,4 @@ eTxicj4KICAgIDwvYmxvY2txdW90ZT4KICAgIDxicj4KICAgIDxwcmUgY2xhc3M9Im1vei1zaWdu
 YXR1cmUiIGNvbHM9IjcyIj4tLSAKRnJvbSBteSBVYnVudHUgbm90ZWJvb2sKCkRhbmllbCBQYXVs
 IE8nRG9ubmVsbApQcm9mZXNzb3Igb2YgRW5nbGlzaApVbml2ZXJzaXR5IG9mIExldGhicmlkZ2UK
 TGV0aGJyaWRnZSBBQiBUMUsgM000CkNhbmFkYQoKKzEgNDAzIDM5My0yNTM5PC9wcmU+CiAgPC9i
-b2R5Pgo8L2h0bWw+Cg==
+b2R5Pgo8L2h0bWw+Cg

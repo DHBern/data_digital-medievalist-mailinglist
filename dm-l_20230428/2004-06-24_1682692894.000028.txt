@@ -1,19 +1,29 @@
-Subject: Re: [dm-l] Re: Experience using Microsoft's XSLT?I'm afraid mr. Burnard is slightly misinterpreting a popular IT-proverb.
+Subject: Re: [dm-l] Re: Experience using Microsoft's XSLT?
+
+I'm afraid mr. Burnard is slightly misinterpreting a popular IT-proverb.
 It's not that there are good or bad programmers and programming
 languages, but that there are no good or bad solutions, only more and
-less adequate ones.As for programming languages: yes, there are bad programming languages
+less adequate ones.
+
+As for programming languages: yes, there are bad programming languages
 and XSLT is a good example of a bad programming language. Which it
 actually should be, because XSLT was never meant as a programming
 language, but as a template based transformational language for
 transforming XML into XML or into representational forms like HTML and
-not for logical handling of data.It's therefore very unfortunate that the XSLT 2.0 recommendation of the
+not for logical handling of data.
+
+It's therefore very unfortunate that the XSLT 2.0 recommendation of the
 w3c includes even more characteristics that are typical for programming
 languages (like data types and logical structures). Rather XSLT 2.0
 should have confined the main purpose of XSL to where it's good at:
-simple straightforward transformations of (chunks of) XML. Sophisticated and complex handling of data, structure and functionality
+simple straightforward transformations of (chunks of) XML. 
+
+Sophisticated and complex handling of data, structure and functionality
 is more efficiently and adequately done or programmed in a robust
 programming environment (like Eclipse), preferably in matured
-programming languages (like Java or Python) using agile protocols.But that's all theory off course. In the real world XSLT will probably
+programming languages (like Java or Python) using agile protocols.
+
+But that's all theory off course. In the real world XSLT will probably
 become somewhat like, and as popular as hybrid languages such as PHP,
 JSP and ASP. Such 'languages' just throw the whole bunch together: data,
 data structure, logic, representation and functionality. Which seems
@@ -28,7 +38,9 @@ promoted XML/TEI as a way to separate the concerns of meaning and form,
 fails to see that XSLT does not do a very good job at this.
  
 y.s.,
-Joris van Zundertmr. Joris J. van Zundert (MA)
+Joris van Zundert
+
+mr. Joris J. van Zundert (MA)
 Researcher & Programmer, dep. of Dutch Literature and Linguistics
 NIWI (Netherlands Institute for Scientific Information services)
  
@@ -47,11 +59,26 @@ joris.van.zundert(insert_an_at_sign_here)niwi.knaw.nl
 [internet]
 www.niwi.knaw.nl
  
- _redacted_(a)computing-services.oxford.ac.uk 6/23/04 18:20:47 >>>Peter, darling, you are talking nonsense. If you want a system based onwords, mark up the words and XSLT will cope very well. (Yes, people doit: cf the BNC and many others). Likewise, if you want a system in
+ 
+
+_redacted_(a)computing-services.oxford.ac.uk 6/23/04 18:20:47 >>>
+
+Peter, darling, you are talking nonsense. If you want a system based on
+
+words, mark up the words and XSLT will cope very well. (Yes, people do
+
+it: cf the BNC and many others). Likewise, if you want a system in
 which 
-physical hierarchies matter, reflect that in your markup system.There are no good or bad programming languages: just good or bad 
-programmers. And designers.Lou
-Peter Robinson wrote:> Well, let us start off with a little minor controversy.
+physical hierarchies matter, reflect that in your markup system.
+
+There are no good or bad programming languages: just good or bad 
+programmers. And designers.
+
+Lou
+
+Peter Robinson wrote:
+
+> Well, let us start off with a little minor controversy.
 > 
 > In the midst of converts to and enthusiasts for XSLT and that family
 of
@@ -152,11 +179,18 @@ Hengwrt
 > Digital Facsimile from our XML source. And good luck to you.
 > 
 > All the best
-> Peter Robinson
+> Peter Robinson
+
 _______________________________________________
 dm-l mailing list
 _redacted_(a)uleth.ca 
-http://listserv.uleth.ca/mailman/listinfo/dm-l PEhUTUw+PEhFQUQ+CjxNRVRBIGh0dHAtZXF1aXY9Q29udGVudC1UeXBlIGNvbnRlbnQ9InRleHQv
+http://listserv.uleth.ca/mailman/listinfo/dm-l 
+
+
+
+
+
+PEhUTUw+PEhFQUQ+CjxNRVRBIGh0dHAtZXF1aXY9Q29udGVudC1UeXBlIGNvbnRlbnQ9InRleHQv
 aHRtbDsgY2hhcnNldD1pc28tODg1OS0xIj4KPE1FVEEgY29udGVudD0iTVNIVE1MIDYuMDAuMjgw
 MC4xNDAwIiBuYW1lPUdFTkVSQVRPUj48L0hFQUQ+CjxCT0RZIHN0eWxlPSJNQVJHSU46IDRweCA0
 cHggMXB4OyBGT05UOiAxMHB0IEFyaWFsOyBDT0xPUjogIzAwMDAwMCI+CjxESVY+SSdtIGFmcmFp
@@ -299,4 +333,4 @@ X19fX188QlI+ZG0tbCBtYWlsaW5nIGxpc3Q8QlI+PFU+PEEgaHJlZj0ibWFpbHRvOmRtLWxAdWxl
 dGguY2EiPmRtLWxAdWxldGguY2E8L0E+PC9VPiA8QlI+PFU+PEEgaHJlZj0iaHR0cDovL2xpc3Rz
 ZXJ2LnVsZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0tbCI+aHR0cDovL2xpc3RzZXJ2LnVsZXRo
 LmNhL21haWxtYW4vbGlzdGluZm8vZG0tbDwvQT48L1U+IDxCUj48QlI+PC9ESVY+PC9CT0RZPjwv
-SFRNTD4=
+SFRNTD4

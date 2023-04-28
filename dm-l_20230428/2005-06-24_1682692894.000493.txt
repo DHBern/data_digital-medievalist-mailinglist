@@ -1,13 +1,21 @@
-Subject:Patti Cossard wrote:>As I see it, standards based structural language or computer skill, is 
+Subject:
+
+Patti Cossard wrote:
+
+>As I see it, standards based structural language or computer skill, is 
 >essential to the health of scholarly economy as it provides a sustainable 
 >model for scholarly communication.  And, it goes beyond just the markup 
 >language or information technology skill itself.  The TEI consortium 
->provides a community in which tools and knowledge are shared openly.I often think that the free "tools" aspect had been underestimated in 
+>provides a community in which tools and knowledge are shared openly.
+
+I often think that the free "tools" aspect had been underestimated in 
 humanities computing. Of course, there exist a couple of good examples like 
 the TEI XSLT style sheets or some open source archival software etc. 
 Nevertheless, the situation is not satisfactory and I wonder what are its 
 causes and by which means it could possibly be improved.  Briefly 
-summarized the main causes, I can think of, are the following:- Most software development in the humanities takes place in an ad hoc 
+summarized the main causes, I can think of, are the following:
+
+- Most software development in the humanities takes place in an ad hoc 
 fashion: People have specific problems and develop specific solutions.
 - There is a lack of institutional support for developing tools for others. 
 Tools are only by-products.
@@ -16,10 +24,21 @@ tools need to be sold in order to re-finance the work.
 - It is not advisable for a scholar trying to build an academic career on 
 developing tools for humanities computing.
 - There exists no academic infrastructure *focused* on developing tools for 
-the humanities, ie. a specific society, journal and annual conference.Since one of my main research interests is considered with the development 
+the humanities, ie. a specific society, journal and annual conference.
+
+Since one of my main research interests is considered with the development 
 of tools for humanities computing, I would be very interested in the 
 opinions of others on the above list of causes. Perhaps together we could 
-find ways to improve the situation.Dieter KöhlerInstitute of Philosophy and
+find ways to improve the situation.
+
+Dieter Köhler
+
+Institute of Philosophy and
 Centre for Multimedia Studies
 University of Karlsruhe
-GermanyWeb-site: http://www.philo.de 
+Germany
+
+Web-site: http://www.philo.de 
+
+
+

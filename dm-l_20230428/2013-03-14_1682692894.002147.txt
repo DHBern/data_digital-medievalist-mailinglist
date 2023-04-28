@@ -1,4 +1,6 @@
-Subject:I really enjoyed this paper as well. I think it's pretty obvious why
+Subject:
+
+I really enjoyed this paper as well. I think it's pretty obvious why
 digital editions are not more popular with both authors and readers, some
 of which are touched on in the article:
 - Compared to a printed book, they're miserable to read, since they tend to
@@ -13,13 +15,21 @@ tools.
 - There is no standard way of presenting online critical editions (whereas
 most printed texts are published in series that follow a style guide).
 - Delving into academic politics, publishers hate them and many
-universities don't count digital projects toward tenure.None of these problems are insurmountable, and most have been tackled
+universities don't count digital projects toward tenure.
+
+None of these problems are insurmountable, and most have been tackled
 already by someone, but I'm really looking forward to a solution that at
-least tackles the technical aspects of these problems.Andrew Dunning
+least tackles the technical aspects of these problems.
+
+Andrew Dunning
 PhD Student, Collaborative Program in Editing Medieval Texts
 Centre for Medieval Studies
-University of TorontoOn Thu, Mar 14, 2013 at 6:29 AM, Roberto Rosselli Del Turco <
-_redacted_(a)ling.unipi.it> wrote:> > Dot, what a very good job!  I am only a bit surprised that we are not
+University of Toronto
+
+On Thu, Mar 14, 2013 at 6:29 AM, Roberto Rosselli Del Turco <
+_redacted_(a)ling.unipi.it> wrote:
+
+> > Dot, what a very good job!  I am only a bit surprised that we are not
 > > making steady progress towards some goal -- that's not really the wqy
 > > human beings do things -- but it is a litttle disconcerting to think that
 > > while more and more people are doing digital or difitized editions (I
@@ -31,8 +41,7 @@ _redacted_(a)ling.unipi.it> wrote:> > Dot, what a very good job!  I am only a 
 > I took part to a workshop about digital scholarly edition organized by
 > NeDiMAH last November
 > (
-> http://www.nedimah.eu/call-for-papers/expert-meeting-digital-scholarly-edit=
-ions
+> http://www.nedimah.eu/call-for-papers/expert-meeting-digital-scholarly-editions
 > )
 > and gave a paper titled "The battle we forgot to fight: Should we make a
 > case for digital editions?". In short, no, I think we should definitely
@@ -55,12 +64,16 @@ ions
 > News: http://www.digitalmedievalist.org/news/
 > Wiki: http://www.digitalmedievalist.org/wiki/
 > Twitter: http://twitter.com/digitalmedieval
-> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+> Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca
 > Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
 >
 >
->PGRpdiBkaXI9Imx0ciI+PGRpdiBjbGFzcz0iZ21haWxfZXh0cmEiPjxkaXY+PGRpdj48ZGl2Pjxk
+>
+
+
+
+PGRpdiBkaXI9Imx0ciI+PGRpdiBjbGFzcz0iZ21haWxfZXh0cmEiPjxkaXY+PGRpdj48ZGl2Pjxk
 aXY+SSByZWFsbHkgZW5qb3llZCB0aGlzIHBhcGVyIGFzIHdlbGwuIEkgdGhpbmsgaXQmIzM5O3Mg
 cHJldHR5IG9idmlvdXMgd2h5IGRpZ2l0YWwgZWRpdGlvbnMgYXJlIG5vdCBtb3JlIHBvcHVsYXIg
 d2l0aCBib3RoIGF1dGhvcnMgYW5kIHJlYWRlcnMsIHNvbWUgb2Ygd2hpY2ggYXJlIHRvdWNoZWQg
@@ -142,4 +155,4 @@ dGguY2EiPmRtLWxAdWxldGguY2E8L2E+PGJyPgpDaGFuZ2UgbGlzdCBvcHRpb25zOiA8YSBocmVm
 PSJodHRwOi8vbGlzdHNlcnYudWxldGguY2EvbWFpbG1hbi9saXN0aW5mby9kbS1sIiB0YXJnZXQ9
 Il9ibGFuayI+aHR0cDovL2xpc3RzZXJ2LnVsZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0tbDwv
 YT48YnI+Cjxicj4KPGJyPgo8L2Rpdj48L2Rpdj48L2Jsb2NrcXVvdGU+PC9kaXY+PGJyPjwvZGl2
-PjxiciBjbGVhcj0iYWxsIj48YnI+PC9kaXY+Cg==
+PjxiciBjbGVhcj0iYWxsIj48YnI+PC9kaXY+Cg

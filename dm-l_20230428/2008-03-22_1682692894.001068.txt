@@ -1,4 +1,6 @@
-Subject: Re: [dm-l] OCR on ManuscriptsIf anyone wants to amuse themselves...
+Subject: Re: [dm-l] OCR on Manuscripts
+
+If anyone wants to amuse themselves...
 go to http://demo.iupr.org/layout/layout.php
 and feed in your favourite manuscript page.  This is Google's  
 'ocropus' software, the latest wonder from Google.  This demo shows  
@@ -8,7 +10,9 @@ also played with Gamera, for the same purpose: http://
 ldp.library.jhu.edu/projects/gamera/
 all the best
 Peter
-On 21 Mar 2008, at 22:11, Peter Boot wrote:> Maybe this is interesting: Handwriting Retrieval Demonstrations of  
+On 21 Mar 2008, at 22:11, Peter Boot wrote:
+
+> Maybe this is interesting: Handwriting Retrieval Demonstrations of  
 > the (Center for Intelligent Information Retrieval, University of  
 > Massachusetts Amherst): http://ciir.cs.umass.edu/irdemo/hw-demo/  
 > Not medieval however.
@@ -34,19 +38,27 @@ _redacted_(a)digitalmedievalist.org
 > News: http://www.digitalmedievalist.org/news/
 > Wiki: http://www.digitalmedievalist.org/wiki/
 _redacted_(a)uleth.ca
-> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-lPeter Robinson
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+Peter Robinson
 Institute for Textual Scholarship and Electronic Editing
 Elmfield House, Selly Oak  Campus
 University of Birmingham
 Edgbaston B29 6LG
 _redacted_(a)bham.ac.uk
 p. +44 (0)121 4158441, f. +44 (0) 121 415 8376
-www.itsee.bham.ac.uk
---===============4374044314604649630==
-Content-Type: text/html
+www.itsee.bham.ac.uk
+
+
+
+
+
+--4374044314604649630Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWw+PGJvZHkgc3R5bGU9IndvcmQtd3JhcDogYnJlYWstd29yZDsgLXdlYmtpdC1uYnNwLW1v
+Content-Disposition: attachment; filenameúttachment.html"
+MIME-Version: 1.0
+
+PGh0bWw+PGJvZHkgc3R5bGU9IndvcmQtd3JhcDogYnJlYWstd29yZDsgLXdlYmtpdC1uYnNwLW1v
 ZGU6IHNwYWNlOyAtd2Via2l0LWxpbmUtYnJlYWs6IGFmdGVyLXdoaXRlLXNwYWNlOyAiPgpJZiBh
 bnlvbmUgd2FudHMgdG8gYW11c2UgdGhlbXNlbHZlcy4uLjxkaXY+Z28gdG+gPGEgaHJlZj0iaHR0
 cDovL2RlbW8uaXVwci5vcmcvbGF5b3V0L2xheW91dC5waHAiPmh0dHA6Ly9kZW1vLml1cHIub3Jn
@@ -138,4 +150,5 @@ dHlsZS1zcGFuIiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsOyBmb250LXNpemU6IDExcHg7ICI+
 KzQ0ICgwKSAxMjEgNDE1IDgzNzY8L3NwYW4+PC9zcGFuPjwvZm9udD48L2Rpdj48ZGl2Pnd3dy5p
 dHNlZS5iaGFtLmFjLnVrPC9kaXY+PGRpdj48YnIgY2xhc3M9ImtodG1sLWJsb2NrLXBsYWNlaG9s
 ZGVyIj48L2Rpdj48YnIgY2xhc3M9IkFwcGxlLWludGVyY2hhbmdlLW5ld2xpbmUiPjwvc3Bhbj4g
-PC9kaXY+PGJyPjwvZGl2PjwvYm9keT48L2h0bWw+
+PC9kaXY+PGJyPjwvZGl2PjwvYm9keT48L2h0bWw+
+

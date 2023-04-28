@@ -1,4 +1,10 @@
-Subject: [dm-l] Announcing the Schoenberg Institute's OPenn_A new resource	forHave at it, folks . ******************The Penn Libraries and the Schoenberg Institute for Manuscript Studies
+Subject: [dm-l] Announcing the Schoenberg Institute's OPenn_A new resource	for
+
+Have at it, folks . 
+
+******************
+
+The Penn Libraries and the Schoenberg Institute for Manuscript Studies
 (SIMS) are thrilled to announce the launch of OPenn: Primary Resources
 Available to Everyone (http://openn.library.upenn.edu
 <http://openn.library.upenn.edu/> ), a new website that makes digitized
@@ -13,20 +19,26 @@ Collection features manuscripts from all over the world, with a focus on
 science, technology, engineering and mathematics.  To interest the public
 in the visual splendor of materials on OPenn we have uploaded some images
 from the Schoenberg Collection onto Flickr at http://tinyurl.com/mm84j7s,
-with links in the records to OPenn.More datasets, including manuscripts from the University of Pennsylvania's
+with links in the records to OPenn.
+
+More datasets, including manuscripts from the University of Pennsylvania's
 own holdings and items from other institutions, will be added to the site
 in the near future, so stay tuned.  Historic diaries from a variety of
 institutions belonging to the Philadelphia Area Consortium of Special
 Collections Libraries (PACSCL <http://pacscl.org/> ) are next in line for
 inclusion on OPenn.  Many of these documents are unknown while others are
 celebrated, such as the Union League's Tanner manuscript: a firsthand
-account of the events surrounding the assassination of Abraham Lincoln.Images of the manuscripts are currently available on OPenn at full
+account of the events surrounding the assassination of Abraham Lincoln.
+
+Images of the manuscripts are currently available on OPenn at full
 resolution, with derivatives also provided for easy reuse on the web.
 Downloading, whether several select images or the entire dataset, is
 easily accomplished by following instructions or recipes posted in the
 Technical Read Me <http://openn.library.upenn.edu/TechnicalReadMe.html>
 on OPenn.  The website is designed to be machine-readable, but easy for
-individuals to use, too.Dot Porter of SIMS has already used the dataset to create e-books from the
+individuals to use, too.
+
+Dot Porter of SIMS has already used the dataset to create e-books from the
 images and metadata on OPenn.  You can download the e-books in the free
 and open epub format at Penn Libraries' Scholarly Commons
 <http://repository.upenn.edu/sims_ebooks/> .   She has also used the
@@ -37,15 +49,23 @@ simulationis liber, can be seen at:
 http://dorpdev.library.upenn.edu/BookReaders/ljs225/#page/4/mode/2up .
 You can search and browse manuscripts in OPenn (along with digitized
 manuscripts from The Digital Walters) here:
-http://viewshare.org/views/leoba/openn-and-digital-walters/.  These are just a few ways the data can be manipulated.  We hope you are
+http://viewshare.org/views/leoba/openn-and-digital-walters/.  
+
+These are just a few ways the data can be manipulated.  We hope you are
 inspired to reuse OPenn data and to share your project with the world.  If
 you have any questions or comments, send us an email at
-_redacted_(a)pobox.upenn.edu. 
---===============0812726967306913280==
-Content-Type: text/html
+_redacted_(a)pobox.upenn.edu.
+
+ 
+
+
+
+--0812726967306913280Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWwgeG1sbnM6dj0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTp2bWwiIHhtbG5zOm89InVy
+Content-Disposition: attachment; filenameúttachment.html"
+MIME-Version: 1.0
+
+PGh0bWwgeG1sbnM6dj0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTp2bWwiIHhtbG5zOm89InVy
 bjpzY2hlbWFzLW1pY3Jvc29mdC1jb206b2ZmaWNlOm9mZmljZSIgeG1sbnM6dz0idXJuOnNjaGVt
 YXMtbWljcm9zb2Z0LWNvbTpvZmZpY2U6d29yZCIgeG1sbnM6bT0iaHR0cDovL3NjaGVtYXMubWlj
 cm9zb2Z0LmNvbS9vZmZpY2UvMjAwNC8xMi9vbW1sIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcv
@@ -150,4 +170,5 @@ YXZlIGFueSBxdWVzdGlvbnMgb3IgY29tbWVudHMsIHNlbmQgdXMgYW4gZW1haWwgYXQgPGEgaHJl
 Zj0ibWFpbHRvOm9wZW5uQHBvYm94LnVwZW5uLmVkdSI+b3Blbm5AcG9ib3gudXBlbm4uZWR1PC9h
 Pi48bzpwPjwvbzpwPjwvcD48cCBjbGFzcz1Nc29Ob3JtYWw+PHNwYW4gc3R5bGU9J2ZvbnQtc2l6
 ZToxMS4wcHQ7Zm9udC1mYW1pbHk6IkNhbGlicmkiLCJzYW5zLXNlcmlmIic+PG86cD4mbmJzcDs8
-L286cD48L3NwYW4+PC9wPjwvZGl2PjwvYm9keT48L2h0bWw+
+L286cD48L3NwYW4+PC9wPjwvZGl2PjwvYm9keT48L2h0bWw+
+

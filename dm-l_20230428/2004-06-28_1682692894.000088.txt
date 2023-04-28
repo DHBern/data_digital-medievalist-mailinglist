@@ -1,16 +1,28 @@
-Subject: Re: [dm-l] MS-Internet Explorer 6 and standards based computingHi there,At 07:06 AM 28/06/2004, you wrote:>I've been following this discussion on browser standards with interest, 
+Subject: Re: [dm-l] MS-Internet Explorer 6 and standards based computing
+
+Hi there,
+
+At 07:06 AM 28/06/2004, you wrote:
+
+>I've been following this discussion on browser standards with interest, 
 >but one thought keeps nagging at me.
 >
 >One of the mentioned benefits is this browser or that browser's XSLT 
 >parser and its standards compliance.  I think that we all agree the 
 >standard compliance and also the promotion of open standards are good 
 >things. The little nagging thought comes with this discussion of XML 
->transformation in the browser.  Who actually requires this of their users?We have a number of sites created over the past few years that require 
+>transformation in the browser.  Who actually requires this of their users?
+
+We have a number of sites created over the past few years that require 
 client-side XSLT processing, because our main UVic Web servers have no XSLT 
 processor. In fact, they have only one CGI program (FormMail), disallow 
 installation of your own PERL scripts, and are only now experimenting with 
-adding PHP.>Many users have extremely out of date browsers which will display HTML 
->with (sometimes if you are lucky) a bit of CSS.I think "many" is really overstating the case there. Our current crop of 
+adding PHP.
+
+>Many users have extremely out of date browsers which will display HTML 
+>with (sometimes if you are lucky) a bit of CSS.
+
+I think "many" is really overstating the case there. Our current crop of 
 software produces output which only works on browsers released in the last 
 three years; we sell steadily to customers all over the world, and the only 
 complaints we've had about browser compatibility in the last six months 
@@ -25,16 +37,24 @@ avoid updating IE are being a bit silly, because they're leaving open
 security holes. The only real problem platform is the remaining installed 
 base of Mac OS 9 and below, for which there isn't really a good modern 
 browserand this shrinks monthly and is pretty insignificant outside North 
-America; even there, I think recent versions of Netscape will work.>  Many don't have browsers that have XSLT parsers built in. So it really 
+America; even there, I think recent versions of Netscape will work.
+
+>  Many don't have browsers that have XSLT parsers built in. So it really 
 > isn't an issue, to me, because any site I design will always try to serve 
 > (X)HTML as a bare minimum.[1] The transformations of XML to HTML via XSLT 
 > may be done on the fly, but they certainly won't be done in the user's 
-> browser.  I don't trust users to have any particular browser.I don't either, but it's reasonable to ask them to have one of several good 
+> browser.  I don't trust users to have any particular browser.
+
+I don't either, but it's reasonable to ask them to have one of several good 
 standards-compliant browsers if you're doing something complex that needs 
 modern features. And I also think that encouraging people to go and get 
 good browsers, by providing them with an incentive in the form of a site 
-that makes good use of modern standards, is an all-around Good Thing.Cheers,
-Martin______________________________________
+that makes good use of modern standards, is an all-around Good Thing.
+
+Cheers,
+Martin
+
+______________________________________
 Martin Holmes
 University of Victoria Humanities Computing and Media Centre
 _redacted_(a)uvic.ca
@@ -42,4 +62,7 @@ _redacted_(a)mholmes.com
 _redacted_(a)halfbakedsoftware.com
 http://www.mholmes.com
 http://web.uvic.ca/hcmc/
-http://www.halfbakedsoftware.com
+http://www.halfbakedsoftware.com
+
+
+

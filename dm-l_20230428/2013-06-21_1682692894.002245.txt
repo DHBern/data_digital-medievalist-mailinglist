@@ -1,5 +1,9 @@
-Subject:Personally, I think you need to make two or maybe three distinctions: 
-between data, resources (maybe), and projects.* Projects create and/or analyse data. They have a definite beginning 
+Subject:
+
+Personally, I think you need to make two or maybe three distinctions: 
+between data, resources (maybe), and projects.
+
+* Projects create and/or analyse data. They have a definite beginning 
 and end and they are run by somebody. This means the main preservation 
 problem is how you keep them going until they "finish." Once they 
 finish, their outputs are either data or resources or both. An example 
@@ -17,15 +21,21 @@ libraries, edition interfaces, dictionary or edition interfaces, and so
 on. These are things that may need to be actively maintained and updated 
 if they are to remain useful. Examples of resources include encyclopedia 
 or dictionary sites, journals, perhaps monograph series, scholarly 
-societies, and so on.If this makes sense, then I think the organisational issues are 
-different in each case.* With projects, the transfer is always going to be negotiated: you are 
+societies, and so on.
+
+If this makes sense, then I think the organisational issues are 
+different in each case.
+
+* With projects, the transfer is always going to be negotiated: you are 
 talking about a small group of people who share a common goal and 
 understanding of the project (more or less) and when a transfer happens, 
 you are going to see a handoff: one leader or group hands off control to 
 another under specific conditions. Projects are usually organised around 
 a single leader, or a couple of co-leaders, or a small board. The 
 problem for projects is really the same, whether the project is 
-paper-based or digital.* For data, you are looking for maintenance that is as hands off as 
+paper-based or digital.
+
+* For data, you are looking for maintenance that is as hands off as 
 possible and transfer that can happen without negotiation. The important 
 question here is whether the data is discoverable, comprehensible, and 
 accessible. Hence Peter's point about licencing, for example, and about 
@@ -37,7 +47,9 @@ data under conditions you both find acceptable as part of its mission.
 Universities and libraries are good methods for this. Again, the problem 
 is not really too dissimilar between paper and digital: you want as much 
 as possible to give your data in static form to an institution that is 
-set up to preserve it.* Resources are the hardest things to preserve, because there is no 
+set up to preserve it.
+
+* Resources are the hardest things to preserve, because there is no 
 obvious end date, but they may require active intervention. Because of 
 this, I think you should do everything you can to avoid creating them. 
 If you are designing an edition, you should design it so that it 
@@ -57,7 +69,9 @@ a resource (for example, a journal or a scholarly society), you should
 do everything you can to ensure that it degrades to data when people 
 lose interest in it: so your journals should be hosted by or mirrored at 
 universities and archives, for example, and should not depend too much 
-on dynamic libraries for expression.So in the end the answer to your question might be this: do everything 
+on dynamic libraries for expression.
+
+So in the end the answer to your question might be this: do everything 
 you can to avoid creating a resource. Make sure that your data 
 production is tied to a project rather than a resource and has a 
 definite end-point in sight. If you want to create data that others will 
@@ -67,10 +81,14 @@ doing as independent projects that are responsible for seeking their own
 quality assurance. Create URLs or other identifiers that archives can 
 administer without your help. Publish guidelines and suggestions for how 
 subsequent generations might add to your data, but give up on enforcing 
-them.In other words, try to imitate the Chaucer of the epilogue to Troilus 
+them.
+
+In other words, try to imitate the Chaucer of the epilogue to Troilus 
 and Criseyde  ("go litel bok, go little myn tragedie") rather than the 
 Chaucer of the epilogue to the Canterbury Tales ("...the whiche I revoke 
-in my retracciouns").On 13-06-21 03:51 PM, Michelson, David Allen wrote:
+in my retracciouns").
+
+On 13-06-21 03:51 PM, Michelson, David Allen wrote:
 > Dear Peter and others,
 >
 > Thank you for these helpful responses.
@@ -237,7 +255,7 @@ _redacted_(a)uleth.ca>>
 >> News: http://www.digitalmedievalist.org/news/
 >> Wiki: http://www.digitalmedievalist.org/wiki/
 >> Twitter: http://twitter.com/digitalmedieval
->> Facebook: http://www.facebook.com/group.php?gid=49320313760
+>> Facebook: http://www.facebook.com/group.php?gidI320313760
 _redacted_(a)uleth.ca>
 >> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
 >
@@ -255,18 +273,26 @@ _redacted_(a)uleth.ca>
 >
 >
 >
->-- 
+>
+
+-- 
 ---
 Daniel Paul O'Donnell
 Professor of English
 University of Lethbridge
 Lethbridge AB T1K 3M4
-Canada+1 403 393-2539
---===============0393690052330657400==
-Content-Type: text/html
+Canada
+
++1 403 393-2539
+
+
+
+--0393690052330657400Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWw+CiAgPGhlYWQ+CiAgICA8bWV0YSBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9VVRG
+Content-Disposition: attachment; filenameúttachment.html"
+MIME-Version: 1.0
+
+PGh0bWw+CiAgPGhlYWQ+CiAgICA8bWV0YSBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9VVRG
 LTgiIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSI+CiAgPC9oZWFkPgogIDxib2R5IGJnY29sb3I9
 IiNGRkZGRkYiIHRleHQ9IiMwMDAwMDAiPgogICAgUGVyc29uYWxseSwgSSB0aGluayB5b3UgbmVl
 ZCB0byBtYWtlIHR3byBvciBtYXliZSB0aHJlZQogICAgZGlzdGluY3Rpb25zOiBiZXR3ZWVuIGRh
@@ -752,4 +778,4 @@ ICAgICAgPC9kaXY+CiAgICAgIDwvc3Bhbj4KICAgIDwvYmxvY2txdW90ZT4KICAgIDxicj4KICAg
 IDxwcmUgY2xhc3M9Im1vei1zaWduYXR1cmUiIGNvbHM9IjcyIj4tLSAKLS0tIApEYW5pZWwgUGF1
 bCBPJ0Rvbm5lbGwKUHJvZmVzc29yIG9mIEVuZ2xpc2gKVW5pdmVyc2l0eSBvZiBMZXRoYnJpZGdl
 CkxldGhicmlkZ2UgQUIgVDFLIDNNNApDYW5hZGEKCisxIDQwMyAzOTMtMjUzOTwvcHJlPgogIDwv
-Ym9keT4KPC9odG1sPgo=
+Ym9keT4KPC9odG1sPgo

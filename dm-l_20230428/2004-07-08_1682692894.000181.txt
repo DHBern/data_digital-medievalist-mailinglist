@@ -1,4 +1,6 @@
-Subject: Re: [dm-l] [Fwd: encoding  maps, graphics with text?] Problems	withI have tried with various browsers, but all naturally in Mac OS X, and from
+Subject: Re: [dm-l] [Fwd: encoding  maps, graphics with text?] Problems	with
+
+I have tried with various browsers, but all naturally in Mac OS X, and from
 different places, and just cannot get through.  I get 'the operation timed
 out when trying to connect to..' or just 'cannot connect to..'
 I am trying 
@@ -12,4 +14,7 @@ checking, I discover..
 access to any ports 8080.  Netstat does not show anything running on a 8080
 So very odd indeed
 Anyone else see this behaviour?
-Peter
+Peter
+
+
+

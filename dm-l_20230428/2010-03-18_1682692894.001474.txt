@@ -1,10 +1,19 @@
-Subject: Re: [dm-l] Layout of medieval poetry with CSSOld English people on the list may have guessed: what I've been working 
+Subject: Re: [dm-l] Layout of medieval poetry with CSS
+
+Old English people on the list may have guessed: what I've been working 
 on is a prototype or proof-of-concept of my Old English textbook as an 
 e-book. You can seen it here (still partial; the easiest/free way to 
-look at it is with the FireFox EPubReader add-on):http://faculty.virginia.edu/OldEnglish/secret/oeg.epubI'm wondering what medievalists here think of the textbook as e-book. 
+look at it is with the FireFox EPubReader add-on):
+
+http://faculty.virginia.edu/OldEnglish/secret/oeg.epub
+
+I'm wondering what medievalists here think of the textbook as e-book. 
 The iPad is bearing down on us; many e-readers are on the market; sales 
 of e-books are doubling every year. I love good old paper books, but 
-I've fascinated by the technology.Peter
+I've fascinated by the technology.
+
+Peter
+
 Peter Baker wrote:
 > Thanks to everyone who has replied so far. Some great ideas here. So 
 > far Travis's approach has worked best--with some little alterations 
@@ -21,7 +30,7 @@ Peter Baker wrote:
 > for p. And I use em instead of px to scale better with the device.  
 > The HTML looks like this:
 >
-> <div class="verse-container">
+> <div classerse-container">
 >    <div>Oft him ānhaga     āre gebīdeð,</div>
 >    <div>Metudes miltse,     þēah þe hē mōdcearig</div>
 >    <div>geond lagulāde     longe sceolde</div>
@@ -50,4 +59,7 @@ Peter Baker wrote:
 >
 > Thanks again to everyone,
 > Peter
->
+>
+
+
+

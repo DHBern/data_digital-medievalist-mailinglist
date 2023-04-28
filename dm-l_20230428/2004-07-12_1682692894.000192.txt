@@ -1,12 +1,21 @@
-Subject: [dm-l] TAN: UTF-8 vs. German characters	Sorry, this is dumb and somewhat TANgential.  I've been browsing
+Subject: [dm-l] TAN: UTF-8 vs. German characters
+
+	Sorry, this is dumb and somewhat TANgential.  I've been browsing
 Peter Lang's site (http://www.peterlang.com) and find that higher-order
 characters are not rendering in Firefox 0.9.1.  The page info says it's
 UTF-8, but when I set Firefox to that (Tools | Options | Languages |
 Default character encoding) nothing happens.
 	I've added German and French to the languages, but that changes 
-nothing.  My system is running WinXPpro.  Advice?  Thanks!-- 
-		JurisJuris G. Lidaka
+nothing.  My system is running WinXPpro.  Advice?  Thanks!
+
+-- 
+		Juris
+
+Juris G. Lidaka
 Department of English
 West Virginia State University
 Institute, WV	25112-1000
-USA
+USA
+
+
+

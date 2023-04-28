@@ -1,5 +1,9 @@
-Subject: Re: [dm-l] SDH 2011 Supporting Digital Humanities>>Of course I forgot to add the link which is: 
->>http://jeffreycwitt.com/plaoulJeffrey Witt's lovely critical edition project. I do recommend this.  Nicely 
+Subject: Re: [dm-l] SDH 2011 Supporting Digital Humanities
+
+>>Of course I forgot to add the link which is: 
+>>http://jeffreycwitt.com/plaoul
+
+Jeffrey Witt's lovely critical edition project. I do recommend this.  Nicely 
 laid out, I love the way you can match the image of the manuscript with the 
 Latin transcription (as well as toggle through the ms).  Having done this 
 myself, I recognise there is a problem with 'cutting' the digital images so 
@@ -8,27 +12,37 @@ from page to page, nor within the page (it is effectively handwriting after
 all).  Could semi-intelligent software scan the MS to determine the lines, 
 and automatically line up with the transcript?  I don't bother doing this 
 any more after much experimentation. I simply have the text in one window, 
-the image in another, and use the mouse to line up.Two comments, Jeffrey, and a preliminary remark.  Preliminary remark: the 
+the image in another, and use the mouse to line up.
+
+Two comments, Jeffrey, and a preliminary remark.  Preliminary remark: the 
 _redacted_(a) 
 accredition - giving an author recognition for the work they have put in (b) 
 authority - having a recognised name or panel of specialists review the work 
 (c) archiving - not just giving a 'how to cite' reference, but also a place 
 that people are guaranteed to find the work, i.e. a library, usually a large 
 number of libraries which store a physical representation of the work, which 
-researchers are guaranteed to find.With those preliminary remarks in mind, here are my comments.1.  I made two corrections to the transcription via the form provided.  This 
+researchers are guaranteed to find.
+
+With those preliminary remarks in mind, here are my comments.
+
+1.  I made two corrections to the transcription via the form provided.  This 
 disappeared into the ether without any recognition.  The system therefore 
 fails the accreditation test.  I contributed to the project, but it is 
 unlikely I will be recognised.  I'm not complaining of course, just noting 
 that in order to give an incentive for people to work on the project, they 
 are likely to need some reward - wiki software can do this, by the way, 
 because you can estimate the amount each person contributed, though an art 
-not a science.2.  The project also fails the 'archiving' test - it is on a personal 
+not a science.
+
+2.  The project also fails the 'archiving' test - it is on a personal 
 website.  If I link to the edition, how do I know it won't break in a year 
 or two?  I used to create external links when I started my website 6 years 
 ago. So many of them broke that I don't bother.  If I want to point to 
 something, I just load it onto my own website, and link internally (always 
 accrediting the orignal owner of the text, of course - no one has complained 
-so far).BTW archiving, I believe, is what explains the strange economics of academic 
+so far).
+
+BTW archiving, I believe, is what explains the strange economics of academic 
 publishing.  There are three components, as I said, of which the first two 
 are given free of cash payment.  The labour of the author is rewarded by the 
 accreditation - stuff you can put on your CV.  The labour of those who give 
@@ -47,5 +61,9 @@ will be unpaid.  (A university library, which costs between £5m and £10m a
 year to run, will go to this expense, because of the value it provides to 
 the university, which will bear the cost. The value to the university, in 
 turn, is to provide access to the library in return for a portion of the 
-tuition fees.
---===============8209622439183328446==--
+tuition fees.
+
+
+
+--8209622439183328446-
+

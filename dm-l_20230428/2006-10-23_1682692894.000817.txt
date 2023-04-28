@@ -1,13 +1,22 @@
-Subject: Re: [dm-l] Personal Web site maintenanceHaving used WordPress for over two years I can second that: works like a
+Subject: Re: [dm-l] Personal Web site maintenance
+
+Having used WordPress for over two years I can second that: works like a
 charm. But it's definitely more of a blogging thing, although it provides
 some rudimentary CMS-functionality. Tuning its looks to one's taste may
-provide for some minor headaches.y.s.,
-Joris-- 
+provide for some minor headaches.
+
+y.s.,
+Joris
+
+-- 
 Mr. Joris J. van Zundert (MA)
 Huygens Institute
-Royal Dutch Academy of Arts and SciencesContact information can be found at http://www.brandaen.org
+Royal Dutch Academy of Arts and Sciences
+
+Contact information can be found at http://www.brandaen.org
 A disclaimer is applicable to this e-mail, please refer to
-http://www.brandaen.org/emaildisclaimer for more information
+http://www.brandaen.org/emaildisclaimer for more information
+
 _redacted_(a)luc.edu> wrote:
 >
 > It might be worth investigating WordPress <http://wordpress.org/>, as
@@ -70,7 +79,11 @@ _redacted_(a)uleth.ca
 > dm-l mailing list
 _redacted_(a)uleth.ca
 > http://listserv.uleth.ca/mailman/listinfo/dm-l
->SGF2aW5nIHVzZWQgV29yZFByZXNzIGZvciBvdmVyIHR3byB5ZWFycyBJIGNhbiBzZWNvbmQgdGhh
+>
+
+
+
+SGF2aW5nIHVzZWQgV29yZFByZXNzIGZvciBvdmVyIHR3byB5ZWFycyBJIGNhbiBzZWNvbmQgdGhh
 dDogd29ya3MgbGlrZSBhIGNoYXJtLiBCdXQgaXQncyBkZWZpbml0ZWx5IG1vcmUgb2YgYSBibG9n
 Z2luZyB0aGluZywgYWx0aG91Z2ggaXQgcHJvdmlkZXMgc29tZSBydWRpbWVudGFyeSBDTVMtZnVu
 Y3Rpb25hbGl0eS4gVHVuaW5nIGl0cyBsb29rcyB0byBvbmUncyB0YXN0ZSBtYXkgcHJvdmlkZSBm
@@ -151,4 +164,4 @@ dmFsaXN0QHVsZXRoLmNhPC9hPjxicj5kbS1sIG1haWxpbmcgbGlzdDxicj48YSBocmVmPSJtYWls
 dG86ZG0tbEB1bGV0aC5jYSI+ZG0tbEB1bGV0aC5jYQo8L2E+PGJyPjxhIGhyZWY9Imh0dHA6Ly9s
 aXN0c2Vydi51bGV0aC5jYS9tYWlsbWFuL2xpc3RpbmZvL2RtLWwiPmh0dHA6Ly9saXN0c2Vydi51
 bGV0aC5jYS9tYWlsbWFuL2xpc3RpbmZvL2RtLWw8L2E+PGJyPjwvYmxvY2txdW90ZT48L2Rpdj48
-YnI+PGJyIGNsZWFyPSJhbGwiPjxicj48YnI+Cg==
+YnI+PGJyIGNsZWFyPSJhbGwiPjxicj48YnI+Cg

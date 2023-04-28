@@ -1,11 +1,21 @@
-Subject: [dm-l] [Fwd: cool tei tool to share]I know some people on this list have been developing tools. There is
-also a session on manuscript encoding going on.Since this is the first TEI meeting to have a conference type set of
+Subject: [dm-l] [Fwd: cool tei tool to share]
+
+I know some people on this list have been developing tools. There is
+also a session on manuscript encoding going on.
+
+Since this is the first TEI meeting to have a conference type set of
 sessions, we are quite keen on getting good papers in--and can afford to
-be a little gracious about deadlines. Let me encourage you to consider submitting abstracts on markup if you
+be a little gracious about deadlines. 
+
+Let me encourage you to consider submitting abstracts on markup if you
 have some interesting ideas--it ain't every day one gets an audience of
 people who *want* to hear the gory details of your encoding, after
-all ;)If you have an idea for a markup paper but don't know where to submit,
-let me know and I'll help you find the right person.-dan
+all ;)
+
+If you have an idea for a markup paper but don't know where to submit,
+let me know and I'll help you find the right person.
+
+-dan
 -- 
 Daniel Paul O'Donnell, PhD
 Chair, Text Encoding Initiative <http://www.tei-c.org/>
@@ -15,7 +25,11 @@ University of Lethbridge
 Lethbridge AB T1K 3M4
 Vox: +1 403 329 2378
 Fax: +1 403 382-7191
-Homepage: http://people.uleth.ca/~daniel.odonnell/UmVjZWl2ZWQ6IGZyb20gZ3JhbmRhbS51bGV0aC5jYSAoWzE0Mi42Ni43LjQxXSkgYnkgRVhDSENM
+Homepage: http://people.uleth.ca/~daniel.odonnell/
+
+
+
+UmVjZWl2ZWQ6IGZyb20gZ3JhbmRhbS51bGV0aC5jYSAoWzE0Mi42Ni43LjQxXSkgYnkgRVhDSENM
 Mi51bGV0aC5jYSB3aXRoCglNaWNyb3NvZnQgU01UUFNWQyg2LjAuMzc5MC4xODMwKTsgVGh1LCAy
 OSBNYXIgMjAwNyAxMzo1MDoxNCAtMDYwMApSZWNlaXZlZDogZnJvbSBiaWFuY2EubmV0c3J2LnVs
 ZXRoLmNhIChbMTQyLjY2LjYuMThdKSBieSBncmFuZGFtLnVsZXRoLmNhCgl3aXRoIE1pY3Jvc29m
@@ -92,4 +106,4 @@ ZSAgCnRvIGtub3cuCgpJZiB5b3UgYXJlIGludGVyZXN0ZWQsIHRoZW4gcGxlYXNlIGNvbnRhY3Qg
 bWUsIEVyaWMgTW9yZ2FuLCBzb29uZXIgIApyYXRoZXIgdGhhbiBsYXRlciBhbmQgd2Ugd2lsbCBz
 ZWUgd2hhdCB3ZSBjYW4gZG8uIE9rYXk/CgotLSAKRXJpYyBMZWFzZSBNb3JnYW4KSGVhZCwgRGln
 aXRhbCBBY2Nlc3MgYW5kIEluZm9ybWF0aW9uIEFyY2hpdGVjdHVyZSBEZXBhcnRtZW50ClVuaXZl
-cnNpdHkgTGlicmFyaWVzIG9mIE5vdHJlIERhbWUKCig1NzQpIDYzMS04NjA0Cg==
+cnNpdHkgTGlicmFyaWVzIG9mIE5vdHJlIERhbWUKCig1NzQpIDYzMS04NjA0Cg

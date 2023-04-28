@@ -1,10 +1,113 @@
-Subject: [dm-l] Encoding ArchivesDear all,
+Subject: [dm-l] Encoding Archives
+
+Dear all,
 we invite you at the international meeting "Encoding Archives" that will be
 held on September 7th, within the Master in Digital Humanities and the
-French-Italian Galileo Program at the Faculty of Humanities of Arezzo.With best regards,Elisa Brunoni
-*Università di Siena**Facoltà di Lettere e Filosofia di Arezzo / Facoltà di Ingegneria**Master in Informatica del testo – Edizione elettronica** **Progetto Galileo dell’Università Italo-Francese**Standards internazionali per l'edizione digitale dei**documenti storici**Dip. Teoria e documentazione delle tradizioni culturali-**Ecole des Chartes, Paris*(coord. L.Giuva/F. Stella-O. Canteaut)* **7 settembre 2010, ore 9.30-13.30**Campus del Pionta, aula 1*SEMINARIO INTERNAZIONALE* **La marcatura di documenti, testi ed archivi**- Encoding archives -** ** **9.45 FRANCESCO STELLA *(Università di Siena)*Il progetto Galileo e i seminari del Master**10.00 DIANA TOCCAFONDI*   (Soprintendenza Archivistica della Toscana)*L'archivio Datini presso l'Archivio di Stato di Prato**10.30 PETER STOKES*  (Centre for Computing in the Humanities, King’s
-College, London)*Metadata and encoding for Anglo-Saxon Charters*11.00 Pausa caffè***11.30 FLORENCE CLAVAUD *(Ecole Nationale des Chartes, Paris)*Archives de l'abbaye de Saint-Denis du VIIIe au**XIIIe siècle : édition, traitement et mise en ligne, à**l'aide de EAD, TEI et METS, d'un corpus composite****12.00 ANDRE BROCHIER *(Archives Nationales de France, Aix-en-Provence)*Réalisations récentes des Archives Nationales Outre-Mer**(ANOM) dans le domaine des inventaires en ligne****12.30. Discussione. Coordina Diana Toccafondi** **13.00 Pausa pranzo** **14.30 STELLA DI FAZIO *(Centro MAAS-Consorzio Roma Ricerche)*La guida generale degli Archivi di Stato italiani****15.00 DIANELLA LOMBARDINI **(**Signum, Pisa) -PAOLA RICCIARDI *(Regione
-Toscana, Beni Librari e archivistici)*AST: gli archivi storici comunali della Toscana**15.30 MONICA GROSSI *(Università di Urbino)*RINASCO: gli archivi storici comunali del Lazio****16.00 MAURIZIO LUNGHI *(Fondazione Rinascimento Digitale)*La conservazione a lungo termine delle memorie**digitali****16.30 Discussione*PGRpdj48c3BhbiBpZD0icmVzdWx0X2JveCIgY2xhc3M9ImxvbmdfdGV4dCI+PHNwYW4gc3R5bGU9
+French-Italian Galileo Program at the Faculty of Humanities of Arezzo.
+
+With best regards,
+
+Elisa Brunoni
+
+*Università di Siena*
+
+*Facoltà di Lettere e Filosofia di Arezzo / Facoltà di Ingegneria*
+
+*Master in Informatica del testo – Edizione elettronica*
+
+* *
+
+*Progetto Galileo dell’Università Italo-Francese*
+
+*Standards internazionali per l'edizione digitale dei*
+
+*documenti storici*
+
+*Dip. Teoria e documentazione delle tradizioni culturali-*
+
+*Ecole des Chartes, Paris*
+
+(coord. L.Giuva/F. Stella-O. Canteaut)
+
+* *
+
+*7 settembre 2010, ore 9.30-13.30*
+
+*Campus del Pionta, aula 1*
+
+SEMINARIO INTERNAZIONALE
+
+* *
+
+*La marcatura di documenti, testi ed archivi*
+
+*- Encoding archives -*
+
+* *
+
+* *
+
+*9.45 FRANCESCO STELLA *(Università di Siena)
+
+*Il progetto Galileo e i seminari del Master*
+
+*10.00 DIANA TOCCAFONDI*   (Soprintendenza Archivistica della Toscana)
+
+*L'archivio Datini presso l'Archivio di Stato di Prato*
+
+*10.30 PETER STOKES*  (Centre for Computing in the Humanities, King’s
+College, London)
+
+*Metadata and encoding for Anglo-Saxon Charters*
+
+11.00 Pausa caffè**
+
+*11.30 FLORENCE CLAVAUD *(Ecole Nationale des Chartes, Paris)
+
+*Archives de l'abbaye de Saint-Denis du VIIIe au*
+
+*XIIIe siècle : édition, traitement et mise en ligne, à*
+
+*l'aide de EAD, TEI et METS, d'un corpus composite***
+
+*12.00 ANDRE BROCHIER *(Archives Nationales de France, Aix-en-Provence)
+
+*Réalisations récentes des Archives Nationales Outre-Mer*
+
+*(ANOM) dans le domaine des inventaires en ligne***
+
+*12.30. Discussione. Coordina Diana Toccafondi*
+
+* *
+
+*13.00 Pausa pranzo*
+
+* *
+
+*14.30 STELLA DI FAZIO *(Centro MAAS-Consorzio Roma Ricerche)
+
+*La guida generale degli Archivi di Stato italiani***
+
+*15.00 DIANELLA LOMBARDINI **(**Signum, Pisa) -PAOLA RICCIARDI *(Regione
+Toscana, Beni Librari e archivistici)
+
+*AST: gli archivi storici comunali della Toscana*
+
+*15.30 MONICA GROSSI *(Università di Urbino)
+
+*RINASCO: gli archivi storici comunali del Lazio***
+
+*16.00 MAURIZIO LUNGHI *(Fondazione Rinascimento Digitale)
+
+*La conservazione a lungo termine delle memorie*
+
+*digitali***
+
+*16.30 Discussione*
+
+
+
+PGRpdj48c3BhbiBpZD0icmVzdWx0X2JveCIgY2xhc3M9ImxvbmdfdGV4dCI+PHNwYW4gc3R5bGU9
 IkJBQ0tHUk9VTkQtQ09MT1I6ICNmZmYiIHRpdGxlPSIiPkRlYXIgYWxsLDxicj48L3NwYW4+PHNw
 YW4gdGl0bGU9IiI+d2UgaW52aXRlIHlvdSBhdCB0aGUgaW50ZXJuYXRpb25hbKBtZWV0aW5noCZx
 dW90O0VuY29kaW5nIEFyY2hpdmVzJnF1b3Q7oHRoYXQgd2lsbCBiZSBoZWxkIG9uIFNlcHRlbWJl
@@ -178,4 +281,4 @@ LUhFSUdIVDogMTUwJTsgRk9OVC1TSVpFOiAxMXB0Ij48L3NwYW4+PC9pPjwvYj48L3A+Cgo8cCBz
 dHlsZT0iTElORS1IRUlHSFQ6IDE1MCUiIGNsYXNzPSJNc29Ob3JtYWwiPjxiPjxzcGFuIHN0eWxl
 PSJMSU5FLUhFSUdIVDogMTUwJTsgRk9OVC1TSVpFOiAxMXB0Ij48c3BhbiBzdHlsZT0iRk9OVC1G
 QU1JTFk6IHZlcmRhbmEsc2Fucy1zZXJpZiI+MTYuMzAgRGlzY3Vzc2lvbmU8L3NwYW4+PC9zcGFu
-PjwvYj48L3A+PC9kaXY+PGJyPgo=
+PjwvYj48L3A+PC9kaXY+PGJyPgo

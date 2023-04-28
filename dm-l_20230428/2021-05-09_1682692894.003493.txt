@@ -1,25 +1,19 @@
-Subject: [dm-l] Workshop: making an edition of a text in many versionsDear colleagues,We are offering a workshop titled =E2=80=9CMaking an edition of a text in man=
-y versions=E2=80=9D as part of the 11th European Summer University in Digital=
- Humanities =E2=80=93 Culture & Technology between August 3-13, 2021.This two-week workshop (36 hours over ten days) will teach how to use the Tex=
-tual Communities<http://www.textualcommunities.org/> environment to carry out=
- every stage of preparing a scholarly edition of a text in many versions. Stu=
-dents will learn how to gather images of many versions of texts together, to =
-transcribe their text into TEI/XML, how to collate the versions and prepare a=
-n apparatus, how to use phylogenetic, variant database and other tools to ana=
-lyze the agreements and disagreements between the versions to create stemmata=
- and other visualizations, and how to publish the edition online. Models of t=
-he kind of edition which users will be able to make can be seen at www.sd-edi=
-tions.com<http://www.sd-editions.com/> (for example, Dante=E2=80=99s Commedia=
- at http://www.sd-editions.com/AnaAdditional/CommediaEx/CommediaExhome.html<h=
-ttp://www.sd-editions.com/AnaAdditional/CommediaEx/CommediaExhome.html>; part=
- of the Canterbury Tales at http://www.inklesseditions.com/TCP/Subscription/R=
-E/<http://www.sd-editions.com/TCPub/WBP/>). The workshop will be taught in En=
-glish and Spanish.The deadline for applications is May 15, 2021. More information may be found =
-at https://esu.fdhl.info/making-an-edition-of-a-text-in-many-versions/. You c=
-an apply to join the workshop through ConfTool at https://www.conftool.org/es=
-u2020/.Peter Robinson and Barbara Bordalejo
-_redacted_(a)usask.ca>, Barbara.bordalej=
-_redacted_(a)usask.ca>PGh0bWw+DQo8aGVhZD4NCjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSIgY29udGVudD0i
+Subject: [dm-l] Workshop: making an edition of a text in many versions
+
+Dear colleagues,
+
+We are offering a workshop titled “Making an edition of a text in many versions” as part of the 11th European Summer University in Digital Humanities – Culture & Technology between August 3-13, 2021.
+
+This two-week workshop (36 hours over ten days) will teach how to use the Textual Communities<http://www.textualcommunities.org/> environment to carry out every stage of preparing a scholarly edition of a text in many versions. Students will learn how to gather images of many versions of texts together, to transcribe their text into TEI/XML, how to collate the versions and prepare an apparatus, how to use phylogenetic, variant database and other tools to analyze the agreements and disagreements between the versions to create stemmata and other visualizations, and how to publish the edition online. Models of the kind of edition which users will be able to make can be seen at www.sd-editions.com<http://www.sd-editions.com/> (for example, Dante’s Commedia at http://www.sd-editions.com/AnaAdditional/CommediaEx/CommediaExhome.html<http://www.sd-editions.com/AnaAdditional/CommediaEx/CommediaExhome.html>; part of the Canterbury Tales at http://www.inklesseditions.com/TCP/Subscription/RE/<http://www.sd-editions.com/TCPub/WBP/>). The workshop will be taught in English and Spanish.
+
+The deadline for applications is May 15, 2021. More information may be found at https://esu.fdhl.info/making-an-edition-of-a-text-in-many-versions/. You can apply to join the workshop through ConfTool at https://www.conftool.org/esu2020/.
+
+Peter Robinson and Barbara Bordalejo
+_redacted_(a)usask.ca>, Barbara.bordalej_redacted_(a)usask.ca>
+
+
+
+PGh0bWw+DQo8aGVhZD4NCjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSIgY29udGVudD0i
 dGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04Ij4NCjwvaGVhZD4NCjxib2R5IHN0eWxlPSJ3b3JkLXdy
 YXA6IGJyZWFrLXdvcmQ7IC13ZWJraXQtbmJzcC1tb2RlOiBzcGFjZTsgbGluZS1icmVhazogYWZ0
 ZXItd2hpdGUtc3BhY2U7IiBjbGFzcz0iIj4NCjxkaXYgc3R5bGU9ImJvcmRlcjpzb2xpZCAjNjQ2
@@ -170,4 +164,5 @@ YWNlPSJUaW1lcyBOZXcgUm9tYW4sIHNlcmlmIiBzaXplPSIzIiBjbGFzcz0iIj48YSBocmVmPSJt
 YWlsdG86UGV0ZXIucm9iaW5zb25AdXNhc2suY2EiIGNsYXNzPSIiPlBldGVyLnJvYmluc29uQHVz
 YXNrLmNhPC9hPiwmbmJzcDs8YSBocmVmPSJtYWlsdG86QmFyYmFyYS5ib3JkYWxlam9AdXNhc2su
 Y2EiIGNsYXNzPSIiPkJhcmJhcmEuYm9yZGFsZWpvQHVzYXNrLmNhPC9hPjwvZm9udD48L2Rpdj4N
-CjwvZGl2Pg0KPC9ib2R5Pg0KPC9odG1sPg0K
+CjwvZGl2Pg0KPC9ib2R5Pg0KPC9odG1sPg0K
+

@@ -1,11 +1,29 @@
-Subject: Re: [dm-l] Question about CSS and IEDan,In Index Dot CSS (http://blooberry.com/indexdot/css/ -- my favorite
-reference), on the "general bugs" page, I find:"- IE 3.0: It does not appear to cascade styles correctly."Obviously, this part hasn't been updated in a while; but perhaps
+Subject: Re: [dm-l] Question about CSS and IE
+
+Dan,
+
+In Index Dot CSS (http://blooberry.com/indexdot/css/ -- my favorite
+reference), on the "general bugs" page, I find:
+
+"- IE 3.0: It does not appear to cascade styles correctly."
+
+Obviously, this part hasn't been updated in a while; but perhaps
 rendering nested styles correctly (which is what I'm assuming the
-above means) remains an IE problem?Honestly, beyond a certain point, I've stopped trying to make things
-work with IE.  But that may be eminently unhelpful to you.  :)-Vika-- 
+above means) remains an IE problem?
+
+Honestly, beyond a certain point, I've stopped trying to make things
+work with IE.  But that may be eminently unhelpful to you.  :)
+
+-Vika
+
+-- 
 Vika Zafrin
 Director, Virtual Humanities Lab
-http://www.brown.edu/Departments/Italian_Studies/vhl/Brown University Box 1942
+http://www.brown.edu/Departments/Italian_Studies/vhl/
+
+Brown University Box 1942
 Providence, RI 02912 USA
-(401)863-3984
---===============2020601596443647762==--
+(401)863-3984
+
+--2020601596443647762-
+

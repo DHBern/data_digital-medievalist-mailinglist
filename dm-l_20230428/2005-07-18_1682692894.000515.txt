@@ -1,4 +1,6 @@
-Subject: [dm-l] dtd/schema generators?Hi,
+Subject: [dm-l] dtd/schema generators?
+
+Hi,
 There used to be a very good (free) dtd and schema generator at
 http://www.hitsw.com/xml_utilites/. This site allowed you to upload an
 xml file and produce a rough Document Type Definition (dtd) or Schema
@@ -7,4 +9,7 @@ April, but it doesn't seem to be there any more. Does anybody know of an
 equivalent?
 -- 
 _redacted_(a)uleth.ca>
-University of Lethbridge
+University of Lethbridge
+
+
+

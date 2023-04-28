@@ -1,7 +1,25 @@
-Subject: [dm-l] Launch of TILE project blog[apologies for cross-posting, please forward]TILE: Text-Image Linking Environment is pleased to announce the launch
-of its public blog and informational site:http://tileproject.orgOur first blog posting includes a description of anticipated TILE
-functionality.http://mith.info/tile/2009/07/20/welcome/Upcoming posts will include an invitation to participate in user
-testing, as well as announcements of software as it becomes available.Visit often, or subscribe to the RSS feed for the latest news on TILE.http://mith.info/tile/feed/TILE is a collaborative project between the Maryland Institute for
+Subject: [dm-l] Launch of TILE project blog
+
+[apologies for cross-posting, please forward]
+
+TILE: Text-Image Linking Environment is pleased to announce the launch
+of its public blog and informational site:
+
+http://tileproject.org
+
+Our first blog posting includes a description of anticipated TILE
+functionality.
+
+http://mith.info/tile/2009/07/20/welcome/
+
+Upcoming posts will include an invitation to participate in user
+testing, as well as announcements of software as it becomes available.
+
+Visit often, or subscribe to the RSS feed for the latest news on TILE.
+
+http://mith.info/tile/feed/
+
+TILE is a collaborative project between the Maryland Institute for
 Technology in the Humanities (MITH), Digital Humanities Observatory
 (DHO), and Indiana University Bloomington, funded through a major
 grant from the National Endowment for the Humanities Preservation and
@@ -9,14 +27,18 @@ Access: Humanities Collections and Resources program (research and
 development focus). Over two years TILE will develop a new web-based,
 modular, collaborative image markup tool for both manual and
 semi-automated linking between encoded text and image of text, and
-image annotation.The project is unusual in digital humanities tools development in that
+image annotation.
+
+The project is unusual in digital humanities tools development in that
 it is being designed from the start to support a wide variety of use
 cases. Several projects from the University of Indiana Bloomington,
 The University of Oregon and Harvard's Center for Hellenic Studies are
 initial testbeds. In the second year of the project, TILE will turn to
 the user community for testing. If you are interested in
 participating, or in learning more about the project, please contact
-_redacted_(a)listserv.heanet.ie.--
+_redacted_(a)listserv.heanet.ie.
+
+--
 *~*~*~*~*~*~*~*~*~*~*
 Dot Porter (MA, MSLS)          Metadata Manager
 Digital Humanities Observatory (RIA), Regus House, 28-32 Upper
@@ -24,5 +46,7 @@ Pembroke Street, Dublin 2, Ireland
 -- A Project of the Royal Irish Academy --
 Phone: +353 1 234 2444        Fax: +353 1 234 2400
 _redacted_(a)gmail.com
-*~*~*~*~*~*~*~*~*~*~*
---===============2282260116757259965==--
+*~*~*~*~*~*~*~*~*~*~*
+
+--2282260116757259965-
+

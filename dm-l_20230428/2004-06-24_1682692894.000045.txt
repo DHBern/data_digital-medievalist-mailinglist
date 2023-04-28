@@ -1,14 +1,24 @@
-Subject: [dm-l] Re: dm-l Digest, Vol 1, Issue 3I'm thinking about working on a project a year or two from now that 
+Subject: [dm-l] Re: dm-l Digest, Vol 1, Issue 3
+
+I'm thinking about working on a project a year or two from now that 
 involves a ms facsimile, edition, etc., but in the meantime I would like to 
 know what issues to think about before I get started such as what factors 
 help determine what framework to set up or what software to use. I don't 
 want to do a whole bunch of work on something and then discover that I made 
-less than favorable decisions and have to redo a bunch of tedious work.So, I am looking forward very much to learning from the primer and from 
+less than favorable decisions and have to redo a bunch of tedious work.
+
+So, I am looking forward very much to learning from the primer and from 
 lurking on this list about important concerns and solutions. I suspect I 
-will have much better questions later in the process.Carol Braun Pasternack
+will have much better questions later in the process.
+
+Carol Braun Pasternack
 English Department
 University of California
-Santa Barbara, CA 93106-3170_redacted_(a)uleth.ca wrote:> Send dm-l mailing list submissions to
+Santa Barbara, CA 93106-3170
+
+_redacted_(a)uleth.ca wrote:
+
+> Send dm-l mailing list submissions to
 _redacted_(a)uleth.ca
 >
 > To subscribe or unsubscribe via the World Wide Web, visit
@@ -45,7 +55,7 @@ _redacted_(a)xs4all.nl>
 > Subject: Re: [dm-l] Re: Experience using Microsoft's XSLT?
 _redacted_(a)uleth.ca>
 _redacted_(a)xs4all.nl>
-> Content-Type: text/plain; charset=us-ascii; format=flowed
+> Content-Type: text/plain; charset-ascii; formatowed
 >
 >
 >> Given
@@ -97,7 +107,7 @@ _redacted_(a)computing-services.oxford.ac.uk>
 > Subject: Re: [dm-l] Re: Experience using Microsoft's XSLT?
 _redacted_(a)uleth.ca>
 _redacted_(a)computing-services.oxford.ac.uk>
-> Content-Type: text/plain; charset=us-ascii; format=flowed
+> Content-Type: text/plain; charset-ascii; formatowed
 >
 > Martin Holmes wrote:
 >
@@ -139,7 +149,7 @@ _redacted_(a)virginia.edu>
 > Subject: Re: [dm-l] Re: Manuscript-transcription correlation
 _redacted_(a)uleth.ca>
 _redacted_(a)virginia.edu>
-> Content-Type: text/plain; charset=UTF-8; format=flowed
+> Content-Type: text/plain; charsetF-8; formatowed
 >
 > The task Martin wants to perform is exactly the kind of thing that XSLT
 > is good at and could do easily.
@@ -211,7 +221,7 @@ _redacted_(a)uky.edu>
 > 	Microsoft's	XSLT?)
 _redacted_(a)uleth.ca
 _redacted_(a)uky.edu>
-> Content-Type: text/plain; charset="UTF-8"
+> Content-Type: text/plain; charsetTF-8"
 >
 > Hello All,
 >
@@ -253,7 +263,7 @@ _redacted_(a)uvic.ca>
 > Subject: Re: [dm-l] Re: Experience using Microsoft's XSLT?
 _redacted_(a)uleth.ca>
 _redacted_(a)pop.uvic.ca>
-> Content-Type: text/plain; charset="us-ascii"; format=flowed
+> Content-Type: text/plain; charsets-ascii"; formatowed
 >
 > Hi there,
 >
@@ -293,7 +303,7 @@ _redacted_(a)pop.uvic.ca>
 >
 > If you "View Source", you'll see something like this:
 >
-> <docroot href="AWW_F_ISE.xml"></docroot>
+> <docroot hrefúWW_F_ISE.xml"></docroot>
 >
 > where the href is the actual markup document. I use the "wrapper
 > document"  as a way to avoid hard-coding the XSL stylesheet into the
@@ -324,7 +334,7 @@ _redacted_(a)uleth.ca>
 > Subject: [dm-l] What every digital medievalist should know?
 _redacted_(a)uleth.ca
 _redacted_(a)uleth.ca>
-> Content-Type: text/plain; charset=us-ascii; format=flowed
+> Content-Type: text/plain; charset-ascii; formatowed
 >
 > As part of our (coming) website, we are thinking of including working
 > paper, guidelines, project reports, etc. Something I'd like to see is a
@@ -363,7 +373,7 @@ _redacted_(a)uleth.ca>
 > 	series of	primers?
 _redacted_(a)uleth.ca
 _redacted_(a)uleth.ca>
-> Content-Type: text/plain; charset=us-ascii; format=flowed
+> Content-Type: text/plain; charset-ascii; formatowed
 >
 > I've had a couple of off line responses to my question about a primer.
 > This might be a good opportunity for participants at all levels of
@@ -400,7 +410,7 @@ _redacted_(a)wvu.edu>
 > Subject: [dm-l] Fonts
 _redacted_(a)uleth.ca>
 _redacted_(a)WVUGW01.wvu.edu>
-> Content-Type: text/plain; charset=US-ASCII
+> Content-Type: text/plain; charset-ASCII
 >
 >  . .  And damned fine fonts they are.
 >
@@ -497,5 +507,9 @@ _redacted_(a)uleth.ca
 >
 >
 > End of dm-l Digest, Vol 1, Issue 3
-> **********************************
---===============2513287477949983524==--
+> **********************************
+
+
+
+--2513287477949983524-
+

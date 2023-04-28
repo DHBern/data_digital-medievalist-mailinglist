@@ -1,48 +1,55 @@
-Subject: Re: [dm-l] A new secretary hand fontThat's odd. Perhaps it got corrupted somehow in downloading. Do I gather from=
- the icon on the dialog box that you were trying to open it in Glyphs? If so,=
- trying grabbing the source from the repository: https://github.com/psb1558/J=
-oscelyn-font
-[https://avatars2.githubusercontent.com/u/16215767?s=3D400&v=3D4]<https://git=
-hub.com/psb1558/Joscelyn-font>
+Subject: Re: [dm-l] A new secretary hand font
+
+That's odd. Perhaps it got corrupted somehow in downloading. Do I gather from the icon on the dialog box that you were trying to open it in Glyphs? If so, trying grabbing the source from the repository: https://github.com/psb1558/Joscelyn-font
+[https://avatars2.githubusercontent.com/u/16215767?s=400&v=4]<https://github.com/psb1558/Joscelyn-font>
 psb1558/Joscelyn-font<https://github.com/psb1558/Joscelyn-font>
-An authentic secretary hand font. Contribute to psb1558/Joscelyn-font develop=
-ment by creating an account on GitHub.
-github.com
+An authentic secretary hand font. Contribute to psb1558/Joscelyn-font development by creating an account on GitHub.
+github.com
+
 Professor and Director of Graduate Admissions
 Department of English
 University of Virginia
 P.O. Box 400121
-Charlottesville, Virginia 22904-4121________________________________
+Charlottesville, Virginia 22904-4121
+
+________________________________
 _redacted_(a)olea.biz>
 Sent: Sunday, March 29, 2020 10:06 AM
 _redacted_(a)virginia.edu>
-_redacted_(a)lists.illinois.edu <medtext=
-_redacted_(a)lists.illinois.edu>
-Subject: Re: [dm-l] A new secretary hand fontThanks but I cant open the file[cid:B9A2B7CF-2604-45C6-8B17-E580FAD3992F]un abrazo,[hom]   Humberto Olea, arte - dise=C3=B1o
-Sitios: Caligrafia<http://www.caligrafia.cl> | Cinearte<http://www.cinearte.c=
-l> | Payadores<http://www.payadoreschilenos.cl> | Personal<http://www.olea.bi=
-z> |
-Contacto: Los Veleros 4564 - =C3=91u=C3=B1oa | Skype: humberto.olea | +569 8 =
-294 44 11 |_redacted_(a)virginia.edu<mail=
-_redacted_(a)virginia.edu>> escribi=C3=B3:With the usual apologies for cross-posting:Many of you know that in addition to my day job, I have a weird hobby of maki=
-ng fonts for medievalists. This one is a little bit later than the Middle Age=
-s, but may still be of interest.I have just released a font called "Joscelyn," which I call "an uncompromisin=
-g secretary hand font" because, unlike any other secretary hand font I have s=
-een, it makes no concessions to modernity. It is based on the main hand of Co=
-rpus Christi College, Cambridge, MS 488, John Joscelyn's Historiola Collegii =
-Corporis Christi. The hand (not Joscelyn's own) is rather formal, and so less=
- difficult than many secretary hands, but it is as near as I've been able to =
-come so far to an authentic reproduction of the hand.When I teach paleography, the most difficult bit for my students is always th=
-e last--secretary hand. The idea behind this font is that a decent way to lea=
-rn this difficult hand might be to (1) install the font, (2) start a Microsof=
-t Word file by double-clicking an included template, (3) apply the "Joscelyn"=
- character style, (4) type whatever you like, and (5) just observe. The authe=
-nticity of the font depends on seveal OpenType features being enabled, but th=
-e template turns them on for you.At the risk of sounding immodest, I have to say that it's fun to type in this=
- font and see the OpenType features applied in real time--s changed into long=
- s, initial and final forms applied, and much more. And in addition, you can =
-pass as much time as you like playing with the font without running the small=
-est risk of contracting COVID-19!The font is free (licensed under the Open Font License). You can get it here:https://github.com/psb1558/Joscelyn-font/releasesStay well, everyone.Peter BakerProfessor and Director of Graduate Admissions
+_redacted_(a)lists.illinois.edu <medtext_redacted_(a)lists.illinois.edu>
+Subject: Re: [dm-l] A new secretary hand font
+
+Thanks but I cant open the file
+
+[cid:B9A2B7CF-2604-45C6-8B17-E580FAD3992F]
+
+un abrazo,
+
+[hom]   Humberto Olea, arte - diseño
+Sitios: Caligrafia<http://www.caligrafia.cl> | Cinearte<http://www.cinearte.cl> | Payadores<http://www.payadoreschilenos.cl> | Personal<http://www.olea.biz> |
+Contacto: Los Veleros 4564 - Ñuñoa | Skype: humberto.olea | +569 8 294 44 11 |
+
+_redacted_(a)virginia.edu<mail_redacted_(a)virginia.edu>> escribió:
+
+With the usual apologies for cross-posting:
+
+Many of you know that in addition to my day job, I have a weird hobby of making fonts for medievalists. This one is a little bit later than the Middle Ages, but may still be of interest.
+
+I have just released a font called "Joscelyn," which I call "an uncompromising secretary hand font" because, unlike any other secretary hand font I have seen, it makes no concessions to modernity. It is based on the main hand of Corpus Christi College, Cambridge, MS 488, John Joscelyn's Historiola Collegii Corporis Christi. The hand (not Joscelyn's own) is rather formal, and so less difficult than many secretary hands, but it is as near as I've been able to come so far to an authentic reproduction of the hand.
+
+When I teach paleography, the most difficult bit for my students is always the last--secretary hand. The idea behind this font is that a decent way to learn this difficult hand might be to (1) install the font, (2) start a Microsoft Word file by double-clicking an included template, (3) apply the "Joscelyn" character style, (4) type whatever you like, and (5) just observe. The authenticity of the font depends on seveal OpenType features being enabled, but the template turns them on for you.
+
+At the risk of sounding immodest, I have to say that it's fun to type in this font and see the OpenType features applied in real time--s changed into long s, initial and final forms applied, and much more. And in addition, you can pass as much time as you like playing with the font without running the smallest risk of contracting COVID-19!
+
+The font is free (licensed under the Open Font License). You can get it here:
+
+https://github.com/psb1558/Joscelyn-font/releases
+
+Stay well, everyone.
+
+Peter Baker
+
+Professor and Director of Graduate Admissions
 Department of English
 University of Virginia
 P.O. Box 400121
@@ -52,14 +59,18 @@ Journal: https://journal.digitalmedievalist.org/
 Journal Editors: https://journal.digitalmedievalist.org/contact/
 News: https://digitalmedievalist.wordpress.com/news/
 Twitter: http://twitter.com/digitalmedieval
-Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca>
-Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
---===============2483311678788853229==
-Content-Type: text/html
+Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+
+
+--2483311678788853229Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
+Content-Disposition: attachment; filename�ttachment.html"
+MIME-Version: 1.0
+
+PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
 eHQvaHRtbDsgY2hhcnNldD1pc28tODg1OS0xIj4KPHN0eWxlIHR5cGU9InRleHQvY3NzIiBzdHls
 ZT0iZGlzcGxheTpub25lOyI+IFAge21hcmdpbi10b3A6MDttYXJnaW4tYm90dG9tOjA7fSA8L3N0
 eWxlPgo8L2hlYWQ+Cjxib2R5IGRpcj0ibHRyIj4KPGRpdiBzdHlsZT0iZm9udC1mYW1pbHk6IENh
@@ -450,7 +461,8 @@ YW5zOmF1dG87IHRleHQtYWxpZ246c3RhcnQ7IHRleHQtaW5kZW50OjBweDsgdGV4dC10cmFuc2Zv
 cm06bm9uZTsgd2hpdGUtc3BhY2U6bm9ybWFsOyB3aWRvd3M6YXV0bzsgd29yZC1zcGFjaW5nOjBw
 eCI+aHR0cDovL2xpc3RzZXJ2LnVsZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0tbDwvYT48L2Rp
 dj4KPC9ibG9ja3F1b3RlPgo8L2Rpdj4KPGJyIGNsYXNzPSIiPgo8L2Rpdj4KPC9kaXY+CjwvYm9k
-eT4KPC9odG1sPgo=/9j/4AAQSkZJRgABAQAASABIAAD/4QCSRXhpZgAATU0AKgAAAAgABAEaAAUAAAABAAAAPgEbAAUA
+eT4KPC9odG1sPgo
+/9j/4AAQSkZJRgABAQAASABIAAD/4QCSRXhpZgAATU0AKgAAAAgABAEaAAUAAAABAAAAPgEbAAUA
 AAABAAAARgEoAAMAAAABAAIAAIdpAAQAAAABAAAATgAAAAAAAABIAAAAAQAAAEgAAAABAAOShgAH
 AAAAEgAAAHigAgAEAAAAAQAAAaegAwAEAAAAAQAAAK4AAAAAQVNDSUkAAABTY3JlZW5zaG90/+0A
 OFBob3Rvc2hvcCAzLjAAOEJJTQQEAAAAAAAAOEJJTQQlAAAAAAAQ1B2M2Y8AsgTpgAmY7PhCfv/i
@@ -917,4 +929,5 @@ B2H/AMn0AfqPRX5cD/grb+zf38OeLP8AwDsP/k+j/h7b+zf/ANC54s/8A7D/AOT6AP1Hor8v4f8A
 grN+zlPu2eHfFY2LuObOw9QP+f73qX/h7B+zp/0Lviv/AMA7H/5OoA/Tuivy/l/4Kzfs5Q43+HfF
 fzelnYf/ACdUQ/4K2fs4H/mXPFn/AIB2H/yfQB+otFfl3/w9r/ZxP/MueLP/AADsP/k+vuaP41eF
 JRlbW959Y4//AI5QB1XjYZtdO/6+/wD2hLXGbB6/yq3LrjeK54LlI/ItLfcY0Jy7MwxubGAMDgAZ
-6nmrP2Vfb9aAP//Z
+6nmrP2Vfb9aAP//Z
+

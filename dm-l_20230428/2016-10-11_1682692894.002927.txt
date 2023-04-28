@@ -1,34 +1,32 @@
-Subject: [dm-l] The New Schoenberg Database of Manuscripts_Beta launchThe Schoenberg Institute for Manuscript Studies at the University of Pennsylv=
-ania Libraries is pleased to announce the beta release of the New Schoenberg =
-Database of Manuscripts (SDBM)<https://sdbm.library.upenn.edu/about/>. Thanks=
- to support from the National Endowment for the Humanities, the New SDBM is b=
-eing redeveloped to allow you-the members of our user community-to help us bu=
-ild a finding aid for the world's manuscripts.Members of our user community can now sign up to contribute data, including y=
-our own personal observations of a manuscript or group of manuscripts, and to=
- engage with other users to facilitate research and conversations about curre=
-nt and historical locations of manuscripts and the data gathered in the proce=
-ss of recording this history.The final release of the New SDBM is scheduled for April 2017. In the meantim=
-e, we invite you to sign up now at https://sdbm.library.upenn.edu to start co=
-ntributing and testing new features and functionality. Your participation and=
- feedback will help us build a better tool for your research.New features currently available:
+Subject: [dm-l] The New Schoenberg Database of Manuscripts_Beta launch
+
+The Schoenberg Institute for Manuscript Studies at the University of Pennsylvania Libraries is pleased to announce the beta release of the New Schoenberg Database of Manuscripts (SDBM)<https://sdbm.library.upenn.edu/about/>. Thanks to support from the National Endowment for the Humanities, the New SDBM is being redeveloped to allow you-the members of our user community-to help us build a finding aid for the world's manuscripts.
+
+Members of our user community can now sign up to contribute data, including your own personal observations of a manuscript or group of manuscripts, and to engage with other users to facilitate research and conversations about current and historical locations of manuscripts and the data gathered in the process of recording this history.
+
+The final release of the New SDBM is scheduled for April 2017. In the meantime, we invite you to sign up now at https://sdbm.library.upenn.edu to start contributing and testing new features and functionality. Your participation and feedback will help us build a better tool for your research.
+
+New features currently available:
 *          New data model
 *          Enhanced provenance data
-*          Ability to enter and manage your own contributions, track your sea=
-rch history, bookmark, tag, and download search results
-*          Export the entire contents of the SDBM for your own use under a Cr=
-eative Commons Attribution-ShareAlike 4.0 Unported License<https://creativeco=
-mmons.org/licenses/by-nc-sa/4.0/>
-*          A growing VIAF-based Name Authority for individuals and institutio=
-ns associated with manuscript production and trade to which users can contrib=
-ute
-*          Google group for User feedback and discussion: new-sdbm-feedback-p=
-hase 2<https://groups.google.com/forum/#!forum/new-sdbm-feedback_phase-2>.New features coming soon:
+*          Ability to enter and manage your own contributions, track your search history, bookmark, tag, and download search results
+*          Export the entire contents of the SDBM for your own use under a Creative Commons Attribution-ShareAlike 4.0 Unported License<https://creativecommons.org/licenses/by-nc-sa/4.0/>
+*          A growing VIAF-based Name Authority for individuals and institutions associated with manuscript production and trade to which users can contribute
+*          Google group for User feedback and discussion: new-sdbm-feedback-phase 2<https://groups.google.com/forum/#!forum/new-sdbm-feedback_phase-2>.
+
+New features coming soon:
 *          Public approval system for Entries, Manuscript Records, and Names
 *          Group activity workspace for collaborative projects
-*          Ability to advance from Contributor to Editor and Super-Editor via=
- a user community approval system
-*          More refined and user-friendly interfaceFor more information, go to https://sdbm.library.upenn.edu or email us at sdb=
-_redacted_(a)pobox.upenn.edu>.PGh0bWwgeG1sbnM6dj0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTp2bWwiIHhtbG5zOm89InVy
+*          Ability to advance from Contributor to Editor and Super-Editor via a user community approval system
+*          More refined and user-friendly interface
+
+For more information, go to https://sdbm.library.upenn.edu or email us at sdb_redacted_(a)pobox.upenn.edu>.
+
+
+
+
+
+PGh0bWwgeG1sbnM6dj0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTp2bWwiIHhtbG5zOm89InVy
 bjpzY2hlbWFzLW1pY3Jvc29mdC1jb206b2ZmaWNlOm9mZmljZSIgeG1sbnM6dz0idXJuOnNjaGVt
 YXMtbWljcm9zb2Z0LWNvbTpvZmZpY2U6d29yZCIgeG1sbnM6bT0iaHR0cDovL3NjaGVtYXMubWlj
 cm9zb2Z0LmNvbS9vZmZpY2UvMjAwNC8xMi9vbW1sIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcv
@@ -135,4 +133,4 @@ YSBocmVmPSJtYWlsdG86c2RibUBwb2JveC51cGVubi5lZHUiPgpzZGJtQHBvYm94LnVwZW5uLmVk
 dTwvYT4uPG86cD48L286cD48L3NwYW4+PC9wPgo8cCBjbGFzcz0iTXNvTm9ybWFsIj48c3BhbiBz
 dHlsZT0iZm9udC1zaXplOjEyLjBwdCI+PG86cD4mbmJzcDs8L286cD48L3NwYW4+PC9wPgo8cCBj
 bGFzcz0iTXNvTm9ybWFsIj48bzpwPiZuYnNwOzwvbzpwPjwvcD4KPC9kaXY+CjwvYm9keT4KPC9o
-dG1sPgo=
+dG1sPgo

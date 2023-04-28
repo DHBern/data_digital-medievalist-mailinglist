@@ -1,17 +1,29 @@
-Subject: Re: [dm-l] [Technical]: Suggestions for a replacement for	Subversion?Well, Github doesn't cause problems, it's really the user who messes it up.However, if you get the idea of doing work on branches, then it is easy to
+Subject: Re: [dm-l] [Technical]: Suggestions for a replacement for	Subversion?
+
+Well, Github doesn't cause problems, it's really the user who messes it up.
+
+However, if you get the idea of doing work on branches, then it is easy to
 delete a branch, or reset a branch if it's not pushed to the master branch.
 This might be a little confusing, but it's pretty easy to follow once
 you've done it a few times. As long as people are working on different
 branches and not messing with the master branch, then you should be fine.
 If they mess up their own branches, then there are ways they can move back
-to previous versions, or pull in the master again to their own project.That's basically how Git works. As long as students cannot push to the
+to previous versions, or pull in the master again to their own project.
+
+That's basically how Git works. As long as students cannot push to the
 master branch, you should be fine. They can always fork the main project
 and make pull requests to add to the master branch, which could be set up
 so that each commit (or modified file) to the master has to be approved.
 That way you always know what's being added to the master. Once a commit
 has been added to the master, then they are able to pull the new material
-into their projects so everyone is up to date.I hope I didn't make this too confusing._redacted_(a)uleth.ca>
-wrote:>  A question I'd have is how easy is it for github to cock up?
+into their projects so everyone is up to date.
+
+I hope I didn't make this too confusing.
+
+_redacted_(a)uleth.ca>
+wrote:
+
+>  A question I'd have is how easy is it for github to cock up?
 >
 > Subversion works great for us until a student does something unexpected.
 > Then we end up having to go in and clean out all the locks and the like.
@@ -82,7 +94,7 @@ _redacted_(a)uleth.ca>
 >> News: http://www.digitalmedievalist.org/news/
 >> Wiki: http://www.digitalmedievalist.org/wiki/
 >> Twitter: http://twitter.com/digitalmedieval
->> Facebook: http://www.facebook.com/group.php?gid=49320313760
+>> Facebook: http://www.facebook.com/group.php?gidI320313760
 _redacted_(a)uleth.ca
 >> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
 >>
@@ -102,7 +114,11 @@ _redacted_(a)uleth.ca
 > Canada
 > +1 403 393-2539
 >
->PGRpdiBkaXI9Imx0ciI+V2VsbCwgR2l0aHViIGRvZXNuJiMzOTt0IGNhdXNlIHByb2JsZW1zLCBp
+>
+
+
+
+PGRpdiBkaXI9Imx0ciI+V2VsbCwgR2l0aHViIGRvZXNuJiMzOTt0IGNhdXNlIHByb2JsZW1zLCBp
 dCYjMzk7cyByZWFsbHkgdGhlIHVzZXIgd2hvIG1lc3NlcyBpdCB1cC6gPGRpdj48YnI+PC9kaXY+
 PGRpdj5Ib3dldmVyLCBpZiB5b3UgZ2V0IHRoZSBpZGVhIG9mIGRvaW5nIHdvcmsgb24gYnJhbmNo
 ZXMsIHRoZW4gaXQgaXMgZWFzeSB0byBkZWxldGUgYSBicmFuY2gsIG9yIHJlc2V0IGEgYnJhbmNo
@@ -223,4 +239,4 @@ YXVsIE8mIzM5O0Rvbm5lbGwKUHJvZmVzc29yIG9mIEVuZ2xpc2gKVW5pdmVyc2l0eSBvZiBMZXRo
 YnJpZGdlCkxldGhicmlkZ2UgQUIgVDFLIDNNNApDYW5hZGEKCjxhIGhyZWY9InRlbDolMkIxJTIw
 NDAzJTIwMzkzLTI1MzkiIHZhbHVlPSIrMTQwMzM5MzI1MzkiIHRhcmdldD0iX2JsYW5rIj4rMSA0
 MDMgMzkzLTI1Mzk8L2E+PC9wcmU+CiAgPC9kaXY+PC9kaXY+PC9kaXY+Cgo8L2Jsb2NrcXVvdGU+
-PC9kaXY+PGJyPjwvZGl2Pgo=
+PC9kaXY+PGJyPjwvZGl2Pgo

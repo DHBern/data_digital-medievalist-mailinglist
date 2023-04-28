@@ -1,98 +1,45 @@
-Subject: [dm-l] Call for Chapters: "Crossing the Virtual Divide: Digital	ToolsDear Colleagues,Please forgive any duplication of this message in your inbox.We are in the process of putting together a volume of chapters and commentary=
-, currently under strong consideration by Amsterdam University Press, discuss=
-ing the problems and opportunities of digital methods and tools for the speci=
-fic humanistic problems scholars working with medieval texts and materials fa=
-ce. You do not have to self-identify as a digital humanities scholar to contr=
-ibute =E2=80=93 only have an interest in what is made possible by these new m=
-ethodologies or a project you are working on that includes a digital element.=
-  It is also our desire that the volume becomes a conversation, and as such w=
-e would like all authors writing for the volume to read and comment on the ot=
-her chapters when the topics are of interest.If you have an idea for a chapter that you think might fit the planned outlin=
-e of the book, attached below, please send an abstract of your proposed chapt=
-_redacted_(a)matthewe=
-davis.net> by December 1st.  Our plan is that all chapters will be completed =
-and in the editors hands by November of 2015 and the completed volume, includ=
-ing commentary, will be in the hands of the publishers by March of 2016.Thank you,
+Subject: [dm-l] Call for Chapters: "Crossing the Virtual Divide: Digital	Tools
+
+Dear Colleagues,
+
+Please forgive any duplication of this message in your inbox.
+
+We are in the process of putting together a volume of chapters and commentary, currently under strong consideration by Amsterdam University Press, discussing the problems and opportunities of digital methods and tools for the specific humanistic problems scholars working with medieval texts and materials face. You do not have to self-identify as a digital humanities scholar to contribute – only have an interest in what is made possible by these new methodologies or a project you are working on that includes a digital element.  It is also our desire that the volume becomes a conversation, and as such we would like all authors writing for the volume to read and comment on the other chapters when the topics are of interest.
+
+If you have an idea for a chapter that you think might fit the planned outline of the book, attached below, please send an abstract of your proposed chapt_redacted_(a)matthewedavis.net> by December 1st.  Our plan is that all chapters will be completed and in the editors hands by November of 2015 and the completed volume, including commentary, will be in the hands of the publishers by March of 2016.
+
+Thank you,
 Matthew Evan Davis
-North Carolina State UniversityTamsyn Rose-Steel
-Johns Hopkins UniversityEce Turnator
-University of Texas at Austin=E2=80=94
-The book will be organized into four broad categories intended to reflect the=
- practice of digital humanities in medieval studies, and reflecting our desir=
-e to explore both the contributors=E2=80=99 work on digital medieval projects=
- and their thoughts on how digital tools and methods have changed medieval st=
-udy. These categories should not be seen as an attempt to wall off methods of=
- scholarship =E2=80=93 the intention of the volume is that the contributed pi=
-eces will be in dialogue with each other =E2=80=93 but to place thematically =
-similar pieces in proximity to each other. The categories are:=20=E2=80=A2	Texts and Contexts
-The binary foundation of the digital =E2=80=93 the zero and one or off and on=
- at the heart of it =E2=80=93 causes its division into discrete pieces. That =
-tendency them migrates up the chain of data categorization, placing those dis=
-crete items into their own pigeonholes. Those things that resist neat categor=
-ization or binary distinction have a tendency to be lost, and that loss will =
-only increase as more and more analog cultural artifacts are described and ca=
-tegorized digitally. Those chapters in the Texts and Contexts section are thu=
-s concerned not only with the content of a work =E2=80=93 things intentionall=
-y placed such as the text of a poem, the image of an artistic work or sculptu=
-re, or the presentation layer of a website =E2=80=93 but with the ancillary e=
-lements that define, or once defined, the context of the work and which are e=
-qually important to its production and understanding.=20
-=E2=80=A2	Things and Spaces
-Complementary to the question of text and context is one of representation: h=
-ow do you represent a three-dimensional object, with its real, physical prese=
-nce, in an essentially two-dimensional digital construct presented on a scree=
-n? Should there be large- scale visualization spaces available so that indivi=
-duals can =E2=80=98walk=E2=80=99 inside a scale representation of a medieval =
-cathedral, for example, and if so how should the cathedral be represented? Sh=
-ould its artificial nature be occluded in an attempt at true verisimilitude o=
-r should it be acknowledged and the real and physical privileged? Furthermore=
-, our relationships with virtual representations of small objects, such as co=
-dices, appear on the surface to be well-trod ground but in fact their reconst=
-ruction forces us to think anew about concepts such as reception and memory. =
-The chapters in this section engage with the presentation of objects as objec=
-ts, with their own physicality and cultural weight, and question how best to =
-both engage with and honor all of those aspects digitally.=20
-=E2=80=A2	Tools and Techniques
-Because very few digital tools and platforms are actually built for humanitie=
-s questions, much less the specific questions that medievalists working with =
-those tools might ask, there is a tension between what the researcher wants f=
-rom the tool, what the tool can do, and what the tool might be reasonably be =
-made able to do. The chapters in this category deal primarily with the techni=
-cal opportunities and issues of using computational tools to do medieval huma=
-nities scholarship. What exactly are the underlying implications of choosing =
-a particular metadata standard =E2=80=93 can such choices be seen as =E2=80=
-=98neutral=E2=80=99? In choosing a tool such as TEI or creating an algorithm =
-to track word usage across a corpus, to what are scholars committing themselv=
-es, and what are they discarding?=20=E2=80=A2	Collaborations
-Due to the nature of training in the humanities and the hardware and software=
- packages necessary to undertake a digital project, there are very few schola=
-rs who can engage in a digital project alone. Thus, unlike the traditional mo=
-del of the lone scholar working on a monograph, digital scholarship tends bot=
-h to be collaborative and to require significant funding. The scholar who man=
-ages such a project faces two interrelated challenges: first, that the projec=
-t not exceed its original scholarly intent =E2=80=93 a condition known to the=
- programming community as =E2=80=9Cscope creep.=E2=80=9D Second, that all mem=
-bers of the collaborative team be rewarded in the ways that are meaningful to=
- their particular discipline =E2=80=93 a CV line for the scholar, a service i=
-tem or additional technical tool for a library employee, or a particularly ch=
-allenging technical =E2=80=9Chack=E2=80=9D that can then be used elsewhere or=
- foregrounded on the resume for the programmer. The chapters in this section =
-discuss specific pitfalls involved in trying to explain and justify a medieva=
-lly-focused digital project to the larger funding structures of an institutio=
-n.=20Intentionally broad, these categories are not designed to be traditionally di=
-sciplinary. Instead, our aim is that they reflect the interdisciplinary natur=
-e of some of the best digital humanities projects, the holistic nature of med=
-ieval culture that has been artificially divided by modern disciplinary bound=
-aries, and the push towards interdisciplinary scholarship in the academy. Fur=
-thermore, by suggesting an alternate way of thinking about the objects of our=
- study and the scholarship produced, notions that this =E2=80=9Cisn=E2=80=99t=
- my area=E2=80=9D are abolished and discussions amongst the participants =E2=
-=80=93 either in the volume itself or in an ancillary website =E2=80=93 are f=
-ostered.=20We are envisioning roughly sixteen chapters to the volume divided amongst the=
- four categories, with a different author writing each chapter. After complet=
-ing their chapters the authors will be encouraged to read and comment on each=
- other=E2=80=99s work, and that conversation will be included in the volume a=
-nd hopefully on an ancillary, ongoing website forum.PGh0bWw+PGhlYWQ+PG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0
+North Carolina State University
+
+Tamsyn Rose-Steel
+Johns Hopkins University
+
+Ece Turnator
+University of Texas at Austin
+
+—
+The book will be organized into four broad categories intended to reflect the practice of digital humanities in medieval studies, and reflecting our desire to explore both the contributors’ work on digital medieval projects and their thoughts on how digital tools and methods have changed medieval study. These categories should not be seen as an attempt to wall off methods of scholarship – the intention of the volume is that the contributed pieces will be in dialogue with each other – but to place thematically similar pieces in proximity to each other. The categories are: 
+
+•	Texts and Contexts
+The binary foundation of the digital – the zero and one or off and on at the heart of it – causes its division into discrete pieces. That tendency them migrates up the chain of data categorization, placing those discrete items into their own pigeonholes. Those things that resist neat categorization or binary distinction have a tendency to be lost, and that loss will only increase as more and more analog cultural artifacts are described and categorized digitally. Those chapters in the Texts and Contexts section are thus concerned not only with the content of a work – things intentionally placed such as the text of a poem, the image of an artistic work or sculpture, or the presentation layer of a website – but with the ancillary elements that define, or once defined, the context of the work and which are equally important to its production and understanding. 
+
+•	Things and Spaces
+Complementary to the question of text and context is one of representation: how do you represent a three-dimensional object, with its real, physical presence, in an essentially two-dimensional digital construct presented on a screen? Should there be large- scale visualization spaces available so that individuals can ‘walk’ inside a scale representation of a medieval cathedral, for example, and if so how should the cathedral be represented? Should its artificial nature be occluded in an attempt at true verisimilitude or should it be acknowledged and the real and physical privileged? Furthermore, our relationships with virtual representations of small objects, such as codices, appear on the surface to be well-trod ground but in fact their reconstruction forces us to think anew about concepts such as reception and memory. The chapters in this section engage with the presentation of objects as objects, with their own physicality and cultural weight, and question how best to both engage with and honor all of those aspects digitally. 
+
+•	Tools and Techniques
+Because very few digital tools and platforms are actually built for humanities questions, much less the specific questions that medievalists working with those tools might ask, there is a tension between what the researcher wants from the tool, what the tool can do, and what the tool might be reasonably be made able to do. The chapters in this category deal primarily with the technical opportunities and issues of using computational tools to do medieval humanities scholarship. What exactly are the underlying implications of choosing a particular metadata standard – can such choices be seen as ‘neutral’? In choosing a tool such as TEI or creating an algorithm to track word usage across a corpus, to what are scholars committing themselves, and what are they discarding? 
+
+•	Collaborations
+Due to the nature of training in the humanities and the hardware and software packages necessary to undertake a digital project, there are very few scholars who can engage in a digital project alone. Thus, unlike the traditional model of the lone scholar working on a monograph, digital scholarship tends both to be collaborative and to require significant funding. The scholar who manages such a project faces two interrelated challenges: first, that the project not exceed its original scholarly intent – a condition known to the programming community as “scope creep.” Second, that all members of the collaborative team be rewarded in the ways that are meaningful to their particular discipline – a CV line for the scholar, a service item or additional technical tool for a library employee, or a particularly challenging technical “hack” that can then be used elsewhere or foregrounded on the resume for the programmer. The chapters in this section discuss specific pitfalls involved in trying to explain and justify a medievally-focused digital project to the larger funding structures of an institution. 
+
+Intentionally broad, these categories are not designed to be traditionally disciplinary. Instead, our aim is that they reflect the interdisciplinary nature of some of the best digital humanities projects, the holistic nature of medieval culture that has been artificially divided by modern disciplinary boundaries, and the push towards interdisciplinary scholarship in the academy. Furthermore, by suggesting an alternate way of thinking about the objects of our study and the scholarship produced, notions that this “isn’t my area” are abolished and discussions amongst the participants – either in the volume itself or in an ancillary website – are fostered. 
+
+We are envisioning roughly sixteen chapters to the volume divided amongst the four categories, with a different author writing each chapter. After completing their chapters the authors will be encouraged to read and comment on each other’s work, and that conversation will be included in the volume and hopefully on an ancillary, ongoing website forum.
+
+
+
+PGh0bWw+PGhlYWQ+PG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0
 L2h0bWwgY2hhcnNldD11dGYtOCI+PC9oZWFkPjxib2R5IHN0eWxlPSJ3b3JkLXdyYXA6IGJyZWFr
 LXdvcmQ7IC13ZWJraXQtbmJzcC1tb2RlOiBzcGFjZTsgLXdlYmtpdC1saW5lLWJyZWFrOiBhZnRl
 ci13aGl0ZS1zcGFjZTsiIGNsYXNzPSIiPkRlYXIgQ29sbGVhZ3Vlcyw8ZGl2IGNsYXNzPSIiPjxi
@@ -232,4 +179,4 @@ ZXIgY29tcGxldGluZyB0aGVpciBjaGFwdGVycyB0aGUgYXV0aG9ycyB3aWxsIGJlIGVuY291cmFn
 ZWQgdG8gcmVhZCBhbmQgY29tbWVudCBvbiBlYWNoIG90aGVy4oCZcyB3b3JrLCBhbmQgdGhhdCBj
 b252ZXJzYXRpb24gd2lsbCBiZSBpbmNsdWRlZCBpbiB0aGUgdm9sdW1lIGFuZCBob3BlZnVsbHkg
 b24gYW4gYW5jaWxsYXJ5LCBvbmdvaW5nIHdlYnNpdGUgZm9ydW0uPC9kaXY+PC9ib2R5PjwvaHRt
-bD4=
+bD4

@@ -1,15 +1,22 @@
-Subject: Re: [dm-l] [Fwd: encoding  maps, graphics with text?]HI folks,eXist blew up on us late yesterday when we were making changes to one of=20
-its sites. It took us a couple of hours to get it going again (for human=20
-rather than technical reasons -- no-one with the right passwords was=20
-available). It's an in-development site, and we're in the process of moving=20
-it to a more stable environment. The combination of Vancouver Island=20
-network outages, widespread blocking of port 8080, and the server crash=20
-made yesterday the worst possible time for giving out the URL, unfortunately!Cheers,
-MartinAt 02:27 AM 08/07/2004, you wrote:
+Subject: Re: [dm-l] [Fwd: encoding  maps, graphics with text?]
+
+HI folks,
+
+eXist blew up on us late yesterday when we were making changes to one of 
+its sites. It took us a couple of hours to get it going again (for human 
+rather than technical reasons -- no-one with the right passwords was 
+available). It's an in-development site, and we're in the process of moving 
+it to a more stable environment. The combination of Vancouver Island 
+network outages, widespread blocking of port 8080, and the server crash 
+made yesterday the worst possible time for giving out the URL, unfortunately!
+
+Cheers,
+Martin
+
+At 02:27 AM 08/07/2004, you wrote:
 >On Thu, 8 Jul 2004, Peter Robinson wrote:
 >
-> > Sorry, but this site still does not work for me.  It may be that a firewa=
-ll
+> > Sorry, but this site still does not work for me.  It may be that a firewall
 > > at the server end is blocking access to port 8080 except for authorized
 > > machines and users.
 > > Peter
@@ -30,16 +37,16 @@ ll
 > > > Hi there,
 > > >
 > > > At 08:26 AM 07/07/2004, you wrote:
-> > >> Yes, it's up and running. Nice site too. I'm browsing with Mozilla=20
+> > >> Yes, it's up and running. Nice site too. I'm browsing with Mozilla 
 > Firefox
 > > >> 0.7. Site seems to display itself correctly, though the javascript that
 > > >> pops up the yellow help tags has some positioning problems.
 > > >
-> > > I'm glad someone can see it! Our own researcher is having trouble=20
+> > > I'm glad someone can see it! Our own researcher is having trouble 
 > accessing
 > > > it from Paris (and is doing a presentation on it soon...)
 > > >
-> > > The yellow popups work fine for me in Firefox 0.9.1 -- I wonder if=20
+> > > The yellow popups work fine for me in Firefox 0.9.1 -- I wonder if 
 > it's the
 > > > older Firefox that's problematic? What problems do you see?
 > > >
@@ -54,10 +61,8 @@ _redacted_(a)uvic.ca 7/7/04 17:13:46 >>>
 > > >>> But alas
 > > >>> This website does not respond to me
 > > >>
-> > >> It seems to be there this morning. It needs a modern browser (it's XHT=
-ML
-> > >> with an XML declaration), but it's not particularly challenging from t=
-he
+> > >> It seems to be there this morning. It needs a modern browser (it's XHTML
+> > >> with an XML declaration), but it's not particularly challenging from the
 > > >> browser's point of view. Can anyone else see it?
 > > >>
 > > >> Cheers,
@@ -68,16 +73,15 @@ he
 > > >>>
 > > >>>> Hi there,
 > > >>>>
-> > >>>> Our Graves Diary project includes enclosures such as letters,=20
+> > >>>> Our Graves Diary project includes enclosures such as letters, 
 > telegrams
-> > >>>> etc. You can see the first few months of the markup (in TEI)=20
+> > >>>> etc. You can see the first few months of the markup (in TEI) 
 > accessible
 > > >>>> through an eXist/Cocoon interface here:
 > > >>>>
 > > >>>>
-> > >>=20
-> <<http://lingo.dcf.uvic.ca:8080/exist/graves/index.xml>http://lingo.dcf.uvi=
-c.
+> > >> 
+> <<http://lingo.dcf.uvic.ca:8080/exist/graves/index.xml>http://lingo.dcf.uvic.
 > > >> ca:8080/exist/graves/index.xml>
 > > >>>>
 > > >>>> Cheers,
@@ -116,9 +120,8 @@ _redacted_(a)LISTSERV.BROWN.EDU
 > > >>>>> Fax. (403) 382-7191
 _redacted_(a)uleth.ca>
 > > >>>>> Home Page
-> > >>=20
-> <<http://people.uleth.ca/~daniel.odonnell/>http://people.uleth.ca/~daniel.o=
-do
+> > >> 
+> <<http://people.uleth.ca/~daniel.odonnell/>http://people.uleth.ca/~daniel.odo
 > > >> nnell/>
 > > >>>>>
 > > >>>>>
@@ -128,9 +131,8 @@ do
 > > >>>>> dm-l mailing list
 _redacted_(a)uleth.ca
 > > >>>>>
-> > >>=20
-> <http://listserv.uleth.ca/mailman/listinfo/dm-l>http://listserv.uleth.ca/ma=
-il
+> > >> 
+> <http://listserv.uleth.ca/mailman/listinfo/dm-l>http://listserv.uleth.ca/mail
 > > >> man/listinfo/dm-l
 > > >>>>>
 > > >>>>
@@ -149,9 +151,8 @@ _redacted_(a)halfbakedsoftware.com
 > > >>>> dm-l mailing list
 _redacted_(a)uleth.ca
 > > >>>>
-> > >>=20
-> <http://listserv.uleth.ca/mailman/listinfo/dm-l>http://listserv.uleth.ca/ma=
-il
+> > >> 
+> <http://listserv.uleth.ca/mailman/listinfo/dm-l>http://listserv.uleth.ca/mail
 > > >> man/listinfo/dm-l
 > > >>>>
 > > >>>
@@ -164,7 +165,7 @@ il
 > > >>>
 > > >>> _______________________________________________
 _redacted_(a)uleth.ca
-> > >>>=20
+> > >>> 
 > <http://listserv.uleth.ca/mailman/listinfo/dm-l>http://listserv.uleth.ca/
 > > >> mailman/listinfo/dm-l
 > > >>
@@ -182,9 +183,8 @@ _redacted_(a)halfbakedsoftware.com
 > > >> _______________________________________________
 > > >> dm-l mailing list
 _redacted_(a)uleth.ca
-> > >>=20
-> <http://listserv.uleth.ca/mailman/listinfo/dm-l>http://listserv.uleth.ca/ma=
-il
+> > >> 
+> <http://listserv.uleth.ca/mailman/listinfo/dm-l>http://listserv.uleth.ca/mail
 > > >> man/listinfo/dm-l
 > > >> Content-Transfer-Encoding: 7bit
 > > >> Content-Disposition: inline
@@ -220,7 +220,9 @@ _redacted_(a)uleth.ca
 >_______________________________________________
 >dm-l mailing list
 _redacted_(a)uleth.ca
->http://listserv.uleth.ca/mailman/listinfo/dm-l______________________________________
+>http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+______________________________________
 Martin Holmes
 University of Victoria Humanities Computing and Media Centre
 _redacted_(a)uvic.ca
@@ -228,4 +230,7 @@ _redacted_(a)mholmes.com
 _redacted_(a)halfbakedsoftware.com
 http://www.mholmes.com
 http://web.uvic.ca/hcmc/
-http://www.halfbakedsoftware.com
+http://www.halfbakedsoftware.com
+
+
+

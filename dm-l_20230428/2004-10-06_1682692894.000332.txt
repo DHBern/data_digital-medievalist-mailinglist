@@ -1,10 +1,13 @@
-Subject: Re: [dm-l] Character reference conversions: help?
+Subject: Re: [dm-l] Character reference conversions: help?
+
 >It seems to me (as is implied by the second paragraph above) that entity 
 >code values in UCS should refer to the same character position as in 
 >Unicode. So, for example, if &#x1090 is the "Z" character in UCS-4 (I 
 >know, it's not!) then it should also be the "Z" character in UTF-8 
 >(assuming the same font is used). If so, no conversion of numerically 
->encoded entities should be needed. Of course, I could be wrong!In Unicode a "Unicode scalar value" aka "ISO/IEC 10646 code point" is a 
+>encoded entities should be needed. Of course, I could be wrong!
+
+In Unicode a "Unicode scalar value" aka "ISO/IEC 10646 code point" is a 
 number which stands for an "abstract character", which is something like 
 the Platonic idea of a character.  This number itself must be distinguished 
 from its representation in a specific stream of bits used by a 
@@ -16,11 +19,15 @@ UTF-8, UTF-16) have been introduced later for the same purpose.  UCS-2
 covers only a subset of all possible Unicode scalar values; UCS-4 virtually 
 allows to serialize larger numbers in a bit stream than are used as Unicode 
 scalar values.  UTF-8 and UTF-16 are covering exactly the range of possible 
-Unicode scalar values.The mapping from a character set definition to the actual code units used 
+Unicode scalar values.
+
+The mapping from a character set definition to the actual code units used 
 to represent the data is called a "character encoding form".  A character 
 encoding form plus a serialization is called a "character encoding 
 scheme".  In fact UCS-2, UCS-4, UTF-8, and UTF-16 are all character 
-encoding schemes for Unicode.XML character references like "&#937;" allow for the representation of 
+encoding schemes for Unicode.
+
+XML character references like "&#937;" allow for the representation of 
 Unicode scalar values which are not supported by the character encoding 
 scheme used to serialize an XML document.  They are a sort of 
 meta-serialization.  The character reference "&#937;" advises an XML 
@@ -35,8 +42,16 @@ a decimal number.  Numbers in the hexadecimal system make use of 16 basic
 symbols (0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F) representing the numbers from 0 
 to 15. The decimal number '16' is represented by hexadecimal '10', decimal 
 '17' by hexadecimal '11', decimal '255' is hexadecimal 'FF', decimal '256' 
-is hexadecimal '100', and decimal '937' is hexadecimal '3A9'."Fonts" are again from a different level of abstraction.  A font is a set 
+is hexadecimal '100', and decimal '937' is hexadecimal '3A9'.
+
+"Fonts" are again from a different level of abstraction.  A font is a set 
 of so-called "glyph images" used for the visualization of characters.  A 
 character may be represented by different glyph images, and the same glyph 
-image might represent different characters.Dieter Köhler 
---===============8623088414502480417==--
+image might represent different characters.
+
+Dieter Köhler 
+
+
+
+--8623088414502480417-
+

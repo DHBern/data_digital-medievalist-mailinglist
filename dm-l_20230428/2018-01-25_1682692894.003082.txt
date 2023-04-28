@@ -1,24 +1,82 @@
-Subject: [dm-l] EpiDoc & EFES training workshop, London April =?utf-8?q?9?=*** apologies for cross-posting ***Dear all,
+Subject: [dm-l] EpiDoc & EFES training workshop, London April tf-8?q?9?
+*** apologies for cross-posting ***
+
+Dear all,
+
 We invite applications for a five-day training workshop in text encoding
-for epigraphyand papyrology, and publication of ancient texts, at the Institute of
-Classical Studies,University of London, April 9–13, 2018.The training will be offered by Gabriel Bodard (ICS), Martina Filosa
-(Köln),Simona Stoyanova (ICS) and Polina Yordanova (ICS/Sofia)and there will be no charge for the workshop. Thanks to the generosityof the Andrew W. Mellon Foundation, a limited number of bursariesare available to assist students and other unfunded scholars with the costs
-of traveland accommodation.EpiDoc (epidoc.sf.net <http://epidoc.sourceforge.net/>) is a community of
-practice, recommendations and toolsfor the digital editing and publication of ancient texts based on TEI XML.EFES (github.com/EpiDoc/EFES) is a publication platform closely gearedto EpiDoc projects and designed for use by non-technical editors.No expert computing skills are required, but a working knowledgeof Greek/Latin or other ancient language, epigraphy or papyrology,and the Leiden Conventions will be assumed. The workshop is opento participants of all levels, from graduate students to professors and
-professionals._redacted_(a)sas.ac.uk,
-by Feb 28, 2018 including the following information:   1.   a brief description of your reason for interest
-   2.   your relevant background and experience
-   3.   If you would like to request a bursary, estimate how much you would need.
+for epigraphy
+
+and papyrology, and publication of ancient texts, at the Institute of
+Classical Studies,
+
+University of London, April 9–13, 2018.
+
+The training will be offered by Gabriel Bodard (ICS), Martina Filosa
+(Köln),
+
+Simona Stoyanova (ICS) and Polina Yordanova (ICS/Sofia)
+
+and there will be no charge for the workshop. Thanks to the generosity
+
+of the Andrew W. Mellon Foundation, a limited number of bursaries
+
+are available to assist students and other unfunded scholars with the costs
+of travel
+
+and accommodation.
+
+EpiDoc (epidoc.sf.net <http://epidoc.sourceforge.net/>) is a community of
+practice, recommendations and tools
+
+for the digital editing and publication of ancient texts based on TEI XML.
+
+EFES (github.com/EpiDoc/EFES) is a publication platform closely geared
+
+to EpiDoc projects and designed for use by non-technical editors.
+
+No expert computing skills are required, but a working knowledge
+
+of Greek/Latin or other ancient language, epigraphy or papyrology,
+
+and the Leiden Conventions will be assumed. The workshop is open
+
+to participants of all levels, from graduate students to professors and
+professionals.
+
+_redacted_(a)sas.ac.uk,
+
+by Feb 28, 2018 including the following information:
+
+   1.
+
+   a brief description of your reason for interest
+   2.
+
+   your relevant background and experience
+   3.
+
+   If you would like to request a bursary, estimate how much you would need.
+
 All the best,
-Simona-- 
+Simona
+
+-- 
 Simona Stoyanova
 Research Fellow
-COACS projectInstitute of Classical Studies
+COACS project
+
+Institute of Classical Studies
 University of London
 Senate House
 Malet Street
-London WC1E 7HU_redacted_(a)sas.ac.uk
-Tel: +44 (0)20 7862 8724 <+44+(0)20+7862+8724>PGRpdiBkaXI9Imx0ciI+PHAgc3R5bGU9ImxpbmUtaGVpZ2h0OjEuMzg7bWFyZ2luLXRvcDowcHQ7
+London WC1E 7HU
+
+_redacted_(a)sas.ac.uk
+Tel: +44 (0)20 7862 8724 <+44+(0)20+7862+8724>
+
+
+
+PGRpdiBkaXI9Imx0ciI+PHAgc3R5bGU9ImxpbmUtaGVpZ2h0OjEuMzg7bWFyZ2luLXRvcDowcHQ7
 bWFyZ2luLWJvdHRvbTowcHQiIGlkPSJnbWFpbC1tXy0xNTU5Njk2MTk5MTM1MDE2MDc1Z21haWwt
 ZG9jcy1pbnRlcm5hbC1ndWlkLTc3MjM2ZWY0LTJkNDgtYjQ2My03NjhlLWU0YmJmMDRlZGZlYiI+
 PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZToxMXB0O2ZvbnQtZmFtaWx5OkFyaWFsO2NvbG9yOnJnYigw
@@ -254,4 +312,4 @@ dD0iX2JsYW5rIj48c3Bhbj5zaW1vbmEuc3RveWFub3ZhQHNhcy5hYy51azwvc3Bhbj48L2E+PGJy
 PlRlbDogPGEgaHJlZj0idGVsOis0NCsoMCkyMCs3ODYyKzg3MjQiIHRhcmdldD0iX2JsYW5rIj4r
 NDQgKDApMjAgNzg2MiA4NzI0PC9hPsKgPHNwYW4gdGl0bGU9IjAyMCA3ODYyIDg3MjQiPjwvc3Bh
 bj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj48L2Rpdj4KPC9kaXY+
-Cg==
+Cg

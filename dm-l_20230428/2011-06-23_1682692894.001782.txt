@@ -1,16 +1,35 @@
-Subject: [dm-l] Fwd: Late Breaking News added to Balisage 2011 ProgramDear all,
-I've been amused by one of the added topics at the BALISAGE conference=20
-(see email below:"Why is XML a pain to produce?"I would be curious to know the fellow Digital Medievalists on that. Off=20
-the top of my head, I'd say "because uit's semantic!"Any thoughts? :)
-Best wishes, Marjorie
+Subject: [dm-l] Fwd: Late Breaking News added to Balisage 2011 Program
+
+Dear all,
+I've been amused by one of the added topics at the BALISAGE conference 
+(see email below:
+
+"Why is XML a pain to produce?"
+
+I would be curious to know the fellow Digital Medievalists on that. Off 
+the top of my head, I'd say "because uit's semantic!"
+
+Any thoughts? :)
+Best wishes, Marjorie
+
+
+
 -------- Message original --------
 Sujet: 	Late Breaking News added to Balisage 2011 Program
 Date : 	Thu, 23 Jun 2011 12:53:06 -0400
 _redacted_(a)MULBERRYTECH.COM>
 _redacted_(a)MULBERRYTECH.COM>
-_redacted_(a)listserv.brown.eduBalisage 2011 Program FinalizedWhen the regular (peer-reviewed) part of the Balisage 2011 program was schedu=
-led, a few slots were reserved for presentation of "Late breaking" material. =
- These presentations have now been selected and added to the program.Topics added include:  -  XQuery and SparQL
+_redacted_(a)listserv.brown.edu
+
+
+
+Balisage 2011 Program Finalized
+
+When the regular (peer-reviewed) part of the Balisage 2011 program was scheduled, a few slots were reserved for presentation of "Late breaking" material.  These presentations have now been selected and added to the program.
+
+Topics added include:
+
+  -  XQuery and SparQL
   -  XQuery and XSLT
   -  the Logical Form of a Metadata Record
   -  Why is XML a pain to produce?
@@ -19,30 +38,31 @@ led, a few slots were reserved for presentation of "Late breaking" material. =
   -  dealing with markup without using words
   -  REST for document resource nodes
   -  tagging journal article supplemental materials
-  -  using 15 year old SGML documents in current softwareThe program already included talks about DITA, XSLT, generic microformats, XM=
-L Ebooks, JSON, multiple hrefs, XML editors, markup overlap, encryption of XM=
-L documents, and XML Interoperability, among others. Now it is a real must fo=
-r anyone who thinks deeply about markup.Balisage is the XML Geek-fest; the annual gathering of people who design mark=
-up and markup-based applications; who develop XML specifications, standards, =
-and tools; the people who read and write, books about publishing technologies=
- in general and XML in particular; and super-users of XML and related technol=
-ogies. You can read about the Balisage 2011 conference at http://www.balisage=
-.net.
-Schedule At A Glance: http://www.balisage.net/2011/At-A-Glance.htmlDetailed program: http://www.balisage.net/2011/Program.html=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
-=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
-=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+  -  using 15 year old SGML documents in current software
+
+The program already included talks about DITA, XSLT, generic microformats, XML Ebooks, JSON, multiple hrefs, XML editors, markup overlap, encryption of XML documents, and XML Interoperability, among others. Now it is a real must for anyone who thinks deeply about markup.
+
+Balisage is the XML Geek-fest; the annual gathering of people who design markup and markup-based applications; who develop XML specifications, standards, and tools; the people who read and write, books about publishing technologies in general and XML in particular; and super-users of XML and related technologies. You can read about the Balisage 2011 conference at http://www.balisage.net.
+
+Schedule At A Glance: http://www.balisage.net/2011/At-A-Glance.html
+
+Detailed program: http://www.balisage.net/2011/Program.html
+
+======================================================================
 _redacted_(a)balisage.net
 August 2-5, 2011                               http://www.balisage.net
 Symposium on Document-Oriented XML                    Montreal, Canada
 August 1, 2011
-=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
-=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
-=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
---===============8885423353193384998==
-Content-Type: text/html
+======================================================================
+
+
+
+--8885423353193384998Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMDEgVHJhbnNpdGlvbmFs
+Content-Disposition: attachment; filenameúttachment.html"
+MIME-Version: 1.0
+
+PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMDEgVHJhbnNpdGlvbmFs
 Ly9FTiI+CjxodG1sPgogIDxoZWFkPgoKICAgIDxtZXRhIGh0dHAtZXF1aXY9ImNvbnRlbnQtdHlw
 ZSIgY29udGVudD0idGV4dC9odG1sOyBjaGFyc2V0PUlTTy04ODU5LTEiPgogIDwvaGVhZD4KICA8
 Ym9keSB0ZXh0PSIjMDAwMDAwIiBiZ2NvbG9yPSIjZmZmZmZmIj4KICAgIERlYXIgYWxsLCA8YnI+
@@ -115,4 +135,4 @@ cDovL3d3dy5iYWxpc2FnZS5uZXQiPmh0dHA6Ly93d3cuYmFsaXNhZ2UubmV0PC9hPgpTeW1wb3Np
 dW0gb24gRG9jdW1lbnQtT3JpZW50ZWQgWE1MICAgICAgICAgICAgICAgICAgICBNb250cmVhbCwg
 Q2FuYWRhCkF1Z3VzdCAxLCAyMDExCj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
 PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KPC9wcmU+CiAgPC9ib2R5Pgo8L2h0
-bWw+Cg==
+bWw+Cg

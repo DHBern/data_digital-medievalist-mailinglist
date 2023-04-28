@@ -1,11 +1,17 @@
-Subject: Re: [dm-l] comparisons of different e-MS readers?I would go with Mirador hands down. It is already cool and it has an active
+Subject: Re: [dm-l] comparisons of different e-MS readers?
+
+I would go with Mirador hands down. It is already cool and it has an active
 development community who get what MSS are about (full disclosure, my
 center is part of that community). More importantly. It is IIIF compliant
 which is a powerful standard for exposing ms images for scholarly research
-and use.Jim
-_redacted_(a)durham.ac.u=
-k>
-wrote:> Yesterday I attended a planning meaning concerning the Durham priory
+and use.
+
+Jim
+
+_redacted_(a)durham.ac.uk>
+wrote:
+
+> Yesterday I attended a planning meaning concerning the Durham priory
 > library's manuscript collection, which is planned for digitisation
 > over the next 5-10 years.  A question came up about whether there's
 > been any study done on the relative *technical* merits of different
@@ -16,7 +22,7 @@ wrote:> Yesterday I attended a planning meaning concerning the Durham priory
 >
 > I confess to not being very familiar with this terrain; I've used
 > Uni-HD's reader online (see, e.g., the Manesse codex:
-> http://digi.ub.uni-heidelberg.de/diglit/cpg848/0001?sid=3D
+> http://digi.ub.uni-heidelberg.de/diglit/cpg848/0001?sid=
 > c1e158af8bb04a02441c48d73cfba985)
 > and the reader used by, e.g.,
 > http://daten.digitale-sammlungen.de/0000/bsb00001649/images/, but I
@@ -34,7 +40,7 @@ wrote:> Yesterday I attended a planning meaning concerning the Durham priory
 > Dr. Sara L. Uckelman
 > Department of Philosophy
 > Durham University
-> https://www.dur.ac.uk/philosophy/staff/?id=3D12928
+> https://www.dur.ac.uk/philosophy/staff/?id=12928
 > http://dmnes.wordpress.com/
 >
 >
@@ -44,11 +50,12 @@ wrote:> Yesterday I attended a planning meaning concerning the Durham priory
 > News: http://www.digitalmedievalist.org/news/
 > Wiki: http://www.digitalmedievalist.org/wiki/
 > Twitter: http://twitter.com/digitalmedieval
-> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+> Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca
 > Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
->
---=20
+>
+
+-- 
 ----------
 James R. Ginther, PhD
 Professor of Medieval Theology,
@@ -62,12 +69,18 @@ Faculty Page: Departmental Page
 <https://sites.google.com/a/slu.edu/james-ginther/>Research Blog:
 http://digital-editor.blogspot.com
 Twitter: DH_editor <http://twitter.com/#!/DH_editor>
-T-PEN: www.t-pen.org/NOTE: This e-mail message may contain information that may be privileged,
+T-PEN: www.t-pen.org/
+
+NOTE: This e-mail message may contain information that may be privileged,
 confidential, and exempt from disclosure. It is intended for use only by
 the person(s) to whom it is addressed. If you have received this message in
 error, please do not forward or use this information in any way; delete it
 immediately, and contact the sender as soon as possible by the reply option
-or by telephone at 314-977-2867.SSB3b3VsZCBnbyB3aXRoIE1pcmFkb3IgaGFuZHMgZG93bi4gSXQgaXMgYWxyZWFkeSBjb29sIGFu
+or by telephone at 314-977-2867.
+
+
+
+SSB3b3VsZCBnbyB3aXRoIE1pcmFkb3IgaGFuZHMgZG93bi4gSXQgaXMgYWxyZWFkeSBjb29sIGFu
 ZCBpdCBoYXMgYW7CoGFjdGl2ZSBkZXZlbG9wbWVudCBjb21tdW5pdHkgd2hvIGdldCB3aGF0IE1T
 UyBhcmUgYWJvdXQgKGZ1bGwgZGlzY2xvc3VyZSwgbXkgY2VudGVyIGlzIHBhcnQgb2YgdGhhdCBj
 b21tdW5pdHkpLiBNb3JlIGltcG9ydGFudGx5LiBJdCBpcyBJSUlGIGNvbXBsaWFudCB3aGljaCBp
@@ -159,4 +172,4 @@ IHNvb24gYXMgcG9zc2libGUgYnkgdGhlIHJlcGx5IG9wdGlvbiBvciBieSB0ZWxlcGhvbmUgYXTC
 oDwvc3Bhbj4zMTQtOTc3LTI4Njc8c3BhbiBzdHlsZT0iY29sb3I6cmdiKDM0LDM0LDM0KTtmb250
 LWZhbWlseTphcmlhbCxzYW5zLXNlcmlmO2ZvbnQtc2l6ZToxMi43MjcyNzIwMzM2OTE0MDZweDti
 YWNrZ3JvdW5kLWNvbG9yOnJnYigyNTUsMjU1LDI1NSkiPi7CoDwvc3Bhbj48L2Rpdj48L2Rpdj48
-L2Rpdj48YnI+Cg==
+L2Rpdj48YnI+Cg

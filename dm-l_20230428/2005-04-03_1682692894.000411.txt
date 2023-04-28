@@ -1,18 +1,32 @@
-Subject: Re: [dm-l] TAN: Unicode, XML, and LaTeXDan,I won't try to cover any of the ground that John McChesney-Young has 
+Subject: Re: [dm-l] TAN: Unicode, XML, and LaTeX
+
+Dan,
+
+I won't try to cover any of the ground that John McChesney-Young has 
 covered in his post, except to say that that is also my sense of the 
 state of LaTeX right now: support for UTF-8 is still clunky, and 
 Unicode/OpenType fonts are not natively supported. To judge from its 
-website the promising Omega project seems to have stalled.I'm wondering if you've considered XSL-FO as a way to get from TEI to 
+website the promising Omega project seems to have stalled.
+
+I'm wondering if you've considered XSL-FO as a way to get from TEI to 
 PDF. Apache's FOP (see http://xml.apache.org/fop/) is supposed to be a 
 good free implementation. If I recall correctly, earlier versions of FOP 
 used TeX or LaTeX to output PDF files, but now it outputs directly to 
 PDF. There's a great advantage to staying within XML to do a job like 
 producing a PDF: you use an XSLT script to output an FO file, and then 
-send that to FOP.There are also commercial products for working with FO (here's one with 
+send that to FOP.
+
+There are also commercial products for working with FO (here's one with 
 a free academic license: http://www.renderx.com/download/academic.html), 
 and some of them sound far easier to use than FOP. Being rather 
 perverse, I'd probably stick with FOP myself. I'll bet there's some 
-experience getting TEI to FOP on this list.PeterDaniel O'Donnell wrote:> The Digital Medievalist List (see end of message for contact 
+experience getting TEI to FOP on this list.
+
+Peter
+
+Daniel O'Donnell wrote:
+
+> The Digital Medievalist List (see end of message for contact 
 > information and project URLs).
 >
 > ----------------------------------
@@ -29,5 +43,9 @@ experience getting TEI to FOP on this list.PeterDaniel O'Donnell wrote:> T
 >     Thanks.
 > -dan
 >
-> P.S. I'm cross posting this in tei-l; apologies for the double messages.
---===============1476619339523453051==--
+> P.S. I'm cross posting this in tei-l; apologies for the double messages.
+
+
+
+--1476619339523453051-
+

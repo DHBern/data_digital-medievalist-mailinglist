@@ -1,4 +1,6 @@
-Subject: [dm-l] Re: Manuscript-transcription correlation> At 08:49 AM 23/06/2004, Peter Robinson wrote:
+Subject: [dm-l] Re: Manuscript-transcription correlation
+
+> At 08:49 AM 23/06/2004, Peter Robinson wrote:
 > >If you can do it (and I have not yet seen this done,
 > >though I have heard lengthy explanations of how it *might* be done) 
 > >you can
@@ -7,14 +9,28 @@ Subject: [dm-l] Re: Manuscript-transcription correlation> At 08:49 AM 23/06/20
 > >is our old bugbear overlapping hierarchies, and XSLT etc just don't 
 > >have any
 > >easy answer to this -- and maybe no reliable answer at all.
-> I have not worked with XSLT, so this might seem like a naive question, 
+> 
+
+I have not worked with XSLT, so this might seem like a naive question, 
 but is it possible to write a bridge program to copy text from a 
 specific starting tag to an ending tag, create a new file for just 
-that text, and then display that file next to the MS image?   ~ Martin Foys~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Martin K. Foys
+that text, and then display that file next to the MS image? 
+
+  ~ Martin Foys
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Martin K. Foys
 Assistant Professor
 Department of English
 Hood College
-Frederick, MD 21701vox: 301~696~3740
+Frederick, MD 21701
+
+vox: 301~696~3740
 fax: 301~696~3586
-_redacted_(a)hood.eduBayeux Tapestry Digital Edition: http://www.sd-editions.com
---===============2380593945758764313==--
+_redacted_(a)hood.edu
+
+Bayeux Tapestry Digital Edition: http://www.sd-editions.com
+
+--2380593945758764313-
+

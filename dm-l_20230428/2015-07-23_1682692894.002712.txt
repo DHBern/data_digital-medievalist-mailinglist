@@ -1,9 +1,15 @@
-Subject: [dm-l] CfP: Modeling semantically Enriched Digital Editions foCall for Papers
-Modeling semantically Enriched Digital Edition of Accounts (MEDEA)Account books have long been used as primary sources for economic and 
+Subject: [dm-l] CfP: Modeling semantically Enriched Digital Editions fo
+
+Call for Papers
+Modeling semantically Enriched Digital Edition of Accounts (MEDEA)
+
+Account books have long been used as primary sources for economic and 
 social history since they allow scholars to explore the development of 
 economic behavior on both a macro- and micro-structural level. A number 
 of projects in Europe and the United States have begun to explore models 
-for digitizing such sources.The Text Encoding Initiative (TEI) has developed useful models to encode 
+for digitizing such sources.
+
+The Text Encoding Initiative (TEI) has developed useful models to encode 
 texts and digital scholarly editions, and the semantic web offers 
 opportunities to collect and compare data from multiple digital 
 projects. The MEDEA project looks at these methods with the goal of 
@@ -14,14 +20,18 @@ historians, scholarly editors, and technical experts to discuss and test
 the emerging methods for semantic markup of account books. For this 
 purpose we call for contributions of scholars with experiences in the 
 scholarly edition of historical financial records and ideas about how to 
-use digital methods within this context.We invite proposals for participation in our first workshop, which will 
+use digital methods within this context.
+
+We invite proposals for participation in our first workshop, which will 
 be held in *Regensburg (Germany), Oct. 22-24, 2015*. Participants will 
 present current research projects using data from historical account 
 books, describe the encoding models of their projects, and share ideas 
 for a common model. The discussions and examples will focus on a set of 
 questions intended to elucidate the features of accounts of greatest 
 interest to scholars. Thus the activities will focus on the following 
-issues:●     How might we model the economic activities recorded in these 
+issues:
+
+●     How might we model the economic activities recorded in these 
 documents? In particular: What models of bookkeeping were followed 
 historically and how can they be represented formally? Are data models 
 developed for modern business reporting helpful?
@@ -38,21 +48,37 @@ appropriate method? What possibilities are offered by the TEI
 Manuscripts module and use of the tei:zone element?
 ●     How can we integrate a topological/documentary approach and the 
 growing linguistic interest in the texts with the interpretations that 
-economic and social historians extract from the documents?Proposals should not exceed 700 words and should be submitted to 
+economic and social historians extract from the documents?
+
+Proposals should not exceed 700 words and should be submitted to 
 _redacted_(a)ur.de by August 24, 2015.
 The programme committee will assess the proposals and notify applicants 
 no later than September 2, 2015.
 We particularly encourage proposals from early-career researchers from 
 Europe and from the United States. A limited budget is available to 
 support costs of travel and accommodation.
-If there remain any further questions, please do not hesitate to contact us.See more details on the project at http://medea.hypotheses.org/ .
-Kathryn Tomasek, Associate Professor of HistoryWheaton College
-Norton, Massachusetts
-Ass.-Prof. Dr. Georg VogelerZentrum für Informationsmodellierung – Austrian Centre for Digital 
+If there remain any further questions, please do not hesitate to contact us.
+
+See more details on the project at http://medea.hypotheses.org/ .
+
+Kathryn Tomasek, Associate Professor of History
+
+Wheaton College
+Norton, Massachusetts
+
+Ass.-Prof. Dr. Georg Vogeler
+
+Zentrum für Informationsmodellierung – Austrian Centre for Digital 
 Humanities
 Universität Graz
 Elisabethstr. 59 / III
-A-8010 Graz
-Prof. Dr. Mark Spoerer / Kathrin Pindl M.A.Universität Regensburg
+A-8010 Graz
+
+Prof. Dr. Mark Spoerer / Kathrin Pindl M.A.
+
+Universität Regensburg
 Lehrstuhl für Wirtschafts- und Sozialgeschichte
-93040 Regensburg
+93040 Regensburg
+
+
+

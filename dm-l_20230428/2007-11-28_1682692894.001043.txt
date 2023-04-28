@@ -1,11 +1,20 @@
-Subject: Re: [dm-l] Bibliographical software for medievalistsEver tried zotero? Available at http://www.zotero.org/ it lives as a  
+Subject: Re: [dm-l] Bibliographical software for medievalists
+
+Ever tried zotero? Available at http://www.zotero.org/ it lives as a  
 Firefox extension. It's note as versatile as a dedicated  
 bibliographical software but can do more then that and can prove  
-valuable as an overall research tool.I am also using jabref (http://jabref.sourceforge.net/), written in  
+valuable as an overall research tool.
+
+I am also using jabref (http://jabref.sourceforge.net/), written in  
 Java, open source and BibTex based. It's not exactly user friendly but  
-quite powerful.Best,
-Notis
-On 28 Nov 2007, at 20:42, Peter Baker wrote:> I'm wondering what bibliographical software people on this list are  
+quite powerful.
+
+Best,
+Notis
+
+On 28 Nov 2007, at 20:42, Peter Baker wrote:
+
+> I'm wondering what bibliographical software people on this list are  
 > using. Last time I needed such software I used BibTeX, despite  
 > certain significant lacks. Now BibLaTeX looks very good. But with my  
 > last venture my publisher got kinda cranky about getting files in  
@@ -43,4 +52,7 @@ On 28 Nov 2007, at 20:42, Peter Baker wrote:> I'm wondering what bibliographic
 _redacted_(a)uleth.ca
 > dm-l mailing list
 _redacted_(a)uleth.ca
-> http://listserv.uleth.ca/mailman/listinfo/dm-l
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+
+

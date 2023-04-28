@@ -1,9 +1,21 @@
-Subject: [dm-l] Digital infrastructure and the Homer Multitext (DC seminar)(With apologies for crossposting: I am sure that both the manuscript
+Subject: [dm-l] Digital infrastructure and the Homer Multitext (DC seminar)
+
+(With apologies for crossposting: I am sure that both the manuscript
 examples and the protocols/technologies discussed in this paper will be
 of great interest to DMists who find themselves anywhere near London
-this week.)Digital Classicist/Institute of Classical Studies Work in Progress
-Seminar, Summer 2007Friday 8th June at 16:30, in room NG16, Senate House, Malet Street, LondonNeel Smith (College of the Holy Cross, MA)
-'Digital infrastructure and the Homer Multitext'ALL WELCOMEThe Homer Multitext project is creating digital resources for studying
+this week.)
+
+Digital Classicist/Institute of Classical Studies Work in Progress
+Seminar, Summer 2007
+
+Friday 8th June at 16:30, in room NG16, Senate House, Malet Street, London
+
+Neel Smith (College of the Holy Cross, MA)
+'Digital infrastructure and the Homer Multitext'
+
+ALL WELCOME
+
+The Homer Multitext project is creating digital resources for studying
 the Iliad as a textual tradition, including full TEI texts of six MSS,
 texts of associated scholia, and new photography of some MSS. This talk
 will survey the technological framework for the Multitext project, and
@@ -11,17 +23,30 @@ will especially emphasize a tiered design using stable reference schemes
 (CTS URNs for text passages, and identifiers with data namespaces for
 objects) in conjunction with defined service protocols (Canonical Text
 Services, or CTS, for text retrieval, and Collection services for
-structured information about objects such as manuscripts).The seminar will be followed by wine and refreshments._redacted_(a)kcl.ac.uk or
+structured information about objects such as manuscripts).
+
+The seminar will be followed by wine and refreshments.
+
+_redacted_(a)kcl.ac.uk or
 _redacted_(a)hotmail.com, or see the seminar website at
-http://www.digitalclassicist.org/wip/wip2007.html
+http://www.digitalclassicist.org/wip/wip2007.html
+
 -- 
 Dr Gabriel BODARD
-(Epigrapher & Digital Classicist)Centre for Computing in the Humanities
+(Epigrapher & Digital Classicist)
+
+Centre for Computing in the Humanities
 King's College London
 Kay House
 7, Arundel Street
-London WC2R 3DX_redacted_(a)kcl.ac.uk
+London WC2R 3DX
+
+_redacted_(a)kcl.ac.uk
 Tel: +44 (0)20 7848 1388
-Fax: +44 (0)20 7848 2980http://www.digitalclassicist.org/
-http://www.currentepigraphy.org/
---===============6594882863839855011==--
+Fax: +44 (0)20 7848 2980
+
+http://www.digitalclassicist.org/
+http://www.currentepigraphy.org/
+
+--6594882863839855011-
+

@@ -1,5 +1,9 @@
-Subject: Re: [dm-l] Use of wikis for transcriptionHi Edward (and Dan, and all). Just a few thoughts on what Dan's
-already written..._redacted_(a)btinternet.com> wrote:
+Subject: Re: [dm-l] Use of wikis for transcription
+
+Hi Edward (and Dan, and all). Just a few thoughts on what Dan's
+already written...
+
+_redacted_(a)btinternet.com> wrote:
 _redacted_(a)gmail.com>
 >>> The main problem is that there  is no way of automatically enforcing a
 >>> policy on what is to be captured
@@ -22,7 +26,9 @@ expansions if you want them to expand them, unclear letters,
 suggestions for editorial corrections if you want them included as
 well). But if you could supply clear guidelines I think a wiki would
 be a fine place for sourcing transcriptions, and much simpler in the
-first instance than using XML.>>> XML and XML tools like the OxygenXML editor are designed precisely to
+first instance than using XML.
+
+>>> XML and XML tools like the OxygenXML editor are designed precisely to
 >
 > give you this kind of control. There was a time when they could seem
 > quite intimidating.
@@ -33,18 +39,28 @@ I think what Dan is talking about is the ability of XML to be defined
 by a schema, basically a set of rules that limits what tags you can
 use, and where you can put them. So you can have tags <abbreviation>,
 <unclear>, whatever, and just place those around the text you want to
-set apart from the surrounding text:<abbreviation>abbreviated text</abbreviation>
-<unclear>unclear text</unclear>They function the same way as things like brackets and special
+set apart from the surrounding text:
+
+<abbreviation>abbreviated text</abbreviation>
+<unclear>unclear text</unclear>
+
+They function the same way as things like brackets and special
 formatting to indicate specific editorial elements, but are rather
 more clear (and can be processed in any number of ways - abbreviations
-could be rendered in italics, or in another colour, for example).What this means is that if someone is creating a transcription and
+could be rendered in italics, or in another colour, for example).
+
+What this means is that if someone is creating a transcription and
 marking bits of it in XML (abbreviations, expansions, unclear letters,
 whatever) there is some guarantee that everyone following that schema
 will mark the same thing in the same way. There is still the
 possibility that those tags will be misused (<abbreviation> to mark
 something other than abbreviated text), but perhaps less likely to be
-misused than formatting such as special brackets, italics, etc.The most widely-used schema for humanities text encoding is the Text
-Encoding Initiative (TEI): http://www.tei-c.org/>>> Bottom line: a wiki is a good informal way of sharing work (with loss of
+misused than formatting such as special brackets, italics, etc.
+
+The most widely-used schema for humanities text encoding is the Text
+Encoding Initiative (TEI): http://www.tei-c.org/
+
+>>> Bottom line: a wiki is a good informal way of sharing work (with loss of
 >
 > policy control) or for crowdsourcing very simple questions (are these
 > the right letters? what letters does this image contain?). But for
@@ -76,11 +92,15 @@ put in a wiki system). I'm not necessarily talking about translating
 the code that the wiki creates behind the scenes, because that might
 be more difficult than taking the surface text and translating that
 (I've converted "traditional" transcriptions but not wiki code, so I
-can't really judge).Another thought - if you want to apply for funding at some later
+can't really judge).
+
+Another thought - if you want to apply for funding at some later
 point, a wiki would give you something to point to to show that you
 already have community involvement, and any transcriptions completed
 could be the basis for an XML-based digital edition or project. These
-are things that funding agencies like to see.And, really, if all you want is an interactive space for looking at
+are things that funding agencies like to see.
+
+And, really, if all you want is an interactive space for looking at
 images and viewing transcriptions, the only problem I see with having
 that *only* in a wiki is that of long term preservation. If you export
 to XML (even if you don't actually use it), the transcriptions are
@@ -95,7 +115,12 @@ would certainly be easier for your average manuscripts transcriber to
 learn than XML (although, from experience, I can say that with a good
 tutorial and a lot of time and support, medievalists really can learn
 TEI! But having been that support, I can also say it's a lot of work
-for all involved).Hope this helps.Dot
+for all involved).
+
+Hope this helps.
+
+Dot
+
 > Digital Medievalist --  http://www.digitalmedievalist.org/
 > Journal: http://www.digitalmedievalist.org/journal/
 > Journal Editors: editors _AT_ digitalmedievalist.org
@@ -103,7 +128,11 @@ for all involved).Hope this helps.Dot
 > Wiki: http://www.digitalmedievalist.org/wiki/
 _redacted_(a)uleth.ca
 > Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
->-- 
+>
+
+
+
+-- 
 *~*~*~*~*~*~*~*~*~*~*
 Dot Porter (MA, MSLS)          Metadata Manager
 Digital Humanities Observatory (RIA), Regus House, 28-32 Upper
@@ -111,5 +140,7 @@ Pembroke Street, Dublin 2, Ireland
 -- A Project of the Royal Irish Academy --
 Phone: +353 1 234 2444        Fax: +353 1 234 2400
 _redacted_(a)gmail.com
-*~*~*~*~*~*~*~*~*~*~*
---===============1154108510336743841==--
+*~*~*~*~*~*~*~*~*~*~*
+
+--1154108510336743841-
+

@@ -1,81 +1,70 @@
-Subject: Re: [dm-l] TAN: How does one reference a location in an electronicA possible (additional) problem here is that, with the advent of electronic p=
-ublications, we might different "versions" of the same edition (that contain =
-the same content).  So unless the Kindle version were the only version, a ref=
-erence to a Kindle location might not prove very helpful to the reader trying=
- to locate the referenced content (which is at least one of the relatively si=
-gnificant functions of the reference in the first place).For practical purposes, at the moment anyway, I would be inclined to (at leas=
-t) supplement any reference to an electronic publication's "location, etc." w=
-ith page numbers in a physical book.  However, hopefully, by the time we have=
- more exclusively electronic publications, some kinds of standards for refere=
-ncing sections of material will have been developed -- and implemented.Cheers,
-CarlOn 06 Oct 2010, at 15:55 , Barbara Bordalejo wrote:> Kindle locations are assigned automatically and they correspond to a predet=
-ermined number of characters. A particular word in a particular book, has a p=
-articular location independently of the font size (I just checked this). I on=
-ly have one of my Kindles here, so I cannot check the consistency from system=
- to system, but I suspect (and hope) that this would not vary. Locations vary=
-, however, depending on the edition (in the same way that printed books have =
-passages in different pages in different editions).
-> A full bibliographic entry with the Kindle location should be enough for re=
-ferencing purposes.
->=20
+Subject: Re: [dm-l] TAN: How does one reference a location in an electronic
+
+A possible (additional) problem here is that, with the advent of electronic publications, we might different "versions" of the same edition (that contain the same content).  So unless the Kindle version were the only version, a reference to a Kindle location might not prove very helpful to the reader trying to locate the referenced content (which is at least one of the relatively significant functions of the reference in the first place).
+
+For practical purposes, at the moment anyway, I would be inclined to (at least) supplement any reference to an electronic publication's "location, etc." with page numbers in a physical book.  However, hopefully, by the time we have more exclusively electronic publications, some kinds of standards for referencing sections of material will have been developed -- and implemented.
+
+Cheers,
+Carl
+
+On 06 Oct 2010, at 15:55 , Barbara Bordalejo wrote:
+
+> Kindle locations are assigned automatically and they correspond to a predetermined number of characters. A particular word in a particular book, has a particular location independently of the font size (I just checked this). I only have one of my Kindles here, so I cannot check the consistency from system to system, but I suspect (and hope) that this would not vary. Locations vary, however, depending on the edition (in the same way that printed books have passages in different pages in different editions).
+> A full bibliographic entry with the Kindle location should be enough for referencing purposes.
+> 
 > BB
->=20
->=20
+> 
+> 
 > On 6 Oct 2010, at 21:40, Patrick Gardella wrote:
->=20
+> 
 >> At this point, there is no way to reference one specific location.
 >> Locations provide a way for Kindles, but the Locations will vary
 >> depending on the font size in use.  So it will provide the individual
 >> with a way to reference something for themselves, but not for anyone
 >> else (arbitrary bookmarks that might come close to canonical).
->>=20
+>> 
 >> This is one of the largest problems with ebooks and ereaders for
 >> scholarly work.  Some body will need to define the standards for
 >> footnoting, and doing cross-references.  To date, I have no heard of
 >> any such standards in the works. Perhaps others have.
->>=20
+>> 
 >> Patrick Gardella
 >> Annapolis, MD
->>=20
-_redacted_(a)uleth.ca=
-> wrote:
+>> 
+_redacted_(a)uleth.ca> wrote:
 >>> Hi all,
->>>=20
->>> Good question from a student: if she is referencing a specific passage in=
- a
+>>> 
+>>> Good question from a student: if she is referencing a specific passage in a
 >>> book on a Kindle that (apparently) has no pages or paragraph numbers, what
 >>> does she do? She says Kindle has something called "locations" but it isn't
->>> clear to me if these are canonical or more like arbitrary bookmarks from =
-how
+>>> clear to me if these are canonical or more like arbitrary bookmarks from how
 >>> she is describing them (I don't have any ereaders, and so don't know).
->>>=20
->>> Anybody know what you are supposed to do? I guess she could count paragra=
-phs
+>>> 
+>>> Anybody know what you are supposed to do? I guess she could count paragraphs
 >>> if it was that important, or, as with a very long webpage, just skip
 >>> providing a location more precise than the entire work on the theory that
 >>> you could full-text-search for it.
->>>=20
+>>> 
 >>> -dan
->>>=20
+>>> 
 >>> --
 >>> Daniel Paul O'Donnell
 >>> Professor of English
 >>> University of Lethbridge
->>>=20
+>>> 
 >>> Chair and CEO, Text Encoding Initiative (http://www.tei-c.org/)
 >>> Co-Chair, Digital Initiatives Advisory Board, Medieval Academy of America
->>> President-elect (English), Society for Digital Humanities/Soci=C3=A9t=C3=
-=A9 pour
->>> l'=C3=A9tude des m=C3=A9dias interactifs (http://sdh-semi.org/)
+>>> President-elect (English), Society for Digital Humanities/Société pour
+>>> l'étude des médias interactifs (http://sdh-semi.org/)
 >>> Founding Director (2003-2009), Digital Medievalist Project
 >>> (http://www.digitalmedievalist.org/)
->>>=20
+>>> 
 >>> Vox: +1 403 329-2377
 >>> Fax: +1 403 382-7191 (non-confidential)
 >>> Home Page: http://people.uleth.ca/~daniel.odonnell/
->>>=20
->>>=20
->>>=20
+>>> 
+>>> 
+>>> 
 >>> Digital Medievalist --  http://www.digitalmedievalist.org/
 >>> Journal: http://www.digitalmedievalist.org/journal/
 >>> Journal Editors: editors _AT_ digitalmedievalist.org
@@ -85,8 +74,8 @@ phs
 >>> Facebook: http://www.facebook.com/group.php?gidI320313760
 _redacted_(a)uleth.ca
 >>> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
->>>=20
->>=20
+>>> 
+>> 
 >> Digital Medievalist --  http://www.digitalmedievalist.org/
 >> Journal: http://www.digitalmedievalist.org/journal/
 >> Journal Editors: editors _AT_ digitalmedievalist.org
@@ -96,8 +85,8 @@ _redacted_(a)uleth.ca
 >> Facebook: http://www.facebook.com/group.php?gidI320313760
 _redacted_(a)uleth.ca
 >> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
->=20
->=20
+> 
+> 
 > Digital Medievalist --  http://www.digitalmedievalist.org/
 > Journal: http://www.digitalmedievalist.org/journal/
 > Journal Editors: editors _AT_ digitalmedievalist.org
@@ -107,7 +96,9 @@ _redacted_(a)uleth.ca
 > Facebook: http://www.facebook.com/group.php?gidI320313760
 _redacted_(a)uleth.ca
 > Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
->=20--
+> 
+
+--
 Carl Edlund Anderson
 _redacted_(a)carlaz.com
 _redacted_(a)gmail.com
@@ -116,6 +107,16 @@ http://unisabana.academia.edu/CarlAnderson
 http://www.mendeley.com/profiles/carl-edlund-anderson/
 Department of Languages & Cultures
 UNIVERSITY OF THE SABANA
-Ch=C3=ADa Campus Universitario, Puente del Com=C3=BAn
-Bogot=C3=A1, Colombia
---===============1726462734218531654==--
+Chía Campus Universitario, Puente del Común
+Bogotá, Colombia
+
+
+
+
+
+
+
+
+
+--1726462734218531654-
+

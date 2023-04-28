@@ -1,4 +1,8 @@
-Subject: Re: [dm-l] Are markup languages obsolete?Joris, and all,> I do think that numerable emerging projects (like Kevin Kiernan's 
+Subject: Re: [dm-l] Are markup languages obsolete?
+
+Joris, and all,
+
+> I do think that numerable emerging projects (like Kevin Kiernan's 
 > 'Edition Production Tool' (EPT) and Sebastian Rahtz' Open Office TEI 
 > filter) are doing an increasingly good job at both abstracting away form 
 > the TEI-particulars and hiding the major amount of time and work 
@@ -12,19 +16,32 @@ Subject: Re: [dm-l] Are markup languages obsolete?Joris, and all,> I do thin
 > know the XML particulars of an OTD-XML file to write a perfectly 
 > comprehensible letter in Open Office, you shouldn't need to know the 
 > TEI-XML particulars when structuring a text for literary research 
-> purposes. The difference between writing a letter in OpenOffice and structuring a 
+> purposes. 
+
+The difference between writing a letter in OpenOffice and structuring a 
 text for research is that the former is not necessarily an intellectual 
 effort. The intellectual effort has been made by those that studied 
 people's letter-writing habits and needs and designed the Open Office 
-XML format.You're right of course in advocating the use of tools that wherever 
+XML format.
+
+You're right of course in advocating the use of tools that wherever 
 possible hide the complexity of markup. But what these tools can hide is 
 only the admittedly not very pleasant sight of lots of brackets and 
 ampersands. All of the other complexities (e.g. what in TEI terms would 
 be called add's and del's and unclear's and gap's and app's and rdg's 
 and all of these nested and/or overlapping...) are there because digital 
 editions do things that are complex. You need to understand them one way 
-or the other. > The research value is in the act of structuring, not in the
- > particular tagset used and not even in the mark up model applied.This may be true if you are analysing a text for your own research 
+or the other.
+
+ > The research value is in the act of structuring, not in the
+ > particular tagset used and not even in the mark up model applied.
+
+This may be true if you are analysing a text for your own research 
 purposes. But we should also try to create enduring digital resources. 
 For durability, ease of maintenance and mutual intelligibility it is 
-important to try to stick to standards (and therefore, to learn them).Peter
+important to try to stick to standards (and therefore, to learn them).
+
+Peter
+
+
+

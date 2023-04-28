@@ -1,7 +1,13 @@
-Subject:Dear digital medievalists,We invite applications for a two-day workshop in digitizing and encoding
+Subject:
+
+Dear digital medievalists,
+
+We invite applications for a two-day workshop in digitizing and encoding
 ancient seals, hosted by the Venice Centre for Digital and Public
 Humanities (VeDPH) at the Department for the Humanities, Ca' Foscari
-University of Venice, January 20-21, 2020.The aim of the workshop is to present and discuss solutions, currently
+University of Venice, January 20-21, 2020.
+
+The aim of the workshop is to present and discuss solutions, currently
 under development, concerning an XML-based and TEI-compliant data model for
 the description of Byzantine seals  - and, with minor adjustments, of other
 coin-like objects, such as bread stamps, Hellenistic or Western Medieval
@@ -15,7 +21,9 @@ EFES will take place during the first half of the workshop, followed by
 hands-on training sessions on the second day. The final session of the
 workshop will be dedicated to discussing challenges and solutions to open
 issues within the development of SigiDoc, as well as the questions and
-suggestions arising from the participants.The workshop will also feature an introduction and a practical
+suggestions arising from the participants.
+
+The workshop will also feature an introduction and a practical
 demonstration of Reflective Transformation Imaging (RTI), a cutting edge
 imaging technology especially well-suited for the digitization of seals.
 With RTI, an object is photographed multiple times with lightning from
@@ -27,21 +35,29 @@ features can be significantly improved. Participants in the RTI session
 will be introduced into the use of RTI technology, techniques and
 equipment, and their applications in sigillography. During the RTI session,
 seals and other objects (brought by the participants) will be digitised
-using a custom built RTI dome.Lessons and hands-on training will be offered by Alessio Sopracasa
+using a custom built RTI dome.
+
+Lessons and hands-on training will be offered by Alessio Sopracasa
 (Sorbonne University, Paris), Simona Stoyanova (University of Nottingham),
 Martina Filosa (University of Cologne), and Marcel Schaeben (CCeH,
-University of Cologne).To apply for a place on this workshop, please send an application
+University of Cologne).
+
+To apply for a place on this workshop, please send an application
 _redacted_(a)unive.it by December 27 including a brief description of your
 interest in the workshop as well as your scholarly background. Basic
 knowledge of TEI-XML as well as of Ancient/Byzantine Greek are desirable.
-Programme:Monday, 20 Jan 2020
+Programme:
+
+Monday, 20 Jan 2020
 13.00    Welcome
 13.15    Introducing SigiDoc - A digital standard for describing seals
 14.15    Digitizing seals - A practical introduction to RTI
 15.30    Coffee Break
 16.00    Encoding seals - Introduction to EFES (Metadata encoding,
 inscription tagging)
-19.00    EndTuesday, 21 Jan 2020
+19.00    End
+
+Tuesday, 21 Jan 2020
 09.00    Indexing and authority files
 10.00    Coffee Break
 10.30    Faceted search and other features
@@ -55,16 +71,28 @@ Venue: Sala Piccola, Palazzo Malcanton MarcorÃ , Dorsoduro 3484/D - 30123
 Venezia
 Application deadline: *27 December 2019*
 _redacted_(a)unive.it
-More information at: https://www.unive.it/vedphAll the best,
-Franz-- Franz Fischer
+More information at: https://www.unive.it/vedph
+
+All the best,
+Franz
+
+-- 
+
+Franz Fischer
 Direttore, Venice Centre for Digital & Public Humanities (VeDPH)
 Dipartimento di Studi Umanistici
 Università Ca' Foscari
 Palazzo Malcanton Marcorà
-Dorsoduro 3484/D - 30123 VeneziaTel.: +39 041 234 6266 (ufficio), +39 041 234 9863 (segreteria del centro)
+Dorsoduro 3484/D - 30123 Venezia
+
+Tel.: +39 041 234 6266 (ufficio), +39 041 234 9863 (segreteria del centro)
 https://www.unive.it/vedph
 https://www.i-d-e.de/
-https://journal.digitalmedievalist.org/PGRpdiBkaXI9Imx0ciI+CjxwcmUgY2xhc3M9ImdtYWlsLW1vei1xdW90ZS1wcmUiPkRlYXIgZGln
+https://journal.digitalmedievalist.org/
+
+
+
+PGRpdiBkaXI9Imx0ciI+CjxwcmUgY2xhc3M9ImdtYWlsLW1vei1xdW90ZS1wcmUiPkRlYXIgZGln
 aXRhbCBtZWRpZXZhbGlzdHMsCgpXZSBpbnZpdGUgYXBwbGljYXRpb25zIGZvciBhIHR3by1kYXkg
 d29ya3Nob3AgaW4gZGlnaXRpemluZyBhbmQgZW5jb2RpbmcKYW5jaWVudCBzZWFscywgaG9zdGVk
 IGJ5IHRoZSBWZW5pY2UgQ2VudHJlIGZvciBEaWdpdGFsIGFuZCBQdWJsaWMKSHVtYW5pdGllcyAo
@@ -148,4 +176,4 @@ PSJodHRwczovL2pvdXJuYWwuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy8iIHRhcmdldD0iX2JsYW5r
 Ij5odHRwczovL2pvdXJuYWwuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy88L2E+PGJyPjwvcHJlPjxk
 aXY+PHNwYW4+PGJyPjwvc3Bhbj48L2Rpdj48ZGl2PjxzcGFuPgo8L3NwYW4+PC9kaXY+PC9kaXY+
 PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9k
-aXY+Cg==
+aXY+Cg

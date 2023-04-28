@@ -1,8 +1,14 @@
-Subject: [dm-l] Lexicon of Greek Personal Names and classical web servicesThis is to announce the first seminar in this summer's Digital
-Classicist/ICS Work in Progress series.
+Subject: [dm-l] Lexicon of Greek Personal Names and classical web services
+
+This is to announce the first seminar in this summer's Digital
+Classicist/ICS Work in Progress series.
+
 Elaine Matthews and Sebastian Rahtz (Oxford)
-'The Lexicon of Greek Personal Names and classical web services'Time: Friday 6th June at 16:30
-Place: room NG16, Senate House, Malet Street, London WC1E 7HU
+'The Lexicon of Greek Personal Names and classical web services'
+
+Time: Friday 6th June at 16:30
+Place: room NG16, Senate House, Malet Street, London WC1E 7HU
+
 Brief abstract:
 The Lexicon of Greek Personal Names was established 35 years ago to 
 collect and publish all ancient Greek personal names. Thorough 
@@ -10,18 +16,34 @@ maintenance of the IT infrastructure has enabled us to start making new
 uses of the data and enable inter-project exchange. We will describe 
 the Lexicon data model, its relationship to semantic markup using TEI 
 XML, web services which we can offer, and some of the novel 
-investigations which can now be (we have a poster available which we can forward if you contact us)*All are welcome.*
+investigations which can now be 
+
+(we have a poster available which we can forward if you contact us)
+
+*All are welcome.*
 The seminar will be followed by wine and refreshments after which 
 everyone is also welcome to join us in entreating the speakers at a 
-local venue.best regards
-Simon ----------------------
+local venue.
+
+best regards
+Simon 
+
+----------------------
 Simon Mahony
-Research AssociateCentre for Computing in the Humanities
+Research Associate
+
+Centre for Computing in the Humanities
 King's College London
 26 - 29 Drury Lane,
 London
 WC2B 5RL
-http://maps.google.co.uk/maps?q=WC2B_5RLTel: +44 (0)20 7848 2813
+http://maps.google.co.uk/maps?qü2B_5RL
+
+Tel: +44 (0)20 7848 2813
 Fax: +44 (0)20 7848 2980
-_redacted_(a)kcl.ac.uk
---===============4339660707026776781==--
+_redacted_(a)kcl.ac.uk
+
+
+
+--4339660707026776781-
+

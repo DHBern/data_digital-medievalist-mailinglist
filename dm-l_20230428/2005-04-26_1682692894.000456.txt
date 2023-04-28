@@ -1,16 +1,38 @@
-Subject: RE: [dm-l] Help in customizing the TEI DTDI'm posting my reply to Roberto's email to the list, because others here
+Subject: RE: [dm-l] Help in customizing the TEI DTD
+
+I'm posting my reply to Roberto's email to the list, because others here
 might be interested in this work. I'll be presenting a paper on this at
 Kalamazoo (session 330), so if you take issue with our decisions you can
-write me on- or off-list, or wait until after my talk  :)***Hi Roberto,I'm interested in seeing if the TEI extensions we developed for the
+write me on- or off-list, or wait until after my talk  :)
+
+***
+
+Hi Roberto,
+
+I'm interested in seeing if the TEI extensions we developed for the
 Electronic Boethius project would suit the needs you have for the Digital
-Vercelli Book. The documentation is available at http://rch01.rch.uky.edu/~ept/TEI-cotlib/This site documents how I went about mapping to old (non-TEI) cotlib DTD
+Vercelli Book. The documentation is available at 
+
+http://rch01.rch.uky.edu/~ept/TEI-cotlib/
+
+This site documents how I went about mapping to old (non-TEI) cotlib DTD
 into a "master" TEI DTD, and then modified this single DTD into several
-smaller "working" DTDs (for the EPT's overlapping markup support)."DTD View" refers to the organization of the working DTDs themselves;
+smaller "working" DTDs (for the EPT's overlapping markup support).
+
+"DTD View" refers to the organization of the working DTDs themselves;
 "Editor's View" refers to the organization of the elements within the
-context of the EPT.I'm giving a paper on these extensions at Kzoo, in fact, and it would be
+context of the EPT.
+
+I'm giving a paper on these extensions at Kzoo, in fact, and it would be
 nice to know ahead of time how acceptable these extensions might be to other
-projects (since they will be released as part of the EPT).Please let me know if you have any questions or concerns.Thanks,
-Dot 
+projects (since they will be released as part of the EPT).
+
+Please let me know if you have any questions or concerns.
+
+Thanks,
+Dot
+
+ 
 **********************************
 Dorothy Carr Porter
 Program Coordinator, Research in Computing for Humanities
@@ -18,18 +40,26 @@ Program Coordinator, Research in Computing for Humanities
 University of Kentucky
 Lexington, KY  40391
 859-257-9549                      http://www.rch.uky.edu
-**********************************-----Original Message-----
+**********************************
+
+-----Original Message-----
 _redacted_(a)uleth.ca] On Behalf Of
 Roberto Rosselli Del Turco
 Sent: Monday, April 25, 2005 6:08 AM
 To: Digital Medievalist Community mailing list
-Subject: [dm-l] Help in customizing the TEI DTDHi all,
+Subject: [dm-l] Help in customizing the TEI DTD
+
+Hi all,
 after much dealying I finally accepted the idea that I will need to use
 a customized version of the TEI DTD for my project(s): I read the
 guidelines, but would surely appreciate any further help, can anybody
 point me to tutorials, examples etc. on the web? Has anybody had any
 luck in using Roma? I couldn't save my modifications as a DTD, is it
-going to remain a schema-only tool?Thanks in advance.Ciao
+going to remain a schema-only tool?
+
+Thanks in advance.
+
+Ciao
   
 -- 
  
@@ -39,7 +69,11 @@ del Linguaggio                  Then spoke the thunder  DA
 Universita' di Torino           Datta: what have we given?  (TSE)
  
   Hige sceal the heardra,     heorte the cenre,
-  mod sceal the mare,       the ure maegen litlath.  (Maldon 312-3)_______________________________________________
+  mod sceal the mare,       the ure maegen litlath.  (Maldon 312-3)
+
+
+
+_______________________________________________
 Digital Medievalist Project
 Homepage: http://www.digitalmedievalist.org
 Journal (Spring 2005-): http://www.digitalmedievalist.org/journal.cfm
@@ -50,5 +84,9 @@ Submit RSS announcement: http://www.digitalmedievalist.org/newitem.cfm
 _redacted_(a)uleth.ca
 dm-l mailing list
 _redacted_(a)uleth.ca
-http://listserv.uleth.ca/mailman/listinfo/dm-l
---===============7760877721689358630==--
+http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+
+
+--7760877721689358630-
+

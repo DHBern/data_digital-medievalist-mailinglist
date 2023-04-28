@@ -1,71 +1,66 @@
-Subject: [dm-l] DH position in Venice - "Polyphonic Philosophy"Dear digital medievalists,Please find below the details of a job advertisement for a research fellowshi=
-p in Digital Humanities / Digital Medieval Studies / History of Medieval Phil=
-osophy at Ca' Foscari University of Venice, Department of Philosophy and Cult=
-ural Heritage / Venice Centre for Digital and Public Humanities. Please circu=
-late widely.Best wishes,
-Franz***
-Research fellowship in Digital Humanities / Digital Medieval Studies / Histor=
-y of Medieval Philosophy
-at Ca' Foscari University of Venice, Department of Philosophy and Cultural He=
-ritage / Venice Centre for Digital and Public HumanitiesDuration: 12 months, with the possibility of renewal (up to 36 months)
+Subject: [dm-l] DH position in Venice - "Polyphonic Philosophy"
+
+Dear digital medievalists,
+
+Please find below the details of a job advertisement for a research fellowship in Digital Humanities / Digital Medieval Studies / History of Medieval Philosophy at Ca' Foscari University of Venice, Department of Philosophy and Cultural Heritage / Venice Centre for Digital and Public Humanities. Please circulate widely.
+
+Best wishes,
+Franz
+
+***
+Research fellowship in Digital Humanities / Digital Medieval Studies / History of Medieval Philosophy
+at Ca' Foscari University of Venice, Department of Philosophy and Cultural Heritage / Venice Centre for Digital and Public Humanities
+
+Duration: 12 months, with the possibility of renewal (up to 36 months)
 Payment: EUR 35.000 gross p.a. (net salary of around EUR 2.500 per month)
-Project: ERC-2021-StG project =E2=80=9CPolyphonic Philosophy: Logic in the Lo=
-ng Twelfth Century (c. 1070-1220) for a New Horizon in the History of Philoso=
-phy=E2=80=9D
-_redacted_(a)unive.it<mailto:=
-_redacted_(a)unive.it>)Prof. Tarlazzi would be delighted to be contacted by prospective candidates t=
-o discuss the job and the overall project. For administrative details about t=
-he application, please refer to the email address in the full job advertiseme=
-nt.Required skills and expertise in:
+Project: ERC-2021-StG project “Polyphonic Philosophy: Logic in the Long Twelfth Century (c. 1070-1220) for a New Horizon in the History of Philosophy”
+_redacted_(a)unive.it<mailto:_redacted_(a)unive.it>)
+
+Prof. Tarlazzi would be delighted to be contacted by prospective candidates to discuss the job and the overall project. For administrative details about the application, please refer to the email address in the full job advertisement.
+
+Required skills and expertise in:
 - digital scholarly editions
 - mark-up languages
 - semantic technologies (RDF, Linked Open Data)
 - programming languages Javascript and/or Python
 - databases
 - basic knowledge of Latin (if any)
-- master's degree (no formal award of doctorate required)DATES
+- master's degree (no formal award of doctorate required)
+
+DATES
 Application deadline: February, 8th, 2023
 Interviews: February, 27th, 2023
-Start: April 1st, 2023 (or as soon as possible after that)ABSTRACT
-In the framework of the ERC-2021-StG project =E2=80=9CPolyphonic Philosophy: =
-Logic in the Long Twelfth Century (c. 1070-1220) for a New Horizon in the His=
-tory of Philosophy=E2=80=9D, a digital resource will be developed dealing wit=
-h manuscripts and commentaries on Porphyry=E2=80=99s Isagoge, Aristotle=E2=80=
-=99s Categories and De interpretatione, and Boethius=E2=80=99s De divisione a=
-nd De differentiis topicis. In particular, the product will have two main and=
- intertwined components: a digital catalogue of manuscripts, and a scholarly =
-digital edition of certain texts, selected from the manuscripts. Modelling wi=
-ll be followed by the development of the infrastructure and data management. =
-Later on, a system and interface to visualise data will be developed in order=
- to consult data, analyse data through searching and indexing, and to produce=
- the final publication. In this context, the research fellow will have to dev=
-elop a data model for describing and enhancing data concerning digital textua=
-l criticism and the analysis of manuscripts. In particular, the data model wi=
-ll be based on web technologies such as XML/TEI, IIIF, RDF and Linked Open Da=
-ta.The research fellow will work in close contact with other team members, in=
-cluding experts in codicology and paleography, Latin textual criticism, and h=
-istory of mediaeval philosophy. He or she will be responsible for the digital=
- and IT aspects of the product meta-analysis thereof. He or she will also col=
-laborate with IT-staff for the most technical aspects, and with scholars from=
- the Venice Centre for Digital and Public Humanities (VeDPH). Proven expertis=
-e in digital humanities is therefore required.FULL JOB ADVERTISEMENT
-English version: https://www.unive.it/data/28825/?chiavi%5Bglobale%5D=3Dtarla=
-zzi&cerca=3Dcerca
-Italian version: https://www.unive.it/data/12137/?chiavi%5Bglobale%5D=3Dtarla=
-zzi&cerca=3Dcerca--Franz Fischer
+Start: April 1st, 2023 (or as soon as possible after that)
+
+ABSTRACT
+In the framework of the ERC-2021-StG project “Polyphonic Philosophy: Logic in the Long Twelfth Century (c. 1070-1220) for a New Horizon in the History of Philosophy”, a digital resource will be developed dealing with manuscripts and commentaries on Porphyry’s Isagoge, Aristotle’s Categories and De interpretatione, and Boethius’s De divisione and De differentiis topicis. In particular, the product will have two main and intertwined components: a digital catalogue of manuscripts, and a scholarly digital edition of certain texts, selected from the manuscripts. Modelling will be followed by the development of the infrastructure and data management. Later on, a system and interface to visualise data will be developed in order to consult data, analyse data through searching and indexing, and to produce the final publication. In this context, the research fellow will have to develop a data model for describing and enhancing data concerning digital textual criticism and the analysis of manuscripts. In particular, the data model will be based on web technologies such as XML/TEI, IIIF, RDF and Linked Open Data.The research fellow will work in close contact with other team members, including experts in codicology and paleography, Latin textual criticism, and history of mediaeval philosophy. He or she will be responsible for the digital and IT aspects of the product meta-analysis thereof. He or she will also collaborate with IT-staff for the most technical aspects, and with scholars from the Venice Centre for Digital and Public Humanities (VeDPH). Proven expertise in digital humanities is therefore required.
+
+FULL JOB ADVERTISEMENT
+English version: https://www.unive.it/data/28825/?chiavi%5Bglobale%5D=tarlazzi&cerca=cerca
+Italian version: https://www.unive.it/data/12137/?chiavi%5Bglobale%5D=tarlazzi&cerca=cerca
+
+--
+
+Franz Fischer
 Direttore, Venice Centre for Digital & Public Humanities (VeDPH)
 Dipartimento di Studi Umanistici
-Universit=C3=A0 Ca' Foscari
-Palazzo Malcanton Marcor=C3=A0
-Dorsoduro 3484/D - 30123 VeneziaTel.: +39 041 234 6266 (ufficio), +39 041 234 9863 (segreteria del centro)
+Università Ca' Foscari
+Palazzo Malcanton Marcorà
+Dorsoduro 3484/D - 30123 Venezia
+
+Tel.: +39 041 234 6266 (ufficio), +39 041 234 9863 (segreteria del centro)
 https://www.unive.it/vedph
 https://www.i-d-e.de/
-https://journal.digitalmedievalist.org/
---===============3860032159997640257==
-Content-Type: text/html
+https://journal.digitalmedievalist.org/
+
+
+
+--3860032159997640257Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
+Content-Disposition: attachment; filename�ttachment.html"
+MIME-Version: 1.0
+
+PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
 eHQvaHRtbDsgY2hhcnNldD11dGYtOCI+CjwvaGVhZD4KPGJvZHk+CjxkaXYgc3R5bGU9ImJvcmRl
 cjpzb2xpZCAjNjQ2NDY0IDEuMHB0O3BhZGRpbmc6Mi4wcHQgMi4wcHQgMi4wcHQgMi4wcHQ7YmFj
 a2dyb3VuZDojRkZFQjlDIj4KPHAgY2xhc3M9Ik1zb05vcm1hbCIgc3R5bGU9ImxpbmUtaGVpZ2h0
@@ -162,4 +157,4 @@ PC9hPjxicj48YSBocmVmPSJodHRwczovL2pvdXJuYWwuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy8i
 IHRhcmdldD0iX2JsYW5rIj5odHRwczovL2pvdXJuYWwuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy88
 L2E+PGJyPjwvcHJlPgo8ZGl2PjxzcGFuPjxicj4KPC9zcGFuPjwvZGl2Pgo8ZGl2PjxzcGFuPjwv
 c3Bhbj48L2Rpdj4KPC9kaXY+CjwvZGl2Pgo8L2Rpdj4KPC9kaXY+CjwvZGl2Pgo8L2Rpdj4KPC9k
-aXY+CjwvZGl2Pgo8L2Rpdj4KPC9kaXY+CjwvYm9keT4KPC9odG1sPgo=
+aXY+CjwvZGl2Pgo8L2Rpdj4KPC9kaXY+CjwvYm9keT4KPC9odG1sPgo

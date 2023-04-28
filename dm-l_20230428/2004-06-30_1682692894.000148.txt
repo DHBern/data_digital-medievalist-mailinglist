@@ -1,4 +1,8 @@
-Subject: Re: Multiple Stylesheets (was Re: [dm-l] Hacks: an example)Martin Holmes wrote:>
+Subject: Re: Multiple Stylesheets (was Re: [dm-l] Hacks: an example)
+
+Martin Holmes wrote:
+
+>
 > At 09:10 AM 30/06/2004, you wrote:
 >
 >> as a user, if it won't run with my preferred browser, I just abandon 
@@ -12,7 +16,8 @@ Subject: Re: Multiple Stylesheets (was Re: [dm-l] Hacks: an example)Martin Hol
 > ECMAScript, etc.).
 >
 > The user agrees to install one of the many free browsers which is 
-> capable of handling the current standards.
+> capable of handling the current standards.
+
 Hear, hear! I agree completely -- well, almost. If you're primarily 
 delivering static content, it's not all that hard to arrange your XHTML, 
 CSS and JavaScript so that it degrades gracefully. My on-line OE grammar 
@@ -28,4 +33,9 @@ expecting users to have an up-to-date browser. My own case in point is
 the Old English Aerobics anthology 
 (http://www.engl.virginia.edu/OE/anthology/index.html), which really 
 doesn't ask all that much of a browser, but doesn't run in NS 4 and 
-never will.Peter
+never will.
+
+Peter
+
+
+

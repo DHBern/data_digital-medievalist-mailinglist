@@ -1,105 +1,72 @@
-Subject: [dm-l] Publication: Umanistica Digitale #10**Apologies for cross posting**Dear colleaguesit is with great pleasure that we announce that issue #10 of *Umanistica Digi=
-tale* (ISSN 2532-8816) has been published and is available now at:https://umanisticadigitale.unibo.it/This issue hosts the Dossier "Medieval archival sources in the digital world.=
- The challenge of treating and visualizing semi-structured data", edited by E=
-nrica Salvatori and Roberto Rosselli.UD is the journal of AIUCD, since February 2020 in the list of ANVUR scientif=
-ic publications for CUN Areas 10 and 11. The journal publishes original scien=
-tific articles (5-10,000 words), reviews and reports (1-3,500 words) in Itali=
-an and English on any topic and field of Digital Humanities.We would like to remind you that UD is now accepting proposals for issue 11 (=
-expected publication December 2021), reserved to papers presented at the AIUC=
-D2021 conference in Pisa, and for issue 12 open to all (expected publication =
-summer 2022).Submissions should be sent to the journal's OJS portal. Details and informati=
-on on guidelines and editorial standards are available at https://umanisticad=
-igitale.unibo.it/about/submissions.Fabio Ciotti
-Editor in Chief, Umanistica Digitale.-------------
-UD 10 Table of contentsArticles
-True interoperability for digital scholarly editions<https://umanisticadigita=
-le.unibo.it/article/view/12604> - Desmond Schmidt
-The critical edition between digital and print: methodological considerations=
-<https://umanisticadigitale.unibo.it/article/view/12626> - Francesca Michelone
-Variants Mining.Computational investigations on authorial variants: a compari=
-son betweenLeopardi and Manzoni<https://umanisticadigitale.unibo.it/article/v=
-iew/12627> - Anna Sofia Lippolis, Gabriella Totaro
-A conceptual model to encourage the development and reuse of apps for digital=
- editions<https://umanisticadigitale.unibo.it/article/view/12620> - Chiara Ma=
-rtignano
-Tracing a digital critical edition. The experience of the PhiBor project<http=
-s://umanisticadigitale.unibo.it/article/view/12623> - Daniele Marotta
-Text analysis and digital publishing: integration proposals with critical eva=
-luations. About the correspondence between Ignazio Silone and Arnoldo Mondado=
-ri Editore<https://umanisticadigitale.unibo.it/article/view/12762> - Alberto =
-Baldi
-A Study on Automatic Machine Translation Tools: A Comparative Error Analysis =
-Between DeepL and Yandex for Russian-Italian Medical Translation<https://uman=
-isticadigitale.unibo.it/article/view/12631> - Giulia Cambedda, Giorgio Maria =
-Di Nunzio, Viviana Nosilia
-The use of online resources for the synchronic and diacronic study of politic=
-al language. The case of "representative democracy"<https://umanisticadigital=
-e.unibo.it/article/view/12410> - Federico Zanettin, Fausto Proietti
-Automatic extraction of opera character characteristics through lexical-synta=
-ctic patterns<https://umanisticadigitale.unibo.it/article/view/12426> - Paolo=
- Bonora, Angelo Pompilio
-Knowing is participating: digital public history, wiki and citizen humanities=
-<https://umanisticadigitale.unibo.it/article/view/12555> - Deborah Paci
-Preliminary Considerations on a Systematic Approach to Semic Analysis: The Ca=
-se Study of Medical Terminology<https://umanisticadigitale.unibo.it/article/v=
-iew/12621> - Vanessa Bonato, Giorgio Maria Di Nunzio, Federica Vezzani
-Colour palettes in US film trailers: a comparative analysis of movie barcode<=
-https://umanisticadigitale.unibo.it/article/view/12468> - Nick Redfern
-For a Digital History of pandemics. Interconnection and multidisciplinary per=
-spectives<https://umanisticadigitale.unibo.it/article/view/12272> - Salvatore=
- Spina =E2=80=93
+Subject: [dm-l] Publication: Umanistica Digitale #10
+
+**Apologies for cross posting**
+
+Dear colleagues
+
+it is with great pleasure that we announce that issue #10 of *Umanistica Digitale* (ISSN 2532-8816) has been published and is available now at:
+
+https://umanisticadigitale.unibo.it/
+
+This issue hosts the Dossier "Medieval archival sources in the digital world. The challenge of treating and visualizing semi-structured data", edited by Enrica Salvatori and Roberto Rosselli.
+
+UD is the journal of AIUCD, since February 2020 in the list of ANVUR scientific publications for CUN Areas 10 and 11. The journal publishes original scientific articles (5-10,000 words), reviews and reports (1-3,500 words) in Italian and English on any topic and field of Digital Humanities.
+
+We would like to remind you that UD is now accepting proposals for issue 11 (expected publication December 2021), reserved to papers presented at the AIUCD2021 conference in Pisa, and for issue 12 open to all (expected publication summer 2022).
+
+Submissions should be sent to the journal's OJS portal. Details and information on guidelines and editorial standards are available at https://umanisticadigitale.unibo.it/about/submissions.
+
+Fabio Ciotti
+Editor in Chief, Umanistica Digitale.
+
+-------------
+UD 10 Table of contents
+
+Articles
+True interoperability for digital scholarly editions<https://umanisticadigitale.unibo.it/article/view/12604> - Desmond Schmidt
+The critical edition between digital and print: methodological considerations<https://umanisticadigitale.unibo.it/article/view/12626> - Francesca Michelone
+Variants Mining.Computational investigations on authorial variants: a comparison betweenLeopardi and Manzoni<https://umanisticadigitale.unibo.it/article/view/12627> - Anna Sofia Lippolis, Gabriella Totaro
+A conceptual model to encourage the development and reuse of apps for digital editions<https://umanisticadigitale.unibo.it/article/view/12620> - Chiara Martignano
+Tracing a digital critical edition. The experience of the PhiBor project<https://umanisticadigitale.unibo.it/article/view/12623> - Daniele Marotta
+Text analysis and digital publishing: integration proposals with critical evaluations. About the correspondence between Ignazio Silone and Arnoldo Mondadori Editore<https://umanisticadigitale.unibo.it/article/view/12762> - Alberto Baldi
+A Study on Automatic Machine Translation Tools: A Comparative Error Analysis Between DeepL and Yandex for Russian-Italian Medical Translation<https://umanisticadigitale.unibo.it/article/view/12631> - Giulia Cambedda, Giorgio Maria Di Nunzio, Viviana Nosilia
+The use of online resources for the synchronic and diacronic study of political language. The case of "representative democracy"<https://umanisticadigitale.unibo.it/article/view/12410> - Federico Zanettin, Fausto Proietti
+Automatic extraction of opera character characteristics through lexical-syntactic patterns<https://umanisticadigitale.unibo.it/article/view/12426> - Paolo Bonora, Angelo Pompilio
+Knowing is participating: digital public history, wiki and citizen humanities<https://umanisticadigitale.unibo.it/article/view/12555> - Deborah Paci
+Preliminary Considerations on a Systematic Approach to Semic Analysis: The Case Study of Medical Terminology<https://umanisticadigitale.unibo.it/article/view/12621> - Vanessa Bonato, Giorgio Maria Di Nunzio, Federica Vezzani
+Colour palettes in US film trailers: a comparative analysis of movie barcode<https://umanisticadigitale.unibo.it/article/view/12468> - Nick Redfern
+For a Digital History of pandemics. Interconnection and multidisciplinary perspectives<https://umanisticadigitale.unibo.it/article/view/12272> - Salvatore Spina –
 Dossier
-Introduction: =E2=80=9CMedieval archival sources in the digital world. The ch=
-allenge of treating and visualizing semi-structured data=E2=80=9D<https://uma=
-nisticadigitale.unibo.it/article/view/12582> - Enrica Salvatori
-Appetite comes with eating. The never ending digital edition of the Codex Pel=
-avicino<https://umanisticadigitale.unibo.it/article/view/12577> - Enrica Salv=
-atori
-Engineering Historical Memory and the Interactive Exploration of Archival Doc=
-uments: The Online Application for Pope Gregory X=E2=80=99s Privilege for the=
- Monastic Community of Mount Sinai (1274) as a Prototype<https://umanisticadi=
-gitale.unibo.it/article/view/12567> - Dr Andrea Nanetti, Davide Benvenuti
-The digital edition of medieval documents. The case study of S. Maria della G=
-rotta<https://umanisticadigitale.unibo.it/article/view/12601> - Vera Isabell =
-Schwarz-Ricci, Antonella Ambrosio
-Problems and Issues in the Study of Late Medieval Tax Records: the Sienese "L=
-ira" in the XV Century<https://umanisticadigitale.unibo.it/article/view/12602=
-> - Marco Giacchetto
-Semi-structured data processing: implementation hypotheses and use cases take=
-n from Old English texts<https://umanisticadigitale.unibo.it/article/view/125=
-98> - Roberto Rosselli Del Turco
+Introduction: “Medieval archival sources in the digital world. The challenge of treating and visualizing semi-structured data”<https://umanisticadigitale.unibo.it/article/view/12582> - Enrica Salvatori
+Appetite comes with eating. The never ending digital edition of the Codex Pelavicino<https://umanisticadigitale.unibo.it/article/view/12577> - Enrica Salvatori
+Engineering Historical Memory and the Interactive Exploration of Archival Documents: The Online Application for Pope Gregory X’s Privilege for the Monastic Community of Mount Sinai (1274) as a Prototype<https://umanisticadigitale.unibo.it/article/view/12567> - Dr Andrea Nanetti, Davide Benvenuti
+The digital edition of medieval documents. The case study of S. Maria della Grotta<https://umanisticadigitale.unibo.it/article/view/12601> - Vera Isabell Schwarz-Ricci, Antonella Ambrosio
+Problems and Issues in the Study of Late Medieval Tax Records: the Sienese "Lira" in the XV Century<https://umanisticadigitale.unibo.it/article/view/12602> - Marco Giacchetto
+Semi-structured data processing: implementation hypotheses and use cases taken from Old English texts<https://umanisticadigitale.unibo.it/article/view/12598> - Roberto Rosselli Del Turco
 Reviews and reports
-Review: Zaccarello, Michelangelo, ed. 2019. Textual Cultures: Texts, Contexts=
-, Interpretation, 12.2<https://umanisticadigitale.unibo.it/article/view/12609=
-> - Giulia D'Agostino
-Review: A. Campagnolo. 2020. Book conservation and digitization: the challeng=
-es of dialogue and collaboration. Leeds: ARC Humanities Press<https://umanist=
-icadigitale.unibo.it/article/view/13438> - Simona Turbanti
-The IIIF-based Digital Library of the Veneranda Biblioteca Ambrosiana<https:/=
-/umanisticadigitale.unibo.it/article/view/12449> - Fabio Cusimano
-Small museums and new technologies, the case study of Germanicus Caesar ... o=
-ne step away from the Empire in Amelia<https://umanisticadigitale.unibo.it/ar=
-ticle/view/12629> - Angelica Federici
-Digital tools for the study of historical performing arts: the PerformArt dat=
-abase and thesaurus<https://umanisticadigitale.unibo.it/article/view/12624> -=
- Manuela Grillo, Michela Berti
-The Digital WHOmanities Project: Best Practices for Digital Pedagogy in the P=
-andemic Era<https://umanisticadigitale.unibo.it/article/view/11829> - Anna So=
-fia Lippolis, Davide Maria Apolloni, Milena Corbellini, Lucia Giagnolini, Fra=
-ncesca Mangialardo, Carlo Teo Pedretti, Eleonora Peruch, Giulia Renda, Mattia=
- Spadoni
-Reconsidering the Roman workshop: using computer vision to analyse the making=
- of ancient inscriptions<https://umanisticadigitale.unibo.it/article/view/124=
-71> - Charlotte Tupman, Dmitry Kangin, Jacqueline Christmas
+Review: Zaccarello, Michelangelo, ed. 2019. Textual Cultures: Texts, Contexts, Interpretation, 12.2<https://umanisticadigitale.unibo.it/article/view/12609> - Giulia D'Agostino
+Review: A. Campagnolo. 2020. Book conservation and digitization: the challenges of dialogue and collaboration. Leeds: ARC Humanities Press<https://umanisticadigitale.unibo.it/article/view/13438> - Simona Turbanti
+The IIIF-based Digital Library of the Veneranda Biblioteca Ambrosiana<https://umanisticadigitale.unibo.it/article/view/12449> - Fabio Cusimano
+Small museums and new technologies, the case study of Germanicus Caesar ... one step away from the Empire in Amelia<https://umanisticadigitale.unibo.it/article/view/12629> - Angelica Federici
+Digital tools for the study of historical performing arts: the PerformArt database and thesaurus<https://umanisticadigitale.unibo.it/article/view/12624> - Manuela Grillo, Michela Berti
+The Digital WHOmanities Project: Best Practices for Digital Pedagogy in the Pandemic Era<https://umanisticadigitale.unibo.it/article/view/11829> - Anna Sofia Lippolis, Davide Maria Apolloni, Milena Corbellini, Lucia Giagnolini, Francesca Mangialardo, Carlo Teo Pedretti, Eleonora Peruch, Giulia Renda, Mattia Spadoni
+Reconsidering the Roman workshop: using computer vision to analyse the making of ancient inscriptions<https://umanisticadigitale.unibo.it/article/view/12471> - Charlotte Tupman, Dmitry Kangin, Jacqueline Christmas
 ---------------
 --
 Fabio Ciotti
-Department of "Studi letterari, Filosofici e di Storia dell=E2=80=99arte" - U=
-niversity of Roma "Tor Vergata"
+Department of "Studi letterari, Filosofici e di Storia dell’arte" - University of Roma "Tor Vergata"
 Chair, European Association for Digital Humanities
 Chief Editor, "Umanistica Digitale" https://umanisticadigitale.unibo.it/
 @Fabio_Ciotti<https://twitter.com/fabio_ciotti>
-_redacted_(a)pec.it<https://twitter.com/fabio_ciotti><https://twitter.com/fabio_ciotti><https://twitter.com/fabio_ciotti>PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
+_redacted_(a)pec.it<https://twitter.com/fabio_ciotti>
+
+<https://twitter.com/fabio_ciotti>
+
+<https://twitter.com/fabio_ciotti>
+
+
+
+PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
 eHQvaHRtbDsgY2hhcnNldD11dGYtOCI+CjwvaGVhZD4KPGJvZHk+CjxkaXYgc3R5bGU9ImJvcmRl
 cjpzb2xpZCAjNjQ2NDY0IDEuMHB0O3BhZGRpbmc6Mi4wcHQgMi4wcHQgMi4wcHQgMi4wcHQ7YmFj
 a2dyb3VuZDojRkZFQjlDIj4KPHAgY2xhc3M9Ik1zb05vcm1hbCIgc3R5bGU9ImxpbmUtaGVpZ2h0
@@ -348,4 +315,4 @@ diBkaXI9Imx0ciIgc3R5bGU9ImZvbnQtc2l6ZToxMi44cHgiPjxhIGhyZWY9Imh0dHBzOi8vdHdp
 dHRlci5jb20vZmFiaW9fY2lvdHRpIiB0YXJnZXQ9Il9ibGFuayI+PGJyPgo8L2E+PC9kaXY+Cjwv
 ZGl2Pgo8L2Rpdj4KPC9kaXY+CjwvZGl2Pgo8L2Rpdj4KPC9kaXY+CjwvZGl2Pgo8L2Rpdj4KPC9k
 aXY+CjwvZGl2Pgo8L2Rpdj4KPC9kaXY+CjwvZGl2Pgo8L2Rpdj4KPC9kaXY+CjwvYm9keT4KPC9o
-dG1sPgo=
+dG1sPgo

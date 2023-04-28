@@ -1,6 +1,13 @@
-Subject: [dm-l] Re: SDH 2011 Supporting Digital Humanities (Peter Damian)Of course I forgot to add the link which is: http://jeffreycwitt.com/plaoulBe well
-jw_redacted_(a)gmail.com>wr=
-ote:> Dear Peter (or Edward)
+Subject: [dm-l] Re: SDH 2011 Supporting Digital Humanities (Peter Damian)
+
+Of course I forgot to add the link which is: http://jeffreycwitt.com/plaoul
+
+Be well
+jw
+
+_redacted_(a)gmail.com>wrote:
+
+> Dear Peter (or Edward)
 >
 > You said in your 6th point:
 >
@@ -64,10 +71,8 @@ _redacted_(a)uleth.ca>
 >> Thanks for the many helpful comments and apologies for the negative tone
 >> of my original message.  On a positive note I would like to enumerate a
 >> number of ways in which I have found computers to be helpful.  In the
->> majority of cases, however, it has been me as an individual using technolo=
-gy
->> (mostly quite crude, MS office style technology) to do things. I.e. a doma=
-in
+>> majority of cases, however, it has been me as an individual using technology
+>> (mostly quite crude, MS office style technology) to do things. I.e. a domain
 >> expert who also uses IT as best I can.  The idea of non-domain specialists
 >> who are proficient in IT of itself is in my view an 'old world' view of
 >> technology that takes us back to mainframes and specialist programmers
@@ -77,8 +82,7 @@ in
 >> 1.  Spell checking. I have written one program to do this, which involves
 >> computing all possible Latin inflections in one fell swoop.  The MS Word
 >> checker, as you probably know, does not understand inflection.  This does
->> not matter with English, which is comparatively uninflected.  The problem =
-is
+>> not matter with English, which is comparatively uninflected.  The problem is
 >> that there are a few million possible words required, which is simply too
 >> big for MS word, which collapses.  The right way would be to construct a
 >> proper parser which understood Latin grammar, but this is beyond my skill.
@@ -89,8 +93,7 @@ is
 >> 2.  More successful was a simple correction function using the VBA
 >> 'textreplace' function.  The reason I need this is to convert printed
 >> versions of Latin text into digitised versions.  OCR is still pretty
->> hopeless at character recognition, as we all know, so the corrector functi=
-on
+>> hopeless at character recognition, as we all know, so the corrector function
 >> looks for impossible letter combinations.  For example, OCR generally
 >> confused 'e' and 'c', so renders the Latin 'essent' as 'esscnt' or 'csscnt'
 >> or something like that.  So I search and replace 'cnt' into 'ent', knowing
@@ -109,16 +112,12 @@ on
 >> engine to look for Latin expressions in a targeted way.  This means I can
 >> search for hundreds of examples in the original Latin, in many cases
 >> matching the Latin to an English translation, e.g. like this
->> http://www.google.com/search?hl=3Den&q=3D"quod%20quid%20est"+site%3Ahttp%3=
-A%2F%2Fwww.logicmuseum.com&meta<http://www.google.com/search?hl=3Den&q=3D%22q=
-uod%20quid%20est%22+site%3Ahttp%3A%2F%2Fwww.logicmuseum.com&meta>=3D
+>> http://www.google.com/search?hl=en&q="quod%20quid%20est"+site%3Ahttp%3A%2F%2Fwww.logicmuseum.com&meta<http://www.google.com/search?hl=en&q=%22quod%20quid%20est%22+site%3Ahttp%3A%2F%2Fwww.logicmuseum.com&meta>=
 >> .  This is in principle no different to the way that a dictionary or
 >> wordbook gives you an example of how a phrase is used by the classical
 >> authors. The difference is merely the scale.  A dictionary will give you a
->> handful of results, the search linked to above gives you 53.  Again, this =
-is
->> not sophisticated technology - a few lines of Java plus the already existi=
-ng
+>> handful of results, the search linked to above gives you 53.  Again, this is
+>> not sophisticated technology - a few lines of Java plus the already existing
 >> Google.
 >>
 >> 4.  I have just implemented a wiki on the same site
@@ -128,16 +127,14 @@ ng
 >> the principles are outlined here
 >> http://www.logicmuseum.com/wiki/The_Logic_Museum:What_is_the_Logic_Museum .
 >> Again, the main principles are no different to the old way of doing things.
->> For example, I used 'anchoring' to index Aristotelian texts to their 'Bekk=
-er
+>> For example, I used 'anchoring' to index Aristotelian texts to their 'Bekker
 >> number' (a pre-computer way of locating any Aristotelian text by page,
 >> column and line number of the 19C Bekker edition).
 >>
 >> 5.  I have used the (fairly basic) MediaWiki implementation of tables to
 >> make parallel Latin English translations - thus fulfillling the ambition of
 >> bringing these wonderful works to a wider audience. E.g. here
->> http://www.logicmuseum.com/wiki/Authors/Ockham/Summa_Logicae/Book_I/Chapte=
-r_11 .
+>> http://www.logicmuseum.com/wiki/Authors/Ockham/Summa_Logicae/Book_I/Chapter_11 .
 >> This is an area where pure IT could actually help, as the Java
 >> based CKeditor is awful, full of bugs and difficult to use.  But it is
 >> usable. Note the green tick marks on the page which tell me that the page
@@ -145,8 +142,7 @@ r_11 .
 >> version of a system that translators have used for centuries.
 >>
 >> On the general subject of bringing to a wider audience I was inspired some
->> years ago by the site of a critical edition in a specialist library.  It w=
-as
+>> years ago by the site of a critical edition in a specialist library.  It was
 >> fifty years old, in tatters, with pages missing.  To locate these texts you
 >> had to use a card index. When you took the book out, you had to fill a form
 >> in and place it on the shelf.  Then you would place the book on a trolley
@@ -165,8 +161,7 @@ as
 >> ("Disciplinary impact and technological obsolescence in digital
 >> medieval studies" online here
 >>
->> http://people.uleth.ca/~daniel.odonnell/Research/disciplinary-impact-and-t=
-echnological-obsolescence-in-digital-medieval-studies)
+>> http://people.uleth.ca/~daniel.odonnell/Research/disciplinary-impact-and-technological-obsolescence-in-digital-medieval-studies)
 >>
 >> makes some very good points on this.  The technology of wikis is proven,
 >> yet academic specialists do not use them.  He says (correctly) that this is
@@ -174,14 +169,11 @@ echnological-obsolescence-in-digital-medieval-studies)
 >> contributions of the individual are subordinate to the interests of the
 >> group.  But "in my experience, most professional scholars initially are
 >> extremely impressed by the possibilities offered by collaborative software
->> like wikis and other forms of annotation engines=E2=80=94before almost imm=
-ediately
+>> like wikis and other forms of annotation engines—before almost immediately
 >> bumping up against the problems of prestige and quality control that
 >> currently make them infeasible as channels of high level scholarly
->> communication ... Professional scholars traditionally achieve success=E2=
-=80=94both
->> institutionally and in terms of reputation=E2=80=94by the quality and amou=
-nt of
+>> communication ... Professional scholars traditionally achieve success—both
+>> institutionally and in terms of reputation—by the quality and amount of
 >> their research publications. Community-based collaborative projects do not
 >> easily fit into this model. "
 >> I believe these problems could be resolved by better use of categorisation
@@ -200,15 +192,20 @@ nt of
 >>
 >>
 >
->
---=20
+>
+
+-- 
 Jeffrey C. Witt
 Philosophy Department
 Boston College
 Campanella Way
 140 Commonwealth Ave
 Chestnut Hill, MA 02134
-www.jeffreycwitt.comT2YgY291cnNlIEkgZm9yZ290IHRvIGFkZCB0aGUgbGluayB3aGljaCBpczogPGEgaHJlZj0iaHR0
+www.jeffreycwitt.com
+
+
+
+T2YgY291cnNlIEkgZm9yZ290IHRvIGFkZCB0aGUgbGluayB3aGljaCBpczogPGEgaHJlZj0iaHR0
 cDovL2plZmZyZXljd2l0dC5jb20vcGxhb3VsIj5odHRwOi8vamVmZnJleWN3aXR0LmNvbS9wbGFv
 dWw8L2E+PGRpdj48YnI+PC9kaXY+PGRpdj5CZSB3ZWxsPC9kaXY+PGRpdj5qdzxicj48YnI+PGRp
 diBjbGFzcz0iZ21haWxfcXVvdGUiPk9uIEZyaSwgSnVuIDI0LCAyMDExIGF0IDg6NTYgQU0sIEpl
@@ -449,4 +446,4 @@ IEMuIFdpdHQ8L2Rpdj48ZGl2PlBoaWxvc29waHkgRGVwYXJ0bWVudDwvZGl2PjxkaXY+Qm9zdG9u
 IENvbGxlZ2U8L2Rpdj48ZGl2PkNhbXBhbmVsbGEgV2F5PC9kaXY+PGRpdj4xNDAgQ29tbW9ud2Vh
 bHRoIEF2ZTwvZGl2PjxkaXY+Q2hlc3RudXQgSGlsbCwgTUEgMDIxMzQ8L2Rpdj4KPGRpdj48YSBo
 cmVmPSJodHRwOi8vd3d3LmplZmZyZXljd2l0dC5jb20iIHRhcmdldD0iX2JsYW5rIj53d3cuamVm
-ZnJleWN3aXR0LmNvbTwvYT48L2Rpdj48YnI+CjwvZGl2Pgo=
+ZnJleWN3aXR0LmNvbTwvYT48L2Rpdj48YnI+CjwvZGl2Pgo

@@ -1,4 +1,8 @@
-Subject: Re: [dm-l] MS-Internet Explorer 6 and standards based computingAll --> On 28 Jun 2004, at 8:48 AM, Daniel O'Donnell wrote:
+Subject: Re: [dm-l] MS-Internet Explorer 6 and standards based computing
+
+All --
+
+> On 28 Jun 2004, at 8:48 AM, Daniel O'Donnell wrote:
 >
 > This is an interesting thread in as much as it touches on best 
 > practice...
@@ -6,12 +10,16 @@ Subject: Re: [dm-l] MS-Internet Explorer 6 and standards based computingAll --
 > to allow them to customise pages to suit their equipement, interests, 
 > and/or disabilities. Thus users with larger screens might like to see 
 > more options on a menu; or visually impaired users might prefer their 
-> links to be underlined.This touches on a key point -- when we develop applications that are 
+> links to be underlined.
+
+This touches on a key point -- when we develop applications that are 
 open to the world, we don't know who will be using them, in what 
 context, and at what time. Web browsers extend far beyond the 
 mainstream MSIE/Mozilla/Opera world, users can be from anywhere and 
 from any background (look at me, for example), and projects may live on 
-for years after the development stops.I know this is a hard thing for a few IT people (and some major 
+for years after the development stops.
+
+I know this is a hard thing for a few IT people (and some major 
 corporations) to swallow, but we can't expect the world to conform to 
 what we've got on our desks anymore (I wish we could, it would make my 
 job much easier). I've had a number of faculty and students ask about 
@@ -25,23 +33,33 @@ were robust standards, it was difficult to argue otherwise. Today, it
 is difficult to support an argument for browser-specific development 
 when there are standards to address much of what required platform- or 
 browser-specific functionality (and I know funding agencies and 
-governments are starting to pay attention to that fact).There are trade-offs and I admit that standards, especially new ones, 
+governments are starting to pay attention to that fact).
+
+There are trade-offs and I admit that standards, especially new ones, 
 can get in the way of functionality. The important thing to remember, 
 however, is that by converging toward standards, materials and 
 applications will stand a greater chance of reaching a broader audience 
 over a longer period of time with, hopefully, lower support costs and a 
-better chance of being supported in the future.Personally, I want to see as many scholarly projects survive over time 
+better chance of being supported in the future.
+
+Personally, I want to see as many scholarly projects survive over time 
 as possible. By adopting mature standards when appropriate, the initial 
 overhead in implementing them will pay dividends in the long-term. In 
 other words, someone in my role can find resources to keep them going 
-long after the funding stops and the development ends.Later,
+long after the funding stops and the development ends.
+
+Later,
 Chad
 --------------
 Chad J. Kainz
-_redacted_(a)uchicago.edu | 773-702-9945 | FAX 773-834-2983Senior Director, NSIT Academic Technologies, The University of Chicago
+_redacted_(a)uchicago.edu | 773-702-9945 | FAX 773-834-2983
+
+Senior Director, NSIT Academic Technologies, The University of Chicago
       http://intech.uchicago.edu
 Vice-Chair, IEEE Learning Technology Standards Committee
-      http://ltsc.ieee.orgQWxsIC0tCgoKPGV4Y2VycHQ+T24gMjggSnVuIDIwMDQsIGF0IDg6NDggQU0sIERhbmllbCBPJ0Rv
+      http://ltsc.ieee.org
+
+QWxsIC0tCgoKPGV4Y2VycHQ+T24gMjggSnVuIDIwMDQsIGF0IDg6NDggQU0sIERhbmllbCBPJ0Rv
 bm5lbGwgd3JvdGU6CgoKVGhpcyBpcyBhbiBpbnRlcmVzdGluZyB0aHJlYWQgaW4gYXMgbXVjaCBh
 cyBpdCB0b3VjaGVzIG9uIGJlc3QKcHJhY3RpY2UuLi4gCgouLi5JIGhhdmUgYmVlbiB0aGlua2lu
 ZyBsYXRlbHkgb2Ygb2ZmZXJpbmcgdXNlcnMgbXVsdGlwbGUgc3R5bGVzaGVldHMKdG8gYWxsb3cg
@@ -92,4 +110,5 @@ LmVkdSB8IDc3My03MDItOTk0NSB8IEZBWCA3NzMtODM0LTI5ODMKCgpTZW5pb3IgRGlyZWN0b3Is
 IE5TSVQgQWNhZGVtaWMgVGVjaG5vbG9naWVzLCBUaGUgVW5pdmVyc2l0eSBvZiBDaGljYWdvCgog
 ICAgIGh0dHA6Ly9pbnRlY2gudWNoaWNhZ28uZWR1CgpWaWNlLUNoYWlyLCBJRUVFIExlYXJuaW5n
 IFRlY2hub2xvZ3kgU3RhbmRhcmRzIENvbW1pdHRlZQoKICAgICBodHRwOi8vbHRzYy5pZWVlLm9y
-ZwoK
+ZwoK
+

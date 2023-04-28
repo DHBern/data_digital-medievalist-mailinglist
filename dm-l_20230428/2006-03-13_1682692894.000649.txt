@@ -1,60 +1,74 @@
-Subject: Re: [dm-l] Switching XSL on the web (Lazy question)Daniel O'Donnell wrote:
+Subject: Re: [dm-l] Switching XSL on the web (Lazy question)
+
+Daniel O'Donnell wrote:
 > Hi all,
->=20
+> 
 > I have a question that I'm sure could be answered by some research, but
 > I thought I'd ask here first in case somebody has some code, or so that
 > I can get the low down right away.
->=20
+> 
 > Is there a good way of building links in an xml document so that a
 > browser pointed at the file can change XSL on the same file. I.e. If I
 > have file.xsl and I have three different views of that data
 > (default.xsl, view2.xsl, and view3.xsl) is there a good way of setting
 > up file.xsl so that a browser pointed at it will be able to change among
-> views?Well, the easy way is to just have four output documents with links to switch
+> views?
+
+Well, the easy way is to just have four output documents with links to switch
 between them. I.e. edRunic.html dipRunic.html edRoman.html dipRoman.html and
-when you generate the files just create links to the other files.  So, entire=
-ly
-pre-processed.If you want to do it dynamically, then you'll need something like Apache's
-cocoon.  In the sitemap.xmap for that where you'd normally have something lik=
-e:<map:match pattern=3D"*.html">
-            <map:generate src=3D"{1}.xml" />
-            <map:transform src=3D"file2html.xsl"/>
-            <map:transform src=3D"makePretty.xsl"/>
-            <map:serialize encoding=3D"UTF-8" type=3D"xhtml"/>
-</map:match>Which would hypothetically generate a file at the url/*.html from the results=
- of
-putting whatever-filename-you-used.xml through file2html.xsl and then the res=
-ult
+when you generate the files just create links to the other files.  So, entirely
+pre-processed.
+
+If you want to do it dynamically, then you'll need something like Apache's
+cocoon.  In the sitemap.xmap for that where you'd normally have something like:
+
+<map:match pattern="*.html">
+            <map:generate src="{1}.xml" />
+            <map:transform src="file2html.xsl"/>
+            <map:transform src="makePretty.xsl"/>
+            <map:serialize encoding="UTF-8" type="xhtml"/>
+</map:match>
+
+Which would hypothetically generate a file at the url/*.html from the results of
+putting whatever-filename-you-used.xml through file2html.xsl and then the result
 of that through makePretty.xsl to give you your output.  Instead you'd need to
-pass a parameter, something like: <map:match pattern=3D"*.html">
-        <map:select type=3D"request">
-          <map:parameter name=3D"parameter-name" value=3D"style"/>
-          <map:when test=3D"edRunic">
-            <map:generate src=3D"{1}.xml" />
-            <map:transform src=3D"edRunic.xsl"/>
-            <map:serialize encoding=3D"UTF-8" type=3D"xml"/>
+pass a parameter, something like:
+
+ <map:match pattern="*.html">
+        <map:select type="request">
+          <map:parameter name="parameter-name" value="style"/>
+          <map:when test="edRunic">
+            <map:generate src="{1}.xml" />
+            <map:transform src="edRunic.xsl"/>
+            <map:serialize encoding="UTF-8" type="xml"/>
           </map:when>
-          <map:when test=3D"dipRunic">
-            <map:generate src=3D"{1}.xml" />
-            <map:transform src=3D"dipRunic.xsl"/>
-            <map:serialize encoding=3D"UTF-8" type=3D"xml"/>
+          <map:when test="dipRunic">
+            <map:generate src="{1}.xml" />
+            <map:transform src="dipRunic.xsl"/>
+            <map:serialize encoding="UTF-8" type="xml"/>
           </map:when>
-          <map:when test=3D"dipRoman">
-            <map:generate src=3D"{1}.xml" />
-            <map:transform src=3D"edRunic.xsl"/>
-            <map:serialize encoding=3D"UTF-8" type=3D"xml"/>
+          <map:when test="dipRoman">
+            <map:generate src="{1}.xml" />
+            <map:transform src="edRunic.xsl"/>
+            <map:serialize encoding="UTF-8" type="xml"/>
           </map:when>
           <map:otherwise">
-            <map:generate src=3D"{1}.xml" />
-            <map:transform src=3D"edRoman.xsl"/>
-            <map:serialize encoding=3D"UTF-8" type=3D"xml"/>
+            <map:generate src="{1}.xml" />
+            <map:transform src="edRoman.xsl"/>
+            <map:serialize encoding="UTF-8" type="xml"/>
           </map:otherwise>
         </map:select>
- </map:match>So if you did http://www.example.com/dan/foo.html you'd defaultly get the
+ </map:match>
+
+So if you did http://www.example.com/dan/foo.html you'd defaultly get the
 edRoman transformation for foo.xml.  If you did
-http://www.example.com/dan/foobar.html?style=3DdipRunic  you'd get the dipRun=
-ic
-one, for foobar.xml, etc.Probably not the answer you were looking for, but might be helpful since this=
- is
-the kind of thing that cocoon is really good at.-james
---===============6268527466470424950==--
+http://www.example.com/dan/foobar.html?style=dipRunic  you'd get the dipRunic
+one, for foobar.xml, etc.
+
+Probably not the answer you were looking for, but might be helpful since this is
+the kind of thing that cocoon is really good at.
+
+-james
+
+--6268527466470424950-
+

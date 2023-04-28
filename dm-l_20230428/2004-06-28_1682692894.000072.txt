@@ -1,4 +1,6 @@
-Subject: Re: [dm-l] MS-Internet Explorer 6 and standards based computingThis is an interesting thread in as much as it touches on best practice. 
+Subject: Re: [dm-l] MS-Internet Explorer 6 and standards based computing
+
+This is an interesting thread in as much as it touches on best practice. 
 Leaving aside the server vs. client side serving of xml for a minute (do 
 most people still not convert xml to (x)html and serve static pages?), 
 surely it isn't that hard to produce pages that work on both Internet 
@@ -10,13 +12,17 @@ am most aware of this is with floating menus (as in the dm site
 <www.digitalmedievalist.org>). These stay put in standards-based 
 browsers, but scroll in MSIE. If and when IE does these properly, there 
 are no work arounds to content with: the menu will float for IE users as 
-well.I am a little more concerned about the need for some work-arounds, 
+well.
+
+I am a little more concerned about the need for some work-arounds, 
 mostly because it produces bad coding that won't age gracefully when IE 
 gets with the program. One place is, for example, the min- and max-width 
 instructions in CSS. I use a workaround that takes advantage of the fact 
 that MSIE doesn't understand child rules expressed using a "greater than 
 sign" to turn off styles MSIE specific styles. I suppose this is 
-harmless, though it is annoying.I have been thinking lately of offering users multiple stylesheets to 
+harmless, though it is annoying.
+
+I have been thinking lately of offering users multiple stylesheets to 
 allow them to customise pages to suit their equipement, interests, 
 and/or disabilities. Thus users with larger screens might like to see 
 more options on a menu; or visually impaired users might prefer their 
@@ -25,11 +31,15 @@ browsers have a style sheet switcher option built in, which means MSIE
 doesn't. There are some simple solutions however. If you'd like to see 
 one in action, the CSSZenGarden is a great site 
 <http://www.csszengarden.com/>. They have a link that explains how they 
-switch the stylesheets.If you are new to CSS, standards-based design, and this MSIE 
+switch the stylesheets.
+
+If you are new to CSS, standards-based design, and this MSIE 
 implementation problem, csszengarden is also a good site to visit. It 
 shows you the power of predictable coding.
 -dan
-Jeffrey Fisher wrote:>
+Jeffrey Fisher wrote:
+
+>
 > On Monday, June 28, 2004, at 08:16 AM, Peter Baker wrote:
 >
 >> I suspect that my own experiences have made me a bit jaundiced about 
@@ -78,7 +88,8 @@ Jeffrey Fisher wrote:>
 > _______________________________________________
 > dm-l mailing list
 _redacted_(a)uleth.ca
-> http://listserv.uleth.ca/mailman/listinfo/dm-l
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+
 -- 
 Daniel Paul O'Donnell, PhD
 Associate Professor of English
@@ -87,4 +98,9 @@ Lethbridge AB T1K 3M4
 Tel. (403) 329-2377
 Fax. (403) 382-7191
 _redacted_(a)uleth.ca>
-Home Page <http://people.uleth.ca/~daniel.odonnell/>
+Home Page <http://people.uleth.ca/~daniel.odonnell/>
+
+
+
+
+

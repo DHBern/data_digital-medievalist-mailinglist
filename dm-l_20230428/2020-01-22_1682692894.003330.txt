@@ -1,18 +1,28 @@
-Subject: [dm-l] CfA: Venice Summer School in Digital and Public Humanities,Dear digital medievalists,I am pleased to announce the first edition of the Venice Summer School in
+Subject: [dm-l] CfA: Venice Summer School in Digital and Public Humanities,
+
+Dear digital medievalists,
+
+I am pleased to announce the first edition of the Venice Summer School in
 Digital and Public Humanities, 6-10 July 2020, organized by the  Venice
 Centre for Digital and Public Humanities (VeDPH) at the Department of
-Humanities (DSU), Ca=E2=80=99 Foscari University of Venice.The Summer School aims at providing advanced and in-depth training in
+Humanities (DSU), Ca’ Foscari University of Venice.
+
+The Summer School aims at providing advanced and in-depth training in
 theories, technologies and methods of Digital and Public Humanities,
 focusing on cultural, archeological, historical, literary, and artistic
 materials. The school will give the participants the opportunity to engage
 in debates about digital and public cultural heritage and humanities
 research, while enhancing their competences and skills of digitizing
 materials and sources and for modeling, analysing and visualizing
-multimedia humanities data. All classes will be taught in English.The VeDPH summer school is divided into four thematic strands:
+multimedia humanities data. All classes will be taught in English.
+
+The VeDPH summer school is divided into four thematic strands:
 (1) Digital Textual Scholarship
 (2) Digital and Public History
 (3) Digital and Public Art History
-(4) Digital Archaeology and its PublicThe School is composed by a series of plenary lectures, parallel workshops,
+(4) Digital Archaeology and its Public
+
+The School is composed by a series of plenary lectures, parallel workshops,
 and site visits. Lectures will describe the greater context in which these
 theories and methods will be applied: a world in which the work of scholars
 is routinely aided by computer-assisted techniques, with both old and novel
@@ -26,7 +36,9 @@ Ghetto) and its surroundings (such as M9 Museum in Mestre, excavations at
 Torcello or Altino). Legal questions of intellectual property and
 publication licences will be covered, as well as the latest web
 developments, such as semantic web and linked open data technologies, in
-order to evaluate different data models for cultural heritage objects.Strand #1: Digital Textual Scholarship
+order to evaluate different data models for cultural heritage objects.
+
+Strand #1: Digital Textual Scholarship
 This strand focuses on the application of digital methods and technologies
 to literary and historical texts and documents, especially from Venetian
 archives and libraries. Introductory lessons on theories and best practices
@@ -39,21 +51,25 @@ transformation of texts (XML, TEI; XSLT). Finally, the integration into the
 semantic web (Linked Open Data, IIIF) will be preformed and tools for the
 enrichment, analysis and visualisation of textual data will be applied
 (CollateX, Natural Language Processing, Distant Reading). The strand
-includes a visit of the Biblioteca Nazionale Marciana.Strand #2: Digital and Public History
+includes a visit of the Biblioteca Nazionale Marciana.
+
+
+
+Strand #2: Digital and Public History
 This strand focuses on the application of digital techniques and a public
 approach to the development and presentation of historical research. The
 digital aspect revolves around some of the main tools used by digital
 historians, such as Text Mining, Network Analysis, and Historical GIS. The
-=E2=80=98public=E2=80=99 aspect is centred on the issues related to the resea=
-rch with the
+‘public’ aspect is centred on the issues related to the research with the
 public and the dissemination beyond the classroom, from public memory to
 public sources to public engagement, with specific focus on topics such as
 TV, museums, and social media. The theoretical debate and the role played
 by digital and public historians in the changing landscape of the
 historical discipline are also considered. The strand includes a visit to
-M9-Museo del =E2=80=98900 in Mestre, to give the students a concrete example =
-of how
-the past can be seen and shown through the digital & public lenses.Strand #3: Digital and Public Art History
+M9-Museo del ‘900 in Mestre, to give the students a concrete example of how
+the past can be seen and shown through the digital & public lenses.
+
+Strand #3: Digital and Public Art History
 This strand focuses on the technological development and its cultural
 implications which occured in the arts sector over the last decades. In
 doing this, the digital aspect is approached both on the side of artistic
@@ -68,7 +84,11 @@ Venice to give the students a concrete example of new digital and public
 approaches in art institutions.  Eventually, the strand includes the
 opening of an art exhibition on the analog-digital relationship by Italian
 painter Aldo Sergio expressly organized for the Venice Centre for Digital
-and Public History.Strand #4: Digital Archaeology and its Public
+and Public History.
+
+
+
+Strand #4: Digital Archaeology and its Public
 This strand focuses on theories and practices that archaeologists apply in
 surveys, remote sensing, spatial analysis, data collection, and data
 management. Participant will engage in digital strategies to analyze the
@@ -77,61 +97,103 @@ approach digital heritage as a virtual tool to explore the mutual
 relationship between environment, humans and the past. Using the lagoon
 area as test case (Adria, Mira, Torcello, Altino and Caorle), the aim of
 the strand is to learn how critically archaeology may be engaged with the
-=E2=80=9Cdigital=E2=80=9D. We will work on questions such as =E2=80=9Cwhy, by=
- whom and for what
-purpose do we cultivate digital technologies=E2=80=9D. Digital data and publi=
-c(s)
+“digital”. We will work on questions such as “why, by whom and for what
+purpose do we cultivate digital technologies”. Digital data and public(s)
 are deeply connected, and nowadays archaeologists are not only asked to
 build set of coherent digital data from the surveys, but they have to
 foster methods for engaging new audiences and facing the global societal
 challenges. Digital tools may help the de-colonization of the
 archaeological practice, going beyond the mere reconstruction of the past
 and being able to detect and analyze the cultural and political frameworks
-by which we share and perpetuate the memory.
+by which we share and perpetuate the memory.
+
 Keynote speakers: Serge Noiret (European University Institute, Florence),
-Elena Pierazzo (Universit=C3=A9 de Tours), and Fabio Vitali (Universit=C3=A0 =
-di
-Bologna)Guest lecturers: Peter Bell (Friedrich-Alexander Universit=C3=A4t
-Erlangen-N=C3=BCrnberg), Mirco Carrattieri (Istituto Ferruccio Parri, Milano),
-Fr=C3=A9d=C3=A9ric Clavert (C2DH, University of Luxembourg), Lisa Dieckmann
-(Universit=C3=A4t zu K=C3=B6ln), Francesco Frizzera (Museo della Guerra, Rove=
-reto),
+Elena Pierazzo (Université de Tours), and Fabio Vitali (Università di
+Bologna)
+
+Guest lecturers: Peter Bell (Friedrich-Alexander Universität
+Erlangen-Nürnberg), Mirco Carrattieri (Istituto Ferruccio Parri, Milano),
+Frédéric Clavert (C2DH, University of Luxembourg), Lisa Dieckmann
+(Universität zu Köln), Francesco Frizzera (Museo della Guerra, Rovereto),
 Erma Hermens (Rijks Museum Amsterdam), Angus Mol (University of Leiden),
-Giampaolo Salice (Universit=C3=A0 di Cagliari), Miroslav Halak (Galerie
-Belvedere, Vienna), et al.Lecturers from VeDPH/DSU: Federico Boschetti, Alberto Campagnolo, Leonardo
-Campus, Elisa Corr=C3=B2, Stefano Dall=E2=80=99Aglio, Holger Essler, Lorenzo =
-Calvelli,
-Carolina Fern=C3=A1ndez-Castrillo, Franz Fischer, Daniele Fusi, Tiziana
-Mancinelli, Diego Mantoan, Paolo Monella, Dorit Raines, Linda Spinazz=C3=A8,
-Barbara TramelliEach strand will include 15 participants maximum.Participation fee: =E2=82=AC30014 scholarships are available with an amount of =E2=82=AC 600 each (gross pay=
-ment).Application deadline: 06.03.2020 (midnight CET)Ranking results: 20.03.2020Acceptance deadline: 02.04.2020_redacted_(a)unive.it or
+Giampaolo Salice (Università di Cagliari), Miroslav Halak (Galerie
+Belvedere, Vienna), et al.
+
+Lecturers from VeDPH/DSU: Federico Boschetti, Alberto Campagnolo, Leonardo
+Campus, Elisa Corrò, Stefano Dall’Aglio, Holger Essler, Lorenzo Calvelli,
+Carolina Fernández-Castrillo, Franz Fischer, Daniele Fusi, Tiziana
+Mancinelli, Diego Mantoan, Paolo Monella, Dorit Raines, Linda Spinazzè,
+Barbara Tramelli
+
+
+
+Each strand will include 15 participants maximum.
+
+Participation fee: €300
+
+14 scholarships are available with an amount of € 600 each (gross payment).
+
+
+
+Application deadline: 06.03.2020 (midnight CET)
+
+Ranking results: 20.03.2020
+
+Acceptance deadline: 02.04.2020
+
+_redacted_(a)unive.it or
 _redacted_(a)pec.unive.it and bear the subject
-header: Application for Admission to VeSSDPH. The following documents may also be attached to the application:
+header: Application for Admission to VeSSDPH.
+
+ The following documents may also be attached to the application:
 - Application Form (see below)
 - Motivation letter
 - MA Diploma (or equivalent)
 - CV evidence in experiences, skills and knowledge in the field
-- Copy of valid ID or passportEssential Criteria: University master/diploma (or equivalent)Selection and Ranking Criteria (total score 20/20):
+- Copy of valid ID or passport
+
+Essential Criteria: University master/diploma (or equivalent)
+
+Selection and Ranking Criteria (total score 20/20):
 1) Motivation letter (max 16) - Reason of interest as demonstrated by a
 short description (max. 100 words) of an approved or ongoing research
 project involving Digital and Public Humanities methodologies:
 a) quality of research project
 b) integration of Digital and Public Humanities methods in the project
 c) career perspectives
-d) lack of funding / institutional support / training opportunities2) Graduation mark (max 2), PhD (max 2)Submission date will be taken into consideration in the case of candidates
-with equal ranking.For further information visit https://www.unive.it/vedph or write to
-_redacted_(a)unive.itCall for Application and Application Form (download):
-https://www.unive.it/pag/fileadmin/user_upload/comunicazione/cafoscarinews/im=
-g/grafica/Call_for_Application_VeSSDPH.pdfWe look forward to welcoming you in Venice!
-Franz--=20Prof. Dr. Franz Fischer
+d) lack of funding / institutional support / training opportunities
+
+2) Graduation mark (max 2), PhD (max 2)
+
+Submission date will be taken into consideration in the case of candidates
+with equal ranking.
+
+For further information visit https://www.unive.it/vedph or write to
+_redacted_(a)unive.it
+
+Call for Application and Application Form (download):
+https://www.unive.it/pag/fileadmin/user_upload/comunicazione/cafoscarinews/img/grafica/Call_for_Application_VeSSDPH.pdf
+
+We look forward to welcoming you in Venice!
+Franz
+
+-- 
+
+Prof. Dr. Franz Fischer
 Direttore, Venice Centre for Digital & Public Humanities (VeDPH)
 Dipartimento di Studi Umanistici
-Universit=C3=A0 Ca' Foscari
-Palazzo Malcanton Marcor=C3=A0
-Dorsoduro 3484/D - 30123 VeneziaTel.: +39 041 234 6266 (ufficio), +39 041 234 9863 (segreteria del centro)
+Università Ca' Foscari
+Palazzo Malcanton Marcorà
+Dorsoduro 3484/D - 30123 Venezia
+
+Tel.: +39 041 234 6266 (ufficio), +39 041 234 9863 (segreteria del centro)
 https://www.unive.it/vedph
 https://www.i-d-e.de/
-https://journal.digitalmedievalist.org/PGRpdiBkaXI9Imx0ciI+CjxwIGRpcj0ibHRyIiBzdHlsZT0ibGluZS1oZWlnaHQ6MS4zODttYXJn
+https://journal.digitalmedievalist.org/
+
+
+
+PGRpdiBkaXI9Imx0ciI+CjxwIGRpcj0ibHRyIiBzdHlsZT0ibGluZS1oZWlnaHQ6MS4zODttYXJn
 aW4tdG9wOjEycHQ7bWFyZ2luLWJvdHRvbTowcHQiIGlkPSJnbWFpbC1kb2NzLWludGVybmFsLWd1
 aWQtMjRiM2Q1NWEtN2ZmZi03ZDU4LTU2OTAtZGRkM2Y4ZDRkNDA4Ij48c3BhbiBzdHlsZT0iZm9u
 dC1zaXplOjExcHQ7Zm9udC1mYW1pbHk6Q2FsaWJyaSxzYW5zLXNlcmlmO2NvbG9yOnJnYigwLDAs
@@ -506,4 +568,4 @@ IiB0YXJnZXQ9Il9ibGFuayI+aHR0cHM6Ly93d3cuaS1kLWUuZGUvPC9hPjxicj48YSBocmVmPSJo
 dHRwczovL2pvdXJuYWwuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy8iIHRhcmdldD0iX2JsYW5rIj5o
 dHRwczovL2pvdXJuYWwuZGlnaXRhbG1lZGlldmFsaXN0Lm9yZy88L2E+PGJyPjwvcHJlPjxkaXY+
 PHNwYW4+PGJyPjwvc3Bhbj48L2Rpdj48ZGl2PjxzcGFuPgo8L3NwYW4+PC9kaXY+PC9kaXY+PC9k
-aXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+Cg==
+aXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+PC9kaXY+Cg

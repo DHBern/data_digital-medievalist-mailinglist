@@ -1,41 +1,38 @@
-Subject: [dm-l] Position Announcement: Cultural Heritage Programmer**feel free to share with any interested parties and lists**Open Position at the University of Pennsylvania Libraries: Cultural Heritage =
-ProgrammerThe Kislak Center for Special Collections, Rare Books and Manuscripts and the=
- Schoenberg Institute for Manuscript Studies at the University of Pennsylvani=
-a Libraries are excited to announce a two-year programmer position to support=
- cultural heritage and digital humanities projects.https://wd1.myworkdaysite.com/en-US/recruiting/upenn/careers-at-penn/job/Van-=
-Pelt-Library/Cultural-Heritage-Programmer_JR00009860Description
-Working under the department's director, the Cultural Heritage Programmer wil=
-l work in the digital cultural heritage arm of Penn Libraries to develop and =
-deploy web applications and write scripts and applications for the management=
- of special collections data. The programmer analyst will work with the direc=
-tor, the staff of the Kislak Center for Special Collections Rare Books and Ma=
-nuscripts, the Libraries' Technical Services team, and partners at Penn and o=
-ther institutions to design and build applications and processes to support t=
-he cultural heritage computing at Penn Libraries, among them the Tikal archeo=
-logical archive project, the OPenn website, the Provenance On-line Project an=
-d the Schoenberg Database of Manuscripts. The CHP will use technologies such =
-as Ruby, Ruby on Rails, Python, XSLT, Linux shell scripting (bash) and Docker=
-. This is a two-year position.The Cultural Heritage Programmer will design, code, simulate, test, implement=
- and maintain application software and associated middleware, interfaces and =
-databases; and work with clients and IT analysts to determine functional requ=
-irements. The CHP may work with vendor delivered software. Additionally the C=
-HP will monitor and administer applications, providing technical and applicat=
-ion support. He/she will ensure adherence to technical, quality assistance, d=
-ata integrity and security standards and may also be required to plan, organi=
-ze and manage small projects.Qualifications
-Bachelor's degree and a minimum of one year of programming or systems analysi=
-s experience or an equivalent combination of education and/or experience. An =
-understanding of programming languages, user interfaces, integration methods,=
- and development lifecycles. Demonstrated competence in systems analysis and =
-design and the ability to quickly learn and apply technologies.Job Location
-Philadelphia, PennsylvaniaDepartment / School
-University LibraryPay Range
-$42,953.00 - $113,435.00
---===============5516899317420008781==
-Content-Type: text/html
+Subject: [dm-l] Position Announcement: Cultural Heritage Programmer
+
+**feel free to share with any interested parties and lists**
+
+Open Position at the University of Pennsylvania Libraries: Cultural Heritage Programmer
+
+The Kislak Center for Special Collections, Rare Books and Manuscripts and the Schoenberg Institute for Manuscript Studies at the University of Pennsylvania Libraries are excited to announce a two-year programmer position to support cultural heritage and digital humanities projects.
+
+https://wd1.myworkdaysite.com/en-US/recruiting/upenn/careers-at-penn/job/Van-Pelt-Library/Cultural-Heritage-Programmer_JR00009860
+
+Description
+Working under the department's director, the Cultural Heritage Programmer will work in the digital cultural heritage arm of Penn Libraries to develop and deploy web applications and write scripts and applications for the management of special collections data. The programmer analyst will work with the director, the staff of the Kislak Center for Special Collections Rare Books and Manuscripts, the Libraries' Technical Services team, and partners at Penn and other institutions to design and build applications and processes to support the cultural heritage computing at Penn Libraries, among them the Tikal archeological archive project, the OPenn website, the Provenance On-line Project and the Schoenberg Database of Manuscripts. The CHP will use technologies such as Ruby, Ruby on Rails, Python, XSLT, Linux shell scripting (bash) and Docker. This is a two-year position.
+
+The Cultural Heritage Programmer will design, code, simulate, test, implement and maintain application software and associated middleware, interfaces and databases; and work with clients and IT analysts to determine functional requirements. The CHP may work with vendor delivered software. Additionally the CHP will monitor and administer applications, providing technical and application support. He/she will ensure adherence to technical, quality assistance, data integrity and security standards and may also be required to plan, organize and manage small projects.
+
+Qualifications
+Bachelor's degree and a minimum of one year of programming or systems analysis experience or an equivalent combination of education and/or experience. An understanding of programming languages, user interfaces, integration methods, and development lifecycles. Demonstrated competence in systems analysis and design and the ability to quickly learn and apply technologies.
+
+Job Location
+Philadelphia, Pennsylvania
+
+Department / School
+University Library
+
+Pay Range
+$42,953.00 - $113,435.00
+
+
+
+--5516899317420008781Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWwgeG1sbnM6dj0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTp2bWwiIHhtbG5zOm89InVy
+Content-Disposition: attachment; filenameúttachment.html"
+MIME-Version: 1.0
+
+PGh0bWwgeG1sbnM6dj0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTp2bWwiIHhtbG5zOm89InVy
 bjpzY2hlbWFzLW1pY3Jvc29mdC1jb206b2ZmaWNlOm9mZmljZSIgeG1sbnM6dz0idXJuOnNjaGVt
 YXMtbWljcm9zb2Z0LWNvbTpvZmZpY2U6d29yZCIgeG1sbnM6bT0iaHR0cDovL3NjaGVtYXMubWlj
 cm9zb2Z0LmNvbS9vZmZpY2UvMjAwNC8xMi9vbW1sIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcv
@@ -169,4 +166,4 @@ eTomcXVvdDtIZWx2ZXRpY2EgTmV1ZSZxdW90OyxzZXJpZiI+JDQyLDk1My4wMCAtICQxMTMsNDM1
 LjAwPG86cD48L286cD48L3NwYW4+PC9wPgo8cCBjbGFzcz0iTXNvTm9ybWFsIj48c3BhbiBzdHls
 ZT0iZm9udC1zaXplOjExLjBwdDtmb250LWZhbWlseTomcXVvdDtDYWxpYnJpJnF1b3Q7LHNhbnMt
 c2VyaWYiPjxvOnA+Jm5ic3A7PC9vOnA+PC9zcGFuPjwvcD4KPC9kaXY+CjwvYm9keT4KPC9odG1s
-Pgo=
+Pgo

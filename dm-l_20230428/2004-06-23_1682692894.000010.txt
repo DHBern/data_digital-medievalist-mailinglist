@@ -1,9 +1,18 @@
-Subject: Re: [dm-l] Re: Experience using Microsoft's XSLT?Peter, darling, you are talking nonsense. If you want a system based on 
+Subject: Re: [dm-l] Re: Experience using Microsoft's XSLT?
+
+Peter, darling, you are talking nonsense. If you want a system based on 
 words, mark up the words and XSLT will cope very well. (Yes, people do 
 it: cf the BNC and many others). Likewise, if you want a system in which 
-physical hierarchies matter, reflect that in your markup system.There are no good or bad programming languages: just good or bad 
-programmers. And designers.Lou
-Peter Robinson wrote:> Well, let us start off with a little minor controversy.
+physical hierarchies matter, reflect that in your markup system.
+
+There are no good or bad programming languages: just good or bad 
+programmers. And designers.
+
+Lou
+
+Peter Robinson wrote:
+
+> Well, let us start off with a little minor controversy.
 > 
 > In the midst of converts to and enthusiasts for XSLT and that family of
 > tools, here is my two pennysworth.  I suggest that a serious and full-scale
@@ -62,4 +71,7 @@ Peter Robinson wrote:> Well, let us start off with a little minor controversy.
 > Digital Facsimile from our XML source.  And good luck to you.
 > 
 > All the best
-> Peter Robinson
+> Peter Robinson
+
+
+

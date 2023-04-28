@@ -1,12 +1,22 @@
-Subject: Re: [dm-l] xsltproc and xslI use xsltproc quite a bit, since it is fast and has a very good 
+Subject: Re: [dm-l] xsltproc and xsl
+
+I use xsltproc quite a bit, since it is fast and has a very good 
 implementation of XSLT 1.0 (in my experience it always agrees with Xalan 
 and Saxon). I haven't heard whether it implements XSLT 2.0; the docs are 
 sketchy, to say the least. I doubt that it does. It reads a DTD to 
 resolve entities, but I don't think it validates, and I don't think it 
 can use other kinds of schema. So you've got to use another tool to 
 validate your doc before running it, and if you absolutely need to use 
-say RelaxNG to resolve entities it may not be suitable.Saxon seems the heavier duty app, but xsltproc is stable and good for 
-most purposes.PeterDaniel Paul O'Donnell wrote:>Hi all, I just discovered xsltproc in linux. Does anybody know what XSL
+say RelaxNG to resolve entities it may not be suitable.
+
+Saxon seems the heavier duty app, but xsltproc is stable and good for 
+most purposes.
+
+Peter
+
+Daniel Paul O'Donnell wrote:
+
+>Hi all, I just discovered xsltproc in linux. Does anybody know what XSL
 >process it is? It seems quite good. Is there a reason not to prefer it
 >to Saxon?
 >
@@ -26,4 +36,7 @@ _redacted_(a)uleth.ca
 _redacted_(a)uleth.ca
 >http://listserv.uleth.ca/mailman/listinfo/dm-l
 >  
->
+>
+
+
+

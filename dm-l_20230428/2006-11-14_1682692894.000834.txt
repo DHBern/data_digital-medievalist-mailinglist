@@ -1,6 +1,12 @@
-Subject: Re: [dm-l] numbering linesNo answer, I'm afraid, but let me ask that we share the answer to this
+Subject: Re: [dm-l] numbering lines
+
+No answer, I'm afraid, but let me ask that we share the answer to this
 with the list (and the wiki). This is exactly the type of thing we can
-use!-danOn Tue, 2006-11-14 at 16:07 -0700, Murray McGillivray wrote:
+use!
+
+-dan
+
+On Tue, 2006-11-14 at 16:07 -0700, Murray McGillivray wrote:
 > Folks, I have a number of text files of poetry that I'd like to add line 
 > numbers to for concordancing, starting the numbering at 1 and continuing 
 > to the last text line, with the line numbers ending up as part of the 
@@ -42,10 +48,15 @@ _redacted_(a)uleth.ca
 Daniel Paul O'Donnell, PhD
 Department Chair and Associate Professor of English
 Director, Digital Medievalist Project http://www.digitalmedievalist.org/
-Chair, Text Encoding Initiative http://www.tei-c.org/Department of English
+Chair, Text Encoding Initiative http://www.tei-c.org/
+
+Department of English
 University of Lethbridge
 Lethbridge AB T1K 3M4
 Vox +1 403 329-2377
 Fax +1 403 382-7191
 _redacted_(a)uleth.ca
-WWW: http://people.uleth.ca/~daniel.odonnell/
+WWW: http://people.uleth.ca/~daniel.odonnell/
+
+
+

@@ -1,13 +1,25 @@
-Subject: RE: [dm-l] Bandwidth?You have little to worry about if Beowulf only took 5 seconds. You will not
-be taxing the system.There should be a server timeout that will stop any problematic or onerous
-tasks.In any case, the server administrator should be able to log the cycles used
-and if necessary, prescribe a quota or percentage of CPU power.-----Original Message-----
+Subject: RE: [dm-l] Bandwidth?
+
+You have little to worry about if Beowulf only took 5 seconds. You will not
+be taxing the system.
+
+There should be a server timeout that will stop any problematic or onerous
+tasks.
+
+In any case, the server administrator should be able to log the cycles used
+and if necessary, prescribe a quota or percentage of CPU power.
+
+-----Original Message-----
 _redacted_(a)uleth.ca] On Behalf Of
 Daniel O'Donnell
 Sent: December 6, 2004 9:14 AM
 To: Digital Medievalist list
-Subject: [dm-l] Bandwidth?The Digital Medievalist List (see end of message for contact information and
-project URLs).----------------------------------
+Subject: [dm-l] Bandwidth?
+
+The Digital Medievalist List (see end of message for contact information and
+project URLs).
+
+----------------------------------
 Hello all,
 	I am posting this query on behalf of a colleague who has built a
 neat 
@@ -26,7 +38,8 @@ Tel. (403) 329-2377
 Fax. (403) 382-7191
 _redacted_(a)uleth.ca>
 Home Page <http://people.uleth.ca/~daniel.odonnell/>
-The Digital Medievalist Project: <http://www.digitalmedievalist.org/>
+The Digital Medievalist Project: <http://www.digitalmedievalist.org/>
+
 _______________________________________________
 Digital Medievalist Project
 Homepage: http://www.digitalmedievalist.org
@@ -38,4 +51,7 @@ Submit RSS announcement: http://www.digitalmedievalist.org/newitem.cfm
 _redacted_(a)uleth.ca
 dm-l mailing list
 _redacted_(a)uleth.ca
-http://listserv.uleth.ca/mailman/listinfo/dm-l
+http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+
+

@@ -1,14 +1,22 @@
-Subject: [dm-l] Junicode for MacI've just added a Macintosh-specific version of Junicode 0.6.15. It  
+Subject: [dm-l] Junicode for Mac
+
+I've just added a Macintosh-specific version of Junicode 0.6.15. It  
 is functionally the same as Junicode for Windows/Linux, but perhaps a  
 little easier to install, and tested in Mellel and XeTeX on the  
 gorgeous MacBook that my department just bought for me. You must have  
 OS X 10.4 ("Tiger")  or later if you want to see the pretty OpenType  
-things.http://sourceforge.net/project/showfiles.php?group_id=158636Peter
---===============8400659396322056458==
-Content-Type: application/pkcs7-signature
+things.
+
+http://sourceforge.net/project/showfiles.php?group_id8636
+
+Peter
+
+--8400659396322056458Content-Type: application/pkcs7-signature
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="smime.p7s"
-MIME-Version: 1.0MIAGCSqGSIb3DQEHAqCAMIACAQExCzAJBgUrDgMCGgUAMIAGCSqGSIb3DQEHAQAAoIIM5DCCA4gw
+Content-Disposition: attachment; filenamemime.p7s"
+MIME-Version: 1.0
+
+MIAGCSqGSIb3DQEHAqCAMIACAQExCzAJBgUrDgMCGgUAMIAGCSqGSIb3DQEHAQAAoIIM5DCCA4gw
 ggJwoAMCAQICBQRgAAAbMA0GCSqGSIb3DQEBBAUAMHQxCzAJBgNVBAYTAlVTMTowOAYDVQQKEzFD
 UkVOL0NvcnAgZm9yIFJlc2VhcmNoIGFuZCBFZHVjYXRpb25hbCBOZXR3b3JraW5nMSkwJwYDVQQL
 EyBFZHVjYXRpb24gYW5kIFJlc2VhcmNoIENsaWVudCBDQTAeFw0wMjA4MTQxNTAwMjVaFw0wNzA4
@@ -81,4 +89,4 @@ MB0GA1UEChMWVW5pdmVyc2l0eSBvZiBWaXJnaW5pYTElMCMGCSqGSIb3DQEJARYWcGtpbWFzdGVy
 QHZpcmdpbmlhLmVkdTElMCMGA1UEAxMcVVZBIFN0YW5kYXJkIEFzc3VyYW5jZSBTS1AgMQIDAeZ/
 MA0GCSqGSIb3DQEBAQUABIGAbhqrNiah/B5Hy58DkTXn6OYNTyx/fUkulBH9zd5+2/nwgFW7MhlV
 WpqNlI0MPNIYa6CS2I651RAaVpehhqbz08o+tVVBNSWsJu5NMYWGa1CYJIioELrThf0ZffDj2WMj
-mrQcJkDFQJ+XZ0HlX3/GbNMT5EKr98SuWQFJIIeWmiMAAAAAAAA=
+mrQcJkDFQJ+XZ0HlX3/GbNMT5EKr98SuWQFJIIeWmiMAAAAAAAA

@@ -1,44 +1,66 @@
-Subject: Re: [dm-l] Junius 11 CD, cost, markup, MS IEThe sticker price is, apparently, £50; the Leeds Conference discount 
-was£40.The program won't work in Safari.I've copied a brief  sample of some of the transcription markup at the 
-end of this e-mail, for those of you interested. best,Martin ~~~~~~~~~~~~~~~~~~~~~~~~~~~~Martin K. Foys
+Subject: Re: [dm-l] Junius 11 CD, cost, markup, MS IE
+
+The sticker price is, apparently, £50; the Leeds Conference discount 
+was£40.
+
+The program won't work in Safari.
+
+I've copied a brief  sample of some of the transcription markup at the 
+end of this e-mail, for those of you interested. 
+
+best,
+
+Martin 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Martin K. Foys
 Assistant Professor
 Department of English
 Hood College
-Frederick, MD 21701vox: 301~696~3740
+Frederick, MD 21701
+
+vox: 301~696~3740
 fax: 301~696~3586
-_redacted_(a)hood.eduBayeux Tapestry Digital Edition, Choice 2004 Outstanding Academic 
+_redacted_(a)hood.edu
+
+Bayeux Tapestry Digital Edition, Choice 2004 Outstanding Academic 
 Title:
 http://www.boydell.co.uk/choice.htm
-==========================
 Excerpt of Junius 11 markup
 <---->
 <table
-cellpadding=2 cellspacing=0 border=0 class="poemTable"> <tr><td
-align=right valign=top><a href='javascript://' title='Go to page 157 
+cellpaddingcellspacingborderclassoemTable"> <tr><td
+alignght valignp><a hrefavascript://' titleo to page 157 
 in
-the MS' class=clsPoemFolio onClick="folioGoto('157')">157</a></td><td
-align=right valign=top><a href='javascript://' class=poemN 
-title='Point
+the MS' classsPoemFolio onClickolioGoto('157')">157</a></td><td
+alignght valignp><a hrefavascript://' classemN 
+titleoint
 to line 1 in the MS'
-onClick="tLineClick('line','157','1',469,403)">1</a></td><td 
-align=right
-valign=top></td><td valign=top><div class=poemT><span
-id=poemText157_1>Hof &eth;a for hergum hlude stefne
-lifigendra</span></div></td></tr> <tr><td align=right
-valign=top></td><td align=right valign=top><a href='javascript://'
-class=poemN title='Point to line 2 in the MS'
-onClick="tLineClick('line','157','2',471,423)">2</a></td><td 
-align=right
-valign=top></td><td valign=top><div class=poemT><span
-id=poemText157_2>&thorn;eod, &thorn;a he to leodum spr&aelig;c:
-&quot;Hw&aelig;t, ge nu <nobr>eagum <a href='javascript://' 
-title='Show
-this line's textual annotation in the Note Window' class=clsPoemFoot
-onClick="blurbOpen('footnote',157,'2a',true)">*</a></nobr></span></div><
-/td></tr> <tr><td align=right valign=top></td><td align=right
-valign=top><a href='javascript://' class=poemN title='Point to line 3 
+onClickLineClick('line','157','1',469,403)">1</a></td><td 
+alignght
+valignp></td><td valignp><div classemT><span
+idemText157_1>Hof &eth;a for hergum hlude stefne
+lifigendra</span></div></td></tr> <tr><td alignght
+valignp></td><td alignght valignp><a hrefavascript://'
+classemN titleoint to line 2 in the MS'
+onClickLineClick('line','157','2',471,423)">2</a></td><td 
+alignght
+valignp></td><td valignp><div classemT><span
+idemText157_2>&thorn;eod, &thorn;a he to leodum spr&aelig;c:
+&quot;Hw&aelig;t, ge nu <nobr>eagum <a hrefavascript://' 
+titlehow
+this line's textual annotation in the Note Window' classsPoemFoot
+onClick�lurbOpen('footnote',157,'2a',true)">*</a></nobr></span></div><
+/td></tr> <tr><td alignght valignp></td><td alignght
+valignp><a hrefavascript://' classemN titleoint to line 3 
 in
-the MS' onClick="tLineClick('line','157','3',472,440)">3</a></td><td
-align=right valign=top></td><td valign=top><div class=poemT><span
-id=poemText157_3>to on locia&eth;, folca leofost, f&aelig;rwundra
-<nobr>sum . .  .etc. etc.
+the MS' onClickLineClick('line','157','3',472,440)">3</a></td><td
+alignght valignp></td><td valignp><div classemT><span
+idemText157_3>to on locia&eth;, folca leofost, f&aelig;rwundra
+<nobr>sum . .  .
+
+etc. etc.
+
+
+

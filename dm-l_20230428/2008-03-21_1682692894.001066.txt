@@ -1,26 +1,40 @@
-Subject: Re: [dm-l] OCR on ManuscriptsMelissa Terras is the great expert on this, of course, along with our
+Subject: Re: [dm-l] OCR on Manuscripts
+
+Melissa Terras is the great expert on this, of course, along with our
 own Arianna Ciula and Paul Stokes. My understanding from a talk I heard
 her give last year in London is that it is a holy grail of OCR
-companies, but nowhere near practical. I'm not an expert on the current state of this field, but I believe the
+companies, but nowhere near practical. 
+
+I'm not an expert on the current state of this field, but I believe the
 approach currently is at best to assist humans in the interpretation of
 characters by looking for patterns that can be highlighted, rather than
 attempt to replace humans in interpret strings of manuscript text. So in
 this regard something like how we used to use photocopiers to increase
 contrast or different types of light to emphasis different types of
 strokes or ink. But now going farther than this in looking for patterns
-that can then be approved or interpreted by a human.So my sense is that if the question is "can I use a computer to avoid
+that can then be approved or interpreted by a human.
+
+So my sense is that if the question is "can I use a computer to avoid
 keying the content of this manuscript into a computer?" the answer is
 no. But if the question is "can I use a computer to help me recognise,
 interpret, or classify aspects or characters in this script?" the answer
-is yes depending on the specific issues you are looking at analysing.Good convenient starting places on the current state of the field are
+is yes depending on the specific issues you are looking at analysing.
+
+Good convenient starting places on the current state of the field are
 the articles in DM by Paul Stokes (newly published in DM 3:
 http://www.digitalmedievalist.org/journal/3/stokes/) and Arianna Ciula
 (DM 1: http://www.digitalmedievalist.org/journal/1.1/ciula/)[1]. We have
 a review coming of Terras's book _Image to Interpretation: An
 intelligent system to aid historians in reading the Vindolanda texts_
-(Oxford: 2006).-dan[1] If you haven't been to the DM site in a while, you'll see it has
+(Oxford: 2006).
+
+-dan
+
+[1] If you haven't been to the DM site in a while, you'll see it has
 been improved and reorganised. Old URLs for journal articles should
-still work however.On Fri, 2008-03-21 at 13:58 -0400, Dot Porter wrote:
+still work however.
+
+On Fri, 2008-03-21 at 13:58 -0400, Dot Porter wrote:
 > Dear List,
 > 
 >  I've received a query from a medievalist who is interested in applying
@@ -52,10 +66,15 @@ _redacted_(a)uky.edu 859-257-1257 x.82115
 Daniel Paul O'Donnell, PhD
 Department Chair and Associate Professor of English
 Director, Digital Medievalist Project http://www.digitalmedievalist.org/
-Chair, Text Encoding Initiative http://www.tei-c.org/Department of English
+Chair, Text Encoding Initiative http://www.tei-c.org/
+
+Department of English
 University of Lethbridge
 Lethbridge AB T1K 3M4
 Vox +1 403 329-2377
 Fax +1 403 382-7191
 _redacted_(a)uleth.ca
-WWW: http://people.uleth.ca/~daniel.odonnell/
+WWW: http://people.uleth.ca/~daniel.odonnell/
+
+
+

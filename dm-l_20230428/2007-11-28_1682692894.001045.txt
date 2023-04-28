@@ -1,43 +1,51 @@
-Subject: RE: [dm-l] Bibliographical software for medievalistsI'm a developer on refdb (http://refdb.sourceforge.net/), which is not aimed =
-at medievalists, per se, but is powerful and outputs in a variety of formats.=
- "Cite-as-you-write" is still a bit weak (though it works well in XML). Becau=
-se the outputs are XSL determined, problems like you discuss with eds. and co=
-mmas are easily fixable.It is a server based program.
+Subject: RE: [dm-l] Bibliographical software for medievalists
+
+I'm a developer on refdb (http://refdb.sourceforge.net/), which is not aimed at medievalists, per se, but is powerful and outputs in a variety of formats. "Cite-as-you-write" is still a bit weak (though it works well in XML). Because the outputs are XSL determined, problems like you discuss with eds. and commas are easily fixable.
+
+It is a server based program.
+
 -----Original Message-----
 _redacted_(a)uleth.ca on behalf of Toufexis Notis
 Sent: Wed 28/11/2007 13:53
 To: dm-l, MailList
 Subject: Re: [dm-l] Bibliographical software for medievalists
-=20
-Ever tried zotero? Available at http://www.zotero.org/ it lives as a =20
-Firefox extension. It's note as versatile as a dedicated =20
-bibliographical software but can do more then that and can prove =20
-valuable as an overall research tool.I am also using jabref (http://jabref.sourceforge.net/), written in =20
-Java, open source and BibTex based. It's not exactly user friendly but =20
-quite powerful.Best,
-Notis
-On 28 Nov 2007, at 20:42, Peter Baker wrote:> I'm wondering what bibliographical software people on this list are =20
-> using. Last time I needed such software I used BibTeX, despite =20
-> certain significant lacks. Now BibLaTeX looks very good. But with my =20
-> last venture my publisher got kinda cranky about getting files in =20
+ 
+Ever tried zotero? Available at http://www.zotero.org/ it lives as a  
+Firefox extension. It's note as versatile as a dedicated  
+bibliographical software but can do more then that and can prove  
+valuable as an overall research tool.
+
+I am also using jabref (http://jabref.sourceforge.net/), written in  
+Java, open source and BibTex based. It's not exactly user friendly but  
+quite powerful.
+
+Best,
+Notis
+
+On 28 Nov 2007, at 20:42, Peter Baker wrote:
+
+> I'm wondering what bibliographical software people on this list are  
+> using. Last time I needed such software I used BibTeX, despite  
+> certain significant lacks. Now BibLaTeX looks very good. But with my  
+> last venture my publisher got kinda cranky about getting files in  
 > LaTeX, so I'm hesitant to go that route again.
 >
-> I've been using the Mellel word processor because of its nice =20
-> typography, sensibly structured files and pleasant interface. I got =20
-> Bookends to go with it for bibliographical management, but I find it =20
-> shockingly bad--introducing stray commas in bib entries and doing =20
-> crazy stuff like rendering authors' names as "Smith, John" but =20
-> editors' names (when there is no author) as "John Smith." Unless I =20
+> I've been using the Mellel word processor because of its nice  
+> typography, sensibly structured files and pleasant interface. I got  
+> Bookends to go with it for bibliographical management, but I find it  
+> shockingly bad--introducing stray commas in bib entries and doing  
+> crazy stuff like rendering authors' names as "Smith, John" but  
+> editors' names (when there is no author) as "John Smith." Unless I  
 > just haven't figured out how to use it, I think it quite unusable.
 >
-> So: what are the tech-savvy people on this list doing about =20
-> bibliographical management? As medievalists we need software that =20
-> handles edited books (with or without authors' names) gracefully, =20
-> can handle translations, and can help with the complicated =20
-> bibliographical situations we sometimes face in series like CCSL. It =20
-> would be nice if it could produce a two-part bibliography ("primary =20
-> works"/"secondary works"). For my own purposes, it would be nice if =20
-> it ran on both the Mac and Linux, but I'd settle for Mac-only =20
+> So: what are the tech-savvy people on this list doing about  
+> bibliographical management? As medievalists we need software that  
+> handles edited books (with or without authors' names) gracefully,  
+> can handle translations, and can help with the complicated  
+> bibliographical situations we sometimes face in series like CCSL. It  
+> would be nice if it could produce a two-part bibliography ("primary  
+> works"/"secondary works"). For my own purposes, it would be nice if  
+> it ran on both the Mac and Linux, but I'd settle for Mac-only  
 > software if it would just work properly.
 >
 > Peter Baker
@@ -54,7 +62,8 @@ On 28 Nov 2007, at 20:42, Peter Baker wrote:> I'm wondering what bibliographic
 _redacted_(a)uleth.ca
 > dm-l mailing list
 _redacted_(a)uleth.ca
-> http://listserv.uleth.ca/mailman/listinfo/dm-l
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+
 _______________________________________________
 Digital Medievalist Project
 Homepage: http://www.digitalmedievalist.org
@@ -66,12 +75,16 @@ Submit RSS announcement: http://www.digitalmedievalist.org/newitem.cfm
 _redacted_(a)uleth.ca
 dm-l mailing list
 _redacted_(a)uleth.ca
-http://listserv.uleth.ca/mailman/listinfo/dm-l
---===============8839308741705965408==
-Content-Type: text/html
+http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+
+
+--8839308741705965408Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDMuMi8vRU4iPgo8SFRNTD4K
+Content-Disposition: attachment; filenameúttachment.html"
+MIME-Version: 1.0
+
+PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDMuMi8vRU4iPgo8SFRNTD4K
 PEhFQUQ+CjxNRVRBIEhUVFAtRVFVSVY9IkNvbnRlbnQtVHlwZSIgQ09OVEVOVD0idGV4dC9odG1s
 OyBjaGFyc2V0PWlzby04ODU5LTEiPgo8TUVUQSBOQU1FPSJHZW5lcmF0b3IiIENPTlRFTlQ9Ik1T
 IEV4Y2hhbmdlIFNlcnZlciB2ZXJzaW9uIDYuNS43NjUyLjI0Ij4KPFRJVExFPlJFOiBbZG0tbF0g
@@ -168,4 +181,4 @@ PEJSPgpDb250YWN0IGVkaXRvcmlhbCBCb2FyZDogZGlnaXRhbG1lZGlldmFsaXN0QHVsZXRoLmNh
 PEJSPgpkbS1sIG1haWxpbmcgbGlzdDxCUj4KZG0tbEB1bGV0aC5jYTxCUj4KPEEgSFJFRj0iaHR0
 cDovL2xpc3RzZXJ2LnVsZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0tbCI+aHR0cDovL2xpc3Rz
 ZXJ2LnVsZXRoLmNhL21haWxtYW4vbGlzdGluZm8vZG0tbDwvQT48QlI+CjxCUj4KPC9GT05UPgo8
-L1A+Cgo8L0JPRFk+CjwvSFRNTD4=
+L1A+Cgo8L0JPRFk+CjwvSFRNTD4

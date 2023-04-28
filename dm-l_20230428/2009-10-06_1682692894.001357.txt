@@ -1,4 +1,6 @@
-Subject: Re: [dm-l] Mining Medieval Data_redacted_(a)cam.ac.uk> wrote:
+Subject: Re: [dm-l] Mining Medieval Data
+
+_redacted_(a)cam.ac.uk> wrote:
 > Dear all,
 >
 > I have a question about what tools and techniques people are using for data
@@ -10,7 +12,11 @@ Subject: Re: [dm-l] Mining Medieval Data_redacted_(a)cam.ac.uk> wrote:
 > seems to me to raise some important questions about the validity of data
 > mining, but I'm also asking as a designer myself. If I'm producing software
 > for scribal identification or authorship attribution, what can I do (if
-> anything) that will convince you to use and trust my system?Hi Peter,I think the only things one can do to create trust in data-mining
+> anything) that will convince you to use and trust my system?
+
+Hi Peter,
+
+I think the only things one can do to create trust in data-mining
 tools is have a degree of openness and a fair bit of documentation on
 the process.  If in your documentation you spell out exactly how it
 makes an identification, and what the limitations and assumptions of
@@ -27,5 +33,9 @@ of person, what wouldn't make me trust it more would be just
 high-profile journal articles or well-respected luminaries going on
 about how great it was.  (In fact, that would probably make me more
 suspicious and curious as to how it worked underneath...)  Not sure if
-that was the kind of answer you were looking for.-James
---===============8593302451742587272==--
+that was the kind of answer you were looking for.
+
+-James
+
+--8593302451742587272-
+

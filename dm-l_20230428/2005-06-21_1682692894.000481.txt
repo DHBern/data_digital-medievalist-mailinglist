@@ -1,4 +1,6 @@
-Subject: RE: [dm-l] Searching Latin texts and orthographical variantsHi Jim!
+Subject: RE: [dm-l] Searching Latin texts and orthographical variants
+
+Hi Jim!
  
 I don't think the computational linguistics has to get too involved when
 you're dealing with scholastic Latin.  If -nt[vowel]- gets converted to
@@ -12,8 +14,11 @@ relevant bits. If you do it with hashes and you don't have rules like
 this, won't you have to create the association between scientia and
 sciencia (and all other pairs) explicitly? 
  
-Peter
-_________________________________redacted_(a)uleth.ca] On
+Peter
+
+________________________________
+
+_redacted_(a)uleth.ca] On
 Behalf Of James R. Ginther
 	Sent: Thursday, June 16, 2005 12:43 PM
 _redacted_(a)uleth.ca
@@ -64,12 +69,16 @@ has yielded no joy, and so I seek the sage advice of this community.
 _redacted_(a)slu.edu
 	---------------------------------
 	dept: http://theology.slu.edu/
-	research: http://www.grosseteste.com/
---===============3028244363317320479==
-Content-Type: text/html
+	research: http://www.grosseteste.com/
+
+
+
+--3028244363317320479Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMCBUcmFuc2l0aW9uYWwv
+Content-Disposition: attachment; filenameúttachment.html"
+MIME-Version: 1.0
+
+PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMCBUcmFuc2l0aW9uYWwv
 L0VOIj4KPEhUTUw+PEhFQUQ+CjxNRVRBIGh0dHAtZXF1aXY9Q29udGVudC1UeXBlIGNvbnRlbnQ9
 InRleHQvaHRtbDsgY2hhcnNldD11cy1hc2NpaSI+CjxNRVRBIGNvbnRlbnQ9Ik1TSFRNTCA2LjAw
 LjI4MDAuMTUwNSIgbmFtZT1HRU5FUkFUT1I+CjxTVFlMRT48L1NUWUxFPgo8L0hFQUQ+CjxCT0RZ
@@ -157,4 +166,5 @@ YWlsdG86Z2ludGhlakBzbHUuZWR1Ij5naW50aGVqQHNsdS5lZHU8L0E+PEJSPi0tLS0tLS0tLS0t
 LS0tLS0tLS0tLS0tLS0tLS0tLS0tLTxCUj5kZXB0OiAKICA8QSBocmVmPSJodHRwOi8vdGhlb2xv
 Z3kuc2x1LmVkdS8iPmh0dHA6Ly90aGVvbG9neS5zbHUuZWR1LzwvQT48QlI+cmVzZWFyY2g6IAog
 IDxBIAogIGhyZWY9Imh0dHA6Ly93d3cuZ3Jvc3NldGVzdGUuY29tLyI+aHR0cDovL3d3dy5ncm9z
-c2V0ZXN0ZS5jb20vPC9BPjwvRk9OVD48L0RJVj48L0JMT0NLUVVPVEU+PC9CT0RZPjwvSFRNTD4K
+c2V0ZXN0ZS5jb20vPC9BPjwvRk9OVD48L0RJVj48L0JMT0NLUVVPVEU+PC9CT0RZPjwvSFRNTD4K
+

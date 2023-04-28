@@ -1,19 +1,31 @@
-Subject: Re: [dm-l] [Fwd: encoding  maps, graphics with text?]Yes, it's up and running. Nice site too. I'm browsing with Mozilla
+Subject: Re: [dm-l] [Fwd: encoding  maps, graphics with text?]
+
+Yes, it's up and running. Nice site too. I'm browsing with Mozilla
 Firefox 0.7. Site seems to display itself correctly, though the
 javascript that pops up the yellow help tags has some positioning
 problems.
  
 y.s.,
-Joris_redacted_(a)uvic.ca 7/7/04 17:13:46 >>>At 01:34 AM 07/07/2004, you wrote:
+Joris
+
+_redacted_(a)uvic.ca 7/7/04 17:13:46 >>>
+
+At 01:34 AM 07/07/2004, you wrote:
 >Content-Transfer-Encoding: 7bit
 >
 >But alas
->This website does not respond to meIt seems to be there this morning. It needs a modern browser (it's
+>This website does not respond to me
+
+It seems to be there this morning. It needs a modern browser (it's
 XHTML 
 with an XML declaration), but it's not particularly challenging from
 the 
-browser's point of view. Can anyone else see it?Cheers,
-Martin>Peter
+browser's point of view. Can anyone else see it?
+
+Cheers,
+Martin
+
+>Peter
 >
 >
 > > Hi there,
@@ -101,7 +113,9 @@ _redacted_(a)uleth.ca
 >_______________________________________________
 >dm-l mailing list
 _redacted_(a)uleth.ca
->http://listserv.uleth.ca/mailman/listinfo/dm-l______________________________________
+>http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+______________________________________
 Martin Holmes
 University of Victoria Humanities Computing and Media Centre
 _redacted_(a)uvic.ca
@@ -109,16 +123,21 @@ _redacted_(a)mholmes.com
 _redacted_(a)halfbakedsoftware.com
 http://www.mholmes.com
 http://web.uvic.ca/hcmc/
-http://www.halfbakedsoftware.com
+http://www.halfbakedsoftware.com
+
 _______________________________________________
 dm-l mailing list
 _redacted_(a)uleth.ca
-http://listserv.uleth.ca/mailman/listinfo/dm-l
---===============3567740174105719225==
-Content-Type: text/html
+http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+
+
+--3567740174105719225Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PEhUTUw+PEhFQUQ+CjxNRVRBIGh0dHAtZXF1aXY9Q29udGVudC1UeXBlIGNvbnRlbnQ9InRleHQv
+Content-Disposition: attachment; filenameúttachment.html"
+MIME-Version: 1.0
+
+PEhUTUw+PEhFQUQ+CjxNRVRBIGh0dHAtZXF1aXY9Q29udGVudC1UeXBlIGNvbnRlbnQ9InRleHQv
 aHRtbDsgY2hhcnNldD1pc28tODg1OS0xIj4KPE1FVEEgY29udGVudD0iTVNIVE1MIDYuMDAuMjgw
 MC4xNDAwIiBuYW1lPUdFTkVSQVRPUj48L0hFQUQ+CjxCT0RZIHN0eWxlPSJNQVJHSU46IDRweCA0
 cHggMXB4OyBGT05UOiAxMHB0IEFyaWFsOyBDT0xPUjogIzAwMDAwMCI+CjxESVY+WWVzLCBpdCdz
@@ -213,4 +232,5 @@ ZHNvZnR3YXJlLmNvbTwvQT48QlI+PEJSPjxCUj5fX19fX19fX19fX19fX19fX19fX19fX19fX19f
 X19fX19fX19fX19fX19fX19fXzxCUj5kbS1sIG1haWxpbmcgbGlzdDxCUj5kbS1sQHVsZXRoLmNh
 PEJSPjxBIGhyZWY9Imh0dHA6Ly9saXN0c2Vydi51bGV0aC5jYS9tYWlsbWFuL2xpc3RpbmZvL2Rt
 LWwiPmh0dHA6Ly9saXN0c2Vydi51bGV0aC5jYS9tYWlsbWFuL2xpc3RpbmZvL2RtLWw8L0E+PEJS
-PjwvRElWPjwvQk9EWT48L0hUTUw+
+PjwvRElWPjwvQk9EWT48L0hUTUw+
+

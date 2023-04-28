@@ -1,11 +1,18 @@
-Subject: Re: [dm-l] e-sequence - a multimedia editionNeven and others,Last I looked MEI (and MusicXML) could not be used to handle neumes, as these=
- were pitch-based rather than sign-based.The only system for encoding neumes that I know of is Louis Barton's "Neume N=
-otation Project," which is XML based  I don't know if this is ready for prime=
- time yet.  You can find info at the following URL:http://www.scribeserver.com/medieval/'Kate Helsen and others are working on a neume transcription project (neume ca=
-pture from digital images) as well, although I don't know how far along they =
-are on this.  I am working on a similar project that intersects these two, al=
-though progress will depend on me getting release time next year to focus on =
-this.Michael/***************************************
+Subject: Re: [dm-l] e-sequence - a multimedia edition
+
+Neven and others,
+
+Last I looked MEI (and MusicXML) could not be used to handle neumes, as these were pitch-based rather than sign-based.
+
+The only system for encoding neumes that I know of is Louis Barton's "Neume Notation Project," which is XML based  I don't know if this is ready for prime time yet.  You can find info at the following URL:
+
+http://www.scribeserver.com/medieval/'
+
+Kate Helsen and others are working on a neume transcription project (neume capture from digital images) as well, although I don't know how far along they are on this.  I am working on a similar project that intersects these two, although progress will depend on me getting release time next year to focus on this.
+
+Michael
+
+/***************************************
  * Michael L. Norton, Ph.D.
  * Associate Professor
  * Dept. of Computer Science
@@ -15,48 +22,53 @@ this.Michael/***************************************
  * Harrisonburg  VA  23807
  * 540-568-2777
 _redacted_(a)jmu.edu
- **************************************/_redacted_(a)hab.de> wrote:> Dear Neven, dear all,
->=20
-> first of all, thank you for your interest but all these questions are best =
-addressed to the editors (Cc).
->=20
-> (And I haven't got a good answer to your question: What would be the "stand=
-ard" encoding for neumes today? MEI?)
->=20
+ **************************************/
+
+_redacted_(a)hab.de> wrote:
+
+> Dear Neven, dear all,
+> 
+> first of all, thank you for your interest but all these questions are best addressed to the editors (Cc).
+> 
+> (And I haven't got a good answer to your question: What would be the "standard" encoding for neumes today? MEI?)
+> 
 > Best, Torsten
->=20
->=20
-> Am 24.01.2013 17:33, schrieb "Neven Jovanovi=C4=87":
+> 
+> 
+> Am 24.01.2013 17:33, schrieb "Neven Jovanović":
 >> Dear Torsten,
->>=20
+>> 
 >> thank you for directing us towards this very interesting edition.
->>=20
+>> 
 >> Do you know, by any chance, why haven't the neumas been transcribed?
->>=20
+>> 
 >> Best,
->>=20
+>> 
 >> Neven
->>=20
+>> 
 >> Neven Jovanovic
 >> Zagreb, Croatia
->=20
->=20
-> --=20
+> 
+> 
+> -- 
 > Torsten Schassan
 > Digitale Editionen
 > Abteilung Handschriften und Sondersammlungen
 > Herzog August Bibliothek, Postfach 1364, D-38299 Wolfenbuettel
 > Tel.: +49-5331-808-130 (Fax -165), schassan {at} hab.de
->=20
-> Handschriftendatenbank: http://diglib.hab.de/?db=3Dmss
->=20
->=20
+> 
+> Handschriftendatenbank: http://diglib.hab.de/?db=mss
+> 
+> 
 > Digital Medievalist --  http://www.digitalmedievalist.org/
 > Journal: http://www.digitalmedievalist.org/journal/
 > Journal Editors: editors _AT_ digitalmedievalist.org
 > News: http://www.digitalmedievalist.org/news/
 > Wiki: http://www.digitalmedievalist.org/wiki/
 > Twitter: http://twitter.com/digitalmedieval
-> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+> Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca
-> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+
+

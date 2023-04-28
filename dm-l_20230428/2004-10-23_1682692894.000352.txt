@@ -1,13 +1,24 @@
-Subject: Re: [dm-l] Autoinstall for fontsTravis Brown wrote:
+Subject: Re: [dm-l] Autoinstall for fonts
+
+Travis Brown wrote:
 You won't really get an auto-execute on CD
 > insert...there will have to be an explicit command from the user ("A click
-> here to continue") sort of thing, but you can get the ball rolling.This is just what I was thinking: perhaps linking install batch files to 
+> here to continue") sort of thing, but you can get the ball rolling.
+
+This is just what I was thinking: perhaps linking install batch files to 
 a start HTML page. E.g. "This page will install the necessary fonts for 
-this book. Click the appropriate button for your operating system.Anybody with anything like that?-dan
+this book. Click the appropriate button for your operating system.
+
+Anybody with anything like that?
+
+-dan
 > 
 > Also, you might have to consider the licensing of the font if you are
-> distributing it, unless you created it or own the license.That's a separate issue. The font I'd want loaded is Peter Baker's 
-Junicode, which I think is GNU.
+> distributing it, unless you created it or own the license.
+
+That's a separate issue. The font I'd want loaded is Peter Baker's 
+Junicode, which I think is GNU.
+
 > 
 > Travis
 _redacted_(a)lacuna.ca
@@ -88,7 +99,9 @@ _redacted_(a)uleth.ca
 > Project web site: http://www.digitalmedievalist.org/
 > dm-l mailing list
 _redacted_(a)uleth.ca
-> http://listserv.uleth.ca/mailman/listinfo/dm-l-- 
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+-- 
 Daniel Paul O'Donnell, PhD
 Associate Professor of English
 University of Lethbridge
@@ -96,4 +109,7 @@ Lethbridge AB T1K 3M4
 Tel. (403) 329-2377
 Fax. (403) 382-7191
 _redacted_(a)uleth.ca>
-Home Page <http://people.uleth.ca/~daniel.odonnell/>
+Home Page <http://people.uleth.ca/~daniel.odonnell/>
+
+
+

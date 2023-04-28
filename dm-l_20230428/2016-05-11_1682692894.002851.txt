@@ -1,61 +1,312 @@
-Subject: [dm-l] [CfP 2016 DATeCH - Digital Access to Textual Cultural Heritage***Apologies for cross posting***Call for papersPoznan, 6-7 October, 2016The DATeCH international conference brings together researchers and=20
-practitioners looking for innovative approaches for the creation,=20
-transformation and exploitation of historical documents in digital form.
-    Important dates  *    16 May 2016 - Paper submission deadline  * *30 May 2016 - Paper submission deadline*  *    30 June 2016 - Decision notification  *    31 July 2016 - Camera-ready papers due  *    6-7 October 2016 - Conference
-    Target audienceThe conference aims to foster interdisciplinary work and linking=20
-together participants engaged in the following areas:  *    Text digitization and OCR.  *    Digital humanities.  *    Image and document analysis.  *    Digital libraries and library science.  *    Applied computational linguistics.  *    Crowdsourcing.  *    Interfaces and human-computer interaction.
-    TopicsTopics of interest are all those related to the practical and scientific=20
-goals listed above, such as:  *    OCR technology and tools for minority and historical languages.  *    Methods and tools for post-correction of OCR results.  *    Automated quality control for mass OCR data.  *    Innovative access methods for historical texts and corpora.  *    Natural language processing of ancient languages (Latin, Greek).  *    Visualization techniques and interfaces for search and research in
-    digital humanities.  *    Publication and retrieval on e-books and mobile devices.  *    Crowdsourcing techniques for collecting and annotating data in
-    digital humanities.  *    Enrichment of and metadata production for historical texts and corpora.  *    Data created with mobile devi ces.  *    Data presentation and exploration on mobile devices.  *    Ontological and linked data based contextualization of digitized and
-    born digital scholarly data resources.
-    VenueThe conference will take place in the Pozna=C5=84 Supercomputing and=20
-Networking Center (Pozna=C5=84, Poland), in the framework of the Digitisation=
-=20
-Days <http://ddays.digitisation.eu/>(6-7 October, 2016).
-    Programme committeeThe programme committee is chaired by Apostolos Antonacopoulos (Salford=20
-University, UK) and Marco B=C3=BCchler (Georg August University G=C3=B6ttinge=
-n,=20
-Germany) and integrated by:  *    Alicia Forn=C3=A9s, Computer Vision Center, Universitat Aut=C3=B2noma de
-    Barcelona, Spain  *    Klaus Schulz, Ludwig-Maximilians Universit=C3=A4t M=C3=BCnchen, Germany  *    Aly Conteh,  LDS Church History Library, Salt Lake City, USA  *    Basilis Gatos, Demokritos National Center for Scientific Research,
-    Greece  *    Claire Clivaz, Swiss Institute of Bioinformatics, Lausanne, Switzerland  *    Clemens Neudecker, Staatsbibliothek zu Berlin - Preu=C3=9Fischer
-    Kulturbesit z, Germany  *    Dirk Roorda, Data Archiving and Networked Services, Amsterdam, The
-    Netherlands  *    Elena Gonzalez-Blanco Garc=C3=ADa, UNED, Madrid, Spain  *    Enrique Vidal, Universitat Polit=C3=A8cnica de Val=C3=A8ncia, Spain  *    Eric Lease Morgan, University of Notre Dame, USA  *    Gimena del Rio Riande, CONICET, Argentina  *    G=C3=BCnter M=C3=BChlberger, Universit=C3=A4t Innsbruck, Austria  *    Jim Salmons, FactMiners, USA  *    Joan Andreu S=C3=A1nchez, Universitat Polit=C3=A8cnica de Val=C3=A8ncia, =
-Spain# =09Kristoffer L. Nielbo, Interacting Minds Centre, School of Culture and=20
-Society, Aarhus University, Denmark#Laura Mandell, Texas A&M University, USA#Laurent Romary, Inria & DARIAH, France and Germany#Lou Burnard, Lou Burnard consulting, UK#Mike Kestemont, University of Antwerp, Belgium#Neil Fitzgerald, The British Library, UK#Rafael C. Carrasco (DLSI & Impact Centre of Competence, Universidad de=20
-Alicante), Spain#Simone Marinai, Universit=C3=A0 degli Studi di Firenze, Italy#Stefan Gradmann, KU Leuven, Belgium#Stefan Pletschacher, University of Salford, UK#Stoyan Mihov, Bulgarian Academy of Sciences, Bulgaria#Thierry Paquet, Universit=C3=A9 de Rouen, France#Tomasz Parko=C5=82a, Pozna=C5=84 Supercomputing and Networking Center, Poland
-    SubmissionThe following criteria will be applied to all papers submitted to DATeCH=20
-2016 (http://ddays.digitisation.eu/datech-2016/submissions/):  *    Authors are invited to submit full papers of up to 6 pages in length.  *    Only original material will be accepted.  *    All submissions will be peer reviewed and accepted papers will be
+Subject: [dm-l] [CfP 2016 DATeCH - Digital Access to Textual Cultural Heritage
+
+***Apologies for cross posting***
+
+Call for papers
+
+Poznan, 6-7 October, 2016
+
+The DATeCH international conference brings together researchers and 
+practitioners looking for innovative approaches for the creation, 
+transformation and exploitation of historical documents in digital form.
+
+    Important dates
+
+  *
+
+    16 May 2016 - Paper submission deadline
+
+  * *30 May 2016 - Paper submission deadline*
+
+  *
+
+    30 June 2016 - Decision notification
+
+  *
+
+    31 July 2016 - Camera-ready papers due
+
+  *
+
+    6-7 October 2016 - Conference
+
+    Target audience
+
+The conference aims to foster interdisciplinary work and linking 
+together participants engaged in the following areas:
+
+  *
+
+    Text digitization and OCR.
+
+  *
+
+    Digital humanities.
+
+  *
+
+    Image and document analysis.
+
+  *
+
+    Digital libraries and library science.
+
+  *
+
+    Applied computational linguistics.
+
+  *
+
+    Crowdsourcing.
+
+  *
+
+    Interfaces and human-computer interaction.
+
+    Topics
+
+Topics of interest are all those related to the practical and scientific 
+goals listed above, such as:
+
+  *
+
+    OCR technology and tools for minority and historical languages.
+
+  *
+
+    Methods and tools for post-correction of OCR results.
+
+  *
+
+    Automated quality control for mass OCR data.
+
+  *
+
+    Innovative access methods for historical texts and corpora.
+
+  *
+
+    Natural language processing of ancient languages (Latin, Greek).
+
+  *
+
+    Visualization techniques and interfaces for search and research in
+    digital humanities.
+
+  *
+
+    Publication and retrieval on e-books and mobile devices.
+
+  *
+
+    Crowdsourcing techniques for collecting and annotating data in
+    digital humanities.
+
+  *
+
+    Enrichment of and metadata production for historical texts and corpora.
+
+  *
+
+    Data created with mobile devi ces.
+
+  *
+
+    Data presentation and exploration on mobile devices.
+
+  *
+
+    Ontological and linked data based contextualization of digitized and
+    born digital scholarly data resources.
+
+    Venue
+
+The conference will take place in the Poznań Supercomputing and 
+Networking Center (Poznań, Poland), in the framework of the Digitisation 
+Days <http://ddays.digitisation.eu/>(6-7 October, 2016).
+
+    Programme committee
+
+The programme committee is chaired by Apostolos Antonacopoulos (Salford 
+University, UK) and Marco Büchler (Georg August University Göttingen, 
+Germany) and integrated by:
+
+  *
+
+    Alicia Fornés, Computer Vision Center, Universitat Autònoma de
+    Barcelona, Spain
+
+  *
+
+    Klaus Schulz, Ludwig-Maximilians Universität München, Germany
+
+  *
+
+    Aly Conteh,  LDS Church History Library, Salt Lake City, USA
+
+  *
+
+    Basilis Gatos, Demokritos National Center for Scientific Research,
+    Greece
+
+  *
+
+    Claire Clivaz, Swiss Institute of Bioinformatics, Lausanne, Switzerland
+
+  *
+
+    Clemens Neudecker, Staatsbibliothek zu Berlin - Preußischer
+    Kulturbesit z, Germany
+
+  *
+
+    Dirk Roorda, Data Archiving and Networked Services, Amsterdam, The
+    Netherlands
+
+  *
+
+    Elena Gonzalez-Blanco García, UNED, Madrid, Spain
+
+  *
+
+    Enrique Vidal, Universitat Politècnica de València, Spain
+
+  *
+
+    Eric Lease Morgan, University of Notre Dame, USA
+
+  *
+
+    Gimena del Rio Riande, CONICET, Argentina
+
+  *
+
+    Günter Mühlberger, Universität Innsbruck, Austria
+
+  *
+
+    Jim Salmons, FactMiners, USA
+
+  *
+
+    Joan Andreu Sánchez, Universitat Politècnica de València, Spain
+
+# 	
+
+Kristoffer L. Nielbo, Interacting Minds Centre, School of Culture and 
+Society, Aarhus University, Denmark
+
+#
+
+Laura Mandell, Texas A&M University, USA
+
+#
+
+Laurent Romary, Inria & DARIAH, France and Germany
+
+#
+
+Lou Burnard, Lou Burnard consulting, UK
+
+#
+
+Mike Kestemont, University of Antwerp, Belgium
+
+#
+
+Neil Fitzgerald, The British Library, UK
+
+#
+
+Rafael C. Carrasco (DLSI & Impact Centre of Competence, Universidad de 
+Alicante), Spain
+
+#
+
+Simone Marinai, Università degli Studi di Firenze, Italy
+
+#
+
+Stefan Gradmann, KU Leuven, Belgium
+
+#
+
+Stefan Pletschacher, University of Salford, UK
+
+#
+
+Stoyan Mihov, Bulgarian Academy of Sciences, Bulgaria
+
+#
+
+Thierry Paquet, Université de Rouen, France
+
+#
+
+Tomasz Parkoła, Poznań Supercomputing and Networking Center, Poland
+
+    Submission
+
+The following criteria will be applied to all papers submitted to DATeCH 
+2016 (http://ddays.digitisation.eu/datech-2016/submissions/):
+
+  *
+
+    Authors are invited to submit full papers of up to 6 pages in length.
+
+  *
+
+    Only original material will be accepted.
+
+  *
+
+    All submissions will be peer reviewed and accepted papers will be
     published in the conference proceedings, indexed in a major digital
-    library.  *    The authors of the best contributions will be invited to prepare an
+    library.
+
+  *
+
+    The authors of the best contributions will be invited to prepare an
     extended version for a collective publication of selected papers in
-    an indexed journal (an additional reviewing process will be applied).
-    ContactFor additional information, please visit=20
-http://ddays.digitisation.eu/datech-2016/or send an email to=20
-_redacted_(a)digitisation.eu>.
-=09--=20
-Marco B=C3=9CCHLER
-G=C3=B6ttingen Centre for Digital Humanities (GCDH)
+    an indexed journal (an additional reviewing process will be applied).
+
+    Contact
+
+For additional information, please visit 
+http://ddays.digitisation.eu/datech-2016/or send an email to 
+_redacted_(a)digitisation.eu>.
+
+	
+
+-- 
+Marco BÜCHLER
+Göttingen Centre for Digital Humanities (GCDH)
 Chair for Telematics
 Institute for Computer Science
-Georg-August-Universit=C3=A4t G=C3=B6ttingen
+Georg-August-Universität Göttingen
 Papendiek 16 (Heynehaus)
-37073 G=C3=B6ttingen_redacted_(a)gcdh.de
+37073 Göttingen
+
+_redacted_(a)gcdh.de
 Profil   : http://www.gcdh.de/en/people/team/marco-buechler/
-Web      : http://www.gcdh.de/ (GCDH G=C3=B6ttingen Centre for Digital Humani=
-ties)
+Web      : http://www.gcdh.de/ (GCDH Göttingen Centre for Digital Humanities)
 Web      : http://etrap.gcdh.de/ (eTRAP Research Group)
-Web      : http://www.uni-goettingen.de/en/112072.html (Telematics Group at I=
-nstitute for Computer Science)
-LinkedIn : http://www.linkedin.com/profile/view?id=3D15098543&trk=3Dtab_pro
-Twitter  : https://twitter.com/mabuechler
-Leadership is a choice. It is not a formal position, and does not come with a=
- title. (Mark McGregor)
---===============7057945553510896337==
-Content-Type: text/html
+Web      : http://www.uni-goettingen.de/en/112072.html (Telematics Group at Institute for Computer Science)
+LinkedIn : http://www.linkedin.com/profile/view?id=15098543&trk=tab_pro
+Twitter  : https://twitter.com/mabuechler
+
+
+
+Leadership is a choice. It is not a formal position, and does not come with a title. (Mark McGregor)
+
+
+
+--7057945553510896337Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWw+CiAgPGhlYWQ+CgogICAgPG1ldGEgaHR0cC1lcXVpdj0iY29udGVudC10eXBlIiBjb250
+Content-Disposition: attachment; filename�ttachment.html"
+MIME-Version: 1.0
+
+PGh0bWw+CiAgPGhlYWQ+CgogICAgPG1ldGEgaHR0cC1lcXVpdj0iY29udGVudC10eXBlIiBjb250
 ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9dXRmLTgiPgogIDwvaGVhZD4KICA8Ym9keSBiZ2NvbG9y
 PSIjRkZGRkZGIiB0ZXh0PSIjMDAwMDAwIj4KICAgIDxkaXYgc3R5bGU9InRleHQtYWxpZ246Y2Vu
 dGVyIj4qKipBcG9sb2dpZXMgZm9yIGNyb3NzIHBvc3RpbmcqKio8L2Rpdj4KICAgIDxkaXY+PGJy
@@ -673,4 +924,4 @@ aWV3P2lkPTE1MDk4NTQzJmFtcDt0cms9dGFiX3BybzwvYT4KVHdpdHRlciAgOiA8YSBjbGFzcz0i
 bW96LXR4dC1saW5rLWZyZWV0ZXh0IiBocmVmPSJodHRwczovL3R3aXR0ZXIuY29tL21hYnVlY2hs
 ZXIiPmh0dHBzOi8vdHdpdHRlci5jb20vbWFidWVjaGxlcjwvYT4KCgoKCkxlYWRlcnNoaXAgaXMg
 YSBjaG9pY2UuIEl0IGlzIG5vdCBhIGZvcm1hbCBwb3NpdGlvbiwgYW5kIGRvZXMgbm90IGNvbWUg
-d2l0aCBhIHRpdGxlLiAoTWFyayBNY0dyZWdvcikKPC9wcmU+CiAgPC9ib2R5Pgo8L2h0bWw+Cg==
+d2l0aCBhIHRpdGxlLiAoTWFyayBNY0dyZWdvcikKPC9wcmU+CiAgPC9ib2R5Pgo8L2h0bWw+Cg

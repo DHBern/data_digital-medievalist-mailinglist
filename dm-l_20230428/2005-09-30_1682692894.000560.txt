@@ -1,5 +1,8 @@
-Subject: [dm-l] Font editors for LinuxI'm passing on a question I read about on Scribus-L, a list server
-devoted to a linux desktop publishing program:
+Subject: [dm-l] Font editors for Linux
+
+I'm passing on a question I read about on Scribus-L, a list server
+devoted to a linux desktop publishing program:
+
 > Are there any Linux font editors?
 > 
 > I may need something to make a font. A serious font for linguistics 
@@ -8,7 +11,9 @@ devoted to a linux desktop publishing program:
 > used for publishing books).
 > 
 > Fontlab seems to be the reigning monarch in the Win/Mac world. 
-> What is the best font editor currently available in the Linux world?-dan
+> What is the best font editor currently available in the Linux world?
+
+-dan
 -- 
 Daniel Paul O'Donnell
 Director, Digital Medievalist Project
@@ -16,7 +21,13 @@ Director, Digital Medievalist Project
 Associate Professor of English
 University of Lethbridge
 Lethbridge AB T1K 3M4
-CanadaVox: +1 403 329-2377
+Canada
+
+Vox: +1 403 329-2377
 Fax: +1 403 382-7191
-Homepage: http://people.uleth.ca/~daniel.odonnell/
---===============0937966148723249156==--
+Homepage: http://people.uleth.ca/~daniel.odonnell/
+
+
+
+--0937966148723249156-
+

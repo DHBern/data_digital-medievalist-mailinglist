@@ -1,4 +1,8 @@
-Subject: Re: [dm-l] TEI/XML manuscript markup initiatives?Dear colleagues,although nothing entirely new, I want to mention that I have been 
+Subject: Re: [dm-l] TEI/XML manuscript markup initiatives?
+
+Dear colleagues,
+
+although nothing entirely new, I want to mention that I have been 
 working on the adaptation, customisation and application of TEI-P5 on 
 the German cataloguing practice. This results in a (XML) schema slighly 
 different than the TEI proposal. The use of TEI-P5 manuscript module 
@@ -7,13 +11,29 @@ available only in German.) Additionally, based on the results of work
 done in the project I'm representing, the exchange of data will be 
 possible between the TEI-P5 format and the format of the database 
 Manuscripta Mediaevalia, where the results of German cataloguing 
-activities are assembled.I will present the project and its results both in Kalamazoo and Leeds.For materials consult the projects homepage 
-http://www.hab.de/forschung/projekte/master-e.htm.Best, Torsten-- 
+activities are assembled.
+
+I will present the project and its results both in Kalamazoo and Leeds.
+
+For materials consult the projects homepage 
+http://www.hab.de/forschung/projekte/master-e.htm.
+
+Best, Torsten
+
+-- 
 Torsten Schassan
 Projekt Handschriftendatenbank/MASTER
     Herzog August Bibliothek, Postfach 1364, D-38299 Wolfenbuettel
     Tel.: +49-5331-808-117, schassan {at} hab.de
-    http://www.hab.de/forschung/projekte/master.htmProjekt CESG (Codices Electronici Sangallenses)
-    http://www.cesg.unifr.chPrivat:
-Dr.-Heinrich-Jasper-Str. 3, D-38304 Wolfenbuettel, +49-5331-905926
---===============1489556186200669742==--
+    http://www.hab.de/forschung/projekte/master.htm
+
+Projekt CESG (Codices Electronici Sangallenses)
+    http://www.cesg.unifr.ch
+
+Privat:
+Dr.-Heinrich-Jasper-Str. 3, D-38304 Wolfenbuettel, +49-5331-905926
+
+
+
+--1489556186200669742-
+

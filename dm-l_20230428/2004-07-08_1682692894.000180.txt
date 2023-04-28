@@ -1,90 +1,96 @@
-Subject: Re: [dm-l] [Fwd: encoding  maps, graphics with text?]On Thu, 8 Jul 2004, Peter Robinson wrote:> Sorry, but this site still does not work for me.  It may be that a firewall
+Subject: Re: [dm-l] [Fwd: encoding  maps, graphics with text?]
+
+On Thu, 8 Jul 2004, Peter Robinson wrote:
+
+> Sorry, but this site still does not work for me.  It may be that a firewall
 > at the server end is blocking access to port 8080 except for authorized
 > machines and users.
-> PeterGiven that I can get to it absolutely fine as well (in MSIE, Firefox0.8,=20
-Firefox0.9.1, Opera, and lynx) from machines both inside and outside=20
-the oxford domain, I don't see how this can be.  Unless they were very=20
-cunning and somehow knew to authorise my adsl connection and the other=20
+> Peter
+
+Given that I can get to it absolutely fine as well (in MSIE, Firefox0.8, 
+Firefox0.9.1, Opera, and lynx) from machines both inside and outside 
+the oxford domain, I don't see how this can be.  Unless they were very 
+cunning and somehow knew to authorise my adsl connection and the other 
 accounts I've tried from(Oxford, My Home ADSL, leeds.ac.uk, uea.ac.uk,
 uwaterloo.ca, etc.)  Maybe they are just blocking *.dmu.ac.uk? ;-)
 But seriously, what error does it give? Or doesn't it find the site at
-all?-James>=20
->=20
+all?
+
+-James
+
+> 
+> 
 > > Hi there,
-> >=20
+> > 
 > > At 08:26 AM 07/07/2004, you wrote:
-> >> Yes, it's up and running. Nice site too. I'm browsing with Mozilla Firef=
-ox
+> >> Yes, it's up and running. Nice site too. I'm browsing with Mozilla Firefox
 > >> 0.7. Site seems to display itself correctly, though the javascript that
 > >> pops up the yellow help tags has some positioning problems.
-> >=20
-> > I'm glad someone can see it! Our own researcher is having trouble accessi=
-ng
+> > 
+> > I'm glad someone can see it! Our own researcher is having trouble accessing
 > > it from Paris (and is doing a presentation on it soon...)
-> >=20
-> > The yellow popups work fine for me in Firefox 0.9.1 -- I wonder if it's t=
-he
+> > 
+> > The yellow popups work fine for me in Firefox 0.9.1 -- I wonder if it's the
 > > older Firefox that's problematic? What problems do you see?
-> >=20
+> > 
 > > Cheers,
 > > Martin
-> >=20
-> >=20
+> > 
+> > 
 _redacted_(a)uvic.ca 7/7/04 17:13:46 >>>
 > >> At 01:34 AM 07/07/2004, you wrote:
 > >>> Content-Transfer-Encoding: 7bit
-> >>>=20
+> >>> 
 > >>> But alas
 > >>> This website does not respond to me
-> >>=20
+> >> 
 > >> It seems to be there this morning. It needs a modern browser (it's XHTML
 > >> with an XML declaration), but it's not particularly challenging from the
 > >> browser's point of view. Can anyone else see it?
-> >>=20
+> >> 
 > >> Cheers,
 > >> Martin
-> >>=20
+> >> 
 > >>> Peter
-> >>>=20
-> >>>=20
+> >>> 
+> >>> 
 > >>>> Hi there,
-> >>>>=20
+> >>>> 
 > >>>> Our Graves Diary project includes enclosures such as letters, telegrams
 > >>>> etc. You can see the first few months of the markup (in TEI) accessible
 > >>>> through an eXist/Cocoon interface here:
-> >>>>=20
-> >>>>=20
-> >> <<http://lingo.dcf.uvic.ca:8080/exist/graves/index.xml>http://lingo.dcf.=
-uvic.
+> >>>> 
+> >>>> 
+> >> <<http://lingo.dcf.uvic.ca:8080/exist/graves/index.xml>http://lingo.dcf.uvic.
 > >> ca:8080/exist/graves/index.xml>
-> >>>>=20
+> >>>> 
 > >>>> Cheers,
 > >>>> Martin
-> >>>>=20
+> >>>> 
 > >>>> At 01:21 PM 06/07/2004, you wrote:
 > >>>>> Content-Transfer-Encoding: 7bit
-> >>>>>=20
+> >>>>> 
 > >>>>> I believe somebody here was discussing this.
 > >>>>> -dan
-> >>>>>=20
+> >>>>> 
 > >>>>> -------- Original Message --------
 > >>>>> Subject:        encoding maps, graphics with text?
 > >>>>> Date:   Tue, 6 Jul 2004 16:15:23 -0400
 _redacted_(a)BROWN.EDU>
 _redacted_(a)BROWN.EDU>
 _redacted_(a)LISTSERV.BROWN.EDU
-> >>>>>=20
-> >>>>>=20
-> >>>>>=20
+> >>>>> 
+> >>>>> 
+> >>>>> 
 > >>>>> Does anyone know of any projects which are using the TEI to encode
 > >>>>> materials that have substantial graphical content as well as text,
 > >>>>> e.g. maps, diagrams, that sort of thing? I'm interested in ways of
 > >>>>> making explicit linkages between specific locations in a digitized
 > >>>>> image and specific chunks of text in the encoded transcription.
-> >>>>>=20
+> >>>>> 
 > >>>>> Many thanks! Julia
-> >>>>>=20
-> >>>>>=20
+> >>>>> 
+> >>>>> 
 > >>>>> --
 > >>>>> Daniel Paul O'Donnell, PhD
 > >>>>> Associate Professor of English
@@ -93,23 +99,21 @@ _redacted_(a)LISTSERV.BROWN.EDU
 > >>>>> Tel. (403) 329-2377
 > >>>>> Fax. (403) 382-7191
 _redacted_(a)uleth.ca>
-> >>>>> Home Page=20
-> >> <<http://people.uleth.ca/~daniel.odonnell/>http://people.uleth.ca/~danie=
-l.odo
+> >>>>> Home Page 
+> >> <<http://people.uleth.ca/~daniel.odonnell/>http://people.uleth.ca/~daniel.odo
 > >> nnell/>
-> >>>>>=20
-> >>>>>=20
-> >>>>>=20
-> >>>>>=20
+> >>>>> 
+> >>>>> 
+> >>>>> 
+> >>>>> 
 > >>>>> _______________________________________________
 > >>>>> dm-l mailing list
 _redacted_(a)uleth.ca
-> >>>>>=20
-> >> <http://listserv.uleth.ca/mailman/listinfo/dm-l>http://listserv.uleth.ca=
-/mail
+> >>>>> 
+> >> <http://listserv.uleth.ca/mailman/listinfo/dm-l>http://listserv.uleth.ca/mail
 > >> man/listinfo/dm-l
-> >>>>>=20
-> >>>>=20
+> >>>>> 
+> >>>> 
 > >>>> ______________________________________
 > >>>> Martin Holmes
 > >>>> University of Victoria Humanities Computing and Media Centre
@@ -119,30 +123,28 @@ _redacted_(a)halfbakedsoftware.com
 > >>>> <http://www.mholmes.com>http://www.mholmes.com
 > >>>> http://web.uvic.ca/hcmc/
 > >>>> <http://www.halfbakedsoftware.com>http://www.halfbakedsoftware.com
-> >>>>=20
-> >>>>=20
+> >>>> 
+> >>>> 
 > >>>> _______________________________________________
 > >>>> dm-l mailing list
 _redacted_(a)uleth.ca
-> >>>>=20
-> >> <http://listserv.uleth.ca/mailman/listinfo/dm-l>http://listserv.uleth.ca=
-/mail
+> >>>> 
+> >> <http://listserv.uleth.ca/mailman/listinfo/dm-l>http://listserv.uleth.ca/mail
 > >> man/listinfo/dm-l
-> >>>>=20
-> >>>=20
+> >>>> 
+> >>> 
 > >>> --
 > >>> Centre for Technology and the Arts,
 > >> <http://www.cta.dmu.ac.uk>www.cta.dmu.ac.uk
 > >>> The Canterbury Tales Project,
 > >> <http://www.cta.dmu.ac.uk/projects/ctp>www.cta.dmu.ac.uk/projects/ctp
-> >>>=20
-> >>>=20
+> >>> 
+> >>> 
 > >>> _______________________________________________
 _redacted_(a)uleth.ca
-> >>> <http://listserv.uleth.ca/mailman/listinfo/dm-l>http://listserv.uleth.c=
-a/
+> >>> <http://listserv.uleth.ca/mailman/listinfo/dm-l>http://listserv.uleth.ca/
 > >> mailman/listinfo/dm-l
-> >>=20
+> >> 
 > >> ______________________________________
 > >> Martin Holmes
 > >> University of Victoria Humanities Computing and Media Centre
@@ -152,22 +154,21 @@ _redacted_(a)halfbakedsoftware.com
 > >> <http://www.mholmes.com>http://www.mholmes.com
 > >> http://web.uvic.ca/hcmc/
 > >> <http://www.halfbakedsoftware.com>http://www.halfbakedsoftware.com
-> >>=20
-> >>=20
+> >> 
+> >> 
 > >> _______________________________________________
 > >> dm-l mailing list
 _redacted_(a)uleth.ca
-> >> <http://listserv.uleth.ca/mailman/listinfo/dm-l>http://listserv.uleth.ca=
-/mail
+> >> <http://listserv.uleth.ca/mailman/listinfo/dm-l>http://listserv.uleth.ca/mail
 > >> man/listinfo/dm-l
 > >> Content-Transfer-Encoding: 7bit
 > >> Content-Disposition: inline
-> >>=20
+> >> 
 > >> _______________________________________________
 > >> dm-l mailing list
 _redacted_(a)uleth.ca
 > >> http://listserv.uleth.ca/mailman/listinfo/dm-l
-> >=20
+> > 
 > > ______________________________________
 > > Martin Holmes
 > > University of Victoria Humanities Computing and Media Centre
@@ -177,15 +178,19 @@ _redacted_(a)halfbakedsoftware.com
 > > http://www.mholmes.com
 > > http://web.uvic.ca/hcmc/
 > > http://www.halfbakedsoftware.com
-> >=20
-> >=20
+> > 
+> > 
 > > _______________________________________________
 > > dm-l mailing list
 _redacted_(a)uleth.ca
 > > http://listserv.uleth.ca/mailman/listinfo/dm-l
-> >=20
->=20
->=20---
+> > 
+> 
+> 
+
+---
 Dr James Cummings, Oxford Text Archive, University of Oxford
-James dot Cummings at ota dot ahds dot ac dot uk=20
---===============0339794009001150056==--
+James dot Cummings at ota dot ahds dot ac dot uk 
+
+--0339794009001150056-
+

@@ -1,40 +1,54 @@
-Subject: [dm-l] DigiPal (Digital Resource and Database of Palaeography)Dear all,With great delight, the DigiPal team at the Department of Digital Humanities =
-(King's College London)=20
-announce the launch of the new DigiPal website at http://digipal.eu=20For those of you who haven't been following our progress, DigiPal is a web-ba=
-sed resource for the=20
-delivery of palaeographical content. Although our test case is eleventh-centu=
-ry Anglo-Saxon vernacular=20
-script, the underlying DigiPal framework has been designed to work with multi=
-ple periods and languages,
-and we already have Scandinavian and Hebrew projects using our tools, with th=
-e intention to extend the=20
-framework to further materials, including cuneiform.At present, there are c. 300 high quality images available on our site and we=
-'ve annotated over 12,000=20
-individual letters.=20Oh, and thanks to funding from the ERC (EU FP7), everything is available for =
-free ;-)To get you started, here are a couple of serving suggestions:A) For f. 29v of Cambridge, Corpus Christi College 173, visit: http://www.dig=
-ipal.eu/digipal/page/110/   Things you might like to try:   1) Turn annotations On/Off
+Subject: [dm-l] DigiPal (Digital Resource and Database of Palaeography)
+
+Dear all,
+
+With great delight, the DigiPal team at the Department of Digital Humanities (King's College London) 
+announce the launch of the new DigiPal website at http://digipal.eu 
+
+For those of you who haven't been following our progress, DigiPal is a web-based resource for the 
+delivery of palaeographical content. Although our test case is eleventh-century Anglo-Saxon vernacular 
+script, the underlying DigiPal framework has been designed to work with multiple periods and languages,
+and we already have Scandinavian and Hebrew projects using our tools, with the intention to extend the 
+framework to further materials, including cuneiform.
+
+At present, there are c. 300 high quality images available on our site and we've annotated over 12,000 
+individual letters. 
+
+Oh, and thanks to funding from the ERC (EU FP7), everything is available for free ;-)
+
+To get you started, here are a couple of serving suggestions:
+
+A) For f. 29v of Cambridge, Corpus Christi College 173, visit: http://www.digipal.eu/digipal/page/110/
+
+   Things you might like to try:
+
+   1) Turn annotations On/Off
    2) Click on a highlighted letter to see our description
-   3) Click on "Filter annotations" to highlight a particular letter, or seri=
-es of letters, that we have annotated
-   4) Click on the "Annotations by allograph" tab. If you click on an allogra=
-ph, it will take you back to the ms=20
+   3) Click on "Filter annotations" to highlight a particular letter, or series of letters, that we have annotated
+   4) Click on the "Annotations by allograph" tab. If you click on an allograph, it will take you back to the ms 
         context, with that letter highlighted
-   5) Click on the "This record has 19 images" to see other folios from this =
-ms.NB: The metadata is very basic at the moment. Eventually, there will be all s=
-orts of information, including=20
-        Ker, Scragg, Gneuss, Sawyer, etc. numbers. A summary of the content o=
-f the manuscript. Information=20
-        aggregated from other projects who have generously shared their data,=
- e.g.=20
-       "English Manuscripts 1060 to 1220": http://www.le.ac.uk/english/em1060=
-to1220/mss/EM.CCCC.173.htmB) To see all the manuscripts from Cambridge, Corpus Christi College currentl=
-y in the DigiPal database, visit:    http://www.digipal.eu/digipal/page/?town_or_city=3D&repository=3DCorpus+C=
-hristi+College&date=3DNB: Click on the "Images" button on the right to see thumbnail images.With a big thank you to everyone who has helped us to get this far! There's c=
-. 18 months of the project left=20
-and *much* more to come still. So, please get in touch with feedback and enco=
-uragement ;-)Have fun, Stewart
---=20
+   5) Click on the "This record has 19 images" to see other folios from this ms.
+
+NB: The metadata is very basic at the moment. Eventually, there will be all sorts of information, including 
+        Ker, Scragg, Gneuss, Sawyer, etc. numbers. A summary of the content of the manuscript. Information 
+        aggregated from other projects who have generously shared their data, e.g. 
+       "English Manuscripts 1060 to 1220": http://www.le.ac.uk/english/em1060to1220/mss/EM.CCCC.173.htm
+
+B) To see all the manuscripts from Cambridge, Corpus Christi College currently in the DigiPal database, visit:
+
+    http://www.digipal.eu/digipal/page/?town_or_city=&repository=Corpus+Christi+College&date=
+
+NB: Click on the "Images" button on the right to see thumbnail images.
+
+With a big thank you to everyone who has helped us to get this far! There's c. 18 months of the project left 
+and *much* more to come still. So, please get in touch with feedback and encouragement ;-)
+
+Have fun, Stewart
+-- 
 Dr Stewart J Brookes
 Research Associate
 Department of Digital Humanities
-King's College London
+King's College London
+
+
+

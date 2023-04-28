@@ -1,31 +1,36 @@
-Subject: [dm-l] ****SPAM**** A digital survey of early medieval manuscriptsDear DM community,We at the Innovating Knowledge project<https://innovatingknowledge.nl/> (Huyg=
-ens Institute, Amsterdam) have just released an updated version (v2.3.1) of o=
-ur database of early medieval manuscripts transmitting the Etymologiae of Isi=
-dore of Seville. In April last year, we presented a beta version containing 4=
-61 manuscripts - now we can update this number to 492 manuscripts (and counti=
-ng!). We hope that we will be able to beat the magic boundary of 500 codices =
-soon.The database is accessible at: https://db.innovatingknowledge.nl/.You can read more about the criteria for the inclusions of manuscripts, datab=
-ase's sources, functionality and plans at: https://innovatingknowledge.nl/?pa=
-ge_id=3D33.We are particularly glad that most of the included manuscripts (375 to be mor=
-e precise) have been digitized. The database has an integrated Mirador viewer=
- that allows you to access, compare and work with approximately 300 manuscrip=
-ts with IIIF manifests directly via its interface (just click on the IIIF log=
-o under the manuscript image). We hope that we will be able to add more digit=
-ized manuscripts and manuscripts with IIIF manifests in the future to make th=
-is database a digital manuscript library as well.For those who may be interested in reusing the data collected by the project,=
- we are also releasing the complete datasheet underlying the database at our =
-project's outputs page: https://innovatingknowledge.nl/?page_id=3D40.We hope you will find this resource useful for your research and an inspirati=
-on for your own digital projects.We are still in a short grace period, so if you note particularly nasty bugs =
-(some of which we are aware of and currently fixing, like incorrect display o=
-f & in manuscript shelfmarks), errors, typos, or you think information could =
-be added (such as to recent publications of yours on one or more of the featu=
-red manuscripts), we will be glad to hear from you.Best wishes,Evina
+Subject: [dm-l] ****SPAM**** A digital survey of early medieval manuscripts
+
+Dear DM community,
+
+We at the Innovating Knowledge project<https://innovatingknowledge.nl/> (Huygens Institute, Amsterdam) have just released an updated version (v2.3.1) of our database of early medieval manuscripts transmitting the Etymologiae of Isidore of Seville. In April last year, we presented a beta version containing 461 manuscripts - now we can update this number to 492 manuscripts (and counting!). We hope that we will be able to beat the magic boundary of 500 codices soon.
+
+The database is accessible at: https://db.innovatingknowledge.nl/.
+
+You can read more about the criteria for the inclusions of manuscripts, database's sources, functionality and plans at: https://innovatingknowledge.nl/?page_id=33.
+
+We are particularly glad that most of the included manuscripts (375 to be more precise) have been digitized. The database has an integrated Mirador viewer that allows you to access, compare and work with approximately 300 manuscripts with IIIF manifests directly via its interface (just click on the IIIF logo under the manuscript image). We hope that we will be able to add more digitized manuscripts and manuscripts with IIIF manifests in the future to make this database a digital manuscript library as well.
+
+For those who may be interested in reusing the data collected by the project, we are also releasing the complete datasheet underlying the database at our project's outputs page: https://innovatingknowledge.nl/?page_id=40.
+
+We hope you will find this resource useful for your research and an inspiration for your own digital projects.
+
+We are still in a short grace period, so if you note particularly nasty bugs (some of which we are aware of and currently fixing, like incorrect display of & in manuscript shelfmarks), errors, typos, or you think information could be added (such as to recent publications of yours on one or more of the featured manuscripts), we will be glad to hear from you.
+
+Best wishes,
+
+Evina
 --
 Evina Steinova
 https://homomodernus.net/
-https://evinasteinova.academia.edu/Postdoctoral Researcher
+https://evinasteinova.academia.edu/
+
+Postdoctoral Researcher
 NWO VENI project Innovating Knowledge<http://innovatingknowledge.nl/>
-Huygens Institute, Dutch Royal Academy of Arts and Sciences, AmsterdamPGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
+Huygens Institute, Dutch Royal Academy of Arts and Sciences, Amsterdam
+
+
+
+PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
 eHQvaHRtbDsgY2hhcnNldD11dGYtOCI+CjwvaGVhZD4KPGJvZHk+CjxkaXYgc3R5bGU9ImJvcmRl
 cjpzb2xpZCAjNjQ2NDY0IDEuMHB0O3BhZGRpbmc6Mi4wcHQgMi4wcHQgMi4wcHQgMi4wcHQ7YmFj
 a2dyb3VuZDojRkZFQjlDIj4KPHAgY2xhc3M9Ik1zb05vcm1hbCIgc3R5bGU9ImxpbmUtaGVpZ2h0
@@ -90,4 +95,4 @@ cmNoZXI8YnI+CjwvZGl2Pgo8ZGl2Pk5XTyBWRU5JIHByb2plY3QmbmJzcDs8YSBocmVmPSJodHRw
 Oi8vaW5ub3ZhdGluZ2tub3dsZWRnZS5ubC8iIHRhcmdldD0iX2JsYW5rIj5Jbm5vdmF0aW5nIEtu
 b3dsZWRnZTwvYT48YnI+CjwvZGl2PgpIdXlnZW5zIEluc3RpdHV0ZSwgRHV0Y2ggUm95YWwgQWNh
 ZGVteSBvZiBBcnRzIGFuZCBTY2llbmNlcywgQW1zdGVyZGFtPC9kaXY+CjwvZGl2Pgo8L2Rpdj4K
-PC9kaXY+CjwvYm9keT4KPC9odG1sPgo=
+PC9kaXY+CjwvYm9keT4KPC9odG1sPgo

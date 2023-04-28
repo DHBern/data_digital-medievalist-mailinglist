@@ -1,9 +1,13 @@
-Subject: Re: [dm-l] Use of wikis for transcriptionRegarding crowdsourcing and XML, I once put a dozen students to work
+Subject: Re: [dm-l] Use of wikis for transcription
+
+Regarding crowdsourcing and XML, I once put a dozen students to work
 on transcriptions of some very formulaic accounting documents. It was
 enough work to get them through the medieval paleography and language
 that I didn't want them spending a lot of time mastering XML or new
 programs. So, I created a simplified schema that they could easily
-memorize and let them insert tags in their generic word processor.The tags (e.g. <id>...</id> for a proper name of a person;
+memorize and let them insert tags in their generic word processor.
+
+The tags (e.g. <id>...</id> for a proper name of a person;
 <amt>...</amt> for amount, etc.) are easily converted into TEI
 compliant XML with a simple search and replace macro. I wanted two
 sets of eyes on the transcriptions, so I had each text transcribed by
@@ -12,10 +16,16 @@ couple of tag validators so they could easily check their markup.
 Then, I designed an editorial review utility that allows me to
 highlight differences between the dual transcriptions, and incorporate
 any of my modifications (to transcriptions or tags) into the final
-transcription.The grad students who were in charge of supervising teams of
+transcription.
+
+The grad students who were in charge of supervising teams of
 undergrads worked pretty hard at removing ambiguity in our editorial
 conventions through lots of communication. I've still got plenty of
 master editing to do, but we cranked through an awful lot of pages
-this way, and the students loved the experience.Jesse
-_redacted_(a)byu.edu
---===============0219044313921779802==--
+this way, and the students loved the experience.
+
+Jesse
+_redacted_(a)byu.edu
+
+--0219044313921779802-
+

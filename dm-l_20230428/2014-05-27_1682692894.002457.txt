@@ -1,4 +1,8 @@
-Subject: Re: [dm-l] Proposed Changes to DMHi everyone,I think I'm going along with the majority of folks who have replied thus
+Subject: Re: [dm-l] Proposed Changes to DM
+
+Hi everyone,
+
+I think I'm going along with the majority of folks who have replied thus
 far: I think it's a good idea to move the main site to Wordpress, and I
 also think it's a good idea to move the journal to another system (I know
 we've been in talks with revues.org, we might also consider Indiana
@@ -8,7 +12,9 @@ don't know if there is anyone at IUB who would be willing to act as contact
 for that). Off the shelf technology has improved vastly in the years since
 DM was founded, and there's no reason for us not to take advantage of that
 (rather than playing sysadmin and building code from scratch - which can be
-fun, but is time consuming)I think it would be great to have some kind of place to serve the type of
+fun, but is time consuming)
+
+I think it would be great to have some kind of place to serve the type of
 information that the wiki has traditionally served - definitions of terms,
 lists of projects and tools, that kind of thing. Something that isn't well
 served by a blog-type interface, or even a regular website organization. I
@@ -18,9 +24,16 @@ studies isn't classics. We could do well to learn from them however -
 having a closed wiki would help with the spam, and focusing on new methods
 for getting data into the wiki (as DC is organizing wiki sprints). I wonder
 if there's another type of site, not a wiki, that could be used for the
-same purpose? I can't think of anything.My $.02 fwiwDot
+same purpose? I can't think of anything.
+
+My $.02 fwiw
+
+Dot
+
 On Thu, May 22, 2014 at 12:17 PM, Roberto Rosselli Del Turco <
-_redacted_(a)ling.unipi.it> wrote:> Dear all,
+_redacted_(a)ling.unipi.it> wrote:
+
+> Dear all,
 > a brief answer: I surely agree with 1 (moving the main site to the
 > Wordpress CMS) and have no big problems with 3 (eventually moving the
 > Journal to an open journal system), but I'm a little perplexed by 2, i.e.
@@ -56,8 +69,7 @@ _redacted_(a)ling.unipi.it> wrote:> Dear all,
 >> so of which are genuine. The wiki has also had almost no activity beyond
 >> that of the Board, and so it has not been doing the job that we had hoped.
 >> Furthermore the website itself, which we have been hosting and coding
->> ourselves (with substantial help from James Cummings and Dan O=E2=80=99Don=
-nell) is
+>> ourselves (with substantial help from James Cummings and Dan O’Donnell) is
 >> also proving increasingly difficult to manage: it depends on the generosity
 >> of James and Dan to host and administer, even adding new pages is not
 >> trivial, and it has needed a dramatic overhaul for some time but to do this
@@ -94,8 +106,7 @@ nell) is
 _redacted_(a)digitalmedievalist.org or any members of the Board directly.
 >> The next Board meeting is 4pm GMT+1 on Monday 2 June, at which point any
 >> comments will be discussed, and any changes in the Byelaws will be
->> presented to the membership for vote shortly after that (as specified in =
-=C2=A79
+>> presented to the membership for vote shortly after that (as specified in §9
 >> of the Byelaws: <http://digitalmedievalist.wordpress.com/about/byelaws/#
 >> amendments>).
 >>
@@ -121,7 +132,7 @@ _redacted_(a)kcl.ac.uk
 >> News: http://www.digitalmedievalist.org/news/
 >> Wiki: http://www.digitalmedievalist.org/wiki/
 >> Twitter: http://twitter.com/digitalmedieval
->> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+>> Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca
 >> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
 >>
@@ -144,10 +155,14 @@ _redacted_(a)uleth.ca
 > News: http://www.digitalmedievalist.org/news/
 > Wiki: http://www.digitalmedievalist.org/wiki/
 > Twitter: http://twitter.com/digitalmedieval
-> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+> Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca
 > Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
->--=20
+>
+
+
+
+-- 
 *~*~*~*~*~*~*~*~*~*~*
 Dot Porter (MA, MSLS)
 Digital Medievalist, Digital Librarian
@@ -157,7 +172,11 @@ Medieval Electronic Scholarly Alliance: http://www.mesa-medieval.org
 MESA blog: http://mesamedieval.wordpress.com/
 MESA on Facebook:
 https://www.facebook.com/MedievalElectronicScholarlyAlliance
-*~*~*~*~*~*~*~*~*~*~*PGRpdiBkaXI9Imx0ciI+SGkgZXZlcnlvbmUsPGRpdj48YnI+PC9kaXY+PGRpdj5JIHRoaW5rIEkm
+*~*~*~*~*~*~*~*~*~*~*
+
+
+
+PGRpdiBkaXI9Imx0ciI+SGkgZXZlcnlvbmUsPGRpdj48YnI+PC9kaXY+PGRpdj5JIHRoaW5rIEkm
 IzM5O20gZ29pbmcgYWxvbmcgd2l0aCB0aGUgbWFqb3JpdHkgb2YgZm9sa3Mgd2hvIGhhdmUgcmVw
 bGllZCB0aHVzIGZhcjogSSB0aGluayBpdCYjMzk7cyBhIGdvb2QgaWRlYSB0byBtb3ZlIHRoZSBt
 YWluIHNpdGUgdG8gV29yZHByZXNzLCBhbmQgSSBhbHNvIHRoaW5rIGl0JiMzOTtzIGEgZ29vZCBp
@@ -353,4 +372,5 @@ bGFuayI+aHR0cDovL21lc2FtZWRpZXZhbC53b3JkcHJlc3MuY29tLzwvYT48YnI+CgpNRVNBIG9u
 IEZhY2Vib29rOiA8YSBocmVmPSJodHRwczovL3d3dy5mYWNlYm9vay5jb20vTWVkaWV2YWxFbGVj
 dHJvbmljU2Nob2xhcmx5QWxsaWFuY2UiIHRhcmdldD0iX2JsYW5rIj5odHRwczovL3d3dy5mYWNl
 Ym9vay5jb20vTWVkaWV2YWxFbGVjdHJvbmljU2Nob2xhcmx5QWxsaWFuY2U8L2E+PGJyPip+Kn4q
-fip+Kn4qfip+Kn4qfip+KjwvZGl2Pgo8L2Rpdj4K
+fip+Kn4qfip+Kn4qfip+KjwvZGl2Pgo8L2Rpdj4K
+

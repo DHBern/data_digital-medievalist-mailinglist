@@ -1,9 +1,15 @@
-Subject: Fwd: [dm-l] Automatically scan two text corpora for quotationsFrom a colleague in corpus linguistics---------- Forwarded message ----------
+Subject: Fwd: [dm-l] Automatically scan two text corpora for quotations
+
+From a colleague in corpus linguistics
+
+---------- Forwarded message ----------
 _redacted_(a)morris.umn.edu>
 Date: Mon, Jan 2, 2012 at 2:27 PM
 Subject: Re: [dm-l] Automatically scan two text corpora for quotations
-_redacted_(a)morris.umn.edu>
-Yes, off the top of my head, I can think of three options:
+_redacted_(a)morris.umn.edu>
+
+Yes, off the top of my head, I can think of three options:
+
    1. Monoconc (http://www.athel.com/mono.html) by Michael Barlow (
    http://www.michaelbarlow.com/) should be able to handle this kind of
    task.
@@ -12,8 +18,7 @@ Yes, off the top of my head, I can think of three options:
    programming language entitled "R" (
    http://zoonek2.free.fr/UNIX/48_R/02.html) on which Gries has written the
    book entitled _Quantitative Corpus Linguistics with R_.(
-   http://books.google.com/books/about/Quantitative_corpus_linguistics_with_R=
-.html?id=3DWmG9renFkxAC).
+   http://books.google.com/books/about/Quantitative_corpus_linguistics_with_R.html?id=WmG9renFkxAC).
     Of course, other languages work well, too (e.g., Pascal, Perl).
    3. Ask an NAU (Northern Arizona U) corpus linguist to write a program
    for you (e.g., I might be able to do it, but there would be a delay since
@@ -21,28 +26,42 @@ Yes, off the top of my head, I can think of three options:
    Biber, http://jan.ucc.nau.edu/biber/, or I could do so on his or her
    behalf, and ask if anyone has a program already or can write one).  Of
    course, students or graduates of other computational linguistics programs
-   may be happy to offer assistance, too.
+   may be happy to offer assistance, too.
+
 It should be noted that the above approaches would probably rely on the use
 of either morphemic roots or "wild card" symbols; this would allow the
 analyst to search for strings of characters and variations in these
 strings.  If this approach were inadequate, then there might be a delay if
 a part-of-speech (POS) tagger needed to be located; there would be a
-substantial delay if a POS tagger needed to be written.In addition, if the digital versions of the texts have been left intact,
+substantial delay if a POS tagger needed to be written.
+
+In addition, if the digital versions of the texts have been left intact,
 then it is likely that they contain variations in spelling.  So, the first
 step would be to produce a copy of the corpus in which spelling variations
 were located and replaced with consistent spelling.  This could be done
 using a "search-and-replace" function to capture as many occurrences as
-possible.Furthermore, it should be understood that these approaches may yield a
+possible.
+
+Furthermore, it should be understood that these approaches may yield a
 percentage of observations (e.g., 85%) that could then be used for further
 analysis.  Depending on the extent of linguistic variation in the original
-corpus, it may or may not be possible to extract 100% of the occurrences.In any case, I should think that the project is most do-able and most
+corpus, it may or may not be possible to extract 100% of the occurrences.
+
+In any case, I should think that the project is most do-able and most
 interesting.  So, I hope these initial thoughts are helpful, and I would be
-happy to be of further assistance.Catherine
+happy to be of further assistance.
+
+Catherine
+
 Catherine Smith, Ph.D., Applied Linguistics; Lecturer, Discipline of
 English; Associate Editor, *Second Language Writing News, *TESOL; Personal
 _redacted_(a)umn.edu;
 Surface Mail:  University of Minnesota, Morris, Division of the Humanities;
-600 E 4th Street, Morris, MN 56267 USAPkZyb20gYSBjb2xsZWFndWUgaW4gY29ycHVzIGxpbmd1aXN0aWNzPGJyPjxicj48ZGl2IGNsYXNz
+600 E 4th Street, Morris, MN 56267 USA
+
+
+
+PkZyb20gYSBjb2xsZWFndWUgaW4gY29ycHVzIGxpbmd1aXN0aWNzPGJyPjxicj48ZGl2IGNsYXNz
 PSJnbWFpbF9xdW90ZSI+LS0tLS0tLS0tLSBGb3J3YXJkZWQgbWVzc2FnZSAtLS0tLS0tLS0tPGJy
 PkZyb206IDxiIGNsYXNzPSJnbWFpbF9zZW5kZXJuYW1lIj5DYXRoZXJpbmUgU21pdGg8L2I+IDxz
 cGFuIGRpcj0ibHRyIj4mbHQ7PGEgaHJlZj0ibWFpbHRvOmNhc21pdGhAbW9ycmlzLnVtbi5lZHUi
@@ -124,4 +143,4 @@ dGFyZ2V0PSJfYmxhbmsiPmNhc21pdGhAdW1uLmVkdTwvYT47IFN1cmZhY2UgTWFpbDogoFVuaXZl
 cnNpdHkgb2YgTWlubmVzb3RhLCBNb3JyaXMsIERpdmlzaW9uIG9mIHRoZSBIdW1hbml0aWVzOyA2
 MDAgRSA0dGggU3RyZWV0LCBNb3JyaXMsIE1OIDU2MjY3IFVTQTwvc3Bhbj48L2Rpdj4KCjxkaXY+
 PGRpdj4KCjxkaXY+PGJyPjwvZGl2Pjxicj4KPGJyPjxicj48YnI+CjwvZGl2PjwvZGl2PjwvZGl2
-PjwvZGl2Pgo=
+PjwvZGl2Pgo

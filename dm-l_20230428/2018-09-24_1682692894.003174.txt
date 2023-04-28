@@ -1,59 +1,104 @@
-Subject: [dm-l] Le corpus =?utf-8?q?=C3=A9pigraphique?= bourguignon (VIIIe-XVe*Le corpus =C3=A9pigraphique bourguignon (VIII^e -XV^e si=C3=A8cle). **Des catalogues aux applications num=C3=A9riques.****Journ=C3=A9e d=E2=80=99=C3=A9tudes**23 octobre 2018, 10h-17h*Galerie Colbert - Salle AVD (Architecture, Ville, Design)1^er =C3=A9tage - porte 1336, rue des Petits-Champs - Paris 2^ePalais-Royal - Mus=C3=A9e du Louvre (M=C3=A9tro 1 et 7) et Bourse (M=C3=A9tro=
- 3)Dans le cadre de la collaboration =C3=A9tablie par les programmes consolid=C3=
-=A9s=20
-des CIFM (/Corpus des Inscriptions de la France M=C3=A9di=C3=A9vale /-=20
-CESCM-Poitiers) et CBMA (/Corpus Burgundiae Medii Aevi /- LaMOP -=20
-Paris), leurs =C3=A9quipes ont constitu=C3=A9 un corpus de plus de 1400=20
-inscriptions bourguignonnes du VIII^e au XV^e si=C3=A8cle, publi=C3=A9es ou=20
-in=C3=A9dites, =C3=A9crites en diff=C3=A9rentes langues, latin et ancien fran=
-=C3=A7ais en=20
-particulier.Le propos de cette journ=C3=A9e d=E2=80=99=C3=A9tudes est de revenir sur le p=
-rocessus=20
-d=E2=80=99acquisition et de structuration des donn=C3=A9es du corpus et d=E2=
-=80=99=C3=A9valuer son=20
-potentiel d=E2=80=99exploitation pour la recherche historique au regard des=20
-diff=C3=A9rents traitements informatiques possibles, linguistiques et=20
-spatiaux. Il s=E2=80=99agit de discuter, sur la base des diff=C3=A9rentes exp=
-=C3=A9riences=20
-r=C3=A9alis=C3=A9es, aussi bien des caract=C3=A9ristiques propres du mat=C3=
-=A9riel=20
-linguistique des inscriptions que de leurs usages dans l=E2=80=99espace et da=
-ns=20
-le temps.Cette journ=C3=A9e d=E2=80=99=C3=A9tudes est ouverte =C3=A0 tous les int=C3=
-=A9ress=C3=A9s. En vue de=20
-l=E2=80=99organisation mat=C3=A9rielle, les coll=C3=A8gues souhaitant assiste=
-r =C3=A0 cette=20
-rencontre sont pri=C3=A9s de nous informer de leur pr=C3=A9sence avant le 08 =_redacted_(a)gmail.com>Port=C3=A9 par le LaMOP (Laboratoire de M=C3=A9di=C3=A9vistique Occidentale d=
-e Paris -=20
-UMR 8589) et le CESCM (Centre d=E2=80=99=C3=A9tudes sup=C3=A9rieures de civil=
-isation=20
-m=C3=A9di=C3=A9vale - UMR 7302). Il b=C3=A9n=C3=A9ficie du soutien du LabEx h=
-aStec (en=20
-partenariat avec l=E2=80=99IRHT - Institut de recherche et d=E2=80=99histoire=
- des textes=20
-=E2=80=93 CNRS UPR 841, le Centre Jean Mabillon -EnC - EA 3624 et le LEM/CERC=
-OR=20
-(Laboratoire d=E2=80=99=C3=89tudes sur les Monoth=C3=A9ismes =E2=80=93 UMR 85=
-84 / Centre europ=C3=A9en=20
-de recherche sur les congr=C3=A9gations et les ordres religieux) et du=20
-Consortium COSME^2 (CNRS - TGIR Huma-Num).Coordination scientifique=C2=A0: Eliana Magnani et Estelle Ingrand-Varenne*Programme **Acquisition et traitements***10h -/Introduction. Autour du corpus =C3=A9pigraphique bourguignon :=20
-chiffres, chronologie, langues - /Eliana Magnani (CNRS, Lamop) et=20
-Estelle Ingrand-Varenne (CNRS, CESCM)10h40 -/De l'OCR =C3=A0 Philologic. Un parcours informatique /- Pierre=20
-Brochard (CNRS, Lamop)11h20 - /Le mat=C3=A9riel =C3=A9pigraphique r=C3=A9vis=C3=A9 et compl=C3=A9t=
-=C3=A9. Le traitement des=20
-inscriptions de la fin des ann=C3=A9es 1990 =C3=A0 aujourd'hui -/ Aurore Menu=
-dier=20
-(CESCM)12h-12h30 - /Discussions/***Exploitations***14h -///La lemmatisation des inscriptions est-elle possible ? /- Nicolas=20
-Perreaux (Universit=C3=A9 de Francfort)14h40 -///Les inscriptions d'apr=C3=A8s des exp=C3=A9riences en SIG - /Davide=
- Gherdevich=20
-(Univ. Versailles-Saint-Quentin, DYPAC), Thomas Lienhard (Univ. Paris 1=20
-Panth=C3=A9on-Sorbonne, Lamop)15h30 - /Pause/16h - /Discussions et tour de table conclusif/**--=20
-http://www.cbma-project.eu
---===============3600282237929843877==
-Content-Type: text/html
+Subject: [dm-l] Le corpus tf-8?q?épigraphique?
+
+
+*Le corpus épigraphique bourguignon (VIII^e -XV^e siècle). *
+
+*Des catalogues aux applications numériques.***
+
+*Journée d’études*
+
+*23 octobre 2018, 10h-17h*
+
+Galerie Colbert - Salle AVD (Architecture, Ville, Design)
+
+1^er étage - porte 133
+
+6, rue des Petits-Champs - Paris 2^e
+
+Palais-Royal - Musée du Louvre (Métro 1 et 7) et Bourse (Métro 3)
+
+Dans le cadre de la collaboration établie par les programmes consolidés 
+des CIFM (/Corpus des Inscriptions de la France Médiévale /- 
+CESCM-Poitiers) et CBMA (/Corpus Burgundiae Medii Aevi /- LaMOP - 
+Paris), leurs équipes ont constitué un corpus de plus de 1400 
+inscriptions bourguignonnes du VIII^e au XV^e siècle, publiées ou 
+inédites, écrites en différentes langues, latin et ancien français en 
+particulier.
+
+Le propos de cette journée d’études est de revenir sur le processus 
+d’acquisition et de structuration des données du corpus et d’évaluer son 
+potentiel d’exploitation pour la recherche historique au regard des 
+différents traitements informatiques possibles, linguistiques et 
+spatiaux. Il s’agit de discuter, sur la base des différentes expériences 
+réalisées, aussi bien des caractéristiques propres du matériel 
+linguistique des inscriptions que de leurs usages dans l’espace et dans 
+le temps.
+
+Cette journée d’études est ouverte à tous les intéressés. En vue de 
+l’organisation matérielle, les collègues souhaitant assister à cette 
+rencontre sont priés de nous informer de leur présence avant le 08 
+_redacted_(a)gmail.com>
+
+Porté par le LaMOP (Laboratoire de Médiévistique Occidentale de Paris - 
+UMR 8589) et le CESCM (Centre d’études supérieures de civilisation 
+médiévale - UMR 7302). Il bénéficie du soutien du LabEx haStec (en 
+partenariat avec l’IRHT - Institut de recherche et d’histoire des textes 
+– CNRS UPR 841, le Centre Jean Mabillon -EnC - EA 3624 et le LEM/CERCOR 
+(Laboratoire d’Études sur les Monothéismes – UMR 8584 / Centre européen 
+de recherche sur les congrégations et les ordres religieux) et du 
+Consortium COSME^2 (CNRS - TGIR Huma-Num).
+
+Coordination scientifique : Eliana Magnani et Estelle Ingrand-Varenne
+
+*Programme *
+
+*Acquisition et traitements*
+
+**
+
+10h -/Introduction. Autour du corpus épigraphique bourguignon : 
+chiffres, chronologie, langues - /Eliana Magnani (CNRS, Lamop) et 
+Estelle Ingrand-Varenne (CNRS, CESCM)
+
+10h40 -/De l'OCR à Philologic. Un parcours informatique /- Pierre 
+Brochard (CNRS, Lamop)
+
+11h20 - /Le matériel épigraphique révisé et complété. Le traitement des 
+inscriptions de la fin des années 1990 à aujourd'hui -/ Aurore Menudier 
+(CESCM)
+
+12h-12h30 - /Discussions/
+
+**
+
+*Exploitations*
+
+**
+
+14h -///La lemmatisation des inscriptions est-elle possible ? /- Nicolas 
+Perreaux (Université de Francfort)
+
+14h40 -///Les inscriptions d'après des expériences en SIG - /Davide Gherdevich 
+(Univ. Versailles-Saint-Quentin, DYPAC), Thomas Lienhard (Univ. Paris 1 
+Panthéon-Sorbonne, Lamop)
+
+15h30 - /Pause/
+
+16h - /Discussions et tour de table conclusif/
+
+**
+
+-- 
+http://www.cbma-project.eu
+
+
+
+--3600282237929843877Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWw+CiAgPGhlYWQ+CgogICAgPG1ldGEgaHR0cC1lcXVpdj0iY29udGVudC10eXBlIiBjb250
+Content-Disposition: attachment; filename�ttachment.html"
+MIME-Version: 1.0
+
+PGh0bWw+CiAgPGhlYWQ+CgogICAgPG1ldGEgaHR0cC1lcXVpdj0iY29udGVudC10eXBlIiBjb250
 ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9dXRmLTgiPgogIDwvaGVhZD4KICA8Ym9keSB0ZXh0PSIj
 MDAwMDAwIiBiZ2NvbG9yPSIjRkZGRkZGIj4KICAgIDxicj4KICAgIDxkaXYgY2xhc3M9Im1vei1m
 b3J3YXJkLWNvbnRhaW5lciI+CiAgICAgIDxtZXRhIGh0dHAtZXF1aXY9ImNvbnRlbnQtdHlwZSIg
@@ -359,7 +404,9 @@ PC9zcGFuPjwvYj48L3A+CiAgICAgICAgPHByZSBjbGFzcz0ibW96LXNpZ25hdHVyZSIgY29scz0i
 NzIiPi0tIAo8YSBjbGFzcz0ibW96LXR4dC1saW5rLWZyZWV0ZXh0IiBocmVmPSJodHRwOi8vd3d3
 LmNibWEtcHJvamVjdC5ldSIgbW96LWRvLW5vdC1zZW5kPSJ0cnVlIj5odHRwOi8vd3d3LmNibWEt
 cHJvamVjdC5ldTwvYT48L3ByZT4KICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KICA8L2JvZHk+Cjwv
-aHRtbD4KJVBERi0xLjMKJcTl8uXrp/Og0MTGCjQgMCBvYmoKPDwgL0xlbmd0aCA1IDAgUiAvRmlsdGVyIC9G
+aHRtbD4K
+
+JVBERi0xLjMKJcTl8uXrp/Og0MTGCjQgMCBvYmoKPDwgL0xlbmd0aCA1IDAgUiAvRmlsdGVyIC9G
 bGF0ZURlY29kZSA+PgpzdHJlYW0KeAGMvcuubbuSXVdfX7Fcs13YOd+PqmUVVLOAC6hsHGQibdwj
 KfPa/+/Weg+OOcbax4AkQfesvkkOMl4MRgQ5/+37P3//2/f5wv/7dbq+36/v1/n563b7vj9Pv96P
 73//5+//8v1fv//pP/zj/P3HP75P+b//+IM+p1+XW//2P66P7/uNjq+vP/78/t/+9n1vy/mfv/35
@@ -15144,4 +15191,4 @@ IAowMDAwODM5ODU0IDAwMDAwIG4gCjAwMDA4Mzk5MzUgMDAwMDAgbiAKMDAwMDgzOTk4OSAwMDAw
 MCBuIAowMDAwODQwMDEzIDAwMDAwIG4gCjAwMDA4NDAwNTYgMDAwMDAgbiAKMDAwMDg0MDA3NiAw
 MDAwMCBuIAp0cmFpbGVyCjw8IC9TaXplIDExOSAvUm9vdCA5MiAwIFIgL0luZm8gMSAwIFIgL0lE
 IFsgPDNkZGMyNTEzMmM3MjIwMDAwYWJjYWU4YTE4ZDlkOWY1Pgo8M2RkYzI1MTMyYzcyMjAwMDBh
-YmNhZThhMThkOWQ5ZjU+IF0gPj4Kc3RhcnR4cmVmCjg0MDI0OAolJUVPRgo=
+YmNhZThhMThkOWQ5ZjU+IF0gPj4Kc3RhcnR4cmVmCjg0MDI0OAolJUVPRgo

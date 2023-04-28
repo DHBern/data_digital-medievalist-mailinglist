@@ -1,5 +1,11 @@
-Subject: RE: [dm-l] [Fwd: The time has come to make some <choice>s]For those of us who are new to TEI (ok, just me, then), would someone care
-to gloss this? P5? Janus tags?PeterPeter Binkley
+Subject: RE: [dm-l] [Fwd: The time has come to make some <choice>s]
+
+For those of us who are new to TEI (ok, just me, then), would someone care
+to gloss this? P5? Janus tags?
+
+Peter
+
+Peter Binkley
 Digital Initiatives Technology Librarian
 Information Technology Services
 4-30 Cameron Library
@@ -8,7 +14,11 @@ Edmonton, Alberta
 Canada T6G 2J8
 Phone: (780) 492-3743
 Fax: (780) 492-9243
-_redacted_(a)ualberta.ca> -----Original Message-----
+_redacted_(a)ualberta.ca
+
+
+
+> -----Original Message-----
 _redacted_(a)uleth.ca] 
 > Sent: Monday, June 28, 2004 06:22 PM
 > To: Digital Medievalist list
@@ -46,9 +56,9 @@ _redacted_(a)LISTSERV.BROWN.EDU
 > been suggested that we change the so-called Janus tags from 
 > things like
 > 
->   <corr sic="adnire">admire</corr>
->   <orig reg="w">vv</orig>ith <orig reg="w">vv</orig>hat charity
->   the <abbr expan="Text Encoding Initiative Consortium">tei-c</abbr>
+>   <corr sicúdnire">admire</corr>
+>   <orig reg">vv</orig>ith <orig reg">vv</orig>hat charity
+>   the <abbr expanext Encoding Initiative Consortium">tei-c</abbr>
 > 
 > to things like
 > 
@@ -61,7 +71,7 @@ _redacted_(a)LISTSERV.BROWN.EDU
 >     <reg>w</reg>
 >     <orig>vv</orig>
 >   </choice>hat charity the
->   <choice src="abbr">
+>   <choice srcúbbr">
 >     <abbr>tei-c</abbr>
 >     <expan>Text Encoding Initiative Consortium</expan>
 >   </choice>
@@ -100,5 +110,7 @@ _redacted_(a)uleth.ca>
 > dm-l mailing list
 _redacted_(a)uleth.ca
 > http://listserv.uleth.ca/mailman/listinfo/dm-l
-> 
---===============6503592710487779094==--
+> 
+
+--6503592710487779094-
+

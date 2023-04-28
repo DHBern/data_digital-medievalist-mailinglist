@@ -1,4 +1,6 @@
-Subject: RE: [dm-l] what xslt can't do..?Peter (Binkley) has already pointed out the problems with the XSLT
+Subject: RE: [dm-l] what xslt can't do..?
+
+Peter (Binkley) has already pointed out the problems with the XSLT
 approach he took.
  I think even the fix he suggests, of returning a stripped node fragment,
 would
@@ -23,8 +25,9 @@ best
 solution to the 'missing last end of page' problem, and ideed to various
 other
 problems, is what Steve De Rose describes as 'trojan milestones': see
-http://www.mulberrytech.com/Extreme/Proceedings/html/2004/DeRose01/EML2004DeR=
-ose01.html).I think too there is some misconception about just how the system I use
+http://www.mulberrytech.com/Extreme/Proceedings/html/2004/DeRose01/EML2004DeRose01.html).
+
+I think too there is some misconception about just how the system I use
 (Anastasia)
 would cope with this problem.  Peter B(inkley) suggests it is some kind of
 'coded
@@ -40,21 +43,29 @@ straight-forward in Anastasia to manipulate a document according to
 alternative
 hierarchies implicit in the element relations: so you can show just one
 column or
-one page of a text otherwise structured in hierarchical divisions.Thus, the whole Anastasia code to pull out the first two pages of this
+one page of a text otherwise structured in hierarchical divisions.
+
+Thus, the whole Anastasia code to pull out the first two pages of this
 document
-looks like this:proc begin {book me stylename} {
+looks like this:
+
+proc begin {book me stylename} {
  global pagecounter startEl
  set pagecounter 0
  set startEl [findSGElement "stag(\"pb\") with attvalue(\"1\")"]
-}proc pb {me context} {
+}
+
+proc pb {me context} {
   global pagecounter finish
-  if {$pagecounter=3D=3D"2"} {set finish 1}
+  if {$pagecounter=="2"} {set finish 1}
   incr pagecounter
-}Folks, that is all there is.  The 'begin' function finds the first page by
+}
+
+Folks, that is all there is.  The 'begin' function finds the first page by
 its
 attribute value (there are other ways one could do it, to be sure that
 this is the
-first page) and sets Anastasia to start reading the document right there.=20
+first page) and sets Anastasia to start reading the document right there. 
 The 'pb'
 function counts every page every time it hits a pb: when the pagecounter
 reaches '2'
@@ -62,34 +73,42 @@ it has read two full pages and setting the 'finish' variable to 1 stops
 the output.
 One could include a few more proc functions to format the headings,
 paragraphs, etc,
-or one could identify the last page by attribute value, but that is all.=20
-And it does this just as quick for a document with 100000 pages as one.I don't have a prejudice against XSLT, which seems a fine tool for doing
+or one could identify the last page by attribute value, but that is all. 
+And it does this just as quick for a document with 100000 pages as one.
+
+I don't have a prejudice against XSLT, which seems a fine tool for doing
 most of the things one wants to do with XML.  But that does not mean it
 can do *everything* equally easily (which is how this whole thread
 started, with musings on its limits as a typesetting language).  Some
 things certainly Anastasia does much easier, and that is no surprise -- it
 was designed just for that.  She is open source.  Go look at her on
 http://anastasia.sourceforge.net
-Peter R(obinson)***revised document with an appendix after the last page...
+Peter R(obinson)
+
+***revised document with an appendix after the last page...
 <div>
 <head>The whole text and all the texts</head>
 <div>
-<pb n=3D"1"/>
+<pb n="1"/>
 <head>First text</head>
-<p n=3D"1">some text starts here and goes ita<hi rend=3D"italic">lic an<pb
-n=3D"2"/>d then</i> we get a pagebreak</p>
-<p n=3D"2">so the text finishes</p>
-<p n=3D"3"> with yet another page <pb n=3D"3"/> and another page start </p>
+<p n="1">some text starts here and goes ita<hi rend="italic">lic an<pb
+n="2"/>d then</i> we get a pagebreak</p>
+<p n="2">so the text finishes</p>
+<p n="3"> with yet another page <pb n="3"/> and another page start </p>
 </div>
 <div>
 <head>Second text</head>
-<pb n=3D"4"/>
-<p n=3D"1">here my new text on the next page etc etc</p>
-<pb n=3D"5"/>
-<p n=3D"2">here my new text on the next page etc etc</p>
+<pb n="4"/>
+<p n="1">here my new text on the next page etc etc</p>
+<pb n="5"/>
+<p n="2">here my new text on the next page etc etc</p>
 </div>
 <div>
 <p>Now here we have an appendix and some more text after that</p>
 </div>
-</div>
---===============4047736045933979286==--
+</div>
+
+
+
+--4047736045933979286-
+

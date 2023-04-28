@@ -1,11 +1,22 @@
-Subject:Dan,I think there is a lack of open source and user-friendly bibliographic
+Subject:
+
+Dan,
+
+I think there is a lack of open source and user-friendly bibliographic
 databases, never mind any with Z39.50 built-in. However, have a look at
 http://wwwsearch.sourceforge.net/bib/openbib.html
 http://bibliographic.openoffice.org/
-http://www.theresearcher.ca/index.htmlAnd finally, "A Tool for Bibliography Management and Sharing: The ShaRef
-Project" http://www.dlib.org/dlib/september04/09inbrief.html#WILDEI use Endnote which is proprietary but supports Z39.50. The latest version
+http://www.theresearcher.ca/index.html
+
+And finally, "A Tool for Bibliography Management and Sharing: The ShaRef
+Project" http://www.dlib.org/dlib/september04/09inbrief.html#WILDE
+
+I use Endnote which is proprietary but supports Z39.50. The latest version
 can export bibliographies in XML which is again proprietary and can
-not be modified as far as I can see, but well-structured and sensible.Elizabeth
+not be modified as far as I can see, but well-structured and sensible.
+
+Elizabeth
+
 > ---------------------------- Original Message ----------------------------
 > Subject: [dm-l] open source z39.5 compatible bibliographic database
 _redacted_(a)uleth.ca>
@@ -45,7 +56,9 @@ _redacted_(a)uleth.ca>
 > Tel. (403) 329-2377
 > Fax. (403) 382-7191
 _redacted_(a)uleth.ca>
-> Home Page <http://people.uleth.ca/~daniel.odonnell/>Dr. Elizabeth Solopova
+> Home Page <http://people.uleth.ca/~daniel.odonnell/>
+
+Dr. Elizabeth Solopova
 Department of Special Collections and Western Manuscripts
 Bodleian Library
 Broad Street
@@ -54,5 +67,9 @@ Tel.: +44 (0)1865-277073
 _redacted_(a)bodley.ox.ac.uk
 Internet: 
 http://www.bodley.ox.ac.uk/
-http://www.bodley.ox.ac.uk/dept/scwmss/
- 
+http://www.bodley.ox.ac.uk/dept/scwmss/
+
+ 
+
+
+

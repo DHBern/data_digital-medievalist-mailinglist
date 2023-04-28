@@ -1,20 +1,36 @@
-Subject: [dm-l] TEI Book announcementSorry for late cross-posting
-______________________________________Dear Digital Medievalist members,I'm pleased to announce the publication of:Il manuale Tei Lite. Introduzione alla codifica elettronica dei testi
-letterari, a cura di Fabio Ciotti, Edizioni Sylvestre Bonnard, Milano 2005In this book appear for the first time in print form the Italian
+Subject: [dm-l] TEI Book announcement
+
+Sorry for late cross-posting
+______________________________________
+
+Dear Digital Medievalist members,
+
+I'm pleased to announce the publication of:
+
+Il manuale Tei Lite. Introduzione alla codifica elettronica dei testi
+letterari, a cura di Fabio Ciotti, Edizioni Sylvestre Bonnard, Milano 2005
+
+In this book appear for the first time in print form the Italian
 translations of *TEI Lite. An introduction to text encoding* and of *A
 gentle introduction to XML*, followed by an original paper by Lou Burnard
 (TEI editor), and preceded by an introduction by Fabio Ciotti. Two
 appendices one of wich discussing the philogical applications of TEI
 encoding scheme by Simone Albonico (Un. of Pavia) close the volume. The book
-is published under the auspices of TEI Consortium.Further information on the Bonnard publisher Web site ath the following URL:
-http://www.edizionibonnard.it/libro.php?idlibro=86
+is published under the auspices of TEI Consortium.
+
+Further information on the Bonnard publisher Web site ath the following URL:
+http://www.edizionibonnard.it/libro.php?idlibro†
 The bookcan be purchased by sending a mail order at the following address:
 _redacted_(a)tiscalinet.it
 The orders placed by e-mail will not be charged of any shipping cost.
-  TOC of the book
+  
+
+TOC of the book
 ______________________________________________
 Fabio Ciotti
-La codifica del testo, XML e la Text Encoding InitiativeIntroduzione alla codifica elettronica dei testi letterari
+La codifica del testo, XML e la Text Encoding Initiative
+
+Introduzione alla codifica elettronica dei testi letterari
 	I.	Una semplice introduzione a XML di Lou Burnard
 	II.	TEI Lite: introduzione alla codifica dei testi 
 		di Lou Burnard e C.M. Sperberg-McQueen
@@ -25,4 +41,7 @@ Appendici
 		XML: una panoramica di Fabio Ciotti
 	II. 	SullÂ’utilizzo della codifica TEI in filologia 
 		di Simone Albonico
-Bibliografia
+Bibliografia
+
+
+

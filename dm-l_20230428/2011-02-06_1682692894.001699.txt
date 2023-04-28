@@ -1,9 +1,18 @@
-Subject: Re: [dm-l] Mac helpHi, Dan,There are a handful of visual SVN clients for Mac OS, some of which do
+Subject: Re: [dm-l] Mac help
+
+Hi, Dan,
+
+There are a handful of visual SVN clients for Mac OS, some of which do
 integrate with the finder. Personally, I use the command line svn utility.
 As far as navigating Unicode, there is the built-in Character Viewer,
-which serves me well.
+which serves me well.
+
 Best,
-Grant_redacted_(a)uleth.ca> wrote:>Hi all,
+Grant
+
+_redacted_(a)uleth.ca> wrote:
+
+>Hi all,
 >
 >I have a new research assistant who is going to be helping us at the DM
 >journal. She's a Mac user, and to get her set up, I'd appreciate any
@@ -27,6 +36,9 @@ Grant_redacted_(a)uleth.ca> wrote:>Hi all,
 >News: http://www.digitalmedievalist.org/news/
 >Wiki: http://www.digitalmedievalist.org/wiki/
 >Twitter: http://twitter.com/digitalmedieval
->Facebook: http://www.facebook.com/group.php?gid=49320313760
+>Facebook: http://www.facebook.com/group.php?gidI320313760
 _redacted_(a)uleth.ca
->Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+
+

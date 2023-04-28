@@ -1,6 +1,10 @@
-Subject:Dear everyone
+Subject:
+
+Dear everyone
 I have been away a few days without a chance to look at the correspondence
-provoked by my message about XSLT etc.Firstly: a quick response to Lou Burnard.  Of course I have known for years,
+provoked by my message about XSLT etc.
+
+Firstly: a quick response to Lou Burnard.  Of course I have known for years,
 even before Lou told me, and Lou has known for years that I have known, that
 one could use alternative XML structures to show our materials page by page,
 if we want.  But this seems to me to go right against one of the fundamental
@@ -12,7 +16,8 @@ text divisions, and that's that.  Lou suggests also that one could encode
 every word in a word element, with the page breaks neatly between the word
 elements.  Only problem here are those cursed scribes who will insist on
 sticking a page break in the middle of a word.  So I guess we need to put
-every letter in a separate element!
+every letter in a separate element!
+
 Enough of this.  Better than argument is actual demonstration.  Some of you
 probably know that the subtext of what I have been saying about the defects
 of XSLT is that we have over many years developed our own electronic
@@ -20,10 +25,19 @@ publishing system, the blessed Anastasia, designed to meet exactly the kind
 of problems I first met some ten years ago in SGML (as then) processing.  We
 decided a while ago, after much urging from many (including aforesaid Lou)
 that we would make her open source.  So that is just what we are doing.  As
-of today you can download all the executables fromhttp://www.cta.dmu.ac.uk/~ftpuser/Anastasia/
+of today you can download all the executables from
+
+http://www.cta.dmu.ac.uk/~ftpuser/Anastasia/
 See too 
 http://www.cta.dmu.ac.uk/~ftpuser/Anastasia/home.html
 And for an introduction to her:
-http://www.cta.dmu.ac.uk/~ftpuser/Anastasia/whatis.htmlMore coming later.  The source will go on SourceForge in the next few weeks,
-together with lots of sample documents, including many in tei.All the best
-Peter
+http://www.cta.dmu.ac.uk/~ftpuser/Anastasia/whatis.html
+
+More coming later.  The source will go on SourceForge in the next few weeks,
+together with lots of sample documents, including many in tei.
+
+All the best
+Peter
+
+
+

@@ -1,25 +1,103 @@
-Subject:Dear Fellow Medievalists:The crowd sourcing project ran from Thursday, August 26, 2010 to Monday
+Subject:
+
+Dear Fellow Medievalists:
+
+The crowd sourcing project ran from Thursday, August 26, 2010 to Monday
 August 30, 2010. Over those 4 days, 53 people evaluated 7,779 images. We
 want to thank all of you who participated.  Below is a table showing how
-images were categorized during the project:
-  CategoryNumberPercentage good339646%close190226%bad115316%disaster75310%don't know391%irrelevant442-----
-Based on closer examination of the images that were judged to be =E2=80=9Cbad=
-=E2=80=9D or a
-=E2=80=9Cdisaster,=E2=80=9D we have 3 areas of focus for future development:(1)    We will use a method from another project to identify large initials,
-which proved quite problematic for the tool.(2)    We will reduce the number of two column manuscripts in which the left
+images were categorized during the project:
+
+  Category
+
+Number
+
+Percentage
+
+ good
+
+3396
+
+46%
+
+close
+
+1902
+
+26%
+
+bad
+
+1153
+
+16%
+
+disaster
+
+753
+
+10%
+
+don't know
+
+39
+
+1%
+
+irrelevant
+
+442
+
+-----
+
+Based on closer examination of the images that were judged to be “bad” or a
+“disaster,” we have 3 areas of focus for future development:
+
+(1)    We will use a method from another project to identify large initials,
+which proved quite problematic for the tool.
+
+(2)    We will reduce the number of two column manuscripts in which the left
 column does not have its lines properly detected by modifying the way the
-column boundary is drawn, so it does not include the outside border.(3)    We will work to detect marginal content as such, and parse lines of
-marginal content seperately from the columns of text.We hope to begin work on our transcription tool in the beginning of October,
-and release this detection tool as an API by the end of October.So thank you again for all your hard work.
-Jim
-This project is being funded an award from the President=E2=80=99s Research F=
-und,
+column boundary is drawn, so it does not include the outside border.
+
+(3)    We will work to detect marginal content as such, and parse lines of
+marginal content seperately from the columns of text.
+
+We hope to begin work on our transcription tool in the beginning of October,
+and release this detection tool as an API by the end of October.
+
+
+
+So thank you again for all your hard work.
+
+Jim
+
+
+
+This project is being funded an award from the President’s Research Fund,
 Saint Louis University.  The prototype line parser was first developed
 during a grant from the Andrew W. Mellon Foundation.  The Center thanks both
-funding bodies for their support of this kind of research.All images displayed are owned by the Matthew Parker Library, Corpus Christi
-College, Cambridge.=C2=A9 2009 Masters of Corpus Christi College.Images used with permission.No one may duplicate any image (in digital or printed format; or store on an
+funding bodies for their support of this kind of research.
+
+
+
+All images displayed are owned by the Matthew Parker Library, Corpus Christi
+College, Cambridge.
+
+© 2009 Masters of Corpus Christi College.
+
+
+
+Images used with permission.
+
+No one may duplicate any image (in digital or printed format; or store on an
 electronic device) without the express permission of the Masters of Corpus
-Christi College.--=20
+Christi College.
+
+
+
+
+
+-- 
 ----------
 James R. Ginther, PhD
 Assoc. Professor of Medieval Theology
@@ -28,9 +106,18 @@ Center for Digital Theology
 Saint Louis University
 -------------------------
 _redacted_(a)slu.edu
-http://theology.slu.edu
-" Blessed are the Geeks for they shall encode the Earth""...debet esse oratio devota, ne mens sit in foro dum os psallit in choro."
-- Robert Grosseteste"Being bored is the only time you are creative." -Freeman DysonRGVhciBGZWxsb3cgTWVkaWV2YWxpc3RzOjxkaXY+PGJyPjwvZGl2PjxkaXY+PHAgY2xhc3M9Ik1z
+http://theology.slu.edu
+
+" Blessed are the Geeks for they shall encode the Earth"
+
+"...debet esse oratio devota, ne mens sit in foro dum os psallit in choro."
+- Robert Grosseteste
+
+"Being bored is the only time you are creative." -Freeman Dyson
+
+
+
+RGVhciBGZWxsb3cgTWVkaWV2YWxpc3RzOjxkaXY+PGJyPjwvZGl2PjxkaXY+PHAgY2xhc3M9Ik1z
 b05vcm1hbCIgc3R5bGU9Im1zby1tYXJnaW4tdG9wLWFsdDphdXRvO21zby1tYXJnaW4tYm90dG9t
 LWFsdDphdXRvOwp0ZXh0LWluZGVudDowaW47bGluZS1oZWlnaHQ6bm9ybWFsO2JhY2tncm91bmQ6
 d2hpdGUiPjxzcGFuIHN0eWxlPSJmb250LXNpemU6CjEwLjBwdDtmb250LWZhbWlseTomcXVvdDtB
@@ -370,4 +457,4 @@ b3IgdGhleSBzaGFsbCBlbmNvZGUgdGhlIEVhcnRoJnF1b3Q7IDxicj4KPGJyPiZxdW90Oy4uLmRl
 YmV0IGVzc2Ugb3JhdGlvIGRldm90YSwgbmUgbWVucyBzaXQgaW4gZm9ybyBkdW0gb3MgcHNhbGxp
 dCBpbiBjaG9yby4mcXVvdDsgLSBSb2JlcnQgR3Jvc3NldGVzdGU8YnI+PGJyPiZxdW90O0JlaW5n
 IGJvcmVkIGlzIHRoZSBvbmx5IHRpbWUgeW91IGFyZSBjcmVhdGl2ZS4mcXVvdDsgLUZyZWVtYW4g
-RHlzb248YnI+CjwvZGl2Pgo=
+RHlzb248YnI+CjwvZGl2Pgo

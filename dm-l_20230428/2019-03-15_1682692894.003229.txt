@@ -1,41 +1,37 @@
-Subject: [dm-l] DReAM Lab course on Linked Data in the HumanitiesAs part of the week-long DReAM Lab  training event offered by the Price Lab f=
-or the Digital Humanities at the University of Pennsylvania, the Schoenberg I=
-nstitute for Manuscript Studies (SIMS) is sponsoring a course on Linked Data =
-for the Humanities<http://web.sas.upenn.edu/dream-lab/2018/09/12/linked-data-=
-for-the-humanities/>, with Kevin Page and David Lewis, both from the e-Resear=
-ch Centre at Oxford University. The course will be held June 10-14, 2019, in =
-the Kislak Center for Special Collections, Rare Books, and Manuscripts at Pen=
-n.Thanks to funding from the Institute of Museum and Library Services in suppor=
-t of the SIMS-affiliated Mapping Manuscript Migrations<http://mappingmanuscri=
-ptmigrations.org/> project, a T-AP Digging Into Data Award recipient, FULL TU=
-ITION SCHOLARSHIPS are available for students and early career scholars and p=
-rofessionals.Here's a summary of the course:"This course introduces the concepts and technologies behind the Semantic Web=
- and teaches attendees about the standards and practices that underpin Linked=
- Data. Sessions offer a mix of "under the hood" technical details explaining =
-how Linked Data ticks, alongside examples of applied Linked Data from the pre=
-senters' own humanities research. Through consideration of these varied uses =
-across the humanities - including musicology, early English literature, and m=
-anuscript provenance - attendees will be familiarized with the common pattern=
-s by which Linked Data can be applied to their own specialisms. The course wi=
-ll culminate in a full day studying a major new digital humanities resource f=
-rom the Mapping Manuscript Migrations project, including data from the Schoen=
-berg Database of Manuscripts, exploring the end-to-end application of Linked =
-Data as a solution for both memory institutions and the researchers using the=
-m."For more information and to apply, go to: http://web.sas.upenn.edu/dream-lab/=
-2018/09/12/linked-data-for-the-humanities/.General information about DReAM Lab and other courses being offered can be fo=
-und here: http://web.sas.upenn.edu/dream-lab/ .******************
+Subject: [dm-l] DReAM Lab course on Linked Data in the Humanities
+
+As part of the week-long DReAM Lab  training event offered by the Price Lab for the Digital Humanities at the University of Pennsylvania, the Schoenberg Institute for Manuscript Studies (SIMS) is sponsoring a course on Linked Data for the Humanities<http://web.sas.upenn.edu/dream-lab/2018/09/12/linked-data-for-the-humanities/>, with Kevin Page and David Lewis, both from the e-Research Centre at Oxford University. The course will be held June 10-14, 2019, in the Kislak Center for Special Collections, Rare Books, and Manuscripts at Penn.
+
+Thanks to funding from the Institute of Museum and Library Services in support of the SIMS-affiliated Mapping Manuscript Migrations<http://mappingmanuscriptmigrations.org/> project, a T-AP Digging Into Data Award recipient, FULL TUITION SCHOLARSHIPS are available for students and early career scholars and professionals.
+
+Here's a summary of the course:
+
+"This course introduces the concepts and technologies behind the Semantic Web and teaches attendees about the standards and practices that underpin Linked Data. Sessions offer a mix of "under the hood" technical details explaining how Linked Data ticks, alongside examples of applied Linked Data from the presenters' own humanities research. Through consideration of these varied uses across the humanities - including musicology, early English literature, and manuscript provenance - attendees will be familiarized with the common patterns by which Linked Data can be applied to their own specialisms. The course will culminate in a full day studying a major new digital humanities resource from the Mapping Manuscript Migrations project, including data from the Schoenberg Database of Manuscripts, exploring the end-to-end application of Linked Data as a solution for both memory institutions and the researchers using them."
+
+For more information and to apply, go to: http://web.sas.upenn.edu/dream-lab/2018/09/12/linked-data-for-the-humanities/.
+
+General information about DReAM Lab and other courses being offered can be found here: http://web.sas.upenn.edu/dream-lab/ .
+
+******************
 Lynn Ransom, Ph.D.
 Curator of Programs, Schoenberg Institute for Manuscript Studies
 schoenberginstitute.org
 Project Director, The New Schoenberg Database of Manuscripts
 https://sdbm.library.upenn.edu/
-Co-Editor, Manuscript Studies: A Journal of the Schoenberg Institute for Manu=
-script Studies
+Co-Editor, Manuscript Studies: A Journal of the Schoenberg Institute for Manuscript Studies
 mss.pennpress.org
 The University of Pennsylvania Libraries
 3420 Walnut Street
 Philadelphia, PA 19104-6206
-215.898.7851PGh0bWwgeG1sbnM6dj0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTp2bWwiIHhtbG5zOm89InVy
+215.898.7851
+
+
+
+
+
+
+
+PGh0bWwgeG1sbnM6dj0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTp2bWwiIHhtbG5zOm89InVy
 bjpzY2hlbWFzLW1pY3Jvc29mdC1jb206b2ZmaWNlOm9mZmljZSIgeG1sbnM6dz0idXJuOnNjaGVt
 YXMtbWljcm9zb2Z0LWNvbTpvZmZpY2U6d29yZCIgeG1sbnM6bT0iaHR0cDovL3NjaGVtYXMubWlj
 cm9zb2Z0LmNvbS9vZmZpY2UvMjAwNC8xMi9vbW1sIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcv
@@ -183,7 +179,8 @@ OnA+PC9vOnA+PC9zcGFuPjwvaT48L3A+CjxwIGNsYXNzPSJNc29Ob3JtYWwiPjxzcGFuIHN0eWxl
 PSJmb250LXNpemU6MTEuMHB0O2ZvbnQtZmFtaWx5OiZxdW90O0NhbGlicmkmcXVvdDssc2Fucy1z
 ZXJpZjtjb2xvcjojMUY0OTdEIj48bzpwPiZuYnNwOzwvbzpwPjwvc3Bhbj48L3A+CjxkaXY+Cjxw
 IGNsYXNzPSJNc29Ob3JtYWwiPjxzcGFuIHN0eWxlPSJjb2xvcjpibGFjayI+PG86cD4mbmJzcDs8
-L286cD48L3NwYW4+PC9wPgo8L2Rpdj4KPC9kaXY+CjwvYm9keT4KPC9odG1sPgo=X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX18NCmVuZ2xpc2gt
+L286cD48L3NwYW4+PC9wPgo8L2Rpdj4KPC9kaXY+CjwvYm9keT4KPC9odG1sPgo
+X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX18NCmVuZ2xpc2gt
 aGlzdC1ib29rIG1haWxpbmcgbGlzdA0KZW5nbGlzaC1oaXN0LWJvb2tAZ3JvdXBzLmVuZ2xpc2gu
 dXBlbm4uZWR1DQpodHRwczovL2dyb3Vwcy5zYXMudXBlbm4uZWR1L21haWxtYW4vbGlzdGluZm8v
-ZW5nbGlzaC1oaXN0LWJvb2sNCg==
+ZW5nbGlzaC1oaXN0LWJvb2sNCg

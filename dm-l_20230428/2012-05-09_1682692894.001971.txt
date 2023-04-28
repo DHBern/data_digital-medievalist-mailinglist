@@ -1,6 +1,10 @@
-Subject: [dm-l] Medieval Electronic Scholarly Alliance (MESA) at K-zooThe Medieval Electronic Scholarly Alliance (MESA) will be holding a
+Subject: [dm-l] Medieval Electronic Scholarly Alliance (MESA) at K-zoo
+
+The Medieval Electronic Scholarly Alliance (MESA) will be holding a
 roundtable session at the International Congress on Medieval Studies at 10
-AM on Friday, May 11. We'll be in Fetzer 2040.*What is MESA?*
+AM on Friday, May 11. We'll be in Fetzer 2040.
+
+*What is MESA?*
 MESA is a federation of electronic medieval studies projects that provides
 a portal allowing the simultaneous searching of all member projects and
 provides peer review of electronic scholarship in the field of medieval
@@ -8,20 +12,32 @@ studies. It is a sister federation of the Networked Infrastructure for
 Nineteenth-Century Electronic Scholarship (NINES) <http://www.nines.org/>and
 18thConnect <http://www.18thconnect.org/>, and will be linked to both of
 these federations, allowing users to search any of the federations
-separately or in any combination.*How does MESA work?*
+separately or in any combination.
+
+*How does MESA work?*
 MESA runs on Collex, an open-source collections- and exhibits-builder that
 is also the basis of NINES and 18thConnect. It uses Resource Description
 Framework (RDF) files that make data from member sites discoverable and
 cross-searchable. A good overview of how Collex works can be found on the
-NINES site at http://www.nines.org/about/software/collex/MESA will be launching later this year and is partnering with NINES and
+NINES site at http://www.nines.org/about/software/collex/
+
+MESA will be launching later this year and is partnering with NINES and
 18thConnect to build a larger meta-federation called ARC. Representatives
 from MESA, NINES, and ARC will be on the panel, and we are hoping to get
-feedback from the community as we plan our launch. Hope to see you there!Tim Stinson & Dot Porter--
+feedback from the community as we plan our launch. Hope to see you there!
+
+Tim Stinson & Dot Porter
+
+--
 Timothy L. Stinson
 Assistant Professor
 Department of English
 North Carolina State University
-http://english.chass.ncsu.edu/faculty_staff/tlstinsoVGhlIE1lZGlldmFsIEVsZWN0cm9uaWMgU2Nob2xhcmx5IEFsbGlhbmNlIChNRVNBKSB3aWxsIGJl
+http://english.chass.ncsu.edu/faculty_staff/tlstinso
+
+
+
+VGhlIE1lZGlldmFsIEVsZWN0cm9uaWMgU2Nob2xhcmx5IEFsbGlhbmNlIChNRVNBKSB3aWxsIGJl
 IGhvbGRpbmcgYSByb3VuZHRhYmxlIHNlc3Npb24gYXQgdGhlIEludGVybmF0aW9uYWwgQ29uZ3Jl
 c3Mgb24gTWVkaWV2YWwgU3R1ZGllcyBhdCAxMCBBTSBvbiBGcmlkYXksIE1heSAxMS4gV2UmIzM5
 O2xsIGJlIGluIEZldHplciAyMDQwLjxicj48YnI+PGI+V2hhdCBpcyBNRVNBPzwvYj48YnI+CgpN
@@ -53,4 +69,4 @@ aW1vdGh5IEwuIFN0aW5zb248YnI+QXNzaXN0YW50IFByb2Zlc3Nvcjxicj5EZXBhcnRtZW50IG9m
 IEVuZ2xpc2g8YnI+Tm9ydGggQ2Fyb2xpbmEgU3RhdGUgVW5pdmVyc2l0eTxicj48YSBocmVmPSJo
 dHRwOi8vZW5nbGlzaC5jaGFzcy5uY3N1LmVkdS9mYWN1bHR5X3N0YWZmL3Rsc3RpbnNvIj5odHRw
 Oi8vZW5nbGlzaC5jaGFzcy5uY3N1LmVkdS9mYWN1bHR5X3N0YWZmL3Rsc3RpbnNvPC9hPjxicj4K
-Cg==
+Cg

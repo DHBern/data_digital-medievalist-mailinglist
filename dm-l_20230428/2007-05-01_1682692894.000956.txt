@@ -1,5 +1,9 @@
-Subject: [dm-l] Junicode 0.6.13 releasedJunicode 0.6.13 is now available at http://junicode.sf.net.  Here are 
-the release notes:This release continues to add characters from the MUFI recommendation
+Subject: [dm-l] Junicode 0.6.13 released
+
+Junicode 0.6.13 is now available at http://junicode.sf.net.  Here are 
+the release notes:
+
+This release continues to add characters from the MUFI recommendation
 to benefit medievalists. Many messy outlines have been cleaned up,
 improving efficiency and reducing the likelihood of bugs. Most of the
 goodies in this release are for users of OpenType-aware programs such
@@ -13,4 +17,9 @@ OpenType features, especially ccmp (for glyph+diacritic combination)
 and hlig (Historical Ligatures). Fractions, Roman numbers, subscripts
 and the various "Enclosed Alphanumerics" have been made accessible as
 ligatures (either liga, Standard Ligatures, or dlig, Discretionary
-Ligatures).Peter Baker
+Ligatures).
+
+Peter Baker
+
+
+

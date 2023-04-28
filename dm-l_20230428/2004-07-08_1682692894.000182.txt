@@ -1,9 +1,15 @@
-Subject: Re: [dm-l] [Fwd: encoding  maps, graphics with text?]	ProblemswithNow I wonder what I am doing right (or wrong?) Still works fine overhere
+Subject: Re: [dm-l] [Fwd: encoding  maps, graphics with text?]	Problemswith
+
+Now I wonder what I am doing right (or wrong?) Still works fine overhere
 on the http://lingo.dcf.uvic.ca:8080/exist/graves/index.xml URL. 
 http://lingo.dcf.uvic.ca does say 'PHP works' also to me. I usually do
 not have problems connecting to any portnumber. Very very odd indeed.
  
-Joris_redacted_(a)dmu.ac.uk 7/8/04 11:55:18 >>>I have tried with various browsers, but all naturally in Mac OS X, and
+Joris
+
+_redacted_(a)dmu.ac.uk 7/8/04 11:55:18 >>>
+
+I have tried with various browsers, but all naturally in Mac OS X, and
 from
 different places, and just cannot get through.  I get 'the operation
 timed
@@ -22,16 +28,21 @@ access to any ports 8080.  Netstat does not show anything running on a
 8080
 So very odd indeed
 Anyone else see this behaviour?
-Peter
+Peter
+
 _______________________________________________
 dm-l mailing list
 _redacted_(a)uleth.ca
-http://listserv.uleth.ca/mailman/listinfo/dm-l
---===============5480143281344880561==
-Content-Type: text/html
+http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+
+
+--5480143281344880561Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PEhUTUw+PEhFQUQ+CjxNRVRBIGh0dHAtZXF1aXY9Q29udGVudC1UeXBlIGNvbnRlbnQ9InRleHQv
+Content-Disposition: attachment; filenameúttachment.html"
+MIME-Version: 1.0
+
+PEhUTUw+PEhFQUQ+CjxNRVRBIGh0dHAtZXF1aXY9Q29udGVudC1UeXBlIGNvbnRlbnQ9InRleHQv
 aHRtbDsgY2hhcnNldD1pc28tODg1OS0xIj4KPE1FVEEgY29udGVudD0iTVNIVE1MIDYuMDAuMjgw
 MC4xNDAwIiBuYW1lPUdFTkVSQVRPUj48L0hFQUQ+CjxCT0RZIHN0eWxlPSJNQVJHSU46IDRweCA0
 cHggMXB4OyBGT05UOiAxMHB0IEFyaWFsOyBDT0xPUjogIzAwMDAwMCI+CjxESVY+Tm93IEkgd29u
@@ -65,4 +76,4 @@ PEJSPlBldGVyPEJSPjxCUj48QlI+X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19f
 X19fX19fX19fX188QlI+ZG0tbCBtYWlsaW5nIGxpc3Q8QlI+ZG0tbEB1bGV0aC5jYTxCUj48QSBo
 cmVmPSJodHRwOi8vbGlzdHNlcnYudWxldGguY2EvbWFpbG1hbi9saXN0aW5mby9kbS1sIj5odHRw
 Oi8vbGlzdHNlcnYudWxldGguY2EvbWFpbG1hbi9saXN0aW5mby9kbS1sPC9BPjxCUj48L0RJVj48
-L0JPRFk+PC9IVE1MPg==
+L0JPRFk+PC9IVE1MPg

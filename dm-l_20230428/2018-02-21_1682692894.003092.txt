@@ -1,23 +1,38 @@
-Subject: [dm-l] A Formal Model for Historical Atlases and Historical	KnowledgeDear Listmembers,When designing historical maps spanning several centuries, we faced=20
-serious difficulties to consistently show the different categories of=20
+Subject: [dm-l] A Formal Model for Historical Atlases and Historical	Knowledge
+
+Dear Listmembers,
+
+When designing historical maps spanning several centuries, we faced 
+serious difficulties to consistently show the different categories of 
 political entities in view of the evolution of political ideas.
-That is why, we are currently trying to work out an impartial and=20
-consistent solution allowing to depict all kind of polities throughout=20
-history regardless of the ideas of the time, as a formal model which in=20
+That is why, we are currently trying to work out an impartial and 
+consistent solution allowing to depict all kind of polities throughout 
+history regardless of the ideas of the time, as a formal model which in 
 reality goes beyond the simple stage of historical geography.
-Thus we published the draft A FORMAL MODEL FOR HISTORICAL ATLASES AND=20
+Thus we published the draft A FORMAL MODEL FOR HISTORICAL ATLASES AND 
 HISTORICAL KNOWLEDGE which is the first part of our research.
-https://www.academia.edu/s/af65884c0f/a-formal-model-for-historical-atlases-a=
-nd-historical-knowledge?source=3Dlink
-In the second step, we will define precisely the criteria for assigning=20
-properties to objects.Persons interested can receive an invitation code in order to create=20
-their own graph in our model.Sincerely________________________________________
-Christos N=C3=BCssliwww.euratlas.org
---===============8779442925272886852==
-Content-Type: text/html
+https://www.academia.edu/s/af65884c0f/a-formal-model-for-historical-atlases-and-historical-knowledge?source=link
+In the second step, we will define precisely the criteria for assigning 
+properties to objects.
+
+Persons interested can receive an invitation code in order to create 
+their own graph in our model.
+
+Sincerely
+
+________________________________________
+Christos NÃ¼ssli
+
+www.euratlas.org
+
+
+
+--8779442925272886852Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWw+CiAgPGhlYWQ+CgogICAgPG1ldGEgaHR0cC1lcXVpdj0iY29udGVudC10eXBlIiBjb250
+Content-Disposition: attachment; filenameúttachment.html"
+MIME-Version: 1.0
+
+PGh0bWw+CiAgPGhlYWQ+CgogICAgPG1ldGEgaHR0cC1lcXVpdj0iY29udGVudC10eXBlIiBjb250
 ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9dXRmLTgiPgogIDwvaGVhZD4KICA8Ym9keSB0ZXh0PSIj
 MzMzMzk5IiBiZ2NvbG9yPSIjRkZGRkZGIj4KICAgIDxwPkRlYXIgTGlzdG1lbWJlcnMsPGJyPgog
 ICAgPC9wPgogICAgPHA+V2hlbiBkZXNpZ25pbmcgaGlzdG9yaWNhbCBtYXBzIHNwYW5uaW5nIHNl
@@ -45,4 +60,4 @@ IG1vZGVsLjxicj4KICAgICAgPGJyPgogICAgICBTaW5jZXJlbHkgPC9wPgogICAgPHByZSBjbGFz
 cz0ibW96LXNpZ25hdHVyZSIgY29scz0iNzIiPgpfX19fX19fX19fX19fX19fX19fX19fX19fX19f
 X19fX19fX19fX19fCkNocmlzdG9zIE7DvHNzbGkKCjxhIGNsYXNzPSJtb3otdHh0LWxpbmstYWJi
 cmV2aWF0ZWQiIGhyZWY9Imh0dHA6Ly93d3cuZXVyYXRsYXMub3JnIj53d3cuZXVyYXRsYXMub3Jn
-PC9hPjwvcHJlPgogIDwvYm9keT4KPC9odG1sPgo=
+PC9hPjwvcHJlPgogIDwvYm9keT4KPC9odG1sPgo

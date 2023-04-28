@@ -1,13 +1,19 @@
-Subject: Re: [dm-l] Getting Latin Spell Check for Word 2011 ON A MAC
+Subject: Re: [dm-l] Getting Latin Spell Check for Word 2011 ON A MAC
+
 On 18 Jul 2012, at 15:38 , Andrew Dunning wrote:
 > You might also be interested to know that there is a way to install
 > the OpenOffice/LibreOffice Latin dictionary system-wide in Mac OS X
 > (i.e. in Mail, TextEdit, BBEdit, etc., though it doesn't apply to
 > Word). Change the extension of the OpenOffice file to zip (it's
 > actually an archive), uncompress it, and place the aff and dic files
-> in Library/Spelling/. This works for any Hunspell dictionary.That's brilliant. In addition to Latin, I quickly found a (Modern) Icelandic =
-one as well. :)Cheers,
-Carl--
+> in Library/Spelling/. This works for any Hunspell dictionary.
+
+That's brilliant. In addition to Latin, I quickly found a (Modern) Icelandic one as well. :)
+
+Cheers,
+Carl
+
+--
 Carl Edlund Anderson
 _redacted_(a)carlaz.com
 _redacted_(a)unisabana.edu.co
@@ -15,5 +21,17 @@ http://unisabana.academia.edu/CarlAnderson
 http://www.mendeley.com/profiles/carl-edlund-anderson/
 Department of Languages & Cultures
 University of La Sabana
-Ch=C3=ADa, Colombia
---===============4844141931552606814==--
+Chía, Colombia
+
+
+
+
+
+
+
+
+
+
+
+--4844141931552606814-
+

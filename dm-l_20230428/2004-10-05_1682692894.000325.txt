@@ -1,18 +1,31 @@
-Subject: Re: [dm-l] Character reference conversions: help?Dan,If you process the file with an XSLT script that looks like this:<?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet version = '1.0'
-     xmlns="http://www.w3.org/1999/xhtml"
-     xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+Subject: Re: [dm-l] Character reference conversions: help?
+
+Dan,
+
+If you process the file with an XSLT script that looks like this:
+
+<?xml versionñ.0" encodingTF-8"?>
+<xsl:stylesheet version      xmlnsttp://www.w3.org/1999/xhtml"
+     xmlns:xslttp://www.w3.org/1999/XSL/Transform">
  
-<xsl:output method="xml" doctype-public="-//W3C//DTD XHTML 1.0 
+<xsl:output methodml" doctype-public//W3C//DTD XHTML 1.0 
 Transitional//EN"            
-doctype-system="http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"/>
+doctype-systemttp://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"/>
  
-<xsl:template match="/">
-  <xsl:copy-of select="."/>
+<xsl:template match">
+  <xsl:copy-of select"/>
 </xsl:template>
  
  
-</xsl:stylesheet>then your entities should all get converted to UTF-8 automagically.PeterDaniel O'Donnell wrote:> Digital Medievalist Journal (Inaugural Issue Fall 2004). Call for 
+</xsl:stylesheet>
+
+then your entities should all get converted to UTF-8 automagically.
+
+Peter
+
+Daniel O'Donnell wrote:
+
+> Digital Medievalist Journal (Inaugural Issue Fall 2004). Call for 
 > papers: http://www.digitalmedievalist.org/cfp.htm
 > ----------------
 > Hello all,
@@ -28,5 +41,9 @@ doctype-system="http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"/>
 > of a filter that might do the conversions for me? Or have advice on 
 > using open office (Windows version) with UCS-4 encoding?
 >
-> -dan
---===============6064823236879000652==--
+> -dan
+
+
+
+--6064823236879000652-
+

@@ -1,9 +1,19 @@
-Subject: Re: [dm-l] Junicode 0.7.1One more note by the way. If you have a *very* recent version of Firefox 
+Subject: Re: [dm-l] Junicode 0.7.1
+
+One more note by the way. If you have a *very* recent version of Firefox 
 you can see the new advanced typography support in that browser 
-tested/demonstrated with Junicode here:http://faculty.virginia.edu/OldEnglish/juntest/Insular letter-shapes, true small caps, historical forms, and more, 
+tested/demonstrated with Junicode here:
+
+http://faculty.virginia.edu/OldEnglish/juntest/
+
+Insular letter-shapes, true small caps, historical forms, and more, 
 including (my personal favorite) reversed and mirrored runes. I hope 
 very much that this kind of typography will eventually be supported in 
-all the major browsers.PBOn 1/16/12 7:43 AM, Peter Baker wrote:
+all the major browsers.
+
+PB
+
+On 1/16/12 7:43 AM, Peter Baker wrote:
 > Yet another release of Junicode, the font for medievalists.
 >
 > There were significant problems with some Windows apps in version 0.7. 
@@ -25,6 +35,9 @@ all the major browsers.PBOn 1/16/12 7:43 AM, Peter Baker wrote:
 > News: http://www.digitalmedievalist.org/news/
 > Wiki: http://www.digitalmedievalist.org/wiki/
 > Twitter: http://twitter.com/digitalmedieval
-> Facebook: http://www.facebook.com/group.php?gid=49320313760
+> Facebook: http://www.facebook.com/group.php?gidI320313760
 _redacted_(a)uleth.ca
-> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+
+

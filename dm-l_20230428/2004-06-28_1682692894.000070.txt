@@ -1,19 +1,35 @@
-Subject: Re: [dm-l] MS-Internet Explorer 6 and standards based computingI suspect that my own experiences have made me a bit jaundiced about 
+Subject: Re: [dm-l] MS-Internet Explorer 6 and standards based computing
+
+I suspect that my own experiences have made me a bit jaundiced about 
 client-side programming generally. I spent years making and maintaining 
 a Java applet that would work both in Netscape and IE. It was an 
 unspeakable misery: every time I got it stable Sun would change the spec 
 in response to some new security concern, or Microsoft would break some 
 new thing in their Java "implementation," and I'd have to figure out 
 what was wrong and fix it, often while my students or someone else's 
-were complaining loudly about lack of access.So now I'm in the process of migrating as much as possible to the server 
-side, and my new rules are:- never to do anything on the client side that can be done on the server.- Use only standards-compliant features of browsers (in my case CSS and 
-a bit of [mostly] ECMA-compliant JavaScript).So far this has made for a (relatively) carefree computing experience. 
+were complaining loudly about lack of access.
+
+So now I'm in the process of migrating as much as possible to the server 
+side, and my new rules are:
+
+- never to do anything on the client side that can be done on the server.
+
+- Use only standards-compliant features of browsers (in my case CSS and 
+a bit of [mostly] ECMA-compliant JavaScript).
+
+So far this has made for a (relatively) carefree computing experience. 
 No complaints from users about how this or that won't work; no need to 
 serve different pages or programs for different browsers, etc. I won't 
 say that it's nuts to use the XSL built into Microsoft's browser, but I 
 absolutely would not do it, since I've got a perfectly good XSLT 
 processor available on the server side; and I just have to worry about 
-how that one works, as opposed to three or four different ones.PeterJeffrey Fisher wrote:>
+how that one works, as opposed to three or four different ones.
+
+Peter
+
+Jeffrey Fisher wrote:
+
+>
 > On Monday, June 28, 2004, at 05:54 AM, Joris van.Zundert wrote:
 >
 >>
@@ -88,4 +104,7 @@ how that one works, as opposed to three or four different ones.PeterJeffrey 
 _redacted_(a)uleth.ca
 > http://listserv.uleth.ca/mailman/listinfo/dm-l
 >
->
+>
+
+
+

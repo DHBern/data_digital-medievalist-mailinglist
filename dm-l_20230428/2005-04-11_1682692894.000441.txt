@@ -1,10 +1,25 @@
-Subject: Re: [dm-l] Question about CSS and IEHave you indicated in the header that you are using a stylesheet in the
-html?(e.g. <link rel="stylesheet" href='../styles/main-style.css'
-type="text/css" /> )Also, I think that the CSS tags are quite different from what I've seen
+Subject: Re: [dm-l] Question about CSS and IE
+
+Have you indicated in the header that you are using a stylesheet in the
+html?
+
+(e.g. <link reltylesheet" href./styles/main-style.css'
+typeext/css" /> )
+
+Also, I think that the CSS tags are quite different from what I've seen
 before.  I think that instead of saying <q q q> maybe you could use <q1>,
-<q2> or <q>, <qq>.  Sometimes CSS is stuborn with the spacings.I don't know if that will help, but there's my 2 cents or pence (UK) worth
-of advice.Abdullah
-_redacted_(a)uleth.ca>:> Hi all,
+<q2> or <q>, <qq>.  Sometimes CSS is stuborn with the spacings.
+
+I don't know if that will help, but there's my 2 cents or pence (UK) worth
+of advice.
+
+Abdullah
+
+
+
+_redacted_(a)uleth.ca>:
+
+> Hi all,
 > I have a question about Internet Explorer. We are proofing the journal
 > right now, and have discovered that IE doesn't seem to display quotation
 > marks for the html:q tag. To indicate italics, we follow the W3C
@@ -86,5 +101,9 @@ _redacted_(a)uleth.ca
 > dm-l mailing list
 _redacted_(a)uleth.ca
 > http://listserv.uleth.ca/mailman/listinfo/dm-l
->
---===============5130346419213321284==--
+>
+
+
+
+--5130346419213321284-
+

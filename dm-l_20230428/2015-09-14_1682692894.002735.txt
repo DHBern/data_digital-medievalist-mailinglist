@@ -1,45 +1,61 @@
-Subject:[Apologies for cross-posting]
+Subject:
+
+[Apologies for cross-posting]
 *
-**12th IAPR International Workshop on Document Analysis Systems, April=20
+**12th IAPR International Workshop on Document Analysis Systems, April 
 11-14, 2016, Island of Santorini, Greece
 *
-/Further information and information about the submission can be found=20
+/Further information and information about the submission can be found 
 here: http://www.primaresearch.org/das2016///
-/*About the conference*
-DAS 2016 is the 12th edition of the 100% participation single-track IAPR=20
-sponsored workshop focusing on system-level issues and approaches in=20
-document analysis and recognition. The workshop comprises invited=20
-speaker presentations, oral, poster, tutorial and demo sessions as well=20
-as working group discussions.DAS 2016 will be organized on the *island of Santorini, Greece (April=20
-11-14, 2016)*. Santorini was created from a volcanic eruption that left=20
-it with volcanic cliffs overlooking a black and red coast, dazzling=20
-against the turquoise Mediterranean. Santorini is one of the most=20
-popular, beautiful and unique islands in the world since it combines a=20
-cosmopolitan atmosphere, spectacular scenery of deep blue sea and=20
-whitewashed houses, breathtaking sunsets, ancient sites, world-class=20
-restaurants and an active volcano.
+/
+
+*About the conference*
+DAS 2016 is the 12th edition of the 100% participation single-track IAPR 
+sponsored workshop focusing on system-level issues and approaches in 
+document analysis and recognition. The workshop comprises invited 
+speaker presentations, oral, poster, tutorial and demo sessions as well 
+as working group discussions.
+
+DAS 2016 will be organized on the *island of Santorini, Greece (April 
+11-14, 2016)*. Santorini was created from a volcanic eruption that left 
+it with volcanic cliffs overlooking a black and red coast, dazzling 
+against the turquoise Mediterranean. Santorini is one of the most 
+popular, beautiful and unique islands in the world since it combines a 
+cosmopolitan atmosphere, spectacular scenery of deep blue sea and 
+whitewashed houses, breathtaking sunsets, ancient sites, world-class 
+restaurants and an active volcano.
+
 *Submission Types*
-DAS2016 will include both long and short papers, posters and=20
-demonstrations of working or prototype systems. All submissions will=20
-undergo a rigorous review process with a minimum of 3 reviews=20
-considering the originality of work, the quality of research or analysis=20
-of experience, the relevance to document analysis systems, and quality=20
-of presentation of ideas._Full Papers_
-Full papers should describe complete works of original research. Authors=20
-are invited to submit original, unpublished research papers that are not=20
-being considered in another forum, up to 6 pages length._Short Papers_
-Short papers provide an opportunity to report on research in progress,=20
-to present novel positions on document analysis systems. Authors may=20
-submit short papers (up to 2 pages in length). Short papers will also=20
-undergo review and will appear in an extra booklet, not in the official=20
-DAS2016 proceedings._Demonstrations_
-DAS2016 seeks public demonstrations of novel systems, to be presented to=20
-the workshop as a whole during breaks between paper sessions.=20
-Prospective demonstrators should submit a two-page summary of the system=20
-to be demonstrated. Demonstration proposals will undergo review and=20
-summaries of accepted demonstrations will appear in the extra DAS2016=20
-booklet, as in the case of short papers.
-*Topics & Technologies*  * Algorithms for graphics recognition
+DAS2016 will include both long and short papers, posters and 
+demonstrations of working or prototype systems. All submissions will 
+undergo a rigorous review process with a minimum of 3 reviews 
+considering the originality of work, the quality of research or analysis 
+of experience, the relevance to document analysis systems, and quality 
+of presentation of ideas.
+
+_Full Papers_
+Full papers should describe complete works of original research. Authors 
+are invited to submit original, unpublished research papers that are not 
+being considered in another forum, up to 6 pages length.
+
+_Short Papers_
+Short papers provide an opportunity to report on research in progress, 
+to present novel positions on document analysis systems. Authors may 
+submit short papers (up to 2 pages in length). Short papers will also 
+undergo review and will appear in an extra booklet, not in the official 
+DAS2016 proceedings.
+
+_Demonstrations_
+DAS2016 seeks public demonstrations of novel systems, to be presented to 
+the workshop as a whole during breaks between paper sessions. 
+Prospective demonstrators should submit a two-page summary of the system 
+to be demonstrated. Demonstration proposals will undergo review and 
+summaries of accepted demonstrations will appear in the extra DAS2016 
+booklet, as in the case of short papers.
+
+*Topics & Technologies*
+
+  * Algorithms for graphics recognition
   * Applications
   * Authoring, annotation, and presentation systems
   * Camera-based document image analysis
@@ -59,12 +75,16 @@ booklet, as in the case of short papers.
   * Multimedia document analysis
   * Page layout analysis
   * Pen-based user interface
-  * Performance evaluation*
+  * Performance evaluation
+
+*
 *
 *Important Dates*
 _
 Tutorials proposals_
-Proposals due    Sep 04, 2015_Regular Papers__
+Proposals due    Sep 04, 2015
+
+_Regular Papers__
 _Abstracts due    Sep 25, 2015
 Papers due    Oct 02, 2015
 Decision notification    Dec 07, 2015
@@ -75,22 +95,38 @@ __Short Papers_
 Papers due    Jan 08, 2016
 Decision notification    Feb 08, 2016
 Camera ready due    Feb 22, 2016
-*Committees*_General Chairs_
+*
+
+Committees*
+
+_General Chairs_
 Apostolos Antonacopoulos, UK
-Basilis Gatos, Greece_Program Chairs_
+Basilis Gatos, Greece
+
+_Program Chairs_
 Michael Blumenstein, Australia
-Josep LLad=C3=B3s, Spain
-Dan Lopresti, USA_Tutorial Chairs_
+Josep LLadós, Spain
+Dan Lopresti, USA
+
+_Tutorial Chairs_
 Dimosthenis Karatzas, Spain
-Cheng-Lin Liu, China_Publicity Chairs_
+Cheng-Lin Liu, China
+
+_Publicity Chairs_
 Gernot Fink, Germnay
-Marco B=C3=BCchler, Germany
-Clemens Neudecker, Germany_Publications Chair_
-Stefan Pletschacher, UK_Organising Committee_
+Marco Büchler, Germany
+Clemens Neudecker, Germany
+
+_Publications Chair_
+Stefan Pletschacher, UK
+
+_Organising Committee_
 Christian Clausner, UK
 George Louloudis, Greece
 Christos Papadopoulos, UK
-Nikolaos Stamatopoulos, Greece_Program Committee_
+Nikolaos Stamatopoulos, Greece
+
+_Program Committee_
 Elisa Barney Smith, USA
 Bill Barrett, USA
 Abdel Belaid, France
@@ -99,7 +135,7 @@ Andreas Dengel, Germany
 Xiaoqing Ding, China
 Veronique Eglin, France
 Andreas Fischer, Switzerland
-Alicia Forn=C3=A9s, Spain
+Alicia Fornés, Spain
 Volkmar Frinken, Japan
 Venu Govindaraju, USA
 Tin Kam Ho, USA
@@ -114,7 +150,7 @@ Marcus Liwicki, Germany
 Laura Mandell, USA
 R. Manmatha, USA
 Simone Marinai, Italy
-G=C3=BCnter M=C3=BChlberger, Austria
+Günter Mühlberger, Austria
 Masaki Nakagawa, Japan
 Prem Natarajan, USA
 Jean-Marc Ogier, France
@@ -122,7 +158,7 @@ Umapada Pal, India
 Thierry Paquet, France
 Vincent Poulain d'Andecy, France
 Jean-Yves Ramel, France
-Mar=C3=A7al Rusi=C3=B1ol, Spain
+Marçal Rusiñol, Spain
 Marc-Peter Schambach, Germany
 Klaus Schulz, Germany
 Srirangaraj Setlur, USA
@@ -134,32 +170,40 @@ Karl Tombre, France
 Seiichi Uchida, Japan
 Enrique Vidal, Spain
 Berrin Yanikoglu, Turkey
-Richard Zanibbi, USA
-For further information, please, contact the organizers via=20
-_redacted_(a)primaresearch.org.
---=20
-Marco B=C3=9CCHLER
-G=C3=B6ttingen Centre for Digital Humanities (GCDH)
+Richard Zanibbi, USA
+
+For further information, please, contact the organizers via 
+_redacted_(a)primaresearch.org.
+
+-- 
+Marco BÜCHLER
+Göttingen Centre for Digital Humanities (GCDH)
 Chair for Telematics
 Institute for Computer Science
-Georg-August-Universit=C3=A4t G=C3=B6ttingen
+Georg-August-Universität Göttingen
 Papendiek 16 (Heynehaus)
-37073 G=C3=B6ttingen_redacted_(a)gcdh.de
+37073 Göttingen
+
+_redacted_(a)gcdh.de
 Profil   : http://www.gcdh.de/en/people/team/marco-buechler/
-Web      : http://www.gcdh.de/ (GCDH G=C3=B6ttingen Centre for Digital Humani=
-ties)
+Web      : http://www.gcdh.de/ (GCDH Göttingen Centre for Digital Humanities)
 Web      : http://etrap.gcdh.de/ (eTRAP Research Group)
-Web      : http://www.uni-goettingen.de/en/112072.html (Telematics Group at I=
-nstitute for Computer Science)
-LinkedIn : http://www.linkedin.com/profile/view?id=3D15098543&trk=3Dtab_pro
-Twitter  : https://twitter.com/mabuechler
-Leadership is a choice. It is not a formal position, and does not come with a=
- title. (Mark McGregor)
---===============3463176058676347491==
-Content-Type: text/html
+Web      : http://www.uni-goettingen.de/en/112072.html (Telematics Group at Institute for Computer Science)
+LinkedIn : http://www.linkedin.com/profile/view?id=15098543&trk=tab_pro
+Twitter  : https://twitter.com/mabuechler
+
+
+
+Leadership is a choice. It is not a formal position, and does not come with a title. (Mark McGregor)
+
+
+
+--3463176058676347491Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWw+CiAgPGhlYWQ+CgogICAgPG1ldGEgaHR0cC1lcXVpdj0iY29udGVudC10eXBlIiBjb250
+Content-Disposition: attachment; filename�ttachment.html"
+MIME-Version: 1.0
+
+PGh0bWw+CiAgPGhlYWQ+CgogICAgPG1ldGEgaHR0cC1lcXVpdj0iY29udGVudC10eXBlIiBjb250
 ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9dXRmLTgiPgogIDwvaGVhZD4KICA8Ym9keSBiZ2NvbG9y
 PSIjRkZGRkZGIiB0ZXh0PSIjMDAwMDAwIj4KICAgIFtBcG9sb2dpZXMgZm9yIGNyb3NzLXBvc3Rp
 bmddPGJyPgogICAgPGJpZz48YmlnPjxiPjxicj4KICAgICAgICA8L2I+PGI+MTJ0aCBJQVBSIElu
@@ -317,4 +361,4 @@ NTQzJmFtcDt0cms9dGFiX3BybzwvYT4KVHdpdHRlciAgOiA8YSBjbGFzcz0ibW96LXR4dC1saW5r
 LWZyZWV0ZXh0IiBocmVmPSJodHRwczovL3R3aXR0ZXIuY29tL21hYnVlY2hsZXIiPmh0dHBzOi8v
 dHdpdHRlci5jb20vbWFidWVjaGxlcjwvYT4KCgoKCkxlYWRlcnNoaXAgaXMgYSBjaG9pY2UuIEl0
 IGlzIG5vdCBhIGZvcm1hbCBwb3NpdGlvbiwgYW5kIGRvZXMgbm90IGNvbWUgd2l0aCBhIHRpdGxl
-LiAoTWFyayBNY0dyZWdvcikKPC9wcmU+CiAgPC9ib2R5Pgo8L2h0bWw+Cg==
+LiAoTWFyayBNY0dyZWdvcikKPC9wcmU+CiAgPC9ib2R5Pgo8L2h0bWw+Cg

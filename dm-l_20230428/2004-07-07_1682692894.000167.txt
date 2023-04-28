@@ -1,5 +1,10 @@
-Subject: Re: [dm-l] [Fwd: encoding  maps, graphics with text?]Could be that your firewall is blocking port 8080. Try asking your network
-administrator.Tom
+Subject: Re: [dm-l] [Fwd: encoding  maps, graphics with text?]
+
+Could be that your firewall is blocking port 8080. Try asking your network
+administrator.
+
+Tom
+
 > Peter Robinson wrote:
 >
 > >But alas
@@ -18,5 +23,7 @@ administrator.Tom
 > >><http://lingo.dcf.uvic.ca:8080/exist/graves/index.xml>
 > >>
 > >>Cheers,
-> >>Martin
---===============0747181006000359278==--
+> >>Martin
+
+--0747181006000359278-
+

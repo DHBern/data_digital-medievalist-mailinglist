@@ -1,49 +1,31 @@
-Subject: [dm-l] CeRch Seminar - October 15th (Linking Images and Text inDear all,
-Apologies for cross-posting.Please find below the details of next week's CeRch seminar: Linking Images an=
-d Text in Digital Editions of Vetusta Monumenta (Kristen Schuster, University=
- of Missouri, Columbia)Tuesday, October 15th, 2013 from 6:15 PM to 7:30 PM (GMT)
+Subject: [dm-l] CeRch Seminar - October 15th (Linking Images and Text in
+
+Dear all,
+Apologies for cross-posting.
+
+Please find below the details of next week's CeRch seminar: Linking Images and Text in Digital Editions of Vetusta Monumenta (Kristen Schuster, University of Missouri, Columbia)
+
+Tuesday, October 15th, 2013 from 6:15 PM to 7:30 PM (GMT)
 Anatomy Theatre and Museum, King's College London:
-http://www.kcl.ac.uk/cultural/atm/location.aspxAttendance is free and open to all, but registration is requested:
+http://www.kcl.ac.uk/cultural/atm/location.aspx
+
+Attendance is free and open to all, but registration is requested:
 https://www.eventbrite.com/event/8348401293
-The seminar will be followed by wine and nibbles.All the very best,
-Valentina Asciutti15th October: Kristen Schuster, University of Missouri, Columbia
+The seminar will be followed by wine and nibbles.
+
+All the very best,
+Valentina Asciutti
+
+15th October: Kristen Schuster, University of Missouri, Columbia
 Linking Images and Text in Digital Editions of Vetusta Monumenta
-Abstract: Published by the Society of Antiquarians of London Vetusta Monument=
-a is a compendium of text and images describing and representing ancient arti=
-facts and buildings from Europe (primarily England).  Created over a number o=
-f years multiple volumes and editions of the work exist, three of which now r=
-eside in Ellis Library, Special Collections, at the University of Missouri Co=
-lumbia.  Although high quality scans have been made, currently only limited d=
-escriptive, administrative or technical metadata exists. In an effort to reme=
-dy this situation a group of librarians and English Department faculty have b=
-egun collaborating to synthesize scholarly and historical commentary with ima=
-ges in order to explore the potential of linked data. Beginning as a 'simple'=
- digital libraries project, it has since evolved into an exploration of the p=
-otential for descriptive metadata to enhance the value of digitized materials.
-In particular, this project has made it necessary to ask: how should images a=
-nd text interact in a digital library? Over the past decade questions like th=
-is have catalyzed a concerted exploration of information seeking behaviors in=
- digital environments. While systems for negotiating text or images exist, ea=
-ch schema, protocol or controlled vocabulary is rather specialized and, thus,=
- depends on users acquiring information or visual literacy skills - as oppose=
-d to a synthesis of the two. The collaboration between librarians and scholar=
-s has made it possible to re-contextualize the idea of linked data by directl=
-y linking scholarship to the materials it references. Using the Visual Resour=
-ce Associations (VRA) VRA Core schema and Cataloging Cultural Objects content=
- standard it has been possible to exploit the accuracy and extensibility of O=
-CLCs Dublin Core schema through the use of SCALAR, a new digital library inte=
-rface developed by the University of Southern California.  As an ongoing proj=
-ect participants are endeavoring to use the digital surrogates of images to e=
-nhance the readability and value of written scholarship by associating text a=
-nd images in an innovate manner.Bio: Kristen is currently a second year doctoral student in the School of Inf=
-ormation Science and Learning Technologies at the University of Missouri Colu=
-mbia. Her experiences as a librarian have primarily consisted of metadata man=
-agement in visual resource departments, which has been quite useful in her cu=
-rrent work and research in the area of digital humanities. She began collabor=
-ating with the English Department last spring to develop a digital edition of=
- three volumes of Vetusta Monumenta, an antiquarian text of prints and essays=
- on ancient British monuments published by the Society of Antiquaries of Lond=
-on.PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
+Abstract: Published by the Society of Antiquarians of London Vetusta Monumenta is a compendium of text and images describing and representing ancient artifacts and buildings from Europe (primarily England).  Created over a number of years multiple volumes and editions of the work exist, three of which now reside in Ellis Library, Special Collections, at the University of Missouri Columbia.  Although high quality scans have been made, currently only limited descriptive, administrative or technical metadata exists. In an effort to remedy this situation a group of librarians and English Department faculty have begun collaborating to synthesize scholarly and historical commentary with images in order to explore the potential of linked data. Beginning as a 'simple' digital libraries project, it has since evolved into an exploration of the potential for descriptive metadata to enhance the value of digitized materials.
+In particular, this project has made it necessary to ask: how should images and text interact in a digital library? Over the past decade questions like this have catalyzed a concerted exploration of information seeking behaviors in digital environments. While systems for negotiating text or images exist, each schema, protocol or controlled vocabulary is rather specialized and, thus, depends on users acquiring information or visual literacy skills - as opposed to a synthesis of the two. The collaboration between librarians and scholars has made it possible to re-contextualize the idea of linked data by directly linking scholarship to the materials it references. Using the Visual Resource Associations (VRA) VRA Core schema and Cataloging Cultural Objects content standard it has been possible to exploit the accuracy and extensibility of OCLCs Dublin Core schema through the use of SCALAR, a new digital library interface developed by the University of Southern California.  As an ongoing project participants are endeavoring to use the digital surrogates of images to enhance the readability and value of written scholarship by associating text and images in an innovate manner.
+
+Bio: Kristen is currently a second year doctoral student in the School of Information Science and Learning Technologies at the University of Missouri Columbia. Her experiences as a librarian have primarily consisted of metadata management in visual resource departments, which has been quite useful in her current work and research in the area of digital humanities. She began collaborating with the English Department last spring to develop a digital edition of three volumes of Vetusta Monumenta, an antiquarian text of prints and essays on ancient British monuments published by the Society of Antiquaries of London.
+
+
+
+PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
 eHQvaHRtbDsgY2hhcnNldD11cy1hc2NpaSI+CjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyIgaWQ9Im93
 YVBhcmFTdHlsZSIgc3R5bGU9ImRpc3BsYXk6IG5vbmU7Ij5QIHttYXJnaW4tdG9wOjA7bWFyZ2lu
 LWJvdHRvbTowO308L3N0eWxlPgo8L2hlYWQ+Cjxib2R5IGRpcj0ibHRyIiBmcHN0eWxlPSIxIiBh
@@ -177,4 +159,4 @@ dGhyZWUgdm9sdW1lcyBvZiBWZXR1c3RhIE1vbnVtZW50YSwgYW4gYW50aXF1YXJpYW4gdGV4dCBv
 ZiBwcmludHMKIGFuZCBlc3NheXMgb24gYW5jaWVudCBCcml0aXNoIG1vbnVtZW50cyBwdWJsaXNo
 ZWQgYnkgdGhlIFNvY2lldHkgb2YgQW50aXF1YXJpZXMgb2YgTG9uZG9uLjxzcGFuIGNsYXNzPSJh
 cHBsZS1jb252ZXJ0ZWQtc3BhY2UiPiZuYnNwOzwvc3Bhbj48L3NwYW4+PC9kaXY+CjwvYm9keT4K
-PC9odG1sPgo=
+PC9odG1sPgo

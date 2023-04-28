@@ -1,25 +1,27 @@
-Subject: [dm-l] Digital History Seminar, Tuesday 14 May: Matthew Hammond 'The*Digital History Seminar*Matthew HammondThe People of Medieval Scotland
+Subject: [dm-l] Digital History Seminar, Tuesday 14 May: Matthew Hammond 'The
+
+*Digital History Seminar*Matthew HammondThe People of Medieval Scotland
 Database: A Prosopographical Survey5:15pm (BST) on 14 May
-2013<http://www.timeanddate.com/worldclock/fixedtime.html?msg=3DDigital+Histo=
-ry+Seminar&iso=3D20130514T1715&p1=3D136>
+2013<http://www.timeanddate.com/worldclock/fixedtime.html?msg=Digital+History+Seminar&iso=20130514T1715&p1=136>
 Room 243 (Senate House) and live on the Web at History
-SPOT<https://historyspot.org.uk/podcasts>=E2=80=98The People of Medieval Scotland, 1093-1314=E2=80=99 is a prosopograp=
-hical
+SPOT<https://historyspot.org.uk/podcasts>
+
+‘The People of Medieval Scotland, 1093-1314’ is a prosopographical
 database that has
 been in production since 2007, and has been freely available online since
 the summer of 2010. Since the relaunch of the database last year, the site
 has had over 40,000 unique visitors from across the globe. Now nearing
 completion, the database contains records on over 20,000 individuals, drawn
 from over 8500 medieval, mostly Latin documents. The paper will examine
-some of the PoMS project=E2=80=99s technical innovations as well as the new
-directions we hope to take in the coming years.The seminar will take you behind the scenes of the public website to see
+some of the PoMS project’s technical innovations as well as the new
+directions we hope to take in the coming years.
+
+The seminar will take you behind the scenes of the public website to see
 how this database evolved from the factoid prosopography model created for
-the =E2=80=98Prosopography of Anglo-Saxon England=E2=80=99 (PASE) by John Bra=
-dley of the
+the ‘Prosopography of Anglo-Saxon England’ (PASE) by John Bradley of the
 Centre for Computing in the Humanities, now Department of Digital
 Humanities, at Kings College London. PoMS has developed what might be
-called a =E2=80=98transactional model=E2=80=99 of factoid prosopography, due =
-to the fact
+called a ‘transactional model’ of factoid prosopography, due to the fact
 that it is comprised almost entirely of transactional documents like
 charters. Rather than simply recording events, the transactional model is
 explicitly interested in relations between individuals as recorded in the
@@ -31,13 +33,19 @@ look at the work of Michele Pasin, formerly of DDH, in developing new ways
 for users to both search and visualise these transactions. The seminar will
 finish with a consideration of the capabilities of the database for
 studying the social networks, and visualising the relationships between
-large numbers of people.*Matthew Hammond* is a Research Associate in the School of Humanities at
+large numbers of people.
+
+*Matthew Hammond* is a Research Associate in the School of Humanities at
 the University of Glasgow and former Lecturer in Scottish History at the
 University of Edinburgh. Since 2007, he has been a team member of the
-AHRC-funded projects that created the =E2=80=98People of Medieval Scotland,
-1093-1286=E2=80=99 database (www.poms.ac.uk) and is now working on a
+AHRC-funded projects that created the ‘People of Medieval Scotland,
+1093-1286’ database (www.poms.ac.uk) and is now working on a
 Leverhulme-funded project to expand the capabilities of that database,
-especially in the area of Social Network Analysis.PGRpdiBkaXI9Imx0ciI+PGRpdiBjbGFzcz0iZ21haWxfZGVmYXVsdCIgc3R5bGU9ImZvbnQtZmFt
+especially in the area of Social Network Analysis.
+
+
+
+PGRpdiBkaXI9Imx0ciI+PGRpdiBjbGFzcz0iZ21haWxfZGVmYXVsdCIgc3R5bGU9ImZvbnQtZmFt
 aWx5OnZlcmRhbmEsc2Fucy1zZXJpZiI+PGFkZHJlc3Mgc3R5bGU9Im1hcmdpbjowcHg7cGFkZGlu
 ZzowcHg7Ym9yZGVyOjBweDt2ZXJ0aWNhbC1hbGlnbjpiYXNlbGluZTtjb2xvcjpyZ2IoNTEsNTEs
 NTEpO2ZvbnQtZmFtaWx5Okdlb3JnaWEsJiMzOTtCaXRzdHJlYW0gQ2hhcnRlciYjMzk7LHNlcmlm
@@ -142,4 +150,5 @@ cmF0aW9uOm5vbmU7Y29sb3I6cmdiKDExNiw1MSwxNTMpO2JhY2tncm91bmQtY29sb3I6dHJhbnNw
 YXJlbnQiPnd3dy5wb21zLmFjLnVrPC9hPikgYW5kIGlzIG5vdyB3b3JraW5nIG9uIGEgTGV2ZXJo
 dWxtZS1mdW5kZWQgcHJvamVjdCB0byBleHBhbmQgdGhlIGNhcGFiaWxpdGllcyBvZiB0aGF0IGRh
 dGFiYXNlLCBlc3BlY2lhbGx5IGluIHRoZSBhcmVhIG9mIFNvY2lhbCBOZXR3b3JrIEFuYWx5c2lz
-Ljwvc3Bhbj48L2FkZHJlc3M+PC9kaXY+Cgo8L2Rpdj4K
+Ljwvc3Bhbj48L2FkZHJlc3M+PC9kaXY+Cgo8L2Rpdj4K
+

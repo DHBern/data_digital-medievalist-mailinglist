@@ -1,6 +1,12 @@
-Subject: RE: [dm-l] TAN: Unicode, XML, and LaTeXI've used FOP for some DocBook-to-PDF transformations and had no trouble
+Subject: RE: [dm-l] TAN: Unicode, XML, and LaTeX
+
+I've used FOP for some DocBook-to-PDF transformations and had no trouble
 with it. But I haven't pressed it very far, and I don't think there were
-any tables involved. There's a compliance chart at the FOP site:http://xml.apache.org/fop/compliance.htmlPeter
+any tables involved. There's a compliance chart at the FOP site:
+
+http://xml.apache.org/fop/compliance.html
+
+Peter
  
 Peter Binkley
 Digital Initiatives Technology Librarian
@@ -11,7 +17,8 @@ Edmonton, Alberta
 Canada T6G 2J8
 Phone: (780) 492-3743
 Fax: (780) 492-9243
-_redacted_(a)ualberta.ca
+_redacted_(a)ualberta.ca
+
 > -----Original Message-----
 _redacted_(a)uleth.ca] On 
 > Behalf Of Daniel O'Donnell
@@ -166,5 +173,7 @@ _redacted_(a)uleth.ca
 > dm-l mailing list
 _redacted_(a)uleth.ca
 > http://listserv.uleth.ca/mailman/listinfo/dm-l
-> 
---===============2589722495398594940==--
+> 
+
+--2589722495398594940-
+

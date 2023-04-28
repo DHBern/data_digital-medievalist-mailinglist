@@ -1,13 +1,21 @@
-Subject: Re: [dm-l] RefworksMy university has an institutional license for Refworks. I've recently
+Subject: Re: [dm-l] Refworks
+
+My university has an institutional license for Refworks. I've recently
 started using it. I used Endnote briefly and this seems like a product with
 similar features except that it runs entirely on line (as opposed to
-installing software and maintaining data on a local drive).Refworks will allow you to import data from on-line library and database
+installing software and maintaining data on a local drive).
+
+Refworks will allow you to import data from on-line library and database
 searches or you can import from Endnote v. 8 or higher. You can also input
 individual entries using a form which follows any number of different style
-templates (including user-defined).Advanced search capabilities allow you to search through your bibliographies
+templates (including user-defined).
+
+Advanced search capabilities allow you to search through your bibliographies
 (which can be organized in different folders). Refworks will also pull up
 any exact duplicate records or "near matches" to help you clean out
-redundancies.Bibliography output formats include Word for Windows 2000 or later, Word for
+redundancies.
+
+Bibliography output formats include Word for Windows 2000 or later, Word for
 Mac 98 or later, HTML, Rich Text Format, and Text format. Bibliographies can
 be exported in any number of pre-programmed styles (Chicago, MLA, Turabian,
 etc.). It looks like there are well over 100 different styles, but you can
@@ -16,20 +24,32 @@ create my own export style, and I'd think that most people on this list
 wouldn't struggle much figuring it out. The process will intimidate many
 into using one of the presets. There is a downloadable plug-in called
 Write-n-Cite that allows you to run an abbreviated version of RefWorks
-inside Microsoft Word. I haven't tried it.Data (or portions thereof) can be exported into XML, tab delimited,
+inside Microsoft Word. I haven't tried it.
+
+Data (or portions thereof) can be exported into XML, tab delimited,
 "RefWorks Tagged Format" (for sharing with other RefWorks users), a citation
-list, BibTex, or directly into EndNote, Reference Manager, or ProCite).There are a handful of start-up options and preferences (which folder to
+list, BibTex, or directly into EndNote, Reference Manager, or ProCite).
+
+There are a handful of start-up options and preferences (which folder to
 start with, how many reference to display on a  screenpage, etc.). The site
 can run in English, French, Spanish, or in one of four other oriental
 languages. The interface is satisfactory and basically intuitive (by which,
 I mean that I can leave it alone for several months and still find my way
 around when I come back to it). There is good documentation via on-line
-tutorials and helpfiles.I'm not associated with RefWorks in any way. The program seems to do all the
+tutorials and helpfiles.
+
+I'm not associated with RefWorks in any way. The program seems to do all the
 basic things I need to do, so, I'll probably continue to use it for my
 relatively simple needs. If my institution let its subscription lapse, I
 probably would not spend the money for an individual subscription. But I
-don't rely that heavily on a bibliography manager at this point.Jesse
-_redacted_(a)byu.eduTXkgdW5pdmVyc2l0eSBoYXMgYW4gaW5zdGl0dXRpb25hbCBsaWNlbnNlIGZvciBSZWZ3b3Jrcy4g
+don't rely that heavily on a bibliography manager at this point.
+
+Jesse
+_redacted_(a)byu.edu
+
+
+
+TXkgdW5pdmVyc2l0eSBoYXMgYW4gaW5zdGl0dXRpb25hbCBsaWNlbnNlIGZvciBSZWZ3b3Jrcy4g
 SSd2ZSByZWNlbnRseQpzdGFydGVkIHVzaW5nIGl0LiBJIHVzZWQgRW5kbm90ZSBicmllZmx5IGFu
 ZCB0aGlzIHNlZW1zIGxpa2UgYSBwcm9kdWN0CndpdGggc2ltaWxhciBmZWF0dXJlcyBleGNlcHQg
 dGhhdCBpdCBydW5zIGVudGlyZWx5IG9uIGxpbmUgKGFzIG9wcG9zZWQKdG8gaW5zdGFsbGluZyBz
@@ -76,4 +96,4 @@ cmlwdGlvbgpsYXBzZSwgSSBwcm9iYWJseSB3b3VsZCBub3Qgc3BlbmQgdGhlIG1vbmV5IGZvciBh
 biBpbmRpdmlkdWFsCnN1YnNjcmlwdGlvbi4gQnV0IEkgZG9uJ3QgcmVseSB0aGF0IGhlYXZpbHkg
 b24gYSBiaWJsaW9ncmFwaHkgbWFuYWdlcgphdCB0aGlzIHBvaW50LiA8YnI+Cjxicj4KSmVzc2U8
 YnI+CjxhIGhyZWY9Im1haWx0bzpqZXNzZV9odXJsYnV0QGJ5dS5lZHUiPmplc3NlX2h1cmxidXRA
-Ynl1LmVkdTwvYT48YnI+Cg==
+Ynl1LmVkdTwvYT48YnI+Cg

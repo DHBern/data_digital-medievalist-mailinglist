@@ -1,6 +1,14 @@
-Subject: Re: [dm-l] Mac helpSure, that would tell you if a font had a glyph at that code point, but
+Subject: Re: [dm-l] Mac help
+
+Sure, that would tell you if a font had a glyph at that code point, but
 what Character Viewer does is tell you, for a given code point, which
-fonts have that glyph._redacted_(a)uleth.ca> wrote:>Conal Tuohy built a little checker for Windows many years ago. And you
+fonts have that glyph.
+
+
+
+_redacted_(a)uleth.ca> wrote:
+
+>Conal Tuohy built a little checker for Windows many years ago. And you
 >can use any of the modern browsers to see if the character is on your
 >system at all. I wonder could you use rich pasting into a word-processor
 >or similar to discover the font name?
@@ -58,7 +66,10 @@ _redacted_(a)uleth.ca>  wrote in part:
 >>> News: http://www.digitalmedievalist.org/news/
 >>> Wiki: http://www.digitalmedievalist.org/wiki/
 >>> Twitter: http://twitter.com/digitalmedieval
->>> Facebook: http://www.facebook.com/group.php?gid=49320313760
+>>> Facebook: http://www.facebook.com/group.php?gidI320313760
 _redacted_(a)uleth.ca
 >>> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
->>
+>>
+
+
+

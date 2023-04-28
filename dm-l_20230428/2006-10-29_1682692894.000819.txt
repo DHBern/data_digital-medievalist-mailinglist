@@ -1,17 +1,24 @@
-Subject: [dm-l] Access or ExcelDear all,I would like to ask for advice whether I should use MS Access or Excel for da=
-ta
+Subject: [dm-l] Access or Excel
+
+Dear all,
+
+I would like to ask for advice whether I should use MS Access or Excel for data
 crunching.  I have been using Excel for some work I am doing on Old English
-poetry where I am looking at specific features of a fixed set of poems.=20
-However, I have decided also to look at other aspects of the same set of poem=
-s.To put it in a nutshell, I have three sets of data I want to compare concerni=
-ng
+poetry where I am looking at specific features of a fixed set of poems. 
+However, I have decided also to look at other aspects of the same set of poems.
+
+To put it in a nutshell, I have three sets of data I want to compare concerning
 the same poems in order to see where the trends are.  I know how to use Excel
-fairly well - at least to get statistical information - but I have been getti=
-ng
-into trouble when trying to find trends across several sets of data.  I thoug=
-ht
+fairly well - at least to get statistical information - but I have been getting
+into trouble when trying to find trends across several sets of data.  I thought
 about pivot tables, but I am not sure if that's the way to go, when I think
 that I may be able to do things easier in Access - even though I don't know
-anything about how to use it.Which application would you suggest I use?Best,
-Abdullah Alger
---===============3863884476803937625==--
+anything about how to use it.
+
+Which application would you suggest I use?
+
+Best,
+Abdullah Alger
+
+--3863884476803937625-
+

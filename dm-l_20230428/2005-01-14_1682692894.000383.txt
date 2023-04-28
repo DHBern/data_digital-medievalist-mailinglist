@@ -1,4 +1,6 @@
-Subject: Re: [dm-l] Form-based methods of building xml?Daniel O'Donnell wrote:
+Subject: Re: [dm-l] Form-based methods of building xml?
+
+Daniel O'Donnell wrote:
 > The Digital Medievalist List (see end of message for contact information 
 > and project URLs).
 > 
@@ -9,10 +11,16 @@ Subject: Re: [dm-l] Form-based methods of building xml?Daniel O'Donnell wrote:
 > everywhere: bibliography, cv, correspondence, class material, etc.
 > 
 > I'll look into this.
-> -danAnother option is using eXist and XUpdate.  So your form instead of
+> -dan
+
+Another option is using eXist and XUpdate.  So your form instead of
 using cocoon's Source Writing Transformer uses XUpdate to write
 the new/changed information back into the XML file stored in the
-eXist database.-James> 
+eXist database.
+
+-James
+
+> 
 _redacted_(a)ualberta.ca wrote:
 > 
 >> The Digital Medievalist List (see end of message for contact 
@@ -126,8 +134,11 @@ _redacted_(a)uleth.ca
 _redacted_(a)uleth.ca
 >> http://listserv.uleth.ca/mailman/listinfo/dm-l
 > 
-> 
+> 
+
 -- 
 Dr James Cummings, Oxford Text Archive, University of Oxford
-James dot Cummings at oucs dot ox dot ac dot uk
---===============1838324954089137148==--
+James dot Cummings at oucs dot ox dot ac dot uk
+
+--1838324954089137148-
+

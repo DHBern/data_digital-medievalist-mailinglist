@@ -1,54 +1,36 @@
-Subject: [dm-l] We want to learn all languages! Applications of translationDigital Classicist London SeminarFriday June 25, 2021, 17:00 (UK time/UTC+1)
-Chiara Palladino (Furman) & Tariq Yousef (Leipzig)We want to learn all langua=
-ges! Applications of translation alignment in digital environments
+Subject: [dm-l] We want to learn all languages! Applications of translation
+
+Digital Classicist London SeminarFriday June 25, 2021, 17:00 (UK time/UTC+1)
+Chiara Palladino (Furman) & Tariq Yousef (Leipzig)We want to learn all languages! Applications of translation alignment in digital environments
 Live at https://youtu.be/R2Ms6yAMZss
-In this seminar, we will introduce the topic of translation technologies, wit=
-h particular regard to text and translation alignment, one of the most import=
-ant and complex tasks of NLP. Then, we will present Ugarit (http://ugarit.ial=
-igner.com/<https://www.youtube.com/redirect?event=3Dvideo_description&redir_t=
-oken=3DQUFFLUhqa29DRnZFMENwZmMzQUxDZGlvSTdfWE50OXMwQXxBQ3Jtc0ttOExNbEdOUVZ6Zj=
-M2bzdxTUU4MkZYUGlYMDVTd29aeVJxbC01ak9ROElXbXVVY01HZUFwN1RnTjNONVBwcTE5eHJqS04=
-tSmlJUWozMlk1eXdqWll6ZEgtenhmS05fZUlzNkQ5ZHY4Z3g1NjFtOUJWdw&q=3Dhttp%3A%2F%2F=
-ugarit.ialigner.com%2F>), a web-based tool for manual and automatic alignment=
- of parallel corpora. Conceived as a Citizen Science project to collect train=
-ing data for the implementation of statistical machine translation of Ancient=
- Greek, Persian, and English, Ugarit has now become one of the most used digi=
-tal environments for the manual alignment of texts in underrepresented and hi=
-storical languages. Currently, Ugarit hosts corpora in 43 languages, and has =
-been widely used in scholarly projects for the study of Armenian, Persian, Ar=
-abic, Ancient Greek, Latin, Portuguese, and Egyptian. It has also been succes=
-sfully applied in language teaching to facilitate a direct approach to origin=
-al texts through the scaffolding provided by the systematic comparison with t=
-ranslations.
-While most translation technologies are limited to the coverage of modern, wi=
-dely indexed languages like English, Ugarit introduces a new way of working w=
-ith languages that is based on manual alignment between parallel texts: with =
-the systematic support of translations in a known language, users can create =
-datasets of aligned pairs to support language learning for themselves, study =
-the reception of a particular text, or to provide alignments for other reader=
-s. Moreover, users contribute training data for the implementation of statist=
-ical machine translation for underrepresented languages, which has been teste=
-d for Persian and Ancient Greek. The database of Ugarit can also be visualize=
-d and queried to investigate relationships across languages that have not bee=
-n directly aligned: by using the underlying graph database, we can visualize =
-connections between words in two different languages by using a third languag=
-e as a bridge, with which both languages have been aligned, and investigate b=
-roader phenomena such as word frequency across languages and common tendencie=
-s in translations.ALL WELCOME
-=3D=3D
+In this seminar, we will introduce the topic of translation technologies, with particular regard to text and translation alignment, one of the most important and complex tasks of NLP. Then, we will present Ugarit (http://ugarit.ialigner.com/<https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa29DRnZFMENwZmMzQUxDZGlvSTdfWE50OXMwQXxBQ3Jtc0ttOExNbEdOUVZ6ZjM2bzdxTUU4MkZYUGlYMDVTd29aeVJxbC01ak9ROElXbXVVY01HZUFwN1RnTjNONVBwcTE5eHJqS04tSmlJUWozMlk1eXdqWll6ZEgtenhmS05fZUlzNkQ5ZHY4Z3g1NjFtOUJWdw&q=http%3A%2F%2Fugarit.ialigner.com%2F>), a web-based tool for manual and automatic alignment of parallel corpora. Conceived as a Citizen Science project to collect training data for the implementation of statistical machine translation of Ancient Greek, Persian, and English, Ugarit has now become one of the most used digital environments for the manual alignment of texts in underrepresented and historical languages. Currently, Ugarit hosts corpora in 43 languages, and has been widely used in scholarly projects for the study of Armenian, Persian, Arabic, Ancient Greek, Latin, Portuguese, and Egyptian. It has also been successfully applied in language teaching to facilitate a direct approach to original texts through the scaffolding provided by the systematic comparison with translations.
+While most translation technologies are limited to the coverage of modern, widely indexed languages like English, Ugarit introduces a new way of working with languages that is based on manual alignment between parallel texts: with the systematic support of translations in a known language, users can create datasets of aligned pairs to support language learning for themselves, study the reception of a particular text, or to provide alignments for other readers. Moreover, users contribute training data for the implementation of statistical machine translation for underrepresented languages, which has been tested for Persian and Ancient Greek. The database of Ugarit can also be visualized and queried to investigate relationships across languages that have not been directly aligned: by using the underlying graph database, we can visualize connections between words in two different languages by using a third language as a bridge, with which both languages have been aligned, and investigate broader phenomena such as word frequency across languages and common tendencies in translations.
+
+ALL WELCOME
+
+==
 Dr Gabriel BODARD (he/him)
-Reader in Digital ClassicsInstitute of Classical Studies / Digital Humanities Research Hub
+Reader in Digital Classics
+
+Institute of Classical Studies / Digital Humanities Research Hub
 University of London
 Senate House
 Malet Street
-London WC1E 7HU_redacted_(a)sas.ac.uk
-T: +44 (0)20 78628752Especially at the moment, I may email at odd hours of the day and night/days =
-of the week. I do not ever expect a reply outside of your working hours.
---===============7485799755235028515==
-Content-Type: text/html
+London WC1E 7HU
+
+_redacted_(a)sas.ac.uk
+T: +44 (0)20 78628752
+
+Especially at the moment, I may email at odd hours of the day and night/days of the week. I do not ever expect a reply outside of your working hours.
+
+
+
+--7485799755235028515Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
+Content-Disposition: attachment; filenameúttachment.html"
+MIME-Version: 1.0
+
+PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
 eHQvaHRtbDsgY2hhcnNldD1pc28tODg1OS0xIj4KPHN0eWxlIHR5cGU9InRleHQvY3NzIiBzdHls
 ZT0iZGlzcGxheTpub25lOyI+IFAge21hcmdpbi10b3A6MDttYXJnaW4tYm90dG9tOjA7fSA8L3N0
 eWxlPgo8L2hlYWQ+Cjxib2R5IGRpcj0ibHRyIj4KPGRpdiBzdHlsZT0iYm9yZGVyOnNvbGlkICM2
@@ -230,4 +212,5 @@ c3A7PGJyPgpFc3BlY2lhbGx5IGF0IHRoZSBtb21lbnQsIEkgbWF5IGVtYWlsIGF0IG9kZCBob3Vy
 cyBvZiB0aGUgZGF5IGFuZCBuaWdodC9kYXlzIG9mIHRoZSB3ZWVrLiBJIGRvIG5vdCBldmVyIGV4
 cGVjdCBhIHJlcGx5IG91dHNpZGUgb2YgeW91ciB3b3JraW5nIGhvdXJzLjwvZGl2Pgo8L2Rpdj4K
 PC9kaXY+CjwvZGl2Pgo8YnI+CjwvZGl2Pgo8ZGl2Pgo8ZGl2IGlkPSJTaWduYXR1cmUiPgo8ZGl2
-PjwvZGl2Pgo8L2Rpdj4KPC9kaXY+CjwvZGl2Pgo8L2JvZHk+CjwvaHRtbD4K
+PjwvZGl2Pgo8L2Rpdj4KPC9kaXY+CjwvZGl2Pgo8L2JvZHk+CjwvaHRtbD4K
+

@@ -1,5 +1,11 @@
-Subject: [dm-l] Searching for a search engine[apologies for the slightly redundant subject line. It's not even very funny.]I'm looking for a search engine to handle what I guess is termed
-"fuzzy searching" across a corpus of Latin legal texts.Essentially, what we will have are TEI tagged transcriptions, but we
+Subject: [dm-l] Searching for a search engine
+
+[apologies for the slightly redundant subject line. It's not even very funny.]
+
+I'm looking for a search engine to handle what I guess is termed
+"fuzzy searching" across a corpus of Latin legal texts.
+
+Essentially, what we will have are TEI tagged transcriptions, but we
 will not have detailed parts of speech encoding (and I don't believe
 it's realistic to add such encoding), so the search could not rely on
 tags. Variant spellings are a huge issue, so we
@@ -12,7 +18,13 @@ discover the variants *after the fact* (once the search is done),
 rather than having to make a determination about what those variants
 might be ahead of time. Finally, the search will need to work both
 within single transcriptions, and across multiple transcriptions
-(potentially across the entire corpus).Is anyone on-list familiar with any existing search engines or frameworks that
-suit our needs, or that might be modified to suit them?Thanks,
-Dot
---===============5793921579467758493==--
+(potentially across the entire corpus).
+
+Is anyone on-list familiar with any existing search engines or frameworks that
+suit our needs, or that might be modified to suit them?
+
+Thanks,
+Dot
+
+--5793921579467758493-
+

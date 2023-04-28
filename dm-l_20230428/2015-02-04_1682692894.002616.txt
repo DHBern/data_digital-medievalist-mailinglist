@@ -1,22 +1,41 @@
-Subject: [dm-l] Automatic cursus analysisDear all,I'm currently dealing with papal documents of the mid 12th century.  
+Subject: [dm-l] Automatic cursus analysis
+
+Dear all,
+
+I'm currently dealing with papal documents of the mid 12th century.  
 Having found out that one option to distinguish genuin documents from  
 forgeries in that period is the correct use of the so-called "cursus",  
 I must, of course, check if in "my" documents the cursus was used  
 correctly or not. But I'm wondering if I should do that manually.  
-Maybe there are better ways.So, are there ready-to-use solutions for detecting the use of the  
-cursus in latin texts?The "cursus" is basically a kind of prose rhythm based on the word  
+Maybe there are better ways.
+
+So, are there ready-to-use solutions for detecting the use of the  
+cursus in latin texts?
+
+The "cursus" is basically a kind of prose rhythm based on the word  
 stress. A set of rules determines the distribuation of stressed and  
 unstressed syllables within a sentence. Thus, a tool (semi)  
 automatically detecting the stress of latin words would be great thing  
-to start with.Any ideas or suggestions are welcome!Best regards,
-Christian
---Dr. Christian Schwaderer
-(Akademischer Mitarbeiter)Eberhard-Karls-Universität Tübingen
+to start with.
+
+Any ideas or suggestions are welcome!
+
+Best regards,
+Christian
+
+--
+
+Dr. Christian Schwaderer
+(Akademischer Mitarbeiter)
+
+Eberhard-Karls-Universität Tübingen
 Philosophische Fakultät
 Fachbereich Geschichtswissenschaft
 Seminar für mittelalterliche Geschichte
 Wilhelmstraße 36 (Hegelbau)· 72074 Tübingen · Germany
 Zimmer 212
 Telefon +49 7071 29-72990· Telefax +49 7071 29-5905
-_redacted_(a)uni-tuebingen.de
---===============5312503460840157789==--
+_redacted_(a)uni-tuebingen.de
+
+--5312503460840157789-
+

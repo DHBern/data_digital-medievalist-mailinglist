@@ -1,14 +1,20 @@
-Subject: [dm-l] Announcing VCEditor, a tool for modeling and visualizingThe VisColl team at the Schoenberg Institute for Manuscript Studies, Universi=
-ty of Pennsylvania, are pleased to announce the launch of VCEditor. Use VCEdi=
-tor to model and visualize medieval manuscripts and books in codex format in =
-general. We welcome your feedback! https://vceditor.library.upenn.edu<https:/=
-/vceditor.library.upenn.edu/>
+Subject: [dm-l] Announcing VCEditor, a tool for modeling and visualizing
+
+The VisColl team at the Schoenberg Institute for Manuscript Studies, University of Pennsylvania, are pleased to announce the launch of VCEditor. Use VCEditor to model and visualize medieval manuscripts and books in codex format in general. We welcome your feedback! https://vceditor.library.upenn.edu<https://vceditor.library.upenn.edu/>
+
 [viscoll-collations-mode-01.png]
-VCEditor is based on the VisColl specification https://viscoll.org<https://vi=
-_redacted_@oldbooksnewsci (=
-https://github.com/utlib/VisualCollation).For help, see our 'How to page' (https://viscoll.org/help/) and the project W=
-iki (https://github.com/KislakCenter/VisualCollation/wiki).Please share the news and let us know how we can improve this for your needs!Thank you,
-Alberto CampagnoloPGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
+VCEditor is based on the VisColl specification https://viscoll.org<https://vi_redacted_@oldbooksnewsci (https://github.com/utlib/VisualCollation).
+
+For help, see our 'How to page' (https://viscoll.org/help/) and the project Wiki (https://github.com/KislakCenter/VisualCollation/wiki).
+
+Please share the news and let us know how we can improve this for your needs!
+
+Thank you,
+Alberto Campagnolo
+
+
+
+PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
 eHQvaHRtbDsgY2hhcnNldD11dGYtOCI+CjwvaGVhZD4KPGJvZHk+CjxkaXYgc3R5bGU9ImJvcmRl
 cjpzb2xpZCAjNjQ2NDY0IDEuMHB0O3BhZGRpbmc6Mi4wcHQgMi4wcHQgMi4wcHQgMi4wcHQ7YmFj
 a2dyb3VuZDojRkZFQjlDIj4KPHAgY2xhc3M9Ik1zb05vcm1hbCIgc3R5bGU9ImxpbmUtaGVpZ2h0
@@ -113,7 +119,9 @@ b250LWZhbWlseTpBcmlhbCxIZWx2ZXRpY2Esc2Fucy1zZXJpZiI+PGJyPgo8L2Rpdj4KPGRpdiBz
 dHlsZT0iZm9udC1mYW1pbHk6QXJpYWwsSGVsdmV0aWNhLHNhbnMtc2VyaWYiPlRoYW5rIHlvdSw8
 L2Rpdj4KPGRpdiBzdHlsZT0iZm9udC1mYW1pbHk6QXJpYWwsSGVsdmV0aWNhLHNhbnMtc2VyaWYi
 PkFsYmVydG8gQ2FtcGFnbm9sbzwvZGl2Pgo8L2Rpdj4KPC9kaXY+CjwvZGl2Pgo8L2JvZHk+Cjwv
-aHRtbD4KiVBORw0KGgoAAAANSUhEUgAAAlgAAAF0CAYAAAD/4EcMAAAMaGlDQ1BJQ0MgUHJvZmlsZQAASImV
+aHRtbD4K
+
+iVBORw0KGgoAAAANSUhEUgAAAlgAAAF0CAYAAAD/4EcMAAAMaGlDQ1BJQ0MgUHJvZmlsZQAASImV
 VwdUU8kanluSkJDQAhGQEnoTpBNASggtgIBUwUZIAgklhoSgYi+LCq5dRLCiqyK21RWQtSD2sgj2
 vlhQUdZFXRRF5U1IQNd95bz/nLnz5Zt//nZncmcA0O7lSaV5qA4A+ZJCWUJECHNsWjqT1AFQoAvI
 gAUQHl8uZcfHxwAog/3f5d0NgCj7q85KW/8c/6+iJxDK+QAg4yHOFMj5+RA3AYCv50tlhQAQlbzV
@@ -1869,4 +1877,4 @@ ZjHC0Dif3p4j2KDB9IXi5dJg84vYLEfhadcvsCnDPNd90wzzWpZvecyyJq9lG+bYlDHHpjzzXfNc
 93mOLyRUaVwq0NCeI1ItelR/PGo8IHL3Pkz6xAbNjee+ucmuD4FrGZ7nOTIf13os4wVHqn7eQ3CP
 sMoSx+SdXAVIHtObjJDXtslSwFKgf1HA8A/DEU3vTb45BssB/yBvcnIUs2Cf0nL8NcV6fMt+uPbF
 dd/wQcMveXHX8y2PTbmWZXq807ZBt6OAufeuHTPPgdnyXF5engbq5j498Bt14v8HJasEnnbLWpsA
-AAAASUVORK5CYII=
+AAAASUVORK5CYII

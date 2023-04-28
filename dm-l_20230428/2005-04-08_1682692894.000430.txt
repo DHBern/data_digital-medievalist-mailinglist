@@ -1,4 +1,6 @@
-Subject: Re: [dm-l] what xslt can't do..?>> was designed just for that.  She is open source.  Go look at her on
+Subject: Re: [dm-l] what xslt can't do..?
+
+>> was designed just for that.  She is open source.  Go look at her on
 >> http://anastasia.sourceforge.net
 > 
 > 
@@ -9,9 +11,13 @@ And its the subject of a Wiki stub in our "tools" category, which of
 course might be filled in in by users. Perhaps using some of the 
 discussion here, as this is the type of problem that helps people 
 understand what a tool is and why it is useful. 
-<http://sql.uleth.ca/dmorgwiki/index.php/Anastasia>.If anybody does do that, we're currently restricted on embedding images 
+<http://sql.uleth.ca/dmorgwiki/index.php/Anastasia>.
+
+If anybody does do that, we're currently restricted on embedding images 
 (e.g. screen shots) in the wiki. If you put them up somewhere and link 
-to them from the wiki page, I'll embed them as soon as I can.-- 
+to them from the wiki page, I'll embed them as soon as I can.
+
+-- 
 Daniel Paul O'Donnell, PhD
 Associate Professor of English
 University of Lethbridge
@@ -20,4 +26,7 @@ Tel. (403) 329-2377
 Fax. (403) 382-7191
 _redacted_(a)uleth.ca>
 Home Page <http://people.uleth.ca/~daniel.odonnell/>
-The Digital Medievalist Project: <http://www.digitalmedievalist.org/>
+The Digital Medievalist Project: <http://www.digitalmedievalist.org/>
+
+
+

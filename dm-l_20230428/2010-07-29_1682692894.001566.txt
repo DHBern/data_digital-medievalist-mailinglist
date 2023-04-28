@@ -1,15 +1,49 @@
-Subject: Re: [dm-l] Question about preservation of digital content_redacted_(a)uleth.ca> wrote:> I'd have my doubts about ChiWriter files, though that=20
-> might have been a pre-PC program for the SuperPet.=20This was a popular PC program for writing scientific, especially mathematical
-texts:        http://www.horstmann.com/ChiWriter/Its internal format was rather simple and easy to reverse-engineer,
-you can find its short description e.g. at    http://mirror.ctan.org/support/chi2tex/read.meI should have still the C source code of a converter to TeX by
-Horstman          http://www.tug.org/TUGboat/Articles/tb12-3-4/tb33horstman.pdfbut the legal status of it is not clear for me. I've received it
+Subject: Re: [dm-l] Question about preservation of digital content
+
+_redacted_(a)uleth.ca> wrote:
+
+> I'd have my doubts about ChiWriter files, though that 
+> might have been a pre-PC program for the SuperPet. 
+
+This was a popular PC program for writing scientific, especially mathematical
+texts:
+
+        http://www.horstmann.com/ChiWriter/
+
+Its internal format was rather simple and easy to reverse-engineer,
+you can find its short description e.g. at
+
+    http://mirror.ctan.org/support/chi2tex/read.me
+
+I should have still the C source code of a converter to TeX by
+Horstman
+
+          http://www.tug.org/TUGboat/Articles/tb12-3-4/tb33horstman.pdf
+
+but the legal status of it is not clear for me. I've received it
 indirectly without any conditions, but later its author started to
-sell the program. This=20     http://www.ctan.org/tex-archive/support/chi2tex/contains unfortunately only binaries (which you can however still run,
-at least in principle, under Free-DOS in a virtual machine).This     http://www.ctan.org/tex-archive/support/chi2ltx/may also be of some use.Best regardsJSB--=20
-                     ,  =20
-dr hab. Janusz S. Bien, prof. UW -  Uniwersytet Warszawski (Katedra Lingwisty=
-ki Formalnej)
+sell the program. This 
+
+     http://www.ctan.org/tex-archive/support/chi2tex/
+
+contains unfortunately only binaries (which you can however still run,
+at least in principle, under Free-DOS in a virtual machine).
+
+This
+
+     http://www.ctan.org/tex-archive/support/chi2ltx/
+
+may also be of some use.
+
+Best regards
+
+JSB
+
+-- 
+                     ,   
+dr hab. Janusz S. Bien, prof. UW -  Uniwersytet Warszawski (Katedra Lingwistyki Formalnej)
 Prof. Janusz S. Bien - Warsaw University (Department of Formal Linguistics)
-_redacted_(a)mimuw.edu.pl, http://fleksem.klf.uw.edu.pl/~jsbi=
-en/
---===============7778624988856239737==--
+_redacted_(a)mimuw.edu.pl, http://fleksem.klf.uw.edu.pl/~jsbien/
+
+--7778624988856239737-
+

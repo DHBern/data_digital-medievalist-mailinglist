@@ -1,47 +1,50 @@
-Subject: Re: [dm-l] Character reference conversions: help?Good idea. That solves the UTF problem, but it causes me to lose all the=20
-stylesheet information. And unless I'm nuts, I can't see a way of=20
-loading a CSS sheet in to format a document (not that it would work,=20
-probably, since the coding would be gone.Perhaps there is a way to automatically convert it in e-macs.
--danMurray McGillivray wrote:
-> Digital Medievalist Journal (Inaugural Issue Fall 2004). Call for papers: h=
-ttp://www.digitalmedievalist.org/cfp.htm
+Subject: Re: [dm-l] Character reference conversions: help?
+
+Good idea. That solves the UTF problem, but it causes me to lose all the 
+stylesheet information. And unless I'm nuts, I can't see a way of 
+loading a CSS sheet in to format a document (not that it would work, 
+probably, since the coding would be gone.
+
+Perhaps there is a way to automatically convert it in e-macs.
+-dan
+
+Murray McGillivray wrote:
+> Digital Medievalist Journal (Inaugural Issue Fall 2004). Call for papers: http://www.digitalmedievalist.org/cfp.htm
 > ----------------
->=20
->=20
+> 
+> 
 > ------------------------------------------------------------------------
->=20
-> That's what occurred to me immediately. Should work with any=20
-> Unicode-based browser. UTF-8 is the more compact 8-bit Unicode=20
-> Transformation Format, which encodes each Unicode character in one or=20
-> more octets, using basically one octet in ASCII encoding for the most=20
+> 
+> That's what occurred to me immediately. Should work with any 
+> Unicode-based browser. UTF-8 is the more compact 8-bit Unicode 
+> Transformation Format, which encodes each Unicode character in one or 
+> more octets, using basically one octet in ASCII encoding for the most 
 > common Latin characters and so saving space or width.
->=20
+> 
 > Murray
->=20
+> 
 > Roberto Rosselli Del Turco wrote:
->=20
->>Digital Medievalist Journal (Inaugural Issue Fall 2004). Call for papers: h=
-ttp://www.digitalmedievalist.org/cfp.htm
+> 
+>>Digital Medievalist Journal (Inaugural Issue Fall 2004). Call for papers: http://www.digitalmedievalist.org/cfp.htm
 >>----------------
 >>Il giorno mar, 05-10-2004 alle 12:53 -0600, Daniel O'Donnell ha scritto:
->> =20
+>>  
 >>
->>>Digital Medievalist Journal (Inaugural Issue Fall 2004). Call for papers: =
-http://www.digitalmedievalist.org/cfp.htm
+>>>Digital Medievalist Journal (Inaugural Issue Fall 2004). Call for papers: http://www.digitalmedievalist.org/cfp.htm
 >>>----------------
 >>>Hello all,
->>>	I need some advice on converting Unicode character references.=20
->>>Currently, am encoding character references in what I believe is UCS-4=20
->>>format (Universal Character Set). This means they look like this in my=20
+>>>	I need some advice on converting Unicode character references. 
+>>>Currently, am encoding character references in what I believe is UCS-4 
+>>>format (Universal Character Set). This means they look like this in my 
 >>>source files:
 >>>
 >>>&#x1090;
 >>>
->>>I want to import xhtml documents into Open Office, which seems to need=20
->>>UTF-8 encoding (I don't know what UTF stands for). Does anybody know of=20
->>>a filter that might do the conversions for me? Or have advice on using=20
+>>>I want to import xhtml documents into Open Office, which seems to need 
+>>>UTF-8 encoding (I don't know what UTF stands for). Does anybody know of 
+>>>a filter that might do the conversions for me? Or have advice on using 
 >>>open office (Windows version) with UCS-4 encoding?
->>>   =20
+>>>    
 >>>
 >>
 >>Can't you just copy and paste your documents from
@@ -54,16 +57,18 @@ http://www.digitalmedievalist.org/cfp.htm
 >>in Epiphany (based on Mozilla's engine), copied text and pasted it into
 >>a unicode text editor: I ended up with unicode characters.
 >>
->> =20
+>>  
 >>
->=20
+> 
 > ------------------------------------------------------------------------
->=20
+> 
 > _______________________________________________
 > Project web site: http://www.digitalmedievalist.org/
 > dm-l mailing list
 _redacted_(a)uleth.ca
-> http://listserv.uleth.ca/mailman/listinfo/dm-l--=20
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+-- 
 Daniel Paul O'Donnell, PhD
 Associate Professor of English
 University of Lethbridge
@@ -71,4 +76,7 @@ Lethbridge AB T1K 3M4
 Tel. (403) 329-2377
 Fax. (403) 382-7191
 _redacted_(a)uleth.ca>
-Home Page <http://people.uleth.ca/~daniel.odonnell/>
+Home Page <http://people.uleth.ca/~daniel.odonnell/>
+
+
+

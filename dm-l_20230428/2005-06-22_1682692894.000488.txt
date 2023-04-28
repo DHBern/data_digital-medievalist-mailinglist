@@ -1,10 +1,16 @@
-Subject: Re: [dm-l] Are markup languages obsolete?Hi all,That mark up would go obsolete as facsimile become readily available seems 
+Subject: Re: [dm-l] Are markup languages obsolete?
+
+Hi all,
+
+That mark up would go obsolete as facsimile become readily available seems 
 to me a preposterous conclusion. As mark up is in use as a means of data 
 exchange in many more domains than digital editing alone, it is in no way 
 possible to call it obsolete. Moreover, facsimile of manuscript material can 
 hardly be called machine readable. As long as OCR is not able to 
 'understand' handwriting, transcription and mark up will proof its uses for 
-the humanities domain.However, as good digital humanities scholars we should always question our 
+the humanities domain.
+
+However, as good digital humanities scholars we should always question our 
 mark up practice as progression in information technology is made. Because 
 Peter is my colleague I know he favors handcrafted TEI mark up as a means of 
 simultaneously structuring ones thoughts about a text as well as the text 
@@ -12,7 +18,9 @@ itself. This might be. But arguably tagging text according to TEI guidelines
 (or any other standard for that matter) is a laborious and potentially 
 frustrating task, especially when you're a newby on the job. From experience 
 I can tell that TEI is hardly the way to win over 'digital dummies' to the 
-digital humanities side of the broader argument.I do think that numerable emerging projects (like Kevin Kiernan's 'Edition 
+digital humanities side of the broader argument.
+
+I do think that numerable emerging projects (like Kevin Kiernan's 'Edition 
 Production Tool' (EPT) and Sebastian Rahtz' Open Office TEI filter) are 
 doing an increasingly good job at both abstracting away form the 
 TEI-particulars and hiding the major amount of time and work involved in 
@@ -26,7 +34,9 @@ like you don't need to know the XML particulars of an OTD-XML file to write
 a perfectly comprehensible letter in Open Office, you shouldn't need to know 
 the TEI-XML particulars when structuring a text for literary research 
 purposes. The research value is in the act of structuring, not in the 
-particular tagset used and not even in the mark up model applied.So I'd say there's indeed a paradox. Bolton is right in that TEI should 
+particular tagset used and not even in the mark up model applied.
+
+So I'd say there's indeed a paradox. Bolton is right in that TEI should 
 become obsolete in the foreground of digital scholarly edition tools. But as 
 TEI/XML recedes from the editing screen to the file, it will of course in no 
 way become obsolete as a perfectly good means of storing edition material. 
@@ -35,7 +45,11 @@ to this kind of perception. She just seems to forward XML to oblivion
 because she now can see a scanned original.
  
 Yours sincerely,
-JorisCjxwIHN0eWxlPSJtYXJnaW4tYm90dG9tOiAwLjVjbTsiPkhpIGFsbCw8YnI+PGJyPlRoYXQgbWFy
+Joris
+
+
+
+CjxwIHN0eWxlPSJtYXJnaW4tYm90dG9tOiAwLjVjbTsiPkhpIGFsbCw8YnI+PGJyPlRoYXQgbWFy
 ayB1cCB3b3VsZCBnbwpvYnNvbGV0ZSBhcyBmYWNzaW1pbGUgYmVjb21lIHJlYWRpbHkgYXZhaWxh
 YmxlIHNlZW1zIHRvIG1lIGEKcHJlcG9zdGVyb3VzIGNvbmNsdXNpb24uIEFzIG1hcmsgdXAgaXMg
 aW4gdXNlIGFzIGEgbWVhbnMgb2YgZGF0YQpleGNoYW5nZSBpbiBtYW55IG1vcmUgZG9tYWlucyB0
@@ -85,4 +99,4 @@ b24gbWF0ZXJpYWwuIEJ1dCBzYWRseSwKQm9sdG9uIChhcyBxb3V0ZWQgYnkgRGFuIGF0IGxlYXN0
 KSBkb2VzIG5vdCBhcHBlYXIgdG8gaGF2ZSBjb21lIHRvIHRoaXMKa2luZCBvZiBwZXJjZXB0aW9u
 LiBTaGUganVzdCBzZWVtcyB0byBmb3J3YXJkIFhNTCB0byBvYmxpdmlvbiBiZWNhdXNlCnNoZSBu
 b3cgY2FuIHNlZSBhIHNjYW5uZWQgb3JpZ2luYWwuPGJyPgo8L3A+CjxwIHN0eWxlPSJtYXJnaW4t
-Ym90dG9tOiAwLjVjbTsiPllvdXJzIHNpbmNlcmVseSw8YnI+CkpvcmlzPC9wPgo=
+Ym90dG9tOiAwLjVjbTsiPllvdXJzIHNpbmNlcmVseSw8YnI+CkpvcmlzPC9wPgo

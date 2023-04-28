@@ -1,4 +1,6 @@
-Subject: Re: [dm-l] TEI/XML manuscript markup initiatives? Take a look at the work of the Piers Plowman Electronic Archive and its
+Subject: Re: [dm-l] TEI/XML manuscript markup initiatives?
+
+ Take a look at the work of the Piers Plowman Electronic Archive and its
 parent organization, SEENET.  Both were founded by Hoyt Duggan at UVa.
 Their websites:   http://www.iath.virginia.edu/seenet/ and
 http://jefferson.village.virginia.edu/seenet/piers/
@@ -8,8 +10,14 @@ the last 14 years.  It's provision for marginalia elements is an important
 step.  The PPEA site lists the group's Transcriptional Protocols hammered
 out over the same period first for SGML and now adopted for XML markup.
 SEENET and the PPEA remain active, publishing documentary editions in CD-ROM
-format.regards,
- Gene Lyman_redacted_(a)hermes.hood.edu> wrote:
+format.
+
+regards,
+ Gene Lyman
+
+
+
+_redacted_(a)hermes.hood.edu> wrote:
 >
 > Dear DM's
 >
@@ -56,7 +64,11 @@ _redacted_(a)uleth.ca
 > dm-l mailing list
 _redacted_(a)uleth.ca
 > http://listserv.uleth.ca/mailman/listinfo/dm-l
->PGZvbnQgY29sb3I9IiM4MDAwODAiPjwvZm9udD4KPGRpdiBzdHlsZT0iRElSRUNUSU9OOiBsdHIi
+>
+
+
+
+PGZvbnQgY29sb3I9IiM4MDAwODAiPjwvZm9udD4KPGRpdiBzdHlsZT0iRElSRUNUSU9OOiBsdHIi
 Pgo8ZGl2PlRha2UgYSBsb29rIGF0IHRoZSB3b3JrIG9mIHRoZSZuYnNwO1BpZXJzIFBsb3dtYW4g
 RWxlY3Ryb25pYyBBcmNoaXZlIGFuZCBpdHMgcGFyZW50IG9yZ2FuaXphdGlvbiwgU0VFTkVULiZu
 YnNwOyBCb3RoIHdlcmUgZm91bmRlZCBieSBIb3l0IER1Z2dhbiBhdCBVVmEuJm5ic3A7IFRoZWly
@@ -120,4 +132,4 @@ PmRpZ2l0YWxtZWRpZXZhbGlzdEB1bGV0aC5jYTwvYT48YnI+ZG0tbCBtYWlsaW5nIGxpc3Q8YnI+
 PGEgaHJlZj0ibWFpbHRvOmRtLWxAdWxldGguY2EiPmRtLWxAdWxldGguY2EKPC9hPjxicj48YSBo
 cmVmPSJodHRwOi8vbGlzdHNlcnYudWxldGguY2EvbWFpbG1hbi9saXN0aW5mby9kbS1sIj5odHRw
 Oi8vbGlzdHNlcnYudWxldGguY2EvbWFpbG1hbi9saXN0aW5mby9kbS1sPC9hPjxicj48L2Jsb2Nr
-cXVvdGU+PC9kaXY+PGJyPgo=
+cXVvdGU+PC9kaXY+PGJyPgo

@@ -1,46 +1,61 @@
-Subject: Re: [dm-l] numbering linesAbdullah,I'd second what Notis is suggesting here.  Using a format like: >     <L 2>   =C3=B0u eart se weallstan         =C3=BEe =C3=B0a wyrhtan iuis really moving backwards in technological development to the 1980s and mark=
-up=20
-languages like COCOA and OCP.  We have lots of stuff in such terrible formats=
- in=20
-the Oxford Text Archive, and it is a pain to convert.  Using XML, as Notis=20
-suggests, would allow you to take advantage of all the existing tools for=20
-creating, manipulating, transforming and querying XML.  You can always transf=
-orm=20
-from a TEI XML structure like:<l n=3D"2">=C3=B0u eart se weallstan         =C3=BEe =C3=B0a wyrhtan iu</l>back to<L 2>   =C3=B0u eart se weallstan         =C3=BEe =C3=B0a wyrhtan iureally really easily, if that is how some other input program suggests.
-Murray:  To answer your original question, I remember doing something similar=
- in=20
-emacs eons ago.  (I've given up on emacs and use oxygen for most=20
-text/script/program files and OO for everything else.)  I can't remember if i=
-t=20
-was a built-in function from some package I had installed, or whether I knock=
-ed=20
-up a bit of elisp to do it.  Let me know if you are desperate to do it this w=
-ay=20
-and I can dig back through my old elisp files somewhere.For the record, the way I would do this now would be one of two ways:
-1) For a quick hack where I needed to do it quickly I would add the line numb=
-ers=20
-automatically to the text file in openoffice and then just cut and paste it b=
-ack=20
+Subject: Re: [dm-l] numbering lines
+
+Abdullah,
+
+I'd second what Notis is suggesting here.  Using a format like:
+
+ >     <L 2>   ðu eart se weallstan         þe ða wyrhtan iu
+
+is really moving backwards in technological development to the 1980s and markup 
+languages like COCOA and OCP.  We have lots of stuff in such terrible formats in 
+the Oxford Text Archive, and it is a pain to convert.  Using XML, as Notis 
+suggests, would allow you to take advantage of all the existing tools for 
+creating, manipulating, transforming and querying XML.  You can always transform 
+from a TEI XML structure like:
+
+<l n="2">ðu eart se weallstan         þe ða wyrhtan iu</l>
+
+back to
+
+<L 2>   ðu eart se weallstan         þe ða wyrhtan iu
+
+really really easily, if that is how some other input program suggests.
+
+Murray:  To answer your original question, I remember doing something similar in 
+emacs eons ago.  (I've given up on emacs and use oxygen for most 
+text/script/program files and OO for everything else.)  I can't remember if it 
+was a built-in function from some package I had installed, or whether I knocked 
+up a bit of elisp to do it.  Let me know if you are desperate to do it this way 
+and I can dig back through my old elisp files somewhere.
+
+For the record, the way I would do this now would be one of two ways:
+1) For a quick hack where I needed to do it quickly I would add the line numbers 
+automatically to the text file in openoffice and then just cut and paste it back 
 into my text editor.  (Inefficient I know...)
-2) I have an XSLT script which will read in a plain text file and output=20
-everything in <l> (with a new <lg> for any blank lines between stanzas.However, I would echo what I'd say to Abdullah above.  *Why* add line numbers=
-?=20
-The *only* reason really to add line numbers these days is if the line number=
-ing=20
-is irregular for some reason. (i.e. the text goes 1,2,3,4, *big burnt=20
-hole*,12,13,14.)  Amazingly, computers are really good at counting, and count=
-ing=20
-lines is easy.  So, mark everything up as <l> and then just number them=20
-automatically when producing a presentation version.Just my tuppence,-JamesNotis Toufexis wrote:
-> Why not encode your poem in TEI usind the <l> (or any other element) and=20
+2) I have an XSLT script which will read in a plain text file and output 
+everything in <l> (with a new <lg> for any blank lines between stanzas.
+
+However, I would echo what I'd say to Abdullah above.  *Why* add line numbers? 
+The *only* reason really to add line numbers these days is if the line numbering 
+is irregular for some reason. (i.e. the text goes 1,2,3,4, *big burnt 
+hole*,12,13,14.)  Amazingly, computers are really good at counting, and counting 
+lines is easy.  So, mark everything up as <l> and then just number them 
+automatically when producing a presentation version.
+
+Just my tuppence,
+
+-James
+
+Notis Toufexis wrote:
+> Why not encode your poem in TEI usind the <l> (or any other element) and 
 > output line numbers using XSLT and <xsl:number>?
 > Best,
 > Notis
->=20
-> On 11/15/06, * Abdullah Alger*=20
-_redacted_(a)postgrad.manchester.ac.uk=20
+> 
+> On 11/15/06, * Abdullah Alger* 
+_redacted_(a)postgrad.manchester.ac.uk 
 _redacted_(a)postgrad.manchester.ac.uk>> wrote:
->=20
+> 
 >     I've done this in Excel for my own concordance.  You can put the
 >     lines in the
 >     cells, then in another column you can automatically put 1, 2, 3,
@@ -52,24 +67,23 @@ _redacted_(a)postgrad.manchester.ac.uk>> wrote:
 >     different format, by selecting a custom format for the cells.  Below
 >     is a
 >     sample of what I did.
->=20
+> 
 >     Abdullah Alger
->=20
+> 
 >     <L 1>      cyninge
->     <L 2>   =C3=B0u eart se weallstan         =C3=BEe =C3=B0a wyrhtan iu
->     <L 3>   wi=C3=B0wurpon to weorce         Wel =C3=BEe gerise=C3=B0
->     <L 4>   =C3=BE=C3=A6t =C3=BEu heafod sie         healle m=C3=A6rre
+>     <L 2>   ðu eart se weallstan         þe ða wyrhtan iu
+>     <L 3>   wiðwurpon to weorce         Wel þe geriseð
+>     <L 4>   þæt þu heafod sie         healle mærre
 >     <L 5>   ond gesomnige         side weallas
->     <L 6>   f=C3=A6ste gefoge         flint unbr=C3=A6cne
->     <L 7>   =C3=BE=C3=A6t geond eor=C3=B0bold eall         eagna gesih=C3=
-=BEe
->=20
->=20
->=20
->=20
+>     <L 6>   fæste gefoge         flint unbræcne
+>     <L 7>   þæt geond eorðbold eall         eagna gesihþe
+> 
+> 
+> 
+> 
 _redacted_(a)ucalgary.ca
 _redacted_(a)ucalgary.ca>>:
->=20
+> 
 >      > Folks, I have a number of text files of poetry that I'd like to add
 >      > line numbers to for concordancing, starting the numbering at 1 and
 >      > continuing to the last text line, with the line numbers ending up as
@@ -117,10 +131,10 @@ _redacted_(a)uleth.ca>
 _redacted_(a)uleth.ca>
 >      > http://listserv.uleth.ca/mailman/listinfo/dm-l
 >      >
->=20
->=20
->=20
->=20
+> 
+> 
+> 
+> 
 >     _______________________________________________
 >     Digital Medievalist Project
 >     Homepage: http://www.digitalmedievalist.org
@@ -139,8 +153,10 @@ _redacted_(a)uleth.ca>
 >     dm-l mailing list
 _redacted_(a)uleth.ca>
 >     http://listserv.uleth.ca/mailman/listinfo/dm-l
->=20
->=20
->=20
->=20
---===============1306902494453816742==--
+> 
+> 
+> 
+> 
+
+--1306902494453816742-
+

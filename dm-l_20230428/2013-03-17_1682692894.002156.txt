@@ -1,103 +1,117 @@
-Subject:
-Dear all,Scholarly Digital Editing? I've just published three volumes on this topic:
-     http://www.i-d-e.de/schriften/s7-9-digitale-editionsformenrough translation of titles:
+Subject:
+
+Dear all,
+
+Scholarly Digital Editing? I've just published three volumes on this topic:
+     http://www.i-d-e.de/schriften/s7-9-digitale-editionsformen
+
+rough translation of titles:
      Digital Scholarly Editing
          Part I: The legacy of typography
          Part II: Survey, theory and methodology
-         Part III: Notions of text and textual encoding- the distinction between digitized and digital scholarly editions (DSE)=20
-is an important aspect in the definition of scholarly digital editions=20
-(SDE); see most recently=20
-http://prezi.com/mdt8efbe3o3a/patrick-sahle-what-is-a-scholarly-digital-editi=
-on/=20
-(hope to elaborate on that in a forthcoming article); the main point=20
-here is, that there is a fundamental paradigm shift in thinking the=20
-scholarly edition in a typographic setting or in a digital information=20
-environment- should we make a distinction between digital scholarly editions (DSE)=20
+         Part III: Notions of text and textual encoding
+
+- the distinction between digitized and digital scholarly editions (DSE) 
+is an important aspect in the definition of scholarly digital editions 
+(SDE); see most recently 
+http://prezi.com/mdt8efbe3o3a/patrick-sahle-what-is-a-scholarly-digital-edition/ 
+(hope to elaborate on that in a forthcoming article); the main point 
+here is, that there is a fundamental paradigm shift in thinking the 
+scholarly edition in a typographic setting or in a digital information 
+environment
+
+- should we make a distinction between digital scholarly editions (DSE) 
 and scholarly digital editions (SDE) ?
-     - yes, because it describes two different processes or at least=20
+     - yes, because it describes two different processes or at least 
 different accentuations
-         - DSE emphasizes that we still follow the idea of scholarly=20
+         - DSE emphasizes that we still follow the idea of scholarly 
 editing but transform it to the digital world
-         - SDE emphasizes the relation to other forms of digital=20
+         - SDE emphasizes the relation to other forms of digital 
 publishing which are augmented by the dimension of scholarly criticism
-     - no, because it should lead to the same results: editions that are=20
-truly scholarly AND truly digital- is the edition its content or its presentation?
-     - if the presentation is arbitrarily generated from underlying=20
-data, then it has some logic to say, that the data is the edition. On=20
-the other hand this would not fit well to the common notion of an=20
-"edition" as some form of publication. I think, a SDE must comprise=20
-both: the data and some form of publication of that data. What=20
-constitutes a particular edition is the definition of its subject=20
-together with a personal or institutional creatorship (or=20
-responsibility). Edition of X by Y. The edition may then have different=20
-forms of presentation (online, print, eBook, relaunched online version=20
-after some time), which may also be "versions".- do we really have a problem with the acceptance of digital editions?
+     - no, because it should lead to the same results: editions that are 
+truly scholarly AND truly digital
+
+- is the edition its content or its presentation?
+     - if the presentation is arbitrarily generated from underlying 
+data, then it has some logic to say, that the data is the edition. On 
+the other hand this would not fit well to the common notion of an 
+"edition" as some form of publication. I think, a SDE must comprise 
+both: the data and some form of publication of that data. What 
+constitutes a particular edition is the definition of its subject 
+together with a personal or institutional creatorship (or 
+responsibility). Edition of X by Y. The edition may then have different 
+forms of presentation (online, print, eBook, relaunched online version 
+after some time), which may also be "versions".
+
+- do we really have a problem with the acceptance of digital editions?
      - first, I take up, what Andrew wrote...
-         - "Compared to a printed book, they're miserable to read, since=20
-they tend to be designed first for technical analysis, and any attention=20
+         - "Compared to a printed book, they're miserable to read, since 
+they tend to be designed first for technical analysis, and any attention 
 to typography is typically a very low priority"
-             - I'm not sure whether I'd agree on that. I find most SDEs=20
-quite readable. But yes, we're still in the incunabula age of digital=20
-texts. Good digital typography still has to evolve. Anyway, I'call a lot=20
+             - I'm not sure whether I'd agree on that. I find most SDEs 
+quite readable. But yes, we're still in the incunabula age of digital 
+texts. Good digital typography still has to evolve. Anyway, I'call a lot 
 of the editions listed in my catalog "readable": http://digitale-edition.de/
-         - "There's no guarantee in many cases that citations made from=20
+         - "There's no guarantee in many cases that citations made from 
 digital editions will be stable."
-             - but this is a known problem which we discuss for at least=20
-ten years now. And the solutions are quite clear: PID/PURL-systems, fine=20
-granularity of adressable objects in editions, institutional=20
+             - but this is a known problem which we discuss for at least 
+ten years now. And the solutions are quite clear: PID/PURL-systems, fine 
+granularity of adressable objects in editions, institutional 
 committments for the long-term support of SDE, versioning etc etc
-         - "It's far easier to put a good printed edition together than=20
-a good digital edition, especially because of the lack of standard,=20
+         - "It's far easier to put a good printed edition together than 
+a good digital edition, especially because of the lack of standard, 
 user-friendly tools."
-             - true, but the underlying problem is that SDEs are far=20
-more complex than tradional edition (as regards content, methods,=20
+             - true, but the underlying problem is that SDEs are far 
+more complex than tradional edition (as regards content, methods, 
 technical aspects) - and that's why generic tools are so hard to build
-         - "There is no standard way of presenting online critical=20
-editions (whereas most printed texts are published in series that follow=20
+         - "There is no standard way of presenting online critical 
+editions (whereas most printed texts are published in series that follow 
 a style guide)."
-             - important point that the community has to address; but I=20
-see these publications series coming up; just some arbitrary examples: =20
-http://elec.enc.sorbonne.fr/ - http://www.sd-editions.com/index.html -=20
-http://www.hab.de/de/home/bibliothek/digitale-bibliothek-wdb/digitale-edition=
-en.html=20
+             - important point that the community has to address; but I 
+see these publications series coming up; just some arbitrary examples:  
+http://elec.enc.sorbonne.fr/ - http://www.sd-editions.com/index.html - 
+http://www.hab.de/de/home/bibliothek/digitale-bibliothek-wdb/digitale-editionen.html 
 - http://www.rc.umd.edu/editions/
-         - "Delving into academic politics, publishers hate them and=20
+         - "Delving into academic politics, publishers hate them and 
 many universities don't count digital projects toward tenure."
              - traditional publishers will not solve the problems of SDEs
-             - academic interest groups are starting to deal with the=20
-problem of credibility of digital work (the German Historians Union has=20
-just set up a working group on digital scholarship with a subgroup on=20
+             - academic interest groups are starting to deal with the 
+problem of credibility of digital work (the German Historians Union has 
+just set up a working group on digital scholarship with a subgroup on 
 crediting digital work in tenure and promotion)
-     - second: success on the reader's side can only be measured in=20
-comparison to the success of traditional printed editions. In comparison=20
-to the fact that those often had an extremly low circulation, were=20
+     - second: success on the reader's side can only be measured in 
+comparison to the success of traditional printed editions. In comparison 
+to the fact that those often had an extremly low circulation, were 
 bought nearly exclusively by libraries ....
-     - third: success on the side of the editors. We had 6 summer=20
-schools on scholarly digital editing in the last 5 years=20
-(http://www.i-d-e.de/events-des-ide). All have been overbooked. I see=20
-fewer and fewer newly starting edition projects that don't have a=20
-digital component or basis. There is some pressure from the funding=20
-bodies, that new projects and new editions have to be digital. But=20
-change takes some time.Best, Patrick
+     - third: success on the side of the editors. We had 6 summer 
+schools on scholarly digital editing in the last 5 years 
+(http://www.i-d-e.de/events-des-ide). All have been overbooked. I see 
+fewer and fewer newly starting edition projects that don't have a 
+digital component or basis. There is some pressure from the funding 
+bodies, that new projects and new editions have to be digital. But 
+change takes some time.
+
+Best, Patrick
+
 Am 13.03.2013 21:01, schrieb Dot Porter:
-> My article looking at how medievalists use and consider digital=20
-> editions has just been published in Scholarly Editing: The Annual of=20
-> the Association for Documentary Editing. It may be of some interest to=20
-> folks on the list (and constructive criticism, directly to me to to=20
+> My article looking at how medievalists use and consider digital 
+> editions has just been published in Scholarly Editing: The Annual of 
+> the Association for Documentary Editing. It may be of some interest to 
+> folks on the list (and constructive criticism, directly to me to to 
 > the list, is most welcome!)
 >
 > http://www.scholarlyediting.org/2013/essays/essay.porter.html
 >
 > Dot
 >
-> --=20
+> -- 
 > *~*~*~*~*~*~*~*~*~*~*
 > Dot Porter (MA, MSLS)
 > Digital Medievalist, Digital Librarian
 _redacted_(a)gmail.com>
 > Personal blog: dotporterdigital.org <http://dotporterdigital.org>
 > MESA blog: http://www.dlib.indiana.edu/projects/mesa/
-> MESA on Facebook:=20
+> MESA on Facebook: 
 > https://www.facebook.com/MedievalElectronicScholarlyAlliance
 > *~*~*~*~*~*~*~*~*~*~*
 >
@@ -108,27 +122,33 @@ _redacted_(a)gmail.com>
 > News: http://www.digitalmedievalist.org/news/
 > Wiki: http://www.digitalmedievalist.org/wiki/
 > Twitter: http://twitter.com/digitalmedieval
-> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+> Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca
-> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
---=20
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+
+-- 
 ------------------------------------------------------------------------
-New Book(s) out now: Patrick Sahle, Digitale Editionsformen -=20
+New Book(s) out now: Patrick Sahle, Digitale Editionsformen - 
 http://www.i-d-e.de/schriften/s7-9-digitale-editionsformen
-A) Cologne Center for eHumanities (CCeH) <http://www.cceh.uni-koeln.de/>=20
+A) Cologne Center for eHumanities (CCeH) <http://www.cceh.uni-koeln.de/> 
 (Mitarbeiter)
-B) DARIAH-DE (Digital Research Infrastructure for the Arts and=20
+B) DARIAH-DE (Digital Research Infrastructure for the Arts and 
 Humanities) <http://de.dariah.eu/> (Mitarbeiter)
-C) Humanities Computer Science, University of Cologne=20
+C) Humanities Computer Science, University of Cologne 
 <http://www.hki.uni-koeln.de/> (Mitarbeiter)
-D) Institut f=C3=BCr Dokumentologie und Editorik <http://www.i-d-e.de> (Mitgl=
-ied)Post: Historisch-Kulturwissenschaftliche Informationsverarbeitung,=20
-Universit=C3=A4t zu K=C3=B6ln, Albertus-Magnus-Platz, D-50923 K=C3=B6ln
-B=C3=BCro: Universit=C3=A4tsstr. 22, Dachgeschoss links
+D) Institut für Dokumentologie und Editorik <http://www.i-d-e.de> (Mitglied)
+
+Post: Historisch-Kulturwissenschaftliche Informationsverarbeitung, 
+Universität zu Köln, Albertus-Magnus-Platz, D-50923 Köln
+Büro: Universitätsstr. 22, Dachgeschoss links
 Telefon: +49 - (0)221 - 470 1750
 ------------------------------------------------------------------------
-Zur Person: http://www.uni-koeln.de/~ahz26=20
-<http://www.uni-koeln.de/%7Eahz26>PGh0bWw+CiAgPGhlYWQ+CiAgICA8bWV0YSBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9SVNP
+Zur Person: http://www.uni-koeln.de/~ahz26 
+<http://www.uni-koeln.de/%7Eahz26>
+
+
+
+PGh0bWw+CiAgPGhlYWQ+CiAgICA8bWV0YSBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9SVNP
 LTg4NTktMSIKICAgICAgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIj4KICA8L2hlYWQ+CiAgPGJv
 ZHkgdGV4dD0iIzAwMDAwMCIgYmdjb2xvcj0iI0ZGRkZGRiI+CiAgICA8ZGl2IGNsYXNzPSJtb3ot
 Y2l0ZS1wcmVmaXgiPjxicj4KICAgICAgRGVhciBhbGwsIDxicj4KICAgICAgPGJyPgogICAgICBT
@@ -338,4 +358,4 @@ UGxhdHosIEQtNTA5MjMgSyZvdW1sO2xuPGJyPgogICAgICBCJnV1bWw7cm86IFVuaXZlcnNpdCZh
 dW1sO3Rzc3RyLiAyMiwgRGFjaGdlc2Nob3NzIGxpbmtzPGJyPgogICAgICBUZWxlZm9uOiArNDkg
 LSAoMCkyMjEgLSA0NzAgMTc1MAogICAgICA8aHI+CiAgICAgIFp1ciBQZXJzb246IDxhIGhyZWY9
 Imh0dHA6Ly93d3cudW5pLWtvZWxuLmRlLyU3RWFoejI2Ij5odHRwOi8vd3d3LnVuaS1rb2Vsbi5k
-ZS9+YWh6MjY8L2E+PC9kaXY+CiAgPC9ib2R5Pgo8L2h0bWw+Cg==
+ZS9+YWh6MjY8L2E+PC9kaXY+CiAgPC9ib2R5Pgo8L2h0bWw+Cg

@@ -1,8 +1,19 @@
-Subject: Re: [dm-l] [Fwd: encoding  maps, graphics with text?] Problems	withPeter-I also work in an all Mac (Classic and OS X) environment and I have no
+Subject: Re: [dm-l] [Fwd: encoding  maps, graphics with text?] Problems	with
+
+Peter-
+
+I also work in an all Mac (Classic and OS X) environment and I have no
 problem whatsoever. Could the fault come from your ISP's firewall(s)? I am
 no specialist, but it looks like port 8080 has been blocked not on your
-computer but on your network. You should ask your system administrator.Best,Laurent
-_redacted_(a)dmu.ac.uk wrote:> I have tried with various browsers, but all naturally in Mac OS X, and from
+computer but on your network. You should ask your system administrator.
+
+Best,
+
+Laurent
+
+_redacted_(a)dmu.ac.uk wrote:
+
+> I have tried with various browsers, but all naturally in Mac OS X, and from
 > different places, and just cannot get through.  I get 'the operation timed
 > out when trying to connect to..' or just 'cannot connect to..'
 > I am trying 
@@ -23,4 +34,7 @@ _redacted_(a)dmu.ac.uk wrote:> I have tried with various browsers, but all nat
 > dm-l mailing list
 _redacted_(a)uleth.ca
 > http://listserv.uleth.ca/mailman/listinfo/dm-l
-> 
+> 
+
+
+

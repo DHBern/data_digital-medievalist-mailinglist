@@ -1,15 +1,29 @@
-Subject: Re: [dm-l] Experience with Full Text Searching[sorry if this is redundant -- I joined this list and then went away
-for two weeks so I may have missed a reply]Depending on your tolerance for Java programming, you might want to
+Subject: Re: [dm-l] Experience with Full Text Searching
+
+[sorry if this is redundant -- I joined this list and then went away
+for two weeks so I may have missed a reply]
+
+Depending on your tolerance for Java programming, you might want to
 look at Lucene (http://jakarta.apache.org/lucene). It's a VERY fast,
 very reliable open source search engine. We've had great success 
-running it over the Perseus Greek and Latin collections.Relative to eXist, Lucene is more of an API than a full-fledged application
+running it over the Perseus Greek and Latin collections.
+
+Relative to eXist, Lucene is more of an API than a full-fledged application
 with administrative interfaces and so forth. That means there's a bit
 of programming overhead, but it also makes it easy to add specialized
 linguistic information to the search process, like morphological query
 expansion (the query "amo" is translated to "amo amas amat..."). Something
 similar could be done for orthographic variants, if you had a database
-of equivalent spellings.If anyone is interested, I can provide more detail (and code).David Mimno
-Perseus Project_redacted_(a)uleth.ca>:> Hello all,
+of equivalent spellings.
+
+If anyone is interested, I can provide more detail (and code).
+
+David Mimno
+Perseus Project
+
+_redacted_(a)uleth.ca>:
+
+> Hello all,
 >     I have another question for the collective wisdom. What are people's 
 > experience with full text searching. We are building an xml-ised 
 > database of original journal articles. These will be retrievable using 
@@ -22,4 +36,7 @@ Perseus Project_redacted_(a)uleth.ca>:> Hello all,
 > less usual than I thought in the case of larger libraries.
 > b) have people suggestions for incorporating full text searching into a 
 > document database.
-> -dan
+> -dan
+
+
+

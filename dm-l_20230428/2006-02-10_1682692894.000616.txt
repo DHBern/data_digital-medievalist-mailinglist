@@ -1,5 +1,9 @@
-Subject: [dm-l] [Fwd: Bibliography Formatting Software: An EvaluationThe question of bibliographic software has come up on this list before:
-here's an update.-d
+Subject: [dm-l] [Fwd: Bibliography Formatting Software: An Evaluation
+
+The question of bibliographic software has come up on this list before:
+here's an update.
+
+-d
 -- 
 Daniel Paul O'Donnell
 Associate Professor and Acting Chair
@@ -8,13 +12,21 @@ Director, Digital Medievalist Project
 Department of English
 University of Lethbridge
 Lethbridge AB T1K 3M4
-CanadaVox +1 403 329-2377
-Fax +1 403 382-7191_redacted_@caedmon/ubuntu
---===============7260951892003907282==
-Content-Type: message/rfc822
+Canada
+
+Vox +1 403 329-2377
+Fax +1 403 382-7191
+
+_redacted_@caedmon/ubuntu
+
+
+
+--7260951892003907282Content-Type: message/rfc822
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.eml"
-MIME-Version: 1.0UmV0dXJuLXBhdGg6IDxvd25lci1wcm9jaXRlQExJU1RTRVJWLklORElBTkEuRURVPgpFbnZlbG9w
+Content-Disposition: attachment; filenameúttachment.eml"
+MIME-Version: 1.0
+
+UmV0dXJuLXBhdGg6IDxvd25lci1wcm9jaXRlQExJU1RTRVJWLklORElBTkEuRURVPgpFbnZlbG9w
 ZS10bzogZGFuaWVsLm9kb25uZWxsQFVMRVRILkNBCkRlbGl2ZXJ5LWRhdGU6IEZyaSwgMTAgRmVi
 IDIwMDYgMDc6NDI6MzIgLTA3MDAKUmVjZWl2ZWQ6IGZyb20gYmVsbGF0cml4LnVsZXRoLmNhIChb
 MTQyLjY2LjMuNDNdOjMzMTY3KSBieQoJYmlhbmNhLm5ldHNydi51bGV0aC5jYSB3aXRoIGVzbXRw
@@ -83,4 +95,4 @@ aXNjdXNzaW9uIGxpc3QsIHRoaXMgbWVzc2FnZSBpcyBmb3IgdGhlIHNvbGUgdXNlIG9mIHRoZQpp
 bnRlbmRlZCByZWNpcGllbnQocykuID0yMApBbnkgdW5hdXRob3JpemVkIHVzZSwgZGlzY2xvc3Vy
 ZSBvciBkaXN0cmlidXRpb24gaXMgc3Ryb25nbHkgZGlzY291cmFnZWQuCklmIHlvdSBhcmUgbm90
 IHRoZSBpbnRlbmRlZCByZWNpcGllbnQsIHBsZWFzZSBjb250YWN0IHRoZSBzZW5kZXIgYW5kCmRl
-c3Ryb3kgdGhpcyBtZXNzYWdlLgo=
+c3Ryb3kgdGhpcyBtZXNzYWdlLgo

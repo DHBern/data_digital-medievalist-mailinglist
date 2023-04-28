@@ -1,59 +1,110 @@
-Subject: Re: [dm-l] Call for papers for the special issue: "Historical[all apologies for cross mailing]Extension of the deadline to 1st of December for the special issue: "Historic=
-al documents and automatic text recognition".Editors : Ariane Pinche and Peter StokesJournal of Data Mining and Digital Humanities
-With this special issue of the Journal of Data Mining and Digital Humanities =
-(JDMDH), we wish to bring together in one single volume several experiments, =
-projects and reflections related to automatic text recognition on historical =
-documents.To address these issues, we propose the following three axes:
+Subject: Re: [dm-l] Call for papers for the special issue: "Historical
+
+[all apologies for cross mailing]
+
+Extension of the deadline to 1st of December for the special issue: "Historical documents and automatic text recognition".
+
+Editors : Ariane Pinche and Peter Stokes
+
+Journal of Data Mining and Digital Humanities
+With this special issue of the Journal of Data Mining and Digital Humanities (JDMDH), we wish to bring together in one single volume several experiments, projects and reflections related to automatic text recognition on historical documents.
+
+To address these issues, we propose the following three axes:
 - Axis 1: Sources, constitution and sharing of training data.
 - Axis 2: Machine learning
-- Axis 3: Feedback and data exploitationThis special issue aims to provide an overview of the use of HTR or OCR on hi=
-storical documents, as its uses multiply and more and more research projects =
-and cultural heritage institutions become interested in it. Through the Journ=
-al of Data Mining and Digital Humanities, we are delighted to offer an opport=
-unity to all those who wish to make their own contribution to the field or to=
- share their experience by exposing their successes, their questions and thei=
-r difficulties, or even failure. By publishing this special issue, we hope to=
- present a state of the art of the uses of automatic handwriting recognition =
-today.Complete description at the following address : .https://jdmdh.episciences.or=
-g/page/documents-historiques-et-reconnaissance-automatique-de-textes#Submission details and deadlines:
-=E2=80=A2 The papers are expected to be between 6 and 8 pages for short paper=
- or between 12 and 15 pages for long papers.
-=E2=80=A2 The articles must present original and previously unpublished work.
-=E2=80=A2 All submissions must be in English
-=E2=80=A2 All the articles submitted are subject to blind peer review in acco=
-rdance with the journal=E2=80=99s editorial policies.
-=E2=80=A2 Submission deadline: 1 December 2022.
+- Axis 3: Feedback and data exploitation
+
+This special issue aims to provide an overview of the use of HTR or OCR on historical documents, as its uses multiply and more and more research projects and cultural heritage institutions become interested in it. Through the Journal of Data Mining and Digital Humanities, we are delighted to offer an opportunity to all those who wish to make their own contribution to the field or to share their experience by exposing their successes, their questions and their difficulties, or even failure. By publishing this special issue, we hope to present a state of the art of the uses of automatic handwriting recognition today.
+
+Complete description at the following address : .https://jdmdh.episciences.org/page/documents-historiques-et-reconnaissance-automatique-de-textes#
+
+Submission details and deadlines:
+• The papers are expected to be between 6 and 8 pages for short paper or between 12 and 15 pages for long papers.
+• The articles must present original and previously unpublished work.
+• All submissions must be in English
+• All the articles submitted are subject to blind peer review in accordance with the journal’s editorial policies.
+• Submission deadline: 1 December 2022.
+
 Yours sincerely,
-Ariane PincheAriane Pinche
-Charg=C3=A9e de recherche CNRS
-_redacted_(a)cnrs.fr>
-CIHAM =E2=80=A2 UMR 5648
-Maison des Sciences de l=E2=80=99Homme Lyon St-=C3=89tienne
-14, avenue Berthelot =E2=80=93 F-69363 LYON CEDEX 07_redacted_(a)gmail.com<mailto=
-_redacted_(a)gmail.com>> a =C3=A9crit :
-[all apologies for cross mailing]Call for papers for the special issue: "Historical documents and automatic te=
-xt recognition =C2=BB. [reminder]Editors : Ariane Pinche and Peter StokesJournal of Data Mining and Digital HumanitiesWith this special issue of the Journal of Data Mining and Digital Humanities =
-(JDMDH), we wish to bring together in one single volume several experiments, =
-projects and reflections related to automatic text recognition on historical =
-documents.To address these issues, we propose the following three axes:- Axis 1: Sources, constitution and sharing of training data.- Axis 2: Machine learning- Axis 3: Feedback and data exploitationThis special issue aims to provide an overview of the use of HTR or OCR on hi=
-storical documents, as its uses multiply and more and more research projects =
-and cultural heritage institutions become interested in it. Through the Journ=
-al of Data Mining and Digital Humanities, we are delighted to offer an opport=
-unity to all those who wish to make their own contribution to the field or to=
- share their experience by exposing their successes, their questions and thei=
-r difficulties, or even failure. By publishing this special issue, we hope to=
- present a state of the art of the uses of automatic handwriting recognition =
-today.Complete description at the following address : .https://jdmdh.episciences.or=
-g/page/documents-historiques-et-reconnaissance-automatique-de-textes#Submission details and deadlines:  *   The papers are expected to be between 6 and 8 pages for short paper or =
-between 12 and 15 pages for long papers.  *   The articles must present original and previously unpublished work.  *   All submissions must be in English  *   All the articles submitted are subject to blind peer review in accordan=
-ce with the journal=E2=80=99s editorial policies.  *   Submission deadline: 1 November 2022.
-Please feel free to share this information,Yours sincerely,Ariane Pinche
 Ariane Pinche
-Docteure en langue et litt=C3=A9rature m=C3=A9di=C3=A9vales
-Postdoctorante =E2=80=A2 Projet CREMMALAB
-=C3=89cole nationale des chartes =E2=80=A2 INRIA
-Centre Jean Mabillon =E2=80=A2 CIHAM (UMR 5648 )
-_redacted_(a)chartes.psl.eu>PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
+
+
+
+Ariane Pinche
+Chargée de recherche CNRS
+_redacted_(a)cnrs.fr>
+CIHAM • UMR 5648
+Maison des Sciences de l’Homme Lyon St-Étienne
+14, avenue Berthelot – F-69363 LYON CEDEX 07
+
+
+
+_redacted_(a)gmail.com<mailto_redacted_(a)gmail.com>> a écrit :
+
+[all apologies for cross mailing]
+
+Call for papers for the special issue: "Historical documents and automatic text recognition ». [reminder]
+
+Editors : Ariane Pinche and Peter Stokes
+
+Journal of Data Mining and Digital Humanities
+
+With this special issue of the Journal of Data Mining and Digital Humanities (JDMDH), we wish to bring together in one single volume several experiments, projects and reflections related to automatic text recognition on historical documents.
+
+To address these issues, we propose the following three axes:
+
+- Axis 1: Sources, constitution and sharing of training data.
+
+- Axis 2: Machine learning
+
+- Axis 3: Feedback and data exploitation
+
+This special issue aims to provide an overview of the use of HTR or OCR on historical documents, as its uses multiply and more and more research projects and cultural heritage institutions become interested in it. Through the Journal of Data Mining and Digital Humanities, we are delighted to offer an opportunity to all those who wish to make their own contribution to the field or to share their experience by exposing their successes, their questions and their difficulties, or even failure. By publishing this special issue, we hope to present a state of the art of the uses of automatic handwriting recognition today.
+
+Complete description at the following address : .https://jdmdh.episciences.org/page/documents-historiques-et-reconnaissance-automatique-de-textes#
+
+Submission details and deadlines:
+
+  *   The papers are expected to be between 6 and 8 pages for short paper or between 12 and 15 pages for long papers.
+
+  *   The articles must present original and previously unpublished work.
+
+  *   All submissions must be in English
+
+  *   All the articles submitted are subject to blind peer review in accordance with the journal’s editorial policies.
+
+  *   Submission deadline: 1 November 2022.
+
+Please feel free to share this information,
+
+Yours sincerely,
+
+Ariane Pinche
+
+Ariane Pinche
+Docteure en langue et littérature médiévales
+Postdoctorante • Projet CREMMALAB
+École nationale des chartes • INRIA
+Centre Jean Mabillon • CIHAM (UMR 5648 )
+_redacted_(a)chartes.psl.eu>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PGh0bWw+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRl
 eHQvaHRtbDsgY2hhcnNldD11dGYtOCI+CjwvaGVhZD4KPGJvZHkgc3R5bGU9IndvcmQtd3JhcDog
 YnJlYWstd29yZDsgLXdlYmtpdC1uYnNwLW1vZGU6IHNwYWNlOyBsaW5lLWJyZWFrOiBhZnRlci13
 aGl0ZS1zcGFjZTsiIGNsYXNzPSIiPgo8ZGl2IHN0eWxlPSJib3JkZXI6c29saWQgIzY0NjQ2NCAx
@@ -369,4 +420,4 @@ aW5lIj4KPC9kaXY+CjxiciBjbGFzcz0iQXBwbGUtaW50ZXJjaGFuZ2UtbmV3bGluZSI+CjwvZGl2
 Pgo8YnIgY2xhc3M9IkFwcGxlLWludGVyY2hhbmdlLW5ld2xpbmUiPgo8YnIgY2xhc3M9IkFwcGxl
 LWludGVyY2hhbmdlLW5ld2xpbmUiPgo8L2Rpdj4KPGJyIGNsYXNzPSIiPgo8L2Rpdj4KPC9kaXY+
 CjwvYmxvY2txdW90ZT4KPC9kaXY+CjxiciBjbGFzcz0iIj4KPC9kaXY+CjwvYm9keT4KPC9odG1s
-Pgo=
+Pgo

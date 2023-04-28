@@ -1,9 +1,17 @@
-Subject: Re: [dm-l] [Technical]: Suggestions for a replacement for	Subversion?Answering in a completely different way, it may not be a choice between
+Subject: Re: [dm-l] [Technical]: Suggestions for a replacement for	Subversion?
+
+Answering in a completely different way, it may not be a choice between
 them. Ifttt should let you write a trigger that commits Dropbox or drive
 files to GitHub. That way your users see Dropbox and your backend sees
-GitHub.Cheers
-Stuart_redacted_(a)uleth.ca>
-wrote:>  Maybe I should reask it. Is there a reason for not just using dropbox or
+GitHub.
+
+Cheers
+Stuart
+
+_redacted_(a)uleth.ca>
+wrote:
+
+>  Maybe I should reask it. Is there a reason for not just using dropbox or
 > drive?
 >
 > I ask this not to disparage the advice for github, but because when I
@@ -114,7 +122,7 @@ _redacted_(a)uleth.ca');>> wrote:
 >>> News: http://www.digitalmedievalist.org/news/
 >>> Wiki: http://www.digitalmedievalist.org/wiki/
 >>> Twitter: http://twitter.com/digitalmedieval
->>> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+>>> Facebook: http://www.facebook.com/group.php?gid=49320313760
 _redacted_(a)uleth.ca
 >>> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
 >>>
@@ -143,9 +151,8 @@ _redacted_(a)uleth.ca
 > News: http://www.digitalmedievalist.org/news/
 > Wiki: http://www.digitalmedievalist.org/wiki/
 > Twitter: http://twitter.com/digitalmedieval
-> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
-_redacted_(a)uleth=
-.ca');>
+> Facebook: http://www.facebook.com/group.php?gid=49320313760
+_redacted_(a)uleth.ca');>
 > Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
 >
 >
@@ -160,9 +167,15 @@ _redacted_(a)uleth=
 >
 > +1 403 393-2539
 >
->--=20
+>
+
+-- 
 --
-...let us be heard from red core to black skyQW5zd2VyaW5nIGluIGEgY29tcGxldGVseSBkaWZmZXJlbnQgd2F5LCBpdCBtYXkgbm90IGJlIGEg
+...let us be heard from red core to black sky
+
+
+
+QW5zd2VyaW5nIGluIGEgY29tcGxldGVseSBkaWZmZXJlbnQgd2F5LCBpdCBtYXkgbm90IGJlIGEg
 Y2hvaWNlIGJldHdlZW4gdGhlbS4gSWZ0dHQgc2hvdWxkIGxldCB5b3Ugd3JpdGUgYSB0cmlnZ2Vy
 IHRoYXQgY29tbWl0cyBEcm9wYm94IG9yIGRyaXZlIGZpbGVzIHRvIEdpdEh1Yi4gVGhhdCB3YXkg
 eW91ciB1c2VycyBzZWUgRHJvcGJveCBhbmQgeW91ciBiYWNrZW5kIHNlZXMgR2l0SHViLjxkaXY+
@@ -364,4 +377,4 @@ LSAKPkZyb20gbXkgVWJ1bnR1IG5vdGVib29rCgpEYW5pZWwgUGF1bCBPJiMzOTtEb25uZWxsClBy
 b2Zlc3NvciBvZiBFbmdsaXNoClVuaXZlcnNpdHkgb2YgTGV0aGJyaWRnZQpMZXRoYnJpZGdlIEFC
 IFQxSyAzTTQKQ2FuYWRhCgorMSA0MDMgMzkzLTI1Mzk8L3ByZT4KICA8L2Rpdj4KCjwvYmxvY2tx
 dW90ZT48L2Rpdj48YnI+PGJyPi0tIDxicj4tLTxicj4uLi5sZXQgdXMgYmUgaGVhcmQgZnJvbSBy
-ZWQgY29yZSB0byBibGFjayBza3k8YnI+Cg==
+ZWQgY29yZSB0byBibGFjayBza3k8YnI+Cg

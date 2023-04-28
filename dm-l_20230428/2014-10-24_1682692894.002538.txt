@@ -1,44 +1,73 @@
-Subject: [dm-l] Job in Cologne: Software Developer/Digital Humanist*** Apologies for cross posting ***The Cologne Center for eHumanities (CCeH) at the University of Cologne=20
-(Germany) is offering a position for aDigital Humanist / Software Developer
-(3 years, TV-L 13, full-time with part-time option, starting 1 January 2015)Tasks
-Collaboration on different projects; among others an international=20
-EU-funded project aiming at providing access to archival material for=20
+Subject: [dm-l] Job in Cologne: Software Developer/Digital Humanist
+
+*** Apologies for cross posting ***
+
+The Cologne Center for eHumanities (CCeH) at the University of Cologne 
+(Germany) is offering a position for a
+
+Digital Humanist / Software Developer
+(3 years, TV-L 13, full-time with part-time option, starting 1 January 2015)
+
+Tasks
+Collaboration on different projects; among others an international 
+EU-funded project aiming at providing access to archival material for 
 academics and the public:
 - implementation of open-source Web 2.0 features and tools
-- usability of technical tools in the environment of digital archival=20
+- usability of technical tools in the environment of digital archival 
 material
-- crowdsourcing tools for indexing and transcription on the basis of a=20
+- crowdsourcing tools for indexing and transcription on the basis of a 
 web-based XML WYSIWYM
 - gamification features
-- development / enhancement / implementation of tools for image=20
-cropping, text image linking, image annotation (supported by tagging=20
+- development / enhancement / implementation of tools for image 
+cropping, text image linking, image annotation (supported by tagging 
 taxonomies, vocabularies and folksonomies)
-- information enrichment (e.g. named entities) with authority files,Required skills
+- information enrichment (e.g. named entities) with authority files,
+
+Required skills
 - x-technologies (XML, XSLT, XQuery, XML-DB)
 - web technologies (including deeper understanding of JavaScript)
 - software development experience
-- experience in distributed collaboration using git and issue tracking=20
+- experience in distributed collaboration using git and issue tracking 
 software
-- dissemination & communication skillsDesirable skills
+- dissemination & communication skills
+
+Desirable skills
 - additional programming languages (e.g. Java/C++, Ruby, Python, PHP)
 - data and metadata standards in the Digital Humanities (CEI/TEI, EAD)
 - digitization of cultural heritage objects (artifacts / images / texts)
-- understanding humanities concepts and finding ways to realize them as=20
-technical solutionsA working knowledge / understanding of German should be acquired within=20
-1 year.Application Deadline: 17 November 2014Applications should include a brief cover letter and a CV and may=20
-include links to projects. Applications must be sent electronically to=20
-_redacted_(a)uni-koeln.de.For further information or in case of queries contact Dr. Patrick Sahle=20
-_redacted_(a)uni-koeln.de.http://www.cceh.uni-koeln.de/node/565
-Please circulate widely!--=20
+- understanding humanities concepts and finding ways to realize them as 
+technical solutions
+
+A working knowledge / understanding of German should be acquired within 
+1 year.
+
+Application Deadline: 17 November 2014
+
+Applications should include a brief cover letter and a CV and may 
+include links to projects. Applications must be sent electronically to 
+_redacted_(a)uni-koeln.de.
+
+For further information or in case of queries contact Dr. Patrick Sahle 
+_redacted_(a)uni-koeln.de.
+
+http://www.cceh.uni-koeln.de/node/565
+Please circulate widely!
+
+-- 
 Dr. Franz Fischer
 Cologne Center for eHumanities
-Universit=C3=A4t zu K=C3=B6ln, Universit=C3=A4tsstr. 22, D-50923 K=C3=B6ln
+Universität zu Köln, Universitätsstr. 22, D-50923 Köln
 Telefon: +49 - (0)221 - 470 - 4056
-_redacted_(a)uni-koeln.de-----------------------------------------------------------------------------=
----
+_redacted_(a)uni-koeln.de
+
+--------------------------------------------------------------------------------
 http://www.cceh.uni-koeln.de
 http://www.i-d-e.de
-http://www.thomasinstitut.uni-koeln.dehttp://dixit.uni-koeln.de
+http://www.thomasinstitut.uni-koeln.de
+
+http://dixit.uni-koeln.de
 http://guillelmus.uni-koeln.de
-http://confessio.ie
---===============0655852840475037232==--
+http://confessio.ie
+
+--0655852840475037232-
+

@@ -1,70 +1,92 @@
-Subject:
-***Apologies for cross-posting***The Thomas-Institute at the Faculty of Arts and Humanities at the =20
-University of Cologne invites applications for four full-time =20
-positions as Research Associates, one of which in Digital Humanities, =20
-three in Arabic, Hebrew, and Latin Philosophy, starting May 1, 2016.The Thomas-Institute conducts a long-term project of critical editions =20
-of the writings on Natural Philosophy by the Arabic philosopher =20
-Averroes (Ibn Ru=C5=A1d, 1126=E2=80=931198) and his immediate predecessor Ave=
-mpace =20
-(Ibn B=C4=81=C7=A7=C7=A7a, c. 1070=E2=80=931139): "Averroes (Ibn Rushd) and t=
-he Arabic, =20
-Hebrew, and Latin Reception of Aristotle=E2=80=99s Philosophy of Nature". The=
- =20
-project will produce a total of 18 critical editions of the preserved =20
-Arabic original texts and their medieval Hebrew and Latin =20
-translations, which will be published both in print and as digital =20
-editions. Starting in 2016, the project is scheduled to run for 25 =20
-years, and has received funding for the entire period of its duration =20
-from the North Rhine-Westphalian Academy of Sciences, Humanities and =20
-the Arts. Directors: Prof. Dr. Andreas Speer, Jun.-Prof. Dr. David =20
-Wirmer.The Digital Humanities position assigned to this project has the task
-* to evaluate existing editing tools and to adapt them to the needs of =20
+Subject:
+
+***Apologies for cross-posting***
+
+The Thomas-Institute at the Faculty of Arts and Humanities at the  
+University of Cologne invites applications for four full-time  
+positions as Research Associates, one of which in Digital Humanities,  
+three in Arabic, Hebrew, and Latin Philosophy, starting May 1, 2016.
+
+The Thomas-Institute conducts a long-term project of critical editions  
+of the writings on Natural Philosophy by the Arabic philosopher  
+Averroes (Ibn Rušd, 1126–1198) and his immediate predecessor Avempace  
+(Ibn Bāǧǧa, c. 1070–1139): "Averroes (Ibn Rushd) and the Arabic,  
+Hebrew, and Latin Reception of Aristotle’s Philosophy of Nature". The  
+project will produce a total of 18 critical editions of the preserved  
+Arabic original texts and their medieval Hebrew and Latin  
+translations, which will be published both in print and as digital  
+editions. Starting in 2016, the project is scheduled to run for 25  
+years, and has received funding for the entire period of its duration  
+from the North Rhine-Westphalian Academy of Sciences, Humanities and  
+the Arts. Directors: Prof. Dr. Andreas Speer, Jun.-Prof. Dr. David  
+Wirmer.
+
+The Digital Humanities position assigned to this project has the task
+* to evaluate existing editing tools and to adapt them to the needs of  
 the present project;
-* to assist the editors in the encoding in XML/TEI of complex =20
+* to assist the editors in the encoding in XML/TEI of complex  
 editorial findings;
-* to implement =E2=80=95 on the basis of an existing framework =20
-(http://dare.uni-koeln.de/) =E2=80=95 solutions for the display of the =20
+* to implement ― on the basis of an existing framework  
+(http://dare.uni-koeln.de/) ― solutions for the display of the  
 critical apparatus;
 * to contribute to the development of an TEI schema for edition meta-data;
-* to further develop the technical framework with a view to =20
-standardized technologies and sustainability.Appointment requirements are: either a university degree (Master) in =20
-computer science and a good knowledge of questions and methods used in =20
-the humanities, especially in edition philology or a university degree =20
-(Master) in a field related to the subject-matter of the edition =20
-project and in-depth knowledge in informatics. Eligible candidates =20
-should demonstrate an excellent knowledge of XML/TEI, XML-databases, =20
-XML editors and their customization, other XML-related standards and =20
-web technologies. In addition, some experience in the creation of =20
+* to further develop the technical framework with a view to  
+standardized technologies and sustainability.
+
+Appointment requirements are: either a university degree (Master) in  
+computer science and a good knowledge of questions and methods used in  
+the humanities, especially in edition philology or a university degree  
+(Master) in a field related to the subject-matter of the edition  
+project and in-depth knowledge in informatics. Eligible candidates  
+should demonstrate an excellent knowledge of XML/TEI, XML-databases,  
+XML editors and their customization, other XML-related standards and  
+web technologies. In addition, some experience in the creation of  
 print masters is desirable.
-For further information see: http://ukoeln.de/F1JI1Applicants for the positions in Arabic, Hebrew, and Latin Philosophy =20
-should be competent in more than one area. Appointment requirements =20
-are: a university degree and PhD in a field related to the =20
-subject-matter of the edition project (e.g. History of Philosophy, =20
-Classical Philology, Oriental Studies, Jewish Studies, etc.). Eligible =20
-candidates should demonstrate an excellent knowledge of either Arabic, =20
-Hebrew, or Latin, working knowledge of at least one of the other =20
-languages, and close familiarity with Medieval philosophy. The =20
-appointed editors are expected to work independently but in close =20
+For further information see: http://ukoeln.de/F1JI1
+
+Applicants for the positions in Arabic, Hebrew, and Latin Philosophy  
+should be competent in more than one area. Appointment requirements  
+are: a university degree and PhD in a field related to the  
+subject-matter of the edition project (e.g. History of Philosophy,  
+Classical Philology, Oriental Studies, Jewish Studies, etc.). Eligible  
+candidates should demonstrate an excellent knowledge of either Arabic,  
+Hebrew, or Latin, working knowledge of at least one of the other  
+languages, and close familiarity with Medieval philosophy. The  
+appointed editors are expected to work independently but in close  
 collaboration with their colleagues.
-For further information see: http://ukoeln.de/KYP7XThe University of Cologne is an equal opportunities employer. =20
-Applications of women are thus especially encouraged; applications of =20
-disabled persons will be given preferential treatment to those of =20
-other candidates with equal qualifications. Candidates should submit a =20
-cover letter that describes their research, two letters of =20
-recommendation, and a current curriculum vitae. To ensure full =20
-consideration, applications must be received by February 15, 2016. =20
-Please send your documents to:Averroes Edition
+For further information see: http://ukoeln.de/KYP7X
+
+The University of Cologne is an equal opportunities employer.  
+Applications of women are thus especially encouraged; applications of  
+disabled persons will be given preferential treatment to those of  
+other candidates with equal qualifications. Candidates should submit a  
+cover letter that describes their research, two letters of  
+recommendation, and a current curriculum vitae. To ensure full  
+consideration, applications must be received by February 15, 2016.  
+Please send your documents to:
+
+Averroes Edition
 Thomas-Institut
-Universit=C3=A4tsstra=C3=9Fe 22
-50923 K=C3=B6ln_redacted_(a)uni-koeln.de.--=20
+Universitätsstraße 22
+50923 Köln
+
+_redacted_(a)uni-koeln.de.
+
+-- 
 Dr. Franz Fischer
 Cologne Center for eHumanities
-Universit=C3=A4t zu K=C3=B6ln, Universit=C3=A4tsstr. 22, D-50923 K=C3=B6ln
+Universität zu Köln, Universitätsstr. 22, D-50923 Köln
 Telefon: +49 - (0)221 - 470 - 4056
-_redacted_(a)uni-koeln.de-----------------------------------------------------------------------------=
----
+_redacted_(a)uni-koeln.de
+
+--------------------------------------------------------------------------------
 http://www.cceh.uni-koeln.de
 http://www.i-d-e.de
-http://www.thomasinstitut.uni-koeln.dehttp://dixit.uni-koeln.de
+http://www.thomasinstitut.uni-koeln.de
+
+http://dixit.uni-koeln.de
 http://guillelmus.uni-koeln.de
-http://confessio.ie
+http://confessio.ie
+
+
+

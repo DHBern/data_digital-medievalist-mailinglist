@@ -1,4 +1,5 @@
-Subject: Re: [dm-l] MS-Internet Explorer 6 and standards based computing
+Subject: Re: [dm-l] MS-Internet Explorer 6 and standards based computing
+
 On Monday, June 28, 2004, at 05:54 AM, Joris van.Zundert wrote:
 >
 > >>perhaps the response among this group should be the converse of many
@@ -9,11 +10,15 @@ On Monday, June 28, 2004, at 05:54 AM, Joris van.Zundert wrote:
 > IE). If it's not, users will blame the application, not the browser. 
 > So I wouldn't recommend not making your application IE compatible. One 
 > should do both: implement the standards and provide a IE compatible 
-> version as well.in principle, i agree entirely. cross-browser compatibility is the 
+> version as well.
+
+in principle, i agree entirely. cross-browser compatibility is the 
 preferred option. i suppose my response here is partly an expression of 
 frustration that many developers develop in such a way as to entirely 
 shut out non-IE browsers (and this is usually tied precisely to the use 
-of microsoft server software, IIS, and its functionality).I do think, however, that there are a couple of more substantive 
+of microsoft server software, IIS, and its functionality).
+
+I do think, however, that there are a couple of more substantive 
 points. first, you have to consider how much extra work it is to 
 develop a whole bunch of work-around, non-standard material in addition 
 to your standards-compliant version. some of this could probably be 
@@ -21,7 +26,9 @@ mitigated by, for example, server-side parsing, but not all of it.
 worse, with non-standards-compliant browsers, you never know where 
 they're going next, and what work-around might not work with the next 
 release -- *especially* if their objective is to pull people away from 
-standards-compliant browsers, as microsoft's seems to be.you also need to consider your specific audience. it may well be that 
+standards-compliant browsers, as microsoft's seems to be.
+
+you also need to consider your specific audience. it may well be that 
 you have a lot more opera/mozilla/safari users than the wider 
 population. it may also be that with a more relatively specialist 
 audience, you can expect them to take the small extra step of 
@@ -31,7 +38,9 @@ applications we're talking about are not mass market applications or
 web sites, you can probably afford to set the bar of entry a teeny bit 
 higher than if you're running people off to another online bookstore or 
 credit card company or service provider because your site doesn't work 
-in IE.>
+in IE.
+
+>
 > >>even if IE is parsing XSL better right now, other browsers,
 > >>particularly mozilla-based browsers, are sure to catch up.
 >
@@ -39,7 +48,9 @@ in IE.>
 > just parse server side and sending HTML? For those who want the very 
 > XML, a download button, FTP, or OAI solution may be provided. HTML is 
 > implemented fairly reliable over all browsers, is it? Or do I fail to 
-> see an important point for not parsing XML server side?well, i would say here that you avoid adding burden to the server as a 
+> see an important point for not parsing XML server side?
+
+well, i would say here that you avoid adding burden to the server as a 
 general rule, much like cross-browser compatibility is a general rule. 
 that doesn't mean that server-side parsing is a bad solution to every 
 problem, just that it can't be the solution to *every* problem, 
@@ -49,6 +60,10 @@ of "work-around" that at least won't mean lots of recoding (at least
 compared to what we're talking about above). when browsers come up to 
 snuff, you just migrate the parsing work to the browser. that's 
 actually making less work down the road, rather than more. (i see 
-martin has snuck in a nice response to this, just now.)cheers,
-j
---===============9177308345043238374==--
+martin has snuck in a nice response to this, just now.)
+
+cheers,
+j
+
+--9177308345043238374-
+

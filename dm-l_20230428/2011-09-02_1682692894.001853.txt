@@ -1,7 +1,9 @@
-Subject: [dm-l] CFP: Interedition's 8th Bootcamp =?utf-8?q?=28W=C3=BCrzburg?==== CALL FOR PARTICIPATION ===
+Subject: [dm-l] CFP: Interedition's 8th Bootcamp tf-8?q?(Würzburg?
+ CALL FOR PARTICIPATION 
 Interedition 8th Bootcamp: 7 October - 11 October 2011
------------------------------------------------------== ABOUT INTEREDITION ==
-Interedition (http://www.interedition.eu) is a COST (http://www.cost.eu)
+-----------------------------------------------------
+
+ABOUT INTEREDITION Interedition (http://www.interedition.eu) is a COST (http://www.cost.eu)
 funded Action whose objective is to further the interoperability of tools in
 digital scholarship. Interedition is raising the awareness of the importance
 of interoperability as a major driver for sustainability for tools and data
@@ -11,19 +13,25 @@ knowledge of tools and avenues towards their interoperability; secondly, the
 development of proof-of-concept implementations of interoperable tools.
 These proof-of-concept tools are the focus of Interedition's periodic
 bootcamps, which offer the open source development community in the
-humanities opportunities to meet, network, and exchange knowledge.== THE BOOTCAMP ==
-Interedition is inviting all interested to participate in the upcoming
+humanities opportunities to meet, network, and exchange knowledge.
+
+THE BOOTCAMP Interedition is inviting all interested to participate in the upcoming
 Development Bootcamp, which will take place from 7 October to 11 October
 2011 at the Universität Würzburg, coinciding with the start of the
 TEI-meeting (http://www.zde.uni-wuerzburg.de/tei_mm_2011/) which also takes
 place there. We hope thus to offer a good occasion for members of both
 groups to confer on the subject of interoperability. As special Think Tank
 for this is foreseen on 12 October, for which seperate bursaried may be
-acquired.The bootcamp and think tank are organized through the kind efforts of:- Fotis Jannidis (Universität Würzburg)
+acquired.
+
+The bootcamp and think tank are organized through the kind efforts of:
+
+- Fotis Jannidis (Universität Würzburg)
 - Malte Rehbein (Universität Würzburg)
 - Gregor Middell (Universität Würzburg)
-- Susan Schrebman (Trinity College Dublin)== OBJECTIVES ==
-The primary objective of the bootcamp is the development of prototypes for
+- Susan Schrebman (Trinity College Dublin)
+
+OBJECTIVES The primary objective of the bootcamp is the development of prototypes for
 interoperable 'microservice' tools for textual scholarship and digital
 editions. Interedition's working group 3 has identified transcription and
 annotation of physical textual sources one of the pivotal scholarly tasks
@@ -33,14 +41,18 @@ development projects were identified. Non of these is adhereing to any
 machine to machine protocol or format for interchange. All results of high
 quality scholarly work on transcribing and commenting within these data
 silos are therefor locked in and hadrly (re)useable for further scholarly
-processing and analysis.Interedition wants to inspire an open source development movement around
+processing and analysis.
+
+Interedition wants to inspire an open source development movement around
 this problem of interoperabilty and invites anyone who can make a hands on
 contribution to a prototype distributed reference implementation of an
 interoperable model for text. We aim to have the participants returning to
 their local projects with a shared idea on how to approach text resource
 exchange, and GUI and back end tools to show for it. Suggested goals for the
 bootcamp are both models and proof of concept implementations for the
-following use cases:** Use Case 1 **
+following use cases:
+
+** Use Case 1 **
 ** Resource discovery & Highly granular text addressing/markup **
 A text repository hosts a set of marked-up texts, possibly organized in
 different subsets (collections). Clients access the repository via RESTful
@@ -54,7 +66,9 @@ established standards for resource discovery that usually operate on the
 level of curated metadata (e.g. OAI-PMH). Automatized dissemination of
 transcribed texts in a decentralized, loosely coupled network of
 repositories is thus facilitated in a manner comparable to the way in which
-the blogosphere functions.** Use Case 2 **
+the blogosphere functions.
+
+** Use Case 2 **
 ** Text source exchange **
 Use case: Texts can be replicated between repository installations and/or
 other datastores. The exchange includes the textual content as well as any
@@ -62,7 +76,9 @@ chosen set of markup/ annotation layers associated with the text. Markup is
 allowed to overlap arbitrarily in the repositories own model while lossless
 transformation of text and markup information into XML-based encodings
 provides for the integration with existing tool chains. Interoperability and
-data interchange is thus facilitated.** Use Case 3 **
+data interchange is thus facilitated.
+
+** Use Case 3 **
 ** Transcription & Annotation workflow **
 Texts can be marked-up with several independent annotation layers such that
 a collaborative transcription and annotation workflow becomes feasible. For
@@ -75,12 +91,18 @@ added language annotations processes the transcript further by adding
 part-of-speech tagging. Later on automatic name entity recognition might be
 applied to the tagged transcript and finally another editor is notified (via
 an Atom feed or via e-mail), that the automatically tagged transcripts is
-ready to be reviewed.FEEL CHALLENGED?
-Come and code!BURSARIES
+ready to be reviewed.
+
+FEEL CHALLENGED?
+Come and code!
+
+BURSARIES
 COST Action IS0704 'Interedition' is offering bursaries to early stage
 researchers (< Ph.D. + 10 years) and developers that want to join the
 bootcamp. The bursaries will consist of an 100 Euro per diem allowance and
-will cover travel expenses fully (limitations apply).HOW TO APPLY
+will cover travel expenses fully (limitations apply).
+
+HOW TO APPLY
 If you are interested in participating in the bootcamp, please send an
 email to joris.van.zundert-AT-huygens.knaw.nl by **25 September
 2011**. You don't need an intricate motivation, but please state your
@@ -90,7 +112,9 @@ humanities. If you partook in an earlier Interedition bootcamp, you may
 refer to the motiviation you provided at the time. Please note that if you
 do join the bootcamp, some formal paperwork will be necessary to get you the
 bursary - but until now all
-participants passed that test with flying colors.PROGRAM
+participants passed that test with flying colors.
+
+PROGRAM
 Friday 7 October
  - Introduction of participants
  - Introduction the principles of microservices
@@ -109,15 +133,27 @@ Monday 11 October
  - Hacking
  - Presentation & discussion of results
  - Write up
- - DrinksADDITIONAL INFORMATION
+ - Drinks
+
+ADDITIONAL INFORMATION
 If you require more information --e.g. you want to join, but are wondering
 about specific requirements, different arrangements, etc. etc.-- please
 don't hesitate to use the email address provided above. Or join us on IRC at
-#interedition.--
+#interedition.
+
+--
 Joris van Zundert
 Chair COST Action IS0704 'Interedition'
 Researcher & Developer Digital and Computational Humanities
-Huygens ING - Royal Netherlands Academy of Arts and SciencesContact information at http://www.huygens.knaw.nl/en/vanzundert/Apologies for possible cross posting!PT09IENBTEwgRk9SIFBBUlRJQ0lQQVRJT04gPT09PGJyPgpJbnRlcmVkaXRpb24gOHRoIEJvb3Rj
+Huygens ING - Royal Netherlands Academy of Arts and Sciences
+
+Contact information at http://www.huygens.knaw.nl/en/vanzundert/
+
+Apologies for possible cross posting!
+
+
+
+PT09IENBTEwgRk9SIFBBUlRJQ0lQQVRJT04gPT09PGJyPgpJbnRlcmVkaXRpb24gOHRoIEJvb3Rj
 YW1wOiA3IE9jdG9iZXIgLSAxMSBPY3RvYmVyIDIwMTE8YnI+Ci0tLS0tLS0tLS0tLS0tLS0tLS0t
 LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tPGJyPgo8YnI+Cj09IEFCT1VUIElOVEVS
 RURJVElPTiA9PTxicj4KSW50ZXJlZGl0aW9uICg8YSBocmVmPSJodHRwOi8vd3d3LmludGVyZWRp
@@ -259,4 +295,4 @@ bCBIdW1hbml0aWVzPGJyPgpIdXlnZW5zIElORyAtIFJveWFsIE5ldGhlcmxhbmRzIEFjYWRlbXkg
 b2YgQXJ0cyBhbmQgU2NpZW5jZXM8YnI+Cjxicj4KQ29udGFjdCBpbmZvcm1hdGlvbiBhdCA8YSBo
 cmVmPSJodHRwOi8vd3d3Lmh1eWdlbnMua25hdy5ubC9lbi92YW56dW5kZXJ0LyI+aHR0cDovL3d3
 dy5odXlnZW5zLmtuYXcubmwvZW4vdmFuenVuZGVydC88L2E+PGJyPgo8YnI+CkFwb2xvZ2llcyBm
-b3IgcG9zc2libGUgY3Jvc3MgcG9zdGluZyE8YnI+PGJyPgo=
+b3IgcG9zc2libGUgY3Jvc3MgcG9zdGluZyE8YnI+PGJyPgo

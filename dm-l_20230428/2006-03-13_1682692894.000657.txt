@@ -1,5 +1,13 @@
-Subject: [dm-l] [Fwd: PhiloLogic Maintenance Release (3.002)]This is quite an interesting looking project. Others on this list may
-find the software useful.-dUmV0dXJuLXBhdGg6IDxvd25lci10ZWktbEBsaXN0c2Vydi5icm93bi5lZHU+CkVudmVsb3BlLXRv
+Subject: [dm-l] [Fwd: PhiloLogic Maintenance Release (3.002)]
+
+This is quite an interesting looking project. Others on this list may
+find the software useful.
+
+-d
+
+
+
+UmV0dXJuLXBhdGg6IDxvd25lci10ZWktbEBsaXN0c2Vydi5icm93bi5lZHU+CkVudmVsb3BlLXRv
 OiBkYW5pZWwub2Rvbm5lbGxAVUxFVEguQ0EKRGVsaXZlcnktZGF0ZTogTW9uLCAxMyBNYXIgMjAw
 NiAxNToyMTozNiAtMDcwMApSZWNlaXZlZDogZnJvbSBiZWxsYXRyaXgudWxldGguY2EgKFsxNDIu
 NjYuMy40M106MzUxODQpIGJ5CgliaWFuY2EubmV0c3J2LnVsZXRoLmNhIHdpdGggZXNtdHAgKEV4
@@ -110,4 +118,4 @@ cDovL3BoaWxvbG9naWMudWNoaWNhZ28uZWR1L3BoaWxvMzAwMmRlbW8vbGluY29sbi5mb3JtLmh0
 bWwKQ2F2ZWF0IGVtcHRvcjogUGhpbG9Mb2dpYyB3aWxsIHByb2JhYmx5IGxvYWQgYXJiaXRyYXJ5
 IEhUTUwsIGJ1dCB0aGlzIAptYXkgbm90IGFsd2F5cyB3b3JrLCBwYXJ0aWN1bGFybHkgaWYgeW91
 IGhhdmUgdXNlIG9mIDxoWzEtTl0gdGFncyBpbiAKdW5leHBlY3RlZCBvcmRlci4gIAoKUnVzcywg
-Um9iZXJ0LCBPcmlvbiBhbmQgTWFyawpUaGUgQVJURkwgUHJvamVjdAo=
+Um9iZXJ0LCBPcmlvbiBhbmQgTWFyawpUaGUgQVJURkwgUHJvamVjdAo

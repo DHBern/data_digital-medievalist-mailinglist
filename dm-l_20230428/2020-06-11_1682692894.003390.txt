@@ -1,27 +1,36 @@
-Subject: [dm-l] Summa contra Gentiles treebank now completeIt=E2=80=99s with great pride that we announce that the treebank annotation o=
-f the Summa contra Gentiles of Thomas Aquinas is now complete! The result of =
-almost ten years=E2=80=99 worth of manual work, the Summa contra Gentiles bri=
-ngs the total number of annotated nodes in the Index Thomisticus Treebank to =
-460,000, corresponding to over 26,000 sentences.The ConLL and PML files are available for download from the Index Thomisticus=
- Treebank website here: https://itreebank.marginalia.it/view/download.phpFor the full announcement, see: https://lila-erc.eu/summa-contra-gentiles-tre=
-ebank-now-complete/=E2=80=94=E2=80=94
+Subject: [dm-l] Summa contra Gentiles treebank now complete
+
+It’s with great pride that we announce that the treebank annotation of the Summa contra Gentiles of Thomas Aquinas is now complete! The result of almost ten years’ worth of manual work, the Summa contra Gentiles brings the total number of annotated nodes in the Index Thomisticus Treebank to 460,000, corresponding to over 26,000 sentences.
+
+The ConLL and PML files are available for download from the Index Thomisticus Treebank website here: https://itreebank.marginalia.it/view/download.php
+
+For the full announcement, see: https://lila-erc.eu/summa-contra-gentiles-treebank-now-complete/
+
+——
 Dr Greta H. Franzini
 BA (Hons), MA, CELTA, Ph.D
 Postdoctoral Researcher
 LiLa: Linking Latin [ERC n. 769994]: https://lila-erc.eu
-_redacted_(a)unicatt=
-.it> | http://gretafranzini.com/
-Institutional page: http://docenti.unicatt.it/eng/greta_franzini/CIRCSE Research Centre
-Facolt=C3=A0 di Scienze Linguistiche e Letterature Straniere
+_redacted_(a)unicatt.it> | http://gretafranzini.com/
+Institutional page: http://docenti.unicatt.it/eng/greta_franzini/
+
+CIRCSE Research Centre
+Facoltà di Scienze Linguistiche e Letterature Straniere
 Franciscanum Building, 2nd Floor, room 209
-Universit=C3=A0 Cattolica del Sacro Cuore
+Università Cattolica del Sacro Cuore
 Largo Gemelli 1,
-20123 Milan, Italy_redacted_(a)home-life.hub]
---===============4713669851846776701==
-Content-Type: text/html
+20123 Milan, Italy
+
+_redacted_(a)home-life.hub]
+
+
+
+--4713669851846776701Content-Type: text/html
 Content-Transfer-Encoding: base64
-Content-Disposition: attachment; filename="attachment.html"
-MIME-Version: 1.0PGh0bWw+DQo8aGVhZD4NCjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSIgY29udGVudD0i
+Content-Disposition: attachment; filename�ttachment.html"
+MIME-Version: 1.0
+
+PGh0bWw+DQo8aGVhZD4NCjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSIgY29udGVudD0i
 dGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04Ij4NCjwvaGVhZD4NCjxib2R5IHN0eWxlPSJ3b3JkLXdy
 YXA6IGJyZWFrLXdvcmQ7IC13ZWJraXQtbmJzcC1tb2RlOiBzcGFjZTsgbGluZS1icmVhazogYWZ0
 ZXItd2hpdGUtc3BhY2U7IiBjbGFzcz0iIj4NCjxkaXYgc3R5bGU9ImJvcmRlcjpzb2xpZCAjNjQ2
@@ -123,7 +132,9 @@ LXN0cm9rZS13aWR0aDogMHB4OyB0ZXh0LWRlY29yYXRpb246IG5vbmU7Ij48L3NwYW4+PHNwYW4+
 PGltZyBhcHBsZS1pbmxpbmU9InllcyIgaWQ9IjBGRUVEMDQ0LUVFQ0UtNDFENS1CQUQ3LUNCMUJE
 NTc2ODU1QyIgc3JjPSJjaWQ6MDBBMDU5QkYtMUEwNC00RjQ2LTg0OTctRURCMjExMjM1REE3QGhv
 bWUtbGlmZS5odWIiIGNsYXNzPSIiPjwvc3Bhbj48L2Rpdj4NCjxiciBjbGFzcz0iIj4NCjwvZGl2
-Pg0KPC9ib2R5Pg0KPC9odG1sPg0KiVBORw0KGgoAAAANSUhEUgAAAV4AAABECAYAAADJEV1TAAABk2lDQ1BJQ0MgUHJvZmlsZQAAKJF9
+Pg0KPC9ib2R5Pg0KPC9odG1sPg0K
+
+iVBORw0KGgoAAAANSUhEUgAAAV4AAABECAYAAADJEV1TAAABk2lDQ1BJQ0MgUHJvZmlsZQAAKJF9
 kLtLw1AUxr+mlYpUHBRxcAhYdWmltIujbYVSqFBqBasOpkn6gCYNaYoKjoKLQ8HBx+JrcHHWtYOr
 ICiKIE7+Bb4WKfHcJtKq2AOX8+O755x77gdwW4KmlVwBQFENPRWL8POZBd79DBcG4cE4QoJY0cLJ
 ZAIU3/lnfNzBwfKNn836e98xeiW5IgIOnnhK1HSDeJl4ZMXQGG8QD+i0FPEu47zFZ4yzFtebNelU
@@ -540,4 +551,5 @@ UsdpxxhWy7H/7nl1RNF7BjPpD19cZupdVjSfuwwQ/euWQcBGuOhjGEg+IYc2HLBJ/+my/ghA080k
 gkg244WRDjbkhUHJ03gNt7UlWGkr815qYuIMsEgITRFpgHfXYHquua7aMdV+s3v0JYWtYAVfYN7z
 ouWQPr0nfvP1pGEep2eFGNZGxWUsO39e7HX937FeQSOgEchjBNY849aq9poTnstGibBd0ub/Pnth
 zwkY4HKGOo4Xv2H0RZazA/xwmN8mddATFLqs66IR0AiIxtJhGQ34p6jcp4zJqNZ4N+Kvwsd6sB3a
-3+YxagqdIEzCSpC8gAjPLW1pfWVP3aIR0Aj8BZ+WJukcK+4FAAAAAElFTkSuQmCC
+3+YxagqdIEzCSpC8gAjPLW1pfWVP3aIR0Aj8BZ+WJukcK+4FAAAAAElFTkSuQmCC
+
